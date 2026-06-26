@@ -1,0 +1,212 @@
+{% extends "base.html" %}
+
+{% block title %}Newsletter IA Bolsa — {{ data }}{% endblock %}
+
+{% block content %}
+<section class="hero-section">
+    <div class="container">
+<section class="hero-section">
+    <div class="container">
+        <div class="source-badge" style="margin-bottom:1rem;display:inline-flex;align-items:center;gap:0.5rem;padding:0.4rem 0.8rem;border-radius:6px;font-size:0.75rem;font-weight:600;letter-spacing:0.05em;text-transform:uppercase;">
+            {% if fonte_dados == "REAL" %}
+            <span style="color:#00ff88;">●</span>
+            <span style="color:#00ff88;">Dados Reais — Tavily + Groq</span>
+            {% elif fonte_dados == "FAKE" %}
+            <span style="color:#ffaa00;">●</span>
+            <span style="color:#ffaa00;">Dados de Demonstracao — Rode o pipeline</span>
+            {% else %}
+            <span style="color:#ff4444;">●</span>
+            <span style="color:#ff4444;">Sem Dados — Pipeline nao executado</span>
+            {% endif %}
+        </div>
+        <div class="hero-badge">
+            <span class="pulse-dot"></span>
+            <span>EDICAO DE {{ data }}</span>
+        </div>
+        <div class="hero-badge">
+            <span class="pulse-dot"></span>
+            <span>EDICAO DE {{ data }}</span>
+        </div>
+        <h1 class="hero-title">
+            Inteligencia Artificial<br>
+            <span class="gradient-text">& Mercado Financeiro</span>
+        </h1>
+        <p class="hero-subtitle">
+            As 10 noticias mais relevantes sobre IA, semicondutores, 
+            data centers e movimentacoes de mercado.
+        </p>
+        <div class="hero-stats">
+            <div class="stat-card">
+                <span class="stat-value" id="stat-total">{{ total }}</span>
+                <span class="stat-label">Noticias</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-value" id="stat-bullish">{{ bullish }}</span>
+                <span class="stat-label">Bullish</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-value" id="stat-bearish">{{ bearish }}</span>
+                <span class="stat-label">Bearish</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="search-section">
+    <div class="container">
+        <div class="search-container">
+            <span class="search-icon">🔍</span>
+            <input type="text" class="search-input" id="search-input" placeholder="Buscar por empresa, tag ou palavra-chave...">
+        </div>
+        <div class="filter-bar">
+            <button class="filter-btn active" data-filter="all">Todas</button>
+            <button class="filter-btn" data-filter="bullish">🟢 Bullish</button>
+            <button class="filter-btn" data-filter="bearish">🔴 Bearish</button>
+            <button class="filter-btn" data-filter="neutral">⚪ Neutral</button>
+        </div>
+        <div class="results-count" id="results-count">Mostrando <span>{{ total }}</span> noticias</div>
+    </div>
+</section>
+
+<section class="newsletter-section">
+    <div class="container">
+        <div class="section-header">
+            <h2 class="section-title">
+                <span class="title-icon">▣</span>
+                Ultimas Noticias
+            </h2>
+            <div class="section-line"></div>
+        </div>
+        
+        <div class="news-grid" id="news-grid">
+            {% for noticia in noticias %}
+            {% set search_text = ((noticia.titulo or '') + ' ' + (noticia.resumo or '') + ' ' + (noticia.fonte or '') + ' ' + (noticia.tags or [])|join(' '))|lower|replace('"', '')|replace("'", "") %}
+            <article class="news-card" data-sentimento="{{ noticia.sentimento }}" data-search="{{ search_text }}">
+                <div class="card-glow"></div>
+                <div class="card-content">
+                    <div class="card-header">
+                        <div class="card-meta">
+                            <span class="card-source">{{ noticia.fonte }}</span>
+                            <span class="card-date">{{ noticia.data }}</span>
+                        </div>
+                        <div class="card-badges">
+                            <span class="badge sentiment-badge sentiment-{{ noticia.sentimento }}">
+                                {{ noticia.sentimento.upper() }}
+                            </span>
+                            <span class="badge score-badge">
+                                {{ noticia.score_relevancia }}
+                            </span>
+                        </div>
+                    </div>
+                    
+                    <h3 class="card-title">
+                        <a href="{{ noticia.url }}" target="_blank" rel="noopener">
+                            {{ noticia.titulo }}
+                        </a>
+                    </h3>
+                    
+                    <p class="card-summary">{{ noticia.resumo }}</p>
+                    
+                    <div class="card-footer">
+                        <div class="card-tags">
+                            {% for tag in noticia.tags %}
+                            <span class="tag">{{ tag }}</span>
+                            {% endfor %}
+                        </div>
+                        <a href="{{ noticia.url }}" target="_blank" rel="noopener" class="card-link">
+                            Ler completo →
+                        </a>
+                    </div>
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+        
+        <div class="empty-state hidden" id="empty-state">
+            <div class="empty-state-icon">🔍</div>
+            <h3>Nenhuma noticia encontrada</h3>
+            <p>Tente outra palavra-chave ou remova os filtros.</p>
+        </div>
+    </div>
+</section>
+
+<section class="archive-section">
+    <div class="container">
+        <div class="section-header">
+            <h2 class="section-title">
+                <span class="title-icon">◈</span>
+                Arquivo
+            </h2>
+            <div class="section-line"></div>
+        </div>
+        <p class="archive-hint">Edicoes anteriores serao listadas aqui automaticamente.</p>
+    </div>
+</section>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+(function() {
+    const searchInput = document.getElementById('search-input');
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    const newsGrid = document.getElementById('news-grid');
+    const cards = newsGrid.querySelectorAll('.news-card');
+    const emptyState = document.getElementById('empty-state');
+    const resultsCount = document.getElementById('results-count');
+    const statTotal = document.getElementById('stat-total');
+    const statBullish = document.getElementById('stat-bullish');
+    const statBearish = document.getElementById('stat-bearish');
+    
+    let currentFilter = 'all';
+    let currentSearch = '';
+    
+    function updateDisplay() {
+        let visible = 0;
+        let bullish = 0;
+        let bearish = 0;
+        
+        cards.forEach(card => {
+            const sentimento = card.dataset.sentimento;
+            const searchText = card.dataset.search;
+            
+            const matchFilter = currentFilter === 'all' || sentimento === currentFilter;
+            const matchSearch = currentSearch === '' || searchText.includes(currentSearch.toLowerCase());
+            
+            if (matchFilter && matchSearch) {
+                card.classList.remove('hidden');
+                visible++;
+                if (sentimento === 'bullish') bullish++;
+                if (sentimento === 'bearish') bearish++;
+            } else {
+                card.classList.add('hidden');
+            }
+        });
+        
+        resultsCount.innerHTML = `Mostrando <span>${visible}</span> de ${cards.length} noticias`;
+        statTotal.textContent = visible;
+        statBullish.textContent = bullish;
+        statBearish.textContent = bearish;
+        
+        if (visible === 0) {
+            emptyState.classList.remove('hidden');
+        } else {
+            emptyState.classList.add('hidden');
+        }
+    }
+    
+    searchInput.addEventListener('input', (e) => {
+        currentSearch = e.target.value.trim();
+        updateDisplay();
+    });
+    
+    filterBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            filterBtns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentFilter = btn.dataset.filter;
+            updateDisplay();
+        });
+    });
+})();
+</script>
+{% endblock %}

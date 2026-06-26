@@ -1,0 +1,1 @@
+# Pacote de servicos. Logica de negocio desacoplada do framework web.

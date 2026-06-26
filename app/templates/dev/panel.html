@@ -1,0 +1,106 @@
+{% extends "base.html" %}
+
+{% block title %}Dev Panel — IA Bolsa{% endblock %}
+
+{% block content %}
+<section class="hero-section hero-compact">
+    <div class="container">
+        <div class="hero-badge">
+            <span class="pulse-dot"></span>
+            <span>DEV MODE</span>
+        </div>
+        <h1 class="hero-title">Painel de Desenvolvimento</h1>
+    </div>
+</section>
+
+<section class="panel-section">
+    <div class="container">
+        <div class="panel-grid">
+            <div class="panel-card">
+                <div class="panel-card-header">
+                    <span class="panel-icon">◈</span>
+                    <h3>Status das APIs</h3>
+                </div>
+                <div class="panel-card-body">
+                    <div class="status-row">
+                        <span class="status-label">Tavily</span>
+                        <span class="status-value {% if config.tavily_api_key %}status-ok{% else %}status-error{% endif %}">
+                            {{ "OK" if config.tavily_api_key else "Nao configurado" }}
+                        </span>
+                    </div>
+                    <div class="status-row">
+                        <span class="status-label">Groq</span>
+                        <span class="status-value {% if config.groq_api_key %}status-ok{% else %}status-error{% endif %}">
+                            {{ "OK" if config.groq_api_key else "Nao configurado" }}
+                        </span>
+                    </div>
+                    <div class="status-row">
+                        <span class="status-label">Langfuse</span>
+                        <span class="status-value {% if config.langfuse_secret_key %}status-ok{% else %}status-warn{% endif %}">
+                            {{ "OK" if config.langfuse_secret_key else "Opcional" }}
+                        </span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="panel-card">
+                <div class="panel-card-header">
+                    <span class="panel-icon">▣</span>
+                    <h3>Estatisticas</h3>
+                </div>
+                <div class="panel-card-body">
+                    <div class="status-row">
+                        <span class="status-label">Arquivos JSON</span>
+                        <span class="status-value">{{ stats.total_json }}</span>
+                    </div>
+                    <div class="status-row">
+                        <span class="status-label">Arquivos Markdown</span>
+                        <span class="status-value">{{ stats.total_md }}</span>
+                    </div>
+                    <div class="status-row">
+                        <span class="status-label">Ultimo JSON</span>
+                        <span class="status-value mono">{{ stats.ultimo_json }}</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="panel-card">
+                <div class="panel-card-header">
+                    <span class="panel-icon">◉</span>
+                    <h3>Configuracoes</h3>
+                </div>
+                <div class="panel-card-body">
+                    <div class="status-row">
+                        <span class="status-label">Max Noticias</span>
+                        <span class="status-value">{{ config.max_noticias_por_execucao }}</span>
+                    </div>
+                    <div class="status-row">
+                        <span class="status-label">Modelo Groq</span>
+                        <span class="status-value mono">{{ config.groq_model }}</span>
+                    </div>
+                    <div class="status-row">
+                        <span class="status-label">Ambiente</span>
+                        <span class="status-value">{{ config.flask_env }}</span>
+                    </div>
+                    <div class="status-row">
+                        <span class="status-label">Diretorio Dados</span>
+                        <span class="status-value mono small">{{ stats.diretorio_dados }}</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="panel-card panel-actions">
+                <div class="panel-card-header">
+                    <span class="panel-icon">▶</span>
+                    <h3>Acoes</h3>
+                </div>
+                <div class="panel-card-body">
+                    <a href="/api/health" target="_blank" class="panel-btn">Testar Health</a>
+                    <a href="/api/config-check" target="_blank" class="panel-btn">Verificar Config</a>
+                    <a href="/" class="panel-btn panel-btn-primary">Ver Newsletter</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

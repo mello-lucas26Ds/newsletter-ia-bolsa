@@ -1,0 +1,42 @@
+# AMBIENTE E CREDENCIAIS — NUNCA COMMITAR
+.env
+.env.local
+*.pem
+*.key
+secrets/
+
+# DADOS BRUTOS (nao commitar — gerados pelo pipeline)
+data/news_processed*.json
+data/newsletter_*.md
+!data/url_history.json  # MANTEM no Git (deduplicacao entre execucoes)
+!data/.gitkeep
+
+# CACHE PYTHON
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDES E SISTEMA
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# LOGS E TEMP
+*.log
+*.tmp
+*.bak
+
+# CONFIG LOCAL (opcional — se quiser versionar, remova esta linha)
+# newsletter_config.json

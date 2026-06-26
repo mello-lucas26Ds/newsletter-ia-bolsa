@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block title %}Newsletter — {{ data }}{% endblock %}
+
+{% block content %}
+<section class="hero-section hero-compact">
+    <div class="container">
+        <div class="hero-badge">
+            <span class="pulse-dot"></span>
+            <span>EDICAO HISTORICA</span>
+        </div>
+        <h1 class="hero-title">Newsletter de {{ data }}</h1>
+        <a href="/" class="back-link">← Voltar para edicao atual</a>
+    </div>
+</section>
+
+<section class="newsletter-section">
+    <div class="container">
+        {% if conteudo_md %}
+            <div class="markdown-content">
+                {{ conteudo_md | safe }}
+            </div>
+        {% else %}
+            <div class="news-grid">
+                {% for noticia in noticias %}
+                <article class="news-card" data-sentimento="{{ noticia.sentimento }}">
+                    <div class="card-glow"></div>
+                    <div class="card-content">
+                        <div class="card-header">
+                            <div class="card-meta">
+                                <span class="card-source">{{ noticia.fonte }}</span>
+                                <span class="card-date">{{ noticia.data }}</span>
+                            </div>
+                            <div class="card-badges">
+                                <span class="badge sentiment-badge sentiment-{{ noticia.sentimento }}">
+                                    {{ noticia.sentimento.upper() }}
+                                </span>
+                                <span class="badge score-badge">{{ noticia.score_relevancia }}</span>
+                            </div>
+                        </div>
+                        <h3 class="card-title">
+                            <a href="{{ noticia.url }}" target="_blank">{{ noticia.titulo }}</a>
+                        </h3>
+                        <p class="card-summary">{{ noticia.resumo }}</p>
+                        <div class="card-footer">
+                            <div class="card-tags">
+                                {% for tag in noticia.tags %}<span class="tag">{{ tag }}</span>{% endfor %}
+                            </div>
+                            <a href="{{ noticia.url }}" target="_blank" class="card-link">Ler completo →</a>
+                        </div>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+        {% endif %}
+    </div>
+</section>
+{% endblock %}
