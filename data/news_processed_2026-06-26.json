@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-06-26",
+    "total_noticias": 10,
+    "gerado_em": "2026-06-26T12:12:20.612406"
+  },
+  "noticias": [
+    {
+      "titulo": "Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally - Reuters",
+      "url": "https://www.reuters.com/business/micron-qualcomm-forecasts-ignite-400-billion-ai-chip-stock-rally-2026-06-24/",
+      "fonte": "reuters.com",
+      "data": "2026-06-24",
+      "resumo": "A Micron e a Qualcomm fizeram previsões otimistas, levando a um aumento de $400 bilhões no valor de mercado das ações de empresas de chips relacionadas à inteligência artificial (IA). A Micron previu lucros acima das estimativas dos analistas, enquanto a Qualcomm espera $15 bilhões em vendas de sua divisão de centros de dados até 2029. As ações de várias empresas de chips, incluindo Western Digital, Arm Holdings e Applied Materials, também aumentaram significativamente.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 83
+    },
+    {
+      "titulo": "US stock futures fall; tech eyes more losses amid chip rout, OpenAI IPO delay - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-wall-st-set-for-weekly-losses-after-tech-rout-4761945",
+      "fonte": "investing.com",
+      "data": "2026-06-26",
+      "resumo": "As ações futuras dos EUA caíram, com a tecnologia olhando para mais perdas devido à rota dos chips e a atraso do IPO da OpenAI. A Micron Technology Inc surgiu como uma exceção, subindo quase 16% e impulsionando o índice de semicondutores da Filadélfia em 3,6%. A inflação nos EUA ultrapassou a marca de 4% pela primeira vez em três anos, exacerbando a retirada de ações de crescimento.",
+      "sentimento": "bearish",
+      "tags": [
+        "[AI",
+        "Semiconductor",
+        "NASDAQ]"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 77
+    },
+    {
+      "titulo": "This new research challenges nearly every big AI narrative of 2026 - Business Insider",
+      "url": "https://www.businessinsider.com/enterprise-ai-spending-grows-openai-leads-rbc-reveals-2026-6",
+      "fonte": "businessinsider.com",
+      "data": "2026-06-26",
+      "resumo": "Uma pesquisa recente da RBC Capital Markets descobriu que muitas das narrativas principais sobre IA em 2026 estão sendo desafiadas. A pesquisa encontrou que 91% das empresas estão criando orçamentos de IA completamente novos, em vez de apenas reorganizar os gastos existentes. Além disso, a pesquisa identificou que a indústria de semicondutores está se tornando cada vez mais importante, com a Intel sendo uma empresa crucial nesse setor.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 77
+    },
+    {
+      "titulo": "OpenAI may delay IPO until next year: NYT - Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW262326062026RP1/",
+      "fonte": "reuters.com",
+      "data": "2026-06-26",
+      "resumo": "A OpenAI pode adiar sua oferta pública inicial (IPO) até o próximo ano, de acordo com a NYT. A notícia não fornece detalhes sobre a razão do atraso, mas é um desenvolvimento importante para a empresa de inteligência artificial (IA). A OpenAI é conhecida por suas tecnologias de IA avançadas, incluindo o modelo de linguagem GPT-3.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 92
+    },
+    {
+      "titulo": "Korean chip shares surge on Micron's blowout earnings, SK Hynix's US listing plan - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korean-chip-shares-rally-after-microns-upbeat-earnings-2026-06-25/",
+      "fonte": "reuters.com",
+      "data": "2026-06-25",
+      "resumo": "As ações de fábricas de chips sul-coreanas, como a SK Hynix, subiram após o anúncio de resultados excepcionais da Micron Technology, reacendendo a corrida por chips relacionados à inteligência artificial. A Micron relatou um lucro e uma receita trimestrais muito acima das expectativas, e seus clientes comprometeram US$ 22 bilhões com a compra de chips de memória. Isso levou a uma reação imediata na Europa, onde a ASML, a maior empresa do continente, subiu mais de 4% após dois dias de perdas pesadas.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 92
+    },
+    {
+      "titulo": "Micron and Qualcomm Lift Chipmakers Amid Rapid AI Growth - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/micron-and-qualcomm-lift-chipmakers-amid-rapid-ai-growth",
+      "fonte": "bloomberg.com",
+      "data": "2026-06-25",
+      "resumo": "As ações de fabricantes de chips, como Micron e Qualcomm, subiram significativamente após a divulgação de resultados que superaram as estimativas de Wall Street. A forte demanda por componentes de inteligência artificial (IA) está impulsionando o crescimento das receitas dessas empresas. A indústria de semicondutores está em alta, com o índice da Philadelphia Stock Exchange Semiconductor subindo 90% em 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "Former Infosys chief has a new startup that wants to challenge the IT services world - TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "fonte": "techcrunch.com",
+      "data": "2026-06-24",
+      "resumo": "O ex-CEO da Infosys, Vishal Sikka, lançou uma nova startup chamada Hang Ten Systems, que busca desafiar o mercado de serviços de TI com a ajuda da inteligência artificial. A startup já tem clientes e tem recebido investimentos de Mayfield e Aramco Ventures. A Hang Ten Systems ajuda as empresas a construir, modificar e operar software usando desenvolvimento e automação impulsionados pela IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "IT Services",
+        "Startups",
+        "Infosys"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster - TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "fonte": "techcrunch.com",
+      "data": "2026-06-25",
+      "resumo": "A Netris levantou $15 milhões em série A da a16z para ajudar as neoclouds de IA a ficarem prontas mais rapidamente. A empresa visa resolver problemas de configuração e automação de data centers para pequenas empresas de neocloud, que não têm recursos para contratar engenheiros ou desenvolver soluções de automação. Com a ajuda da a16z, a Netris pretende acelerar a implementação de data centers para serviços de computação em nuvem e treinamento de IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Center",
+        "Cloud Computing"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 85
+    },
+    {
+      "titulo": "Nikkei's record rally shifts gears as investors chase next AI darlings - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/nikkeis-record-rally-shifts-gears-investors-chase-next-ai-darlings-2026-06-26/",
+      "fonte": "reuters.com",
+      "data": "2026-06-26",
+      "resumo": "A bolsa japonesa, Nikkei, alcançou um novo recorde, mas os investidores estão agora procurando por novos \"darlings\" da IA. A terceira onda da corrida ao AI está focada em componentes e infraestrutura de energia essenciais para os centros de dados. Empresas como Murata Manufacturing e Taiyo Yuden, líderes na produção de capacitores cerâmicos multicamadas, estão se destacando como motores do avanço do índice.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Japão"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "Qualcomm to buy AI startup Modular for $4 billion in AI software push - Reuters",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "fonte": "reuters.com",
+      "data": "2026-06-24",
+      "resumo": "A Qualcomm anunciou a compra da startup de IA Modular por cerca de $4 bilhões, em uma transação em ações que dará acesso ao software que roda modelos de IA em chips sem a necessidade de escrever código para cada processador. A Modular é uma plataforma de software neutra para computação de IA, suportando chips de várias marcas, incluindo Nvidia, AMD e outras.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "Qualcomm"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    }
+  ]
+}
