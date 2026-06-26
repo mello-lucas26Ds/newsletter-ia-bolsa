@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-06-25",
+    "total_noticias": 5,
+    "gerado_em": "2026-06-25T19:32:52.408020"
+  },
+  "noticias": [
+    {
+      "titulo": "Data Center REIT ETFs: Overlooked Heroes of AI Boom",
+      "url": "https://finance.yahoo.com/news/data-center-reit-etfs-overlooked-190000894.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-06-25T19:32:40.334840",
+      "resumo": "O aumento da demanda por REITs de centros de dados nos últimos anos está relacionado ao crescimento rápido da computação em nuvem, inteligência artificial e dependência de infraestrutura digital. A probabilidade de corte de juros do Fed este mês é um fator positivo para o setor.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "REITs",
+        "Data Center",
+        "ETF"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 57
+    },
+    {
+      "titulo": "As Tech Stocks and AI Earnings Drive Market Momentum, MoneyFlare Unveils AI Stock Trading Bot for Faster Signal-Based Trading | Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/as-tech-stocks-and-ai-earnings-drive-market-momentum-moneyflare-unveils-ai-stock-trading-bot-for-faster-signal-based-trading-1036184686",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-06-25T19:32:40.334840",
+      "resumo": "A MoneyFlare lançou uma ferramenta de trading de ações baseada em inteligência artificial, que visa ajudar os usuários a rastrear mudanças no mercado de forma mais eficiente e estruturada. A ferramenta foi lançada em um momento em que as ações de tecnologia e os lucros das empresas relacionadas à inteligência artificial estão atraindo a atenção do mercado. As empresas de tecnologia, como a Nvidia, têm se tornado referências importantes para os investidores que seguem as tendências de ações de tecnologia e a sentimentos do mercado.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 96
+    },
+    {
+      "titulo": "2 Data Center REITs That Look Good in Any Portfolio - Investing.com",
+      "url": "https://www.investing.com/analysis/2-data-center-reits-that-look-good-in-any-portfolio-200666646",
+      "fonte": "investing.com",
+      "data": "2026-06-25T19:32:40.334840",
+      "resumo": "O artigo destaca duas REITs de data centers, Equinix e Digital Realty Trust, como opções atraentes para investidores. Essas empresas oferecem exposição a setores de propriedade que podem ser difíceis de acessar para investidores individuais. Elas também ajudam a suavizar os retornos em portfólios dominados por ações individuais e tecnologia, enquanto ainda oferecem upside ligado ao crescimento econômico.",
+      "sentimento": "bullish",
+      "tags": [
+        "REIT",
+        "Data Center",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "AI Drives Stock Market Higher Despite Uneven Growth | Investing.com",
+      "url": "https://www.investing.com/analysis/ai-drives-stock-market-higher-despite-uneven-growth-200681303",
+      "fonte": "investing.com",
+      "data": "2026-06-25T19:32:40.334840",
+      "resumo": "A indústria de processamento de informações e investimentos em propriedade intelectual continuam a crescer, impulsionados pela tecnologia de inteligência artificial. Embora o crescimento seja desigual, a economia está se expandindo, com o setor de tecnologia liderando as melhorias. A fixação do mercado na IA está levando a uma evolução na composição dos \"vencedores\", com novos entrantes surgindo na corrida.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-debate-gets-real-130007767.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-06-25T19:32:40.334840",
+      "resumo": "O mercado de chips está experimentando um aumento histórico, com empresas como Micron Technology, SK Hynix e Samsung Electronics registrando ganhos significativos. A demanda por chips de alta banda para centros de dados de IA está impulsionando os preços. No entanto, a utilização de mais dívidas para financiar a expansão levanta questões sobre a durabilidade do boom.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 66
+    }
+  ]
+}

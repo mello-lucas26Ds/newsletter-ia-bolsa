@@ -45,6 +45,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f data/url_history.json index.html static/ || true
+          git add -f data/ index.html static/ || true
           git diff --cached --quiet || git commit -m "update: newsletter $(date +%Y-%m-%d) [bot]"
           git push || true

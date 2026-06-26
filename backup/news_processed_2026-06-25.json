@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-06-25",
+    "total_noticias": 10,
+    "gerado_em": "2026-06-25T23:24:46.386954"
+  },
+  "noticias": [
+    {
+      "titulo": "Micron Earnings Are the Next Big Test for the AI Trade - Business Insider",
+      "url": "https://www.businessinsider.com/micron-earnings-mu-stock-memory-chips-stocks-ai-trade-2026-6",
+      "fonte": "businessinsider.com",
+      "data": "2026-06-24",
+      "resumo": "A Micron está prestes a divulgar seus resultados financeiros, o que pode ser um teste importante para a tendência de investimentos em inteligência artificial (IA). A empresa é esperada a apresentar uma receita de US$ 35,63 bilhões e lucro por ação de US$ 20,49, de acordo com estimativas de consenso da Bloomberg. A divulgação desses resultados pode servir como um ponto de inflexão para a narrativa da IA, seja em uma direção ou outra.",
+      "sentimento": "neutral",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "Micron"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 157
+    },
+    {
+      "titulo": "Nasdaq futures jump 2% as Micron, Qualcomm forecasts relieve investors - Reuters",
+      "url": "https://www.reuters.com/business/nasdaq-futures-jump-2-micron-qualcomm-forecasts-relieve-investors-2026-06-25/",
+      "fonte": "reuters.com",
+      "data": "2026-06-25",
+      "resumo": "As futuras do Nasdaq subiram 2% após previsões otimistas de Micron e Qualcomm, aliviando preocupações sobre a IA. As empresas de memória de chips também experimentaram um aumento significativo, com Micron e Qualcomm anunciando demanda robusta para infraestrutura de IA. A expectativa de dados de inflação PCE também está aguardada.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 59
+    },
+    {
+      "titulo": "Asian stocks surge as Micron earnings ease AI fears - Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-06-25/",
+      "fonte": "reuters.com",
+      "data": "2026-06-25",
+      "resumo": "Ações asiáticas registram aumento significativo após o anúncio de lucros surpreendentes das empresas de chips Micron e Qualcomm, aliviando preocupações sobre o mercado de inteligência artificial (IA). As empresas anunciaram compromissos de compra de $22 bilhões para chips de memória e $15 bilhões em vendas para negócios de centros de dados até 2029. Isso levou a uma melhoria no clima de investimento, com os mercados de tecnologia em Japão e Coreia do Sul registrando aumentos significativos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 85
+    },
+    {
+      "titulo": "Tech Stocks Set to Bounce After $1.3 Trillion Rout on AI Jitters - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/tech-stocks-set-to-bounce-after-1-3-trillion-rout-on-ai-jitters",
+      "fonte": "bloomberg.com",
+      "data": "2026-06-24",
+      "resumo": "A bolsa de valores dos EUA está prevista para se recuperar após uma queda de $1,3 trilhão em valor de mercado de empresas do Nasdaq 100 em dois dias, devido a preocupações com a valorização de inteligência artificial. As contratos do índice ganharam 0,6% às 4h35min de Nova York, após uma queda de 3,3% na sessão anterior. As ações de tecnologia estão sendo compradas de volta após uma queda significativa.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "NASDAQ",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "DeepSeek plans to double workforce amid $7.4 billion raise - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/deepseek-plans-to-double-workforce-amid-74-billion-raise-93CH-4761011",
+      "fonte": "investing.com",
+      "data": "2026-06-25",
+      "resumo": "A DeepSeek, uma empresa de inteligência artificial chinesa, planeja dobrar sua força de trabalho após uma grande rodada de financiamento de $7,4 bilhões. A empresa busca expandir suas operações e está trabalhando para aumentar o tamanho de todos os departamentos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "China",
+        "Financiamento"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 49
+    },
+    {
+      "titulo": "Micron And 4 AI Stocks For Data Center Growth - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4917408-micron-and-4-ai-stocks-for-data-center-growth",
+      "fonte": "seekingalpha.com",
+      "data": "2026-06-24",
+      "resumo": "A capacidade global de centros de dados pode quase duplicar até 2030, impulsionada pela demanda crescente de IA e expansão de nuvens rápidas. A Goldman Sachs espera que o gasto de hiperscalares em AI supere US$ 1 trilhão em 2027, pois as cargas de trabalho exigem mais processamento, memória, armazenamento e conectividade. A Micron pode ser um indicador de crescimento de centros de dados, com alguns dos principais beneficiários encontrados dentro do rack, incluindo fornecedores de chips, armazenamento e soluções de rede.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Center",
+        "Micron"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 92
+    },
+    {
+      "titulo": "Qualcomm goes all-in on data center infrastructure; Microsoft, Meta revealed as early customers - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4606942-qualcomm-goes-all-in-on-data-center-infrastructure-microsoft-meta-revealed-as-early-customers",
+      "fonte": "seekingalpha.com",
+      "data": "2026-06-24",
+      "resumo": "A Qualcomm anunciou um plano amplo para entrar no mercado de infraestrutura de centros de dados e inteligência artificial, com Meta e Microsoft como clientes iniciais. A ação da empresa subiu 9% após o anúncio. A Qualcomm planeja expandir sua presença no setor de centros de dados e AI, com foco em tecnologias de processamento de dados e armazenamento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Center",
+        "Qualcomm"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "The AI trade has a new bogeyman keeping it up at night - Business Insider",
+      "url": "https://www.businessinsider.com/korean-chipmaker-stock-selloff-samsung-sk-hynix-global-market-weakness-2026-6",
+      "fonte": "businessinsider.com",
+      "data": "2026-06-24",
+      "resumo": "A notícia destaca a importância dos resultados financeiros da Micron, uma empresa de chips, para o mercado de tecnologia e inteligência artificial. A empresa está prestes a divulgar seus resultados, e os investidores estão ansiosos para saber como a demanda por chips está se saindo. A perda de 13% nas ações da Micron no dia anterior sugere que os investidores já estão previsando uma decepção.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Cerebras sinks 14% as full-year margin forecast disappoints - Reuters",
+      "url": "https://www.reuters.com/business/cerebras-sinks-14-full-year-margin-forecast-disappoints-2026-06-24/",
+      "fonte": "reuters.com",
+      "data": "2026-06-24",
+      "resumo": "A Cerebras experimentou uma queda de 14% após a previsão de margem de lucro para o ano inteiro não ter atendido às expectativas. No entanto, algumas instituições de pesquisa aumentaram suas previsões de preço para a ação. Os analistas destacam que a demanda por chips da empresa está superando a oferta e que há espaço para um aumento significativo.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "The New Push to Ready Millions for AI Career Upheaval - WSJ",
+      "url": "https://www.wsj.com/lifestyle/careers/the-new-push-to-ready-millions-for-ai-career-upheaval-dfb04cc5",
+      "fonte": "wsj.com",
+      "data": "2026-06-25",
+      "resumo": "A Wall Street Journal relata que investidores estão se sentindo motivados a investir em tecnologia de espaço após o sucesso da SpaceX. Isso levou a uma corrida para investir em empresas relacionadas ao espaço, com a SpaceX agora valendo US$ 2,1 trilhões. A notícia destaca a importância de se preparar para a mudança de carreira que a inteligência artificial (IA) pode trazer.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Espaço"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 71
+    }
+  ]
+}
