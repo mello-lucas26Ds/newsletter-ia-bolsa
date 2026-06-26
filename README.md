@@ -1,6 +1,6 @@
 # Newsletter IA Bolsa
 
-🌐 **Acesse o site:** 
+🌐 **Acesse o site:** https://mello-lucas26ds.github.io/newsletter-ia-bolsa/
 
 Newsletter automatizada sobre **Inteligência Artificial e Mercado Financeiro** — atualizada 2× ao dia via GitHub Actions, com notícias acumuladas permanentemente. Nenhuma notícia se perde.
 
