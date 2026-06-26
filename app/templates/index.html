@@ -5,8 +5,6 @@
 {% block content %}
 <section class="hero-section">
     <div class="container">
-<section class="hero-section">
-    <div class="container">
         <div class="source-badge" style="margin-bottom:1rem;display:inline-flex;align-items:center;gap:0.5rem;padding:0.4rem 0.8rem;border-radius:6px;font-size:0.75rem;font-weight:600;letter-spacing:0.05em;text-transform:uppercase;">
             {% if fonte_dados == "REAL" %}
             <span style="color:#00ff88;">●</span>
@@ -23,16 +21,12 @@
             <span class="pulse-dot"></span>
             <span>EDICAO DE {{ data }}</span>
         </div>
-        <div class="hero-badge">
-            <span class="pulse-dot"></span>
-            <span>EDICAO DE {{ data }}</span>
-        </div>
         <h1 class="hero-title">
             Inteligencia Artificial<br>
             <span class="gradient-text">& Mercado Financeiro</span>
         </h1>
         <p class="hero-subtitle">
-            As 10 noticias mais relevantes sobre IA, semicondutores, 
+            As 10 noticias mais relevantes sobre IA, semicondutores,
             data centers e movimentacoes de mercado.
         </p>
         <div class="hero-stats">
@@ -64,6 +58,20 @@
             <button class="filter-btn" data-filter="bearish">🔴 Bearish</button>
             <button class="filter-btn" data-filter="neutral">⚪ Neutral</button>
         </div>
+        {% if datas_disponiveis %}
+        <div class="date-select-wrapper" style="margin-top:1rem;display:flex;align-items:center;gap:0.75rem;">
+            <span style="color:#8899aa;font-size:0.85rem;">📅 Edicao:</span>
+            <div style="position:relative;">
+                <select id="date-select" style="appearance:none;background:#0a0e1a;border:1px solid rgba(0,240,255,0.3);color:#e0e6ed;padding:0.5rem 2.5rem 0.5rem 1rem;border-radius:6px;font-size:0.85rem;cursor:pointer;min-width:140px;">
+                    <option value="all">Todas as edicoes</option>
+                    {% for d in datas_disponiveis %}
+                    <option value="{{ d }}">{{ d|replace("-", "/") }}</option>
+                    {% endfor %}
+                </select>
+                <span style="position:absolute;right:0.75rem;top:50%;transform:translateY(-50%);pointer-events:none;color:#00f0ff;font-size:0.7rem;">▼</span>
+            </div>
+        </div>
+        {% endif %}
         <div class="results-count" id="results-count">Mostrando <span>{{ total }}</span> noticias</div>
     </div>
 </section>
@@ -77,11 +85,11 @@
             </h2>
             <div class="section-line"></div>
         </div>
-        
+
         <div class="news-grid" id="news-grid">
             {% for noticia in noticias %}
             {% set search_text = ((noticia.titulo or '') + ' ' + (noticia.resumo or '') + ' ' + (noticia.fonte or '') + ' ' + (noticia.tags or [])|join(' '))|lower|replace('"', '')|replace("'", "") %}
-            <article class="news-card" data-sentimento="{{ noticia.sentimento }}" data-search="{{ search_text }}">
+            <article class="news-card" data-sentimento="{{ noticia.sentimento }}" data-search="{{ search_text }}" data-edicao="{{ noticia._edicao }}">
                 <div class="card-glow"></div>
                 <div class="card-content">
                     <div class="card-header">
@@ -98,15 +106,15 @@
                             </span>
                         </div>
                     </div>
-                    
+
                     <h3 class="card-title">
                         <a href="{{ noticia.url }}" target="_blank" rel="noopener">
                             {{ noticia.titulo }}
                         </a>
                     </h3>
-                    
+
                     <p class="card-summary">{{ noticia.resumo }}</p>
-                    
+
                     <div class="card-footer">
                         <div class="card-tags">
                             {% for tag in noticia.tags %}
@@ -121,7 +129,7 @@
             </article>
             {% endfor %}
         </div>
-        
+
         <div class="empty-state hidden" id="empty-state">
             <div class="empty-state-icon">🔍</div>
             <h3>Nenhuma noticia encontrada</h3>
@@ -139,7 +147,19 @@
             </h2>
             <div class="section-line"></div>
         </div>
+        {% if datas_disponiveis %}
+        <div class="archive-grid" style="display:flex;gap:1rem;flex-wrap:wrap;">
+            {% for d in datas_disponiveis %}
+            <a href="#" class="archive-card" data-archive-edicao="{{ d }}" style="display:block;padding:1rem 1.5rem;background:rgba(0,240,255,0.05);border:1px solid rgba(0,240,255,0.2);border-radius:8px;text-decoration:none;color:#e0e6ed;transition:all 0.3s;">
+                <div style="font-size:0.75rem;color:#00f0ff;margin-bottom:0.25rem;">EDICAO</div>
+                <div style="font-size:1.1rem;font-weight:700;">{{ d|replace("-", "/") }}</div>
+                <div style="font-size:0.75rem;color:#8899aa;margin-top:0.25rem;">{{ noticias_por_data[d]|length }} noticias</div>
+            </a>
+            {% endfor %}
+        </div>
+        {% else %}
         <p class="archive-hint">Edicoes anteriores serao listadas aqui automaticamente.</p>
+        {% endif %}
     </div>
 </section>
 {% endblock %}
@@ -149,6 +169,8 @@
 (function() {
     const searchInput = document.getElementById('search-input');
     const filterBtns = document.querySelectorAll('.filter-btn');
+    const dateSelect = document.getElementById('date-select');
+    const archiveCards = document.querySelectorAll('.archive-card');
     const newsGrid = document.getElementById('news-grid');
     const cards = newsGrid.querySelectorAll('.news-card');
     const emptyState = document.getElementById('empty-state');
@@ -156,23 +178,26 @@
     const statTotal = document.getElementById('stat-total');
     const statBullish = document.getElementById('stat-bullish');
     const statBearish = document.getElementById('stat-bearish');
-    
+
     let currentFilter = 'all';
     let currentSearch = '';
-    
+    let currentEdicao = 'all';
+
     function updateDisplay() {
         let visible = 0;
         let bullish = 0;
         let bearish = 0;
-        
+
         cards.forEach(card => {
             const sentimento = card.dataset.sentimento;
             const searchText = card.dataset.search;
-            
+            const cardEdicao = card.dataset.edicao;
+
             const matchFilter = currentFilter === 'all' || sentimento === currentFilter;
             const matchSearch = currentSearch === '' || searchText.includes(currentSearch.toLowerCase());
-            
-            if (matchFilter && matchSearch) {
+            const matchEdicao = currentEdicao === 'all' || cardEdicao === currentEdicao;
+
+            if (matchFilter && matchSearch && matchEdicao) {
                 card.classList.remove('hidden');
                 visible++;
                 if (sentimento === 'bullish') bullish++;
@@ -181,30 +206,50 @@
                 card.classList.add('hidden');
             }
         });
-        
+
         resultsCount.innerHTML = `Mostrando <span>${visible}</span> de ${cards.length} noticias`;
         statTotal.textContent = visible;
         statBullish.textContent = bullish;
         statBearish.textContent = bearish;
-        
+
         if (visible === 0) {
             emptyState.classList.remove('hidden');
         } else {
             emptyState.classList.add('hidden');
         }
     }
-    
+
     searchInput.addEventListener('input', (e) => {
         currentSearch = e.target.value.trim();
         updateDisplay();
     });
-    
+
     filterBtns.forEach(btn => {
         btn.addEventListener('click', () => {
             filterBtns.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             currentFilter = btn.dataset.filter;
             updateDisplay();
+        });
+    });
+
+    if (dateSelect) {
+        dateSelect.addEventListener('change', (e) => {
+            currentEdicao = e.target.value;
+            updateDisplay();
+        });
+    }
+
+    archiveCards.forEach(card => {
+        card.addEventListener('click', (e) => {
+            e.preventDefault();
+            const edicao = card.dataset.archiveEdicao;
+            if (dateSelect) {
+                dateSelect.value = edicao;
+            }
+            currentEdicao = edicao;
+            updateDisplay();
+            document.querySelector('.date-select-wrapper').scrollIntoView({ behavior: 'smooth' });
         });
     });
 })();
