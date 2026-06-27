@@ -2,10 +2,116 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-06-27",
-    "total_noticias": 20,
-    "gerado_em": "2026-06-27T06:28:54.295929"
+    "total_noticias": 27,
+    "gerado_em": "2026-06-27T11:27:18.703354"
   },
   "noticias": [
+    {
+      "titulo": "Why tech stocks are struggling in the 'Twilight Zone' right now - Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-today-selloff-chip-memory-stocks-tech-ai-2026-6",
+      "fonte": "businessinsider.com",
+      "data": "2026-06-26",
+      "resumo": "O setor de tecnologia está enfrentando um período de instabilidade, conhecido como \"Twilight Zone\", devido a preocupações sobre a tradução de investimentos em inteligência artificial (IA) em receitas reais. As empresas de tecnologia, como Amazon, Google, Meta e Microsoft, estão investindo cerca de $725 bilhões em capital de giro (capex) este ano, mas os planos de monetização de algumas dessas empresas ainda são incertos ou estão em estágios iniciais. Além disso, o mercado está experimentando uma \"rotação mega\" para setores cíclicos e de valor, em vez de tecnologia.",
+      "sentimento": "bearish",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 99
+    },
+    {
+      "titulo": "Why Palantir’s stock is having its worst month in years — even in the midst of an AI boom - MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-palantirs-stock-is-having-its-worst-month-in-years-even-in-the-midst-of-an-ai-boom-aad92671",
+      "fonte": "marketwatch.com",
+      "data": "2026-06-25",
+      "resumo": "A ação da Palantir está tendo seu pior mês em anos, mesmo em meio a uma explosão de investimentos em inteligência artificial. A empresa atingiu um novo baixo de 52 semanas e suas ações perderam mais de 30% desde o início de junho. A análise sugere que a selloff é resultado de uma rotação de capital para ações de semicondutores, como a Micron.",
+      "sentimento": "bearish",
+      "tags": [
+        "Palantir",
+        "AI",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "AllianceBernstein's CEO says you should be worried about an AI bubble - Business Insider",
+      "url": "https://www.businessinsider.com/ai-bubble-sp500-valuations-tech-dot-com-seth-bernstein-ceo-2026-6",
+      "fonte": "businessinsider.com",
+      "data": "2026-06-27",
+      "resumo": "O CEO da AllianceBernstein, Seth Bernstein, expressou preocupação com a possibilidade de um \"buraco\" no mercado de tecnologia de inteligência artificial (IA). Embora ele seja um defensor entusiasta da tecnologia, ele acredita que os investidores podem estar sobrevalorizando as empresas de IA. Por outro lado, Bernstein também vê o potencial da IA para causar mudanças profundas na sociedade e na forma como as empresas operam.",
+      "sentimento": "neutral",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 102
+    },
+    {
+      "titulo": "Stock market spoiler: Apple's price hikes erase Micron's post-earnings tech rally - Business Insider",
+      "url": "https://www.businessinsider.com/tech-stocks-micron-earnings-apple-price-hikes-memory-ai-chips-2026-6",
+      "fonte": "businessinsider.com",
+      "data": "2026-06-25",
+      "resumo": "A notícia informa que a Apple aumentou os preços de seus produtos, o que espantou o mercado e fez com que a alta de Micron após a divulgação de seus lucros fosse breve. Embora os lucros de Micron tenham sido \"demais\", a CEO do Futurum, Daniel Newman, afirma que a realidade do aumento do custo da memória para os consumidores se tornou muito real. A notícia também menciona outras ações de tecnologia que tiveram movimentos notáveis na sessão de quinta-feira.",
+      "sentimento": "bearish",
+      "tags": [
+        "Apple",
+        "Micron",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 113
+    },
+    {
+      "titulo": "Palantir’s Worst Meltdown Since 2021: Michael Burry’s Big Short Draws Blood - Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60113844/palantirs-worst-meltdown-since-2021-michael-burrys-big-short-draws-blood",
+      "fonte": "benzinga.com",
+      "data": "2026-06-25",
+      "resumo": "A Palantir Technologies Inc. (PLTR) está experimentando seu pior mês desde 2021, com a ação perdendo mais de um terço de seu valor em junho e atingindo novos baixos de 52 semanas. O desempenho da empresa é pior que o do S&P 500, que caiu 2,4% no mesmo período.",
+      "sentimento": "bearish",
+      "tags": [
+        "Palantir",
+        "PLTR",
+        "NASDAQ"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 58
+    },
+    {
+      "titulo": "What Huawei's Chip Strategy Reveals About Innovation Under Pressure - Forbes",
+      "url": "https://www.forbes.com/sites/markgreeven/2026/06/27/what-huaweis-chip-strategy-reveals-about-innovation-under-pressure/",
+      "fonte": "forbes.com",
+      "data": "2026-06-27",
+      "resumo": "A Huawei anunciou uma estratégia de chips que envolve a tecnologia de \"LogicFolding\", que permite dobrar e rearranjar a lógica de um chip para reduzir latência e perda de energia. Isso mostra que a empresa está desenvolvendo suas próprias soluções para superar as limitações de sua tecnologia, mesmo sem acesso a tecnologias mais avançadas. A competição em AI compute está se tornando cada vez mais intensa, com dois ecossistemas desenvolvendo em trajetórias separadas.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Huawei"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 82
+    },
+    {
+      "titulo": "AI trade is not dead, says Deepwater's Gene Munster - CNBC",
+      "url": "https://www.cnbc.com/video/2026/06/26/ai-trade-is-not-dead-says-deepwaters-gene-munster.html",
+      "fonte": "cnbc.com",
+      "data": "2026-06-26",
+      "resumo": "Gene Munster, sócio gerente da Deepwater Asset Management, afirma que o mercado de IA não está morto, apesar da volatilidade no setor tecnológico. Ele discute a situação com o time do \"Fast Money\" da CNBC.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 45
+    },
     {
       "titulo": "Nvidia Stock: The Next Dividend Aristocrat? (NASDAQ:NVDA) - Seeking Alpha",
       "url": "https://seekingalpha.com/article/4917842-nvidia-the-next-dividend-aristocrat",
