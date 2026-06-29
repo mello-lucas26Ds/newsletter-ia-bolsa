@@ -2,10 +2,131 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-06-29",
-    "total_noticias": 48,
-    "gerado_em": "2026-06-29T07:29:34.604476"
+    "total_noticias": 56,
+    "gerado_em": "2026-06-29T14:04:54.176852"
   },
   "noticias": [
+    {
+      "titulo": "11 Best Data Center Stocks to Buy Now",
+      "url": "https://finance.yahoo.com/news/11-best-data-center-stocks-213611345.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-06-29",
+      "resumo": "O artigo lista as melhores ações de centros de dados para investir agora, destacando a American Tower Corp (NYSE:AMT) e a Digital Realty Trust Inc (NYSE:DLR) como opções atraentes. A American Tower Corp tem expandido sua presença no setor de centros de dados adquirindo empresas como a Coresite, enquanto a Digital Realty Trust Inc fornece soluções de centros de dados, colocation e interconexão para empresas líderes e provedores de serviços.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Center",
+        "REIT"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 80
+    },
+    {
+      "titulo": "Data Center REIT ETFs: Overlooked Heroes of AI Boom",
+      "url": "https://finance.yahoo.com/news/data-center-reit-etfs-overlooked-190000894.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-06-29",
+      "resumo": "O mercado de REITs de centros de dados tem crescido devido à expansão da computação em nuvem, inteligência artificial e infraestrutura digital. A probabilidade de corte de juros da Federação este mês é um fator positivo para o setor. Duas ETFs, Pacer Data & Infrastructure Real Estate ETF (SRVR) e Global X Data Center & Digital Infrastructure ETF (DTCR), oferecem exposição a empresas que operam em centros de dados, torres celulares e hardware de infraestrutura digital.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "REITs",
+        "ETFs",
+        "Data Center"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 87
+    },
+    {
+      "titulo": "Best Data Center REITs: 2026 Investment Guide • Benzinga",
+      "url": "https://www.benzinga.com/money/data-center-reits",
+      "fonte": "benzinga.com",
+      "data": "2026-06-29",
+      "resumo": "O artigo destaca as melhores opções de REITs (Real Estate Investment Trusts) de centros de dados para investimento em 2026, incluindo Digital Realty Trust e Equinix. Esses REITs oferecem soluções de centros de dados seguros e escaláveis para empresas em todo o mundo. Além disso, o artigo também aborda os ETFs (Fundos Índice de Títulos) de centros de dados, que permitem diversificar o portfólio com investimentos mais acessíveis.",
+      "sentimento": "bullish",
+      "tags": [
+        "REIT",
+        "Data Center",
+        "ETF"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 78
+    },
+    {
+      "titulo": "A New Data Center Stock Is Coming To Wall Street, But Can It Soar on AI Hype?",
+      "url": "https://finance.yahoo.com/news/data-center-stock-coming-wall-155240667.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-06-29",
+      "resumo": "A empresa Fermi America está se preparando para entrar no mercado de ações como um REIT (Real Estate Investment Trust) focado em centros de dados, que estão sendo impulsionados pela demanda por inteligência artificial. No entanto, a economia da propriedade imobiliária torna improvável que os REITs de centros de dados possam oferecer o tipo de retorno esperado pelos investidores em uma jogada de infraestrutura de IA.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Data Center",
+        "REIT"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "The AI Data Center Stock Boom: How To Invest Wisely in June 2026",
+      "url": "https://www.forbes.com/sites/investor-hub/article/data-center-stocks-how-to-invest-wisely",
+      "fonte": "forbes.com",
+      "data": "2026-06-29",
+      "resumo": "A indústria de centros de dados está em alta, com investimentos em ETFs e ações de empresas que operam esses centros. No entanto, há riscos, como restrições de energia e pressão ambiental. Investidores podem considerar ações de REITs de centros de dados, como a Digital Realty Trust, ou investir em ETFs de real estate mais amplos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Center",
+        "REITs"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 66
+    },
+    {
+      "titulo": "Market Talk: 'Doubts are creeping in' to the AI trade - Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW341229062026RP1/",
+      "fonte": "reuters.com",
+      "data": "2026-06-29",
+      "resumo": "A notícia destaca a incerteza crescente no mercado de tecnologia, especialmente no setor de inteligência artificial (IA). Embora a demanda por chips de memória continue forte devido ao boom da IA, a indústria enfrenta desafios, incluindo a possibilidade de a OpenAI adiar sua oferta pública inicial (IPO) até o próximo ano. Além disso, a Volkswagen está considerando cortes de até 100.000 empregos e a fechamento de quatro plantas.",
+      "sentimento": "bearish",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "Cheaper AI is better: Soaring bills are reshaping how businesses choose models - Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/cheaper-ai-is-better-soaring-bills-are-reshaping-how-businesses-choose-models-2026-06-29/",
+      "fonte": "reuters.com",
+      "data": "2026-06-29",
+      "resumo": "A indústria de inteligência artificial está experimentando uma mudança de paradigma, com empresas optando por modelos mais baratos e abertos para suas necessidades. Isso se deve ao aumento dos custos de desenvolvimento de modelos de IA e às preocupações com a segurança. Executivos de empresas como Microsoft e Palo Alto Networks defendem a adoção de modelos menores e mais acessíveis para atender às necessidades corporativas.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Inteligência Artificial",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 118
+    },
+    {
+      "titulo": "Focus: Banks get creative and look further afield as AI-fueled debt soars - Reuters",
+      "url": "https://www.reuters.com/business/finance/banks-get-creative-look-further-afield-ai-fueled-debt-soars-2026-06-29/",
+      "fonte": "reuters.com",
+      "data": "2026-06-29",
+      "resumo": "A dívida relacionada à inteligência artificial (IA) está crescendo rapidamente, com investidores começando a questionar se o mercado pode continuar a absorver essa demanda. Os bancos estão se tornando cada vez mais criativos para encontrar novas fontes de financiamento, e a expectativa é que a emissão de dívida de investimento de grau seja superior a $2 trilhões em 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Finanças",
+        "Dívida"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 68
+    },
     {
       "titulo": "Stock Market Outlook Hinges On AI Earnings And Fed Rate Risks - Forbes",
       "url": "https://www.forbes.com/sites/bill_stone/2026/06/28/stock-market-outlook-hinges-on-ai-earnings-and-fed-rate-risks/",
