@@ -2,10 +2,101 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-06-30",
-    "total_noticias": 66,
-    "gerado_em": "2026-06-30T06:55:21.585763"
+    "total_noticias": 72,
+    "gerado_em": "2026-06-30T12:09:17.000556"
   },
   "noticias": [
+    {
+      "titulo": "Brazil unveils agricultural plan worth up to $117.9 billion - Investing.com",
+      "url": "https://www.investing.com/news/economy-news/brazil-unveils-agricultural-plan-worth-up-to-1179-billion-93CH-4767320",
+      "fonte": "investing.com",
+      "data": "2026-06-30",
+      "resumo": "O governo do Brasil anunciou um plano agrícola com um valor máximo de US$ 117,9 bilhões, visando impulsionar a produção e a exportação de alimentos no país.",
+      "sentimento": "neutral",
+      "tags": [
+        "Brasil",
+        "Agricultura",
+        "Economia"
+      ],
+      "score_relevancia": 4.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Asia stocks rise on upbeat China PMI; tech spurs bumper quarter - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-china-pmi-offsets-caution-ahead-of-us-jobs-data-4766836",
+      "fonte": "investing.com",
+      "data": "2026-06-30",
+      "resumo": "Ações asiáticas apresentam alta devido a dados positivos do PMI da China, enquanto a tecnologia impulsiona um trimestre recorde. A AI está mudando o mercado de ações, e o Investing.com oferece estratégias de investimento com base em inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 50
+    },
+    {
+      "titulo": "Post Market Wrap: June 29, 2026 - CNBC",
+      "url": "https://www.cnbc.com/video/2026/06/29/post-market-wrap-june-29-2026.html",
+      "fonte": "cnbc.com",
+      "data": "2026-06-29",
+      "resumo": "RESUMO: \nA CNBC noticiou que a Micron e a Nvidia estão sendo negociadas como se o ciclo de IA estivesse no auge, de acordo com o analista Gil Luria da D.A. Davidson. Além disso, o CEO da Applied Digital, Wes Cummins, afirmou que a indústria de IA enfrentará \"atrasos significativos\" nos próximos dois anos. A decisão do Supremo Tribunal também foi mencionada, com implicações para a economia e a política.\n\nSENTIMENTO: bearish\n\nTAGS: AI, Tecnologia, Economia\n\nSCORE: 6\n\nA notícia apresenta um sentime",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Economia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 147
+    },
+    {
+      "titulo": "2 reasons investing legend Mohamed El-Erian says the US stock market is 'out of whack' - Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-bubble-ai-valuations-technicals-mohamed-el-erian-2026-6",
+      "fonte": "businessinsider.com",
+      "data": "2026-06-30",
+      "resumo": "O economista e investidor Mohamed El-Erian alertou sobre o estado dos mercados, destacando dois fatores que o preocupam: valuações e sinais técnicos nos títulos de ações dos EUA, que estão \"desalinhados\". Ele também mencionou a volatilidade da corrida para a inteligência artificial (IA) e a possibilidade de perdas para os investidores.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 62
+    },
+    {
+      "titulo": "Crypto exchange OKX wants AI agents to hire and pay each other - TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "fonte": "techcrunch.com",
+      "data": "2026-06-30",
+      "resumo": "A exchange de criptomoedas OKX está desenvolvendo uma plataforma de mercado para que agentes de IA possam contratar e pagar uns aos outros. A empresa acredita que a plataforma pode se tornar um mercado de US$ 1 trilhão em cinco anos, impulsionado por pagamentos micropagáveis e software autônomo.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Criptomoedas",
+        "Blockchain",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 58
+    },
+    {
+      "titulo": "Digital Realty falls 4% after taking $3.5 billion stake in Blackstone's Virginia data centers - CNBC",
+      "url": "https://www.cnbc.com/2026/06/30/digital-realty-blackstone-virginia-data-center-35-billion-stake.html",
+      "fonte": "cnbc.com",
+      "data": "2026-06-30",
+      "resumo": "A Digital Realty caiu 4% após adquirir uma participação de $3,5 bilhões nos centros de dados da Blackstone na Virgínia. A empresa comprou 80% dos interesses da Blackstone em dois centros de dados de 96 megawatts em Manassas, Virgínia, e 50% dos interesses em um centro de dados de 96 megawatts em Sterling, Virgínia.",
+      "sentimento": "bearish",
+      "tags": [
+        "Data Centers",
+        "Real Estate",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 65
+    },
     {
       "titulo": "Ex-Foursquare Founder Takes On The $5 Trillion Small Business Exit Crisis - Forbes",
       "url": "https://www.forbes.com/sites/eshachhabra/2026/06/29/ex-foursquare-founder-takes-on-the-5-trillion-small-business-exit-crisis/",
