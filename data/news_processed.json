@@ -2,10 +2,102 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-01",
-    "total_noticias": 81,
-    "gerado_em": "2026-07-01T07:09:51.628982"
+    "total_noticias": 87,
+    "gerado_em": "2026-07-01T12:34:05.957758"
   },
   "noticias": [
+    {
+      "titulo": "'Get it while it's cheap': An investment firm shares its top under-the-radar AI play - Business Insider",
+      "url": "https://www.businessinsider.com/ai-stock-picks-robotics-data-centers-tech-manfacturing-rrx-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-01",
+      "resumo": "A empresa de investimentos Kerrisdale publicou um relatório destacando a Regal Rexnord como uma das suas principais aposta em inteligência artificial. A empresa é uma fabricante de automação e manufatura que tem exposição às indústrias de centros de dados e robótica. Embora o preço da ação tenha subido 63% ao longo do ano, os analistas de Kerrisdale acreditam que ela ainda é subvalorizada.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Industriais",
+        "Regal Rexnord"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it - CNBC",
+      "url": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html",
+      "fonte": "cnbc.com",
+      "data": "2026-06-30",
+      "resumo": "A Russell 2000 Index, que representa as pequenas empresas, teve o melhor primeiro semestre em 35 anos, com uma alta de mais de 21%. Isso é atribuído à expansão da infraestrutura de inteligência artificial, que está se espalhando além das maiores empresas de tecnologia para uma rede mais ampla de fornecedores. Os investidores acreditam que a recuperação das pequenas empresas possa se estender além da tecnologia, desde que os juros fiquem em cheque.",
+      "sentimento": "bullish",
+      "tags": [
+        "Small-cap",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 82
+    },
+    {
+      "titulo": "Goldman Sachs: Why It's Time to Double Down on the AI Trade - Business Insider",
+      "url": "https://www.businessinsider.com/ai-stocks-investing-ideas-bubble-valuations-ben-snider-goldman-sachs-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-01",
+      "resumo": "Goldman Sachs acredita que é hora de aumentar a aposta no setor de inteligência artificial (IA), apesar de alguns investimentos terem tido um desempenho fraco recentemente. O analista Ben Snider destaca que essas empresas estão sendo vendidas a preços baixos, com múltiplos de preço-earnings (PE) abaixo do histórico. Ele sugere investir em fundos que oferecem exposição a temas como infraestrutura de IA, semicondutores e redes de computadores.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Infraestrutura"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "Tech leads first half stock gains — but the biggest winners weren't in the U.S. - CNBC",
+      "url": "https://www.cnbc.com/2026/07/01/tech-stocks-mag-7-emerging-markets-nvidia-chip-ai.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-01",
+      "resumo": "A indústria de tecnologia foi a grande vencedora no primeiro semestre de 2026, apesar de uma queda acentuada no final de junho. No entanto, as ações de tecnologia americanas foram superadas por suas contrapartes internacionais. O índice MSCI de tecnologia de mercados emergentes foi o melhor desempenho, com um ganho de mais de 90%.",
+      "sentimento": "bullish",
+      "tags": [
+        "tecnologia",
+        "mercados emergentes",
+        "ações internacionais"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "Micron Stock Is Up 300%. Why Does It Still Trade Cheaper Than Nvidia And Broadcom? - Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/60193665/micron-stock-is-up-300-why-does-it-still-trade-cheaper-than-nvidia-and-broadcom",
+      "fonte": "benzinga.com",
+      "data": "2026-06-30",
+      "resumo": "A ação da Micron Technology Inc. (MU) subiu 300% ao longo do ano, mas ainda é considerada barata em comparação com outras empresas de tecnologia, como a Nvidia Corp. (NVDA) e a Broadcom Inc. (AVGO). A Micron ainda tem um preço de 26 vezes os lucros do ano passado e 7,5 vezes os lucros projetados para o futuro, abaixo do que as empresas de tecnologia líderes.",
+      "sentimento": "bullish",
+      "tags": [
+        "Micron",
+        "Nvidia",
+        "Broadcom",
+        "NASDAQ",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 77
+    },
+    {
+      "titulo": "UAE's MGX raises one of the biggest AI funds ever as it closes at $49 billion - CNBC",
+      "url": "https://www.cnbc.com/2026/07/01/mgx-ai-fund-uae-49-billion.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-01",
+      "resumo": "O fundo de riqueza soberana da Emirados Árabes Unidos, MGX, anunciou a fechamento de um fundo de $49 bilhões para apoiar empresas de inteligência artificial, tornando-o um dos maiores veículos de investimento focados no setor. O fundo já investiu em 14 empresas e está procurando investir em toda a pilha de tecnologia de IA, incluindo semicondutores, infraestrutura de IA e tecnologias e plataformas que habilitam a IA. MGX é um dos principais backadores de empresas de IA, incluindo OpenAI e Anthropic, e também investiu em xAI, empresa de Elon Musk.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Investimentos"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 99
+    },
     {
       "titulo": "Forget AMD And Micron — The Next Wave Of AI Winners Are The Ones Nobody Talks About - Benzinga",
       "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/60180041/forget-amd-and-micron-the-next-wave-of-ai-winners-are-the-ones-nobody-talks-about",
