@@ -51,7 +51,9 @@ app/services/pipeline.py
        ↓
 Tavily API — busca notícias em fontes globais (IA, semicondutores, data centers, mercado)
        ↓
-Groq API (llama-3.1-8b-instant) — resume, classifica sentimento e extrai tags
+LangChain Expression Language (LCEL) 
+       ↓ ─── [Sucesso] ───→ ChatGroq (Llama-3.1-8b-instant) -> Resume, extrai tags e sentimento
+       ↓ ─── [Falha/Erro] ──→ Regex Fallback (Python puro nativo e sem custos)
        ↓
 Regex fallback — se Groq falhar, usa regex para extração básica (sem custo)
        ↓
@@ -83,7 +85,7 @@ Para rodar fora do agendamento: **Actions → "Newsletter IA Bolsa" → Run work
 | ---------------------- | -------------------------------- | ------------------------------------------------------------------ |
 | **Backend / Pipeline** | **Python 3.12**                  | Orquestra busca, processamento, deduplicação, formatação e geração |
 | Busca                  | Tavily API                       | Fontes primárias                                                   |
-| Processamento IA       | Groq API                         | Inferência rápida                                                  |
+| Processamento IA       | LangChain + Groq API             | Orquestração do pipeline de IA via LCEL (prompt | llm | parser) e inferência ultra-rápida com Llama 3.1.                                                  |
 | **Orquestração**       | **Python dataclasses + pathlib** | Config imutável, caminhos robustos, código limpo                   |
 | **Testes**             | **pytest**                       | 14 testes automatizados, regressão zero                            |
 | Fallback               | Regex (Python puro)              | Sem custo                                                          |
@@ -225,6 +227,11 @@ Diferente de newsletters que sobrescrevem o conteúdo diário, o **IA Bolsa** ma
 ### Por que sentimento de mercado?
 
 Classificar notícias como Bullish/Bearish/Neutral permite que investidores filtrem rapidamente o que importa para suas estratégias — diferencial que agregadores genéricos não oferecem.
+
+### 🔗 Orquestração Resiliente com LangChain (LCEL)
+O core do processamento de linguagem natural foi construído utilizando o ecossistema **LangChain**. A arquitetura aproveita os seguintes recursos do framework:
+* **Composição via LCEL:** O pipeline de transformação (`ChatPromptTemplate | ChatGroq | StrOutputParser`) garante um fluxo de dados limpo, tipado e imutável.
+* **Fallback Estruturado:** O sistema foi desenhado para detectar falhas de importação ou de conexão com o modelo de linguagem, acionando automaticamente um motor secundário baseado em Regex nativo, garantindo custo zero e resiliência total do pipeline (Zero Downtime).
 
 ---
 
