@@ -2,10 +2,72 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-02",
-    "total_noticias": 89,
-    "gerado_em": "2026-07-02T06:39:21.129269"
+    "total_noticias": 93,
+    "gerado_em": "2026-07-02T12:09:12.951540"
   },
   "noticias": [
+    {
+      "titulo": "A CIO shares 4 tech stocks that can weather an upheaval in the AI trade - Business Insider",
+      "url": "https://www.businessinsider.com/stocks-to-buy-ai-trade-hyperscaler-spending-pullback-amzn-dlr-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-02",
+      "resumo": "A CIO compartilha 4 ações de tecnologia que podem resistir a uma turbulência no mercado de IA. Amazon tem outras linhas de negócios além da AWS, e equipes como Equinix, Digital Realty e Eaton têm diversificação e proteção de fluxos de caixa.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 53
+    },
+    {
+      "titulo": "Jim Cramer says the AI trade has shifted — and these stocks are leading now - CNBC",
+      "url": "https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html",
+      "fonte": "cnbc.com",
+      "data": "2026-06-30",
+      "resumo": "Jim Cramer afirma que a corrida da IA mudou de direção, com empresas de memória e equipamentos de rede sendo os principais ganhadores do segundo trimestre. Ele destaca que a desigualdade entre oferta e demanda de componentes críticos, como memória e equipamentos de rede, está impulsionando o crescimento das receitas e atualizações de previsões de analistas para essas empresas. Por outro lado, as empresas de tecnologia que estão investindo pesadamente em IA estão sendo penalizadas.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 84
+    },
+    {
+      "titulo": "Is Microsoft Stock Heading For $550? - Forbes",
+      "url": "https://www.forbes.com/sites/greatspeculations/2026/07/01/is-microsoft-stock-heading-for-550/",
+      "fonte": "forbes.com",
+      "data": "2026-07-01",
+      "resumo": "A Microsoft está projetada para alcançar um valor de $550, graças ao crescimento robusto de sua seção de IA, que alcançou um ritmo anual de $37 bilhões com uma expansão de 123%. Este crescimento deve impulsionar uma subida de 49% no valor da ação em três anos. No entanto, o crescimento agressivo da empresa demanda investimentos significativos, com uma previsão de $190 bilhões em despesas de capital para 2026, o que pode gerar riscos no curto prazo.",
+      "sentimento": "bullish",
+      "tags": [
+        "Microsoft",
+        "IA",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 86
+    },
+    {
+      "titulo": "Morning Call Sheet: Jobs, AI, and earnings shape the second half outlook - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/02/morning-call-sheet-jobs-ai-and-earnings-shape-the-second-half-outlook.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-02",
+      "resumo": "Analistas financeiros discutiram empregos, inflação, IA, lucros e liderança de mercado, destacando a importância de taxas de juros a longo prazo e a possível influência da Copa do Mundo no relatório de empregos de junho. Além disso, a OpenAI propôs uma participação de 5% para a administração Trump para aliviar pressão em Washington.",
+      "sentimento": "neutral",
+      "tags": [
+        "empregos",
+        "inflação",
+        "IA",
+        "lucros",
+        "mercado"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 129
+    },
     {
       "titulo": "2026 laggards shine in Wednesday's mixed stock market that kicked off the third quarter - CNBC",
       "url": "https://www.cnbc.com/2026/07/01/2026-laggards-shine-in-mixed-market-that-kicked-off-q3.html",

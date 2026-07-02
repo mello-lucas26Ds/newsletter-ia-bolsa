@@ -2,85 +2,71 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-02",
-    "total_noticias": 5,
-    "gerado_em": "2026-07-02T06:39:21.127488"
+    "total_noticias": 4,
+    "gerado_em": "2026-07-02T12:09:12.949740"
   },
   "noticias": [
     {
-      "titulo": "2026 laggards shine in Wednesday's mixed stock market that kicked off the third quarter - CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/2026-laggards-shine-in-mixed-market-that-kicked-off-q3.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-01",
-      "resumo": "O mercado de ações iniciou o terceiro trimestre com uma sessão de reversão, com líderes de IA e infraestrutura de centros de dados caindo, enquanto software e hyperscalers se recuperaram. A Meta Platforms anunciou planos para criar uma empresa de computação em nuvem para monetizar seus centros de dados e infraestrutura de IA, o que levou a uma subida de mais de 10% nas ações. Isso aliviou preocupações de que a Meta estava gastando demais com IA.",
+      "titulo": "A CIO shares 4 tech stocks that can weather an upheaval in the AI trade - Business Insider",
+      "url": "https://www.businessinsider.com/stocks-to-buy-ai-trade-hyperscaler-spending-pullback-amzn-dlr-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-02",
+      "resumo": "A CIO compartilha 4 ações de tecnologia que podem resistir a uma turbulência no mercado de IA. Amazon tem outras linhas de negócios além da AWS, e equipes como Equinix, Digital Realty e Eaton têm diversificação e proteção de fluxos de caixa.",
       "sentimento": "bullish",
       "tags": [
         "AI",
-        "Meta",
-        "Computação em Nuvem"
+        "Tecnologia",
+        "Mercado de Ações"
       ],
       "score_relevancia": 8.0,
-      "tokens_usados": 88
+      "tokens_usados": 53
     },
     {
-      "titulo": "Chip stocks that notched record rallies in second quarter start Q3 with a dud - CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html",
+      "titulo": "Jim Cramer says the AI trade has shifted — and these stocks are leading now - CNBC",
+      "url": "https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html",
       "fonte": "cnbc.com",
-      "data": "2026-07-01",
-      "resumo": "As ações de empresas de chips que registraram altas recordes no segundo trimestre começaram o terceiro trimestre com uma queda. As empresas de memória, equipamentos de semicondutores e fabricantes de chips sofreram declínios significativos, com a VanEck Semiconductor ETF caindo mais de 5% em uma única sessão. A queda vem após as empresas de chips notarem ganhos recordes no trimestre que terminou em junho, com a Micron, Intel e AMD adicionando US$ 2 trilhões em valor combinado.",
-      "sentimento": "bearish",
+      "data": "2026-06-30",
+      "resumo": "Jim Cramer afirma que a corrida da IA mudou de direção, com empresas de memória e equipamentos de rede sendo os principais ganhadores do segundo trimestre. Ele destaca que a desigualdade entre oferta e demanda de componentes críticos, como memória e equipamentos de rede, está impulsionando o crescimento das receitas e atualizações de previsões de analistas para essas empresas. Por outro lado, as empresas de tecnologia que estão investindo pesadamente em IA estão sendo penalizadas.",
+      "sentimento": "bullish",
       "tags": [
         "AI",
         "Semiconductor",
         "NASDAQ"
       ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 86
+      "score_relevancia": 8.0,
+      "tokens_usados": 84
     },
     {
-      "titulo": "Neocloud Together AI raises $800M, leaps to $8.3B valuation - TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
-      "fonte": "techcrunch.com",
+      "titulo": "Is Microsoft Stock Heading For $550? - Forbes",
+      "url": "https://www.forbes.com/sites/greatspeculations/2026/07/01/is-microsoft-stock-heading-for-550/",
+      "fonte": "forbes.com",
       "data": "2026-07-01",
-      "resumo": "A Neocloud Together AI arrecadou $800 milhões em uma rodada de financiamento liderada por Aramco Ventures, elevando sua valoração para $8,3 bilhões. A empresa já havia recebido financiamento de $305 milhões em uma rodada de série B há 16 meses, com uma valoração de $3,3 bilhões. A Together AI foi fundada por Vipul Ved Prakash, Percy Liang e Ce Zhang, e oferece soluções de hardware e infraestrutura para empresas que utilizam inteligência artificial.",
+      "resumo": "A Microsoft está projetada para alcançar um valor de $550, graças ao crescimento robusto de sua seção de IA, que alcançou um ritmo anual de $37 bilhões com uma expansão de 123%. Este crescimento deve impulsionar uma subida de 49% no valor da ação em três anos. No entanto, o crescimento agressivo da empresa demanda investimentos significativos, com uma previsão de $190 bilhões em despesas de capital para 2026, o que pode gerar riscos no curto prazo.",
       "sentimento": "bullish",
       "tags": [
-        "AI",
-        "Hardware",
-        "Financiamento"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 82
-    },
-    {
-      "titulo": "Meta's plan to launch a cloud business eases the biggest overhang on the stock - CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-01",
-      "resumo": "A Meta anunciou planos para lançar uma empresa de infraestrutura de nuvem, que venderá poder de processamento de IA e modelos de IA para clientes externos. Isso deve ajudar a aumentar a confiança dos investidores na empresa e reduzir a incerteza sobre como a Meta irá monetizar seus investimentos em infraestrutura de dados e centros de dados. A notícia levou a uma reação positiva no mercado, com as ações da Meta subindo mais de 9% em um único dia.",
-      "sentimento": "bullish",
-      "tags": [
-        "Meta",
-        "Cloud Computing",
+        "Microsoft",
         "IA",
         "Tecnologia"
       ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 90
+      "score_relevancia": 8.0,
+      "tokens_usados": 86
     },
     {
-      "titulo": "Oaktree-backed ITG jumps in Nasdaq debut, signaling strong AI infrastructure demand - Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/oaktree-backed-itg-jumps-nasdaq-debut-signaling-strong-ai-infrastructure-demand-2026-07-01/",
-      "fonte": "reuters.com",
-      "data": "2026-07-01",
-      "resumo": "A ITG, uma empresa de infraestrutura digital apoiada pelo Oaktree, estreou no Nasdaq com uma valorização de 12,5%, alcançando um valor de mercado de $2,18 bilhões. Isso sinaliza uma forte demanda por infraestrutura de AI. A empresa fornece serviços de rede outsource a provedores de banda larga, fibras e wireless, além de operadores de centros de dados e empresas de utilidade.",
-      "sentimento": "bullish",
+      "titulo": "Morning Call Sheet: Jobs, AI, and earnings shape the second half outlook - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/02/morning-call-sheet-jobs-ai-and-earnings-shape-the-second-half-outlook.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-02",
+      "resumo": "Analistas financeiros discutiram empregos, inflação, IA, lucros e liderança de mercado, destacando a importância de taxas de juros a longo prazo e a possível influência da Copa do Mundo no relatório de empregos de junho. Além disso, a OpenAI propôs uma participação de 5% para a administração Trump para aliviar pressão em Washington.",
+      "sentimento": "neutral",
       "tags": [
-        "AI",
-        "Infraestrutura",
-        "Nasdaq"
+        "empregos",
+        "inflação",
+        "IA",
+        "lucros",
+        "mercado"
       ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 70
+      "score_relevancia": 6.0,
+      "tokens_usados": 129
     }
   ]
 }

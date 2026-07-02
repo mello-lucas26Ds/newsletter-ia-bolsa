@@ -1,72 +1,59 @@
 # Newsletter IA Bolsa — 2026-07-02
 
-**Gerado em:** 02/07/2026 06:39
-**Total:** 5 noticias
+**Gerado em:** 02/07/2026 12:09
+**Total:** 4 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. 2026 laggards shine in Wednesday's mixed stock market that kicked off the third quarter - CNBC
+## 1. A CIO shares 4 tech stocks that can weather an upheaval in the AI trade - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 8.0/10  
+**Tags:** AI, Tecnologia, Mercado de Ações
+
+A CIO compartilha 4 ações de tecnologia que podem resistir a uma turbulência no mercado de IA. Amazon tem outras linhas de negócios além da AWS, e equipes como Equinix, Digital Realty e Eaton têm diversificação e proteção de fluxos de caixa.
+
+[Ler noticia completa](https://www.businessinsider.com/stocks-to-buy-ai-trade-hyperscaler-spending-pullback-amzn-dlr-2026-7)
+
+---
+
+## 2. Jim Cramer says the AI trade has shifted — and these stocks are leading now - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 8.0/10  
-**Tags:** AI, Meta, Computação em Nuvem
-
-O mercado de ações iniciou o terceiro trimestre com uma sessão de reversão, com líderes de IA e infraestrutura de centros de dados caindo, enquanto software e hyperscalers se recuperaram. A Meta Platforms anunciou planos para criar uma empresa de computação em nuvem para monetizar seus centros de dados e infraestrutura de IA, o que levou a uma subida de mais de 10% nas ações. Isso aliviou preocupações de que a Meta estava gastando demais com IA.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/01/2026-laggards-shine-in-mixed-market-that-kicked-off-q3.html)
-
----
-
-## 2. Chip stocks that notched record rallies in second quarter start Q3 with a dud - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
 **Tags:** AI, Semiconductor, NASDAQ
 
-As ações de empresas de chips que registraram altas recordes no segundo trimestre começaram o terceiro trimestre com uma queda. As empresas de memória, equipamentos de semicondutores e fabricantes de chips sofreram declínios significativos, com a VanEck Semiconductor ETF caindo mais de 5% em uma única sessão. A queda vem após as empresas de chips notarem ganhos recordes no trimestre que terminou em junho, com a Micron, Intel e AMD adicionando US$ 2 trilhões em valor combinado.
+Jim Cramer afirma que a corrida da IA mudou de direção, com empresas de memória e equipamentos de rede sendo os principais ganhadores do segundo trimestre. Ele destaca que a desigualdade entre oferta e demanda de componentes críticos, como memória e equipamentos de rede, está impulsionando o crescimento das receitas e atualizações de previsões de analistas para essas empresas. Por outro lado, as empresas de tecnologia que estão investindo pesadamente em IA estão sendo penalizadas.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html)
+[Ler noticia completa](https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html)
 
 ---
 
-## 3. Neocloud Together AI raises $800M, leaps to $8.3B valuation - TechCrunch
+## 3. Is Microsoft Stock Heading For $550? - Forbes
 
-**Fonte:** techcrunch.com  
+**Fonte:** forbes.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Hardware, Financiamento
+**Relevancia:** 8.0/10  
+**Tags:** Microsoft, IA, Tecnologia
 
-A Neocloud Together AI arrecadou $800 milhões em uma rodada de financiamento liderada por Aramco Ventures, elevando sua valoração para $8,3 bilhões. A empresa já havia recebido financiamento de $305 milhões em uma rodada de série B há 16 meses, com uma valoração de $3,3 bilhões. A Together AI foi fundada por Vipul Ved Prakash, Percy Liang e Ce Zhang, e oferece soluções de hardware e infraestrutura para empresas que utilizam inteligência artificial.
+A Microsoft está projetada para alcançar um valor de $550, graças ao crescimento robusto de sua seção de IA, que alcançou um ritmo anual de $37 bilhões com uma expansão de 123%. Este crescimento deve impulsionar uma subida de 49% no valor da ação em três anos. No entanto, o crescimento agressivo da empresa demanda investimentos significativos, com uma previsão de $190 bilhões em despesas de capital para 2026, o que pode gerar riscos no curto prazo.
 
-[Ler noticia completa](https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/)
+[Ler noticia completa](https://www.forbes.com/sites/greatspeculations/2026/07/01/is-microsoft-stock-heading-for-550/)
 
 ---
 
-## 4. Meta's plan to launch a cloud business eases the biggest overhang on the stock - CNBC
+## 4. Morning Call Sheet: Jobs, AI, and earnings shape the second half outlook - CNBC
 
 **Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** Meta, Cloud Computing, IA, Tecnologia
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** empregos, inflação, IA, lucros, mercado
 
-A Meta anunciou planos para lançar uma empresa de infraestrutura de nuvem, que venderá poder de processamento de IA e modelos de IA para clientes externos. Isso deve ajudar a aumentar a confiança dos investidores na empresa e reduzir a incerteza sobre como a Meta irá monetizar seus investimentos em infraestrutura de dados e centros de dados. A notícia levou a uma reação positiva no mercado, com as ações da Meta subindo mais de 9% em um único dia.
+Analistas financeiros discutiram empregos, inflação, IA, lucros e liderança de mercado, destacando a importância de taxas de juros a longo prazo e a possível influência da Copa do Mundo no relatório de empregos de junho. Além disso, a OpenAI propôs uma participação de 5% para a administração Trump para aliviar pressão em Washington.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html)
-
----
-
-## 5. Oaktree-backed ITG jumps in Nasdaq debut, signaling strong AI infrastructure demand - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Infraestrutura, Nasdaq
-
-A ITG, uma empresa de infraestrutura digital apoiada pelo Oaktree, estreou no Nasdaq com uma valorização de 12,5%, alcançando um valor de mercado de $2,18 bilhões. Isso sinaliza uma forte demanda por infraestrutura de AI. A empresa fornece serviços de rede outsource a provedores de banda larga, fibras e wireless, além de operadores de centros de dados e empresas de utilidade.
-
-[Ler noticia completa](https://www.reuters.com/business/media-telecom/oaktree-backed-itg-jumps-nasdaq-debut-signaling-strong-ai-infrastructure-demand-2026-07-01/)
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/02/morning-call-sheet-jobs-ai-and-earnings-shape-the-second-half-outlook.html)
 
 ---
