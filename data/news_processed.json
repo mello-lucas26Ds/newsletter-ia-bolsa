@@ -1,11 +1,87 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-01",
-    "total_noticias": 87,
-    "gerado_em": "2026-07-01T12:34:05.957758"
+    "data": "2026-07-02",
+    "total_noticias": 89,
+    "gerado_em": "2026-07-02T06:39:21.129269"
   },
   "noticias": [
+    {
+      "titulo": "2026 laggards shine in Wednesday's mixed stock market that kicked off the third quarter - CNBC",
+      "url": "https://www.cnbc.com/2026/07/01/2026-laggards-shine-in-mixed-market-that-kicked-off-q3.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-01",
+      "resumo": "O mercado de ações iniciou o terceiro trimestre com uma sessão de reversão, com líderes de IA e infraestrutura de centros de dados caindo, enquanto software e hyperscalers se recuperaram. A Meta Platforms anunciou planos para criar uma empresa de computação em nuvem para monetizar seus centros de dados e infraestrutura de IA, o que levou a uma subida de mais de 10% nas ações. Isso aliviou preocupações de que a Meta estava gastando demais com IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Meta",
+        "Computação em Nuvem"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 88
+    },
+    {
+      "titulo": "Chip stocks that notched record rallies in second quarter start Q3 with a dud - CNBC",
+      "url": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-01",
+      "resumo": "As ações de empresas de chips que registraram altas recordes no segundo trimestre começaram o terceiro trimestre com uma queda. As empresas de memória, equipamentos de semicondutores e fabricantes de chips sofreram declínios significativos, com a VanEck Semiconductor ETF caindo mais de 5% em uma única sessão. A queda vem após as empresas de chips notarem ganhos recordes no trimestre que terminou em junho, com a Micron, Intel e AMD adicionando US$ 2 trilhões em valor combinado.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 86
+    },
+    {
+      "titulo": "Neocloud Together AI raises $800M, leaps to $8.3B valuation - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-01",
+      "resumo": "A Neocloud Together AI arrecadou $800 milhões em uma rodada de financiamento liderada por Aramco Ventures, elevando sua valoração para $8,3 bilhões. A empresa já havia recebido financiamento de $305 milhões em uma rodada de série B há 16 meses, com uma valoração de $3,3 bilhões. A Together AI foi fundada por Vipul Ved Prakash, Percy Liang e Ce Zhang, e oferece soluções de hardware e infraestrutura para empresas que utilizam inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Hardware",
+        "Financiamento"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 82
+    },
+    {
+      "titulo": "Meta's plan to launch a cloud business eases the biggest overhang on the stock - CNBC",
+      "url": "https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-01",
+      "resumo": "A Meta anunciou planos para lançar uma empresa de infraestrutura de nuvem, que venderá poder de processamento de IA e modelos de IA para clientes externos. Isso deve ajudar a aumentar a confiança dos investidores na empresa e reduzir a incerteza sobre como a Meta irá monetizar seus investimentos em infraestrutura de dados e centros de dados. A notícia levou a uma reação positiva no mercado, com as ações da Meta subindo mais de 9% em um único dia.",
+      "sentimento": "bullish",
+      "tags": [
+        "Meta",
+        "Cloud Computing",
+        "IA",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 90
+    },
+    {
+      "titulo": "Oaktree-backed ITG jumps in Nasdaq debut, signaling strong AI infrastructure demand - Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/oaktree-backed-itg-jumps-nasdaq-debut-signaling-strong-ai-infrastructure-demand-2026-07-01/",
+      "fonte": "reuters.com",
+      "data": "2026-07-01",
+      "resumo": "A ITG, uma empresa de infraestrutura digital apoiada pelo Oaktree, estreou no Nasdaq com uma valorização de 12,5%, alcançando um valor de mercado de $2,18 bilhões. Isso sinaliza uma forte demanda por infraestrutura de AI. A empresa fornece serviços de rede outsource a provedores de banda larga, fibras e wireless, além de operadores de centros de dados e empresas de utilidade.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Infraestrutura",
+        "Nasdaq"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 70
+    },
     {
       "titulo": "'Get it while it's cheap': An investment firm shares its top under-the-radar AI play - Business Insider",
       "url": "https://www.businessinsider.com/ai-stock-picks-robotics-data-centers-tech-manfacturing-rrx-2026-7",
@@ -1172,21 +1248,6 @@
       "tokens_usados": 84
     },
     {
-      "titulo": "Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally - Reuters",
-      "url": "https://www.reuters.com/business/micron-qualcomm-forecasts-ignite-400-billion-ai-chip-stock-rally-2026-06-24/",
-      "fonte": "reuters.com",
-      "data": "2026-06-24",
-      "resumo": "A Micron e a Qualcomm fizeram previsões otimistas, levando a um aumento de $400 bilhões no valor de mercado das ações de empresas de chips relacionadas à inteligência artificial (IA). A Micron previu lucros acima das estimativas dos analistas, enquanto a Qualcomm espera $15 bilhões em vendas de sua divisão de centros de dados até 2029. As ações de várias empresas de chips, incluindo Western Digital, Arm Holdings e Applied Materials, também aumentaram significativamente.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 83
-    },
-    {
       "titulo": "US stock futures fall; tech eyes more losses amid chip rout, OpenAI IPO delay - Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-wall-st-set-for-weekly-losses-after-tech-rout-4761945",
       "fonte": "investing.com",
@@ -1262,22 +1323,6 @@
       "tokens_usados": 69
     },
     {
-      "titulo": "Former Infosys chief has a new startup that wants to challenge the IT services world - TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "fonte": "techcrunch.com",
-      "data": "2026-06-24",
-      "resumo": "O ex-CEO da Infosys, Vishal Sikka, lançou uma nova startup chamada Hang Ten Systems, que busca desafiar o mercado de serviços de TI com a ajuda da inteligência artificial. A startup já tem clientes e tem recebido investimentos de Mayfield e Aramco Ventures. A Hang Ten Systems ajuda as empresas a construir, modificar e operar software usando desenvolvimento e automação impulsionados pela IA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "IT Services",
-        "Startups",
-        "Infosys"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
-    },
-    {
       "titulo": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster - TechCrunch",
       "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
       "fonte": "techcrunch.com",
@@ -1305,21 +1350,6 @@
         "Japão"
       ],
       "score_relevancia": 8.0,
-      "tokens_usados": 72
-    },
-    {
-      "titulo": "Qualcomm to buy AI startup Modular for $4 billion in AI software push - Reuters",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "fonte": "reuters.com",
-      "data": "2026-06-24",
-      "resumo": "A Qualcomm anunciou a compra da startup de IA Modular por cerca de $4 bilhões, em uma transação em ações que dará acesso ao software que roda modelos de IA em chips sem a necessidade de escrever código para cada processador. A Modular é uma plataforma de software neutra para computação de IA, suportando chips de várias marcas, incluindo Nvidia, AMD e outras.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Qualcomm"
-      ],
-      "score_relevancia": 5.0,
       "tokens_usados": 72
     }
   ]
