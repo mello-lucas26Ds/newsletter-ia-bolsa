@@ -2,10 +2,70 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-03",
-    "total_noticias": 91,
-    "gerado_em": "2026-07-03T06:29:50.224923"
+    "total_noticias": 95,
+    "gerado_em": "2026-07-03T12:09:24.934068"
   },
   "noticias": [
+    {
+      "titulo": "The AI Trade Is Losing One of Its Key Signals - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-03",
+      "resumo": "O setor de inteligência artificial está perdendo um dos seus principais indicadores, pois os preços que o setor paga por cada unidade de uso estão caindo. O Silicon Data LLM Token Expenditure Index, que acompanha o que os usuários pagam por tokens de IA, caiu quase 20% desde o pico em maio, após quase dobrar desde o início em dezembro. Isso ocorre em um momento em que os mercados estão se tornando inquietos sobre se os enormes investimentos em IA vão pagar dividendos.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 92
+    },
+    {
+      "titulo": "AI buildout remains intact, but it's time to take some gains off the table: Citi's Drew Pettit - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/02/ai-buildout-remains-intact-but-its-time-to-take-some-gains-off-the-table-citis-drew-pettit.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-02",
+      "resumo": "O analista financeiro Drew Pettit da Citi afirma que a expansão da IA permanece intacta, mas é hora de tirar algumas partes do lucro da mesa. Pettit também discute como as ações de grande capitalização estão se movendo em comparação com as pequenas ações.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 54
+    },
+    {
+      "titulo": "Argentina's plan for AI-run companies can't avoid humans - Reuters",
+      "url": "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/",
+      "fonte": "reuters.com",
+      "data": "2026-07-03",
+      "resumo": "A Argentina está planejando criar uma lei que permita a existência de empresas lideradas por inteligência artificial (IA), mas com a necessidade de um administrador humano para supervisionar as operações. As empresas permanecerão responsáveis por danos causados por IA ou sistemas algorítmicos. Os defensores da lei argumentam que um status legal dedicado pode fornecer regras claras para as empresas de IA.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Jurisprudência",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "The AI infrastructure boom is sending these 5 stocks soaring - Business Insider",
+      "url": "https://www.businessinsider.com/best-performing-non-us-stocks-ai-boom-korea-taiwan-japan-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-03",
+      "resumo": "A corrida da infraestrutura de IA está impulsionando essas 5 ações a subir. A demanda por aceleradores de AI aumentou, levando a um aumento na demanda por componentes como substratos de semicondutores e capacitores cerâmicos. Isso ajudou a impulsionar as ações de várias empresas, incluindo a Kioxia Holdings, que subiu 631% no primeiro semestre de 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Tech"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 65
+    },
     {
       "titulo": "US Stocks Advance as Jobs Data Dims Prospect of Fed Rate Hike - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2026-07-02/us-stocks-muted-as-traders-wait-on-jobs-data-for-rate-path-clues",

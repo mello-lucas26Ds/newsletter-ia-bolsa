@@ -1,98 +1,59 @@
 # Newsletter IA Bolsa — 2026-07-03
 
-**Gerado em:** 03/07/2026 06:29
-**Total:** 7 noticias
+**Gerado em:** 03/07/2026 12:09
+**Total:** 4 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. US Stocks Advance as Jobs Data Dims Prospect of Fed Rate Hike - Bloomberg.com
+## 1. The AI Trade Is Losing One of Its Key Signals - Bloomberg.com
 
 **Fonte:** bloomberg.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 6.0/10  
-**Tags:** AI, Semicondutores, Tecnologia
+**Tags:** AI, Tecnologia, Mercados
 
-A bolsa de valores dos EUA avançou inicialmente após um relatório de emprego que diminuiu as chances de uma alta de juros da Fed, mas perdeu ganhos após uma queda nos preços das ações de tecnologia, especialmente nas empresas de semicondutores. As ações de empresas de tecnologia, incluindo as de semicondutores, caíram após um relatório de que a Anthropic PBC está em negociações com a Samsung para ser parceira de fabricação de um chip de inteligência artificial personalizado.
+O setor de inteligência artificial está perdendo um dos seus principais indicadores, pois os preços que o setor paga por cada unidade de uso estão caindo. O Silicon Data LLM Token Expenditure Index, que acompanha o que os usuários pagam por tokens de IA, caiu quase 20% desde o pico em maio, após quase dobrar desde o início em dezembro. Isso ocorre em um momento em que os mercados estão se tornando inquietos sobre se os enormes investimentos em IA vão pagar dividendos.
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-02/us-stocks-muted-as-traders-wait-on-jobs-data-for-rate-path-clues)
-
----
-
-## 2. Breakingviews - Stock market boom runs on a 'large deficit model' - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Economia, Mercado de Ações
-
-O mercado de ações está em alta graças a um modelo de déficit grande, onde as empresas de tecnologia gastam muito em capital e aumentam os lucros uns dos outros. Embora a adoção da inteligência artificial possa continuar a impulsionar os lucros, há preocupações de que a economia possa entrar em recessão se a adoção da IA diminuir. A alta do S&P 500 pode ser explicada pela melhoria dos lucros, mas há riscos de que a economia possa entrar em recessão.
-
-[Ler noticia completa](https://www.reuters.com/commentary/breakingviews/stock-market-boom-runs-large-deficit-model-2026-07-01/)
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock)
 
 ---
 
-## 3. Asia stocks: KOSPI, Nikkei slide as AI chip selloff deepens - Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semicondutores, NASDAQ
-
-A queda nos preços das ações de empresas de tecnologia asiáticas, incluindo Kioxia Holdings e SK Hynix, é resultado de uma selloff nos investimentos em chips de IA. A pressão se espalhou pelo setor de semicondutores, com a Nikkei 225 caindo 1,6% e a Samsung Electronics alcançando seu nível mais baixo desde junho. A exploração de uma infraestrutura de nuvem por parte da Meta e a avaliação de chips de memória por parte da Apple também contribuíram para a queda.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/korea-sinks-as-ai-chip-selloff-deepens-japan-suppliers-tumble-4772256)
-
----
-
-## 4. CoreWeave Junk Bonds Slide Further as Investors Question AI Boom - Bloomberg.com
-
-**Fonte:** bloomberg.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Finanças
-
-A CoreWeave, uma empresa de tecnologia, enfrenta dificuldades financeiras, com suas obrigações de baixo crédito tendo caído ainda mais. Isso ocorre enquanto a Meta e a SoftBank desenvolvem planos para oferecer recursos de computação em nuvem para empresas de tecnologia, o que pode exacerbar a situação. A corrida por inteligência artificial está criando uma dicotomia entre empresas que prosperam e outras que enfrentam dificuldades financeiras.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-02/coreweave-junk-bonds-slide-further-as-investors-question-ai-boom)
-
----
-
-## 5. Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC
+## 2. AI buildout remains intact, but it's time to take some gains off the table: Citi's Drew Pettit - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 8.0/10  
-**Tags:** Economia, Emprego, Tecnologia
+**Tags:** AI, Tecnologia, Mercados Financeiros
 
-A CNBC discute as principais notícias de ações para a próxima sessão de negociação. Economistas prevêem a criação de 115.000 novos empregos em junho, com o número de ações iniciais de desemprego sendo divulgado às 8h30 da manhã. Além disso, a Dow Jones prevê 220.000 novos empregos, com o desempenho de ações como AMD, Dell, Broadcom, Intel, Micron, Marvell e Sandisk sendo observados de perto.
+O analista financeiro Drew Pettit da Citi afirma que a expansão da IA permanece intacta, mas é hora de tirar algumas partes do lucro da mesa. Pettit também discute como as ações de grande capitalização estão se movendo em comparação com as pequenas ações.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/01/thursdays-big-stock-stories-whats-likely-to-move-the-market.html)
-
----
-
-## 6. Karp Says Frontier AI Labs Are Stealing Enterprise Value And VCs Are Listening - Forbes
-
-**Fonte:** forbes.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Segurança, Tecnologia
-
-Palantir CEO Alex Karp criticou laboratórios de IA fronteira por "vender" modelos de IA sem valor real, enquanto a empresa de software de segurança e gestão de dados alcançou resultados financeiros sólidos no 1º trimestre de 2026, com crescimento de 85% na receita. A empresa anunciou uma parceria com a NVIDIA para criar um sistema operacional de IA soberano, permitindo que agências governamentais e operadores de infraestrutura crítica implantem AI em seus próprios hardware, isolados de redes externas.
-
-[Ler noticia completa](https://www.forbes.com/sites/josipamajic/2026/07/02/karp-says-frontier-ai-labs-are-stealing-enterprise-value-and-vcs-are-listening/)
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/02/ai-buildout-remains-intact-but-its-time-to-take-some-gains-off-the-table-citis-drew-pettit.html)
 
 ---
 
-## 7. Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters
+## 3. Argentina's plan for AI-run companies can't avoid humans - Reuters
 
 **Fonte:** reuters.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Jurisprudência, Tecnologia
+
+A Argentina está planejando criar uma lei que permita a existência de empresas lideradas por inteligência artificial (IA), mas com a necessidade de um administrador humano para supervisionar as operações. As empresas permanecerão responsáveis por danos causados por IA ou sistemas algorítmicos. Os defensores da lei argumentam que um status legal dedicado pode fornecer regras claras para as empresas de IA.
+
+[Ler noticia completa](https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/)
+
+---
+
+## 4. The AI infrastructure boom is sending these 5 stocks soaring - Business Insider
+
+**Fonte:** businessinsider.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** Meta, AI, Cloud Computing
+**Tags:** AI, Semicondutores, Tech
 
-A Meta está desenvolvendo um negócio de nuvem para vender capacidade de processamento de inteligência artificial em excesso, de acordo com um relatório da Bloomberg News. Isso ocorre enquanto as empresas de tecnologia buscam retornos sobre investimentos caros em IA, apesar de preocupações com gastos excessivos. A ação da Meta subiu mais de 10%, aliviando a pressão sobre a ação que caiu cerca de 15% este ano.
+A corrida da infraestrutura de IA está impulsionando essas 5 ações a subir. A demanda por aceleradores de AI aumentou, levando a um aumento na demanda por componentes como substratos de semicondutores e capacitores cerâmicos. Isso ajudou a impulsionar as ações de várias empresas, incluindo a Kioxia Holdings, que subiu 631% no primeiro semestre de 2026.
 
-[Ler noticia completa](https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/)
+[Ler noticia completa](https://www.businessinsider.com/best-performing-non-us-stocks-ai-boom-korea-taiwan-japan-2026-7)
 
 ---
