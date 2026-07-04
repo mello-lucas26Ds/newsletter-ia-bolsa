@@ -2,10 +2,40 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-04",
-    "total_noticias": 89,
-    "gerado_em": "2026-07-04T06:17:39.901986"
+    "total_noticias": 91,
+    "gerado_em": "2026-07-04T11:26:27.064356"
   },
   "noticias": [
+    {
+      "titulo": "Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw - Reuters",
+      "url": "https://www.reuters.com/commentary/breakingviews/ai-fight-exposes-silicon-valleys-mimetic-flaw-2026-07-03/",
+      "fonte": "reuters.com",
+      "data": "2026-07-03",
+      "resumo": "A corrida por inteligência artificial (IA) expõe um vício mimético em Silicon Valley, onde as empresas investem em tecnologia por imitar as outras e não por uma visão de futuro. Isso pode levar a uma crise mimética, onde as empresas buscam um \"scapegoat\" para culpar. A corrida por IA está se tornando cada vez mais intensa, com a China imitando os modelos de liderança dos EUA.",
+      "sentimento": "bearish",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 97
+    },
+    {
+      "titulo": "Kioxia readies next-gen memory mass production as AI boom fuels dramatic comeback - Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/kioxia-readies-next-gen-memory-mass-production-ai-boom-fuels-dramatic-comeback-2026-07-02/",
+      "fonte": "reuters.com",
+      "data": "2026-07-02",
+      "resumo": "Kioxia está preparando a produção em massa de memória de próxima geração, após um boom no investimento em IA que fez com que as ações da empresa aumentassem mais de sete vezes este ano, ultrapassando a capitalização de mercado da Toyota Motor. A empresa planeja realizar uma cerimônia em sua fábrica no norte do Japão e está considerando uma split de ações e listagem de ações de depósito americano em uma bolsa dos EUA. A SK Hynix, da Coreia do Sul, também está planejando uma listagem nos EUA e pretende arrecadar até US$ 29,4 bilhões.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "Japão"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 104
+    },
     {
       "titulo": "Tech, Media & Telecom Roundup: Market Talk - WSJ",
       "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-036473b2",
