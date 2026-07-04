@@ -1,11 +1,163 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-03",
-    "total_noticias": 95,
-    "gerado_em": "2026-07-03T12:09:24.934068"
+    "data": "2026-07-04",
+    "total_noticias": 89,
+    "gerado_em": "2026-07-04T06:17:39.901986"
   },
   "noticias": [
+    {
+      "titulo": "Tech, Media & Telecom Roundup: Market Talk - WSJ",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-036473b2",
+      "fonte": "wsj.com",
+      "data": "2026-07-03",
+      "resumo": "Analistas de KB Securities e AmInvestment Bank prevêem um aumento nos lucros da SK Hynix e Maxis, respectivamente, devido à investimento em inteligência artificial e expansão de serviços de telecomunicações. Além disso, a China pode enfrentar um crescimento lento na capacidade de produção de CPUs x86 até 2028 devido à falta de aceleradores de AI e limitações de produção.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Telecomunicações",
+        "Semicondutores"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "The hunt for AI's next winners defined the stock market's holiday-shortened week - CNBC",
+      "url": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-03",
+      "resumo": "A semana de negociação foi marcada pela busca por empresas que se destacam no campo da inteligência artificial. A notícia de que os EUA levantaram restrições de exportação para os modelos Anthropic Claude Fable 5 e Mythos 5 trouxe um impulso adicional para o setor. Empresas como Palo Alto e CrowdStrike alcançaram altos históricos, enquanto a Meta Platforms anunciou planos para lançar uma empresa de infraestrutura de nuvem que venderá potência de processamento e modelos de IA para clientes externos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Cybersecurity",
+        "NASDAQ"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 89
+    },
+    {
+      "titulo": "Meta’s push into cloud computing means Wall Street has to prepare for lower margins - CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-02",
+      "resumo": "A Meta está se expandindo para o mercado de computação em nuvem, o que pode levar a margens de lucro mais baixas. A empresa está se preparando para competir com líderes como Amazon, Microsoft e Google. O movimento foi bem recebido pelo mercado, com a ação da Meta subindo 9% na última quarta-feira.",
+      "sentimento": "bullish",
+      "tags": [
+        "Meta",
+        "Computação em Nuvem",
+        "Inteligência Artificial"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "Schneider Electric To Acquire Cognite For Its’ Cutting-Edge Technology - Forbes",
+      "url": "https://www.forbes.com/sites/stevebanker/2026/07/03/schneider-electric-to-acquire-cognite-for-its-cutting-edge-technology/",
+      "fonte": "forbes.com",
+      "data": "2026-07-03",
+      "resumo": "A Schneider Electric adquiriu a Cognite por US$ 3,1 bilhão, reconhecendo o valor da plataforma de inteligência artificial Agentic AI Data. A Cognite cresceu rapidamente e desenvolveu tecnologia única, centrada em gráficos de conhecimento, que justificou o alto preço. A empresa Celanese exemplifica o impacto da Cognite, usando a plataforma Data Fusion para desacoplar dados, contextualizá-los e alimentar uma interface de UI de GenAI. Isso melhorou a detecção de anomalias, a segurança e a manutenção preventiva em 15%, gerando um ROI significativo.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Industrial Automation",
+        "Tecnologia"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 92
+    },
+    {
+      "titulo": "This generator builder catering to AI went public a month ago. Why analysts see big gains - CNBC",
+      "url": "https://www.cnbc.com/2026/07/03/analysts-see-big-gains-for-this-generator-builder-catering-to-ai.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-03",
+      "resumo": "A empresa Innio N.V., que fornece soluções de energia, especializada na fabricação e manutenção de motores a gás, foi listada em bolsa há um mês. Analistas financeiros estão otimistas em relação ao desempenho da empresa, apontando para sua tecnologia diferenciada, modelo de serviço de alta margem e alta possibilidade de receita devido à demanda por centros de dados. Alguns riscos foram mencionados, incluindo o risco de expansão de capacidade e riscos de cadeia de suprimentos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Energia",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 84
+    },
+    {
+      "titulo": "US Tech Rout Sours Mood For Japan, South Korean Chip Stocks - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/us-tech-rout-sours-mood-for-japan-south-korean-chip-stocks",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-02",
+      "resumo": "A indústria de semicondutores asiática sofreu uma queda significativa após a perda de valor das ações de tecnologia nos EUA. A preocupação com a sobrecapacidade de recursos de computação por inteligência artificial (IA) levantada pela Meta Platforms Inc. contribuiu para a desaceleração. As ações de empresas de semicondutores em Japão e Coreia do Sul foram afetadas.",
+      "sentimento": "bearish",
+      "tags": [
+        "Semicondutores",
+        "Tecnologia",
+        "Mercados"
+      ],
+      "score_relevancia": 4.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "Brookfield wants to build AI data centers in London’s answer to Wall Street - CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/brookfield-london-wall-street-data-center-expansion.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-02",
+      "resumo": "A Brookfield Asset Management pretende construir centros de dados para infraestrutura de inteligência artificial (IA) no Canary Wharf, um distrito financeiro de Londres. O CEO da empresa, Connor Teskey, afirmou que a infraestrutura de IA é o \"maior tema\" atual da empresa. A Brookfield já tem uma grande portfolio de centros de dados em todo o mundo e pretende expandir sua presença no mercado.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Centers",
+        "Real Estate"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 75
+    },
+    {
+      "titulo": "Anthropic is discussing a new custom chip with Samsung - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-02",
+      "resumo": "A Anthropic está discutindo a criação de um chip personalizado em parceria com a Samsung. A empresa está considerando produzir seus próprios chips de IA para responder às escassez de chips. A parceria com a Samsung é uma continuação da colaboração entre as duas empresas, que já trabalham juntas em um fábrica de chips de IA na Coreia do Sul.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Samsung",
+        "Anthropic",
+        "Nvidia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit - CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-02",
+      "resumo": "A Microsoft está investindo US$ 2,5 bilhões em uma nova unidade focada em ajudar clientes a implementar tecnologias de inteligência artificial (IA). A empresa está comprometendo 6.000 funcionários para trabalhar diretamente com clientes, em um esforço para ajudá-los a entender e adotar a IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 53
+    },
+    {
+      "titulo": "Jersey Mike’s IPO illustrates how bad the AI hype has become - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-02",
+      "resumo": "A Jersey Mike's, uma loja de sanduíches, está fazendo um IPO e mencionando a tecnologia de inteligência artificial (IA) em seus documentos, o que pode ser um sinal de que a histeria em torno da IA está se tornando excessiva. Isso é verdade para startups de tecnologia que estão buscando investimentos, mesmo aquelas que não têm relação direta com a IA.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "IPO",
+        "Startups",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 96
+    },
     {
       "titulo": "The AI Trade Is Losing One of Its Key Signals - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
@@ -1143,21 +1295,6 @@
       "tokens_usados": 72
     },
     {
-      "titulo": "Apple Price Hikes Spark Asia Tech Selloff on Memory Cost Concern - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/apple-price-hikes-spark-asia-tech-selloff-on-memory-cost-concern",
-      "fonte": "bloomberg.com",
-      "data": "2026-06-26",
-      "resumo": "A Apple aumentou os preços de seus produtos, o que levou a uma reação negativa nas ações de tecnologia asiáticas, pois os investidores estão preocupados com o aumento dos custos de componentes e sua influência no mercado de memória.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Apple"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 48
-    },
-    {
       "titulo": "SA Asks: What's the most attractive chip stock right now? (NVDA:NASDAQ) - Seeking Alpha",
       "url": "https://seekingalpha.com/news/4607881-sa-asks-whats-the-most-attractive-chip-stock-right-now",
       "fonte": "seekingalpha.com",
@@ -1173,36 +1310,6 @@
       "tokens_usados": 64
     },
     {
-      "titulo": "Jeremy Siegel: Tech stocks may have hit a top based on recent technical indicators - CNBC",
-      "url": "https://www.cnbc.com/video/2026/06/26/jeremy-siegel-tech-stocks-may-have-hit-a-top-based-on-recent-technical-indicators.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-26",
-      "resumo": "Jeremy Siegel, economista-chefe da WisdomTree, afirma que as ações de tecnologia podem ter atingido o pico com base em indicadores técnicos recentes. Ele discute as áreas de mercado de ações que estão em destaque até o final do ano.",
-      "sentimento": "bearish",
-      "tags": [
-        "tecnologia",
-        "ações",
-        "mercado de ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 50
-    },
-    {
-      "titulo": "Ridgepost Capital CEO on his lower-middle market investing thesis - CNBC",
-      "url": "https://www.cnbc.com/video/2026/06/26/ridgepost-capital-ceo-on-his-lower-middle-market-investing-thesis.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-26",
-      "resumo": "O CEO da Ridgepost Capital, Luke Sarsfield, compartilha sua visão de investimentos em empresas do mercado privado, chamado de \"economia velha\". Ele discute oportunidades em empresas que operam fora do mercado público, como as empresas que não são cotadas na bolsa de valores.",
-      "sentimento": "bullish",
-      "tags": [
-        "Investimentos",
-        "Mercado Privado",
-        "Economia Velha"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 54
-    },
-    {
       "titulo": "In the AI era, be a builder or a seller, not a measurer - Business Insider",
       "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
       "fonte": "businessinsider.com",
@@ -1216,21 +1323,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 82
-    },
-    {
-      "titulo": "Why tech stocks are struggling in the 'Twilight Zone' right now - Business Insider",
-      "url": "https://www.businessinsider.com/stock-market-today-selloff-chip-memory-stocks-tech-ai-2026-6",
-      "fonte": "businessinsider.com",
-      "data": "2026-06-26",
-      "resumo": "O setor de tecnologia está enfrentando um período de instabilidade, conhecido como \"Twilight Zone\", devido a preocupações sobre a tradução de investimentos em inteligência artificial (IA) em receitas reais. As empresas de tecnologia, como Amazon, Google, Meta e Microsoft, estão investindo cerca de $725 bilhões em capital de giro (capex) este ano, mas os planos de monetização de algumas dessas empresas ainda são incertos ou estão em estágios iniciais. Além disso, o mercado está experimentando uma \"rotação mega\" para setores cíclicos e de valor, em vez de tecnologia.",
-      "sentimento": "bearish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 99
     },
     {
       "titulo": "AllianceBernstein's CEO says you should be worried about an AI bubble - Business Insider",
@@ -1261,186 +1353,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 82
-    },
-    {
-      "titulo": "AI trade is not dead, says Deepwater's Gene Munster - CNBC",
-      "url": "https://www.cnbc.com/video/2026/06/26/ai-trade-is-not-dead-says-deepwaters-gene-munster.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-26",
-      "resumo": "Gene Munster, sócio gerente da Deepwater Asset Management, afirma que o mercado de IA não está morto, apesar da volatilidade no setor tecnológico. Ele discute a situação com o time do \"Fast Money\" da CNBC.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados Financeiros"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 45
-    },
-    {
-      "titulo": "Nvidia Stock: The Next Dividend Aristocrat? (NASDAQ:NVDA) - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4917842-nvidia-the-next-dividend-aristocrat",
-      "fonte": "seekingalpha.com",
-      "data": "2026-06-26",
-      "resumo": "A Nvidia está mirando uma possível segunda atuação como uma empresa de capital de retorno, após aumentar em 2.400% seu pagamento de dividendos recentemente. Com fluxo de caixa livre sem precedentes, a empresa representa um ativo híbrido de crescimento e renda, com fundamentos e lucros atraentes.",
-      "sentimento": "bullish",
-      "tags": [
-        "NVDA",
-        "NASDAQ",
-        "Dividendos"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 55
-    },
-    {
-      "titulo": "The AI Trade Still Works, But It’s Getting Harder: Taking Stock - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock",
-      "fonte": "bloomberg.com",
-      "data": "2026-06-26",
-      "resumo": "A bolsa de valores de tecnologia está experimentando uma semana difícil devido a preocupações com a demanda por chips de inteligência artificial e taxas de juros mais altas. A selloff afetou a Kospi da Coreia do Sul e o Nasdaq 100, com perdas de 10% e 3,3%, respectivamente. Embora o caso para a negociação de inteligência artificial ainda seja forte, os investidores precisam ser mais seletivos.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Bolsa de Valores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 77
-    },
-    {
-      "titulo": "Here are Friday's biggest analyst calls: SpaceX, Nvidia, Apple, Tesla, Crocs, Microsoft, Robinhood & more - CNBC",
-      "url": "https://www.cnbc.com/2026/06/26/friday-stocks-by-analyst-calls-like-spacex.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-26",
-      "resumo": "RESUMO: \nEvercore ISI atualizou a classificação da Americold Realty Trust para Outperform, com um alvo de preço de $18, devido a melhorias nos fundamentos da empresa de armazenamento frio. A Deutsche Bank manteve a classificação de compra para a Microsoft, destacando a importância das empresas de nuvem e inteligência artificial. Outras empresas foram atualizadas, incluindo Diageo, James Hardie, Granite, Primis Financial Corp. e FuelCell.\n\nSENTIMENTO: bullish\n\nTAGS: AI, Inteligência Artificial, T",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Inteligência Artificial",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 73
-    },
-    {
-      "titulo": "Citi cuts tech stock weighting: 'Difficult to see how everyone in AI/Tech path wins' - CNBC",
-      "url": "https://www.cnbc.com/2026/06/26/citi-cuts-tech-stock-weighting-difficult-to-see-how-everyone-in-ai/tech-path-wins.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-26",
-      "resumo": "A Citi reduziu a recomendação de peso da tecnologia, devido à dificuldade em ver como todos os ativos relacionados à IA e tecnologia vão se sair bem. O banco acredita que uma rotação para fora da tecnologia irá ocorrer, com uma menor participação no mercado. A Citi ainda é otimista em relação às ações, mas acredita que a tecnologia está se tornando mais arriscada.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "ETF"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 73
-    },
-    {
-      "titulo": "The Under 30s Entering A $60 Billion Deal With SpaceX - Forbes",
-      "url": "https://www.forbes.com/sites/zoyahasan/2026/06/26/the-under-30s-entering-a-60-billion-deal-with-spacex/",
-      "fonte": "forbes.com",
-      "data": "2026-06-26",
-      "resumo": "A startup de IA Cursor, fundada por jovens de 25 e 26 anos, está prestes a ser adquirida pela SpaceX de Elon Musk por US$ 60 bilhões. A empresa de código AI já havia atraiu grandes empresas desde sua lançamento em 2023 e seus fundadores já são avaliados em US$ 1,3 bilhão cada um.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Startup",
-        "Tecnologia"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 63
-    },
-    {
-      "titulo": "How Z.AI is closing in on America's AI frontier - CNBC",
-      "url": "https://www.cnbc.com/video/2026/06/26/how-zai-is-closing-in-on-americas-ai-frontier.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-26",
-      "resumo": "A notícia não menciona explicitamente a empresa Z.AI, mas parece estar relacionada a notícias de tecnologia e inteligência artificial. Não há informações específicas sobre a empresa Z.AI ou suas ações.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 2.0,
-      "tokens_usados": 76
-    },
-    {
-      "titulo": "Legal Tech Needs To Change Now - Forbes",
-      "url": "https://www.forbes.com/sites/josephandrew/2026/06/26/legal-tech-needs-to-change-now/",
-      "fonte": "forbes.com",
-      "data": "2026-06-26",
-      "resumo": "O setor de tecnologia jurídica enfrenta dois desafios críticos: a falta de engajamento com líderes seniores e a ameaça existencial dos provedores de AI fundacionais. Isso pode levar a perigos significativos para as empresas de tecnologia jurídica se não forem abordados.",
-      "sentimento": "bearish",
-      "tags": [
-        "Legal Tech",
-        "AI",
-        "Tecnologia Jurídica"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 52
-    },
-    {
-      "titulo": "US stock futures fall; tech eyes more losses amid chip rout, OpenAI IPO delay - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-wall-st-set-for-weekly-losses-after-tech-rout-4761945",
-      "fonte": "investing.com",
-      "data": "2026-06-26",
-      "resumo": "As ações futuras dos EUA caíram, com a tecnologia olhando para mais perdas devido à rota dos chips e a atraso do IPO da OpenAI. A Micron Technology Inc surgiu como uma exceção, subindo quase 16% e impulsionando o índice de semicondutores da Filadélfia em 3,6%. A inflação nos EUA ultrapassou a marca de 4% pela primeira vez em três anos, exacerbando a retirada de ações de crescimento.",
-      "sentimento": "bearish",
-      "tags": [
-        "[AI",
-        "Semiconductor",
-        "NASDAQ]"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 77
-    },
-    {
-      "titulo": "This new research challenges nearly every big AI narrative of 2026 - Business Insider",
-      "url": "https://www.businessinsider.com/enterprise-ai-spending-grows-openai-leads-rbc-reveals-2026-6",
-      "fonte": "businessinsider.com",
-      "data": "2026-06-26",
-      "resumo": "Uma pesquisa recente da RBC Capital Markets descobriu que muitas das narrativas principais sobre IA em 2026 estão sendo desafiadas. A pesquisa encontrou que 91% das empresas estão criando orçamentos de IA completamente novos, em vez de apenas reorganizar os gastos existentes. Além disso, a pesquisa identificou que a indústria de semicondutores está se tornando cada vez mais importante, com a Intel sendo uma empresa crucial nesse setor.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 77
-    },
-    {
-      "titulo": "OpenAI may delay IPO until next year: NYT - Reuters",
-      "url": "https://www.reuters.com/video/watch/idRW262326062026RP1/",
-      "fonte": "reuters.com",
-      "data": "2026-06-26",
-      "resumo": "A OpenAI pode adiar sua oferta pública inicial (IPO) até o próximo ano, de acordo com a NYT. A notícia não fornece detalhes sobre a razão do atraso, mas é um desenvolvimento importante para a empresa de inteligência artificial (IA). A OpenAI é conhecida por suas tecnologias de IA avançadas, incluindo o modelo de linguagem GPT-3.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 92
-    },
-    {
-      "titulo": "Nikkei's record rally shifts gears as investors chase next AI darlings - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/nikkeis-record-rally-shifts-gears-investors-chase-next-ai-darlings-2026-06-26/",
-      "fonte": "reuters.com",
-      "data": "2026-06-26",
-      "resumo": "A bolsa japonesa, Nikkei, alcançou um novo recorde, mas os investidores estão agora procurando por novos \"darlings\" da IA. A terceira onda da corrida ao AI está focada em componentes e infraestrutura de energia essenciais para os centros de dados. Empresas como Murata Manufacturing e Taiyo Yuden, líderes na produção de capacitores cerâmicos multicamadas, estão se destacando como motores do avanço do índice.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Japão"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 72
     }
   ]
 }

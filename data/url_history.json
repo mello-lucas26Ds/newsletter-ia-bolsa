@@ -1,84 +1,4 @@
 {
-  "https://www.businessinsider.com/micron-earnings-mu-stock-memory-chips-stocks-ai-trade-2026-6": {
-    "hash": "97e77ca12339aa27774845b4a78ba466",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.reuters.com/business/nasdaq-futures-jump-2-micron-qualcomm-forecasts-relieve-investors-2026-06-25/": {
-    "hash": "d44c93d3d1deed8365c7a8ca6613e74b",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-06-25/": {
-    "hash": "6584f58205bc26f0bd56d244012df67b",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.bloomberg.com/news/articles/2026-06-24/tech-stocks-set-to-bounce-after-1-3-trillion-rout-on-ai-jitters": {
-    "hash": "6d9e4d6f438009b195278fb69146669b",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.cnbc.com/2026/06/24/this-life-sciences-stock-has-a-secret-weapon-and-ai-will-only-make-it-more-valuable.html": {
-    "hash": "66ccdee5419a5737e10c4c1d2b80679c",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.investing.com/news/stock-market-news/deepseek-plans-to-double-workforce-amid-74-billion-raise-93CH-4761011": {
-    "hash": "80fc304a81f8ef644bf931c700b4bd4e",
-    "visto_em": "2026-06-26"
-  },
-  "https://seekingalpha.com/article/4917408-micron-and-4-ai-stocks-for-data-center-growth": {
-    "hash": "2b548870f29d1e73d585d9059c450a28",
-    "visto_em": "2026-06-26"
-  },
-  "https://seekingalpha.com/news/4606942-qualcomm-goes-all-in-on-data-center-infrastructure-microsoft-meta-revealed-as-early-customers": {
-    "hash": "b56a77f33be3a294ec80a0c222d568f1",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.reuters.com/business/cerebras-sinks-14-full-year-margin-forecast-disappoints-2026-06-24/": {
-    "hash": "61f8ec68f3ee0d76eeccc32561252182",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.wsj.com/lifestyle/careers/the-new-push-to-ready-millions-for-ai-career-upheaval-dfb04cc5": {
-    "hash": "0c71957c623fc09f8b98fc90c5abe794",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.reuters.com/business/micron-qualcomm-forecasts-ignite-400-billion-ai-chip-stock-rally-2026-06-24/": {
-    "hash": "da09500665d6d069eaf94791576a444f",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-wall-st-set-for-weekly-losses-after-tech-rout-4761945": {
-    "hash": "26af6e23ebbfc674a1b03a8a41f2f745",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.businessinsider.com/enterprise-ai-spending-grows-openai-leads-rbc-reveals-2026-6": {
-    "hash": "96a11989331c9f563941362dbb15acb7",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.reuters.com/video/watch/idRW262326062026RP1/": {
-    "hash": "bc700960390e962c53295be74ff2afb3",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.reuters.com/world/asia-pacific/south-korean-chip-shares-rally-after-microns-upbeat-earnings-2026-06-25/": {
-    "hash": "992411cdebc415cca9f015f4616812c6",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.bloomberg.com/news/articles/2026-06-24/micron-and-qualcomm-lift-chipmakers-amid-rapid-ai-growth": {
-    "hash": "39ebebdd1c2af1dfbb5b6eb2fc20c0df",
-    "visto_em": "2026-06-26"
-  },
-  "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/": {
-    "hash": "db90177c8043b7bffe94b12802a3bea7",
-    "visto_em": "2026-06-26"
-  },
-  "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/": {
-    "hash": "8ecc438b3be532aca8f41b2e11924836",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.reuters.com/world/asia-pacific/nikkeis-record-rally-shifts-gears-investors-chase-next-ai-darlings-2026-06-26/": {
-    "hash": "e805cb8547a4c324c293309fd7bb0559",
-    "visto_em": "2026-06-26"
-  },
-  "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/": {
-    "hash": "e3aedd5d85ed859df02c70a31a478be4",
-    "visto_em": "2026-06-26"
-  },
   "https://seekingalpha.com/article/4917842-nvidia-the-next-dividend-aristocrat": {
     "hash": "b1a8101c62a6dd0a12d85e4b5493376a",
     "visto_em": "2026-06-27"
@@ -466,5 +386,45 @@
   "https://www.businessinsider.com/best-performing-non-us-stocks-ai-boom-korea-taiwan-japan-2026-7": {
     "hash": "e31b7e49dfb298b79f0291560a06d3f9",
     "visto_em": "2026-07-03"
+  },
+  "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-036473b2": {
+    "hash": "a85c9ea9034152f1ef7900107aed1f24",
+    "visto_em": "2026-07-04"
+  },
+  "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html": {
+    "hash": "f4f3bcba2e2180517aad23d37b370815",
+    "visto_em": "2026-07-04"
+  },
+  "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html": {
+    "hash": "56b18b95832e3b394026ca8b0bd94b67",
+    "visto_em": "2026-07-04"
+  },
+  "https://www.forbes.com/sites/stevebanker/2026/07/03/schneider-electric-to-acquire-cognite-for-its-cutting-edge-technology/": {
+    "hash": "77242f9abe72f482c5d0cb3ceca725cc",
+    "visto_em": "2026-07-04"
+  },
+  "https://www.cnbc.com/2026/07/03/analysts-see-big-gains-for-this-generator-builder-catering-to-ai.html": {
+    "hash": "cc50ea9dd7831a47e508f92c34553014",
+    "visto_em": "2026-07-04"
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/us-tech-rout-sours-mood-for-japan-south-korean-chip-stocks": {
+    "hash": "432a0459ac5b882b8cba83c53dc8f325",
+    "visto_em": "2026-07-04"
+  },
+  "https://www.cnbc.com/2026/07/02/brookfield-london-wall-street-data-center-expansion.html": {
+    "hash": "d8a2ae3531bf18f388f3415fc1d068f3",
+    "visto_em": "2026-07-04"
+  },
+  "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/": {
+    "hash": "f4bbf8c3e7527a13b39d56b8859984e4",
+    "visto_em": "2026-07-04"
+  },
+  "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html": {
+    "hash": "eb8bf41f5ed108450661709c44fa31a5",
+    "visto_em": "2026-07-04"
+  },
+  "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/": {
+    "hash": "f8166a3b5889408b27cd005e9ecd140c",
+    "visto_em": "2026-07-04"
   }
 }

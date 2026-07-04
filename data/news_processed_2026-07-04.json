@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-07-04",
+    "total_noticias": 10,
+    "gerado_em": "2026-07-04T06:17:39.900377"
+  },
+  "noticias": [
+    {
+      "titulo": "Tech, Media & Telecom Roundup: Market Talk - WSJ",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-036473b2",
+      "fonte": "wsj.com",
+      "data": "2026-07-03",
+      "resumo": "Analistas de KB Securities e AmInvestment Bank prevêem um aumento nos lucros da SK Hynix e Maxis, respectivamente, devido à investimento em inteligência artificial e expansão de serviços de telecomunicações. Além disso, a China pode enfrentar um crescimento lento na capacidade de produção de CPUs x86 até 2028 devido à falta de aceleradores de AI e limitações de produção.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Telecomunicações",
+        "Semicondutores"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "The hunt for AI's next winners defined the stock market's holiday-shortened week - CNBC",
+      "url": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-03",
+      "resumo": "A semana de negociação foi marcada pela busca por empresas que se destacam no campo da inteligência artificial. A notícia de que os EUA levantaram restrições de exportação para os modelos Anthropic Claude Fable 5 e Mythos 5 trouxe um impulso adicional para o setor. Empresas como Palo Alto e CrowdStrike alcançaram altos históricos, enquanto a Meta Platforms anunciou planos para lançar uma empresa de infraestrutura de nuvem que venderá potência de processamento e modelos de IA para clientes externos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Cybersecurity",
+        "NASDAQ"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 89
+    },
+    {
+      "titulo": "Meta’s push into cloud computing means Wall Street has to prepare for lower margins - CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-02",
+      "resumo": "A Meta está se expandindo para o mercado de computação em nuvem, o que pode levar a margens de lucro mais baixas. A empresa está se preparando para competir com líderes como Amazon, Microsoft e Google. O movimento foi bem recebido pelo mercado, com a ação da Meta subindo 9% na última quarta-feira.",
+      "sentimento": "bullish",
+      "tags": [
+        "Meta",
+        "Computação em Nuvem",
+        "Inteligência Artificial"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "Schneider Electric To Acquire Cognite For Its’ Cutting-Edge Technology - Forbes",
+      "url": "https://www.forbes.com/sites/stevebanker/2026/07/03/schneider-electric-to-acquire-cognite-for-its-cutting-edge-technology/",
+      "fonte": "forbes.com",
+      "data": "2026-07-03",
+      "resumo": "A Schneider Electric adquiriu a Cognite por US$ 3,1 bilhão, reconhecendo o valor da plataforma de inteligência artificial Agentic AI Data. A Cognite cresceu rapidamente e desenvolveu tecnologia única, centrada em gráficos de conhecimento, que justificou o alto preço. A empresa Celanese exemplifica o impacto da Cognite, usando a plataforma Data Fusion para desacoplar dados, contextualizá-los e alimentar uma interface de UI de GenAI. Isso melhorou a detecção de anomalias, a segurança e a manutenção preventiva em 15%, gerando um ROI significativo.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Industrial Automation",
+        "Tecnologia"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 92
+    },
+    {
+      "titulo": "This generator builder catering to AI went public a month ago. Why analysts see big gains - CNBC",
+      "url": "https://www.cnbc.com/2026/07/03/analysts-see-big-gains-for-this-generator-builder-catering-to-ai.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-03",
+      "resumo": "A empresa Innio N.V., que fornece soluções de energia, especializada na fabricação e manutenção de motores a gás, foi listada em bolsa há um mês. Analistas financeiros estão otimistas em relação ao desempenho da empresa, apontando para sua tecnologia diferenciada, modelo de serviço de alta margem e alta possibilidade de receita devido à demanda por centros de dados. Alguns riscos foram mencionados, incluindo o risco de expansão de capacidade e riscos de cadeia de suprimentos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Energia",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 84
+    },
+    {
+      "titulo": "US Tech Rout Sours Mood For Japan, South Korean Chip Stocks - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/us-tech-rout-sours-mood-for-japan-south-korean-chip-stocks",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-02",
+      "resumo": "A indústria de semicondutores asiática sofreu uma queda significativa após a perda de valor das ações de tecnologia nos EUA. A preocupação com a sobrecapacidade de recursos de computação por inteligência artificial (IA) levantada pela Meta Platforms Inc. contribuiu para a desaceleração. As ações de empresas de semicondutores em Japão e Coreia do Sul foram afetadas.",
+      "sentimento": "bearish",
+      "tags": [
+        "Semicondutores",
+        "Tecnologia",
+        "Mercados"
+      ],
+      "score_relevancia": 4.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "Brookfield wants to build AI data centers in London’s answer to Wall Street - CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/brookfield-london-wall-street-data-center-expansion.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-02",
+      "resumo": "A Brookfield Asset Management pretende construir centros de dados para infraestrutura de inteligência artificial (IA) no Canary Wharf, um distrito financeiro de Londres. O CEO da empresa, Connor Teskey, afirmou que a infraestrutura de IA é o \"maior tema\" atual da empresa. A Brookfield já tem uma grande portfolio de centros de dados em todo o mundo e pretende expandir sua presença no mercado.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Centers",
+        "Real Estate"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 75
+    },
+    {
+      "titulo": "Anthropic is discussing a new custom chip with Samsung - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-02",
+      "resumo": "A Anthropic está discutindo a criação de um chip personalizado em parceria com a Samsung. A empresa está considerando produzir seus próprios chips de IA para responder às escassez de chips. A parceria com a Samsung é uma continuação da colaboração entre as duas empresas, que já trabalham juntas em um fábrica de chips de IA na Coreia do Sul.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Samsung",
+        "Anthropic",
+        "Nvidia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit - CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-02",
+      "resumo": "A Microsoft está investindo US$ 2,5 bilhões em uma nova unidade focada em ajudar clientes a implementar tecnologias de inteligência artificial (IA). A empresa está comprometendo 6.000 funcionários para trabalhar diretamente com clientes, em um esforço para ajudá-los a entender e adotar a IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 53
+    },
+    {
+      "titulo": "Jersey Mike’s IPO illustrates how bad the AI hype has become - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-02",
+      "resumo": "A Jersey Mike's, uma loja de sanduíches, está fazendo um IPO e mencionando a tecnologia de inteligência artificial (IA) em seus documentos, o que pode ser um sinal de que a histeria em torno da IA está se tornando excessiva. Isso é verdade para startups de tecnologia que estão buscando investimentos, mesmo aquelas que não têm relação direta com a IA.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "IPO",
+        "Startups",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 96
+    }
+  ]
+}
