@@ -1,11 +1,162 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-04",
-    "total_noticias": 91,
-    "gerado_em": "2026-07-04T11:26:27.064356"
+    "data": "2026-07-05",
+    "total_noticias": 93,
+    "gerado_em": "2026-07-05T06:39:23.618618"
   },
   "noticias": [
+    {
+      "titulo": "Stocks Stabilize After Tech-Led Selloff, Gold Up: Markets Wrap - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/stock-market-today-dow-s-p-live-updates",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-03",
+      "resumo": "Ações estabilizam-se após uma sinalização de recuo no mercado de tecnologia, com ouro em alta. O dólar está em risco de ter sua pior semana desde maio. O mercado asiático avançou 2% com a recuperação de fabricantes de memória sul-coreanos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 50
+    },
+    {
+      "titulo": "What's in and what's out among the new AI money crowd - Business Insider",
+      "url": "https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-03",
+      "resumo": "A nova geração de fundadores de IA está se tornando cada vez mais visível, e sua preferência por luxo e tecnologia está influenciando o mercado de moda. Marcas como Brunello Cucinelli e Bottega Veneta estão ganhando popularidade entre os fundadores de IA, que valorizam a estética de luxo quieto e a filosofia de sustentabilidade e criatividade dessas marcas. Além disso, há um aumento no interesse por marcas de roupas personalizadas que utilizam tecnologia, como Sene e Son of a Tailor.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Moda",
+        "Luxo"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 90
+    },
+    {
+      "titulo": "For one small business, AI was key to a quick start and expansion - Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/one-small-business-ai-was-key-quick-start-expansion-2026-07-04/",
+      "fonte": "reuters.com",
+      "data": "2026-07-04",
+      "resumo": "A implementação de inteligência artificial (IA) em pequenas empresas pode ser crucial para um rápido crescimento e expansão. A indústria de IA está enfrentando diferentes narrativas, com alguns enfatizando a escassez de recursos e outros a abundância de oportunidades. A investida em centros de dados necessários está impulsionando o crescimento e, em alguns casos, aumentando os custos de energia e mão de obra.",
+      "sentimento": "bullish",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "Investimentos"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "What is Mistral AI? Everything to know about the OpenAI competitor - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-04",
+      "resumo": "Mistral AI é uma empresa de inteligência artificial que recebeu investimentos significativos de empresas como Microsoft, General Catalyst, Cisco, IBM, Nvidia e Samsung Venture Investment Corporation. A empresa desenvolveu uma variedade de modelos de IA, incluindo LLMs, multimodais, de razão, áudio e OCR, e fechou parcerias estratégicas com empresas como Microsoft, ASML, Accenture, IBM e Orange.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Fintech",
+        "VentureCapital"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "Wall St Week Ahead Investors look for Fed clues, earnings signs as tech wobbles - Reuters",
+      "url": "https://www.reuters.com/business/wall-st-week-ahead-investors-look-fed-clues-earnings-signs-tech-wobbles-2026-07-03/",
+      "fonte": "reuters.com",
+      "data": "2026-07-03",
+      "resumo": "A semana que vem será marcada por uma busca por pistas do Fed e sinais de lucro, após o desempenho instável das ações de tecnologia ter afetado os principais índices. A divulgação de minutos da reunião do Fed do mês passado e os resultados financeiros da Delta Air Lines e da PepsiCo podem fornecer novos indicadores para o mercado, que teve seu rally tecnológico abalado nas últimas semanas. As ações de tecnologia e, especialmente, os semicondutores impulsionaram as ganhas do mercado nos últimos meses.",
+      "sentimento": "neutral",
+      "tags": [
+        "tecnologia",
+        "semicondutores",
+        "ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 93
+    },
+    {
+      "titulo": "AI hiring outpaces overall IT recruitment in India, report shows - Reuters",
+      "url": "https://www.reuters.com/world/india/ai-hiring-outpaces-overall-it-recruitment-india-report-shows-2026-07-03/",
+      "fonte": "reuters.com",
+      "data": "2026-07-03",
+      "resumo": "A contratação de profissionais de IA na Índia está superando a contratação geral de profissionais de TI, de acordo com um relatório. Isso sugere um aumento na demanda por habilidades em inteligência artificial e tecnologia avançada no país.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Índia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 47
+    },
+    {
+      "titulo": "'Big Short' investor Michael Burry might have his own version of the 'Buffett effect' - Business Insider",
+      "url": "https://www.businessinsider.com/big-short-michael-burry-buffett-effect-ai-chip-stocks-investing-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-03",
+      "resumo": "O investidor Michael Burry, famoso por seu contrário bet contra a bolha imobiliária dos anos 2000, pode ter sua própria versão do \"efeito Buffett\". Burry divulgou que havia apostado contra a Micron e também havia feito apostas contra a Nvidia, Applied Materials, Caterpillar e Tesla. Ele descreveu o SOXX como uma \"forma pura de superavaliação\" e afirmou que o anúncio de gastos pesados da Samsung e SK Hynix marcou o \"início do fim\" da bolha.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 129
+    },
+    {
+      "titulo": "Exclusive | Software Loans Hit Rough Patch Even Before AI Fears Triggered SaaS-Pocalypse - WSJ",
+      "url": "https://www.wsj.com/finance/software-loans-hit-rough-patch-even-before-ai-fears-triggered-saas-pocalypse-48f372d5",
+      "fonte": "wsj.com",
+      "data": "2026-07-03",
+      "resumo": "O mercado de empréstimos de software está enfrentando um período difícil, mesmo antes de as preocupações com a inteligência artificial (IA) terem desencadeado o \"SaaS-Pocalypse\". A WSJ relata que a indústria está enfrentando desafios, incluindo a concorrência feroz e a incerteza sobre a demanda futura.",
+      "sentimento": "bearish",
+      "tags": [
+        "SaaS",
+        "IA",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 54
+    },
+    {
+      "titulo": "Contango Silver & Gold Stock: The DSO Model Is Becoming A Real Platform (NYSE:CTGO) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4919675-contango-silver-and-gold-the-dso-model-is-becoming-a-real-platform?source=generic_rss",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-03",
+      "resumo": "A Contango Silver & Gold Inc. (CTGO) está desenvolvendo um modelo de negócios (DSO) que está se tornando uma plataforma real. O modelo permite que a empresa gerencie suas operações de mineração de forma eficiente e rentável.",
+      "sentimento": "bullish",
+      "tags": [
+        "Mineração",
+        "Metais Preciosos",
+        "NYSE"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 88
+    },
+    {
+      "titulo": "Anthropic wants to develop its own drugs - The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "fonte": "theverge.com",
+      "data": "2026-07-03",
+      "resumo": "A Anthropic, uma empresa de IA, planeja desenvolver seus próprios medicamentos, entrando em uma corrida com outras empresas de tecnologia, biotecnologia e farmacêuticas que também estão explorando a aplicação de IA na descoberta de drogas. Embora a empresa não tenha fornecido detalhes específicas sobre seus planos, a IA está sendo aplicada em todas as etapas da descoberta de drogas.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Biotecnologia",
+        "Farmacêutica"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 68
+    },
     {
       "titulo": "Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw - Reuters",
       "url": "https://www.reuters.com/commentary/breakingviews/ai-fight-exposes-silicon-valleys-mimetic-flaw-2026-07-03/",
@@ -1112,21 +1263,6 @@
       "tokens_usados": 46
     },
     {
-      "titulo": "3 charts to understand the stock market's 'mega rotation' out of tech - Business Insider",
-      "url": "https://www.businessinsider.com/stock-market-charts-rotation-stocks-tech-value-investing-strategy-2026-6",
-      "fonte": "businessinsider.com",
-      "data": "2026-06-27",
-      "resumo": "A bolsa de valores está experimentando uma \"rotação mega\" com investidores se deslocando para setores além da tecnologia. A falta de memória induzida pela IA contribuiu para as recentes mudanças no mercado, mas os especialistas destacaram a rotação como o tema mais amplo que afeta as ações. A Magnificent Seven, incluindo Nvidia, Amazon e Apple, foram alguns dos piores desempenhos nas últimas sessões de negociação.",
-      "sentimento": "bearish",
-      "tags": [
-        "tecnologia",
-        "mercado de ações",
-        "rotação de investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 78
-    },
-    {
       "titulo": "Micron is about to be more profitable than any U.S. company except Nvidia and Google - MarketWatch",
       "url": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343",
       "fonte": "marketwatch.com",
@@ -1140,21 +1276,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 46
-    },
-    {
-      "titulo": "Tech Equity Sales Renew AI Debt-Binge Worries - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/tech-equity-sales-renew-ai-debt-binge-worries-credit-weekly",
-      "fonte": "bloomberg.com",
-      "data": "2026-06-27",
-      "resumo": "A venda de ações de empresas de tecnologia está aumentando significativamente, levantando preocupações sobre o endividamento de empresas de tecnologia, especialmente as que investem em inteligência artificial (IA). A venda de ações de empresas como Alphabet, SpaceX e Meta Platforms está renovando preocupações sobre o endividamento de empresas de tecnologia. Isso pode ter implicações negativas para os investidores em dívida.",
-      "sentimento": "bearish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Finanças"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 93
     },
     {
       "titulo": "Australia's Firmus Technologies strikes AI access deal with Nvidia - Reuters",
@@ -1291,98 +1412,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 69
-    },
-    {
-      "titulo": "The AI trade cooled and oil sank. A closer look at Wall Street's volatile week - CNBC",
-      "url": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-27",
-      "resumo": "A semana na Wall Street foi marcada por volatilidade, com a queda das ações de empresas de memória como Samsung e SK Hynix, que afetou as ações de empresas de IA. No entanto, a divulgação de resultados positivos da Micron e a assinatura de acordos de fornecimento a longo prazo reacenderam a confiança dos investidores e impulsionaram as ações da empresa e de suas peers. A semana também viu uma discussão sobre quem serão os principais ganhadores e perdedores da explosão da inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 93
-    },
-    {
-      "titulo": "Will Intel Boom Fundamentally Challenge TSMC? - Forbes",
-      "url": "https://www.forbes.com/sites/johnwerner/2026/06/27/will-intel-boom-fundamentally-challenge-tsmc/",
-      "fonte": "forbes.com",
-      "data": "2026-06-27",
-      "resumo": "A Intel está experimentando um crescimento significativo após a Apple anunciar que usará a empresa como fornecedora de chips. Isso levou a um aumento de 500% no valor da ação da Intel em poucos meses. Esse crescimento pode ser um sinal de que a Intel está se tornando uma concorrente séria para a TSMC, a maior fabricante de chips do mundo.",
-      "sentimento": "bullish",
-      "tags": [
-        "Intel",
-        "TSMC",
-        "Nvidia",
-        "Apple",
-        "Semicondutores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 72
-    },
-    {
-      "titulo": "SA Asks: What's the most attractive chip stock right now? (NVDA:NASDAQ) - Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4607881-sa-asks-whats-the-most-attractive-chip-stock-right-now",
-      "fonte": "seekingalpha.com",
-      "data": "2026-06-27",
-      "resumo": "A Seeking Alpha perguntou aos analistas quais são as ações de chips mais atraentes no momento. Vinay Utham escolheu a NVIDIA (NVDA) devido a sua avaliação descontada, fundamentos acelerados, entrada no mercado de CPUs e crescimento de lucros forte em relação aos pares. Outras opções mencionadas incluem a Applied Materials, a ASML e a Sandisk.",
-      "sentimento": "bullish",
-      "tags": [
-        "NVDA",
-        "NVIDIA",
-        "Semiconductor"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 64
-    },
-    {
-      "titulo": "In the AI era, be a builder or a seller, not a measurer - Business Insider",
-      "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-      "fonte": "businessinsider.com",
-      "data": "2026-06-27",
-      "resumo": "Alistair Barr, autor do Tech Memo newsletter do Business Insider, discute como a era da IA está mudando a estrutura das empresas de tecnologia. Embora algumas empresas tenham cortado empregos, a demanda por engenheiros está aumentando, com um salto de 45% no número de engenheiros da Cloudflare em apenas alguns meses. O CEO da Cloudflare, Matthew Prince, afirma que a IA não está eliminando empregos, mas sim mudando a valorização de certas habilidades.",
-      "sentimento": "bullish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Emprego"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 82
-    },
-    {
-      "titulo": "AllianceBernstein's CEO says you should be worried about an AI bubble - Business Insider",
-      "url": "https://www.businessinsider.com/ai-bubble-sp500-valuations-tech-dot-com-seth-bernstein-ceo-2026-6",
-      "fonte": "businessinsider.com",
-      "data": "2026-06-27",
-      "resumo": "O CEO da AllianceBernstein, Seth Bernstein, expressou preocupação com a possibilidade de um \"buraco\" no mercado de tecnologia de inteligência artificial (IA). Embora ele seja um defensor entusiasta da tecnologia, ele acredita que os investidores podem estar sobrevalorizando as empresas de IA. Por outro lado, Bernstein também vê o potencial da IA para causar mudanças profundas na sociedade e na forma como as empresas operam.",
-      "sentimento": "neutral",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 102
-    },
-    {
-      "titulo": "What Huawei's Chip Strategy Reveals About Innovation Under Pressure - Forbes",
-      "url": "https://www.forbes.com/sites/markgreeven/2026/06/27/what-huaweis-chip-strategy-reveals-about-innovation-under-pressure/",
-      "fonte": "forbes.com",
-      "data": "2026-06-27",
-      "resumo": "A Huawei anunciou uma estratégia de chips que envolve a tecnologia de \"LogicFolding\", que permite dobrar e rearranjar a lógica de um chip para reduzir latência e perda de energia. Isso mostra que a empresa está desenvolvendo suas próprias soluções para superar as limitações de sua tecnologia, mesmo sem acesso a tecnologias mais avançadas. A competição em AI compute está se tornando cada vez mais intensa, com dois ecossistemas desenvolvendo em trajetórias separadas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Huawei"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 82
     }
   ]
 }

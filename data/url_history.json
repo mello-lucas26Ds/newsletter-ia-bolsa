@@ -1,72 +1,4 @@
 {
-  "https://seekingalpha.com/article/4917842-nvidia-the-next-dividend-aristocrat": {
-    "hash": "b1a8101c62a6dd0a12d85e4b5493376a",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock": {
-    "hash": "7e897827d622344f3523cec4bdee7282",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.cnbc.com/2026/06/26/friday-stocks-by-analyst-calls-like-spacex.html": {
-    "hash": "e62a9f47f773e1782510c90f4bafa158",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.cnbc.com/2026/06/26/citi-cuts-tech-stock-weighting-difficult-to-see-how-everyone-in-ai/tech-path-wins.html": {
-    "hash": "700116faf4d55e8be5ad5c9b625d9d02",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.forbes.com/sites/zoyahasan/2026/06/26/the-under-30s-entering-a-60-billion-deal-with-spacex/": {
-    "hash": "ce01a36c2dd5a5eb12fd9e1070425580",
-    "visto_em": "2026-06-27"
-  },
-  "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/": {
-    "hash": "35173d1aa37819199236c4b22ce34a40",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.cnbc.com/video/2026/06/26/how-zai-is-closing-in-on-americas-ai-frontier.html": {
-    "hash": "505c019077dad51821edea602173f0ac",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.businessinsider.com/ai-supposed-to-kill-tech-jobs-instead-demand-up-2026-6": {
-    "hash": "e24c594ecca0bee3509a2327c5ecd579",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.forbes.com/sites/josephandrew/2026/06/26/legal-tech-needs-to-change-now/": {
-    "hash": "ca055d945352e54293e90dfd2e2f72e7",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.cnbc.com/2026/06/25/micron-says-the-ai-party-is-far-from-over-but-not-all-are-celebrating.html": {
-    "hash": "2468aa649fbcfa6a0fa072fb126cff56",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.businessinsider.com/stock-market-today-selloff-chip-memory-stocks-tech-ai-2026-6": {
-    "hash": "729423c22df95b6fe4ef58007e8402e1",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.marketwatch.com/story/why-palantirs-stock-is-having-its-worst-month-in-years-even-in-the-midst-of-an-ai-boom-aad92671": {
-    "hash": "6b367756bce28b631bfd521ebec85a00",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.businessinsider.com/ai-bubble-sp500-valuations-tech-dot-com-seth-bernstein-ceo-2026-6": {
-    "hash": "45418fa5636a41afb238f5bc571d0998",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.businessinsider.com/tech-stocks-micron-earnings-apple-price-hikes-memory-ai-chips-2026-6": {
-    "hash": "2e8d3db697e629cbd7a8aa689eedf23f",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.benzinga.com/trading-ideas/movers/26/06/60113844/palantirs-worst-meltdown-since-2021-michael-burrys-big-short-draws-blood": {
-    "hash": "319b6b6ab55b6280e582621ea387a97e",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.forbes.com/sites/markgreeven/2026/06/27/what-huaweis-chip-strategy-reveals-about-innovation-under-pressure/": {
-    "hash": "6bc24d921dbbc9caad901b6948d1c91c",
-    "visto_em": "2026-06-27"
-  },
-  "https://www.cnbc.com/video/2026/06/26/ai-trade-is-not-dead-says-deepwaters-gene-munster.html": {
-    "hash": "51bbf5d02ecb5d18c631a5949563c7ec",
-    "visto_em": "2026-06-27"
-  },
   "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html": {
     "hash": "1a4f27cb3870d301a78a857b40a03519",
     "visto_em": "2026-06-28"
@@ -434,5 +366,45 @@
   "https://www.reuters.com/business/autos-transportation/kioxia-readies-next-gen-memory-mass-production-ai-boom-fuels-dramatic-comeback-2026-07-02/": {
     "hash": "7808f49e3ddbc010e1678132bc40e1c0",
     "visto_em": "2026-07-04"
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/stock-market-today-dow-s-p-live-updates": {
+    "hash": "2348d5c8894ab5edaacab60a835f261b",
+    "visto_em": "2026-07-05"
+  },
+  "https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7": {
+    "hash": "599b6f2dbe1487349ff4e332b6f19d57",
+    "visto_em": "2026-07-05"
+  },
+  "https://www.reuters.com/business/healthcare-pharmaceuticals/one-small-business-ai-was-key-quick-start-expansion-2026-07-04/": {
+    "hash": "e0806d0865114e3bfc5f5b55f404e8ba",
+    "visto_em": "2026-07-05"
+  },
+  "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/": {
+    "hash": "eb0c33e608b9cf6fde268095590b37d2",
+    "visto_em": "2026-07-05"
+  },
+  "https://www.reuters.com/business/wall-st-week-ahead-investors-look-fed-clues-earnings-signs-tech-wobbles-2026-07-03/": {
+    "hash": "c9b7b45e88f4a74143b294e8a5c52dbc",
+    "visto_em": "2026-07-05"
+  },
+  "https://www.reuters.com/world/india/ai-hiring-outpaces-overall-it-recruitment-india-report-shows-2026-07-03/": {
+    "hash": "bfef18542351d0a9c4725be50689ad67",
+    "visto_em": "2026-07-05"
+  },
+  "https://www.businessinsider.com/big-short-michael-burry-buffett-effect-ai-chip-stocks-investing-2026-7": {
+    "hash": "cdb5cb220032dd0c3b5004da3eacef39",
+    "visto_em": "2026-07-05"
+  },
+  "https://www.wsj.com/finance/software-loans-hit-rough-patch-even-before-ai-fears-triggered-saas-pocalypse-48f372d5": {
+    "hash": "28aade120952415483f35e180d3fc968",
+    "visto_em": "2026-07-05"
+  },
+  "https://seekingalpha.com/article/4919675-contango-silver-and-gold-the-dso-model-is-becoming-a-real-platform?source=generic_rss": {
+    "hash": "a835bc049908223d3c15724686581549",
+    "visto_em": "2026-07-05"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development": {
+    "hash": "f130d9dbe6467aab0766e3b38274d6a3",
+    "visto_em": "2026-07-05"
   }
 }
