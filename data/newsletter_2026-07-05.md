@@ -1,137 +1,85 @@
 # Newsletter IA Bolsa — 2026-07-05
 
-**Gerado em:** 05/07/2026 06:39
-**Total:** 10 noticias
+**Gerado em:** 05/07/2026 11:36
+**Total:** 6 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Stocks Stabilize After Tech-Led Selloff, Gold Up: Markets Wrap - Bloomberg.com
+## 1. Credible AI Lab Critics Pile Up As The Bubble Math Worsens - Forbes
 
-**Fonte:** bloomberg.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Tecnologia, Mercados Financeiros
-
-Ações estabilizam-se após uma sinalização de recuo no mercado de tecnologia, com ouro em alta. O dólar está em risco de ter sua pior semana desde maio. O mercado asiático avançou 2% com a recuperação de fabricantes de memória sul-coreanos.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-02/stock-market-today-dow-s-p-live-updates)
-
----
-
-## 2. What's in and what's out among the new AI money crowd - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Tecnologia, Moda, Luxo
-
-A nova geração de fundadores de IA está se tornando cada vez mais visível, e sua preferência por luxo e tecnologia está influenciando o mercado de moda. Marcas como Brunello Cucinelli e Bottega Veneta estão ganhando popularidade entre os fundadores de IA, que valorizam a estética de luxo quieto e a filosofia de sustentabilidade e criatividade dessas marcas. Além disso, há um aumento no interesse por marcas de roupas personalizadas que utilizam tecnologia, como Sene e Son of a Tailor.
-
-[Ler noticia completa](https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7)
-
----
-
-## 3. For one small business, AI was key to a quick start and expansion - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** IA, Tecnologia, Investimentos
-
-A implementação de inteligência artificial (IA) em pequenas empresas pode ser crucial para um rápido crescimento e expansão. A indústria de IA está enfrentando diferentes narrativas, com alguns enfatizando a escassez de recursos e outros a abundância de oportunidades. A investida em centros de dados necessários está impulsionando o crescimento e, em alguns casos, aumentando os custos de energia e mão de obra.
-
-[Ler noticia completa](https://www.reuters.com/business/healthcare-pharmaceuticals/one-small-business-ai-was-key-quick-start-expansion-2026-07-04/)
-
----
-
-## 4. What is Mistral AI? Everything to know about the OpenAI competitor - TechCrunch
-
-**Fonte:** techcrunch.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Fintech, VentureCapital
-
-Mistral AI é uma empresa de inteligência artificial que recebeu investimentos significativos de empresas como Microsoft, General Catalyst, Cisco, IBM, Nvidia e Samsung Venture Investment Corporation. A empresa desenvolveu uma variedade de modelos de IA, incluindo LLMs, multimodais, de razão, áudio e OCR, e fechou parcerias estratégicas com empresas como Microsoft, ASML, Accenture, IBM e Orange.
-
-[Ler noticia completa](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
-
----
-
-## 5. Wall St Week Ahead Investors look for Fed clues, earnings signs as tech wobbles - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** forbes.com  
+**Sentimento:** 🔴 BEARISH  
 **Relevancia:** 6.0/10  
-**Tags:** tecnologia, semicondutores, ações
+**Tags:** AI, Venture Capital, IPO
 
-A semana que vem será marcada por uma busca por pistas do Fed e sinais de lucro, após o desempenho instável das ações de tecnologia ter afetado os principais índices. A divulgação de minutos da reunião do Fed do mês passado e os resultados financeiros da Delta Air Lines e da PepsiCo podem fornecer novos indicadores para o mercado, que teve seu rally tecnológico abalado nas últimas semanas. As ações de tecnologia e, especialmente, os semicondutores impulsionaram as ganhas do mercado nos últimos meses.
+A OpenAI registrou uma perda operacional de $20,9 bilhões em 2025, com custos totais próximos a $34 bilhões, e uma perda líquida de $38,5 bilhões após uma conta única relacionada à conversão para lucro. Isso ocorreu poucos dias após a empresa fazer um arquivamento confidencial para uma IPO, o que significa que investidores do mercado público logo precisarão avaliar uma empresa que gastou cerca de $1,60 por cada dólar que ganhou. A OpenAI foi avaliada em $852 bilhões em março de 2026, após um investimento de $122 bilhões, e a Anthropic também fez investimentos comparáveis.
 
-[Ler noticia completa](https://www.reuters.com/business/wall-st-week-ahead-investors-look-fed-clues-earnings-signs-tech-wobbles-2026-07-03/)
-
----
-
-## 6. AI hiring outpaces overall IT recruitment in India, report shows - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Índia
-
-A contratação de profissionais de IA na Índia está superando a contratação geral de profissionais de TI, de acordo com um relatório. Isso sugere um aumento na demanda por habilidades em inteligência artificial e tecnologia avançada no país.
-
-[Ler noticia completa](https://www.reuters.com/world/india/ai-hiring-outpaces-overall-it-recruitment-india-report-shows-2026-07-03/)
+[Ler noticia completa](https://www.forbes.com/sites/josipamajic/2026/07/04/credible-ai-lab-critics-pile-up-as-the-bubble-math-worsens/)
 
 ---
 
-## 7. 'Big Short' investor Michael Burry might have his own version of the 'Buffett effect' - Business Insider
+## 2. The one question that will shape the AI trade for the rest of 2026 - Business Insider
 
 **Fonte:** businessinsider.com  
-**Sentimento:** 🔴 BEARISH  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
+**Tags:** IA, Tecnologia, Mercados
 
-O investidor Michael Burry, famoso por seu contrário bet contra a bolha imobiliária dos anos 2000, pode ter sua própria versão do "efeito Buffett". Burry divulgou que havia apostado contra a Micron e também havia feito apostas contra a Nvidia, Applied Materials, Caterpillar e Tesla. Ele descreveu o SOXX como uma "forma pura de superavaliação" e afirmou que o anúncio de gastos pesados da Samsung e SK Hynix marcou o "início do fim" da bolha.
+A corrida da indústria de inteligência artificial (IA) está se deslocando para novos setores, como os fabricantes de memória, enquanto os gigantes da tecnologia, como Amazon e Microsoft, continuam a investir pesadamente em IA. A corrida para a IA está se tornando cada vez mais complexa, com alguns analistas tomando uma postura mais agnóstica em relação à rotação de investimentos.
 
-[Ler noticia completa](https://www.businessinsider.com/big-short-michael-burry-buffett-effect-ai-chip-stocks-investing-2026-7)
+[Ler noticia completa](https://www.businessinsider.com/ai-stocks-chips-rally-mag7-divergence-hyperscalers-hardware-memory-2026-7)
 
 ---
 
-## 8. Exclusive | Software Loans Hit Rough Patch Even Before AI Fears Triggered SaaS-Pocalypse - WSJ
-
-**Fonte:** wsj.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** SaaS, IA, Tecnologia
-
-O mercado de empréstimos de software está enfrentando um período difícil, mesmo antes de as preocupações com a inteligência artificial (IA) terem desencadeado o "SaaS-Pocalypse". A WSJ relata que a indústria está enfrentando desafios, incluindo a concorrência feroz e a incerteza sobre a demanda futura.
-
-[Ler noticia completa](https://www.wsj.com/finance/software-loans-hit-rough-patch-even-before-ai-fears-triggered-saas-pocalypse-48f372d5)
-
----
-
-## 9. Contango Silver & Gold Stock: The DSO Model Is Becoming A Real Platform (NYSE:CTGO) - Seeking Alpha
+## 3. Cipher Digital: From Bitcoin Miner To AI Infrastructure Landlord (NASDAQ:CIFR) - Seeking Alpha
 
 **Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** Mineração, Metais Preciosos, NYSE
+**Relevancia:** 5.0/10  
+**Tags:** AI, Data Center, NASDAQ, Tecnologia
 
-A Contango Silver & Gold Inc. (CTGO) está desenvolvendo um modelo de negócios (DSO) que está se tornando uma plataforma real. O modelo permite que a empresa gerencie suas operações de mineração de forma eficiente e rentável.
+A Cipher Digital, empresa que começou como mineradora de Bitcoin, está se transformando em um grande proprietário de infraestrutura de inteligência artificial, com contratos de aluguel de $11,4 bilhões. A empresa espera gerar $787 milhões em NOI médio anualizado, com um múltiplo de 16, o que valoriza a empresa em $12,6 bilhões. Com a dívida de $900 milhões, a empresa tem um valor de ações de cerca de $28 por acionista.
 
-[Ler noticia completa](https://seekingalpha.com/article/4919675-contango-silver-and-gold-the-dso-model-is-becoming-a-real-platform?source=generic_rss)
+[Ler noticia completa](https://seekingalpha.com/article/4919898-cipher-digital-from-bitcoin-miner-to-ai-infrastructure-landlord)
 
 ---
 
-## 10. Anthropic wants to develop its own drugs - The Verge
+## 4. S&P 500 Earnings Outlook Hinges On Tech, Energy, And The Fed - Forbes
 
-**Fonte:** theverge.com  
+**Fonte:** forbes.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 8.0/10  
-**Tags:** AI, Biotecnologia, Farmacêutica
+**Tags:** S&P 500, Tecnologia, Energia
 
-A Anthropic, uma empresa de IA, planeja desenvolver seus próprios medicamentos, entrando em uma corrida com outras empresas de tecnologia, biotecnologia e farmacêuticas que também estão explorando a aplicação de IA na descoberta de drogas. Embora a empresa não tenha fornecido detalhes específicas sobre seus planos, a IA está sendo aplicada em todas as etapas da descoberta de drogas.
+A temporada de resultados de lucro do S&P 500 começa em 13 de julho, com as grandes bancos começando a relatar resultados. Algumas informações fundamentais de lucro podem fornecer um impulso positivo em meio a preocupações geopolíticas e aumentos de taxas da Fed. A expectativa é que o crescimento dos lucros do S&P 500 seja de 23,3% ano a ano no segundo trimestre, e 24,1% em 2026. A indústria de tecnologia lidera a expectativa de crescimento de lucro e receita.
 
-[Ler noticia completa](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development)
+[Ler noticia completa](https://www.forbes.com/sites/bill_stone/2026/07/05/sp-500-earnings-outlook-hinges-on-tech-energy-and-the-fed/)
+
+---
+
+## 5. Foxconn second-quarter revenue jumps 40% y/y - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Tecnologia, Eletrônicos
+
+A Foxconn, maior fabricante de eletrônicos do mundo, anunciou um aumento de 39,8% na receita do segundo trimestre em comparação com o mesmo período do ano anterior, impulsionado pela forte demanda por tecnologia de inteligência artificial (IA). A empresa relatou uma receita de T$2,513 trilhões ($78,71 bilhões) no trimestre de abril a junho, superando a estimativa de T$2,372 trilhões feita pela LSEG SmartEstimate.
+
+[Ler noticia completa](https://www.reuters.com/world/asia-pacific/foxconn-second-quarter-revenue-jumps-40-yy-2026-07-05/)
+
+---
+
+## 6. This $13 Billion Georgia Family Is Helping Electrify Data Centers - Forbes
+
+**Fonte:** forbes.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Data Centers, Energia
+
+A família Richards, dona de 100% da empresa Southwire, está ajudando a eletrificar centros de dados. A empresa, que fabrica metade dos fios e cabos usados para distribuir eletricidade nos EUA, está se adaptando às necessidades crescentes de energia para centros de dados, que devem aumentar 175% até 2030. Isso está levando a uma reavaliação da forma como as empresas de utilidade entregam eletricidade e gerenciam custos.
+
+[Ler noticia completa](https://www.forbes.com/sites/simonemelvin/2026/07/05/ai-data-centers-are-set-to-electrify-this-13-billion-familys-76-year-old-company/)
 
 ---
