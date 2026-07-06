@@ -1,137 +1,137 @@
 # Newsletter IA Bolsa — 2026-07-06
 
-**Gerado em:** 06/07/2026 07:10
+**Gerado em:** 06/07/2026 13:45
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Scared of an AI stock bubble? Then don't look at this chart.
+## 1. S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Tecnologia, Mercados Financeiros
-
-A concentração de ações de IA atingiu o mesmo nível que resultou na explosão da bolha de 2000, mas isso não significa que uma nova bolha está prestes a explodir. A análise sugere que a indústria de IA está em uma fase de crescimento saudável e que as empresas estão se preparando para uma era de inteligência artificial mais ampla.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/article/scared-of-an-ai-stock-bubble-then-dont-look-at-this-chart-133834616.html)
-
----
-
-## 2. AI spending, earnings hopes, Fed outlook set to sway US stocks in second half
-
-**Fonte:** reuters.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Economia, Mercado de Ações
-
-O mercado de ações dos EUA enfrentará desafios para manter sua tendência de alta no segundo semestre de 2026, incluindo a sustentabilidade dos gastos em IA, as expectativas de lucro e a perspectiva da Fed.
-
-[Ler noticia completa](https://www.reuters.com/business/ai-spending-earnings-hopes-fed-outlook-set-sway-us-stocks-second-half-2026-06-30/)
-
----
-
-## 3. US Stocks Get Tech Boost After AI-Fueled Selloff: Markets Wrap
-
-**Fonte:** bloomberg.com  
+**Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 8.0/10  
-**Tags:** AI, Tecnologia, Bolsa de Valores
+**Tags:** AI, WallStreet, S&P500
 
-A bolsa de valores dos EUA recebeu um impulso tecnológico após uma selloff de inteligência artificial, com várias empresas de tecnologia liderando a recuperação. Investidores estão comprando acreditando que a indústria de inteligência artificial está em uma situação de baixa e que agora é uma boa oportunidade para investir. A recuperação da bolsa foi liderada por empresas como Meta, Alphabet e Microsoft.
+As futuras do S&P 500 e da Nasdaq continuam a subir após uma semana forte no mercado de Wall Street. Investidores estão preocupados com a possibilidade de excesso de capacidade e competição crescente entre fornecedores de IA, incluindo os chineses. No entanto, eles não compram a ideia de que o mercado está inflado, comparando-o ao bolha de tecnologia da década de 1990.
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-06-28/us-futures-climb-on-reports-peace-talks-to-resume-markets-wrap)
-
----
-
-## 4. Stock market today: Dow, S&P 500, Nasdaq slip as semiconductor stocks sink to start 3rd quarter
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 4.0/10  
-**Tags:** Dow, S&P 500, Nasdaq, Semicondutores, Mercado de Ações
-
-O mercado de ações nos EUA apresentou uma performance mista após o presidente do Fed, Kevin Warsh, reafirmar a meta de inflação da instituição. As ações de semicondutores sofreram uma queda significativa no início do terceiro trimestre, afetando o Dow, o S&P 500 e a Nasdaq. As ações misturaram-se após o anúncio do presidente do Fed, com a inflação sendo um foco importante para os investidores.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-nasdaq-dips-dow-and-sp-500-rise-as-markets-weigh-kevin-warshs-remarks-224748322.html)
+[Ler noticia completa](https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html)
 
 ---
 
-## 5. SK Hynix Seeks Access to AI Investors in $29 Billion US Listing - Bloomberg.com
-
-**Fonte:** bloomberg.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semicondutores, NASDAQ
-
-A SK Hynix está procurando acesso a investidores de IA em sua lista de ações de US$ 29 bilhões. A empresa de semicondutores sul-coreana busca competir no mercado de memória de chips usados em computação de IA, que está em alta. A lista de ações pode ajudar a mudar a percepção da empresa, que tem sido negociada a um desconto em relação ao seu rival norte-americano, a Micron Technology.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-05/sk-hynix-seeks-access-to-ai-investors-in-29-billion-us-listing)
-
----
-
-## 6. Macquarie says now is the 'best time' to buy Chinese AI chip stocks. This one's its favorite - CNBC
+## 2. This semiconductor stock has more than doubled in a year. Bernstein sees more gains ahead - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semicondutores, China
-
-A Macquarie acredita que agora é o melhor momento para investir em ações de chips de inteligência artificial (IA) chinesas. A empresa considera que o desenvolvimento de IA, os jogadores de modelos de linguagem grande (LLM) domésticos e a economia de tokens na China tornaram o setor mais atraente. Além disso, o apoio do governo chinês às empresas de chips de IA domésticas, incluindo restrições de importação de GPUs da Nvidia, aumentou a visibilidade de crescimento das líderes domésticas.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/05/macquarie-says-now-is-best-time-to-buy-chinese-ai-chip-stocks-heres-its-favorite.html)
-
----
-
-## 7. Goldman Sachs says these undervalued stocks are 'well positioned' to outperform - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Mercados Chineses
-
-Goldman Sachs elogiou várias ações subvalorizadas que estão bem posicionadas para superar as expectativas, incluindo a NetEase, que é considerada uma "compounding não-AI" atraente devido à sua capacidade de expandir margens e lançar novos jogos. Além disso, o analista também recomendou a compra da Tradeweb, uma empresa de negociação eletrônica que enfrenta alguns desafios, mas tem potencial de crescimento.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/05/goldman-sachs-says-these-stocks-are-best-positioned-to-outperform.html)
-
----
-
-## 8. Jim Cramer: What caused the pre-holiday chip stock slump and what to do about it - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, Tech
-
-Jim Cramer analisa a queda nas ações de empresas de chips antes das férias e afirma que a falta de informações sobre a criação de um chip personalizado pela Anthropic foi o fator que desencadeou a queda. Ele recomenda que os investidores não vendam suas ações de Micron, Seagate, Western Digital, Sandisk e AMD, pois essas empresas têm acionistas fracos que não sabem como lidar com a situação.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/05/jim-cramer-what-caused-the-pre-holiday-chip-stock-slump-and-what-to-do-about-it.html)
-
----
-
-## 9. AMD backs Japanese self-driving startup Turing, expands AI partnership (AMD:NASDAQ) - Seeking Alpha
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
 **Tags:** AI, Semiconductor, NASDAQ
 
-A AMD investiu na startup japonesa Turing, especializada em tecnologia de condução autônoma, e expandiu sua parceria em inteligência artificial. A Turing passará a usar aceleradores de IA da AMD, reduzindo sua dependência da Nvidia.
+A empresa ASML, fornecedora de tecnologia de litografia de ultra-violeta extremamente avançada, viu suas ações mais do que dobrarem em um ano. A empresa é fundamental para a produção de memória e microchips, que são usados em modelos de IA. A empresa foi classificada como "comprar" por 19 analistas, incluindo a Bernstein, que vê mais ganhos a caminho.
 
-[Ler noticia completa](https://seekingalpha.com/news/4611531-amd-backs-japanese-self-driving-startup-turing-expands-ai-partnership)
+[Ler noticia completa](https://www.cnbc.com/2026/07/06/asml-has-more-than-doubled-in-a-year-bernstein-sees-more-gains-ahead.html)
 
 ---
 
-## 10. Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says - CNBC
+## 3. Hedge funds dumped chip stocks for a fourth week as AI shares sold off - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Semicondutores, Hedge Funds
+
+Hedge funds venderam ações de hardware de tecnologia por quarta semana consecutiva, devido a uma recente queda nas ações de chips globais e antes da divulgação de resultados financeiros de várias empresas. A venda de ações de tecnologia, especialmente semicondutores, tem sido um fator de volatilidade no mercado de ações. O índice SOX, que acompanha o desempenho das ações de semicondutores, caiu 4,2% na semana até 3 de julho.
+
+[Ler noticia completa](https://www.reuters.com/business/finance/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-off-2026-07-06/)
+
+---
+
+## 4. Momentum crash warnings flash red. Here’s how you might survive - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 8.0/10  
+**Tags:** AI, Tecnologia, Mercados Financeiros
+
+Apesar do frenesi de investimento em tecnologia e IA, especialistas alertam para o risco de uma "crise de momentum" que pode afetar os atuais líderes de mercado. Um estudo sugere que é possível evitar a perda de investimentos sem abandonar a tendência de crescimento.
+
+[Ler noticia completa](https://www.reuters.com/commentary/reuters-open-interest/momentum-crash-warnings-flash-red-heres-how-you-might-survive-2026-07-06/)
+
+---
+
+## 5. Tech Stocks’ Rebound Stalls, Dollar Edges Higher: Markets Wrap - Bloomberg.com
+
+**Fonte:** bloomberg.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 6.0/10  
+**Tags:** tecnologia, ações, mercado de ações
+
+A recuperação das ações de tecnologia está sendo interrompida, enquanto o dólar se aproxima de um valor mais alto. As futuras de ações de tecnologia nos EUA mostraram um aumento de 1,1% após o feriado, enquanto as futuras do S&P 500 subiram 0,4%. A Samsung Electronics Co. será objeto de escrutínio quando divulgar seus lucros na próxima terça-feira, após um aumento de 165% no ano até o momento.
+
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-05/stock-market-today-dow-s-p-live-updates)
+
+---
+
+## 6. Stocks making the biggest moves premarket: Lam Research, Intel, DataDog & more - CNBC
 
 **Fonte:** cnbc.com  
-**Sentimento:** 🔴 BEARISH  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Nvidia, Data Centers
+**Tags:** Semicondutores, Intel, Tecnologia
 
-A Nvidia anunciou que o lançamento do seu próximo sistema de rack de IA, o Rubin Ultra, foi adiado para 2028 devido a problemas de fabricação. Isso pode dar uma chance aos concorrentes, como a AMD e a Google, de ganhar mercado no setor de alta tecnologia. No entanto, a empresa ainda espera superar as expectativas de receita de computação em data centers no segundo semestre de 2027.
+As ações de empresas de semicondutores lideram o mercado pré-abertura, com a iShares Semiconductor ETF (SOXX) subindo mais de 2,5% após uma queda de 11% nas duas últimas sessões. Intel, Advanced Micro Devices e Broadcom também apresentam ganhos significativos, enquanto ASML Holding sobe 4% após uma revisão de preço alvo por parte da Bernstein.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html)
+[Ler noticia completa](https://www.cnbc.com/2026/07/06/stocks-making-the-biggest-moves-premarket-lrcx-intc-ddog.html)
+
+---
+
+## 7. Anthropic signs lease for TeraWulf data center in Kentucky - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 8.0/10  
+**Tags:** AI, Data Center, TeraWulf
+
+A Anthropic assinou um contrato de 20 anos para usar um centro de dados da TeraWulf em Kentucky, com capacidade de cerca de 400 megawatts e entrega de energia prevista para o segundo semestre de 2027. O contrato é esperado gerar cerca de $19 bilhões em receita. A TeraWulf é uma empresa de mineração de criptomoedas que se adaptou à infraestrutura de centros de dados para inteligência artificial.
+
+[Ler noticia completa](https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html)
+
+---
+
+## 8. Investors ignored manufacturing startups for years. These ex-Apple engineers raised a $33 million fund to change that. - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** IA, Fabricação, Robótica
+
+Duas ex-executivas da Apple, que ajudaram a empresa a levar produtos de protótipo à produção, estão investindo em startups de fabricação com um fundo de $33 milhões. Eles acreditam que o próximo boom da IA não acontecerá em telas, mas sim em linhas de produção. A tendência é apoiada por investidores que estão voltando a se concentrar no mundo físico, impulsionados pela evolução da IA, custos de hardware em queda, escassez de mão de obra e pressão geopolítica para reter as cadeias de suprimentos.
+
+[Ler noticia completa](https://www.businessinsider.com/apple-veterans-launch-a-33-million-fund-for-manufacturing-tech-2026-7)
+
+---
+
+## 9. Why The $2.1 Billion Sky ITV Deal Is Bigger Than Television - Forbes
+
+**Fonte:** forbes.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** TV, Streaming, Publicidade
+
+A Sky anunciou a aquisição da divisão de entretenimento da ITV por US$ 2,16 bilhões, unindo canais de TV aberta e serviços de streaming de alta definição. Essa união cria um ecossistema poderoso e conectado, permitindo campanhas publicitárias altamente direcionadas em diferentes plataformas. A Sky busca desafiar os gigantes de streaming globais com um ambiente de publicidade de alta qualidade e baseado em dados.
+
+[Ler noticia completa](https://www.forbes.com/sites/katehardcastle/2026/07/06/why-the-21-billion-sky-itv-deal-is-bigger-than-television/)
+
+---
+
+## 10. Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand - Bloomberg.com
+
+**Fonte:** bloomberg.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 8.0/10  
+**Tags:** AI, Nvidia, Tecnologia
+
+O fornecedor da Nvidia, Hon Hai Precision Industry Co., relatou um aumento de 40% nas vendas trimestrais, superando as expectativas, e afirmou que a demanda por AI continua a crescer.
+
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand)
 
 ---
