@@ -1,11 +1,163 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-05",
-    "total_noticias": 99,
-    "gerado_em": "2026-07-05T11:36:13.273321"
+    "data": "2026-07-06",
+    "total_noticias": 97,
+    "gerado_em": "2026-07-06T07:10:51.591928"
   },
   "noticias": [
+    {
+      "titulo": "Scared of an AI stock bubble? Then don't look at this chart.",
+      "url": "https://finance.yahoo.com/markets/article/scared-of-an-ai-stock-bubble-then-dont-look-at-this-chart-133834616.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-02",
+      "resumo": "A concentração de ações de IA atingiu o mesmo nível que resultou na explosão da bolha de 2000, mas isso não significa que uma nova bolha está prestes a explodir. A análise sugere que a indústria de IA está em uma fase de crescimento saudável e que as empresas estão se preparando para uma era de inteligência artificial mais ampla.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "AI spending, earnings hopes, Fed outlook set to sway US stocks in second half",
+      "url": "https://www.reuters.com/business/ai-spending-earnings-hopes-fed-outlook-set-sway-us-stocks-second-half-2026-06-30/",
+      "fonte": "reuters.com",
+      "data": "2026-07-01",
+      "resumo": "O mercado de ações dos EUA enfrentará desafios para manter sua tendência de alta no segundo semestre de 2026, incluindo a sustentabilidade dos gastos em IA, as expectativas de lucro e a perspectiva da Fed.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Economia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 46
+    },
+    {
+      "titulo": "US Stocks Get Tech Boost After AI-Fueled Selloff: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/us-futures-climb-on-reports-peace-talks-to-resume-markets-wrap",
+      "fonte": "bloomberg.com",
+      "data": "2026-06-29",
+      "resumo": "A bolsa de valores dos EUA recebeu um impulso tecnológico após uma selloff de inteligência artificial, com várias empresas de tecnologia liderando a recuperação. Investidores estão comprando acreditando que a indústria de inteligência artificial está em uma situação de baixa e que agora é uma boa oportunidade para investir. A recuperação da bolsa foi liderada por empresas como Meta, Alphabet e Microsoft.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Bolsa de Valores"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "Stock market today: Dow, S&P 500, Nasdaq slip as semiconductor stocks sink to start 3rd quarter",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-nasdaq-dips-dow-and-sp-500-rise-as-markets-weigh-kevin-warshs-remarks-224748322.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-02",
+      "resumo": "O mercado de ações nos EUA apresentou uma performance mista após o presidente do Fed, Kevin Warsh, reafirmar a meta de inflação da instituição. As ações de semicondutores sofreram uma queda significativa no início do terceiro trimestre, afetando o Dow, o S&P 500 e a Nasdaq. As ações misturaram-se após o anúncio do presidente do Fed, com a inflação sendo um foco importante para os investidores.",
+      "sentimento": "neutral",
+      "tags": [
+        "Dow",
+        "S&P 500",
+        "Nasdaq",
+        "Semicondutores",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 4.0,
+      "tokens_usados": 80
+    },
+    {
+      "titulo": "SK Hynix Seeks Access to AI Investors in $29 Billion US Listing - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/sk-hynix-seeks-access-to-ai-investors-in-29-billion-us-listing",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-05",
+      "resumo": "A SK Hynix está procurando acesso a investidores de IA em sua lista de ações de US$ 29 bilhões. A empresa de semicondutores sul-coreana busca competir no mercado de memória de chips usados em computação de IA, que está em alta. A lista de ações pode ajudar a mudar a percepção da empresa, que tem sido negociada a um desconto em relação ao seu rival norte-americano, a Micron Technology.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 78
+    },
+    {
+      "titulo": "Macquarie says now is the 'best time' to buy Chinese AI chip stocks. This one's its favorite - CNBC",
+      "url": "https://www.cnbc.com/2026/07/05/macquarie-says-now-is-best-time-to-buy-chinese-ai-chip-stocks-heres-its-favorite.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-05",
+      "resumo": "A Macquarie acredita que agora é o melhor momento para investir em ações de chips de inteligência artificial (IA) chinesas. A empresa considera que o desenvolvimento de IA, os jogadores de modelos de linguagem grande (LLM) domésticos e a economia de tokens na China tornaram o setor mais atraente. Além disso, o apoio do governo chinês às empresas de chips de IA domésticas, incluindo restrições de importação de GPUs da Nvidia, aumentou a visibilidade de crescimento das líderes domésticas.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "China"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 88
+    },
+    {
+      "titulo": "Goldman Sachs says these undervalued stocks are 'well positioned' to outperform - CNBC",
+      "url": "https://www.cnbc.com/2026/07/05/goldman-sachs-says-these-stocks-are-best-positioned-to-outperform.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-05",
+      "resumo": "Goldman Sachs elogiou várias ações subvalorizadas que estão bem posicionadas para superar as expectativas, incluindo a NetEase, que é considerada uma \"compounding não-AI\" atraente devido à sua capacidade de expandir margens e lançar novos jogos. Além disso, o analista também recomendou a compra da Tradeweb, uma empresa de negociação eletrônica que enfrenta alguns desafios, mas tem potencial de crescimento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados Chineses"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "Jim Cramer: What caused the pre-holiday chip stock slump and what to do about it - CNBC",
+      "url": "https://www.cnbc.com/2026/07/05/jim-cramer-what-caused-the-pre-holiday-chip-stock-slump-and-what-to-do-about-it.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-05",
+      "resumo": "Jim Cramer analisa a queda nas ações de empresas de chips antes das férias e afirma que a falta de informações sobre a criação de um chip personalizado pela Anthropic foi o fator que desencadeou a queda. Ele recomenda que os investidores não vendam suas ações de Micron, Seagate, Western Digital, Sandisk e AMD, pois essas empresas têm acionistas fracos que não sabem como lidar com a situação.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "Tech"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 77
+    },
+    {
+      "titulo": "AMD backs Japanese self-driving startup Turing, expands AI partnership (AMD:NASDAQ) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4611531-amd-backs-japanese-self-driving-startup-turing-expands-ai-partnership",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-06",
+      "resumo": "A AMD investiu na startup japonesa Turing, especializada em tecnologia de condução autônoma, e expandiu sua parceria em inteligência artificial. A Turing passará a usar aceleradores de IA da AMD, reduzindo sua dependência da Nvidia.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 44
+    },
+    {
+      "titulo": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says - CNBC",
+      "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-06",
+      "resumo": "A Nvidia anunciou que o lançamento do seu próximo sistema de rack de IA, o Rubin Ultra, foi adiado para 2028 devido a problemas de fabricação. Isso pode dar uma chance aos concorrentes, como a AMD e a Google, de ganhar mercado no setor de alta tecnologia. No entanto, a empresa ainda espera superar as expectativas de receita de computação em data centers no segundo semestre de 2027.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Nvidia",
+        "Data Centers"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 78
+    },
     {
       "titulo": "Credible AI Lab Critics Pile Up As The Bubble Math Worsens - Forbes",
       "url": "https://www.forbes.com/sites/josipamajic/2026/07/04/credible-ai-lab-critics-pile-up-as-the-bubble-math-worsens/",
@@ -1173,21 +1325,6 @@
       "tokens_usados": 72
     },
     {
-      "titulo": "Why Wall Street thinks US memory maker Micron is the next Nvidia - TechCrunch",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "fonte": "techcrunch.com",
-      "data": "2026-06-28",
-      "resumo": "A empresa de memória Micron está tendo um desempenho excepcional, com receita que quadruplicou e lucro que aumentou significativamente em um ano. Isso está atraindo a atenção de Wall Street, que está procurando por empresas de IA que possam seguir o exemplo da Nvidia. A empresa tem assinado acordos de fornecimento a longo prazo com empresas como a Nvidia e a Anthropic, o que pode protegê-la de uma possível crise de demanda.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Tech"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 81
-    },
-    {
       "titulo": "Vibe coding platform Base44 launches own model as AI startups seek defensibility - TechCrunch",
       "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "fonte": "techcrunch.com",
@@ -1324,66 +1461,6 @@
       "tokens_usados": 68
     },
     {
-      "titulo": "Stock Market Outlook Hinges On AI Earnings And Fed Rate Risks - Forbes",
-      "url": "https://www.forbes.com/sites/bill_stone/2026/06/28/stock-market-outlook-hinges-on-ai-earnings-and-fed-rate-risks/",
-      "fonte": "forbes.com",
-      "data": "2026-06-28",
-      "resumo": "O mercado de ações está sujeito a riscos de Fed Rate e desempenho de empresas de AI, mas ainda há oportunidades de crescimento com a expansão da economia americana e a melhoria nos lucros das empresas de tecnologia. O setor de semicondutores e o setor de software mostraram resistência ao recente declínio, e a expectativa é que os lucros das empresas de tecnologia continuem a crescer acima do normal.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 78
-    },
-    {
-      "titulo": "Memory chip makers reap AI windfall as prices surge, WSJ reports - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/memory-chip-makers-reap-ai-windfall-as-prices-surge-wsj-reports-4764067",
-      "fonte": "investing.com",
-      "data": "2026-06-28",
-      "resumo": "O mercado de memória de chips está experimentando um aumento de preços, o que está gerando lucros para os fabricantes de memória de chips. Isso está relacionado ao aumento da demanda por tecnologia de inteligência artificial (IA).",
-      "sentimento": "bullish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Semicondutores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 46
-    },
-    {
-      "titulo": "Micron is about to be more profitable than any U.S. company except Nvidia and Google - MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343",
-      "fonte": "marketwatch.com",
-      "data": "2026-06-28",
-      "resumo": "A Micron Technology está prestes a ser mais lucrativa do que qualquer outra empresa americana, exceto a Nvidia e a Google, devido à alta demanda por componentes de memória de AI por parte de empresas de tecnologia.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Micron"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 46
-    },
-    {
-      "titulo": "Australia's Firmus Technologies strikes AI access deal with Nvidia - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/australias-firmus-technologies-strikes-ai-access-deal-with-nvidia-2026-06-28/",
-      "fonte": "reuters.com",
-      "data": "2026-06-28",
-      "resumo": "A Firmus Technologies, uma empresa australiana de infraestrutura de IA, anunciou um acordo estratégico com a Nvidia para fornecer acesso mais acessível a tecnologia de computação para empresas de IA emergentes. O acordo prevê a entrega de 170.000 Unidades de Processamento Gráfico (GPU) em Batam, Indonésia, entre 2027 e 2028, e é esperado gerar até US$ 30 bilhões em receita nos primeiros seis anos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Nvidia",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 73
-    },
-    {
       "titulo": "China poses a threat to South Korean memory companies in the long-term: KB Financial Group - CNBC",
       "url": "https://www.cnbc.com/video/2026/06/29/china-poses-a-threat-to-south-korean-memory-companies-in-the-long-term.html",
       "fonte": "cnbc.com",
@@ -1397,112 +1474,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 41
-    },
-    {
-      "titulo": "Top Wall Street analysts are bullish on these 3 stocks for strong long-term growth potential - CNBC",
-      "url": "https://www.cnbc.com/2026/06/28/top-analysts-bullish-on-these-stocks-for-long-term-growth-potential.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-28",
-      "resumo": "A Credo Technology (CRDO) é uma empresa que fornece soluções de conectividade de alta velocidade para centros de dados de inteligência artificial. A demanda robusta liderada pela inteligência artificial para os interconectores de cobre e ópticos da empresa impulsionou a receita, impulsionando uma sólida recuperação até o momento. O analista Vivek Arya da Bank of America elevou seus preços-alvo para a empresa, reiterando uma recomendação de compra com um preço-alvo de $340.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 81
-    },
-    {
-      "titulo": "TechCrunch Mobility: All eyes on Tesla FSD - TechCrunch",
-      "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
-      "fonte": "techcrunch.com",
-      "data": "2026-06-28",
-      "resumo": "A notícia apresenta várias notícias sobre startups e empresas de tecnologia móvel, incluindo investimentos em empresas de veículos autônomos, drones e infraestrutura de carregamento de veículos elétricos. Além disso, a notícia destaca a posição de Tesla como uma empresa de inteligência artificial e robótica, com foco em seu produto FSD (Supervised).",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Autonomous Vehicles",
-        "Electric Vehicles",
-        "Startups"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 63
-    },
-    {
-      "titulo": "Kevin O'Leary has entered a new villain era - Business Insider",
-      "url": "https://www.businessinsider.com/kevin-oleary-data-centers-2026-6",
-      "fonte": "businessinsider.com",
-      "data": "2026-06-28",
-      "resumo": "Kevin O'Leary, conhecido por seu papel no programa de TV \"Shark Tank\", tem se tornado um defensor apaixonado de centros de dados, argumentando que a competição global exige que os países mantenham sua liderança em tecnologia. Ele começou a investir em centros de dados há dois anos e agora os defende como essenciais para o desenvolvimento da inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Data Centers",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 69
-    },
-    {
-      "titulo": "Are AI stocks headed for further turbulence? - Financial Times",
-      "url": "https://www.ft.com/content/bc8ce24b-b6ed-4e2d-a628-69f30751ce9e",
-      "fonte": "ft.com",
-      "data": "2026-06-28",
-      "resumo": "O artigo do Financial Times questiona se as ações de empresas de inteligência artificial (IA) estão prestes a enfrentar mais turbulência no mercado. Embora as empresas de IA tenham tido um ano forte, alguns analistas estão preocupados com a volatilidade do setor e a possibilidade de uma correção.",
-      "sentimento": "bearish",
-      "tags": [
-        "IA",
-        "Finanças",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 59
-    },
-    {
-      "titulo": "AI Is Turning Knowledge Into A Commodity. Here's What Matters Now - Forbes",
-      "url": "https://www.forbes.com/sites/williamarruda/2026/06/28/ai-is-turning-knowledge-into-a-commodity-heres-what-matters-now/",
-      "fonte": "forbes.com",
-      "data": "2026-06-28",
-      "resumo": "A inteligência artificial está revolucionando o sucesso profissional, tornando a conhecimento um bem comum e deslocando a vantagem competitiva do conhecimento para a capacidade de pensar de forma criativa. A chave para o sucesso agora é utilizar a IA para amplificar as qualidades humanas únicas, como julgamento, criatividade e comunicação. Isso cria o \"Grande Prêmio Humano\", onde a confiança se torna escassa e a originalidade e a propriedade intelectual se tornam ainda mais valiosas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Carreira"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 83
-    },
-    {
-      "titulo": "This Week’s Small Business Tech News: Apple Significantly Raises Their Prices - Forbes",
-      "url": "https://www.forbes.com/sites/quickerbettertech/2026/06/28/this-weeks-small-business-tech-news-apple-significantly-raises-their-prices/",
-      "fonte": "forbes.com",
-      "data": "2026-06-28",
-      "resumo": "A implementação de agentes de IA pode afetar negativamente as pequenas empresas, tornando difícil para elas competir e vender seus produtos. No entanto, empresas de tecnologia estão desenvolvendo agentes de IA para ajudar as pequenas empresas a competir. Além disso, o CEO da Apple, Tim Cook, afirmou que os preços dos produtos da empresa precisarão aumentar devido ao boom de IA, que está aumentando o custo de memória e armazenamento de chips.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Pequenas Empresas"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 83
-    },
-    {
-      "titulo": "OpenAI Eyes 2027 IPO Delay As Washington Clears Anthropic's Mythos 5 - Forbes",
-      "url": "https://www.forbes.com/sites/sandycarter/2026/06/28/openai-eyes-2027-ipo-delay-as-washington-clears-anthropics-mythos-5/",
-      "fonte": "forbes.com",
-      "data": "2026-06-28",
-      "resumo": "A OpenAI adiou sua listação em bolsa para 2027, após a SpaceX ter um IPO recorde e o mercado de tecnologia se amainar. A empresa ainda busca alcançar seu objetivo de valor de $1 trilhão. Já a Anthropic teve seu modelo Mythos 5 aprovado pela Washington, enquanto o modelo Fable 5 da OpenAI permanece offline sem prazo de lançamento.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "IPO",
-        "Tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 69
     }
   ]
 }

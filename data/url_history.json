@@ -1,48 +1,4 @@
 {
-  "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html": {
-    "hash": "1a4f27cb3870d301a78a857b40a03519",
-    "visto_em": "2026-06-28"
-  },
-  "https://www.forbes.com/sites/johnwerner/2026/06/27/will-intel-boom-fundamentally-challenge-tsmc/": {
-    "hash": "7f80e3ab049f011f1872d828f90e096d",
-    "visto_em": "2026-06-28"
-  },
-  "https://www.bloomberg.com/news/articles/2026-06-26/apple-price-hikes-spark-asia-tech-selloff-on-memory-cost-concern": {
-    "hash": "898adc7a0d4983c56c9d531965dfef55",
-    "visto_em": "2026-06-28"
-  },
-  "https://seekingalpha.com/news/4607881-sa-asks-whats-the-most-attractive-chip-stock-right-now": {
-    "hash": "924db98c17a3a87c182c302546f2c177",
-    "visto_em": "2026-06-28"
-  },
-  "https://www.cnbc.com/video/2026/06/26/jeremy-siegel-tech-stocks-may-have-hit-a-top-based-on-recent-technical-indicators.html": {
-    "hash": "c6825dcc83952c1ab45835d575d29d52",
-    "visto_em": "2026-06-28"
-  },
-  "https://www.cnbc.com/video/2026/06/26/ridgepost-capital-ceo-on-his-lower-middle-market-investing-thesis.html": {
-    "hash": "746b1a60a96a2f4d4261a27c0b754d72",
-    "visto_em": "2026-06-28"
-  },
-  "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6": {
-    "hash": "f61b527249221d17b99920660b18e597",
-    "visto_em": "2026-06-28"
-  },
-  "https://www.ft.com/content/bc8ce24b-b6ed-4e2d-a628-69f30751ce9e": {
-    "hash": "bdd1dd92cc2b9f0feef7f6d6a3eea2f9",
-    "visto_em": "2026-06-28"
-  },
-  "https://www.forbes.com/sites/williamarruda/2026/06/28/ai-is-turning-knowledge-into-a-commodity-heres-what-matters-now/": {
-    "hash": "58219e8ac5b6eaf9a79038f0654f4f2a",
-    "visto_em": "2026-06-28"
-  },
-  "https://www.forbes.com/sites/quickerbettertech/2026/06/28/this-weeks-small-business-tech-news-apple-significantly-raises-their-prices/": {
-    "hash": "40b45e370a77b810e03be10f6351d5b8",
-    "visto_em": "2026-06-28"
-  },
-  "https://www.forbes.com/sites/sandycarter/2026/06/28/openai-eyes-2027-ipo-delay-as-washington-clears-anthropics-mythos-5/": {
-    "hash": "7e16a58dc83123d2af5364ba587331d7",
-    "visto_em": "2026-06-28"
-  },
   "https://www.forbes.com/sites/bill_stone/2026/06/28/stock-market-outlook-hinges-on-ai-earnings-and-fed-rate-risks/": {
     "hash": "7d8f9364d94b130644a6f95409943488",
     "visto_em": "2026-06-29"
@@ -430,5 +386,45 @@
   "https://www.forbes.com/sites/simonemelvin/2026/07/05/ai-data-centers-are-set-to-electrify-this-13-billion-familys-76-year-old-company/": {
     "hash": "5635ee75a5b2e47ded221fb56a90a25d",
     "visto_em": "2026-07-05"
+  },
+  "https://finance.yahoo.com/markets/article/scared-of-an-ai-stock-bubble-then-dont-look-at-this-chart-133834616.html": {
+    "hash": "257f0c4b1ed99e27dbb27c10c92c198b",
+    "visto_em": "2026-07-06"
+  },
+  "https://www.reuters.com/business/ai-spending-earnings-hopes-fed-outlook-set-sway-us-stocks-second-half-2026-06-30/": {
+    "hash": "f98e736c13f15ec39f4945b46666db45",
+    "visto_em": "2026-07-06"
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-28/us-futures-climb-on-reports-peace-talks-to-resume-markets-wrap": {
+    "hash": "1bc207c14bfc35a6838c937f5140fb2e",
+    "visto_em": "2026-07-06"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-nasdaq-dips-dow-and-sp-500-rise-as-markets-weigh-kevin-warshs-remarks-224748322.html": {
+    "hash": "f1ccf0edcd1e958e881d28e59ea3b63d",
+    "visto_em": "2026-07-06"
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-05/sk-hynix-seeks-access-to-ai-investors-in-29-billion-us-listing": {
+    "hash": "315216b2014b55b5e6b2f16a665d7d4f",
+    "visto_em": "2026-07-06"
+  },
+  "https://www.cnbc.com/2026/07/05/macquarie-says-now-is-best-time-to-buy-chinese-ai-chip-stocks-heres-its-favorite.html": {
+    "hash": "32ef83dc1bf4d2f383bd2cee412b7787",
+    "visto_em": "2026-07-06"
+  },
+  "https://www.cnbc.com/2026/07/05/goldman-sachs-says-these-stocks-are-best-positioned-to-outperform.html": {
+    "hash": "43614a164dbf1f06815b0e8f92c62bb5",
+    "visto_em": "2026-07-06"
+  },
+  "https://www.cnbc.com/2026/07/05/jim-cramer-what-caused-the-pre-holiday-chip-stock-slump-and-what-to-do-about-it.html": {
+    "hash": "d98c5070265405f305cc5cf7ab314271",
+    "visto_em": "2026-07-06"
+  },
+  "https://seekingalpha.com/news/4611531-amd-backs-japanese-self-driving-startup-turing-expands-ai-partnership": {
+    "hash": "7f3a6da43566a293cd49d5bc3802a3e0",
+    "visto_em": "2026-07-06"
+  },
+  "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html": {
+    "hash": "2468aa649fbcfa6a0fa072fb126cff56",
+    "visto_em": "2026-07-06"
   }
 }
