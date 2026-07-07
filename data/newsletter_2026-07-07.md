@@ -1,124 +1,98 @@
 # Newsletter IA Bolsa — 2026-07-07
 
-**Gerado em:** 07/07/2026 06:44
-**Total:** 9 noticias
+**Gerado em:** 07/07/2026 12:27
+**Total:** 7 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Mega-cap Tech earnings will reveal whether AI has staying power: Neuberger - CNBC
+## 1. Asia stocks fall as AI valuation fears overshadow Samsung’s blockbuster earnings - Investing.com
 
-**Fonte:** cnbc.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Tech, Earnings
-
-O analista financeiro Jeff Blazek da Neuberger afirma que a corrida por inteligência artificial (IA) está impulsionando as empresas a levantar grandes quantias de capital, mas a durabilidade do negócio dependerá da capacidade de converter investimentos em receita sustentável. Ele espera que os ganhos de produtividade liderados pela IA melhorem o cenário macro a longo prazo, mesmo que a transição cause deslocamento estrutural de empregos.
-
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/07/neuberger-hyperscalers-earnings-will-be-scrutinized-for-signs-of-ai-trades-staying-power.html)
-
----
-
-## 2. BlackRock says the China AI play is stock-specific, not a regional trade - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 6.0/10  
-**Tags:** AI, China, Infraestrutura
-
-A BlackRock acredita que a corrida pela inteligência artificial (IA) é mais um investimento em ações específicas do que uma tendência regional. Embora a China tenha implementado políticas para apoiar o desenvolvimento de IA, a competição e a economia em crescimento lento podem dificultar a geração de lucros. A empresa recomenda investir em ações expostas a inputs industriais escassos, como infraestrutura, e acredita que os vencedores da corrida pela IA serão principalmente ações dos EUA.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/07/china-ai-play-is-stock-specific-not-a-regional-trade-blackrock.html)
-
----
-
-## 3. AI is going to need software companies, says Guggenheim's Mandl - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Software, Tecnologia
-
-O analista Eric Mandl, da Guggenheim, afirma que a indústria de inteligência artificial (IA) precisará de empresas de software para funcionar. Isso sugere que a IA não é apenas uma tecnologia isolada, mas sim uma ferramenta que depende de uma infraestrutura de software robusta para funcionar efetivamente.
-
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/06/ai-is-going-to-need-software-companies-says-guggenheims-mandl.html)
-
----
-
-## 4. Tech Set to Rebound as AI Leadership Faces Fresh Tests - Bloomberg.com
-
-**Fonte:** bloomberg.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Semicondutores
-
-A bolsa de valores dos EUA subiu na segunda-feira, com investidores comprando ações de tecnologia após o mercado de inteligência artificial ter uma reação negativa antes do feriado de fim de semana. A Nasdaq 100 subiu 1,1% e o S&P 500 aumentou 0,6%, liderados por avanços em ações de semicondutores e outras ligadas à inteligência artificial. O mercado de tecnologia está pronto para uma recuperação após a queda recente.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-06/tech-set-to-rebound-as-ai-leadership-faces-fresh-tests)
-
----
-
-## 5. Wall Street closes higher as Broadcom rallies - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Mercado de Ações
-
-A Wall Street encerrou em alta, com a Broadcom liderando a recuperação. A notícia inclui várias reportagens sobre tecnologia e inovação, incluindo a utilização de IA em projetos espaciais e a criação de um robô subaquático para monitorar gelo em lagos. Além disso, a SK Hynix anunciou um lançamento de ações no valor de US$ 28 bilhões nos EUA para aproveitar a onda de IA global.
-
-[Ler noticia completa](https://www.reuters.com/video/watch/idRW562506072026RP1/)
-
----
-
-## 6. Quant Hedge Funds Extend Worst Run Since 2023 as Momentum Slides - Bloomberg.com
-
-**Fonte:** bloomberg.com  
+**Fonte:** investing.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
-**Tags:** hedge funds, mercado de ações, estratégia de momentum
+**Tags:** AI, Inteligência Artificial, Tecnologia
 
-Fundos de hedge quantitativos enfrentam o pior desempenho desde 2023, enquanto a estratégia de momentum sofre uma queda de mais de 3% por duas semanas consecutivas.
+A bolsa de valores da Ásia caiu devido a medos de valorização de investimentos em inteligência artificial, apesar de um lucro recorde da Samsung. A venda se espalhou pela cadeia de fornecimento de hardware de IA da Ásia, além dos fabricantes de memória-chip da Coreia do Sul. A Nvidia, principal parceira de montagem de servidores de IA, caiu 2,1% apesar de relatar receita mais forte do que esperado no mês de junho e no segundo trimestre.
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-06/quant-hedge-funds-extend-worst-run-since-2023-as-momentum-slides)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-ai-valuation-fears-overshadow-samsungs-blockbuster-earnings-4778205)
 
 ---
 
-## 7. XAI makes its rebrand to SpaceXAI complete with a new logo - Business Insider
+## 2. 'Fast Money' traders discuss whether tech can lead markets to new highs - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 6.0/10  
+**Tags:** AI, NASDAQ, Tecnologia
+
+O time "Fast Money" da CNBC discute sobre a sustentabilidade do comércio de tecnologia, o que os investidores devem prestar atenção e mais. A SK Hynix está prestes a ser listada na NASDAQ no próximo fim de semana. Alguns especialistas, como o Roger McNamee, acreditam que a estrutura de investimento em IA está criando um grande buraco.
+
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/06/fast-money-traders-on-whether-tech-can-lead-markets-to-new-highs.html)
+
+---
+
+## 3. The markets are broadening out, but the AI trade still can do well: UBS GWM - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Finance, Markets
+
+O analista James Cheo, da UBS Global Wealth Management, afirma que os investidores devem ter uma perspectiva mais ampla ao observar o mercado sul-coreano, que teve um aumento significativo anteriormente. Além disso, ele destaca que setores além da IA, como saúde, financeiros e industriais, estão começando a ganhar impulso.
+
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/07/markets-are-broadening-out-but-the-ai-trade-still-can-do-well-ubs.html)
+
+---
+
+## 4. Samsung's Record Profits Aren't Enough for Investors Anymore - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Tecnologia, Semicondutores
+
+A Samsung e a Nvidia estão enfrentando uma reação fria dos investidores apesar de seus lucros recordes. A popularidade da indústria de chips de IA está levando a uma situação em que os lucros não impressionam mais, pois a perfeição já está incorporada nos preços das ações.
+
+[Ler noticia completa](https://www.businessinsider.com/kospi-today-samsung-stock-price-earnings-report-hynix-ai-profits-2026-7)
+
+---
+
+## 5. Vercel's CEO said choosing one AI lab to partner with is a thing of the past - Business Insider
 
 **Fonte:** businessinsider.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, SpaceX, Elon Musk
+**Relevancia:** 5.0/10  
+**Tags:** AI, Tecnologia, Negócios
 
-A xAI, uma empresa de inteligência artificial fundada por Elon Musk, foi rebrandada para SpaceXAI, com um novo logotipo e uma atualização no seu nome de usuário no X. A empresa foi adquirida pelo SpaceX, da qual Musk é o fundador, no início do ano. A rebranding é uma parte da expansão da empresa no setor de tecnologia e inteligência artificial.
+O CEO da Vercel, Guillermo Rauch, afirmou que as empresas não estão mais confiando em apenas um laboratório de IA para atender às suas necessidades. Em vez disso, elas estão optando por diferentes laboratórios para diferentes tarefas, devido à complexidade e às necessidades específicas de cada projeto. Rauch também mencionou a importância de modelagem de rotas, para evitar o uso de modelos caros para tarefas simples.
 
-[Ler noticia completa](https://www.businessinsider.com/xai-rebrand-spacexai-new-logo-x-handle-spacex-2026-7)
+[Ler noticia completa](https://www.businessinsider.com/vercel-ceo-guillermo-rauch-ai-lab-partner-outdated-2026-7)
 
 ---
 
-## 8. AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says - Reuters
+## 6. TeraWulf’s stock surges after a $19 billion deal with Anthropic - MarketWatch
 
-**Fonte:** reuters.com  
+**Fonte:** marketwatch.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Hyperscalers, Semicondutores, Investimentos
+**Tags:** AI, TeraWulf, Anthropic
 
-A Morgan Stanley prevê que investidores em IA possam se desviar dos fabricantes de chips e se concentrar em "hiperscalers" (empresas de tecnologia que investem pesadamente em centros de dados) e em ações de empresas de consumo, transporte e biotecnologia. Isso ocorre devido à recente fraqueza nos títulos de semicondutores, que é visto como um sinal de que os ganhos do mercado estão se ampliando. Embora empresas como Alphabet e Amazon tenham investido bilhões em infraestrutura de IA, ainda não há evidências claras de que produtos de IA possam gerar retornos que justifiquem esses investimentos.
+A ação da TeraWulf (WULF) subiu 15,25% após a empresa anunciar um acordo de $19 bilhões com a Anthropic. A Anthropic irá alugar um data center da TeraWulf por 20 anos, gerando $19 bilhões em receita contratada ao longo do acordo. A TeraWulf também planeja expandir sua relação com a Anthropic, que é uma das principais empresas de inteligência artificial (IA) do mundo.
 
-[Ler noticia completa](https://www.reuters.com/business/ai-investors-may-pivot-hyperscalers-chipmakers-morgan-stanley-says-2026-07-06/)
+[Ler noticia completa](https://www.marketwatch.com/story/terawulfs-stock-surges-after-a-19-billion-deal-with-anthropic-6899d3bc)
 
 ---
 
-## 9. Micron: The AI Infrastructure Winner Trapped By Its Own Success (NASDAQ:MU) - Seeking Alpha
+## 7. This Chinese cloud name offers a new way to play the AI boom, Morgan Stanley says - CNBC
 
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** NASDAQ, Micron, Tecnologia
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Cloud Computing, China, Tecnologia
 
-A empresa Micron está enfrentando desafios devido ao seu próprio sucesso, com um múltiplo de valorização que está abaixo da média de cinco anos. Embora os analistas previam um crescimento significativo nos lucros e receita, a incerteza sobre a data de maturação do buildout de IA está afetando a confiança dos investidores.
+A Morgan Stanley acredita que a Kingsoft Cloud é uma opção atraente para investir na corrida da IA, devido à sua capacidade de manter preços elevados em meio a uma escassez global de chips e suas parcerias estratégicas com gigantes da IA. A empresa também tem uma forte liquidez financeira, o que deve ajudar a manter seu preço de ação elevado. A Morgan Stanley iniciou cobertura da empresa com uma recomendação de "peso pesado" e estabeleceu um alvo de preço de $15, sugerindo um aumento de 64% em relação ao fechamento de segunda-feira.
 
-[Ler noticia completa](https://seekingalpha.com/article/4919894-micron-the-ai-infrastructure-winner-trapped-by-its-own-success)
+[Ler noticia completa](https://www.cnbc.com/2026/07/07/this-cloud-name-offers-a-way-to-play-the-ai-boom-morgan-stanley-says-.html)
 
 ---
