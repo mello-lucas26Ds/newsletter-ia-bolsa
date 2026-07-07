@@ -1,11 +1,147 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-06",
-    "total_noticias": 107,
-    "gerado_em": "2026-07-06T13:45:24.334030"
+    "data": "2026-07-07",
+    "total_noticias": 97,
+    "gerado_em": "2026-07-07T06:44:32.939460"
   },
   "noticias": [
+    {
+      "titulo": "Mega-cap Tech earnings will reveal whether AI has staying power: Neuberger - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/07/neuberger-hyperscalers-earnings-will-be-scrutinized-for-signs-of-ai-trades-staying-power.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-07",
+      "resumo": "O analista financeiro Jeff Blazek da Neuberger afirma que a corrida por inteligência artificial (IA) está impulsionando as empresas a levantar grandes quantias de capital, mas a durabilidade do negócio dependerá da capacidade de converter investimentos em receita sustentável. Ele espera que os ganhos de produtividade liderados pela IA melhorem o cenário macro a longo prazo, mesmo que a transição cause deslocamento estrutural de empregos.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Tech",
+        "Earnings"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "BlackRock says the China AI play is stock-specific, not a regional trade - CNBC",
+      "url": "https://www.cnbc.com/2026/07/07/china-ai-play-is-stock-specific-not-a-regional-trade-blackrock.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-07",
+      "resumo": "A BlackRock acredita que a corrida pela inteligência artificial (IA) é mais um investimento em ações específicas do que uma tendência regional. Embora a China tenha implementado políticas para apoiar o desenvolvimento de IA, a competição e a economia em crescimento lento podem dificultar a geração de lucros. A empresa recomenda investir em ações expostas a inputs industriais escassos, como infraestrutura, e acredita que os vencedores da corrida pela IA serão principalmente ações dos EUA.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "China",
+        "Infraestrutura"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 84
+    },
+    {
+      "titulo": "AI is going to need software companies, says Guggenheim's Mandl - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/06/ai-is-going-to-need-software-companies-says-guggenheims-mandl.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-06",
+      "resumo": "O analista Eric Mandl, da Guggenheim, afirma que a indústria de inteligência artificial (IA) precisará de empresas de software para funcionar. Isso sugere que a IA não é apenas uma tecnologia isolada, mas sim uma ferramenta que depende de uma infraestrutura de software robusta para funcionar efetivamente.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Software",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 56
+    },
+    {
+      "titulo": "Tech Set to Rebound as AI Leadership Faces Fresh Tests - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/tech-set-to-rebound-as-ai-leadership-faces-fresh-tests",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-06",
+      "resumo": "A bolsa de valores dos EUA subiu na segunda-feira, com investidores comprando ações de tecnologia após o mercado de inteligência artificial ter uma reação negativa antes do feriado de fim de semana. A Nasdaq 100 subiu 1,1% e o S&P 500 aumentou 0,6%, liderados por avanços em ações de semicondutores e outras ligadas à inteligência artificial. O mercado de tecnologia está pronto para uma recuperação após a queda recente.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 78
+    },
+    {
+      "titulo": "Wall Street closes higher as Broadcom rallies - Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW562506072026RP1/",
+      "fonte": "reuters.com",
+      "data": "2026-07-06",
+      "resumo": "A Wall Street encerrou em alta, com a Broadcom liderando a recuperação. A notícia inclui várias reportagens sobre tecnologia e inovação, incluindo a utilização de IA em projetos espaciais e a criação de um robô subaquático para monitorar gelo em lagos. Além disso, a SK Hynix anunciou um lançamento de ações no valor de US$ 28 bilhões nos EUA para aproveitar a onda de IA global.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 77
+    },
+    {
+      "titulo": "Quant Hedge Funds Extend Worst Run Since 2023 as Momentum Slides - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/quant-hedge-funds-extend-worst-run-since-2023-as-momentum-slides",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-06",
+      "resumo": "Fundos de hedge quantitativos enfrentam o pior desempenho desde 2023, enquanto a estratégia de momentum sofre uma queda de mais de 3% por duas semanas consecutivas.",
+      "sentimento": "bearish",
+      "tags": [
+        "hedge funds",
+        "mercado de ações",
+        "estratégia de momentum"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 83
+    },
+    {
+      "titulo": "XAI makes its rebrand to SpaceXAI complete with a new logo - Business Insider",
+      "url": "https://www.businessinsider.com/xai-rebrand-spacexai-new-logo-x-handle-spacex-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-06",
+      "resumo": "A xAI, uma empresa de inteligência artificial fundada por Elon Musk, foi rebrandada para SpaceXAI, com um novo logotipo e uma atualização no seu nome de usuário no X. A empresa foi adquirida pelo SpaceX, da qual Musk é o fundador, no início do ano. A rebranding é uma parte da expansão da empresa no setor de tecnologia e inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "SpaceX",
+        "Elon Musk"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 71
+    },
+    {
+      "titulo": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says - Reuters",
+      "url": "https://www.reuters.com/business/ai-investors-may-pivot-hyperscalers-chipmakers-morgan-stanley-says-2026-07-06/",
+      "fonte": "reuters.com",
+      "data": "2026-07-06",
+      "resumo": "A Morgan Stanley prevê que investidores em IA possam se desviar dos fabricantes de chips e se concentrar em \"hiperscalers\" (empresas de tecnologia que investem pesadamente em centros de dados) e em ações de empresas de consumo, transporte e biotecnologia. Isso ocorre devido à recente fraqueza nos títulos de semicondutores, que é visto como um sinal de que os ganhos do mercado estão se ampliando. Embora empresas como Alphabet e Amazon tenham investido bilhões em infraestrutura de IA, ainda não há evidências claras de que produtos de IA possam gerar retornos que justifiquem esses investimentos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Hyperscalers",
+        "Semicondutores",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 105
+    },
+    {
+      "titulo": "Micron: The AI Infrastructure Winner Trapped By Its Own Success (NASDAQ:MU) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4919894-micron-the-ai-infrastructure-winner-trapped-by-its-own-success",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-05",
+      "resumo": "A empresa Micron está enfrentando desafios devido ao seu próprio sucesso, com um múltiplo de valorização que está abaixo da média de cinco anos. Embora os analistas previam um crescimento significativo nos lucros e receita, a incerteza sobre a data de maturação do buildout de IA está afetando a confiança dos investidores.",
+      "sentimento": "bearish",
+      "tags": [
+        "NASDAQ",
+        "Micron",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 61
+    },
     {
       "titulo": "S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC",
       "url": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
@@ -185,21 +321,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 46
-    },
-    {
-      "titulo": "US Stocks Get Tech Boost After AI-Fueled Selloff: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/us-futures-climb-on-reports-peace-talks-to-resume-markets-wrap",
-      "fonte": "bloomberg.com",
-      "data": "2026-06-29",
-      "resumo": "A bolsa de valores dos EUA recebeu um impulso tecnológico após uma selloff de inteligência artificial, com várias empresas de tecnologia liderando a recuperação. Investidores estão comprando acreditando que a indústria de inteligência artificial está em uma situação de baixa e que agora é uma boa oportunidade para investir. A recuperação da bolsa foi liderada por empresas como Meta, Alphabet e Microsoft.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Bolsa de Valores"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 73
     },
     {
       "titulo": "Stock market today: Dow, S&P 500, Nasdaq slip as semiconductor stocks sink to start 3rd quarter",
@@ -1248,21 +1369,6 @@
       "tokens_usados": 60
     },
     {
-      "titulo": "What's good for the US economy now may not be good for stocks - Reuters",
-      "url": "https://www.reuters.com/business/whats-good-us-economy-now-may-not-be-good-stocks-2026-06-29/",
-      "fonte": "reuters.com",
-      "data": "2026-06-29",
-      "resumo": "O mercado de ações está experimentando volatilidade devido a investidores mudando de um investimento em alta para outro. O índice de semicondutores (.SOX) subiu 87% no ano, enquanto as empresas como Micron, Intel e Marvell Technology tiveram ganhos significativos. Por outro lado, o grupo de tecnologia liderado por Nvidia, Apple e Alphabet está em baixa após terem sido responsáveis por cerca de 40% das ganhas do S&P 500 no ano passado.",
-      "sentimento": "bearish",
-      "tags": [
-        "Semicondutores",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 82
-    },
-    {
       "titulo": "Brazil unveils agricultural plan worth up to $117.9 billion - Investing.com",
       "url": "https://www.investing.com/news/economy-news/brazil-unveils-agricultural-plan-worth-up-to-1179-billion-93CH-4767320",
       "fonte": "investing.com",
@@ -1291,21 +1397,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 50
-    },
-    {
-      "titulo": "Post Market Wrap: June 29, 2026 - CNBC",
-      "url": "https://www.cnbc.com/video/2026/06/29/post-market-wrap-june-29-2026.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-29",
-      "resumo": "RESUMO: \nA CNBC noticiou que a Micron e a Nvidia estão sendo negociadas como se o ciclo de IA estivesse no auge, de acordo com o analista Gil Luria da D.A. Davidson. Além disso, o CEO da Applied Digital, Wes Cummins, afirmou que a indústria de IA enfrentará \"atrasos significativos\" nos próximos dois anos. A decisão do Supremo Tribunal também foi mencionada, com implicações para a economia e a política.\n\nSENTIMENTO: bearish\n\nTAGS: AI, Tecnologia, Economia\n\nSCORE: 6\n\nA notícia apresenta um sentime",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Economia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 147
     },
     {
       "titulo": "2 reasons investing legend Mohamed El-Erian says the US stock market is 'out of whack' - Business Insider",
@@ -1354,112 +1445,6 @@
       "tokens_usados": 65
     },
     {
-      "titulo": "Ex-Foursquare Founder Takes On The $5 Trillion Small Business Exit Crisis - Forbes",
-      "url": "https://www.forbes.com/sites/eshachhabra/2026/06/29/ex-foursquare-founder-takes-on-the-5-trillion-small-business-exit-crisis/",
-      "fonte": "forbes.com",
-      "data": "2026-06-29",
-      "resumo": "O fundador do Foursquare lançou uma empresa de consultoria de fusões e aquisições com tecnologia de IA, visando ajudar pequenas empresas a venderem suas empresas de forma mais eficiente e rápida. A empresa, chamada Iconic, utiliza inteligência artificial para organizar dados financeiros, encontrar compradores e gerenciar processos administrativos, reduzindo o tempo de transação em cerca de 50%. O objetivo é direcionar os conselheiros humanos para as partes do negócio que exigem julgamento e confiança.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "M&A",
-        "Small Business"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 84
-    },
-    {
-      "titulo": "Supermicro shares falls as Taiwan office raided due to chip smuggling investigation: report - Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4608204-supermicro-shares-falls-as-taiwan-office-raided-due-to-chip-smuggling-investigation-report",
-      "fonte": "seekingalpha.com",
-      "data": "2026-06-29",
-      "resumo": "Ações da Supermicro caíram após a polícia taiwanesa realizar buscas em uma de suas sedes em Taiwan, em meio a uma investigação sobre contrabando de chips. A empresa foi acusada de ajudar a esmagar tecnologia de IA dos EUA para a China, em violação das leis de exportação. A notícia afetou negativamente as ações da Supermicro e outras empresas de chips.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 111
-    },
-    {
-      "titulo": "Alphabet surges in Dow debut, helping lift index toward record - CNBC",
-      "url": "https://www.cnbc.com/video/2026/06/29/alphabet-surges-in-dow-debut-helping-lift-index-toward-record.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-29",
-      "resumo": "A Alphabet, empresa do Google, teve seu primeiro dia no Dow com uma forte subida de 5%, ajudando a colocar o índice em caminho para um fechamento recorde. No entanto, há questões sobre a estratégia de inteligência artificial (IA) e o aumento dos gastos da empresa. Além disso, outras empresas como a Micron e a Nvidia estão sendo negociadas como se o ciclo de IA estivesse no auge.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 79
-    },
-    {
-      "titulo": "Salesforce is on an AI buying spree, but Wall Street still has its doubts - CNBC",
-      "url": "https://www.cnbc.com/2026/06/29/salesforce-is-on-an-ai-buying-spree-but-wall-street-still-has-its-doubts.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-29",
-      "resumo": "A Salesforce está em uma corrida de aquisições de IA, mas Wall Street ainda tem suas dúvidas. A empresa anunciou a compra da Fin, uma plataforma de agente, por US$ 27 bilhões, sua maior aquisição até o momento. No entanto, analistas questionam se o preço pago foi justo em relação ao desempenho financeiro da empresa.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Salesforce",
-        "M&A"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 64
-    },
-    {
-      "titulo": "Why Alphabet's stock chart may indicate it is a good time to buy - CNBC",
-      "url": "https://www.cnbc.com/video/2026/06/29/why-alphabets-stock-chart-may-indicate-it-is-a-good-time-to-buy.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-29",
-      "resumo": "O analista Gil Luria da D.A. Davidson afirma que a ação da Alphabet pode indicar que é um bom momento para comprar, pois a empresa está a frente da curva de ciclo de IA. Além disso, o CEO da Applied Digital, Wes Cummins, prevê atrasos significativos no setor de IA até 2027.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 61
-    },
-    {
-      "titulo": "Breakingviews - Junior bankers will survive the AI onslaught - Reuters",
-      "url": "https://www.reuters.com/commentary/breakingviews/junior-bankers-will-survive-ai-onslaught-2026-06-29/",
-      "fonte": "reuters.com",
-      "data": "2026-06-29",
-      "resumo": "A implementação de modelos de linguagem avançados (LLM) em bancos de investimento pode substituir algumas tarefas repetitivas, como a preparação de relatórios e resumos de lucros, que atualmente são realizadas por analistas. No entanto, os modelos gerados por LLM ainda não são confiáveis o suficiente para serem usados como substitutos para os analistas. Além disso, a implementação de LLM pode gerar custos adicionais, que podem contrabalançar qualquer ganho potencial.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Bancos",
-        "Tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 133
-    },
-    {
-      "titulo": "BlackRock Flags Big AI Trade Beyond Nvidia, AMD, Micron - Benzinga",
-      "url": "https://www.benzinga.com/markets/commodities/26/06/60175793/blackrock-flags-big-ai-trade-beyond-nvidia-amd-micron",
-      "fonte": "benzinga.com",
-      "data": "2026-06-29",
-      "resumo": "O fundo de investimentos BlackRock está identificando oportunidades de negócios além de Nvidia, AMD e Micron, focando em empresas que fornecem infraestrutura para centros de dados, como GE Vernova e Eaton Corporation. Isso ocorre devido à crescente demanda por energia para os centros de dados, que precisam de capacidade de energia quase imediatamente.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Commodities",
-        "Data Centers",
-        "Energy"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 64
-    },
-    {
       "titulo": "Dow notches record close with Alphabet as new driver - CNBC",
       "url": "https://www.cnbc.com/video/2026/06/29/dow-notches-record-close-with-alphabet-as-new-driver.html",
       "fonte": "cnbc.com",
@@ -1488,142 +1473,6 @@
       ],
       "score_relevancia": 4.0,
       "tokens_usados": 55
-    },
-    {
-      "titulo": "11 Best Data Center Stocks to Buy Now",
-      "url": "https://finance.yahoo.com/news/11-best-data-center-stocks-213611345.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-06-29",
-      "resumo": "O artigo lista as melhores ações de centros de dados para investir agora, destacando a American Tower Corp (NYSE:AMT) e a Digital Realty Trust Inc (NYSE:DLR) como opções atraentes. A American Tower Corp tem expandido sua presença no setor de centros de dados adquirindo empresas como a Coresite, enquanto a Digital Realty Trust Inc fornece soluções de centros de dados, colocation e interconexão para empresas líderes e provedores de serviços.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Data Center",
-        "REIT"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 80
-    },
-    {
-      "titulo": "Data Center REIT ETFs: Overlooked Heroes of AI Boom",
-      "url": "https://finance.yahoo.com/news/data-center-reit-etfs-overlooked-190000894.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-06-29",
-      "resumo": "O mercado de REITs de centros de dados tem crescido devido à expansão da computação em nuvem, inteligência artificial e infraestrutura digital. A probabilidade de corte de juros da Federação este mês é um fator positivo para o setor. Duas ETFs, Pacer Data & Infrastructure Real Estate ETF (SRVR) e Global X Data Center & Digital Infrastructure ETF (DTCR), oferecem exposição a empresas que operam em centros de dados, torres celulares e hardware de infraestrutura digital.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "REITs",
-        "ETFs",
-        "Data Center"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 87
-    },
-    {
-      "titulo": "Best Data Center REITs: 2026 Investment Guide • Benzinga",
-      "url": "https://www.benzinga.com/money/data-center-reits",
-      "fonte": "benzinga.com",
-      "data": "2026-06-29",
-      "resumo": "O artigo destaca as melhores opções de REITs (Real Estate Investment Trusts) de centros de dados para investimento em 2026, incluindo Digital Realty Trust e Equinix. Esses REITs oferecem soluções de centros de dados seguros e escaláveis para empresas em todo o mundo. Além disso, o artigo também aborda os ETFs (Fundos Índice de Títulos) de centros de dados, que permitem diversificar o portfólio com investimentos mais acessíveis.",
-      "sentimento": "bullish",
-      "tags": [
-        "REIT",
-        "Data Center",
-        "ETF"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 78
-    },
-    {
-      "titulo": "A New Data Center Stock Is Coming To Wall Street, But Can It Soar on AI Hype?",
-      "url": "https://finance.yahoo.com/news/data-center-stock-coming-wall-155240667.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-06-29",
-      "resumo": "A empresa Fermi America está se preparando para entrar no mercado de ações como um REIT (Real Estate Investment Trust) focado em centros de dados, que estão sendo impulsionados pela demanda por inteligência artificial. No entanto, a economia da propriedade imobiliária torna improvável que os REITs de centros de dados possam oferecer o tipo de retorno esperado pelos investidores em uma jogada de infraestrutura de IA.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Data Center",
-        "REIT"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 76
-    },
-    {
-      "titulo": "The AI Data Center Stock Boom: How To Invest Wisely in June 2026",
-      "url": "https://www.forbes.com/sites/investor-hub/article/data-center-stocks-how-to-invest-wisely",
-      "fonte": "forbes.com",
-      "data": "2026-06-29",
-      "resumo": "A indústria de centros de dados está em alta, com investimentos em ETFs e ações de empresas que operam esses centros. No entanto, há riscos, como restrições de energia e pressão ambiental. Investidores podem considerar ações de REITs de centros de dados, como a Digital Realty Trust, ou investir em ETFs de real estate mais amplos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Data Center",
-        "REITs"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 66
-    },
-    {
-      "titulo": "Market Talk: 'Doubts are creeping in' to the AI trade - Reuters",
-      "url": "https://www.reuters.com/video/watch/idRW341229062026RP1/",
-      "fonte": "reuters.com",
-      "data": "2026-06-29",
-      "resumo": "A notícia destaca a incerteza crescente no mercado de tecnologia, especialmente no setor de inteligência artificial (IA). Embora a demanda por chips de memória continue forte devido ao boom da IA, a indústria enfrenta desafios, incluindo a possibilidade de a OpenAI adiar sua oferta pública inicial (IPO) até o próximo ano. Além disso, a Volkswagen está considerando cortes de até 100.000 empregos e a fechamento de quatro plantas.",
-      "sentimento": "bearish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 79
-    },
-    {
-      "titulo": "Cheaper AI is better: Soaring bills are reshaping how businesses choose models - Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/cheaper-ai-is-better-soaring-bills-are-reshaping-how-businesses-choose-models-2026-06-29/",
-      "fonte": "reuters.com",
-      "data": "2026-06-29",
-      "resumo": "A indústria de inteligência artificial está experimentando uma mudança de paradigma, com empresas optando por modelos mais baratos e abertos para suas necessidades. Isso se deve ao aumento dos custos de desenvolvimento de modelos de IA e às preocupações com a segurança. Executivos de empresas como Microsoft e Palo Alto Networks defendem a adoção de modelos menores e mais acessíveis para atender às necessidades corporativas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Inteligência Artificial",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 118
-    },
-    {
-      "titulo": "Focus: Banks get creative and look further afield as AI-fueled debt soars - Reuters",
-      "url": "https://www.reuters.com/business/finance/banks-get-creative-look-further-afield-ai-fueled-debt-soars-2026-06-29/",
-      "fonte": "reuters.com",
-      "data": "2026-06-29",
-      "resumo": "A dívida relacionada à inteligência artificial (IA) está crescendo rapidamente, com investidores começando a questionar se o mercado pode continuar a absorver essa demanda. Os bancos estão se tornando cada vez mais criativos para encontrar novas fontes de financiamento, e a expectativa é que a emissão de dívida de investimento de grau seja superior a $2 trilhões em 2026.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Finanças",
-        "Dívida"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "China poses a threat to South Korean memory companies in the long-term: KB Financial Group - CNBC",
-      "url": "https://www.cnbc.com/video/2026/06/29/china-poses-a-threat-to-south-korean-memory-companies-in-the-long-term.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-29",
-      "resumo": "A KB Financial Group alerta que a China pode representar uma ameaça às empresas sul-coreanas de memória a longo prazo. O grupo não fornece mais detalhes sobre a razão da ameaça.",
-      "sentimento": "bearish",
-      "tags": [
-        "Semicondutores",
-        "Tecnologia",
-        "Economia Internacional"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 41
     }
   ]
 }
