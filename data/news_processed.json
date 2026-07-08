@@ -1,11 +1,103 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-07",
-    "total_noticias": 104,
-    "gerado_em": "2026-07-07T12:27:26.072575"
+    "data": "2026-07-08",
+    "total_noticias": 93,
+    "gerado_em": "2026-07-08T05:49:00.344568"
   },
   "noticias": [
+    {
+      "titulo": "Envirotech Vehicles (NASDAQ: EVTV) closes merger with Azio AI ahead of schedule, positioning combined company to capture $487 Billion 2026 AI infrastructure opportunity - TechCrunch",
+      "url": "https://techcrunch.com/press-release/envirotech-vehicles-nasdaq-evtv-closes-merger-with-azio-ai-ahead-of-schedule-positioning-combined-company-to-capture-487-billion-2026-ai-infrastructure-opportunity/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-07",
+      "resumo": "A Envirotech Vehicles (NASDAQ: EVTV) concluiu a fusão com a Azio AI com antecedência, colocando a empresa combinada em posição para capturar a oportunidade de infraestrutura de IA de US$ 487 bilhões em 2026. A empresa planeja expandir sua plataforma de infraestrutura digital através do desenvolvimento de centros de dados de IA, soluções de computação de GPU para empresas, serviços de hospedagem de poder, operações de mineração de ativos digitais e investimentos estratégicos em infraestrutura. A empresa também planeja continuar a implementar infraestrutura digital modular em seu site no Texas do Sul.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Infraestrutura de TI",
+        "NVIDIA",
+        "Mercado de Ações (NASDAQ)"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 107
+    },
+    {
+      "titulo": "How AI Spending Is Changing Investment-Grade Corporate Bonds - Forbes",
+      "url": "https://www.forbes.com/sites/brandonkochkodin/2026/07/07/why-the-safe-part-of-your-portfolio-has-more-ai-risk-than-you-think/",
+      "fonte": "forbes.com",
+      "data": "2026-07-07",
+      "resumo": "A queda nos preços das ações de empresas de tecnologia, incluindo Samsung e Micron, levou a uma reavaliação da demanda por investimentos em inteligência artificial (IA). Embora a AI tenha sido responsável por mais da metade do crescimento econômico nos EUA no primeiro trimestre, alguns investidores estão se perguntando se as ações de investimento em títulos de dívida de empresas de grau de investimento podem oferecer a estabilidade esperada em tempos de volatilidade no mercado.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Finanças",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 84
+    },
+    {
+      "titulo": "AI memory, chip stocks fall despite Samsung's Q2 profit surge as worries around AI boom loom - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4611886-ai-memory-chip-stocks-fall-despite-samsungs-q2-profit-surge-as-worries-around-ai-boom-loom",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-07",
+      "resumo": "Apesar de Samsung ter anunciado um aumento de 19 vezes no lucro operacional do 2º trimestre, ações de memória e relacionadas à IA caíram, devido a preocupações sobre a sustentabilidade do boom de IA e o potencial de redução no gasto com infraestrutura de dados para IA. Investidores estão preocupados com a demanda por IA, riscos de gastos mais lentos em infraestrutura de IA, concorrência crescente e risco de supercapacidade na indústria.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Samsung",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 119
+    },
+    {
+      "titulo": "Chip stocks sell off after Samsung earnings fall short of high AI bar - CNBC",
+      "url": "https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-07",
+      "resumo": "Ações de semicondutores caíram após os resultados de Samsung não atenderem às expectativas de investidores em inteligência artificial. Embora a empresa tenha superado as expectativas de lucro, a ação caiu 8%. A queda pode ser atribuída a uma recalibração de expectativas após o histórico aumento da demanda por memória ou investidores se preparando para a lista de ações da SK Hynix.",
+      "sentimento": "bearish",
+      "tags": [
+        "Semicondutores",
+        "Inteligência Artificial",
+        "Samsung"
+      ],
+      "score_relevancia": 4.0,
+      "tokens_usados": 71
+    },
+    {
+      "titulo": "Why Is Micron Technology Stock Falling Tuesday? - Benzinga",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60298487/why-is-micron-technology-stock-falling-tuesday-2",
+      "fonte": "benzinga.com",
+      "data": "2026-07-07",
+      "resumo": "A ação da Micron Technology está caindo devido a uma combinação de fatores, incluindo o aumento dos custos de memória e a reação negativa dos investidores após o anúncio de resultados preliminares da Samsung Electronics. A empresa espera que os fabricantes de consoles de jogos e smartphones passem parte desses aumentos para os consumidores por meio de preços mais altos.",
+      "sentimento": "bearish",
+      "tags": [
+        "Micron Technology",
+        "Samsung Electronics",
+        "Tecnologia de Memória"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "Where to Invest $10,000 Right Now, According to 9 Top Wall Street Minds - Business Insider",
+      "url": "https://www.businessinsider.com/where-to-invest-10000-right-now-ai-trade-iran-warsh-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-06",
+      "resumo": "Nove especialistas em Wall Street compartilharam suas recomendações de investimento para $10.000. Com a mudança no cenário de investimentos, os especialistas recomendam diferentes ativos, incluindo ações de empresas de tecnologia, fundos de investimento e outros instrumentos financeiros. Os especialistas incluem Gary Shilling, Nouriel Roubini e Larry McDonald, entre outros.",
+      "sentimento": "bullish",
+      "tags": [
+        "Tecnologia",
+        "Ações",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 58
+    },
     {
       "titulo": "Asia stocks fall as AI valuation fears overshadow Samsung’s blockbuster earnings - Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-ai-valuation-fears-overshadow-samsungs-blockbuster-earnings-4778205",
@@ -1140,21 +1232,6 @@
       "tokens_usados": 53
     },
     {
-      "titulo": "Jim Cramer says the AI trade has shifted — and these stocks are leading now - CNBC",
-      "url": "https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-30",
-      "resumo": "Jim Cramer afirma que a corrida da IA mudou de direção, com empresas de memória e equipamentos de rede sendo os principais ganhadores do segundo trimestre. Ele destaca que a desigualdade entre oferta e demanda de componentes críticos, como memória e equipamentos de rede, está impulsionando o crescimento das receitas e atualizações de previsões de analistas para essas empresas. Por outro lado, as empresas de tecnologia que estão investindo pesadamente em IA estão sendo penalizadas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 84
-    },
-    {
       "titulo": "Is Microsoft Stock Heading For $550? - Forbes",
       "url": "https://www.forbes.com/sites/greatspeculations/2026/07/01/is-microsoft-stock-heading-for-550/",
       "fonte": "forbes.com",
@@ -1278,21 +1355,6 @@
       "tokens_usados": 73
     },
     {
-      "titulo": "Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it - CNBC",
-      "url": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-30",
-      "resumo": "A Russell 2000 Index, que representa as pequenas empresas, teve o melhor primeiro semestre em 35 anos, com uma alta de mais de 21%. Isso é atribuído à expansão da infraestrutura de inteligência artificial, que está se espalhando além das maiores empresas de tecnologia para uma rede mais ampla de fornecedores. Os investidores acreditam que a recuperação das pequenas empresas possa se estender além da tecnologia, desde que os juros fiquem em cheque.",
-      "sentimento": "bullish",
-      "tags": [
-        "Small-cap",
-        "AI",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 82
-    },
-    {
       "titulo": "Goldman Sachs: Why It's Time to Double Down on the AI Trade - Business Insider",
       "url": "https://www.businessinsider.com/ai-stocks-investing-ideas-bubble-valuations-ben-snider-goldman-sachs-2026-7",
       "fonte": "businessinsider.com",
@@ -1323,23 +1385,6 @@
       "tokens_usados": 65
     },
     {
-      "titulo": "Micron Stock Is Up 300%. Why Does It Still Trade Cheaper Than Nvidia And Broadcom? - Benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/06/60193665/micron-stock-is-up-300-why-does-it-still-trade-cheaper-than-nvidia-and-broadcom",
-      "fonte": "benzinga.com",
-      "data": "2026-06-30",
-      "resumo": "A ação da Micron Technology Inc. (MU) subiu 300% ao longo do ano, mas ainda é considerada barata em comparação com outras empresas de tecnologia, como a Nvidia Corp. (NVDA) e a Broadcom Inc. (AVGO). A Micron ainda tem um preço de 26 vezes os lucros do ano passado e 7,5 vezes os lucros projetados para o futuro, abaixo do que as empresas de tecnologia líderes.",
-      "sentimento": "bullish",
-      "tags": [
-        "Micron",
-        "Nvidia",
-        "Broadcom",
-        "NASDAQ",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 77
-    },
-    {
       "titulo": "UAE's MGX raises one of the biggest AI funds ever as it closes at $49 billion - CNBC",
       "url": "https://www.cnbc.com/2026/07/01/mgx-ai-fund-uae-49-billion.html",
       "fonte": "cnbc.com",
@@ -1355,36 +1400,6 @@
       "tokens_usados": 99
     },
     {
-      "titulo": "Forget AMD And Micron — The Next Wave Of AI Winners Are The Ones Nobody Talks About - Benzinga",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/06/60180041/forget-amd-and-micron-the-next-wave-of-ai-winners-are-the-ones-nobody-talks-about",
-      "fonte": "benzinga.com",
-      "data": "2026-06-30",
-      "resumo": "O artigo destaca que, embora NVIDIA, AMD e Micron sejam nomes conhecidos na área de inteligência artificial, há outras empresas que podem ser as verdadeiras vencedoras da próxima onda de inovação. Empresas como Fabrinet, Coherent Corp, Lumentum Holdings Inc, Vertiv Holdings, LLC e Ecolab Inc estão desenvolvendo componentes críticos para redes de rede e sistemas de resfriamento líquido, tornando-se importantes para o ecossistema de rede de NVIDIA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Networking"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 76
-    },
-    {
-      "titulo": "Apollo's top economist warns of a painful market repricing as return on AI investment slows - Business Insider",
-      "url": "https://www.businessinsider.com/ai-investment-returns-stock-market-valuations-tech-stocks-apollo-economist-2026-6",
-      "fonte": "businessinsider.com",
-      "data": "2026-06-30",
-      "resumo": "O economista-chefe da Apollo Global Management, Torsten Sløk, alerta para uma reavaliação dolorosa do mercado, pois as taxas de retorno do investimento em IA estão diminuindo. Embora as ações estadunidenses estejam em alta, com uma tendência de otimismo tecnológico, Sløk afirma que os ganhos de produtividade com a IA serão limitados ao setor tecnológico nos próximos anos. Isso criaria uma divergência perigosa entre os preços atuais e a realidade dos fluxos de caixa.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tech stocks",
-        "Wall Street"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 84
-    },
-    {
       "titulo": "CNBC Daily Open: AI demand fuels investors' portfolios while oil posts biggest monthly decline - CNBC",
       "url": "https://www.cnbc.com/2026/07/01/cnbc-daily-open-ai-demand-fuels-investors-portfolio-while-oil-posts-biggest-monthly-decline.html",
       "fonte": "cnbc.com",
@@ -1398,187 +1413,6 @@
       ],
       "score_relevancia": 9.0,
       "tokens_usados": 85
-    },
-    {
-      "titulo": "These 3 forces fueled the best quarter for the US stock market in years - Business Insider",
-      "url": "https://www.businessinsider.com/stock-market-today-dow-sp500-nasdaq-record-ai-026-6",
-      "fonte": "businessinsider.com",
-      "data": "2026-06-30",
-      "resumo": "O mercado de ações dos EUA teve o melhor trimestre em anos, impulsionado por uma forte recuperação das ações de chips e memória. As empresas de hardware de AI estão em destaque, enquanto as empresas de software e os investidores em AI são punidos. O índice de semicondutores da Philadelphia está em caminho para registrar seu melhor trimestre de todos os tempos.",
-      "sentimento": "bullish",
-      "tags": [
-        "Semicondutores",
-        "Hardware de AI",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 75
-    },
-    {
-      "titulo": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip - TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "fonte": "techcrunch.com",
-      "data": "2026-06-30",
-      "resumo": "A startup chamada Etched, concorrente da Nvidia, alcançou uma valorização de $5 bilhões e já registrou $1 bilhão em contratos para seus chips de inteligência artificial. A empresa anunciou isso após a TSMC ter fabricado com sucesso seu chip no início do ano.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Startups"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 52
-    },
-    {
-      "titulo": "Chip Stocks’ Best Quarter Ever Is Ending With Some Wild Swings - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-30/chip-stocks-best-quarter-ever-is-ending-with-some-wild-swings",
-      "fonte": "bloomberg.com",
-      "data": "2026-06-30",
-      "resumo": "As ações de chips estão encerrando o melhor trimestre de sua história, apesar de recentes volatilidades no mercado. A demanda insaciável por equipamentos de inteligência artificial impulsionou o início do ano, mas agora investidores estão questionando a sustentabilidade do rally. Analistas estão preocupados com a possibilidade de uma \"correção de três ondas\" no mercado.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 63
-    },
-    {
-      "titulo": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-30/schneider-to-buy-industrial-ai-firm-cognite-for-3-1-billion",
-      "fonte": "bloomberg.com",
-      "data": "2026-06-30",
-      "resumo": "A Schneider Electric SE acordou em comprar a Cognite, uma empresa de IA industrial, em um acordo de $3.1 bilhões em dinheiro para expandir sua empresa de software de dados e IA industrial. A Schneider adquirirá 100% do capital de ações da Cognite de investidores, incluindo a Aker ASA da Noruega. A compra visa fortalecer a posição da Schneider no mercado de IA industrial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Negócios"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 73
-    },
-    {
-      "titulo": "Bloom Energy Stock Rallies After The Bell — Here's Why - Benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/06/60204276/bloom-energy-stock-rallies-after-the-bell-heres-why",
-      "fonte": "benzinga.com",
-      "data": "2026-06-30",
-      "resumo": "Ações da Bloom Energy Corp. (BE) subiram após o fechamento de negociações, após a empresa anunciar uma expansão estratégica de sua parceria com a Brookfield, focada em infraestrutura de IA e energia para centros de dados. Isso levou a uma reação positiva dos traders e uma valorização das ações da empresa.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Energia",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 60
-    },
-    {
-      "titulo": "Brazil unveils agricultural plan worth up to $117.9 billion - Investing.com",
-      "url": "https://www.investing.com/news/economy-news/brazil-unveils-agricultural-plan-worth-up-to-1179-billion-93CH-4767320",
-      "fonte": "investing.com",
-      "data": "2026-06-30",
-      "resumo": "O governo do Brasil anunciou um plano agrícola com um valor máximo de US$ 117,9 bilhões, visando impulsionar a produção e a exportação de alimentos no país.",
-      "sentimento": "neutral",
-      "tags": [
-        "Brasil",
-        "Agricultura",
-        "Economia"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 74
-    },
-    {
-      "titulo": "Asia stocks rise on upbeat China PMI; tech spurs bumper quarter - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-china-pmi-offsets-caution-ahead-of-us-jobs-data-4766836",
-      "fonte": "investing.com",
-      "data": "2026-06-30",
-      "resumo": "Ações asiáticas apresentam alta devido a dados positivos do PMI da China, enquanto a tecnologia impulsiona um trimestre recorde. A AI está mudando o mercado de ações, e o Investing.com oferece estratégias de investimento com base em inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 50
-    },
-    {
-      "titulo": "2 reasons investing legend Mohamed El-Erian says the US stock market is 'out of whack' - Business Insider",
-      "url": "https://www.businessinsider.com/stock-market-bubble-ai-valuations-technicals-mohamed-el-erian-2026-6",
-      "fonte": "businessinsider.com",
-      "data": "2026-06-30",
-      "resumo": "O economista e investidor Mohamed El-Erian alertou sobre o estado dos mercados, destacando dois fatores que o preocupam: valuações e sinais técnicos nos títulos de ações dos EUA, que estão \"desalinhados\". Ele também mencionou a volatilidade da corrida para a inteligência artificial (IA) e a possibilidade de perdas para os investidores.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 62
-    },
-    {
-      "titulo": "Crypto exchange OKX wants AI agents to hire and pay each other - TechCrunch",
-      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "fonte": "techcrunch.com",
-      "data": "2026-06-30",
-      "resumo": "A exchange de criptomoedas OKX está desenvolvendo uma plataforma de mercado para que agentes de IA possam contratar e pagar uns aos outros. A empresa acredita que a plataforma pode se tornar um mercado de US$ 1 trilhão em cinco anos, impulsionado por pagamentos micropagáveis e software autônomo.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Criptomoedas",
-        "Blockchain",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 58
-    },
-    {
-      "titulo": "Digital Realty falls 4% after taking $3.5 billion stake in Blackstone's Virginia data centers - CNBC",
-      "url": "https://www.cnbc.com/2026/06/30/digital-realty-blackstone-virginia-data-center-35-billion-stake.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-30",
-      "resumo": "A Digital Realty caiu 4% após adquirir uma participação de $3,5 bilhões nos centros de dados da Blackstone na Virgínia. A empresa comprou 80% dos interesses da Blackstone em dois centros de dados de 96 megawatts em Manassas, Virgínia, e 50% dos interesses em um centro de dados de 96 megawatts em Sterling, Virgínia.",
-      "sentimento": "bearish",
-      "tags": [
-        "Data Centers",
-        "Real Estate",
-        "Tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 65
-    },
-    {
-      "titulo": "Dow notches record close with Alphabet as new driver - CNBC",
-      "url": "https://www.cnbc.com/video/2026/06/29/dow-notches-record-close-with-alphabet-as-new-driver.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-30",
-      "resumo": "O Dow Jones atingiu um novo recorde fechamento, com a Alphabet como novo motor, após suas ações subirem quase 5% e impulsionarem o índice azul-chave acima de 52.000 pela primeira vez. Isso ocorre enquanto a Micron e a Nvidia estão sendo negociadas como se o ciclo de IA estivesse atingindo seu pico, de acordo com o analista Gil Luria da D.A. Davidson.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tech",
-        "Dow Jones"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 72
-    },
-    {
-      "titulo": "Vibe coding platform Base44 launches own model as AI startups seek defensibility - TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "fonte": "techcrunch.com",
-      "data": "2026-06-30",
-      "resumo": "A plataforma de codificação Base44 lançou seu próprio modelo, em uma tentativa de alcançar defensibilidade para startups de IA. A notícia não fornece detalhes sobre o modelo ou a plataforma, mas sugere que a Base44 está buscando se diferenciar em um mercado cada vez mais competitivo.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Startups",
-        "Tecnologia"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 55
     }
   ]
 }
