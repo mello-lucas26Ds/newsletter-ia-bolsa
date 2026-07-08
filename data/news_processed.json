@@ -2,10 +2,101 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-08",
-    "total_noticias": 93,
-    "gerado_em": "2026-07-08T05:49:00.344568"
+    "total_noticias": 99,
+    "gerado_em": "2026-07-08T11:47:09.899012"
   },
   "noticias": [
+    {
+      "titulo": "Chip stocks Nvidia AMD pop after TSMC's earnings beat lifts ... - CNBC",
+      "url": "https://www.cnbc.com/2026/01/15/chip-stocks-nvidia-amd-pop-after-tsmcs-earnings-beat-lifts-confidence.html",
+      "fonte": "cnbc.com",
+      "data": "2026-01-15",
+      "resumo": "A TSMC, maior fabricante de chips sob encomenda, anunciou um aumento de 35% nos lucros do quarto trimestre, superando as expectativas. A empresa espera aumentar os investimentos em 2026, sinalizando confiança no desenvolvimento de inteligência artificial. As ações de Nvidia, AMD e Broadcom, clientes da TSMC, subiram após o anúncio.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "TAIWAN"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 59
+    },
+    {
+      "titulo": "TSMC Q3 earnings: Profit beats expectations as AI boom drives 54% hike",
+      "url": "https://www.cnbc.com/2024/10/17/tsmc-q3-earnings-profit-beats-expectations-as-ai-boom-drives-54percent-hike-.html",
+      "fonte": "cnbc.com",
+      "data": "2024-10-17",
+      "resumo": "A TSMC anunciou um aumento de 54% em lucro líquido no terceiro trimestre, superando as expectativas de investidores. A empresa espera um crescimento de receita anual nos últimos três meses do ano, graças à demanda impulsada pelas aplicações de inteligência artificial. A ação da empresa subiu quase 10% durante a negociação na quarta-feira.",
+      "sentimento": "bullish",
+      "tags": [
+        "TSMC",
+        "Inteligência Artificial",
+        "Semicondutores",
+        "Taiwan"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 64
+    },
+    {
+      "titulo": "TSMC Earnings Reset the AI Narrative After Rotation Fears Hit Tech Stocks | Investing.com",
+      "url": "https://www.investing.com/analysis/tsmc-earnings-reset-the-ai-narrative-after-rotation-fears-hit-tech-stocks-200673316",
+      "fonte": "investing.com",
+      "data": "2026-07-08",
+      "resumo": "A TSMC (Taiwan Semiconductor Manufacturing Company) anunciou resultados financeiros que redefiniram a narrativa sobre a IA, após medos de rotação afetarem ações de tecnologia. A empresa superou as expectativas, o que significa que as empresas de tecnologia como Nvidia, AMD, Apple e as hyperscalers estão aumentando a produção de chips para atender à demanda por infraestrutura de IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Semiconductor"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "Taiwan Semiconductor Stock Price Today | NYSE: TSM Live",
+      "url": "https://www.investing.com/equities/taiwan-semicond.manufacturing-co",
+      "fonte": "investing.com",
+      "data": "2026-07-08",
+      "resumo": "A notícia apresenta as atualizações de preços das ações de várias empresas, incluindo TSMC, que está listada na NYSE sob o símbolo TSM. A ação de TSMC está atualmente em $109,42, com uma variação de -0,22% em relação ao dia anterior.",
+      "sentimento": "bearish",
+      "tags": [
+        "TSMC",
+        "NYSE",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 50
+    },
+    {
+      "titulo": "TSM Taiwan Semiconductor Manufacturing Company ...",
+      "url": "https://seekingalpha.com/symbol/TSM",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-08",
+      "resumo": "A Taiwan Semiconductor Manufacturing Company Limited (TSM) é uma empresa de semicondutores que é frequentemente questionada sobre suas operações e gestão. Recentemente, vários executivos da empresa, incluindo o CEO C.C. Wei, anunciaram a compra de ações da empresa.",
+      "sentimento": "bullish",
+      "tags": [
+        "TSM",
+        "Semicondutores",
+        "Taiwan"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 47
+    },
+    {
+      "titulo": "Singapore's Temasek hits record portfolio value, eyes more investment in AI, infrastructure and private credit - CNBC",
+      "url": "https://www.cnbc.com/2026/07/08/singapores-temasek-eyes-ai-private-credit-with-portfolio-at-record.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-08",
+      "resumo": "A Temasek, uma empresa de investimentos de Singapura, alcançou um valor recorde em seu portfólio e está buscando investir mais em inteligência artificial, infraestrutura e crédito privado. A empresa planeja aumentar sua exposição à inteligência artificial para 15% em 2031 e aumentar sua exposição à infraestrutura \"core-plus\" para 5% nos próximos cinco anos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Infraestrutura",
+        "Crédito Privado"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 63
+    },
     {
       "titulo": "Envirotech Vehicles (NASDAQ: EVTV) closes merger with Azio AI ahead of schedule, positioning combined company to capture $487 Billion 2026 AI infrastructure opportunity - TechCrunch",
       "url": "https://techcrunch.com/press-release/envirotech-vehicles-nasdaq-evtv-closes-merger-with-azio-ai-ahead-of-schedule-positioning-combined-company-to-capture-487-billion-2026-ai-infrastructure-opportunity/",
