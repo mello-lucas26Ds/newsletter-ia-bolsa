@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-07-09",
+    "total_noticias": 10,
+    "gerado_em": "2026-07-09T06:41:32.459681"
+  },
+  "noticias": [
+    {
+      "titulo": "AI, chip stocks slowly recover amid escalating US-Iran conflict - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4612207-ai-chip-stocks-fall-after-us-iran-conflict-escalates",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-08",
+      "resumo": "Ações de memória e IA estão lentamente recuperando após um dia de queda, apesar de tensões crescentes entre EUA e Irã. A Nasdaq Composite abriu em vermelho, mas algumas ações de tecnologia estão em alta devido a eventos corporativos positivos e previsões de crescimento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 7.0,
+      "tokens_usados": 53
+    },
+    {
+      "titulo": "Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-08",
+      "resumo": "A Nvidia, líder no mercado de GPUs, está projetada para registrar um crescimento de 90% em lucros e 82% em vendas em 2027, o que está levando investidores a serem otimistas sobre a empresa. Apesar de suas ações terem estagnado em 2026, com apenas 5,6% de ganho, a empresa ainda é considerada uma das melhores opções entre as \"Magnificent Seven\" empresas tecnológicas.",
+      "sentimento": "bullish",
+      "tags": [
+        "Nvidia",
+        "IA",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "Intel Stock Down 21%: Inside The July 2026 Semiconductor Selloff - Forbes",
+      "url": "https://www.forbes.com/sites/petercohan/2026/07/08/intel-stock-down-21-inside-the-july-2026-semiconductor-selloff/",
+      "fonte": "forbes.com",
+      "data": "2026-07-08",
+      "resumo": "A queda de 21% na ação da Intel é resultado de uma selloff no setor de semicondutores em julho de 2026, com índices como o SOX e o SMH caindo 10,8% e 13%, respectivamente. A causa da queda não é uma perda de demanda, mas sim uma combinação de medos sobre a rentabilidade da despesa com infraestrutura de IA, avaliações de nível dot-com e uma política monetária mais dura da Fed. No entanto, os analistas ainda vislumbram um caso bull para o setor, com crescimento de 131% nas receitas do segundo trimestre de 2026 e uma relação P/E atrativa para a Nvidia.",
+      "sentimento": "bearish",
+      "tags": [
+        "Semicondutores",
+        "Intel",
+        "IA"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 111
+    },
+    {
+      "titulo": "Why highflying chip stocks are suddenly losing their luster - MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-highflying-chip-stocks-are-suddenly-losing-their-luster-f0659145",
+      "fonte": "marketwatch.com",
+      "data": "2026-07-07",
+      "resumo": "As ações de semicondutores, que impulsionaram o comércio de inteligência artificial por grande parte do ano, estão enfrentando um obstáculo. O índice PHLX Semiconductor Index caiu 4,7% na terça-feira, abaixo da sua média móvel de 50 dias pela primeira vez desde abril. As ações do iShares Semiconductor ETF caíram 16% desde o seu pico histórico em junho.",
+      "sentimento": "bearish",
+      "tags": [
+        "Semicondutores",
+        "Inteligência Artificial",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "Meta Overtakes Tesla In Market Value—Here's Why Both Stocks Are Still Tanking - Forbes",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/08/meta-overtakes-tesla-in-market-value-heres-why-both-stocks-are-still-tanking/",
+      "fonte": "forbes.com",
+      "data": "2026-07-08",
+      "resumo": "A Meta ultrapassou a Tesla em valor de mercado, não devido a um aumento no preço das ações da Meta, mas sim devido a uma queda mais acentuada no preço das ações da Tesla. A Meta está prestes a divulgar seus resultados financeiros, o que pode ser um teste para saber se o investimento pesado na inteligência artificial está gerando resultados positivos. A Tesla também está prestes a divulgar seus resultados financeiros, o que pode ser um momento crítico para a empresa.",
+      "sentimento": "bearish",
+      "tags": [
+        "Meta",
+        "Tesla",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 113
+    },
+    {
+      "titulo": "Tech Weakness Resumes After Samsung Misses Lofty AI Expectations - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/tech-weakness-resumes-after-samsung-misses-lofty-ai-expectations",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-07",
+      "resumo": "A queda nas ações de tecnologia foi acentuada após a Samsung não atender às expectativas de investidores em relação a seus resultados de AI, levando a uma sinalização de fraqueza no setor de tecnologia.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 4.0,
+      "tokens_usados": 43
+    },
+    {
+      "titulo": "'Never bet against America': Citadel Securities says AI will be a huge boost to US hustle culture - Business Insider",
+      "url": "https://www.businessinsider.com/ai-small-business-hustle-culture-citadel-securities-economy-labor-market-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-08",
+      "resumo": "A Citadel Securities afirma que a inteligência artificial (IA) será um grande impulso para a cultura do empreendedorismo nos EUA, destacando o impacto positivo que a IA tem nos empreendedores, fundadores e pequenas empresas que são fundamentais para a economia. A empresa acredita que a discussão sobre IA deve se concentrar mais na sua capacidade de impulsionar a inovação e o crescimento econômico, em vez de se concentrar apenas na infraestrutura de dados e centros de processamento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Economia",
+        "Empreendedorismo"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 86
+    },
+    {
+      "titulo": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+      "url": "https://www.cnbc.com/2026/07/08/thursdays-stock-stories-whats-likely-to-move-the-market.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-09",
+      "resumo": "A CNBC lista as principais histórias de ações para a próxima sessão de negociação. A Nvidia está 14% abaixo do pico de maio, enquanto a Micron Technology está 24% abaixo do pico de 25 de junho. A Microsoft está 31% abaixo do pico de 31 de julho de 2025. A energia foi o setor que mais se destacou na sessão, com um aumento de 1,45%. A ExxonMobil e a Chevron estão ambas 20% abaixo dos seus picos de 30 de março.",
+      "sentimento": "bearish",
+      "tags": [
+        "tecnologia",
+        "ações",
+        "energia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 90
+    },
+    {
+      "titulo": "Nvidia trades at its cheapest valuation since pre‑AI boom (NVDA:NASDAQ) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4612200-nvidia-trades-at-its-cheapest-valuation-since-preai-boom",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-08",
+      "resumo": "A ação da Nvidia está sendo negociada a um valor mais baixo desde antes da explosão do AI, apesar de um crescimento forte previsto. A empresa perdeu cerca de 16% desde o recorde alcançado em 14 de maio, eliminando cerca de $1T em valor de mercado. Isso sugere que a Nvidia pode estar subestimada e oferece uma oportunidade de investimento.",
+      "sentimento": "bullish",
+      "tags": [
+        "NVDA",
+        "NASDAQ",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "Major AI models at a glance - Reuters",
+      "url": "https://www.reuters.com/world/china/major-ai-models-glance-2026-07-08/",
+      "fonte": "reuters.com",
+      "data": "2026-07-08",
+      "resumo": "A OpenAI lançará o GPT-5.6, seu modelo de IA mais avançado, após um atraso devido a preocupações do governo dos EUA sobre os riscos de segurança nacional dos sistemas de IA cada vez mais poderosos. Isso ocorre em um momento de intensa competição entre desenvolvedores de IA, que estão trabalhando para melhorar o desempenho dos modelos, reduzir custos e expandir capacidades para clientes empresariais. Desenvolvedores chineses estão redesenhando a economia da IA ao fornecer modelos cada vez mais capazes a um custo significativamente menor.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 94
+    }
+  ]
+}

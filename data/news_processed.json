@@ -1,41 +1,163 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-08",
-    "total_noticias": 99,
-    "gerado_em": "2026-07-08T11:47:09.899012"
+    "data": "2026-07-09",
+    "total_noticias": 92,
+    "gerado_em": "2026-07-09T06:41:32.461783"
   },
   "noticias": [
     {
-      "titulo": "Chip stocks Nvidia AMD pop after TSMC's earnings beat lifts ... - CNBC",
-      "url": "https://www.cnbc.com/2026/01/15/chip-stocks-nvidia-amd-pop-after-tsmcs-earnings-beat-lifts-confidence.html",
-      "fonte": "cnbc.com",
-      "data": "2026-01-15",
-      "resumo": "A TSMC, maior fabricante de chips sob encomenda, anunciou um aumento de 35% nos lucros do quarto trimestre, superando as expectativas. A empresa espera aumentar os investimentos em 2026, sinalizando confiança no desenvolvimento de inteligência artificial. As ações de Nvidia, AMD e Broadcom, clientes da TSMC, subiram após o anúncio.",
+      "titulo": "AI, chip stocks slowly recover amid escalating US-Iran conflict - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4612207-ai-chip-stocks-fall-after-us-iran-conflict-escalates",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-08",
+      "resumo": "Ações de memória e IA estão lentamente recuperando após um dia de queda, apesar de tensões crescentes entre EUA e Irã. A Nasdaq Composite abriu em vermelho, mas algumas ações de tecnologia estão em alta devido a eventos corporativos positivos e previsões de crescimento.",
       "sentimento": "bullish",
       "tags": [
         "AI",
         "Semiconductor",
-        "TAIWAN"
+        "NASDAQ"
       ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 59
+      "score_relevancia": 7.0,
+      "tokens_usados": 53
     },
     {
-      "titulo": "TSMC Q3 earnings: Profit beats expectations as AI boom drives 54% hike",
-      "url": "https://www.cnbc.com/2024/10/17/tsmc-q3-earnings-profit-beats-expectations-as-ai-boom-drives-54percent-hike-.html",
-      "fonte": "cnbc.com",
-      "data": "2024-10-17",
-      "resumo": "A TSMC anunciou um aumento de 54% em lucro líquido no terceiro trimestre, superando as expectativas de investidores. A empresa espera um crescimento de receita anual nos últimos três meses do ano, graças à demanda impulsada pelas aplicações de inteligência artificial. A ação da empresa subiu quase 10% durante a negociação na quarta-feira.",
+      "titulo": "Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-08",
+      "resumo": "A Nvidia, líder no mercado de GPUs, está projetada para registrar um crescimento de 90% em lucros e 82% em vendas em 2027, o que está levando investidores a serem otimistas sobre a empresa. Apesar de suas ações terem estagnado em 2026, com apenas 5,6% de ganho, a empresa ainda é considerada uma das melhores opções entre as \"Magnificent Seven\" empresas tecnológicas.",
       "sentimento": "bullish",
       "tags": [
-        "TSMC",
-        "Inteligência Artificial",
-        "Semicondutores",
-        "Taiwan"
+        "Nvidia",
+        "IA",
+        "Tecnologia",
+        "Semicondutores"
       ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 64
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "Intel Stock Down 21%: Inside The July 2026 Semiconductor Selloff - Forbes",
+      "url": "https://www.forbes.com/sites/petercohan/2026/07/08/intel-stock-down-21-inside-the-july-2026-semiconductor-selloff/",
+      "fonte": "forbes.com",
+      "data": "2026-07-08",
+      "resumo": "A queda de 21% na ação da Intel é resultado de uma selloff no setor de semicondutores em julho de 2026, com índices como o SOX e o SMH caindo 10,8% e 13%, respectivamente. A causa da queda não é uma perda de demanda, mas sim uma combinação de medos sobre a rentabilidade da despesa com infraestrutura de IA, avaliações de nível dot-com e uma política monetária mais dura da Fed. No entanto, os analistas ainda vislumbram um caso bull para o setor, com crescimento de 131% nas receitas do segundo trimestre de 2026 e uma relação P/E atrativa para a Nvidia.",
+      "sentimento": "bearish",
+      "tags": [
+        "Semicondutores",
+        "Intel",
+        "IA"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 111
+    },
+    {
+      "titulo": "Why highflying chip stocks are suddenly losing their luster - MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-highflying-chip-stocks-are-suddenly-losing-their-luster-f0659145",
+      "fonte": "marketwatch.com",
+      "data": "2026-07-07",
+      "resumo": "As ações de semicondutores, que impulsionaram o comércio de inteligência artificial por grande parte do ano, estão enfrentando um obstáculo. O índice PHLX Semiconductor Index caiu 4,7% na terça-feira, abaixo da sua média móvel de 50 dias pela primeira vez desde abril. As ações do iShares Semiconductor ETF caíram 16% desde o seu pico histórico em junho.",
+      "sentimento": "bearish",
+      "tags": [
+        "Semicondutores",
+        "Inteligência Artificial",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "Meta Overtakes Tesla In Market Value—Here's Why Both Stocks Are Still Tanking - Forbes",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/08/meta-overtakes-tesla-in-market-value-heres-why-both-stocks-are-still-tanking/",
+      "fonte": "forbes.com",
+      "data": "2026-07-08",
+      "resumo": "A Meta ultrapassou a Tesla em valor de mercado, não devido a um aumento no preço das ações da Meta, mas sim devido a uma queda mais acentuada no preço das ações da Tesla. A Meta está prestes a divulgar seus resultados financeiros, o que pode ser um teste para saber se o investimento pesado na inteligência artificial está gerando resultados positivos. A Tesla também está prestes a divulgar seus resultados financeiros, o que pode ser um momento crítico para a empresa.",
+      "sentimento": "bearish",
+      "tags": [
+        "Meta",
+        "Tesla",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 113
+    },
+    {
+      "titulo": "Tech Weakness Resumes After Samsung Misses Lofty AI Expectations - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/tech-weakness-resumes-after-samsung-misses-lofty-ai-expectations",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-07",
+      "resumo": "A queda nas ações de tecnologia foi acentuada após a Samsung não atender às expectativas de investidores em relação a seus resultados de AI, levando a uma sinalização de fraqueza no setor de tecnologia.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 4.0,
+      "tokens_usados": 43
+    },
+    {
+      "titulo": "'Never bet against America': Citadel Securities says AI will be a huge boost to US hustle culture - Business Insider",
+      "url": "https://www.businessinsider.com/ai-small-business-hustle-culture-citadel-securities-economy-labor-market-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-08",
+      "resumo": "A Citadel Securities afirma que a inteligência artificial (IA) será um grande impulso para a cultura do empreendedorismo nos EUA, destacando o impacto positivo que a IA tem nos empreendedores, fundadores e pequenas empresas que são fundamentais para a economia. A empresa acredita que a discussão sobre IA deve se concentrar mais na sua capacidade de impulsionar a inovação e o crescimento econômico, em vez de se concentrar apenas na infraestrutura de dados e centros de processamento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Economia",
+        "Empreendedorismo"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 86
+    },
+    {
+      "titulo": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+      "url": "https://www.cnbc.com/2026/07/08/thursdays-stock-stories-whats-likely-to-move-the-market.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-09",
+      "resumo": "A CNBC lista as principais histórias de ações para a próxima sessão de negociação. A Nvidia está 14% abaixo do pico de maio, enquanto a Micron Technology está 24% abaixo do pico de 25 de junho. A Microsoft está 31% abaixo do pico de 31 de julho de 2025. A energia foi o setor que mais se destacou na sessão, com um aumento de 1,45%. A ExxonMobil e a Chevron estão ambas 20% abaixo dos seus picos de 30 de março.",
+      "sentimento": "bearish",
+      "tags": [
+        "tecnologia",
+        "ações",
+        "energia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 90
+    },
+    {
+      "titulo": "Nvidia trades at its cheapest valuation since pre‑AI boom (NVDA:NASDAQ) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4612200-nvidia-trades-at-its-cheapest-valuation-since-preai-boom",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-08",
+      "resumo": "A ação da Nvidia está sendo negociada a um valor mais baixo desde antes da explosão do AI, apesar de um crescimento forte previsto. A empresa perdeu cerca de 16% desde o recorde alcançado em 14 de maio, eliminando cerca de $1T em valor de mercado. Isso sugere que a Nvidia pode estar subestimada e oferece uma oportunidade de investimento.",
+      "sentimento": "bullish",
+      "tags": [
+        "NVDA",
+        "NASDAQ",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "Major AI models at a glance - Reuters",
+      "url": "https://www.reuters.com/world/china/major-ai-models-glance-2026-07-08/",
+      "fonte": "reuters.com",
+      "data": "2026-07-08",
+      "resumo": "A OpenAI lançará o GPT-5.6, seu modelo de IA mais avançado, após um atraso devido a preocupações do governo dos EUA sobre os riscos de segurança nacional dos sistemas de IA cada vez mais poderosos. Isso ocorre em um momento de intensa competição entre desenvolvedores de IA, que estão trabalhando para melhorar o desempenho dos modelos, reduzir custos e expandir capacidades para clientes empresariais. Desenvolvedores chineses estão redesenhando a economia da IA ao fornecer modelos cada vez mais capazes a um custo significativamente menor.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 94
     },
     {
       "titulo": "TSMC Earnings Reset the AI Narrative After Rotation Fears Hit Tech Stocks | Investing.com",
@@ -595,21 +717,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 70
-    },
-    {
-      "titulo": "AI spending, earnings hopes, Fed outlook set to sway US stocks in second half",
-      "url": "https://www.reuters.com/business/ai-spending-earnings-hopes-fed-outlook-set-sway-us-stocks-second-half-2026-06-30/",
-      "fonte": "reuters.com",
-      "data": "2026-07-01",
-      "resumo": "O mercado de ações dos EUA enfrentará desafios para manter sua tendência de alta no segundo semestre de 2026, incluindo a sustentabilidade dos gastos em IA, as expectativas de lucro e a perspectiva da Fed.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Economia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 46
     },
     {
       "titulo": "Stock market today: Dow, S&P 500, Nasdaq slip as semiconductor stocks sink to start 3rd quarter",
@@ -1218,21 +1325,6 @@
       "tokens_usados": 87
     },
     {
-      "titulo": "Breakingviews - Stock market boom runs on a 'large deficit model' - Reuters",
-      "url": "https://www.reuters.com/commentary/breakingviews/stock-market-boom-runs-large-deficit-model-2026-07-01/",
-      "fonte": "reuters.com",
-      "data": "2026-07-01",
-      "resumo": "O mercado de ações está em alta graças a um modelo de déficit grande, onde as empresas de tecnologia gastam muito em capital e aumentam os lucros uns dos outros. Embora a adoção da inteligência artificial possa continuar a impulsionar os lucros, há preocupações de que a economia possa entrar em recessão se a adoção da IA diminuir. A alta do S&P 500 pode ser explicada pela melhoria dos lucros, mas há riscos de que a economia possa entrar em recessão.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Economia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 92
-    },
-    {
       "titulo": "Asia stocks: KOSPI, Nikkei slide as AI chip selloff deepens - Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/korea-sinks-as-ai-chip-selloff-deepens-japan-suppliers-tumble-4772256",
       "fonte": "investing.com",
@@ -1263,21 +1355,6 @@
       "tokens_usados": 74
     },
     {
-      "titulo": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-01",
-      "resumo": "A CNBC discute as principais notícias de ações para a próxima sessão de negociação. Economistas prevêem a criação de 115.000 novos empregos em junho, com o número de ações iniciais de desemprego sendo divulgado às 8h30 da manhã. Além disso, a Dow Jones prevê 220.000 novos empregos, com o desempenho de ações como AMD, Dell, Broadcom, Intel, Micron, Marvell e Sandisk sendo observados de perto.",
-      "sentimento": "bullish",
-      "tags": [
-        "Economia",
-        "Emprego",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 74
-    },
-    {
       "titulo": "Karp Says Frontier AI Labs Are Stealing Enterprise Value And VCs Are Listening - Forbes",
       "url": "https://www.forbes.com/sites/josipamajic/2026/07/02/karp-says-frontier-ai-labs-are-stealing-enterprise-value-and-vcs-are-listening/",
       "fonte": "forbes.com",
@@ -1291,21 +1368,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 87
-    },
-    {
-      "titulo": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
-      "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
-      "fonte": "reuters.com",
-      "data": "2026-07-01",
-      "resumo": "A Meta está desenvolvendo um negócio de nuvem para vender capacidade de processamento de inteligência artificial em excesso, de acordo com um relatório da Bloomberg News. Isso ocorre enquanto as empresas de tecnologia buscam retornos sobre investimentos caros em IA, apesar de preocupações com gastos excessivos. A ação da Meta subiu mais de 10%, aliviando a pressão sobre a ação que caiu cerca de 15% este ano.",
-      "sentimento": "bullish",
-      "tags": [
-        "Meta",
-        "AI",
-        "Cloud Computing"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 77
     },
     {
       "titulo": "A CIO shares 4 tech stocks that can weather an upheaval in the AI trade - Business Insider",
@@ -1323,21 +1385,6 @@
       "tokens_usados": 53
     },
     {
-      "titulo": "Is Microsoft Stock Heading For $550? - Forbes",
-      "url": "https://www.forbes.com/sites/greatspeculations/2026/07/01/is-microsoft-stock-heading-for-550/",
-      "fonte": "forbes.com",
-      "data": "2026-07-01",
-      "resumo": "A Microsoft está projetada para alcançar um valor de $550, graças ao crescimento robusto de sua seção de IA, que alcançou um ritmo anual de $37 bilhões com uma expansão de 123%. Este crescimento deve impulsionar uma subida de 49% no valor da ação em três anos. No entanto, o crescimento agressivo da empresa demanda investimentos significativos, com uma previsão de $190 bilhões em despesas de capital para 2026, o que pode gerar riscos no curto prazo.",
-      "sentimento": "bullish",
-      "tags": [
-        "Microsoft",
-        "IA",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 86
-    },
-    {
       "titulo": "Morning Call Sheet: Jobs, AI, and earnings shape the second half outlook - CNBC",
       "url": "https://www.cnbc.com/video/2026/07/02/morning-call-sheet-jobs-ai-and-earnings-shape-the-second-half-outlook.html",
       "fonte": "cnbc.com",
@@ -1353,157 +1400,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 129
-    },
-    {
-      "titulo": "2026 laggards shine in Wednesday's mixed stock market that kicked off the third quarter - CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/2026-laggards-shine-in-mixed-market-that-kicked-off-q3.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-01",
-      "resumo": "O mercado de ações iniciou o terceiro trimestre com uma sessão de reversão, com líderes de IA e infraestrutura de centros de dados caindo, enquanto software e hyperscalers se recuperaram. A Meta Platforms anunciou planos para criar uma empresa de computação em nuvem para monetizar seus centros de dados e infraestrutura de IA, o que levou a uma subida de mais de 10% nas ações. Isso aliviou preocupações de que a Meta estava gastando demais com IA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Meta",
-        "Computação em Nuvem"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 88
-    },
-    {
-      "titulo": "Chip stocks that notched record rallies in second quarter start Q3 with a dud - CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-01",
-      "resumo": "As ações de empresas de chips que registraram altas recordes no segundo trimestre começaram o terceiro trimestre com uma queda. As empresas de memória, equipamentos de semicondutores e fabricantes de chips sofreram declínios significativos, com a VanEck Semiconductor ETF caindo mais de 5% em uma única sessão. A queda vem após as empresas de chips notarem ganhos recordes no trimestre que terminou em junho, com a Micron, Intel e AMD adicionando US$ 2 trilhões em valor combinado.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 86
-    },
-    {
-      "titulo": "Neocloud Together AI raises $800M, leaps to $8.3B valuation - TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
-      "fonte": "techcrunch.com",
-      "data": "2026-07-01",
-      "resumo": "A Neocloud Together AI arrecadou $800 milhões em uma rodada de financiamento liderada por Aramco Ventures, elevando sua valoração para $8,3 bilhões. A empresa já havia recebido financiamento de $305 milhões em uma rodada de série B há 16 meses, com uma valoração de $3,3 bilhões. A Together AI foi fundada por Vipul Ved Prakash, Percy Liang e Ce Zhang, e oferece soluções de hardware e infraestrutura para empresas que utilizam inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Hardware",
-        "Financiamento"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 82
-    },
-    {
-      "titulo": "Meta's plan to launch a cloud business eases the biggest overhang on the stock - CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-01",
-      "resumo": "A Meta anunciou planos para lançar uma empresa de infraestrutura de nuvem, que venderá poder de processamento de IA e modelos de IA para clientes externos. Isso deve ajudar a aumentar a confiança dos investidores na empresa e reduzir a incerteza sobre como a Meta irá monetizar seus investimentos em infraestrutura de dados e centros de dados. A notícia levou a uma reação positiva no mercado, com as ações da Meta subindo mais de 9% em um único dia.",
-      "sentimento": "bullish",
-      "tags": [
-        "Meta",
-        "Cloud Computing",
-        "IA",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 90
-    },
-    {
-      "titulo": "Oaktree-backed ITG jumps in Nasdaq debut, signaling strong AI infrastructure demand - Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/oaktree-backed-itg-jumps-nasdaq-debut-signaling-strong-ai-infrastructure-demand-2026-07-01/",
-      "fonte": "reuters.com",
-      "data": "2026-07-01",
-      "resumo": "A ITG, uma empresa de infraestrutura digital apoiada pelo Oaktree, estreou no Nasdaq com uma valorização de 12,5%, alcançando um valor de mercado de $2,18 bilhões. Isso sinaliza uma forte demanda por infraestrutura de AI. A empresa fornece serviços de rede outsource a provedores de banda larga, fibras e wireless, além de operadores de centros de dados e empresas de utilidade.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Infraestrutura",
-        "Nasdaq"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 70
-    },
-    {
-      "titulo": "'Get it while it's cheap': An investment firm shares its top under-the-radar AI play - Business Insider",
-      "url": "https://www.businessinsider.com/ai-stock-picks-robotics-data-centers-tech-manfacturing-rrx-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-01",
-      "resumo": "A empresa de investimentos Kerrisdale publicou um relatório destacando a Regal Rexnord como uma das suas principais aposta em inteligência artificial. A empresa é uma fabricante de automação e manufatura que tem exposição às indústrias de centros de dados e robótica. Embora o preço da ação tenha subido 63% ao longo do ano, os analistas de Kerrisdale acreditam que ela ainda é subvalorizada.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Industriais",
-        "Regal Rexnord"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 73
-    },
-    {
-      "titulo": "Goldman Sachs: Why It's Time to Double Down on the AI Trade - Business Insider",
-      "url": "https://www.businessinsider.com/ai-stocks-investing-ideas-bubble-valuations-ben-snider-goldman-sachs-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-01",
-      "resumo": "Goldman Sachs acredita que é hora de aumentar a aposta no setor de inteligência artificial (IA), apesar de alguns investimentos terem tido um desempenho fraco recentemente. O analista Ben Snider destaca que essas empresas estão sendo vendidas a preços baixos, com múltiplos de preço-earnings (PE) abaixo do histórico. Ele sugere investir em fundos que oferecem exposição a temas como infraestrutura de IA, semicondutores e redes de computadores.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Infraestrutura"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 76
-    },
-    {
-      "titulo": "Tech leads first half stock gains — but the biggest winners weren't in the U.S. - CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/tech-stocks-mag-7-emerging-markets-nvidia-chip-ai.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-01",
-      "resumo": "A indústria de tecnologia foi a grande vencedora no primeiro semestre de 2026, apesar de uma queda acentuada no final de junho. No entanto, as ações de tecnologia americanas foram superadas por suas contrapartes internacionais. O índice MSCI de tecnologia de mercados emergentes foi o melhor desempenho, com um ganho de mais de 90%.",
-      "sentimento": "bullish",
-      "tags": [
-        "tecnologia",
-        "mercados emergentes",
-        "ações internacionais"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 65
-    },
-    {
-      "titulo": "UAE's MGX raises one of the biggest AI funds ever as it closes at $49 billion - CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/mgx-ai-fund-uae-49-billion.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-01",
-      "resumo": "O fundo de riqueza soberana da Emirados Árabes Unidos, MGX, anunciou a fechamento de um fundo de $49 bilhões para apoiar empresas de inteligência artificial, tornando-o um dos maiores veículos de investimento focados no setor. O fundo já investiu em 14 empresas e está procurando investir em toda a pilha de tecnologia de IA, incluindo semicondutores, infraestrutura de IA e tecnologias e plataformas que habilitam a IA. MGX é um dos principais backadores de empresas de IA, incluindo OpenAI e Anthropic, e também investiu em xAI, empresa de Elon Musk.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Investimentos"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 99
-    },
-    {
-      "titulo": "CNBC Daily Open: AI demand fuels investors' portfolios while oil posts biggest monthly decline - CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/cnbc-daily-open-ai-demand-fuels-investors-portfolio-while-oil-posts-biggest-monthly-decline.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-01",
-      "resumo": "A demanda por inteligência artificial está impulsionando a valorização de empresas como Intel, Micron e Advanced Micro Devices, que juntas ganharam cerca de $2 trilhões em capitalização de mercado no segundo trimestre. Isso reflete a crescente convicção de investidores em relação à próxima fase de gastos em AI. Além disso, a Amazon Web Services está fortalecendo sua presença em engenharia de software em frente, enquanto a China experimenta um crescimento desigual em sua atividade de manufatura.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Tech"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 85
     }
   ]
 }
