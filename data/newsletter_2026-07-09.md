@@ -1,137 +1,111 @@
 # Newsletter IA Bolsa — 2026-07-09
 
-**Gerado em:** 09/07/2026 06:41
-**Total:** 10 noticias
+**Gerado em:** 09/07/2026 12:31
+**Total:** 8 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. AI, chip stocks slowly recover amid escalating US-Iran conflict - Seeking Alpha
+## 1. Asia stocks: China rebounds on stimulus hopes, Iran risks limit tech gains - Investing.com
 
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 7.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
-
-Ações de memória e IA estão lentamente recuperando após um dia de queda, apesar de tensões crescentes entre EUA e Irã. A Nasdaq Composite abriu em vermelho, mas algumas ações de tecnologia estão em alta devido a eventos corporativos positivos e previsões de crescimento.
-
-[Ler noticia completa](https://seekingalpha.com/news/4612207-ai-chip-stocks-fall-after-us-iran-conflict-escalates)
-
----
-
-## 2. Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels - Bloomberg.com
-
-**Fonte:** bloomberg.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** Nvidia, IA, Tecnologia, Semicondutores
-
-A Nvidia, líder no mercado de GPUs, está projetada para registrar um crescimento de 90% em lucros e 82% em vendas em 2027, o que está levando investidores a serem otimistas sobre a empresa. Apesar de suas ações terem estagnado em 2026, com apenas 5,6% de ganho, a empresa ainda é considerada uma das melhores opções entre as "Magnificent Seven" empresas tecnológicas.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-08/nvidia-s-1-trillion-slide-sends-valuation-to-pre-ai-boom-levels)
-
----
-
-## 3. Intel Stock Down 21%: Inside The July 2026 Semiconductor Selloff - Forbes
-
-**Fonte:** forbes.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** Semicondutores, Intel, IA
-
-A queda de 21% na ação da Intel é resultado de uma selloff no setor de semicondutores em julho de 2026, com índices como o SOX e o SMH caindo 10,8% e 13%, respectivamente. A causa da queda não é uma perda de demanda, mas sim uma combinação de medos sobre a rentabilidade da despesa com infraestrutura de IA, avaliações de nível dot-com e uma política monetária mais dura da Fed. No entanto, os analistas ainda vislumbram um caso bull para o setor, com crescimento de 131% nas receitas do segundo trimestre de 2026 e uma relação P/E atrativa para a Nvidia.
-
-[Ler noticia completa](https://www.forbes.com/sites/petercohan/2026/07/08/intel-stock-down-21-inside-the-july-2026-semiconductor-selloff/)
-
----
-
-## 4. Why highflying chip stocks are suddenly losing their luster - MarketWatch
-
-**Fonte:** marketwatch.com  
-**Sentimento:** 🔴 BEARISH  
+**Fonte:** investing.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 6.0/10  
-**Tags:** Semicondutores, Inteligência Artificial, Mercado de Ações
+**Tags:** AI, Semicondutores, Tecnologia
 
-As ações de semicondutores, que impulsionaram o comércio de inteligência artificial por grande parte do ano, estão enfrentando um obstáculo. O índice PHLX Semiconductor Index caiu 4,7% na terça-feira, abaixo da sua média móvel de 50 dias pela primeira vez desde abril. As ações do iShares Semiconductor ETF caíram 16% desde o seu pico histórico em junho.
+A bolsa asiática registrou uma recuperação após uma semana volátil para ações de semicondutores, com a China sendo impulsionada por esperanças de estímulo fiscal, embora os riscos relacionados à Irã limitassem os ganhos tecnológicos. A indústria de inteligência artificial (IA) manteve-se estável após uma semana de reajuste de valorização. A China apresentou dados de inflação mistos, reforçando as esperanças de apoio adicional de Pequim.
 
-[Ler noticia completa](https://www.marketwatch.com/story/why-highflying-chip-stocks-are-suddenly-losing-their-luster-f0659145)
-
----
-
-## 5. Meta Overtakes Tesla In Market Value—Here's Why Both Stocks Are Still Tanking - Forbes
-
-**Fonte:** forbes.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** Meta, Tesla, AI, Tecnologia
-
-A Meta ultrapassou a Tesla em valor de mercado, não devido a um aumento no preço das ações da Meta, mas sim devido a uma queda mais acentuada no preço das ações da Tesla. A Meta está prestes a divulgar seus resultados financeiros, o que pode ser um teste para saber se o investimento pesado na inteligência artificial está gerando resultados positivos. A Tesla também está prestes a divulgar seus resultados financeiros, o que pode ser um momento crítico para a empresa.
-
-[Ler noticia completa](https://www.forbes.com/sites/antoniopequenoiv/2026/07/08/meta-overtakes-tesla-in-market-value-heres-why-both-stocks-are-still-tanking/)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-oil-samsung-drag-weighs-japan-chip-rally-limits-broader-loss-4782968)
 
 ---
 
-## 6. Tech Weakness Resumes After Samsung Misses Lofty AI Expectations - Bloomberg.com
-
-**Fonte:** bloomberg.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 4.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
-
-A queda nas ações de tecnologia foi acentuada após a Samsung não atender às expectativas de investidores em relação a seus resultados de AI, levando a uma sinalização de fraqueza no setor de tecnologia.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-07/tech-weakness-resumes-after-samsung-misses-lofty-ai-expectations)
-
----
-
-## 7. 'Never bet against America': Citadel Securities says AI will be a huge boost to US hustle culture - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Economia, Empreendedorismo
-
-A Citadel Securities afirma que a inteligência artificial (IA) será um grande impulso para a cultura do empreendedorismo nos EUA, destacando o impacto positivo que a IA tem nos empreendedores, fundadores e pequenas empresas que são fundamentais para a economia. A empresa acredita que a discussão sobre IA deve se concentrar mais na sua capacidade de impulsionar a inovação e o crescimento econômico, em vez de se concentrar apenas na infraestrutura de dados e centros de processamento.
-
-[Ler noticia completa](https://www.businessinsider.com/ai-small-business-hustle-culture-citadel-securities-economy-labor-market-2026-7)
-
----
-
-## 8. Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** tecnologia, ações, energia
-
-A CNBC lista as principais histórias de ações para a próxima sessão de negociação. A Nvidia está 14% abaixo do pico de maio, enquanto a Micron Technology está 24% abaixo do pico de 25 de junho. A Microsoft está 31% abaixo do pico de 31 de julho de 2025. A energia foi o setor que mais se destacou na sessão, com um aumento de 1,45%. A ExxonMobil e a Chevron estão ambas 20% abaixo dos seus picos de 30 de março.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/08/thursdays-stock-stories-whats-likely-to-move-the-market.html)
-
----
-
-## 9. Nvidia trades at its cheapest valuation since pre‑AI boom (NVDA:NASDAQ) - Seeking Alpha
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** NVDA, NASDAQ, AI, Tecnologia
-
-A ação da Nvidia está sendo negociada a um valor mais baixo desde antes da explosão do AI, apesar de um crescimento forte previsto. A empresa perdeu cerca de 16% desde o recorde alcançado em 14 de maio, eliminando cerca de $1T em valor de mercado. Isso sugere que a Nvidia pode estar subestimada e oferece uma oportunidade de investimento.
-
-[Ler noticia completa](https://seekingalpha.com/news/4612200-nvidia-trades-at-its-cheapest-valuation-since-preai-boom)
-
----
-
-## 10. Major AI models at a glance - Reuters
+## 2. Asian investors eye firms benefiting from but resilient to AI - Reuters
 
 **Fonte:** reuters.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Investimentos, Tecnologia
+
+Investidores asiáticos estão procurando empresas que beneficiam-se do avanço da inteligência artificial (IA) e são resistentes a possíveis turbulências no mercado. A Temasek, que detém participações em Anthropic e OpenAI, planeja aumentar significativamente suas investidas em empresas de IA, elevando sua exposição à tecnologia para até 15% em cinco anos. No entanto, há preocupações sobre o tamanho dos investimentos e a possibilidade de um "buraco" de especulação no mercado de IA.
+
+[Ler noticia completa](https://www.reuters.com/world/china/asian-investors-eye-firms-benefiting-resilient-ai-2026-07-09/)
+
+---
+
+## 3. Why Samsung's solid earnings are dragging down the US chip sector - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Semiconductor, NASDAQ
+
+A queda das ações de Samsung está afetando negativamente o setor de chips nos EUA, fazendo com que os índices de mercado caíssem. A Nasdaq 100 caiu mais de 1%, enquanto a Dow Jones e o S&P 500 também perderam valor. A forte expectativa em relação às empresas de chips e tecnologia está levando a uma possível pressão de venda se essas empresas não atenderem às expectativas.
+
+[Ler noticia completa](https://www.businessinsider.com/stock-market-today-chips-selloff-samsung-micron-intel-marvell-amd-2026-7)
+
+---
+
+## 4. AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round - TechCrunch
+
+**Fonte:** techcrunch.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Mercados Financeiros
+**Tags:** AI, Tecnologia, Financiamento
 
-A OpenAI lançará o GPT-5.6, seu modelo de IA mais avançado, após um atraso devido a preocupações do governo dos EUA sobre os riscos de segurança nacional dos sistemas de IA cada vez mais poderosos. Isso ocorre em um momento de intensa competição entre desenvolvedores de IA, que estão trabalhando para melhorar o desempenho dos modelos, reduzir custos e expandir capacidades para clientes empresariais. Desenvolvedores chineses estão redesenhando a economia da IA ao fornecer modelos cada vez mais capazes a um custo significativamente menor.
+A SambaNova, uma empresa de chips de IA, levantou US$ 1 bilhão em uma rodada de financiamento, alcançando uma valorização de US$ 11 bilhões. Isso ocorreu apenas 5 meses após a última rodada de financiamento mega. O CEO da empresa afirmou que a empresa continua a ser abordada por investidores e que a tendência será a tornar-se uma empresa pública em algum momento.
 
-[Ler noticia completa](https://www.reuters.com/world/china/major-ai-models-glance-2026-07-08/)
+[Ler noticia completa](https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/)
+
+---
+
+## 5. These AI startups are growing revenue at faster and faster rates - TechCrunch
+
+**Fonte:** techcrunch.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Startups, Tecnologia
+
+Empresas de IA estão registrando crescimento de receita a taxas cada vez mais rápidas. A Anthropic alcançou um patamar de receita de $47 bilhões em apenas alguns meses, enquanto a Sierra e a Glean também registraram crescimento significativo em suas receitas. A Gusto, uma empresa de tecnologia de recursos humanos, também viu seu crescimento de receita acelerado após integrar a tecnologia de IA.
+
+[Ler noticia completa](https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/)
+
+---
+
+## 6. Why Data Centers Are Booming—And What They're Actually For - Forbes
+
+**Fonte:** forbes.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 9.0/10  
+**Tags:** AI, Data Centers, Tecnologia
+
+Os centros de dados estão experimentando um crescimento significativo, com empresas como Amazon, Microsoft e Google investindo bilhões em infraestrutura de IA. Os centros de dados são projetados para fornecer capacidade, redundância e proximidade a grandes usuários e redes de nuvem. Além disso, os operadores estão se expandindo para áreas rurais com terra e eletricidade disponíveis.
+
+[Ler noticia completa](https://www.forbes.com/sites/technology/article/what-is-a-data-center/)
+
+---
+
+## 7. Caterpillar acquires Skycatch to expand mining tech portfolio - Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** Caterpillar, Skycatch, Mineração, Tecnologia
+
+A Caterpillar adquiriu a Skycatch, uma empresa de tecnologia de mineração, para expandir sua carteira de soluções de tecnologia de mineração baseadas em dados. A Skycatch desenvolveu tecnologia que utiliza capacidades de IA para capturar dados espaciais de alta frequência e precisão, gerando um modelo digital em tempo real de sites de mineração.
+
+[Ler noticia completa](https://www.investing.com/news/company-news/caterpillar-acquires-skycatch-to-expand-mining-tech-portfolio-93CH-4779468)
+
+---
+
+## 8. Meta to Build First Data Center in Canada, Expanding Global Fleet - Bloomberg.com
+
+**Fonte:** bloomberg.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 8.0/10  
+**Tags:** AI, Tecnologia, Meta
+
+A Meta está investindo cerca de $10 bilhões na construção de seu primeiro centro de dados no Canadá, expandindo sua infraestrutura para apoiar seus objetivos de inteligência artificial.
+
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet)
 
 ---

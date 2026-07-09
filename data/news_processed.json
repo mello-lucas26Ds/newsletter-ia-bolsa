@@ -2,10 +2,131 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-09",
-    "total_noticias": 92,
-    "gerado_em": "2026-07-09T06:41:32.461783"
+    "total_noticias": 100,
+    "gerado_em": "2026-07-09T12:31:43.376882"
   },
   "noticias": [
+    {
+      "titulo": "Asia stocks: China rebounds on stimulus hopes, Iran risks limit tech gains - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-oil-samsung-drag-weighs-japan-chip-rally-limits-broader-loss-4782968",
+      "fonte": "investing.com",
+      "data": "2026-07-09",
+      "resumo": "A bolsa asiática registrou uma recuperação após uma semana volátil para ações de semicondutores, com a China sendo impulsionada por esperanças de estímulo fiscal, embora os riscos relacionados à Irã limitassem os ganhos tecnológicos. A indústria de inteligência artificial (IA) manteve-se estável após uma semana de reajuste de valorização. A China apresentou dados de inflação mistos, reforçando as esperanças de apoio adicional de Pequim.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "Asian investors eye firms benefiting from but resilient to AI - Reuters",
+      "url": "https://www.reuters.com/world/china/asian-investors-eye-firms-benefiting-resilient-ai-2026-07-09/",
+      "fonte": "reuters.com",
+      "data": "2026-07-09",
+      "resumo": "Investidores asiáticos estão procurando empresas que beneficiam-se do avanço da inteligência artificial (IA) e são resistentes a possíveis turbulências no mercado. A Temasek, que detém participações em Anthropic e OpenAI, planeja aumentar significativamente suas investidas em empresas de IA, elevando sua exposição à tecnologia para até 15% em cinco anos. No entanto, há preocupações sobre o tamanho dos investimentos e a possibilidade de um \"buraco\" de especulação no mercado de IA.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Investimentos",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 80
+    },
+    {
+      "titulo": "Why Samsung's solid earnings are dragging down the US chip sector - Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-today-chips-selloff-samsung-micron-intel-marvell-amd-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-07",
+      "resumo": "A queda das ações de Samsung está afetando negativamente o setor de chips nos EUA, fazendo com que os índices de mercado caíssem. A Nasdaq 100 caiu mais de 1%, enquanto a Dow Jones e o S&P 500 também perderam valor. A forte expectativa em relação às empresas de chips e tecnologia está levando a uma possível pressão de venda se essas empresas não atenderem às expectativas.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 110
+    },
+    {
+      "titulo": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-08",
+      "resumo": "A SambaNova, uma empresa de chips de IA, levantou US$ 1 bilhão em uma rodada de financiamento, alcançando uma valorização de US$ 11 bilhões. Isso ocorreu apenas 5 meses após a última rodada de financiamento mega. O CEO da empresa afirmou que a empresa continua a ser abordada por investidores e que a tendência será a tornar-se uma empresa pública em algum momento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Financiamento"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "These AI startups are growing revenue at faster and faster rates - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-08",
+      "resumo": "Empresas de IA estão registrando crescimento de receita a taxas cada vez mais rápidas. A Anthropic alcançou um patamar de receita de $47 bilhões em apenas alguns meses, enquanto a Sierra e a Glean também registraram crescimento significativo em suas receitas. A Gusto, uma empresa de tecnologia de recursos humanos, também viu seu crescimento de receita acelerado após integrar a tecnologia de IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Startups",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "Why Data Centers Are Booming—And What They're Actually For - Forbes",
+      "url": "https://www.forbes.com/sites/technology/article/what-is-a-data-center/",
+      "fonte": "forbes.com",
+      "data": "2026-07-09",
+      "resumo": "Os centros de dados estão experimentando um crescimento significativo, com empresas como Amazon, Microsoft e Google investindo bilhões em infraestrutura de IA. Os centros de dados são projetados para fornecer capacidade, redundância e proximidade a grandes usuários e redes de nuvem. Além disso, os operadores estão se expandindo para áreas rurais com terra e eletricidade disponíveis.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Centers",
+        "Tecnologia"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 66
+    },
+    {
+      "titulo": "Caterpillar acquires Skycatch to expand mining tech portfolio - Investing.com",
+      "url": "https://www.investing.com/news/company-news/caterpillar-acquires-skycatch-to-expand-mining-tech-portfolio-93CH-4779468",
+      "fonte": "investing.com",
+      "data": "2026-07-07",
+      "resumo": "A Caterpillar adquiriu a Skycatch, uma empresa de tecnologia de mineração, para expandir sua carteira de soluções de tecnologia de mineração baseadas em dados. A Skycatch desenvolveu tecnologia que utiliza capacidades de IA para capturar dados espaciais de alta frequência e precisão, gerando um modelo digital em tempo real de sites de mineração.",
+      "sentimento": "bullish",
+      "tags": [
+        "Caterpillar",
+        "Skycatch",
+        "Mineração",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 63
+    },
+    {
+      "titulo": "Meta to Build First Data Center in Canada, Expanding Global Fleet - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-08",
+      "resumo": "A Meta está investindo cerca de $10 bilhões na construção de seu primeiro centro de dados no Canadá, expandindo sua infraestrutura para apoiar seus objetivos de inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Meta"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 37
+    },
     {
       "titulo": "AI, chip stocks slowly recover amid escalating US-Iran conflict - Seeking Alpha",
       "url": "https://seekingalpha.com/news/4612207-ai-chip-stocks-fall-after-us-iran-conflict-escalates",
