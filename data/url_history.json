@@ -1,40 +1,4 @@
 {
-  "https://www.cnbc.com/2026/07/01/2026-laggards-shine-in-mixed-market-that-kicked-off-q3.html": {
-    "hash": "ce135196e971024bbd953b0a5ac9883c",
-    "visto_em": "2026-07-02"
-  },
-  "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html": {
-    "hash": "41dcc4b0fee46d4629f46494fbe876ed",
-    "visto_em": "2026-07-02"
-  },
-  "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/": {
-    "hash": "fa8290b88fff142e849a3d282da9c33f",
-    "visto_em": "2026-07-02"
-  },
-  "https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html": {
-    "hash": "86ece42587de649f10c837e4c64099f3",
-    "visto_em": "2026-07-02"
-  },
-  "https://www.reuters.com/business/media-telecom/oaktree-backed-itg-jumps-nasdaq-debut-signaling-strong-ai-infrastructure-demand-2026-07-01/": {
-    "hash": "d9b233fbad2cd51bfa2fa9e961e696dd",
-    "visto_em": "2026-07-02"
-  },
-  "https://www.businessinsider.com/stocks-to-buy-ai-trade-hyperscaler-spending-pullback-amzn-dlr-2026-7": {
-    "hash": "143e5301d1224cf7b49d6be3c0e1f4e9",
-    "visto_em": "2026-07-02"
-  },
-  "https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html": {
-    "hash": "c61c98e85046359286e7c40a754c64f3",
-    "visto_em": "2026-07-02"
-  },
-  "https://www.forbes.com/sites/greatspeculations/2026/07/01/is-microsoft-stock-heading-for-550/": {
-    "hash": "833ac9cf3af6b421bb6df367d678cf42",
-    "visto_em": "2026-07-02"
-  },
-  "https://www.cnbc.com/video/2026/07/02/morning-call-sheet-jobs-ai-and-earnings-shape-the-second-half-outlook.html": {
-    "hash": "eaca256ef8f1f2eecde85b4e0d4d02f6",
-    "visto_em": "2026-07-02"
-  },
   "https://www.bloomberg.com/news/articles/2026-07-02/us-stocks-muted-as-traders-wait-on-jobs-data-for-rate-path-clues": {
     "hash": "6f93c3fadb6614ba6d63472de49ad6b6",
     "visto_em": "2026-07-03"
@@ -454,5 +418,45 @@
   "https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet": {
     "hash": "d9a14345228ec984acb574190b66bef6",
     "visto_em": "2026-07-09"
+  },
+  "https://www.cnbc.com/2026/07/09/jim-cramer-investors-making-mistake-trillion-dollar-tech-giants.html": {
+    "hash": "478833c1190c4236395621a5b73f64cf",
+    "visto_em": "2026-07-10"
+  },
+  "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html": {
+    "hash": "b4ece7ac471431c54588d42f9c1735cb",
+    "visto_em": "2026-07-10"
+  },
+  "https://www.reuters.com/business/higher-bar-corporate-profit-growth-poses-challenge-us-stock-market-rally-2026-07-09/": {
+    "hash": "648e79748c6f0bc1247557fba2180247",
+    "visto_em": "2026-07-10"
+  },
+  "https://www.cnbc.com/video/2026/07/09/fast-money-traders-talk-countdown-to-sk-hynix-trading-on-the-nasdaq.html": {
+    "hash": "e782f26f917affb321ac9116b64ff148",
+    "visto_em": "2026-07-10"
+  },
+  "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/": {
+    "hash": "e5d32ecef35c5e0e02feee36b62e2c49",
+    "visto_em": "2026-07-10"
+  },
+  "https://www.reuters.com/commentary/breakingviews/good-bad-ugly-ais-economic-impact-2026-07-09/": {
+    "hash": "d418bb9aff0fde9ec021029ae58f9c0f",
+    "visto_em": "2026-07-10"
+  },
+  "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/": {
+    "hash": "43887ef93afeb163eeac0bfa7d4f0c4f",
+    "visto_em": "2026-07-10"
+  },
+  "https://www.cnbc.com/2026/07/09/cramers-lightning-round-buy-carpenter-technology.html": {
+    "hash": "cc30f1801a008b50e153bce8370d6230",
+    "visto_em": "2026-07-10"
+  },
+  "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/": {
+    "hash": "e6400b152235eefc6c3e92efa7833980",
+    "visto_em": "2026-07-10"
+  },
+  "https://www.investing.com/news/stock-market-news/top-agriculture--infrastructure-stock-pick-from-oppenheimer-93CH-4782973": {
+    "hash": "56b79e71a922d258784bb1bec5e54eba",
+    "visto_em": "2026-07-10"
   }
 }
