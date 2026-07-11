@@ -1,11 +1,102 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-10",
-    "total_noticias": 97,
-    "gerado_em": "2026-07-10T12:24:46.037728"
+    "data": "2026-07-11",
+    "total_noticias": 87,
+    "gerado_em": "2026-07-11T05:37:34.220265"
   },
   "noticias": [
+    {
+      "titulo": "Meta stock got the 18% pop Jim Cramer said it could on cloud news. What's next? - CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "A ação da Meta teve um aumento de 18% após Jim Cramer prever essa reação em notícias sobre nuvens. Zuckerberg discutiu a nuvem e desacreditou a ideia de que a empresa tenha superconstruído sua infraestrutura de IA. Analistas de Wall Street estão agora vendo a Meta como uma compra, com 91% de recomendações de compra e uma meta de preço média de $821, o que implica mais de 20% de ganho.",
+      "sentimento": "bullish",
+      "tags": [
+        "Meta",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 80
+    },
+    {
+      "titulo": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Toll, Shopify, Twilio, Seagate, Chipotle & more - CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/fridays-biggest-analyst-calls-on-wall-street-include-nvidia-and-spacex.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "A Morgan Stanley reiterou a SpaceX como overweight e aumentou a previsão de preço para $1,100, enquanto reiterou a Nvidia como overweight após uma reunião com a diretoria. A empresa também iniciou cobertura da BrightSpring com uma classificação de outperform e preço-alvo de $80. Além disso, a Bernstein atualizou a classificação da J.B. Hunt para outperform.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "SpaceX",
+        "Nvidia",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 66
+    },
+    {
+      "titulo": "Micron shares rise 7% after announcing billions more in U.S. chipmaking investments - CNBC",
+      "url": "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-09",
+      "resumo": "A Micron anunciou investimentos adicionais de bilhões de dólares nos EUA na produção de chips, o que levou a uma alta de 7% nas ações da empresa. Outros nomes da indústria de chips também se beneficiaram, com Applied Materials, KLA Corp e Lam Research subindo 7% e ARM Holdings subindo 11%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 60
+    },
+    {
+      "titulo": "This e-commerce stock could get a boost from the agentic AI craze, Stifel says - CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/shopify-could-get-a-boost-from-the-agentic-ai-craze-stifel-says.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "A Stifel acredita que a Shopify pode receber um impulso devido à onda de agente IA, devido ao crescimento do mercado de agente IA global, que pode chegar a $24,5 bilhões até 2030. O analista destaca que a monetização de IA no varejo está no início e que o impacto nas ações pode levar tempo para se materializar.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "E-commerce",
+        "Shopify"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "The Whirlwind 72 Hours of Rival AI Announcements - Business Insider",
+      "url": "https://www.businessinsider.com/new-ai-model-announcements-openai-meta-grok-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-10",
+      "resumo": "Em uma semana intensa, várias empresas de tecnologia anunciaram avanços em inteligência artificial. A OpenAI e a Anthropic, duas das principais empresas de IA, anunciaram novas tecnologias e parcerias. Além disso, a Meta e a Google também fizeram anúncios importantes sobre IA. Esses anúncios têm implicações significativas para o setor de tecnologia e podem influenciar a forma como as empresas desenvolvem e utilizam a IA no futuro.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Negócios"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "AI’s Next Race: Cost, Control, and Compute - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/10/ais-next-race-cost-control-and-compute.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "A indústria de IA está entrando em uma nova fase de competição, onde a eficiência energética, o controle e a capacidade de processamento são fatores críticos. Empresas como Perplexity estão desenvolvendo modelos de orquestração para melhorar a eficiência e reduzir os custos. Além disso, a tendência de modelos abertos está crescendo, permitindo que as empresas executem modelos que podem ser baixados e controlados.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Investimento"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 130
+    },
     {
       "titulo": "D.A. Davidson's Gil Luria: Disconnect between companies' AI ROI claims and investor sentiment - CNBC",
       "url": "https://www.cnbc.com/video/2026/07/10/d-a-davidsons-gil-luria-disconnect-between-companies-ai-roi-claims-and-investor-sentiment.html",
@@ -1202,37 +1293,6 @@
       "tokens_usados": 77
     },
     {
-      "titulo": "Stocks Stabilize After Tech-Led Selloff, Gold Up: Markets Wrap - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-02/stock-market-today-dow-s-p-live-updates",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-03",
-      "resumo": "Ações estabilizam-se após uma sinalização de recuo no mercado de tecnologia, com ouro em alta. O dólar está em risco de ter sua pior semana desde maio. O mercado asiático avançou 2% com a recuperação de fabricantes de memória sul-coreanos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados Financeiros"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 50
-    },
-    {
-      "titulo": "What's in and what's out among the new AI money crowd - Business Insider",
-      "url": "https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-03",
-      "resumo": "A nova geração de fundadores de IA está se tornando cada vez mais visível, e sua preferência por luxo e tecnologia está influenciando o mercado de moda. Marcas como Brunello Cucinelli e Bottega Veneta estão ganhando popularidade entre os fundadores de IA, que valorizam a estética de luxo quieto e a filosofia de sustentabilidade e criatividade dessas marcas. Além disso, há um aumento no interesse por marcas de roupas personalizadas que utilizam tecnologia, como Sene e Son of a Tailor.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Moda",
-        "Luxo"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 90
-    },
-    {
       "titulo": "For one small business, AI was key to a quick start and expansion - Reuters",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/one-small-business-ai-was-key-quick-start-expansion-2026-07-04/",
       "fonte": "reuters.com",
@@ -1258,216 +1318,6 @@
         "AI",
         "Fintech",
         "VentureCapital"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 65
-    },
-    {
-      "titulo": "Wall St Week Ahead Investors look for Fed clues, earnings signs as tech wobbles - Reuters",
-      "url": "https://www.reuters.com/business/wall-st-week-ahead-investors-look-fed-clues-earnings-signs-tech-wobbles-2026-07-03/",
-      "fonte": "reuters.com",
-      "data": "2026-07-03",
-      "resumo": "A semana que vem será marcada por uma busca por pistas do Fed e sinais de lucro, após o desempenho instável das ações de tecnologia ter afetado os principais índices. A divulgação de minutos da reunião do Fed do mês passado e os resultados financeiros da Delta Air Lines e da PepsiCo podem fornecer novos indicadores para o mercado, que teve seu rally tecnológico abalado nas últimas semanas. As ações de tecnologia e, especialmente, os semicondutores impulsionaram as ganhas do mercado nos últimos meses.",
-      "sentimento": "neutral",
-      "tags": [
-        "tecnologia",
-        "semicondutores",
-        "ações"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 93
-    },
-    {
-      "titulo": "AI hiring outpaces overall IT recruitment in India, report shows - Reuters",
-      "url": "https://www.reuters.com/world/india/ai-hiring-outpaces-overall-it-recruitment-india-report-shows-2026-07-03/",
-      "fonte": "reuters.com",
-      "data": "2026-07-03",
-      "resumo": "A contratação de profissionais de IA na Índia está superando a contratação geral de profissionais de TI, de acordo com um relatório. Isso sugere um aumento na demanda por habilidades em inteligência artificial e tecnologia avançada no país.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Índia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 47
-    },
-    {
-      "titulo": "'Big Short' investor Michael Burry might have his own version of the 'Buffett effect' - Business Insider",
-      "url": "https://www.businessinsider.com/big-short-michael-burry-buffett-effect-ai-chip-stocks-investing-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-03",
-      "resumo": "O investidor Michael Burry, famoso por seu contrário bet contra a bolha imobiliária dos anos 2000, pode ter sua própria versão do \"efeito Buffett\". Burry divulgou que havia apostado contra a Micron e também havia feito apostas contra a Nvidia, Applied Materials, Caterpillar e Tesla. Ele descreveu o SOXX como uma \"forma pura de superavaliação\" e afirmou que o anúncio de gastos pesados da Samsung e SK Hynix marcou o \"início do fim\" da bolha.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 129
-    },
-    {
-      "titulo": "Exclusive | Software Loans Hit Rough Patch Even Before AI Fears Triggered SaaS-Pocalypse - WSJ",
-      "url": "https://www.wsj.com/finance/software-loans-hit-rough-patch-even-before-ai-fears-triggered-saas-pocalypse-48f372d5",
-      "fonte": "wsj.com",
-      "data": "2026-07-03",
-      "resumo": "O mercado de empréstimos de software está enfrentando um período difícil, mesmo antes de as preocupações com a inteligência artificial (IA) terem desencadeado o \"SaaS-Pocalypse\". A WSJ relata que a indústria está enfrentando desafios, incluindo a concorrência feroz e a incerteza sobre a demanda futura.",
-      "sentimento": "bearish",
-      "tags": [
-        "SaaS",
-        "IA",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 54
-    },
-    {
-      "titulo": "Contango Silver & Gold Stock: The DSO Model Is Becoming A Real Platform (NYSE:CTGO) - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4919675-contango-silver-and-gold-the-dso-model-is-becoming-a-real-platform?source=generic_rss",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-03",
-      "resumo": "A Contango Silver & Gold Inc. (CTGO) está desenvolvendo um modelo de negócios (DSO) que está se tornando uma plataforma real. O modelo permite que a empresa gerencie suas operações de mineração de forma eficiente e rentável.",
-      "sentimento": "bullish",
-      "tags": [
-        "Mineração",
-        "Metais Preciosos",
-        "NYSE"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 88
-    },
-    {
-      "titulo": "Anthropic wants to develop its own drugs - The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "fonte": "theverge.com",
-      "data": "2026-07-03",
-      "resumo": "A Anthropic, uma empresa de IA, planeja desenvolver seus próprios medicamentos, entrando em uma corrida com outras empresas de tecnologia, biotecnologia e farmacêuticas que também estão explorando a aplicação de IA na descoberta de drogas. Embora a empresa não tenha fornecido detalhes específicas sobre seus planos, a IA está sendo aplicada em todas as etapas da descoberta de drogas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Biotecnologia",
-        "Farmacêutica"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw - Reuters",
-      "url": "https://www.reuters.com/commentary/breakingviews/ai-fight-exposes-silicon-valleys-mimetic-flaw-2026-07-03/",
-      "fonte": "reuters.com",
-      "data": "2026-07-03",
-      "resumo": "A corrida por inteligência artificial (IA) expõe um vício mimético em Silicon Valley, onde as empresas investem em tecnologia por imitar as outras e não por uma visão de futuro. Isso pode levar a uma crise mimética, onde as empresas buscam um \"scapegoat\" para culpar. A corrida por IA está se tornando cada vez mais intensa, com a China imitando os modelos de liderança dos EUA.",
-      "sentimento": "bearish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Mercados Financeiros"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 97
-    },
-    {
-      "titulo": "Tech, Media & Telecom Roundup: Market Talk - WSJ",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-036473b2",
-      "fonte": "wsj.com",
-      "data": "2026-07-03",
-      "resumo": "Analistas de KB Securities e AmInvestment Bank prevêem um aumento nos lucros da SK Hynix e Maxis, respectivamente, devido à investimento em inteligência artificial e expansão de serviços de telecomunicações. Além disso, a China pode enfrentar um crescimento lento na capacidade de produção de CPUs x86 até 2028 devido à falta de aceleradores de AI e limitações de produção.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Telecomunicações",
-        "Semicondutores"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "The hunt for AI's next winners defined the stock market's holiday-shortened week - CNBC",
-      "url": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-03",
-      "resumo": "A semana de negociação foi marcada pela busca por empresas que se destacam no campo da inteligência artificial. A notícia de que os EUA levantaram restrições de exportação para os modelos Anthropic Claude Fable 5 e Mythos 5 trouxe um impulso adicional para o setor. Empresas como Palo Alto e CrowdStrike alcançaram altos históricos, enquanto a Meta Platforms anunciou planos para lançar uma empresa de infraestrutura de nuvem que venderá potência de processamento e modelos de IA para clientes externos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Cybersecurity",
-        "NASDAQ"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 89
-    },
-    {
-      "titulo": "Schneider Electric To Acquire Cognite For Its’ Cutting-Edge Technology - Forbes",
-      "url": "https://www.forbes.com/sites/stevebanker/2026/07/03/schneider-electric-to-acquire-cognite-for-its-cutting-edge-technology/",
-      "fonte": "forbes.com",
-      "data": "2026-07-03",
-      "resumo": "A Schneider Electric adquiriu a Cognite por US$ 3,1 bilhão, reconhecendo o valor da plataforma de inteligência artificial Agentic AI Data. A Cognite cresceu rapidamente e desenvolveu tecnologia única, centrada em gráficos de conhecimento, que justificou o alto preço. A empresa Celanese exemplifica o impacto da Cognite, usando a plataforma Data Fusion para desacoplar dados, contextualizá-los e alimentar uma interface de UI de GenAI. Isso melhorou a detecção de anomalias, a segurança e a manutenção preventiva em 15%, gerando um ROI significativo.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Industrial Automation",
-        "Tecnologia"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 92
-    },
-    {
-      "titulo": "This generator builder catering to AI went public a month ago. Why analysts see big gains - CNBC",
-      "url": "https://www.cnbc.com/2026/07/03/analysts-see-big-gains-for-this-generator-builder-catering-to-ai.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-03",
-      "resumo": "A empresa Innio N.V., que fornece soluções de energia, especializada na fabricação e manutenção de motores a gás, foi listada em bolsa há um mês. Analistas financeiros estão otimistas em relação ao desempenho da empresa, apontando para sua tecnologia diferenciada, modelo de serviço de alta margem e alta possibilidade de receita devido à demanda por centros de dados. Alguns riscos foram mencionados, incluindo o risco de expansão de capacidade e riscos de cadeia de suprimentos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Energia",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 84
-    },
-    {
-      "titulo": "The AI Trade Is Losing One of Its Key Signals - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-03",
-      "resumo": "O setor de inteligência artificial está perdendo um dos seus principais indicadores, pois os preços que o setor paga por cada unidade de uso estão caindo. O Silicon Data LLM Token Expenditure Index, que acompanha o que os usuários pagam por tokens de IA, caiu quase 20% desde o pico em maio, após quase dobrar desde o início em dezembro. Isso ocorre em um momento em que os mercados estão se tornando inquietos sobre se os enormes investimentos em IA vão pagar dividendos.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 92
-    },
-    {
-      "titulo": "Argentina's plan for AI-run companies can't avoid humans - Reuters",
-      "url": "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/",
-      "fonte": "reuters.com",
-      "data": "2026-07-03",
-      "resumo": "A Argentina está planejando criar uma lei que permita a existência de empresas lideradas por inteligência artificial (IA), mas com a necessidade de um administrador humano para supervisionar as operações. As empresas permanecerão responsáveis por danos causados por IA ou sistemas algorítmicos. Os defensores da lei argumentam que um status legal dedicado pode fornecer regras claras para as empresas de IA.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Jurisprudência",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 70
-    },
-    {
-      "titulo": "The AI infrastructure boom is sending these 5 stocks soaring - Business Insider",
-      "url": "https://www.businessinsider.com/best-performing-non-us-stocks-ai-boom-korea-taiwan-japan-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-03",
-      "resumo": "A corrida da infraestrutura de IA está impulsionando essas 5 ações a subir. A demanda por aceleradores de AI aumentou, levando a um aumento na demanda por componentes como substratos de semicondutores e capacitores cerâmicos. Isso ajudou a impulsionar as ações de várias empresas, incluindo a Kioxia Holdings, que subiu 631% no primeiro semestre de 2026.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Tech"
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 65

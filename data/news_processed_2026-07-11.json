@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-07-11",
+    "total_noticias": 6,
+    "gerado_em": "2026-07-11T05:37:34.218312"
+  },
+  "noticias": [
+    {
+      "titulo": "Meta stock got the 18% pop Jim Cramer said it could on cloud news. What's next? - CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "A ação da Meta teve um aumento de 18% após Jim Cramer prever essa reação em notícias sobre nuvens. Zuckerberg discutiu a nuvem e desacreditou a ideia de que a empresa tenha superconstruído sua infraestrutura de IA. Analistas de Wall Street estão agora vendo a Meta como uma compra, com 91% de recomendações de compra e uma meta de preço média de $821, o que implica mais de 20% de ganho.",
+      "sentimento": "bullish",
+      "tags": [
+        "Meta",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 80
+    },
+    {
+      "titulo": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Toll, Shopify, Twilio, Seagate, Chipotle & more - CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/fridays-biggest-analyst-calls-on-wall-street-include-nvidia-and-spacex.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "A Morgan Stanley reiterou a SpaceX como overweight e aumentou a previsão de preço para $1,100, enquanto reiterou a Nvidia como overweight após uma reunião com a diretoria. A empresa também iniciou cobertura da BrightSpring com uma classificação de outperform e preço-alvo de $80. Além disso, a Bernstein atualizou a classificação da J.B. Hunt para outperform.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "SpaceX",
+        "Nvidia",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 66
+    },
+    {
+      "titulo": "Micron shares rise 7% after announcing billions more in U.S. chipmaking investments - CNBC",
+      "url": "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-09",
+      "resumo": "A Micron anunciou investimentos adicionais de bilhões de dólares nos EUA na produção de chips, o que levou a uma alta de 7% nas ações da empresa. Outros nomes da indústria de chips também se beneficiaram, com Applied Materials, KLA Corp e Lam Research subindo 7% e ARM Holdings subindo 11%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 60
+    },
+    {
+      "titulo": "This e-commerce stock could get a boost from the agentic AI craze, Stifel says - CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/shopify-could-get-a-boost-from-the-agentic-ai-craze-stifel-says.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "A Stifel acredita que a Shopify pode receber um impulso devido à onda de agente IA, devido ao crescimento do mercado de agente IA global, que pode chegar a $24,5 bilhões até 2030. O analista destaca que a monetização de IA no varejo está no início e que o impacto nas ações pode levar tempo para se materializar.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "E-commerce",
+        "Shopify"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "The Whirlwind 72 Hours of Rival AI Announcements - Business Insider",
+      "url": "https://www.businessinsider.com/new-ai-model-announcements-openai-meta-grok-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-10",
+      "resumo": "Em uma semana intensa, várias empresas de tecnologia anunciaram avanços em inteligência artificial. A OpenAI e a Anthropic, duas das principais empresas de IA, anunciaram novas tecnologias e parcerias. Além disso, a Meta e a Google também fizeram anúncios importantes sobre IA. Esses anúncios têm implicações significativas para o setor de tecnologia e podem influenciar a forma como as empresas desenvolvem e utilizam a IA no futuro.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Negócios"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "AI’s Next Race: Cost, Control, and Compute - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/10/ais-next-race-cost-control-and-compute.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "A indústria de IA está entrando em uma nova fase de competição, onde a eficiência energética, o controle e a capacidade de processamento são fatores críticos. Empresas como Perplexity estão desenvolvendo modelos de orquestração para melhorar a eficiência e reduzir os custos. Além disso, a tendência de modelos abertos está crescendo, permitindo que as empresas executem modelos que podem ser baixados e controlados.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Investimento"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 130
+    }
+  ]
+}

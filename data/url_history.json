@@ -1,48 +1,4 @@
 {
-  "https://www.bloomberg.com/news/articles/2026-07-02/us-stocks-muted-as-traders-wait-on-jobs-data-for-rate-path-clues": {
-    "hash": "6f93c3fadb6614ba6d63472de49ad6b6",
-    "visto_em": "2026-07-03"
-  },
-  "https://www.reuters.com/commentary/breakingviews/stock-market-boom-runs-large-deficit-model-2026-07-01/": {
-    "hash": "9aaa1aeed85983631ab2d9b91e2ebf41",
-    "visto_em": "2026-07-03"
-  },
-  "https://www.investing.com/news/stock-market-news/korea-sinks-as-ai-chip-selloff-deepens-japan-suppliers-tumble-4772256": {
-    "hash": "877e68b41b5383bf9699aef6d2cb7684",
-    "visto_em": "2026-07-03"
-  },
-  "https://www.bloomberg.com/news/articles/2026-07-02/coreweave-junk-bonds-slide-further-as-investors-question-ai-boom": {
-    "hash": "72cdb3b461a486b71b1e17dbc5e5bd70",
-    "visto_em": "2026-07-03"
-  },
-  "https://www.cnbc.com/2026/07/01/thursdays-big-stock-stories-whats-likely-to-move-the-market.html": {
-    "hash": "0791e7e8be077b1b3ec1433ecb9a8b5a",
-    "visto_em": "2026-07-03"
-  },
-  "https://www.forbes.com/sites/josipamajic/2026/07/02/karp-says-frontier-ai-labs-are-stealing-enterprise-value-and-vcs-are-listening/": {
-    "hash": "6cd8deada0e4e4bf9f8c303de2cf1199",
-    "visto_em": "2026-07-03"
-  },
-  "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/": {
-    "hash": "f273c755a68c45c3abf20b323a5c8c1e",
-    "visto_em": "2026-07-03"
-  },
-  "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock": {
-    "hash": "4e69cf9f2eadab21dc188f7b58398e2b",
-    "visto_em": "2026-07-03"
-  },
-  "https://www.cnbc.com/video/2026/07/02/ai-buildout-remains-intact-but-its-time-to-take-some-gains-off-the-table-citis-drew-pettit.html": {
-    "hash": "73b494ff27fbf4dd6b3bcdd01295c04f",
-    "visto_em": "2026-07-03"
-  },
-  "https://www.reuters.com/world/americas/argentinas-plan-ai-run-companies-cant-avoid-humans-2026-07-03/": {
-    "hash": "4aeff456280e57994c3a14b4a00bec92",
-    "visto_em": "2026-07-03"
-  },
-  "https://www.businessinsider.com/best-performing-non-us-stocks-ai-boom-korea-taiwan-japan-2026-7": {
-    "hash": "e31b7e49dfb298b79f0291560a06d3f9",
-    "visto_em": "2026-07-03"
-  },
   "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-036473b2": {
     "hash": "a85c9ea9034152f1ef7900107aed1f24",
     "visto_em": "2026-07-04"
@@ -470,5 +426,29 @@
   "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/": {
     "hash": "32ea55472bba610e477a653e64759cac",
     "visto_em": "2026-07-10"
+  },
+  "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html": {
+    "hash": "e7588331106edad8533a36d5513eff22",
+    "visto_em": "2026-07-11"
+  },
+  "https://www.cnbc.com/2026/07/10/fridays-biggest-analyst-calls-on-wall-street-include-nvidia-and-spacex.html": {
+    "hash": "88d3efd5b4a301caa7bd3a72aaf4ee66",
+    "visto_em": "2026-07-11"
+  },
+  "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html": {
+    "hash": "5a99cce13f52955d9d58eab1a4fa29cd",
+    "visto_em": "2026-07-11"
+  },
+  "https://www.cnbc.com/2026/07/10/shopify-could-get-a-boost-from-the-agentic-ai-craze-stifel-says.html": {
+    "hash": "f73fc5e925650e5e0f8ad39199d4cd23",
+    "visto_em": "2026-07-11"
+  },
+  "https://www.businessinsider.com/new-ai-model-announcements-openai-meta-grok-2026-7": {
+    "hash": "0aa2b573c9d52acdac23316e7f07dd8b",
+    "visto_em": "2026-07-11"
+  },
+  "https://www.cnbc.com/video/2026/07/10/ais-next-race-cost-control-and-compute.html": {
+    "hash": "57946e3deca35da158618a773dc0787a",
+    "visto_em": "2026-07-11"
   }
 }
