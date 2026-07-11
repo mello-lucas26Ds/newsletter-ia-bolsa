@@ -2,10 +2,85 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-11",
-    "total_noticias": 87,
-    "gerado_em": "2026-07-11T05:37:34.220265"
+    "total_noticias": 92,
+    "gerado_em": "2026-07-11T11:04:58.877671"
   },
   "noticias": [
+    {
+      "titulo": "Meta's stock has best week since early 2024 as optimism builds around AI strategy - CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "A ação da Meta teve o melhor desempenho semanal desde o início de 2024, com um aumento de 15%, graças à otimização em torno da estratégia de inteligência artificial do CEO Mark Zuckerberg. A empresa está progredindo com o desenvolvimento de chips de IA personalizados e espera começar a fabricar o seu primeiro chip, o Iris, em setembro. A notícia também foi influenciada pela apresentação de novos modelos de agente, como o Muse Spark 1.1.",
+      "sentimento": "bullish",
+      "tags": [
+        "Meta",
+        "AI",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 84
+    },
+    {
+      "titulo": "3 things risk derailing a summer stock market rally, Morgan Stanley says - Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-outlook-sp500-rally-risks-interest-rates-morgan-stanley-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-10",
+      "resumo": "A Morgan Stanley alertou que três riscos podem desestabilizar a recuperação do mercado de ações no verão. O primeiro risco é que as empresas que investem pesadamente em inteligência artificial (IA) possam reduzir seus gastos, o que afetaria negativamente as ações. Outro risco é que a Federação Americana de Economia (Fed) possa aumentar os juros, o que também afetaria as ações. Além disso, a perspectiva de investimento em IA pode enfraquecer se as empresas não conseguirem gerar retorno sobre o investimento (ROI) esperado.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 94
+    },
+    {
+      "titulo": "How Apple stock rode the AI rollercoaster to record highs in 1 chart - CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "A Apple está alcançando recordes de alta de ações graças à sua abordagem inteligente em inteligência artificial (IA). Em vez de competir com os outros gigantes da tecnologia, a empresa está se concentrando em fornecer dispositivos capazes de IA em larga escala, aproveitando sua vantagem de ter o iPhone como um dos produtos mais bem-sucedidos. Isso está alinhado com a tendência de otimização de tokens e explica a última onda de aumento das ações da Apple após a correção no início de junho.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Apple",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 92
+    },
+    {
+      "titulo": "Options Action: Traders look for new AI edge - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/10/options-action-traders-look-for-new-ai-edge.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "O vídeo \"Options Action: Traders look for new AI edge\" da CNBC discute a relação entre as afirmações de retorno sobre investimento (ROI) das empresas em inteligência artificial (IA) e a percepção dos investidores. O analista Gil Luria da D.A. Davidson destaca a desconexão entre as reivindicações das empresas e a opinião dos investidores.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Finance",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 63
+    },
+    {
+      "titulo": "Meet SK Hynix, the trillion-dollar South Korean chipmaker debuting on U.S. markets - CNBC",
+      "url": "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-09",
+      "resumo": "A SK Hynix, uma fabricante de chips sul-coreana de trilhões de dólares, está se apresentando nos mercados dos EUA. A empresa está aumentando sua capacidade de produção de chips, mas a expansão dos EUA pode não ser suficiente para atender à demanda crescente. A Nvidia está aumentando sua capacidade de produção de chips de IA, mas a falta de capacidade de produção pode afetar a indústria.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "South Korea"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 77
+    },
     {
       "titulo": "Meta stock got the 18% pop Jim Cramer said it could on cloud news. What's next? - CNBC",
       "url": "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html",
