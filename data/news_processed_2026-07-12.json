@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-07-12",
+    "total_noticias": 8,
+    "gerado_em": "2026-07-12T05:54:54.211490"
+  },
+  "noticias": [
+    {
+      "titulo": "AI is entering a new phase — and these are the stocks investors should be watching - CNBC",
+      "url": "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-11",
+      "resumo": "A indústria de inteligência artificial está entrando em uma nova fase, onde as empresas estão sendo pressionadas a justificar os seus gastos com capital. Isso está levando a uma mudança de foco, onde a maximização da utilização dos recursos está sendo substituída pela otimização da produtividade. As hyperscalers, como Amazon, Alphabet e Microsoft, estão sentindo o impacto disso.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "These underperforming trades could yield big returns over next six months - CNBC",
+      "url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-11",
+      "resumo": "Akins, especialista em ETFs, destaca oportunidades de investimento em ações de pequenas e médias empresas que foram deixadas para trás no mercado liderado por megacapitais e semicondutores. Ele destaca que essas ações podem realizar bons retornos nos próximos seis meses, com crescimento de lucros e receita, além de expansão de múltiplos que foram extremamente deprimidos nos últimos anos.",
+      "sentimento": "bullish",
+      "tags": [
+        "ETFs",
+        "Small-cap",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week - CNBC",
+      "url": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-11",
+      "resumo": "A semana foi marcada por uma volatilidade no mercado de tecnologia, especialmente no setor de semicondutores e inteligência artificial. A Nvidia subiu 4% e atingiu seu valor mais alto em quase um mês, enquanto a Meta Platforms anunciou planos para lançar uma empresa de nuvem que venderá potência de processamento para clientes externos. No entanto, a tensão entre os EUA e o Irã e a notícia de que a China está desenvolvendo sua própria placa de AI fizeram com que o mercado se estabilizasse.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 93
+    },
+    {
+      "titulo": "Big Tech Doubles Debt Load to $350 Billion in AI Spending Spree - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-10",
+      "resumo": "As maiores empresas de tecnologia, incluindo Alphabet, Amazon, Meta, Microsoft e Oracle, dobraram sua dívida para $350 bilhões nos últimos cinco anos, em um esforço para financiar seus investimentos em centros de dados de inteligência artificial.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 90
+    },
+    {
+      "titulo": "AI is rewriting the Big Tech org chart. See which roles are getting hit the most. - Business Insider",
+      "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-11",
+      "resumo": "A inteligência artificial está revendo a estrutura organizacional das grandes empresas de tecnologia. De acordo com dados de SignalFire, os engenheiros de software representam 55% das contratações em empresas de tecnologia, um aumento de 9% em relação a 2019. Isso sugere que a IA está criando novas oportunidades de emprego e mudando a forma como as empresas de tecnologia contratam pessoal.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Emprego"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "SK Hynix stock soars after the red-hot memory maker's US debut - Business Insider",
+      "url": "https://www.businessinsider.com/sk-hynix-stock-price-skhyv-ipo-26-billion-offering-nasdaq-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-10",
+      "resumo": "A ação da SK Hynix teve um aumento significativo após o seu debut nos EUA, marcando a continuação da histeria de IPO que afeta a Wall Street este ano. A empresa é vista como um líder no desenvolvimento de tecnologia de memória e AI, o que gerou uma grande demanda por suas ações. Outras ações de chips e memória foram voláteis, com Nvidia tendo um aumento de 3%, enquanto Intel, Micron e Western Digital tiveram quedas.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "IPO",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 86
+    },
+    {
+      "titulo": "The state of the tech trade as SK Hynix opens for trading - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/10/the-state-of-the-tech-trade-as-sk-hynix-opens-for-trading.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "A SK Hynix abriu suas ações para negociação, mas não há informações específicas sobre a notícia em si. No entanto, há uma entrevista com o Chairman Chey Tae-won da SK Group e uma discussão sobre a relação entre as reivindicações de retorno sobre investimento (ROI) das empresas de inteligência artificial (IA) e a opinião dos investidores.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Tech",
+        "SK Hynix"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 66
+    },
+    {
+      "titulo": "Dark smoke rose above a Virginia data center as a heat wave pushed the power grid close to its limits - Business Insider",
+      "url": "https://www.businessinsider.com/virginia-data-center-diesel-backup-generator-heat-wave-pjm-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-11",
+      "resumo": "Um data center em Virginia, propriedade da Digital Realty, enfrentou problemas de energia durante um calor intenso, levando a que geradores diesel fossem ativados. A situação foi evitada de se tornar mais grave graças a programas de demanda-resposta. A região de Ashburn, Virginia, é conhecida como \"data center alley\" (bairro dos centros de dados) nos Estados Unidos.",
+      "sentimento": "neutral",
+      "tags": [
+        "Data Center",
+        "Tecnologia",
+        "Energia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    }
+  ]
+}

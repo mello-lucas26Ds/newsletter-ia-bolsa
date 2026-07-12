@@ -1,52 +1,4 @@
 {
-  "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-036473b2": {
-    "hash": "a85c9ea9034152f1ef7900107aed1f24",
-    "visto_em": "2026-07-04"
-  },
-  "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html": {
-    "hash": "f4f3bcba2e2180517aad23d37b370815",
-    "visto_em": "2026-07-04"
-  },
-  "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html": {
-    "hash": "56b18b95832e3b394026ca8b0bd94b67",
-    "visto_em": "2026-07-04"
-  },
-  "https://www.forbes.com/sites/stevebanker/2026/07/03/schneider-electric-to-acquire-cognite-for-its-cutting-edge-technology/": {
-    "hash": "77242f9abe72f482c5d0cb3ceca725cc",
-    "visto_em": "2026-07-04"
-  },
-  "https://www.cnbc.com/2026/07/03/analysts-see-big-gains-for-this-generator-builder-catering-to-ai.html": {
-    "hash": "cc50ea9dd7831a47e508f92c34553014",
-    "visto_em": "2026-07-04"
-  },
-  "https://www.bloomberg.com/news/articles/2026-07-02/us-tech-rout-sours-mood-for-japan-south-korean-chip-stocks": {
-    "hash": "432a0459ac5b882b8cba83c53dc8f325",
-    "visto_em": "2026-07-04"
-  },
-  "https://www.cnbc.com/2026/07/02/brookfield-london-wall-street-data-center-expansion.html": {
-    "hash": "d8a2ae3531bf18f388f3415fc1d068f3",
-    "visto_em": "2026-07-04"
-  },
-  "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/": {
-    "hash": "f4bbf8c3e7527a13b39d56b8859984e4",
-    "visto_em": "2026-07-04"
-  },
-  "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html": {
-    "hash": "eb8bf41f5ed108450661709c44fa31a5",
-    "visto_em": "2026-07-04"
-  },
-  "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/": {
-    "hash": "f8166a3b5889408b27cd005e9ecd140c",
-    "visto_em": "2026-07-04"
-  },
-  "https://www.reuters.com/commentary/breakingviews/ai-fight-exposes-silicon-valleys-mimetic-flaw-2026-07-03/": {
-    "hash": "e93c2826834c6c57f20da85421ab747e",
-    "visto_em": "2026-07-04"
-  },
-  "https://www.reuters.com/business/autos-transportation/kioxia-readies-next-gen-memory-mass-production-ai-boom-fuels-dramatic-comeback-2026-07-02/": {
-    "hash": "7808f49e3ddbc010e1678132bc40e1c0",
-    "visto_em": "2026-07-04"
-  },
   "https://www.bloomberg.com/news/articles/2026-07-02/stock-market-today-dow-s-p-live-updates": {
     "hash": "2348d5c8894ab5edaacab60a835f261b",
     "visto_em": "2026-07-05"
@@ -470,5 +422,37 @@
   "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html": {
     "hash": "ad21564ad78139aa39dc6aa39fbfb773",
     "visto_em": "2026-07-11"
+  },
+  "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html": {
+    "hash": "1b439af3476c298edfd9fa57830d3743",
+    "visto_em": "2026-07-12"
+  },
+  "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html": {
+    "hash": "30d4b7ed73c5763d7438c33607de4851",
+    "visto_em": "2026-07-12"
+  },
+  "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html": {
+    "hash": "72e44e14be0fa2c86f99fd964784d200",
+    "visto_em": "2026-07-12"
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree": {
+    "hash": "9515fe4193067821070c63447e9d2654",
+    "visto_em": "2026-07-12"
+  },
+  "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7": {
+    "hash": "6591ea8f4983133bb2b70539990eeb3f",
+    "visto_em": "2026-07-12"
+  },
+  "https://www.businessinsider.com/sk-hynix-stock-price-skhyv-ipo-26-billion-offering-nasdaq-2026-7": {
+    "hash": "5d6809245a8f68fdb58f0a935580f64c",
+    "visto_em": "2026-07-12"
+  },
+  "https://www.cnbc.com/video/2026/07/10/the-state-of-the-tech-trade-as-sk-hynix-opens-for-trading.html": {
+    "hash": "7eeddc6153d2445c05e005ede18f2abe",
+    "visto_em": "2026-07-12"
+  },
+  "https://www.businessinsider.com/virginia-data-center-diesel-backup-generator-heat-wave-pjm-2026-7": {
+    "hash": "ce424b43b0762f394c6f10b08aaabcfd",
+    "visto_em": "2026-07-12"
   }
 }
