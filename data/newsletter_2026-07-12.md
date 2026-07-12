@@ -1,111 +1,20 @@
 # Newsletter IA Bolsa — 2026-07-12
 
-**Gerado em:** 12/07/2026 05:54
-**Total:** 8 noticias
+**Gerado em:** 12/07/2026 11:09
+**Total:** 1 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. AI is entering a new phase — and these are the stocks investors should be watching - CNBC
+## 1. Next week brings earnings and inflation data amid resumption of U.S.-Iran hostilities. Here's what's ahead - CNBC
 
 **Fonte:** cnbc.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Investimentos
-
-A indústria de inteligência artificial está entrando em uma nova fase, onde as empresas estão sendo pressionadas a justificar os seus gastos com capital. Isso está levando a uma mudança de foco, onde a maximização da utilização dos recursos está sendo substituída pela otimização da produtividade. As hyperscalers, como Amazon, Alphabet e Microsoft, estão sentindo o impacto disso.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html)
-
----
-
-## 2. These underperforming trades could yield big returns over next six months - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** ETFs, Small-cap, Semicondutores
-
-Akins, especialista em ETFs, destaca oportunidades de investimento em ações de pequenas e médias empresas que foram deixadas para trás no mercado liderado por megacapitais e semicondutores. Ele destaca que essas ações podem realizar bons retornos nos próximos seis meses, com crescimento de lucros e receita, além de expansão de múltiplos que foram extremamente deprimidos nos últimos anos.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html)
-
----
-
-## 3. The volatile AI trade marched higher, but oil kept Wall Street on edge last week - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Semicondutores, Tecnologia
-
-A semana foi marcada por uma volatilidade no mercado de tecnologia, especialmente no setor de semicondutores e inteligência artificial. A Nvidia subiu 4% e atingiu seu valor mais alto em quase um mês, enquanto a Meta Platforms anunciou planos para lançar uma empresa de nuvem que venderá potência de processamento para clientes externos. No entanto, a tensão entre os EUA e o Irã e a notícia de que a China está desenvolvendo sua própria placa de AI fizeram com que o mercado se estabilizasse.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html)
-
----
-
-## 4. Big Tech Doubles Debt Load to $350 Billion in AI Spending Spree - Bloomberg.com
-
-**Fonte:** bloomberg.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 6.0/10  
-**Tags:** AI, Big Tech, Tecnologia
+**Tags:** Semiconductor, Earnings, Inflação
 
-As maiores empresas de tecnologia, incluindo Alphabet, Amazon, Meta, Microsoft e Oracle, dobraram sua dívida para $350 bilhões nos últimos cinco anos, em um esforço para financiar seus investimentos em centros de dados de inteligência artificial.
+A próxima semana trará resultados de empresas e dados de inflação, em meio ao ressurgimento de tensões entre EUA e Irã. A ASML e a Taiwan Semiconductor Manufacturing Company serão foco de atenção, pois os traders avaliarão sinais de esgotamento no mercado de chips. A inflação também será um fator importante, com preços de energia aumentando novamente após o fim do cessar-fogo entre EUA e Irã.
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree)
-
----
-
-## 5. AI is rewriting the Big Tech org chart. See which roles are getting hit the most. - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Emprego
-
-A inteligência artificial está revendo a estrutura organizacional das grandes empresas de tecnologia. De acordo com dados de SignalFire, os engenheiros de software representam 55% das contratações em empresas de tecnologia, um aumento de 9% em relação a 2019. Isso sugere que a IA está criando novas oportunidades de emprego e mudando a forma como as empresas de tecnologia contratam pessoal.
-
-[Ler noticia completa](https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7)
-
----
-
-## 6. SK Hynix stock soars after the red-hot memory maker's US debut - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, IPO, NASDAQ
-
-A ação da SK Hynix teve um aumento significativo após o seu debut nos EUA, marcando a continuação da histeria de IPO que afeta a Wall Street este ano. A empresa é vista como um líder no desenvolvimento de tecnologia de memória e AI, o que gerou uma grande demanda por suas ações. Outras ações de chips e memória foram voláteis, com Nvidia tendo um aumento de 3%, enquanto Intel, Micron e Western Digital tiveram quedas.
-
-[Ler noticia completa](https://www.businessinsider.com/sk-hynix-stock-price-skhyv-ipo-26-billion-offering-nasdaq-2026-7)
-
----
-
-## 7. The state of the tech trade as SK Hynix opens for trading - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tech, SK Hynix
-
-A SK Hynix abriu suas ações para negociação, mas não há informações específicas sobre a notícia em si. No entanto, há uma entrevista com o Chairman Chey Tae-won da SK Group e uma discussão sobre a relação entre as reivindicações de retorno sobre investimento (ROI) das empresas de inteligência artificial (IA) e a opinião dos investidores.
-
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/10/the-state-of-the-tech-trade-as-sk-hynix-opens-for-trading.html)
-
----
-
-## 8. Dark smoke rose above a Virginia data center as a heat wave pushed the power grid close to its limits - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** Data Center, Tecnologia, Energia
-
-Um data center em Virginia, propriedade da Digital Realty, enfrentou problemas de energia durante um calor intenso, levando a que geradores diesel fossem ativados. A situação foi evitada de se tornar mais grave graças a programas de demanda-resposta. A região de Ashburn, Virginia, é conhecida como "data center alley" (bairro dos centros de dados) nos Estados Unidos.
-
-[Ler noticia completa](https://www.businessinsider.com/virginia-data-center-diesel-backup-generator-heat-wave-pjm-2026-7)
+[Ler noticia completa](https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html)
 
 ---

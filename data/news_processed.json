@@ -2,10 +2,25 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-12",
-    "total_noticias": 97,
-    "gerado_em": "2026-07-12T05:54:54.213373"
+    "total_noticias": 98,
+    "gerado_em": "2026-07-12T11:09:22.445037"
   },
   "noticias": [
+    {
+      "titulo": "Next week brings earnings and inflation data amid resumption of U.S.-Iran hostilities. Here's what's ahead - CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-10",
+      "resumo": "A próxima semana trará resultados de empresas e dados de inflação, em meio ao ressurgimento de tensões entre EUA e Irã. A ASML e a Taiwan Semiconductor Manufacturing Company serão foco de atenção, pois os traders avaliarão sinais de esgotamento no mercado de chips. A inflação também será um fator importante, com preços de energia aumentando novamente após o fim do cessar-fogo entre EUA e Irã.",
+      "sentimento": "bearish",
+      "tags": [
+        "Semiconductor",
+        "Earnings",
+        "Inflação"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 127
+    },
     {
       "titulo": "AI is entering a new phase — and these are the stocks investors should be watching - CNBC",
       "url": "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html",
