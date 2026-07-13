@@ -1,111 +1,111 @@
 # Newsletter IA Bolsa — 2026-07-13
 
-**Gerado em:** 13/07/2026 06:14
+**Gerado em:** 13/07/2026 12:32
 **Total:** 8 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. The stock-market rally now hinges more on AI than oil - MarketWatch
+## 1. SpaceXAI, Cursor Unveil Grok AI Model for Legal, Finance Tasks
 
-**Fonte:** marketwatch.com  
+**Fonte:** bloomberg.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semicondutores, Tecnologia
+**Relevancia:** 8.0/10  
+**Tags:** AI, Fintech, Tecnologia
 
-A bolsa de valores agora depende mais da inteligência artificial (IA) do que do petróleo, de acordo com a MarketWatch. A temporada de resultados de lucro está começando e a investimento em IA continua no centro das atenções. A demanda por computação está impulsionando o investimento em setores como semicondutores e equipamentos de semicondutores.
+A SpaceXAI e a Cursor anunciaram uma nova modelo de inteligência artificial capaz de realizar tarefas legais e financeiras de forma mais eficiente. O modelo, chamado de Grok, foi desenvolvido em parceria entre as duas empresas e visa melhorar a capacidade de processamento de informações e tomada de decisões. A Grok é projetada para ser mais rápida e precisa do que modelos existentes, o que pode ter implicações significativas para a indústria financeira e legal.
 
-[Ler noticia completa](https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a)
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks)
 
 ---
 
-## 2. Top Wall Street analysts are confident about these 3 stocks for the long haul - CNBC
+## 2. Tencent leads deal to unwind Meta’s $2bn Manus acquisition
 
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AMD, AI, Tecnologia
+**Fonte:** ft.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** AI, China, Tencent, Meta
 
-O analista Aaron Rakers da Wells Fargo reafirmou a recomendação de compra da ação da AMD e aumentou o alvo de preço para $615, devido ao foco crescente da empresa no caminho para um lucro por ação de $20 por ação em 2028. O analista espera que a AMD reitere sua confiança no lançamento da série MI450 e do Helios no terceiro trimestre de 2026.
+A Tencent lidera uma operação para desfazer a aquisição de $2 bilhões da Manus pela Meta, após uma ordem do governo chinês para rever a aquisição. A Tencent se tornará a maior acionista da start-up de agente de IA após a reversão da aquisição.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html)
+[Ler noticia completa](https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480?syn-25a6b1a6=1)
 
 ---
 
-## 3. TSMC to add 2 advanced chip packaging plants in Chiayi, Taiwan minister says - Reuters
+## 3. Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return
+
+**Fonte:** ft.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 8.0/10  
+**Tags:** Private Equity, Data Center, AI, Infraestrutura
+
+A Carlyle está vendendo sua unidade de energia para centros de dados, que vale $2,6 bilhões, para a EQT, obtendo um retorno de cinco vezes o investimento. Esta transação destaca um ponto forte para as vendas de empresas de private equity, em meio a uma alta demanda por infraestrutura de inteligência artificial.
+
+[Ler noticia completa](https://www.ft.com/content/a66c1d90-682b-480a-8fc3-fb7b7e2f1873?syn-25a6b1a6=1)
+
+---
+
+## 4. AI Enthusiasm Powers Nasdaq to All-Time High: 3 Stocks to Grab
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 9.0/10  
+**Tags:** AI, Tecnologia, Nasdaq
+
+A Nasdaq atingiu um novo recorde máximo, impulsionado por uma onda de tecnologia. A alta demanda por inteligência artificial (IA) tem levado as empresas de tecnologia a investir pesadamente em infraestrutura. Além disso, os resultados financeiros sólidos das sete empresas de tecnologia mais importantes têm ajudado a impulsionar a recuperação da Nasdaq. Três ações recomendadas para investir são a NVIDIA Corporation, a NVIDIA Corporation e a NVIDIA Corporation.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ai-enthusiasm-powers-nasdaq-time-123400575.html)
+
+---
+
+## 5. Wall Street Rally Stalls as AI Fears Hit Tech Stocks, Gold Surges | Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Tecnologia, Wall Street
+
+A Wall Street experimentou uma parada de rally devido às preocupações com a IA, que afetaram as ações de tecnologia, enquanto o ouro surgiu. A Microsoft foi a maior perdedora entre as grandes tecnologias, enquanto as ações de chips também foram pressionadas. O Nasdaq 100 caiu 1,6% e o S&P 500 caiu 0,8%.
+
+[Ler noticia completa](https://www.investing.com/analysis/wall-street-rally-stalls-as-ai-fears-hit-tech-stocks-gold-surges-200674437)
+
+---
+
+## 6. S&P 500 and Nasdaq notch records; AMD results spark AI stock rally
 
 **Fonte:** reuters.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, TSMC, Semiconductor
-
-A TSMC está expandindo rapidamente sua capacidade de embalagem de chips avançados, incluindo sua tecnologia de chip-on-wafer-on-substrate, devido à demanda contínua de designers de chips de inteligência artificial, como a Nvidia. A empresa está adicionando dois novos plantos de embalagem de chips avançados no Parque Científico de Chiayi, na ilha de Taiwan.
-
-[Ler noticia completa](https://www.reuters.com/world/asia-pacific/tsmc-add-2-advanced-chip-packaging-plants-chiayi-taiwan-minister-says-2026-07-13/)
-
----
-
-## 4. Goldman Sachs picks its favorite Chinese AI models - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, China, Tecnologia
-
-Goldman Sachs identificou suas preferidas modelos de IA chineses, incluindo Zhipu, Deepseek e ByteDance, destacando suas vantagens em termos de tempo de mercado, pontuação em arena e capacidade de geração de vídeo. A empresa também mencionou que a demanda por modelos de IA de baixo custo está aumentando, mas que a acessibilidade a computação será um fator crítico para o sucesso desses modelos.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html)
-
----
-
-## 5. My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes. - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semicondutores, Computação em Nuvem
-
-O artigo apresenta uma ferramenta de IA gerativa chamada Codex, que pode criar soluções personalizadas em minutos. A ferramenta é mencionada em um contexto de colaboração e inovação, destacando a capacidade da IA em resolver problemas complexos. Além disso, o artigo aborda temas relacionados à IA, como modelos de linguagem grande, computação em nuvem, semicondutores e veículos autônomos.
-
-[Ler noticia completa](https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7)
-
----
-
-## 6. Tech stocks feel like the only game in town. Here's why they are so hard to abandon - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
+**Relevancia:** 9.0/10  
 **Tags:** AI, Semiconductor, NASDAQ
 
-O mercado de ações de tecnologia se tornou o único jogo em town, devido à sua liquidez e potencial de crescimento. A Nvidia, em particular, experimentou um aumento de 4% na sexta-feira, após uma longa espera. No entanto, a empresa ainda precisa expandir sua compra de ações e vender investimentos lucrativos para continuar a subir.
+O S&P 500 e o Nasdaq alcançaram recordes de fechamento na quarta-feira, impulsionados por sinais de resolução do conflito no Oriente Médio e por resultados sólidos da AMD, que desencadeou uma onda de ações de fábricas de chips e outras ações relacionadas à inteligência artificial. A AMD subiu 19% e alcançou um novo máximo, enquanto a Corning e a Nvidia também tiveram um dia forte.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/12/tech-stocks-still-feel-like-the-only-game-in-town-heres-why-they-are-so-hard-to-abandon-.html)
-
----
-
-## 7. Small Business Technology News Roundup: Microsoft Makes A Major AI U-Turn - Forbes
-
-**Fonte:** forbes.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Microsoft, Tecnologia
-
-A Microsoft está fazendo um movimento inesperado em relação à inteligência artificial (IA), desligando recursos AI e Copilot em seu aplicativo Teams, permitindo que os usuários decidam quando e onde usá-los. Isso ocorre após uma análise de que os usuários estão se sentindo inundados com recursos novos e estão perdendo eficiência em suas estratégias de aquisição de clientes.
-
-[Ler noticia completa](https://www.forbes.com/sites/quickerbettertech/2026/07/12/small-business-technology-news-roundup-microsoft-makes-a-major-ai-u-turn/)
+[Ler noticia completa](https://www.reuters.com/business/us-stock-index-futures-rise-middle-east-peace-hopes-ai-optimism-2026-05-06)
 
 ---
 
-## 8. AI Is Changing Lending, But Trust Remains The Real Advantage - Forbes
+## 7. Stock market today: Dow, S&P 500, Nasdaq jump as ...
 
-**Fonte:** forbes.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Finanças, Tecnologia
+**Relevancia:** 8.0/10  
+**Tags:** AI, Tecnologia, Mercado de Ações
 
-A inteligência artificial está revolucionando a forma como as empresas de empréstimos operam, permitindo análises mais rápidas e precisas de fluxo de caixa, declarações bancárias e históricos de pagamentos. No entanto, a confiança é o verdadeiro diferencial, pois a tecnologia reflete as incentivos das organizações que a utilizam.
+O mercado de ações dos EUA subiu na segunda-feira, com as ações de software liderando o movimento, enquanto as preocupações com a interrupção de AI diminuíram à espera dos resultados da Nvidia. As ações da Nvidia e da AMD também subiram após a empresa de processadores AMD anunciar um acordo com a Meta para fornecer GPUs para o desenvolvimento de IA da empresa.
 
-[Ler noticia completa](https://www.forbes.com/sites/robertdaugherty/2026/07/12/ai-is-changing-lending-but-trust-remains-the-real-advantage/)
+[Ler noticia completa](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-as-software-leads-ai-relief-rally-ahead-of-nvidia-earnings-210010666.html)
+
+---
+
+## 8. 3 Under-The-Radar Chip Stocks With Strong Upside Amid the AI Rally | Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 8.0/10  
+**Tags:** Semicondutores, IA, Tecnologia
+
+A Cirrus Logic e a Qorvo são duas empresas de semicondutores que estão a beneficiar do boom da IA, com a primeira a fornecer soluções de processamento misto avançado e chips de áudio premium para dispositivos móveis, AR/VR e automóveis, e a segunda a fornecer soluções de RF e conectividade para smartphones 5G e infraestrutura IoT. Ambas as empresas têm desempenho positivo no ano até agora, com a Cirrus Logic a ter um aumento de 44,5% e a Qorvo a ter um aumento de 14%.
+
+[Ler noticia completa](https://www.investing.com/analysis/3-undertheradar-chip-stocks-with-strong-upside-amid-the-ai-rally-200679780)
 
 ---
