@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-07-13",
+    "total_noticias": 8,
+    "gerado_em": "2026-07-13T06:14:14.778862"
+  },
+  "noticias": [
+    {
+      "titulo": "The stock-market rally now hinges more on AI than oil - MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a",
+      "fonte": "marketwatch.com",
+      "data": "2026-07-12",
+      "resumo": "A bolsa de valores agora depende mais da inteligência artificial (IA) do que do petróleo, de acordo com a MarketWatch. A temporada de resultados de lucro está começando e a investimento em IA continua no centro das atenções. A demanda por computação está impulsionando o investimento em setores como semicondutores e equipamentos de semicondutores.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 63
+    },
+    {
+      "titulo": "Top Wall Street analysts are confident about these 3 stocks for the long haul - CNBC",
+      "url": "https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-12",
+      "resumo": "O analista Aaron Rakers da Wells Fargo reafirmou a recomendação de compra da ação da AMD e aumentou o alvo de preço para $615, devido ao foco crescente da empresa no caminho para um lucro por ação de $20 por ação em 2028. O analista espera que a AMD reitere sua confiança no lançamento da série MI450 e do Helios no terceiro trimestre de 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "AMD",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "TSMC to add 2 advanced chip packaging plants in Chiayi, Taiwan minister says - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/tsmc-add-2-advanced-chip-packaging-plants-chiayi-taiwan-minister-says-2026-07-13/",
+      "fonte": "reuters.com",
+      "data": "2026-07-13",
+      "resumo": "A TSMC está expandindo rapidamente sua capacidade de embalagem de chips avançados, incluindo sua tecnologia de chip-on-wafer-on-substrate, devido à demanda contínua de designers de chips de inteligência artificial, como a Nvidia. A empresa está adicionando dois novos plantos de embalagem de chips avançados no Parque Científico de Chiayi, na ilha de Taiwan.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "TSMC",
+        "Semiconductor"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 61
+    },
+    {
+      "titulo": "Goldman Sachs picks its favorite Chinese AI models - CNBC",
+      "url": "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-12",
+      "resumo": "Goldman Sachs identificou suas preferidas modelos de IA chineses, incluindo Zhipu, Deepseek e ByteDance, destacando suas vantagens em termos de tempo de mercado, pontuação em arena e capacidade de geração de vídeo. A empresa também mencionou que a demanda por modelos de IA de baixo custo está aumentando, mas que a acessibilidade a computação será um fator crítico para o sucesso desses modelos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "China",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes. - Business Insider",
+      "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-11",
+      "resumo": "O artigo apresenta uma ferramenta de IA gerativa chamada Codex, que pode criar soluções personalizadas em minutos. A ferramenta é mencionada em um contexto de colaboração e inovação, destacando a capacidade da IA em resolver problemas complexos. Além disso, o artigo aborda temas relacionados à IA, como modelos de linguagem grande, computação em nuvem, semicondutores e veículos autônomos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Computação em Nuvem"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "Tech stocks feel like the only game in town. Here's why they are so hard to abandon - CNBC",
+      "url": "https://www.cnbc.com/2026/07/12/tech-stocks-still-feel-like-the-only-game-in-town-heres-why-they-are-so-hard-to-abandon-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-12",
+      "resumo": "O mercado de ações de tecnologia se tornou o único jogo em town, devido à sua liquidez e potencial de crescimento. A Nvidia, em particular, experimentou um aumento de 4% na sexta-feira, após uma longa espera. No entanto, a empresa ainda precisa expandir sua compra de ações e vender investimentos lucrativos para continuar a subir.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 64
+    },
+    {
+      "titulo": "Small Business Technology News Roundup: Microsoft Makes A Major AI U-Turn - Forbes",
+      "url": "https://www.forbes.com/sites/quickerbettertech/2026/07/12/small-business-technology-news-roundup-microsoft-makes-a-major-ai-u-turn/",
+      "fonte": "forbes.com",
+      "data": "2026-07-12",
+      "resumo": "A Microsoft está fazendo um movimento inesperado em relação à inteligência artificial (IA), desligando recursos AI e Copilot em seu aplicativo Teams, permitindo que os usuários decidam quando e onde usá-los. Isso ocorre após uma análise de que os usuários estão se sentindo inundados com recursos novos e estão perdendo eficiência em suas estratégias de aquisição de clientes.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 102
+    },
+    {
+      "titulo": "AI Is Changing Lending, But Trust Remains The Real Advantage - Forbes",
+      "url": "https://www.forbes.com/sites/robertdaugherty/2026/07/12/ai-is-changing-lending-but-trust-remains-the-real-advantage/",
+      "fonte": "forbes.com",
+      "data": "2026-07-12",
+      "resumo": "A inteligência artificial está revolucionando a forma como as empresas de empréstimos operam, permitindo análises mais rápidas e precisas de fluxo de caixa, declarações bancárias e históricos de pagamentos. No entanto, a confiança é o verdadeiro diferencial, pois a tecnologia reflete as incentivos das organizações que a utilizam.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Finanças",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 57
+    }
+  ]
+}

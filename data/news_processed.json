@@ -1,11 +1,131 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-12",
-    "total_noticias": 98,
-    "gerado_em": "2026-07-12T11:09:22.445037"
+    "data": "2026-07-13",
+    "total_noticias": 94,
+    "gerado_em": "2026-07-13T06:14:14.780928"
   },
   "noticias": [
+    {
+      "titulo": "The stock-market rally now hinges more on AI than oil - MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a",
+      "fonte": "marketwatch.com",
+      "data": "2026-07-12",
+      "resumo": "A bolsa de valores agora depende mais da inteligência artificial (IA) do que do petróleo, de acordo com a MarketWatch. A temporada de resultados de lucro está começando e a investimento em IA continua no centro das atenções. A demanda por computação está impulsionando o investimento em setores como semicondutores e equipamentos de semicondutores.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 63
+    },
+    {
+      "titulo": "Top Wall Street analysts are confident about these 3 stocks for the long haul - CNBC",
+      "url": "https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-12",
+      "resumo": "O analista Aaron Rakers da Wells Fargo reafirmou a recomendação de compra da ação da AMD e aumentou o alvo de preço para $615, devido ao foco crescente da empresa no caminho para um lucro por ação de $20 por ação em 2028. O analista espera que a AMD reitere sua confiança no lançamento da série MI450 e do Helios no terceiro trimestre de 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "AMD",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "TSMC to add 2 advanced chip packaging plants in Chiayi, Taiwan minister says - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/tsmc-add-2-advanced-chip-packaging-plants-chiayi-taiwan-minister-says-2026-07-13/",
+      "fonte": "reuters.com",
+      "data": "2026-07-13",
+      "resumo": "A TSMC está expandindo rapidamente sua capacidade de embalagem de chips avançados, incluindo sua tecnologia de chip-on-wafer-on-substrate, devido à demanda contínua de designers de chips de inteligência artificial, como a Nvidia. A empresa está adicionando dois novos plantos de embalagem de chips avançados no Parque Científico de Chiayi, na ilha de Taiwan.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "TSMC",
+        "Semiconductor"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 61
+    },
+    {
+      "titulo": "Goldman Sachs picks its favorite Chinese AI models - CNBC",
+      "url": "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-12",
+      "resumo": "Goldman Sachs identificou suas preferidas modelos de IA chineses, incluindo Zhipu, Deepseek e ByteDance, destacando suas vantagens em termos de tempo de mercado, pontuação em arena e capacidade de geração de vídeo. A empresa também mencionou que a demanda por modelos de IA de baixo custo está aumentando, mas que a acessibilidade a computação será um fator crítico para o sucesso desses modelos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "China",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes. - Business Insider",
+      "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-11",
+      "resumo": "O artigo apresenta uma ferramenta de IA gerativa chamada Codex, que pode criar soluções personalizadas em minutos. A ferramenta é mencionada em um contexto de colaboração e inovação, destacando a capacidade da IA em resolver problemas complexos. Além disso, o artigo aborda temas relacionados à IA, como modelos de linguagem grande, computação em nuvem, semicondutores e veículos autônomos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Computação em Nuvem"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "Tech stocks feel like the only game in town. Here's why they are so hard to abandon - CNBC",
+      "url": "https://www.cnbc.com/2026/07/12/tech-stocks-still-feel-like-the-only-game-in-town-heres-why-they-are-so-hard-to-abandon-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-12",
+      "resumo": "O mercado de ações de tecnologia se tornou o único jogo em town, devido à sua liquidez e potencial de crescimento. A Nvidia, em particular, experimentou um aumento de 4% na sexta-feira, após uma longa espera. No entanto, a empresa ainda precisa expandir sua compra de ações e vender investimentos lucrativos para continuar a subir.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 64
+    },
+    {
+      "titulo": "Small Business Technology News Roundup: Microsoft Makes A Major AI U-Turn - Forbes",
+      "url": "https://www.forbes.com/sites/quickerbettertech/2026/07/12/small-business-technology-news-roundup-microsoft-makes-a-major-ai-u-turn/",
+      "fonte": "forbes.com",
+      "data": "2026-07-12",
+      "resumo": "A Microsoft está fazendo um movimento inesperado em relação à inteligência artificial (IA), desligando recursos AI e Copilot em seu aplicativo Teams, permitindo que os usuários decidam quando e onde usá-los. Isso ocorre após uma análise de que os usuários estão se sentindo inundados com recursos novos e estão perdendo eficiência em suas estratégias de aquisição de clientes.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 102
+    },
+    {
+      "titulo": "AI Is Changing Lending, But Trust Remains The Real Advantage - Forbes",
+      "url": "https://www.forbes.com/sites/robertdaugherty/2026/07/12/ai-is-changing-lending-but-trust-remains-the-real-advantage/",
+      "fonte": "forbes.com",
+      "data": "2026-07-12",
+      "resumo": "A inteligência artificial está revolucionando a forma como as empresas de empréstimos operam, permitindo análises mais rápidas e precisas de fluxo de caixa, declarações bancárias e históricos de pagamentos. No entanto, a confiança é o verdadeiro diferencial, pois a tecnologia reflete as incentivos das organizações que a utilizam.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Finanças",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 57
+    },
     {
       "titulo": "Next week brings earnings and inflation data amid resumption of U.S.-Iran hostilities. Here's what's ahead - CNBC",
       "url": "https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html",
@@ -1158,36 +1278,6 @@
       "tokens_usados": 105
     },
     {
-      "titulo": "Micron: The AI Infrastructure Winner Trapped By Its Own Success (NASDAQ:MU) - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4919894-micron-the-ai-infrastructure-winner-trapped-by-its-own-success",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-05",
-      "resumo": "A empresa Micron está enfrentando desafios devido ao seu próprio sucesso, com um múltiplo de valorização que está abaixo da média de cinco anos. Embora os analistas previam um crescimento significativo nos lucros e receita, a incerteza sobre a data de maturação do buildout de IA está afetando a confiança dos investidores.",
-      "sentimento": "bearish",
-      "tags": [
-        "NASDAQ",
-        "Micron",
-        "Tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 61
-    },
-    {
-      "titulo": "S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-05",
-      "resumo": "As futuras do S&P 500 e da Nasdaq continuam a subir após uma semana forte no mercado de Wall Street. Investidores estão preocupados com a possibilidade de excesso de capacidade e competição crescente entre fornecedores de IA, incluindo os chineses. No entanto, eles não compram a ideia de que o mercado está inflado, comparando-o ao bolha de tecnologia da década de 1990.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "WallStreet",
-        "S&P500"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 71
-    },
-    {
       "titulo": "This semiconductor stock has more than doubled in a year. Bernstein sees more gains ahead - CNBC",
       "url": "https://www.cnbc.com/2026/07/06/asml-has-more-than-doubled-in-a-year-bernstein-sees-more-gains-ahead.html",
       "fonte": "cnbc.com",
@@ -1308,81 +1398,6 @@
       "tokens_usados": 73
     },
     {
-      "titulo": "Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-05",
-      "resumo": "O fornecedor da Nvidia, Hon Hai Precision Industry Co., relatou um aumento de 40% nas vendas trimestrais, superando as expectativas, e afirmou que a demanda por AI continua a crescer.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Nvidia",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 39
-    },
-    {
-      "titulo": "SK Hynix Seeks Access to AI Investors in $29 Billion US Listing - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-05/sk-hynix-seeks-access-to-ai-investors-in-29-billion-us-listing",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-05",
-      "resumo": "A SK Hynix está procurando acesso a investidores de IA em sua lista de ações de US$ 29 bilhões. A empresa de semicondutores sul-coreana busca competir no mercado de memória de chips usados em computação de IA, que está em alta. A lista de ações pode ajudar a mudar a percepção da empresa, que tem sido negociada a um desconto em relação ao seu rival norte-americano, a Micron Technology.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 78
-    },
-    {
-      "titulo": "Macquarie says now is the 'best time' to buy Chinese AI chip stocks. This one's its favorite - CNBC",
-      "url": "https://www.cnbc.com/2026/07/05/macquarie-says-now-is-best-time-to-buy-chinese-ai-chip-stocks-heres-its-favorite.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-05",
-      "resumo": "A Macquarie acredita que agora é o melhor momento para investir em ações de chips de inteligência artificial (IA) chinesas. A empresa considera que o desenvolvimento de IA, os jogadores de modelos de linguagem grande (LLM) domésticos e a economia de tokens na China tornaram o setor mais atraente. Além disso, o apoio do governo chinês às empresas de chips de IA domésticas, incluindo restrições de importação de GPUs da Nvidia, aumentou a visibilidade de crescimento das líderes domésticas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "China"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 88
-    },
-    {
-      "titulo": "Goldman Sachs says these undervalued stocks are 'well positioned' to outperform - CNBC",
-      "url": "https://www.cnbc.com/2026/07/05/goldman-sachs-says-these-stocks-are-best-positioned-to-outperform.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-05",
-      "resumo": "Goldman Sachs elogiou várias ações subvalorizadas que estão bem posicionadas para superar as expectativas, incluindo a NetEase, que é considerada uma \"compounding não-AI\" atraente devido à sua capacidade de expandir margens e lançar novos jogos. Além disso, o analista também recomendou a compra da Tradeweb, uma empresa de negociação eletrônica que enfrenta alguns desafios, mas tem potencial de crescimento.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados Chineses"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 69
-    },
-    {
-      "titulo": "Jim Cramer: What caused the pre-holiday chip stock slump and what to do about it - CNBC",
-      "url": "https://www.cnbc.com/2026/07/05/jim-cramer-what-caused-the-pre-holiday-chip-stock-slump-and-what-to-do-about-it.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-05",
-      "resumo": "Jim Cramer analisa a queda nas ações de empresas de chips antes das férias e afirma que a falta de informações sobre a criação de um chip personalizado pela Anthropic foi o fator que desencadeou a queda. Ele recomenda que os investidores não vendam suas ações de Micron, Seagate, Western Digital, Sandisk e AMD, pois essas empresas têm acionistas fracos que não sabem como lidar com a situação.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Tech"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 77
-    },
-    {
       "titulo": "AMD backs Japanese self-driving startup Turing, expands AI partnership (AMD:NASDAQ) - Seeking Alpha",
       "url": "https://seekingalpha.com/news/4611531-amd-backs-japanese-self-driving-startup-turing-expands-ai-partnership",
       "fonte": "seekingalpha.com",
@@ -1411,82 +1426,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 78
-    },
-    {
-      "titulo": "The one question that will shape the AI trade for the rest of 2026 - Business Insider",
-      "url": "https://www.businessinsider.com/ai-stocks-chips-rally-mag7-divergence-hyperscalers-hardware-memory-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-05",
-      "resumo": "A corrida da indústria de inteligência artificial (IA) está se deslocando para novos setores, como os fabricantes de memória, enquanto os gigantes da tecnologia, como Amazon e Microsoft, continuam a investir pesadamente em IA. A corrida para a IA está se tornando cada vez mais complexa, com alguns analistas tomando uma postura mais agnóstica em relação à rotação de investimentos.",
-      "sentimento": "neutral",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Mercados"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 69
-    },
-    {
-      "titulo": "Cipher Digital: From Bitcoin Miner To AI Infrastructure Landlord (NASDAQ:CIFR) - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4919898-cipher-digital-from-bitcoin-miner-to-ai-infrastructure-landlord",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-05",
-      "resumo": "A Cipher Digital, empresa que começou como mineradora de Bitcoin, está se transformando em um grande proprietário de infraestrutura de inteligência artificial, com contratos de aluguel de $11,4 bilhões. A empresa espera gerar $787 milhões em NOI médio anualizado, com um múltiplo de 16, o que valoriza a empresa em $12,6 bilhões. Com a dívida de $900 milhões, a empresa tem um valor de ações de cerca de $28 por acionista.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Data Center",
-        "NASDAQ",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 82
-    },
-    {
-      "titulo": "S&P 500 Earnings Outlook Hinges On Tech, Energy, And The Fed - Forbes",
-      "url": "https://www.forbes.com/sites/bill_stone/2026/07/05/sp-500-earnings-outlook-hinges-on-tech-energy-and-the-fed/",
-      "fonte": "forbes.com",
-      "data": "2026-07-05",
-      "resumo": "A temporada de resultados de lucro do S&P 500 começa em 13 de julho, com as grandes bancos começando a relatar resultados. Algumas informações fundamentais de lucro podem fornecer um impulso positivo em meio a preocupações geopolíticas e aumentos de taxas da Fed. A expectativa é que o crescimento dos lucros do S&P 500 seja de 23,3% ano a ano no segundo trimestre, e 24,1% em 2026. A indústria de tecnologia lidera a expectativa de crescimento de lucro e receita.",
-      "sentimento": "bullish",
-      "tags": [
-        "S&P 500",
-        "Tecnologia",
-        "Energia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 90
-    },
-    {
-      "titulo": "Foxconn second-quarter revenue jumps 40% y/y - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/foxconn-second-quarter-revenue-jumps-40-yy-2026-07-05/",
-      "fonte": "reuters.com",
-      "data": "2026-07-05",
-      "resumo": "A Foxconn, maior fabricante de eletrônicos do mundo, anunciou um aumento de 39,8% na receita do segundo trimestre em comparação com o mesmo período do ano anterior, impulsionado pela forte demanda por tecnologia de inteligência artificial (IA). A empresa relatou uma receita de T$2,513 trilhões ($78,71 bilhões) no trimestre de abril a junho, superando a estimativa de T$2,372 trilhões feita pela LSEG SmartEstimate.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Eletrônicos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 102
-    },
-    {
-      "titulo": "This $13 Billion Georgia Family Is Helping Electrify Data Centers - Forbes",
-      "url": "https://www.forbes.com/sites/simonemelvin/2026/07/05/ai-data-centers-are-set-to-electrify-this-13-billion-familys-76-year-old-company/",
-      "fonte": "forbes.com",
-      "data": "2026-07-05",
-      "resumo": "A família Richards, dona de 100% da empresa Southwire, está ajudando a eletrificar centros de dados. A empresa, que fabrica metade dos fios e cabos usados para distribuir eletricidade nos EUA, está se adaptando às necessidades crescentes de energia para centros de dados, que devem aumentar 175% até 2030. Isso está levando a uma reavaliação da forma como as empresas de utilidade entregam eletricidade e gerenciam custos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Data Centers",
-        "Energia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 77
     }
   ]
 }
