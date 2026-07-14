@@ -2,10 +2,85 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-14",
-    "total_noticias": 93,
-    "gerado_em": "2026-07-14T05:27:23.394018"
+    "total_noticias": 98,
+    "gerado_em": "2026-07-14T11:25:19.403884"
   },
   "noticias": [
+    {
+      "titulo": "Braiin Stock Jumps After Launch of AI-Native Real Estate Workforce Targeting $32B Market - Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60423888/braiin-stock-jumps-after-launch-of-ai-native-real-estate-workforce-targeting-32b-market",
+      "fonte": "benzinga.com",
+      "data": "2026-07-13",
+      "resumo": "A Braiin anunciou a lançamento de ARIA, uma plataforma de automação para o setor imobiliário, visando o mercado de US$ 32 bilhões. Com isso, a empresa busca capitalizar a demanda crescente por automação no setor e fortalecer sua presença no mercado. As ações da Braiin subiram 50,32% até US$ 8,29 no início da publicação.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Real Estate",
+        "Mid Cap"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "The evolution of the AI trade plays into SK Hynix's strengths: Rayliant Global Advisors - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/13/evolution-of-the-ai-trade-plays-into-sk-hynixs-strengths-rayliant.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-13",
+      "resumo": "O analista financeiro Phillip Wool, da Rayliant Global Advisors, discute como está abordando a construção de portfólios utilizando as ações listadas na Coreia ou ADRs de SK Hynix. Ele também discute se o crescimento pode continuar a apoiar a entusiasmo por nomes de memória de chip e onde o comércio de IA pode se ampliar em seguida.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "SK Hynix"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives - CNBC",
+      "url": "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-13",
+      "resumo": "A Meta está investindo US$ 50 bilhões em um centro de dados na Louisiana, graças a incentivos fiscais generosos. A expansão visa atender à demanda por infraestrutura de inteligência artificial. A empresa recentemente lançou dois modelos de IA importantes, o que levou a um aumento significativo no valor de suas ações.",
+      "sentimento": "bullish",
+      "tags": [
+        "Meta",
+        "AI",
+        "Data Center"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 61
+    },
+    {
+      "titulo": "Modern data centers can run on no water consumption: Vertiv CEO - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/13/modern-data-centers-can-run-on-no-water-consumption-vertiv-ceo.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-13",
+      "resumo": "O CEO da Vertiv, Giordano Albertazzi, afirma que os centros de dados modernos podem funcionar sem consumo de água. Isso é uma notícia positiva para a indústria de tecnologia e infraestrutura de dados, pois reduz os custos e a pegada ambiental desses centros.",
+      "sentimento": "bullish",
+      "tags": [
+        "Tech",
+        "AI",
+        "Infraestrutura de Dados"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 54
+    },
+    {
+      "titulo": "Delivering Enterprise AI Value Requires More Than Technology - Forbes",
+      "url": "https://www.forbes.com/sites/jonathanreichental/2026/07/13/delivering-enterprise-ai-value-requires-more-than-technology/",
+      "fonte": "forbes.com",
+      "data": "2026-07-13",
+      "resumo": "Para que a IA transforme uma empresa, os líderes precisam definir claramente os objetivos e como medir o sucesso. Isso inclui considerar a complexidade do esforço e realizar uma rigorosa avaliação para justificar a investimento. Além disso, é fundamental analisar a integração com sistemas e fluxos de trabalho existentes e designá-la desde o início. Muitas organizações continuam a lutar para traduzir a ambição em valor de negócios mensurável.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Negócios",
+        "Liderança"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 129
+    },
     {
       "titulo": "TSMC posts record revenue in second quarter on AI demand - Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/tsmc-q2-revenue-jumps-36-year-earlier-beating-market-expectations-2026-07-13/",
