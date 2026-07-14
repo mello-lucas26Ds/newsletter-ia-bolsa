@@ -1,11 +1,161 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-13",
-    "total_noticias": 104,
-    "gerado_em": "2026-07-13T12:32:35.566826"
+    "data": "2026-07-14",
+    "total_noticias": 93,
+    "gerado_em": "2026-07-14T05:27:23.394018"
   },
   "noticias": [
+    {
+      "titulo": "TSMC posts record revenue in second quarter on AI demand - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/tsmc-q2-revenue-jumps-36-year-earlier-beating-market-expectations-2026-07-13/",
+      "fonte": "reuters.com",
+      "data": "2026-07-13",
+      "resumo": "A TSMC, maior fabricante de chips do mundo, alcançou um recorde de receita no segundo trimestre, com um aumento de 36% em relação ao mesmo período do ano anterior, impulsionado pela demanda por aplicativos de inteligência artificial. A receita totalizou T$1,27 trilhão, ligeiramente acima da estimativa de T$1,264 trilhão dos analistas. A empresa não forneceu detalhes ou orientação de mercado em seu comunicado de receita.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "Taiwan"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue - CNBC",
+      "url": "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-13",
+      "resumo": "A TSMC, a maior fabricante de chips sob encomenda do mundo, relatou um aumento de 68% na receita de junho. A empresa relatou uma receita de NT$ 442,68 bilhões no mês, um aumento de 6,2% em comparação com o mês anterior. A receita total da empresa nos primeiros seis meses de 2026 foi de NT$ 2,4 trilhões, um aumento de 35,6% em comparação com o mesmo período de 2025.",
+      "sentimento": "bullish",
+      "tags": [
+        "TSMC",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 161
+    },
+    {
+      "titulo": "The Stock Market's Big Next Test: a Wave of Bank Earnings - Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-outlook-q2-earnings-bofa-gs-jpm-wfc-citi-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-13",
+      "resumo": "As principais instituições financeiras dos EUA estão prestes a divulgar seus resultados financeiros, enquanto os investidores também seguem a inflação de junho, que pode influenciar a volatilidade do mercado. A indústria de tecnologia, especialmente a área de inteligência artificial, tem sido alvo de preocupações de investidores com o potencial de sobreinvestimento.",
+      "sentimento": "bearish",
+      "tags": [
+        "Finanças",
+        "Bancos",
+        "Inteligência Artificial"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 61
+    },
+    {
+      "titulo": "What Taiwan Semiconductor’s Earnings Can Tell Investors About Its 2026 Outlook - Forbes",
+      "url": "https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-earnings-h2-2026-outlook/",
+      "fonte": "forbes.com",
+      "data": "2026-07-13",
+      "resumo": "A Taiwan Semiconductor (TSMC) enfrenta um desafio de produção de CoWoS, mas está trabalhando para resolver isso com a construção de novas instalações de embalagem avançada em Arizona e Taiwan. A empresa também está aprimorando sua tecnologia de chip N2, que deve gerar altos preços e margens. Os analistas estão esperando ansiosamente os resultados do Q2 de TSMC, que podem oferecer insights importantes sobre o futuro da indústria de inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "TSMC"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 80
+    },
+    {
+      "titulo": "Jim Cramer says tech remains the market's best place to find big winners despite recent struggles - CNBC",
+      "url": "https://www.cnbc.com/2026/07/13/jim-cramer-tech-best-place-find-big-winners.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-13",
+      "resumo": "Jim Cramer afirma que a tecnologia continua sendo a melhor área para encontrar grandes ganhadores no mercado, apesar das recentes dificuldades. Ele cita Meta como exemplo, após a empresa anunciar que está considerando monetizar sua infraestrutura de inteligência artificial, o que levou a uma alta de 15% na ação. Cramer também compara Meta com a PepsiCo, cuja divulgação de resultados decepcionou os investidores.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Meta"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "Chip stocks hit rocky patch. What's next? - Reuters",
+      "url": "https://www.reuters.com/business/chip-stocks-hit-rocky-patch-whats-next-2026-07-13/",
+      "fonte": "reuters.com",
+      "data": "2026-07-13",
+      "resumo": "A indústria de semicondutores enfrenta incertezas sobre as taxas de juros nos EUA e o conflito no Oriente Médio, o que pode afetar as estimativas de lucro. As ações de empresas como Nvidia e Micron estão sendo compradas com preços de mercado baixos, mas o crescimento das receitas pode estar moderando em 2027.",
+      "sentimento": "bearish",
+      "tags": [
+        "Semicondutores",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 100
+    },
+    {
+      "titulo": "The AI economy’s next layer of value - TechCrunch",
+      "url": "https://techcrunch.com/sponsor/global-millenial-capital/the-ai-economys-next-layer-of-value/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-13",
+      "resumo": "A economia de inteligência artificial está evoluindo para uma nova camada de valor, onde a infraestrutura que conecta a inteligência à execução se torna cada vez mais importante. Empresas de infraestrutura de inteligência artificial estão se tornando fundamentais para que as organizações entendam informações, façam decisões e automatizem fluxos de trabalho complexos a grande escala.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Investimento"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 109
+    },
+    {
+      "titulo": "Apple’s $650 Billion Rally Fueled by Traders Fleeing AI Selloff - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-13",
+      "resumo": "A ação da Apple teve um aumento de $650 bilhões em valor de mercado, graças à fuga de investidores do setor de inteligência artificial (IA), que está passando por uma correção. A TSMC relatou um aumento de 36% nas vendas trimestrais, sinalizando que a demanda global por computação de IA permanece intacta. No entanto, a SK Hynix Inc. caiu 15%, reforçando as preocupações dos investidores sobre a sustentabilidade do boom do setor de IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "Apple"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 83
+    },
+    {
+      "titulo": "First Microsoft, now Apple: Why do OpenAI and Sam Altman keep breaking up with Big Tech? - Business Insider",
+      "url": "https://www.businessinsider.com/openai-lawsuit-apple-microsoft-history-sam-altman-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-13",
+      "resumo": "A OpenAI está rompendo com as grandes empresas de tecnologia, como a Microsoft e agora a Apple. Embora ainda tenham acordos em vigor, essas parcerias não são mais exclusivas. A OpenAI está se tornando cada vez mais independente e autônoma.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Big Tech"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 78
+    },
+    {
+      "titulo": "Resilience In A Reflationary World: Navigating Concentration, Conflict, & Conviction In EM - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4921522-resilience-reflationary-world-navigating-concentration-conflict-conviction-em",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-13",
+      "resumo": "A VanEck está ajustando sua carteira para se adaptar a um cenário de reflation, enfatizando empresas com poder de preços e exposição a infraestrutura de IA e exportadores de commodities em mercados emergentes. A empresa está diversificando sua exposição à IA e reduzindo sua exposição a setores vulneráveis à inflação e ao fortalecimento do dólar.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Commodities",
+        "Emerging Markets"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 65
+    },
     {
       "titulo": "SpaceXAI, Cursor Unveil Grok AI Model for Legal, Finance Tasks",
       "url": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
@@ -38,22 +188,6 @@
       "tokens_usados": 54
     },
     {
-      "titulo": "SpaceX to acquire the AI coding startup Cursor for $60 billion",
-      "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
-      "fonte": "cnbc.com",
-      "data": "2026-06-15",
-      "resumo": "A SpaceX está adquirindo a startup de codificação com IA Cursor por US$ 60 bilhões. Esta aquisição visa fortalecer as capacidades da empresa para competir com rivais como Anthropic e OpenAI, que também oferecem ferramentas de codificação populares.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Startups",
-        "SpaceX"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 48
-    },
-    {
       "titulo": "Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return",
       "url": "https://www.ft.com/content/a66c1d90-682b-480a-8fc3-fb7b7e2f1873?syn-25a6b1a6=1",
       "fonte": "ft.com",
@@ -68,21 +202,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 64
-    },
-    {
-      "titulo": "Bloomberg - Business News, Stock Markets, Finance, Breaking & World News",
-      "url": "https://www.bloomberg.com/",
-      "fonte": "bloomberg.com",
-      "data": "2009-07-18",
-      "resumo": "A Bloomberg fornece notícias e dados financeiros, análises e vídeos para o mundo, destacando histórias de Businessweek e Bloomberg News.",
-      "sentimento": "neutral",
-      "tags": [
-        "Notícias",
-        "Finanças",
-        "Negócios"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 29
     },
     {
       "titulo": "AI Enthusiasm Powers Nasdaq to All-Time High: 3 Stocks to Grab",
@@ -1189,21 +1308,6 @@
       "tokens_usados": 73
     },
     {
-      "titulo": "Where to Invest $10,000 Right Now, According to 9 Top Wall Street Minds - Business Insider",
-      "url": "https://www.businessinsider.com/where-to-invest-10000-right-now-ai-trade-iran-warsh-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-06",
-      "resumo": "Nove especialistas em Wall Street compartilharam suas recomendações de investimento para $10.000. Com a mudança no cenário de investimentos, os especialistas recomendam diferentes ativos, incluindo ações de empresas de tecnologia, fundos de investimento e outros instrumentos financeiros. Os especialistas incluem Gary Shilling, Nouriel Roubini e Larry McDonald, entre outros.",
-      "sentimento": "bullish",
-      "tags": [
-        "Tecnologia",
-        "Ações",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 58
-    },
-    {
       "titulo": "Asia stocks fall as AI valuation fears overshadow Samsung’s blockbuster earnings - Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-ai-valuation-fears-overshadow-samsungs-blockbuster-earnings-4778205",
       "fonte": "investing.com",
@@ -1217,21 +1321,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 86
-    },
-    {
-      "titulo": "'Fast Money' traders discuss whether tech can lead markets to new highs - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/06/fast-money-traders-on-whether-tech-can-lead-markets-to-new-highs.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-06",
-      "resumo": "O time \"Fast Money\" da CNBC discute sobre a sustentabilidade do comércio de tecnologia, o que os investidores devem prestar atenção e mais. A SK Hynix está prestes a ser listada na NASDAQ no próximo fim de semana. Alguns especialistas, como o Roger McNamee, acreditam que a estrutura de investimento em IA está criando um grande buraco.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "NASDAQ",
-        "Tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 66
     },
     {
       "titulo": "The markets are broadening out, but the AI trade still can do well: UBS GWM - CNBC",
@@ -1279,21 +1368,6 @@
       "tokens_usados": 75
     },
     {
-      "titulo": "TeraWulf’s stock surges after a $19 billion deal with Anthropic - MarketWatch",
-      "url": "https://www.marketwatch.com/story/terawulfs-stock-surges-after-a-19-billion-deal-with-anthropic-6899d3bc",
-      "fonte": "marketwatch.com",
-      "data": "2026-07-06",
-      "resumo": "A ação da TeraWulf (WULF) subiu 15,25% após a empresa anunciar um acordo de $19 bilhões com a Anthropic. A Anthropic irá alugar um data center da TeraWulf por 20 anos, gerando $19 bilhões em receita contratada ao longo do acordo. A TeraWulf também planeja expandir sua relação com a Anthropic, que é uma das principais empresas de inteligência artificial (IA) do mundo.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "TeraWulf",
-        "Anthropic"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 72
-    },
-    {
       "titulo": "This Chinese cloud name offers a new way to play the AI boom, Morgan Stanley says - CNBC",
       "url": "https://www.cnbc.com/2026/07/07/this-cloud-name-offers-a-way-to-play-the-ai-boom-morgan-stanley-says-.html",
       "fonte": "cnbc.com",
@@ -1338,247 +1412,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 84
-    },
-    {
-      "titulo": "AI is going to need software companies, says Guggenheim's Mandl - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/06/ai-is-going-to-need-software-companies-says-guggenheims-mandl.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-06",
-      "resumo": "O analista Eric Mandl, da Guggenheim, afirma que a indústria de inteligência artificial (IA) precisará de empresas de software para funcionar. Isso sugere que a IA não é apenas uma tecnologia isolada, mas sim uma ferramenta que depende de uma infraestrutura de software robusta para funcionar efetivamente.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Software",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 56
-    },
-    {
-      "titulo": "Tech Set to Rebound as AI Leadership Faces Fresh Tests - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-06/tech-set-to-rebound-as-ai-leadership-faces-fresh-tests",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-06",
-      "resumo": "A bolsa de valores dos EUA subiu na segunda-feira, com investidores comprando ações de tecnologia após o mercado de inteligência artificial ter uma reação negativa antes do feriado de fim de semana. A Nasdaq 100 subiu 1,1% e o S&P 500 aumentou 0,6%, liderados por avanços em ações de semicondutores e outras ligadas à inteligência artificial. O mercado de tecnologia está pronto para uma recuperação após a queda recente.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Semicondutores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 78
-    },
-    {
-      "titulo": "Wall Street closes higher as Broadcom rallies - Reuters",
-      "url": "https://www.reuters.com/video/watch/idRW562506072026RP1/",
-      "fonte": "reuters.com",
-      "data": "2026-07-06",
-      "resumo": "A Wall Street encerrou em alta, com a Broadcom liderando a recuperação. A notícia inclui várias reportagens sobre tecnologia e inovação, incluindo a utilização de IA em projetos espaciais e a criação de um robô subaquático para monitorar gelo em lagos. Além disso, a SK Hynix anunciou um lançamento de ações no valor de US$ 28 bilhões nos EUA para aproveitar a onda de IA global.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 77
-    },
-    {
-      "titulo": "Quant Hedge Funds Extend Worst Run Since 2023 as Momentum Slides - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-06/quant-hedge-funds-extend-worst-run-since-2023-as-momentum-slides",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-06",
-      "resumo": "Fundos de hedge quantitativos enfrentam o pior desempenho desde 2023, enquanto a estratégia de momentum sofre uma queda de mais de 3% por duas semanas consecutivas.",
-      "sentimento": "bearish",
-      "tags": [
-        "hedge funds",
-        "mercado de ações",
-        "estratégia de momentum"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 83
-    },
-    {
-      "titulo": "XAI makes its rebrand to SpaceXAI complete with a new logo - Business Insider",
-      "url": "https://www.businessinsider.com/xai-rebrand-spacexai-new-logo-x-handle-spacex-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-06",
-      "resumo": "A xAI, uma empresa de inteligência artificial fundada por Elon Musk, foi rebrandada para SpaceXAI, com um novo logotipo e uma atualização no seu nome de usuário no X. A empresa foi adquirida pelo SpaceX, da qual Musk é o fundador, no início do ano. A rebranding é uma parte da expansão da empresa no setor de tecnologia e inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "SpaceX",
-        "Elon Musk"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 71
-    },
-    {
-      "titulo": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says - Reuters",
-      "url": "https://www.reuters.com/business/ai-investors-may-pivot-hyperscalers-chipmakers-morgan-stanley-says-2026-07-06/",
-      "fonte": "reuters.com",
-      "data": "2026-07-06",
-      "resumo": "A Morgan Stanley prevê que investidores em IA possam se desviar dos fabricantes de chips e se concentrar em \"hiperscalers\" (empresas de tecnologia que investem pesadamente em centros de dados) e em ações de empresas de consumo, transporte e biotecnologia. Isso ocorre devido à recente fraqueza nos títulos de semicondutores, que é visto como um sinal de que os ganhos do mercado estão se ampliando. Embora empresas como Alphabet e Amazon tenham investido bilhões em infraestrutura de IA, ainda não há evidências claras de que produtos de IA possam gerar retornos que justifiquem esses investimentos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Hyperscalers",
-        "Semicondutores",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 105
-    },
-    {
-      "titulo": "This semiconductor stock has more than doubled in a year. Bernstein sees more gains ahead - CNBC",
-      "url": "https://www.cnbc.com/2026/07/06/asml-has-more-than-doubled-in-a-year-bernstein-sees-more-gains-ahead.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-06",
-      "resumo": "A empresa ASML, fornecedora de tecnologia de litografia de ultra-violeta extremamente avançada, viu suas ações mais do que dobrarem em um ano. A empresa é fundamental para a produção de memória e microchips, que são usados em modelos de IA. A empresa foi classificada como \"comprar\" por 19 analistas, incluindo a Bernstein, que vê mais ganhos a caminho.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "Hedge funds dumped chip stocks for a fourth week as AI shares sold off - Reuters",
-      "url": "https://www.reuters.com/business/finance/hedge-funds-dumped-chip-stocks-fourth-week-ai-shares-sold-off-2026-07-06/",
-      "fonte": "reuters.com",
-      "data": "2026-07-06",
-      "resumo": "Hedge funds venderam ações de hardware de tecnologia por quarta semana consecutiva, devido a uma recente queda nas ações de chips globais e antes da divulgação de resultados financeiros de várias empresas. A venda de ações de tecnologia, especialmente semicondutores, tem sido um fator de volatilidade no mercado de ações. O índice SOX, que acompanha o desempenho das ações de semicondutores, caiu 4,2% na semana até 3 de julho.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Hedge Funds"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 79
-    },
-    {
-      "titulo": "Momentum crash warnings flash red. Here’s how you might survive - Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/momentum-crash-warnings-flash-red-heres-how-you-might-survive-2026-07-06/",
-      "fonte": "reuters.com",
-      "data": "2026-07-06",
-      "resumo": "Apesar do frenesi de investimento em tecnologia e IA, especialistas alertam para o risco de uma \"crise de momentum\" que pode afetar os atuais líderes de mercado. Um estudo sugere que é possível evitar a perda de investimentos sem abandonar a tendência de crescimento.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados Financeiros"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 54
-    },
-    {
-      "titulo": "Tech Stocks’ Rebound Stalls, Dollar Edges Higher: Markets Wrap - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-05/stock-market-today-dow-s-p-live-updates",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-06",
-      "resumo": "A recuperação das ações de tecnologia está sendo interrompida, enquanto o dólar se aproxima de um valor mais alto. As futuras de ações de tecnologia nos EUA mostraram um aumento de 1,1% após o feriado, enquanto as futuras do S&P 500 subiram 0,4%. A Samsung Electronics Co. será objeto de escrutínio quando divulgar seus lucros na próxima terça-feira, após um aumento de 165% no ano até o momento.",
-      "sentimento": "bearish",
-      "tags": [
-        "tecnologia",
-        "ações",
-        "mercado de ações"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 79
-    },
-    {
-      "titulo": "Stocks making the biggest moves premarket: Lam Research, Intel, DataDog & more - CNBC",
-      "url": "https://www.cnbc.com/2026/07/06/stocks-making-the-biggest-moves-premarket-lrcx-intc-ddog.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-06",
-      "resumo": "As ações de empresas de semicondutores lideram o mercado pré-abertura, com a iShares Semiconductor ETF (SOXX) subindo mais de 2,5% após uma queda de 11% nas duas últimas sessões. Intel, Advanced Micro Devices e Broadcom também apresentam ganhos significativos, enquanto ASML Holding sobe 4% após uma revisão de preço alvo por parte da Bernstein.",
-      "sentimento": "bullish",
-      "tags": [
-        "Semicondutores",
-        "Intel",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 63
-    },
-    {
-      "titulo": "Anthropic signs lease for TeraWulf data center in Kentucky - CNBC",
-      "url": "https://www.cnbc.com/2026/07/06/anthropic-terawulf-data-center-ai.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-06",
-      "resumo": "A Anthropic assinou um contrato de 20 anos para usar um centro de dados da TeraWulf em Kentucky, com capacidade de cerca de 400 megawatts e entrega de energia prevista para o segundo semestre de 2027. O contrato é esperado gerar cerca de $19 bilhões em receita. A TeraWulf é uma empresa de mineração de criptomoedas que se adaptou à infraestrutura de centros de dados para inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Data Center",
-        "TeraWulf"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 78
-    },
-    {
-      "titulo": "Investors ignored manufacturing startups for years. These ex-Apple engineers raised a $33 million fund to change that. - Business Insider",
-      "url": "https://www.businessinsider.com/apple-veterans-launch-a-33-million-fund-for-manufacturing-tech-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-06",
-      "resumo": "Duas ex-executivas da Apple, que ajudaram a empresa a levar produtos de protótipo à produção, estão investindo em startups de fabricação com um fundo de $33 milhões. Eles acreditam que o próximo boom da IA não acontecerá em telas, mas sim em linhas de produção. A tendência é apoiada por investidores que estão voltando a se concentrar no mundo físico, impulsionados pela evolução da IA, custos de hardware em queda, escassez de mão de obra e pressão geopolítica para reter as cadeias de suprimentos.",
-      "sentimento": "bullish",
-      "tags": [
-        "IA",
-        "Fabricação",
-        "Robótica"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 93
-    },
-    {
-      "titulo": "Why The $2.1 Billion Sky ITV Deal Is Bigger Than Television - Forbes",
-      "url": "https://www.forbes.com/sites/katehardcastle/2026/07/06/why-the-21-billion-sky-itv-deal-is-bigger-than-television/",
-      "fonte": "forbes.com",
-      "data": "2026-07-06",
-      "resumo": "A Sky anunciou a aquisição da divisão de entretenimento da ITV por US$ 2,16 bilhões, unindo canais de TV aberta e serviços de streaming de alta definição. Essa união cria um ecossistema poderoso e conectado, permitindo campanhas publicitárias altamente direcionadas em diferentes plataformas. A Sky busca desafiar os gigantes de streaming globais com um ambiente de publicidade de alta qualidade e baseado em dados.",
-      "sentimento": "bullish",
-      "tags": [
-        "TV",
-        "Streaming",
-        "Publicidade"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 73
-    },
-    {
-      "titulo": "AMD backs Japanese self-driving startup Turing, expands AI partnership (AMD:NASDAQ) - Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4611531-amd-backs-japanese-self-driving-startup-turing-expands-ai-partnership",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-06",
-      "resumo": "A AMD investiu na startup japonesa Turing, especializada em tecnologia de condução autônoma, e expandiu sua parceria em inteligência artificial. A Turing passará a usar aceleradores de IA da AMD, reduzindo sua dependência da Nvidia.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 44
-    },
-    {
-      "titulo": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says - CNBC",
-      "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-06",
-      "resumo": "A Nvidia anunciou que o lançamento do seu próximo sistema de rack de IA, o Rubin Ultra, foi adiado para 2028 devido a problemas de fabricação. Isso pode dar uma chance aos concorrentes, como a AMD e a Google, de ganhar mercado no setor de alta tecnologia. No entanto, a empresa ainda espera superar as expectativas de receita de computação em data centers no segundo semestre de 2027.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Nvidia",
-        "Data Centers"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 78
     }
   ]
 }
