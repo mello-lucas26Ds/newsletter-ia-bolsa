@@ -2,10 +2,100 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-15",
-    "total_noticias": 90,
-    "gerado_em": "2026-07-15T05:28:13.729248"
+    "total_noticias": 96,
+    "gerado_em": "2026-07-15T11:29:00.245652"
   },
   "noticias": [
+    {
+      "titulo": "CNBC Daily Open: A chip off the AI block - CNBC",
+      "url": "https://www.cnbc.com/2026/07/15/cnbc-daily-open-chips-asml-earnings.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-15",
+      "resumo": "A IBM sofreu uma queda de 25% em sua ação, enquanto a SK Hynix recuperou-se e levou a uma retomada geral no setor. A ASML aumentou sua previsão de receita para o ano, mas alguns investidores alertam que a entusiasmo em torno das ações de hardware relacionadas à IA está se tornando excessivo.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 104
+    },
+    {
+      "titulo": "ASML raises 2026 forecast, expands capacity on AI chip demand - Reuters",
+      "url": "https://www.reuters.com/business/asml-tops-q2-estimates-ai-chip-demand-2026-07-15/",
+      "fonte": "reuters.com",
+      "data": "2026-07-15",
+      "resumo": "A ASML, fornecedora de equipamentos para a produção de chips de alta tecnologia, aumentou sua previsão de vendas para 2026 e anunciou um aumento de capacidade para atender à demanda crescente por chips de inteligência artificial. A empresa, que fornece máquinas para a Nvidia e a TSMC, entre outras, superou as previsões de lucro do segundo trimestre e suas ações subiram quase 4%. A ASML planeja expandir sua capacidade por cerca de um terço por ano para seus principais equipamentos EUV, que estão todos reservados até 2027.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 96
+    },
+    {
+      "titulo": "ASML hikes sales forecast for second time this year on strong AI chip demand - CNBC",
+      "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-15",
+      "resumo": "A ASML aumentou sua previsão de vendas pela segunda vez este ano, devido à forte demanda por chips de inteligência artificial. A Taiwan Semiconductor Manufacturing Co (TSMC), um dos principais clientes da ASML, relatou um aumento de 68% nas vendas em junho. A TSMC está planejando adicionar duas fábricas de embalagem de chips avançadas no parque científico de Chiayi, no sul da Taiwan.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "JPMorgan Chase beats on top and bottom lines in Q2 - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/14/jpmorgan-chase-beats-on-top-and-bottom-lines-in-q2.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-14",
+      "resumo": "JPMorgan Chase superou as expectativas em termos de lucro líquido e EBITDA no 2º trimestre. O CEO da Bank of America atribuiu a alta de receita de negociação de ações à \"onda de IA\" e ao aumento da demanda na Ásia. Já a IBM caiu após uma previsão de lucro líquido fraca no 2º trimestre, devido à fraqueza em suas operações de software e infraestrutura.",
+      "sentimento": "bearish",
+      "tags": [
+        "[Finance",
+        "Tecnologia",
+        "Mercados]"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 118
+    },
+    {
+      "titulo": "The honeymoon is over for SK Hynix and SpaceX as Wall Street falls out of love with new AI stocks - Business Insider",
+      "url": "https://www.businessinsider.com/sk-hynix-spacex-stock-offerings-ipo-market-ai-investing-honeymoon-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-14",
+      "resumo": "A empresa SK Hynix e a SpaceX, ambas relacionadas à tecnologia de inteligência artificial, estão enfrentando dificuldades após o lançamento de suas ações no mercado. As ações dessas empresas não conseguiram manter o impulso inicial, com algumas delas caindo até 50% desde o início. Outras empresas, como a Cerebras e a CoreWeave, também estão enfrentando desafios após o lançamento de suas ações.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally - CNBC",
+      "url": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-15",
+      "resumo": "A SK Hynix, uma empresa sul-coreana de semicondutores, viu suas ações subir 11% após uma onda de ações de tecnologia asiáticas. A alta foi liderada por uma recuperação das ações de semicondutores nos EUA e se espalhou por todo o setor de chips do Japão. Outras empresas asiáticas de tecnologia também registraram ganhos significativos.",
+      "sentimento": "bullish",
+      "tags": [
+        "Semicondutores",
+        "Tecnologia",
+        "Mercados Asiáticos"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 64
+    },
     {
       "titulo": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase - CNBC",
       "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",

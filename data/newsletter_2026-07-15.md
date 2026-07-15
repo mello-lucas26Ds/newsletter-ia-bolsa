@@ -1,111 +1,85 @@
 # Newsletter IA Bolsa — 2026-07-15
 
-**Gerado em:** 15/07/2026 05:28
-**Total:** 8 noticias
+**Gerado em:** 15/07/2026 11:29
+**Total:** 6 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase - CNBC
+## 1. CNBC Daily Open: A chip off the AI block - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semicondutores, Tecnologia
+
+A IBM sofreu uma queda de 25% em sua ação, enquanto a SK Hynix recuperou-se e levou a uma retomada geral no setor. A ASML aumentou sua previsão de receita para o ano, mas alguns investidores alertam que a entusiasmo em torno das ações de hardware relacionadas à IA está se tornando excessivo.
+
+[Ler noticia completa](https://www.cnbc.com/2026/07/15/cnbc-daily-open-chips-asml-earnings.html)
+
+---
+
+## 2. ASML raises 2026 forecast, expands capacity on AI chip demand - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semiconductor, NASDAQ
+
+A ASML, fornecedora de equipamentos para a produção de chips de alta tecnologia, aumentou sua previsão de vendas para 2026 e anunciou um aumento de capacidade para atender à demanda crescente por chips de inteligência artificial. A empresa, que fornece máquinas para a Nvidia e a TSMC, entre outras, superou as previsões de lucro do segundo trimestre e suas ações subiram quase 4%. A ASML planeja expandir sua capacidade por cerca de um terço por ano para seus principais equipamentos EUV, que estão todos reservados até 2027.
+
+[Ler noticia completa](https://www.reuters.com/business/asml-tops-q2-estimates-ai-chip-demand-2026-07-15/)
+
+---
+
+## 3. ASML hikes sales forecast for second time this year on strong AI chip demand - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Finanças, Tecnologia
+**Tags:** AI, Semiconductor, NASDAQ
 
-A indústria de inteligência artificial (IA) está alcançando um "ponto de inflexão" e as principais instituições financeiras de Wall Street estão se beneficiando disso. Goldman Sachs e JPMorgan Chase são dois dos principais vencedores dessa tendência, com aumento significativo em receita de investimentos e negócios de IA. As principais instituições financeiras estão começando a implementar a tecnologia internamente, o que deve ajudar a aumentar a receita enquanto mantém os custos baixos.
+A ASML aumentou sua previsão de vendas pela segunda vez este ano, devido à forte demanda por chips de inteligência artificial. A Taiwan Semiconductor Manufacturing Co (TSMC), um dos principais clientes da ASML, relatou um aumento de 68% nas vendas em junho. A TSMC está planejando adicionar duas fábricas de embalagem de chips avançadas no parque científico de Chiayi, no sul da Taiwan.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html)
+[Ler noticia completa](https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html)
 
 ---
 
-## 2. Earnings season plays: Profit expectations are growing for these stocks while their valuations get cheaper - CNBC
+## 4. JPMorgan Chase beats on top and bottom lines in Q2 - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 6.0/10  
+**Tags:** [Finance, Tecnologia, Mercados]
+
+JPMorgan Chase superou as expectativas em termos de lucro líquido e EBITDA no 2º trimestre. O CEO da Bank of America atribuiu a alta de receita de negociação de ações à "onda de IA" e ao aumento da demanda na Ásia. Já a IBM caiu após uma previsão de lucro líquido fraca no 2º trimestre, devido à fraqueza em suas operações de software e infraestrutura.
+
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/14/jpmorgan-chase-beats-on-top-and-bottom-lines-in-q2.html)
+
+---
+
+## 5. The honeymoon is over for SK Hynix and SpaceX as Wall Street falls out of love with new AI stocks - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Tecnologia, Mercado de Ações
+
+A empresa SK Hynix e a SpaceX, ambas relacionadas à tecnologia de inteligência artificial, estão enfrentando dificuldades após o lançamento de suas ações no mercado. As ações dessas empresas não conseguiram manter o impulso inicial, com algumas delas caindo até 50% desde o início. Outras empresas, como a Cerebras e a CoreWeave, também estão enfrentando desafios após o lançamento de suas ações.
+
+[Ler noticia completa](https://www.businessinsider.com/sk-hynix-spacex-stock-offerings-ipo-market-ai-investing-honeymoon-2026-7)
+
+---
+
+## 6. SK Hynix South Korean shares jump 11% as Asia tech stocks rally - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 8.0/10  
-**Tags:** AI, Tecnologia, Mercado de Ações
+**Tags:** Semicondutores, Tecnologia, Mercados Asiáticos
 
-A temporada de resultados financeiros está se aproximando, e as expectativas de lucro estão crescendo para várias ações, enquanto suas avaliações se tornam mais acessíveis. A indústria de inteligência artificial (IA) e tecnologia continuará a ser o foco do mercado, com possíveis surpresas. Além disso, setores como alimentos, industriais e automotivos podem receber um impulso de devoluções de tarifas e gastos relacionados à Copa do Mundo da FIFA.
+A SK Hynix, uma empresa sul-coreana de semicondutores, viu suas ações subir 11% após uma onda de ações de tecnologia asiáticas. A alta foi liderada por uma recuperação das ações de semicondutores nos EUA e se espalhou por todo o setor de chips do Japão. Outras empresas asiáticas de tecnologia também registraram ganhos significativos.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/14/earnings-season-plays-profit-expectations-are-growing-for-these-stocks.html)
-
----
-
-## 3. Reflection inks $1B compute deal with Nebius - TechCrunch
-
-**Fonte:** techcrunch.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Compute, Nebius, Reflection
-
-A Reflection, uma empresa de desenvolvimento de modelos de IA, assinou um contrato de US$ 1 bilhão com a Nebius para acessar os chips mais recentes da Nvidia. Este acordo vem logo após a empresa assinar um contrato semelhante para acessar os recursos de computação da SpaceX. A Nebius é uma empresa que anteriormente era a filial internacional da gigante russa Yandex.
-
-[Ler noticia completa](https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/)
-
----
-
-## 4. DeepSeek reportedly in talks to raise $1.5B, then IPO - TechCrunch
-
-**Fonte:** techcrunch.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Startups, IPO
-
-A DeepSeek está em negociações para levantar $1,5 bilhão, seguido de uma oferta pública inicial (IPO), de acordo com relatórios. No entanto, a empresa não pôde ser alcançada para comentários. A notícia não fornece informações adicionais sobre o processo de levantamento de capital ou a data prevista para a IPO.
-
-[Ler noticia completa](https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/)
-
----
-
-## 5. Cybersecurity stocks rally on AI spending change comments from IBM's Krishna - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** Cybersecurity, AI, Tech
-
-As ações de segurança cibernética experimentaram um aumento de cerca de 10% cada, após comentários de Arvind Krishna, CEO da IBM, sobre mudanças nos gastos em inteligência artificial. As ações de Okta, Netskope e CrowdStrike aumentaram cerca de 10%, enquanto as ações de SailPoint, Zscaler e SentinelOne aumentaram cerca de 8%. A ação da Palo Alto Networks aumentou cerca de 7%.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/14/cybersecurity-stocks-ai-spending-mythos.html)
-
----
-
-## 6. Breakingviews - Apple’s China plea signals low-tech chip upheaval - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, China
-
-A Apple está pressionando a China para resolver a crise de componentes de memória, que está afetando a indústria de consumo eletrônico e a indústria automobilística. A falta de investimento em fábricas de chips mais antigos está causando escassez e aumentos de preços, afetando empresas como a Xiaomi e a Apple. Isso é particularmente grave no setor de memória DRAM.
-
-[Ler noticia completa](https://www.reuters.com/commentary/breakingviews/apples-china-plea-signals-low-tech-chip-upheaval-2026-07-15/)
-
----
-
-## 7. OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - TechCrunch
-
-**Fonte:** techcrunch.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Biotech, Startup
-
-Um pesquisador da OpenAI, Miles Wang, está em negociações para lançar uma startup de descoberta de fármacos com IA, avaliada em $2 bilhões. A startup está em negociações para levantar $200 milhões e várias outras pesquisadoras da OpenAI estão esperadas para se juntar à empresa.
-
-[Ler noticia completa](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/)
-
----
-
-## 8. Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** Meta, Data Center, IA, Tecnologia
-
-A Meta está expandindo sua data center em Louisiana para 5 gigawatts, com investimentos que ultrapassam $50 bilhões. A empresa planeja investir mais de $1 bilhão em melhorias de infraestrutura local, incluindo estradas, sistemas de água e esgoto. A Meta está investindo bilhões de dólares em centros de dados e potência de computação para atender à demanda crescente de tecnologias de agentes de IA.
-
-[Ler noticia completa](https://www.reuters.com/business/meta-expands-louisiana-data-center-5-gigawatts-compute-capacity-2026-07-13/)
+[Ler noticia completa](https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html)
 
 ---
