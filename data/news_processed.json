@@ -1,11 +1,133 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-14",
-    "total_noticias": 98,
-    "gerado_em": "2026-07-14T11:25:19.403884"
+    "data": "2026-07-15",
+    "total_noticias": 90,
+    "gerado_em": "2026-07-15T05:28:13.729248"
   },
   "noticias": [
+    {
+      "titulo": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase - CNBC",
+      "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-14",
+      "resumo": "A indústria de inteligência artificial (IA) está alcançando um \"ponto de inflexão\" e as principais instituições financeiras de Wall Street estão se beneficiando disso. Goldman Sachs e JPMorgan Chase são dois dos principais vencedores dessa tendência, com aumento significativo em receita de investimentos e negócios de IA. As principais instituições financeiras estão começando a implementar a tecnologia internamente, o que deve ajudar a aumentar a receita enquanto mantém os custos baixos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Finanças",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 80
+    },
+    {
+      "titulo": "Earnings season plays: Profit expectations are growing for these stocks while their valuations get cheaper - CNBC",
+      "url": "https://www.cnbc.com/2026/07/14/earnings-season-plays-profit-expectations-are-growing-for-these-stocks.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-14",
+      "resumo": "A temporada de resultados financeiros está se aproximando, e as expectativas de lucro estão crescendo para várias ações, enquanto suas avaliações se tornam mais acessíveis. A indústria de inteligência artificial (IA) e tecnologia continuará a ser o foco do mercado, com possíveis surpresas. Além disso, setores como alimentos, industriais e automotivos podem receber um impulso de devoluções de tarifas e gastos relacionados à Copa do Mundo da FIFA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "Reflection inks $1B compute deal with Nebius - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-14",
+      "resumo": "A Reflection, uma empresa de desenvolvimento de modelos de IA, assinou um contrato de US$ 1 bilhão com a Nebius para acessar os chips mais recentes da Nvidia. Este acordo vem logo após a empresa assinar um contrato semelhante para acessar os recursos de computação da SpaceX. A Nebius é uma empresa que anteriormente era a filial internacional da gigante russa Yandex.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Compute",
+        "Nebius",
+        "Reflection"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 145
+    },
+    {
+      "titulo": "DeepSeek reportedly in talks to raise $1.5B, then IPO - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-14",
+      "resumo": "A DeepSeek está em negociações para levantar $1,5 bilhão, seguido de uma oferta pública inicial (IPO), de acordo com relatórios. No entanto, a empresa não pôde ser alcançada para comentários. A notícia não fornece informações adicionais sobre o processo de levantamento de capital ou a data prevista para a IPO.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Startups",
+        "IPO"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 59
+    },
+    {
+      "titulo": "Cybersecurity stocks rally on AI spending change comments from IBM's Krishna - CNBC",
+      "url": "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-ai-spending-mythos.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-14",
+      "resumo": "As ações de segurança cibernética experimentaram um aumento de cerca de 10% cada, após comentários de Arvind Krishna, CEO da IBM, sobre mudanças nos gastos em inteligência artificial. As ações de Okta, Netskope e CrowdStrike aumentaram cerca de 10%, enquanto as ações de SailPoint, Zscaler e SentinelOne aumentaram cerca de 8%. A ação da Palo Alto Networks aumentou cerca de 7%.",
+      "sentimento": "bullish",
+      "tags": [
+        "Cybersecurity",
+        "AI",
+        "Tech"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "Breakingviews - Apple’s China plea signals low-tech chip upheaval - Reuters",
+      "url": "https://www.reuters.com/commentary/breakingviews/apples-china-plea-signals-low-tech-chip-upheaval-2026-07-15/",
+      "fonte": "reuters.com",
+      "data": "2026-07-15",
+      "resumo": "A Apple está pressionando a China para resolver a crise de componentes de memória, que está afetando a indústria de consumo eletrônico e a indústria automobilística. A falta de investimento em fábricas de chips mais antigos está causando escassez e aumentos de preços, afetando empresas como a Xiaomi e a Apple. Isso é particularmente grave no setor de memória DRAM.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "China"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-15",
+      "resumo": "Um pesquisador da OpenAI, Miles Wang, está em negociações para lançar uma startup de descoberta de fármacos com IA, avaliada em $2 bilhões. A startup está em negociações para levantar $200 milhões e várias outras pesquisadoras da OpenAI estão esperadas para se juntar à empresa.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Biotech",
+        "Startup"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 54
+    },
+    {
+      "titulo": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion - Reuters",
+      "url": "https://www.reuters.com/business/meta-expands-louisiana-data-center-5-gigawatts-compute-capacity-2026-07-13/",
+      "fonte": "reuters.com",
+      "data": "2026-07-13",
+      "resumo": "A Meta está expandindo sua data center em Louisiana para 5 gigawatts, com investimentos que ultrapassam $50 bilhões. A empresa planeja investir mais de $1 bilhão em melhorias de infraestrutura local, incluindo estradas, sistemas de água e esgoto. A Meta está investindo bilhões de dólares em centros de dados e potência de computação para atender à demanda crescente de tecnologias de agentes de IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "Meta",
+        "Data Center",
+        "IA",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 75
+    },
     {
       "titulo": "Braiin Stock Jumps After Launch of AI-Native Real Estate Workforce Targeting $32B Market - Benzinga",
       "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60423888/braiin-stock-jumps-after-launch-of-ai-native-real-estate-workforce-targeting-32b-market",
@@ -1002,21 +1124,6 @@
       "tokens_usados": 80
     },
     {
-      "titulo": "Why Samsung's solid earnings are dragging down the US chip sector - Business Insider",
-      "url": "https://www.businessinsider.com/stock-market-today-chips-selloff-samsung-micron-intel-marvell-amd-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-07",
-      "resumo": "A queda das ações de Samsung está afetando negativamente o setor de chips nos EUA, fazendo com que os índices de mercado caíssem. A Nasdaq 100 caiu mais de 1%, enquanto a Dow Jones e o S&P 500 também perderam valor. A forte expectativa em relação às empresas de chips e tecnologia está levando a uma possível pressão de venda se essas empresas não atenderem às expectativas.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 110
-    },
-    {
       "titulo": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round - TechCrunch",
       "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
       "fonte": "techcrunch.com",
@@ -1060,22 +1167,6 @@
       ],
       "score_relevancia": 9.0,
       "tokens_usados": 66
-    },
-    {
-      "titulo": "Caterpillar acquires Skycatch to expand mining tech portfolio - Investing.com",
-      "url": "https://www.investing.com/news/company-news/caterpillar-acquires-skycatch-to-expand-mining-tech-portfolio-93CH-4779468",
-      "fonte": "investing.com",
-      "data": "2026-07-07",
-      "resumo": "A Caterpillar adquiriu a Skycatch, uma empresa de tecnologia de mineração, para expandir sua carteira de soluções de tecnologia de mineração baseadas em dados. A Skycatch desenvolveu tecnologia que utiliza capacidades de IA para capturar dados espaciais de alta frequência e precisão, gerando um modelo digital em tempo real de sites de mineração.",
-      "sentimento": "bullish",
-      "tags": [
-        "Caterpillar",
-        "Skycatch",
-        "Mineração",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 63
     },
     {
       "titulo": "Meta to Build First Data Center in Canada, Expanding Global Fleet - Bloomberg.com",
@@ -1139,21 +1230,6 @@
       "tokens_usados": 111
     },
     {
-      "titulo": "Why highflying chip stocks are suddenly losing their luster - MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-highflying-chip-stocks-are-suddenly-losing-their-luster-f0659145",
-      "fonte": "marketwatch.com",
-      "data": "2026-07-07",
-      "resumo": "As ações de semicondutores, que impulsionaram o comércio de inteligência artificial por grande parte do ano, estão enfrentando um obstáculo. O índice PHLX Semiconductor Index caiu 4,7% na terça-feira, abaixo da sua média móvel de 50 dias pela primeira vez desde abril. As ações do iShares Semiconductor ETF caíram 16% desde o seu pico histórico em junho.",
-      "sentimento": "bearish",
-      "tags": [
-        "Semicondutores",
-        "Inteligência Artificial",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 69
-    },
-    {
       "titulo": "Meta Overtakes Tesla In Market Value—Here's Why Both Stocks Are Still Tanking - Forbes",
       "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/08/meta-overtakes-tesla-in-market-value-heres-why-both-stocks-are-still-tanking/",
       "fonte": "forbes.com",
@@ -1168,21 +1244,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 113
-    },
-    {
-      "titulo": "Tech Weakness Resumes After Samsung Misses Lofty AI Expectations - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/tech-weakness-resumes-after-samsung-misses-lofty-ai-expectations",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-07",
-      "resumo": "A queda nas ações de tecnologia foi acentuada após a Samsung não atender às expectativas de investidores em relação a seus resultados de AI, levando a uma sinalização de fraqueza no setor de tecnologia.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 43
     },
     {
       "titulo": "'Never bet against America': Citadel Securities says AI will be a huge boost to US hustle culture - Business Insider",
@@ -1304,189 +1365,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 63
-    },
-    {
-      "titulo": "Envirotech Vehicles (NASDAQ: EVTV) closes merger with Azio AI ahead of schedule, positioning combined company to capture $487 Billion 2026 AI infrastructure opportunity - TechCrunch",
-      "url": "https://techcrunch.com/press-release/envirotech-vehicles-nasdaq-evtv-closes-merger-with-azio-ai-ahead-of-schedule-positioning-combined-company-to-capture-487-billion-2026-ai-infrastructure-opportunity/",
-      "fonte": "techcrunch.com",
-      "data": "2026-07-07",
-      "resumo": "A Envirotech Vehicles (NASDAQ: EVTV) concluiu a fusão com a Azio AI com antecedência, colocando a empresa combinada em posição para capturar a oportunidade de infraestrutura de IA de US$ 487 bilhões em 2026. A empresa planeja expandir sua plataforma de infraestrutura digital através do desenvolvimento de centros de dados de IA, soluções de computação de GPU para empresas, serviços de hospedagem de poder, operações de mineração de ativos digitais e investimentos estratégicos em infraestrutura. A empresa também planeja continuar a implementar infraestrutura digital modular em seu site no Texas do Sul.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Infraestrutura de TI",
-        "NVIDIA",
-        "Mercado de Ações (NASDAQ)"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 107
-    },
-    {
-      "titulo": "How AI Spending Is Changing Investment-Grade Corporate Bonds - Forbes",
-      "url": "https://www.forbes.com/sites/brandonkochkodin/2026/07/07/why-the-safe-part-of-your-portfolio-has-more-ai-risk-than-you-think/",
-      "fonte": "forbes.com",
-      "data": "2026-07-07",
-      "resumo": "A queda nos preços das ações de empresas de tecnologia, incluindo Samsung e Micron, levou a uma reavaliação da demanda por investimentos em inteligência artificial (IA). Embora a AI tenha sido responsável por mais da metade do crescimento econômico nos EUA no primeiro trimestre, alguns investidores estão se perguntando se as ações de investimento em títulos de dívida de empresas de grau de investimento podem oferecer a estabilidade esperada em tempos de volatilidade no mercado.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Finanças",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 84
-    },
-    {
-      "titulo": "AI memory, chip stocks fall despite Samsung's Q2 profit surge as worries around AI boom loom - Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4611886-ai-memory-chip-stocks-fall-despite-samsungs-q2-profit-surge-as-worries-around-ai-boom-loom",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-07",
-      "resumo": "Apesar de Samsung ter anunciado um aumento de 19 vezes no lucro operacional do 2º trimestre, ações de memória e relacionadas à IA caíram, devido a preocupações sobre a sustentabilidade do boom de IA e o potencial de redução no gasto com infraestrutura de dados para IA. Investidores estão preocupados com a demanda por IA, riscos de gastos mais lentos em infraestrutura de IA, concorrência crescente e risco de supercapacidade na indústria.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Samsung",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 119
-    },
-    {
-      "titulo": "Chip stocks sell off after Samsung earnings fall short of high AI bar - CNBC",
-      "url": "https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-07",
-      "resumo": "Ações de semicondutores caíram após os resultados de Samsung não atenderem às expectativas de investidores em inteligência artificial. Embora a empresa tenha superado as expectativas de lucro, a ação caiu 8%. A queda pode ser atribuída a uma recalibração de expectativas após o histórico aumento da demanda por memória ou investidores se preparando para a lista de ações da SK Hynix.",
-      "sentimento": "bearish",
-      "tags": [
-        "Semicondutores",
-        "Inteligência Artificial",
-        "Samsung"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 71
-    },
-    {
-      "titulo": "Why Is Micron Technology Stock Falling Tuesday? - Benzinga",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60298487/why-is-micron-technology-stock-falling-tuesday-2",
-      "fonte": "benzinga.com",
-      "data": "2026-07-07",
-      "resumo": "A ação da Micron Technology está caindo devido a uma combinação de fatores, incluindo o aumento dos custos de memória e a reação negativa dos investidores após o anúncio de resultados preliminares da Samsung Electronics. A empresa espera que os fabricantes de consoles de jogos e smartphones passem parte desses aumentos para os consumidores por meio de preços mais altos.",
-      "sentimento": "bearish",
-      "tags": [
-        "Micron Technology",
-        "Samsung Electronics",
-        "Tecnologia de Memória"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 73
-    },
-    {
-      "titulo": "Asia stocks fall as AI valuation fears overshadow Samsung’s blockbuster earnings - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-ai-valuation-fears-overshadow-samsungs-blockbuster-earnings-4778205",
-      "fonte": "investing.com",
-      "data": "2026-07-07",
-      "resumo": "A bolsa de valores da Ásia caiu devido a medos de valorização de investimentos em inteligência artificial, apesar de um lucro recorde da Samsung. A venda se espalhou pela cadeia de fornecimento de hardware de IA da Ásia, além dos fabricantes de memória-chip da Coreia do Sul. A Nvidia, principal parceira de montagem de servidores de IA, caiu 2,1% apesar de relatar receita mais forte do que esperado no mês de junho e no segundo trimestre.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Inteligência Artificial",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 86
-    },
-    {
-      "titulo": "The markets are broadening out, but the AI trade still can do well: UBS GWM - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/07/markets-are-broadening-out-but-the-ai-trade-still-can-do-well-ubs.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-07",
-      "resumo": "O analista James Cheo, da UBS Global Wealth Management, afirma que os investidores devem ter uma perspectiva mais ampla ao observar o mercado sul-coreano, que teve um aumento significativo anteriormente. Além disso, ele destaca que setores além da IA, como saúde, financeiros e industriais, estão começando a ganhar impulso.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Finance",
-        "Markets"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 58
-    },
-    {
-      "titulo": "Samsung's Record Profits Aren't Enough for Investors Anymore - Business Insider",
-      "url": "https://www.businessinsider.com/kospi-today-samsung-stock-price-earnings-report-hynix-ai-profits-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-07",
-      "resumo": "A Samsung e a Nvidia estão enfrentando uma reação fria dos investidores apesar de seus lucros recordes. A popularidade da indústria de chips de IA está levando a uma situação em que os lucros não impressionam mais, pois a perfeição já está incorporada nos preços das ações.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Semicondutores"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 56
-    },
-    {
-      "titulo": "Vercel's CEO said choosing one AI lab to partner with is a thing of the past - Business Insider",
-      "url": "https://www.businessinsider.com/vercel-ceo-guillermo-rauch-ai-lab-partner-outdated-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-07",
-      "resumo": "O CEO da Vercel, Guillermo Rauch, afirmou que as empresas não estão mais confiando em apenas um laboratório de IA para atender às suas necessidades. Em vez disso, elas estão optando por diferentes laboratórios para diferentes tarefas, devido à complexidade e às necessidades específicas de cada projeto. Rauch também mencionou a importância de modelagem de rotas, para evitar o uso de modelos caros para tarefas simples.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Negócios"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 75
-    },
-    {
-      "titulo": "This Chinese cloud name offers a new way to play the AI boom, Morgan Stanley says - CNBC",
-      "url": "https://www.cnbc.com/2026/07/07/this-cloud-name-offers-a-way-to-play-the-ai-boom-morgan-stanley-says-.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-07",
-      "resumo": "A Morgan Stanley acredita que a Kingsoft Cloud é uma opção atraente para investir na corrida da IA, devido à sua capacidade de manter preços elevados em meio a uma escassez global de chips e suas parcerias estratégicas com gigantes da IA. A empresa também tem uma forte liquidez financeira, o que deve ajudar a manter seu preço de ação elevado. A Morgan Stanley iniciou cobertura da empresa com uma recomendação de \"peso pesado\" e estabeleceu um alvo de preço de $15, sugerindo um aumento de 64% em relação ao fechamento de segunda-feira.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Cloud Computing",
-        "China",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 104
-    },
-    {
-      "titulo": "Mega-cap Tech earnings will reveal whether AI has staying power: Neuberger - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/07/neuberger-hyperscalers-earnings-will-be-scrutinized-for-signs-of-ai-trades-staying-power.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-07",
-      "resumo": "O analista financeiro Jeff Blazek da Neuberger afirma que a corrida por inteligência artificial (IA) está impulsionando as empresas a levantar grandes quantias de capital, mas a durabilidade do negócio dependerá da capacidade de converter investimentos em receita sustentável. Ele espera que os ganhos de produtividade liderados pela IA melhorem o cenário macro a longo prazo, mesmo que a transição cause deslocamento estrutural de empregos.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Tech",
-        "Earnings"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 74
-    },
-    {
-      "titulo": "BlackRock says the China AI play is stock-specific, not a regional trade - CNBC",
-      "url": "https://www.cnbc.com/2026/07/07/china-ai-play-is-stock-specific-not-a-regional-trade-blackrock.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-07",
-      "resumo": "A BlackRock acredita que a corrida pela inteligência artificial (IA) é mais um investimento em ações específicas do que uma tendência regional. Embora a China tenha implementado políticas para apoiar o desenvolvimento de IA, a competição e a economia em crescimento lento podem dificultar a geração de lucros. A empresa recomenda investir em ações expostas a inputs industriais escassos, como infraestrutura, e acredita que os vencedores da corrida pela IA serão principalmente ações dos EUA.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "China",
-        "Infraestrutura"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 84
     }
   ]
 }
