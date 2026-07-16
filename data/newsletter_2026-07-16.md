@@ -1,137 +1,124 @@
 # Newsletter IA Bolsa — 2026-07-16
 
-**Gerado em:** 16/07/2026 05:38
-**Total:** 10 noticias
+**Gerado em:** 16/07/2026 11:39
+**Total:** 9 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. What Is Driving The Divergence Between AI Analyst Targets And Reality - Forbes
-
-**Fonte:** forbes.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, Finance
-
-A divergência entre as previsões dos analistas de AI e a realidade está causando perdas significativas no mercado de ações de chips, com mais de $2.3 trilhões perdidos desde junho. Embora os analistas sejam otimistas, com previsões de crescimento de receita e valorização conservadora, os investidores estão preocupados com a demanda em pico, ameaças competitivas e declínio de CAPEX. Históricamente, essas divergências resultaram em declínios significativos ou períodos de recuperação prolongados.
-
-[Ler noticia completa](https://www.forbes.com/sites/karlfreund/2026/07/15/what-is-driving-the-divergence-between-ai-analyst-targets-and-reality/)
-
----
-
-## 2. Alibaba’s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, China, Apple
-
-As ações da Alibaba listadas nos EUA subiram 4% em preços de abertura após a confirmação de que seu modelo de IA Qwen será integrado aos sistemas da Apple na China. Isso ocorre após meses de intensa rivalidade tecnológica entre os EUA e a China na corrida pela liderança na área de IA. A integração permitirá que os usuários acessem as capacidades do modelo de Qwen, como compreensão e geração de texto e imagem, sem precisar mudar de ferramentas.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/15/alibaba-qwen-ai-apple-intelligence.html)
-
----
-
-## 3. Apple can cement its AI position by picking the winner to partner or acquire: CIO - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Apple, Tecnologia
-
-A Apple pode consolidar sua posição em inteligência artificial (IA) escolhendo o vencedor para parceiro ou aquisição, de acordo com o analista Dan Ives. O CEO da Arm, Rene Haas, afirma que o boom de IA está limitado pela oferta, com demanda robusta. O CEO do BlackRock, Larry Fink, é otimista sobre os mercados nos próximos 12 meses.
-
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/16/alex-guiliano.html)
-
----
-
-## 4. Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models - TechCrunch
-
-**Fonte:** techcrunch.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, TechCrunch, Startup
-
-A Anthropic e o fundo de investimento Blackstone estão investindo em uma joint venture chamada Ode, que visa implementar tecnologia de IA em empresas, em vez de apenas desenvolver modelos. A Ode foi fundada com base em uma startup de serviços de engenharia de IA chamada Fractional AI, que foi adquirida após uma parceria de 11 meses com a OpenAI.
-
-[Ler noticia completa](https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/)
-
----
-
-## 5. Cramer's lightning round: Buy Kratos Defense & Security Solutions - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** Defesa, Tecnologia, Ações
-
-Jim Cramer recomenda comprar ações da Kratos Defense & Security Solutions, considerando que as ações de defesa foram punidas o suficiente. Ele também expressou desapontamento com a Equipmentshare.Com e não a recomenda.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/14/cramers-lightning-round-buy-kratos-defense-security-solutions.html)
-
----
-
-## 6. SK Hynix shares plunge 9% as Asia sees tech rout, tracking U.S. chip losses - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** Semicondutores, Tecnologia, Mercados
-
-A SK Hynix experimentou uma queda de 9% após uma rotina de tecnologia na Ásia, seguindo perdas de chips nos EUA. Especialistas alertam que a alta valorização dos semicondutores pode não ser sustentável, apesar de um forte momentum de lucros. A demanda estrutural por infraestrutura de IA e chips de memória permanece intacta.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html)
-
----
-
-## 7. Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 6.0/10  
-**Tags:** Earnings, AI, Semiconductor
-
-A CNBC lista as principais histórias de ações para a próxima sessão de negociação, incluindo a divulgação de resultados financeiros de empresas como GE Aerospace, Abbott Labs, UnitedHealth, Taiwan Semiconductor e Netflix. Além disso, a previsão de reclamações de desemprego e a performance de ações como United Airlines também são destacadas.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/15/thursdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html)
-
----
-
-## 8. Tombigbee Fiber adopts Calix AI workforce platform - Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Telecomunicações
-
-A Tombigbee Fiber adotou a plataforma de força de trabalho de IA da Calix, permitindo uma maior eficiência e produtividade em suas operações. A plataforma de IA da Calix é projetada para ajudar as empresas a otimizar suas operações e melhorar a experiência do usuário.
-
-[Ler noticia completa](https://www.investing.com/news/company-news/tombigbee-fiber-adopts-calix-ai-workforce-platform-93CH-4794023)
-
----
-
-## 9. Eyeing valuation jump, investors prep bids for chip giant CXMT's $8.6 billion IPO - Reuters
+## 1. TSMC Q2 profit jumps 77% to record, far surpasses expectations - Reuters
 
 **Fonte:** reuters.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** Semicondutores, IPO, Tecnologia
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semiconductor, Taiwan
 
-O investidor CXMT está preparando um IPO de $8,6 bilhões, com valorização esperada. Investidores estão preparando ofertas para a oferta pública inicial da empresa de chips, que pode ser um sinal de confiança no setor de tecnologia.
+A TSMC, a maior fabricante de chips contratados do mundo, registrou um aumento de 77% no lucro líquido no segundo trimestre, superando as expectativas do mercado e alcançando um recorde. Isso se deve ao aumento da demanda global por processadores de inteligência artificial. A empresa, que fornece chips para clientes como Nvidia e Apple, alcançou um lucro líquido de T$706,6 bilhões (aproximadamente US$ 21,99 bilhões) no período de abril a junho.
 
-[Ler noticia completa](https://www.reuters.com/business/finance/eyeing-valuation-jump-investors-prep-bids-chip-giant-cxmts-86-billion-ipo-2026-07-15/)
+[Ler noticia completa](https://www.reuters.com/world/asia-pacific/tsmc-q2-profit-jumps-77-record-far-surpasses-expectations-2026-07-16/)
 
 ---
 
-## 10. China approves Apple Intelligence, creating a new catalyst for device sales - CNBC
+## 2. TSMC posts 77% profit jump for Q2, surging past market expectations - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semiconductor, Taiwan
+
+A TSMC (Taiwan Semiconductor Manufacturing Co) registrou um aumento de 77% no lucro do segundo trimestre, superando as expectativas do mercado. A demanda por chips avançados para aplicações de inteligência artificial permanece forte, levando a uma expansão significativa da empresa. A TSMC é agora a empresa mais valiosa da Ásia, com um capitalização de mercado de cerca de $1,97 trilhão.
+
+[Ler noticia completa](https://www.reuters.com/world/asia-pacific/tsmcs-second-quarter-profit-seen-hitting-record-ai-boom-2026-07-15/)
+
+---
+
+## 3. TSMC second-quarter profit jumps 23%, beating estimates, on high-end chip boom - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** Apple, IA, Tecnologia
+**Tags:** TSMC, Semiconductor, Taiwan
 
-A China aprovou a utilização da Inteligência Artificial (IA) da Apple, criando um novo catalisador para as vendas de dispositivos da empresa. Esta aprovação pode ajudar a estender a recente recuperação nas vendas da Apple. A empresa pode agora explorar parcerias locais para aproveitar ao máximo a oportunidade.
+A Taiwan Semiconductor Manufacturing Co (TSMC) anunciou um aumento de 77,4% no lucro do segundo trimestre em relação ao mesmo período do ano anterior, superando as estimativas. A empresa, que é a maior fabricante de chips por contrato do mundo, registrou um lucro recorde por quinto trimestre consecutivo e uma receita de NT$1,27 trilhão, um aumento de 36% em relação ao mesmo período do ano anterior.
 
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/16/china-approves-apple-intelligence-creating-a-new-catalyst-for-device-sales.html)
+[Ler noticia completa](https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html)
+
+---
+
+## 4. Europe Inc heads into strongest earnings season in years, but AI gap persists - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** IA, Finanças, Earnings
+
+A temporada de resultados financeiros da Europa está prestes a ser a mais forte em anos, mas a lacuna em inteligência artificial (IA) persiste. As empresas norte-americanas estão previstas para registrar um crescimento de 23,7% nos lucros em média, enquanto as empresas europeias, excluindo a energia, estão previstas para registrar um aumento de 6% nos lucros. Embora a lacuna possa se estreitar ao longo do tempo, a IA continua a ser um fator importante para as empresas americanas.
+
+[Ler noticia completa](https://www.reuters.com/business/finance/europe-inc-heads-into-strongest-earnings-season-years-ai-gap-persists-2026-07-16/)
+
+---
+
+## 5. Michael Burry shares the earnings reports he's watching to see if IBM's disastrous quarter is an industrywide problem - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** Wall Street, Stocks, AI, Tech stocks
+
+Michael Burry, conhecido investidor, está monitorando os relatórios de ganhos de várias empresas, incluindo SAP, Microsoft, Wipro, Infosys, Cognizant e Capgemini, para ver se a péssima performance da IBM é um problema de toda a indústria. Burry acredita que a IBM não conseguiu se adaptar rapidamente ao mercado de inteligência artificial e está esperando para ver se outros companheiros de indústria também enfrentam problemas semelhantes.
+
+[Ler noticia completa](https://www.businessinsider.com/michael-burry-ibm-stock-down-ai-software-stocks-msft-wipro-2026-7)
+
+---
+
+## 6. China's DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO, sources say - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, China, IPO
+
+A empresa de inteligência artificial (IA) chinesa DeepSeek está planejando levantar capital adicional a um valor de 74 bilhões de dólares, com o objetivo de financiar seus planos de expansão e desenvolvimento de tecnologia. A empresa está procurando arrecadar até 50 bilhões de iuanes em uma nova rodada de financiamento e está em discussões para realizar uma oferta pública inicial (IPO) na bolsa de valores de Shanghai. Isso sugere que a empresa está enfrentando desafios financeiros para manter sua liderança no setor de IA.
+
+[Ler noticia completa](https://www.reuters.com/legal/transactional/chinas-deepseek-raise-fresh-capital-74-billion-valuation-ahead-onshore-ipo-2026-07-15/)
+
+---
+
+## 7. Hitting it big betting on startups in the AI era will be a lot harder, but Silicon Valley might not feel the worst of it - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Startups, Investimentos
+
+A era da IA tornou mais difícil investir em startups, mas a região da Baía de São Francisco pode não ser a mais afetada. A valoração de empresas de IA aumentou drasticamente, tornando difícil prever o sucesso de uma empresa. No entanto, a facilidade de criar startups e a entrada de novos investidores podem compensar a dificuldade de investir.
+
+[Ler noticia completa](https://www.businessinsider.com/why-the-next-anthropic-will-be-harder-to-find-2026-7)
+
+---
+
+## 8. TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77% - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** TSMC, Inteligência Artificial, Semicondutores, Tecnologia
+
+A TSMC anunciou que investirá mais US$ 100 bilhões em Arizona após um lucro de 77% no segundo trimestre. Isso ocorre em um momento em que a demanda por tecnologia de computador e inteligência artificial está crescendo rapidamente. A empresa está expandindo sua capacidade de produção para atender à demanda crescente.
+
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/16/tsmc-to-invest-additional-100-billion-in-arizona-after-second-quarter-profit-soars-77-percent.html)
+
+---
+
+## 9. Applied Computing wants to give oil and gas operators an AI model for the entire plant - TechCrunch
+
+**Fonte:** techcrunch.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 8.0/10  
+**Tags:** AI, Energia, Startups, Petroquímica
+
+A Applied Computing está expandindo sua presença internacional com a abertura de uma nova sede em Houston, nos EUA, além de investimentos em pesquisas e engenharia. A empresa também planeja explorar parcerias com clientes da indústria de energia. Com o apoio da KBR, a empresa tem acesso a dados operacionais e expertise da indústria, além de introduções a novos clientes.
+
+[Ler noticia completa](https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/)
 
 ---
