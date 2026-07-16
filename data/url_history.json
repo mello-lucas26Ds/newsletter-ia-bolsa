@@ -1,52 +1,4 @@
 {
-  "https://techcrunch.com/press-release/envirotech-vehicles-nasdaq-evtv-closes-merger-with-azio-ai-ahead-of-schedule-positioning-combined-company-to-capture-487-billion-2026-ai-infrastructure-opportunity/": {
-    "hash": "d103f2fb09d1679e368f73236e8018fe",
-    "visto_em": "2026-07-08"
-  },
-  "https://www.forbes.com/sites/brandonkochkodin/2026/07/07/why-the-safe-part-of-your-portfolio-has-more-ai-risk-than-you-think/": {
-    "hash": "9a31dafe7b9d85ee5d76850c2c07ef48",
-    "visto_em": "2026-07-08"
-  },
-  "https://seekingalpha.com/news/4611886-ai-memory-chip-stocks-fall-despite-samsungs-q2-profit-surge-as-worries-around-ai-boom-loom": {
-    "hash": "92eeadebde947c60279a5bdf82f32209",
-    "visto_em": "2026-07-08"
-  },
-  "https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html": {
-    "hash": "5cb48f7f701b8a54caa53f1c652b5cd1",
-    "visto_em": "2026-07-08"
-  },
-  "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60298487/why-is-micron-technology-stock-falling-tuesday-2": {
-    "hash": "39c843d59c0a3b646956c87c5151ff2f",
-    "visto_em": "2026-07-08"
-  },
-  "https://www.businessinsider.com/where-to-invest-10000-right-now-ai-trade-iran-warsh-2026-7": {
-    "hash": "4a66abb1daf587f35191099d1b096ceb",
-    "visto_em": "2026-07-08"
-  },
-  "https://www.cnbc.com/2026/01/15/chip-stocks-nvidia-amd-pop-after-tsmcs-earnings-beat-lifts-confidence.html": {
-    "hash": "141194681a30ac2fae789f671e398458",
-    "visto_em": "2026-07-08"
-  },
-  "https://www.cnbc.com/2024/10/17/tsmc-q3-earnings-profit-beats-expectations-as-ai-boom-drives-54percent-hike-.html": {
-    "hash": "dadc5c1e5d828cc7938b68da0ca63714",
-    "visto_em": "2026-07-08"
-  },
-  "https://www.investing.com/analysis/tsmc-earnings-reset-the-ai-narrative-after-rotation-fears-hit-tech-stocks-200673316": {
-    "hash": "b4ada132c97f53606f870c2e1a0a8be6",
-    "visto_em": "2026-07-08"
-  },
-  "https://www.investing.com/equities/taiwan-semicond.manufacturing-co": {
-    "hash": "549852383285a6c37964b3d060b86456",
-    "visto_em": "2026-07-08"
-  },
-  "https://seekingalpha.com/symbol/TSM": {
-    "hash": "d900a1e24a3d26f9db4a9597cbe37de4",
-    "visto_em": "2026-07-08"
-  },
-  "https://www.cnbc.com/2026/07/08/singapores-temasek-eyes-ai-private-credit-with-portfolio-at-record.html": {
-    "hash": "7fb81d28cc1b943be03a2fd673d70190",
-    "visto_em": "2026-07-08"
-  },
   "https://seekingalpha.com/news/4612207-ai-chip-stocks-fall-after-us-iran-conflict-escalates": {
     "hash": "9a6a07197db30225154271ea9c4fe7d3",
     "visto_em": "2026-07-09"
@@ -438,5 +390,45 @@
   "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html": {
     "hash": "2468aa649fbcfa6a0fa072fb126cff56",
     "visto_em": "2026-07-15"
+  },
+  "https://www.forbes.com/sites/karlfreund/2026/07/15/what-is-driving-the-divergence-between-ai-analyst-targets-and-reality/": {
+    "hash": "583fa1ece27e18d8a467e6d656028a49",
+    "visto_em": "2026-07-16"
+  },
+  "https://www.cnbc.com/2026/07/15/alibaba-qwen-ai-apple-intelligence.html": {
+    "hash": "3dee6ba7eecbfa14faced94a567ec4d4",
+    "visto_em": "2026-07-16"
+  },
+  "https://www.cnbc.com/video/2026/07/16/alex-guiliano.html": {
+    "hash": "413e4ec06a2cc0ba83f9da60dc91e044",
+    "visto_em": "2026-07-16"
+  },
+  "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/": {
+    "hash": "6486155edae06bf659ff42933e4a17cf",
+    "visto_em": "2026-07-16"
+  },
+  "https://www.cnbc.com/2026/07/14/cramers-lightning-round-buy-kratos-defense-security-solutions.html": {
+    "hash": "b84c3fd01b7fba8a19dce04a7723c324",
+    "visto_em": "2026-07-16"
+  },
+  "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html": {
+    "hash": "ef86ef5a8c12dfc31e4d578b3c3c1e18",
+    "visto_em": "2026-07-16"
+  },
+  "https://www.cnbc.com/2026/07/15/thursdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html": {
+    "hash": "8fc4766742a848a8965cdc2abd4c16c2",
+    "visto_em": "2026-07-16"
+  },
+  "https://www.investing.com/news/company-news/tombigbee-fiber-adopts-calix-ai-workforce-platform-93CH-4794023": {
+    "hash": "60d0ea156aa5b67f645324784ca65bc3",
+    "visto_em": "2026-07-16"
+  },
+  "https://www.reuters.com/business/finance/eyeing-valuation-jump-investors-prep-bids-chip-giant-cxmts-86-billion-ipo-2026-07-15/": {
+    "hash": "f273c755a68c45c3abf20b323a5c8c1e",
+    "visto_em": "2026-07-16"
+  },
+  "https://www.cnbc.com/video/2026/07/16/china-approves-apple-intelligence-creating-a-new-catalyst-for-device-sales.html": {
+    "hash": "59b63169a72f3d1045596d37749c4418",
+    "visto_em": "2026-07-16"
   }
 }
