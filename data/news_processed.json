@@ -2,10 +2,25 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-17",
-    "total_noticias": 91,
-    "gerado_em": "2026-07-17T05:39:48.577878"
+    "total_noticias": 92,
+    "gerado_em": "2026-07-17T11:21:11.426820"
   },
   "noticias": [
+    {
+      "titulo": "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models - CNBC",
+      "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-16",
+      "resumo": "A Fireworks, uma empresa apoiada pela Nvidia, alcançou uma valorização de $17,5 bilhões, demonstrando que empresas estão procurando modelos de IA mais baratos e eficientes. A empresa opera no mercado de nuvem de inferência e está formando alianças para oferecer GPUs para treinar modelos de IA. Isso sugere que as empresas não estão satisfeitas com os modelos de IA produzidos pelas principais empresas de tecnologia.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Nvidia",
+        "CloudComputing"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
     {
       "titulo": "Brookfield-backed Csquare valued at $3.24 billion in NYSE debut - Reuters",
       "url": "https://www.reuters.com/business/brookfield-backed-csquare-valued-324-billion-shares-fall-nyse-debut-2026-07-16/",
