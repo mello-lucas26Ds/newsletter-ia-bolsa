@@ -1,111 +1,98 @@
 # Newsletter IA Bolsa — 2026-07-18
 
-**Gerado em:** 18/07/2026 05:22
-**Total:** 8 noticias
+**Gerado em:** 18/07/2026 11:03
+**Total:** 7 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up - Reuters
+## 1. Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race - MarketWatch
 
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semicondutores, NASDAQ, Earnings
-
-A temporada de resultados trimestrais dos EUA está em andamento, com a Alphabet e a Intel sendo as principais atrações para o mercado de IA. A expectativa é que as empresas apresentem lucros fortes, o que pode influenciar o mercado. A S&P 500 está projetada para aumentar 25,7% no período, de acordo com dados da LSEG IBES.
-
-[Ler noticia completa](https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/)
-
----
-
-## 2. Wall St futures fall as chip selloff gathers pace; Netflix tumbles - Reuters
-
-**Fonte:** reuters.com  
+**Fonte:** marketwatch.com  
 **Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
+**Relevancia:** 6.0/10  
+**Tags:** AI, Tecnologia, Mercado de Ações
 
-As futuras da Wall St caíram após um selloff em ações de chips se aprofundar, forçando investidores a reavaliar a sustentabilidade da corrida de investimentos em IA este ano. A Netflix também contribuiu para a pressão após prever receita e lucro abaixo das expectativas de Wall Street. A TSMC e a ASML, líderes em fabricação de chips avançados, apresentaram resultados sólidos, mas não conseguiram aliviar as preocupações.
+A ação da Alphabet caiu após a Gemini adiar seu lançamento, sugerindo que a Google está tendo dificuldades para manter o ritmo na corrida de inteligência artificial. Isso ocorre enquanto várias concorrentes lançam seus últimos modelos de IA. A frustração entre os engenheiros e pesquisadores da Google é palpável, e investidores estão questionando a durabilidade de um modelo de negócios que depende de modelos de IA que mudam a cada alguns meses.
 
-[Ler noticia completa](https://www.reuters.com/business/wall-st-futures-fall-chip-selloff-gathers-pace-netflix-tumbles-2026-07-17/)
+[Ler noticia completa](https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205)
 
 ---
 
-## 3. Morning Call Sheet: Earnings, AI and rates keep markets on edge - CNBC
+## 2. Ibovespa hoje fecha estável com Petrobras e petróleo em ...
 
-**Fonte:** cnbc.com  
+**Fonte:** infomoney.com.br  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 6.0/10  
-**Tags:** [Earnings, AI, Inflation, Taxas de Juros]
+**Tags:** IA, Tecnologia, China
 
-A CNBC apresenta uma discussão sobre resultados financeiros, inteligência artificial, inflação, taxas de juros e volatilidade de mercado. Participam Joyce Chang, Chair de Pesquisa Global da JPMorgan, Barbara Doran, CIO da BD8 Capital Partners, e Matt Maley, Estrategista de Mercado da Miller Tabak. Além disso, são apresentados vídeos sobre Palantir, OpenAI, Kalshi e Standard Nuclear.
+O presidente da China, Xi Jinping, apresentou a China como a defensora de uma nova ordem global em inteligência artificial, promovendo a tecnologia de código aberto e desafiando a influência dos EUA. Isso ocorreu durante a Conferência Mundial de Inteligência Artificial em Xangai. A declaração de Xi representou a articulação mais clara de sua visão para o setor de IA.
 
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/17/morning-call-sheet-earnings-ai-and-rates-keep-markets-on-edge.html)
+[Ler noticia completa](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17072026)
 
 ---
 
-## 4. The next DeepSeek? A surprise AI breakthrough in China is rattling US chip stocks - Business Insider
+## 3. Trump diz que EUA deveriam controlar Estreito de Ormuz e ser pago por isso
 
-**Fonte:** businessinsider.com  
-**Sentimento:** 🔴 BEARISH  
+**Fonte:** br.investing.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semicondutores, NASDAQ
+**Tags:** geopolítica, política internacional, estratégia militar
 
-A startup chinesa Moonshot desenvolveu um modelo de IA chamado Kimi K3, que rivaliza com os modelos de IA mais avançados da OpenAI e Anthropic, sem utilizar tantos chips de IA avançados. Isso está causando ansiedade entre os investidores de IA nos EUA, que estão preocupados com o aumento do orçamento de capital global da TSMC e a possibilidade de uma retomada do investimento em IA.
+O ex-presidente dos EUA, Donald Trump, fez um anúncio conturbado, sugerindo que os EUA deveriam controlar o Estreito de Ormuz e ser pago por isso. Esse anúncio pode ter implicações geopolíticas significativas e pode afetar a estabilidade global.
 
-[Ler noticia completa](https://www.businessinsider.com/stock-market-today-chip-selloff-kimi-moonshot-ai-rotation-soxx-2026-7)
-
----
-
-## 5. Chipmakers and other high-flying stocks slide as AI trade wobbles - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
-
-As ações de empresas de chips e outras ações em alta caíram após a negociação de IA vacilar. O índice de chips subiu cerca de 60% no ano até o início da negociação na sexta-feira. A Nvidia, AMD e Applied Materials caíram 3,4%, 4,9% e 6,5%, respectivamente. A SpaceX caiu 4,5% após o aborto de um teste de voo do Starship.
-
-[Ler noticia completa](https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/)
+[Ler noticia completa](https://br.investing.com/news/commodities-news/trump-diz-que-eua-controlarao-estreito-de-ormuz-e-serao-pagos-por-isso-1999813)
 
 ---
 
-## 6. South Korea's stock boom comes with one big risk investors shouldn't ignore - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Finanças, Coreia do Sul
-
-A bolsa de ações da Coreia do Sul está experimentando um boom, mas há um grande risco que os investidores devem considerar. A vulnerabilidade do mercado pode estar relacionada à estrutura de propriedade, com investidores de retalho comprando agressivamente enquanto investidores estrangeiros vendem. Isso pode levar a uma volatilidade exacerbada e a um aceleramento de qualquer venda.
-
-[Ler noticia completa](https://www.businessinsider.com/kospi-stock-index-sk-hynix-samsung-share-price-retail-investors-2026-7)
-
----
-
-## 7. Why Google partnered with former Twitter CEO Parag Agrawal's $2 billion AI search startup - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Google, Startup
-
-A Google se associou com a startup de busca de IA de $2 bilhões liderada pelo ex-CEO da Twitter, Parag Agrawal. A parceria visa melhorar a tecnologia de busca da Google. A startup de Agrawal é uma das principais concorrentes da Google no mercado de busca de IA.
-
-[Ler noticia completa](https://www.businessinsider.com/parag-agrawal-parallel-partners-with-google-cloud-ai-tools-2026-7)
-
----
-
-## 8. VistaShares' Jon McNeill on the company's AI supercycle ETF - CNBC
+## 4. Google’s Gemini delay adds to concerns it is falling behind in AI - CNBC
 
 **Fonte:** cnbc.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Google, Alphabet
+
+A Google está enfrentando preocupações de que está caindo atrás em inteligência artificial (IA) devido ao atraso do projeto Gemini e pressões de concorrentes como OpenAI, Anthropic e Meta. Isso ocorre antes do anúncio de resultados financeiros da Alphabet. A empresa está enfrentando dificuldades internas e atrasos em seu desenvolvimento de IA.
+
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/17/googles-gemini-delay-adds-to-concerns-it-is-falling-behind-in-ai.html)
+
+---
+
+## 5. TSMC cautious about long-term growth: Morningstar - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** TSMC, Semicondutores, Tecnologia
+
+A TSMC, considerada a empresa mais valiosa da Ásia, está mostrando cautela em relação ao crescimento a longo prazo, de acordo com a Morningstar. Isso se deve à incerteza prevalecente no setor de semicondutores, apesar de um relatório de lucros impressionante da empresa.
+
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/17/tsmc-cautious-about-long-term-growth-morningstar.html)
+
+---
+
+## 6. AI Storage & Memory From Backblaze, CoreWeave, Panmnesia, Vast And Cloudera - Forbes
+
+**Fonte:** forbes.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 8.0/10  
-**Tags:** IA, ETF, Tecnologia
+**Tags:** AI, Storage, Memória, Tecnologia
 
-O fundador da VistaShares, Jon McNeill, discute os detalhes do ETF de superciclo de IA da empresa, a lançamento de um novo espaço, robótica e defesa ETF, e mais, no programa "Squawk Box".
+Quatro empresas de tecnologia, Backblaze, CoreWeave, Panmnesia e Cloudera, estão trabalhando em soluções de armazenamento e memória para aplicações de inteligência artificial (IA). A Backblaze obteve um acordo de $335 milhões para fornecer armazenamento de disco rígido de baixo custo para a infraestrutura de IA da CoreWeave, enquanto a Panmnesia desenvolveu um controlador e chips de switch CXL para expansão de memória com baixa latência. Além disso, a Cloudera e a Vast Data anunciaram uma parceria para oferecer uma plataforma de dados para IA em qualquer lugar, combinando os serviços de dados containerizados da Cloudera com o sistema operacional de IA da Vast.
 
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/17/vistashares-jon-mcneill-on-the-companys-ai-supercycle-etf.html)
+[Ler noticia completa](https://www.forbes.com/sites/tomcoughlin/2026/07/18/ai-storage--memory-from-backblaze-coreweave-panmnesia-vast-and-cloudera/)
+
+---
+
+## 7. Bitcoin falls 3%, dips to $62k as U.S.-Iran tensions slam risk sentiment
+
+**Fonte:** za.investing.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 4.0/10  
+**Tags:** Bitcoin, Mercado de Ações, Risco
+
+O preço do Bitcoin caiu 3% e atingiu US$ 62k devido às tensões entre os EUA e Irã, afetando o sentimento de risco.
+
+[Ler noticia completa](https://za.investing.com/news/cryptocurrency-news/bitcoin-falls-to-628k-as-usiran-tensions-batter-risk-4365293)
 
 ---
