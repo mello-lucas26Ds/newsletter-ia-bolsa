@@ -1,0 +1,111 @@
+# Newsletter IA Bolsa — 2026-07-18
+
+**Gerado em:** 18/07/2026 05:22
+**Total:** 8 noticias
+**Fonte dos dados:** Tavily API + Groq AI
+
+---
+
+## 1. Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semicondutores, NASDAQ, Earnings
+
+A temporada de resultados trimestrais dos EUA está em andamento, com a Alphabet e a Intel sendo as principais atrações para o mercado de IA. A expectativa é que as empresas apresentem lucros fortes, o que pode influenciar o mercado. A S&P 500 está projetada para aumentar 25,7% no período, de acordo com dados da LSEG IBES.
+
+[Ler noticia completa](https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/)
+
+---
+
+## 2. Wall St futures fall as chip selloff gathers pace; Netflix tumbles - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semiconductor, NASDAQ
+
+As futuras da Wall St caíram após um selloff em ações de chips se aprofundar, forçando investidores a reavaliar a sustentabilidade da corrida de investimentos em IA este ano. A Netflix também contribuiu para a pressão após prever receita e lucro abaixo das expectativas de Wall Street. A TSMC e a ASML, líderes em fabricação de chips avançados, apresentaram resultados sólidos, mas não conseguiram aliviar as preocupações.
+
+[Ler noticia completa](https://www.reuters.com/business/wall-st-futures-fall-chip-selloff-gathers-pace-netflix-tumbles-2026-07-17/)
+
+---
+
+## 3. Morning Call Sheet: Earnings, AI and rates keep markets on edge - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** [Earnings, AI, Inflation, Taxas de Juros]
+
+A CNBC apresenta uma discussão sobre resultados financeiros, inteligência artificial, inflação, taxas de juros e volatilidade de mercado. Participam Joyce Chang, Chair de Pesquisa Global da JPMorgan, Barbara Doran, CIO da BD8 Capital Partners, e Matt Maley, Estrategista de Mercado da Miller Tabak. Além disso, são apresentados vídeos sobre Palantir, OpenAI, Kalshi e Standard Nuclear.
+
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/17/morning-call-sheet-earnings-ai-and-rates-keep-markets-on-edge.html)
+
+---
+
+## 4. The next DeepSeek? A surprise AI breakthrough in China is rattling US chip stocks - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semicondutores, NASDAQ
+
+A startup chinesa Moonshot desenvolveu um modelo de IA chamado Kimi K3, que rivaliza com os modelos de IA mais avançados da OpenAI e Anthropic, sem utilizar tantos chips de IA avançados. Isso está causando ansiedade entre os investidores de IA nos EUA, que estão preocupados com o aumento do orçamento de capital global da TSMC e a possibilidade de uma retomada do investimento em IA.
+
+[Ler noticia completa](https://www.businessinsider.com/stock-market-today-chip-selloff-kimi-moonshot-ai-rotation-soxx-2026-7)
+
+---
+
+## 5. Chipmakers and other high-flying stocks slide as AI trade wobbles - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Semiconductor, NASDAQ
+
+As ações de empresas de chips e outras ações em alta caíram após a negociação de IA vacilar. O índice de chips subiu cerca de 60% no ano até o início da negociação na sexta-feira. A Nvidia, AMD e Applied Materials caíram 3,4%, 4,9% e 6,5%, respectivamente. A SpaceX caiu 4,5% após o aborto de um teste de voo do Starship.
+
+[Ler noticia completa](https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/)
+
+---
+
+## 6. South Korea's stock boom comes with one big risk investors shouldn't ignore - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Finanças, Coreia do Sul
+
+A bolsa de ações da Coreia do Sul está experimentando um boom, mas há um grande risco que os investidores devem considerar. A vulnerabilidade do mercado pode estar relacionada à estrutura de propriedade, com investidores de retalho comprando agressivamente enquanto investidores estrangeiros vendem. Isso pode levar a uma volatilidade exacerbada e a um aceleramento de qualquer venda.
+
+[Ler noticia completa](https://www.businessinsider.com/kospi-stock-index-sk-hynix-samsung-share-price-retail-investors-2026-7)
+
+---
+
+## 7. Why Google partnered with former Twitter CEO Parag Agrawal's $2 billion AI search startup - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 8.0/10  
+**Tags:** AI, Google, Startup
+
+A Google se associou com a startup de busca de IA de $2 bilhões liderada pelo ex-CEO da Twitter, Parag Agrawal. A parceria visa melhorar a tecnologia de busca da Google. A startup de Agrawal é uma das principais concorrentes da Google no mercado de busca de IA.
+
+[Ler noticia completa](https://www.businessinsider.com/parag-agrawal-parallel-partners-with-google-cloud-ai-tools-2026-7)
+
+---
+
+## 8. VistaShares' Jon McNeill on the company's AI supercycle ETF - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 8.0/10  
+**Tags:** IA, ETF, Tecnologia
+
+O fundador da VistaShares, Jon McNeill, discute os detalhes do ETF de superciclo de IA da empresa, a lançamento de um novo espaço, robótica e defesa ETF, e mais, no programa "Squawk Box".
+
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/17/vistashares-jon-mcneill-on-the-companys-ai-supercycle-etf.html)
+
+---

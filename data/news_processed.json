@@ -1,11 +1,133 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-17",
-    "total_noticias": 92,
-    "gerado_em": "2026-07-17T11:21:11.426820"
+    "data": "2026-07-18",
+    "total_noticias": 84,
+    "gerado_em": "2026-07-18T05:22:50.784219"
   },
   "noticias": [
+    {
+      "titulo": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up - Reuters",
+      "url": "https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/",
+      "fonte": "reuters.com",
+      "data": "2026-07-17",
+      "resumo": "A temporada de resultados trimestrais dos EUA está em andamento, com a Alphabet e a Intel sendo as principais atrações para o mercado de IA. A expectativa é que as empresas apresentem lucros fortes, o que pode influenciar o mercado. A S&P 500 está projetada para aumentar 25,7% no período, de acordo com dados da LSEG IBES.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "NASDAQ",
+        "Earnings"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "Wall St futures fall as chip selloff gathers pace; Netflix tumbles - Reuters",
+      "url": "https://www.reuters.com/business/wall-st-futures-fall-chip-selloff-gathers-pace-netflix-tumbles-2026-07-17/",
+      "fonte": "reuters.com",
+      "data": "2026-07-17",
+      "resumo": "As futuras da Wall St caíram após um selloff em ações de chips se aprofundar, forçando investidores a reavaliar a sustentabilidade da corrida de investimentos em IA este ano. A Netflix também contribuiu para a pressão após prever receita e lucro abaixo das expectativas de Wall Street. A TSMC e a ASML, líderes em fabricação de chips avançados, apresentaram resultados sólidos, mas não conseguiram aliviar as preocupações.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "Morning Call Sheet: Earnings, AI and rates keep markets on edge - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/17/morning-call-sheet-earnings-ai-and-rates-keep-markets-on-edge.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-17",
+      "resumo": "A CNBC apresenta uma discussão sobre resultados financeiros, inteligência artificial, inflação, taxas de juros e volatilidade de mercado. Participam Joyce Chang, Chair de Pesquisa Global da JPMorgan, Barbara Doran, CIO da BD8 Capital Partners, e Matt Maley, Estrategista de Mercado da Miller Tabak. Além disso, são apresentados vídeos sobre Palantir, OpenAI, Kalshi e Standard Nuclear.",
+      "sentimento": "neutral",
+      "tags": [
+        "[Earnings",
+        "AI",
+        "Inflation",
+        "Taxas de Juros]"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "The next DeepSeek? A surprise AI breakthrough in China is rattling US chip stocks - Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-today-chip-selloff-kimi-moonshot-ai-rotation-soxx-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-17",
+      "resumo": "A startup chinesa Moonshot desenvolveu um modelo de IA chamado Kimi K3, que rivaliza com os modelos de IA mais avançados da OpenAI e Anthropic, sem utilizar tantos chips de IA avançados. Isso está causando ansiedade entre os investidores de IA nos EUA, que estão preocupados com o aumento do orçamento de capital global da TSMC e a possibilidade de uma retomada do investimento em IA.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 75
+    },
+    {
+      "titulo": "Chipmakers and other high-flying stocks slide as AI trade wobbles - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/",
+      "fonte": "reuters.com",
+      "data": "2026-07-17",
+      "resumo": "As ações de empresas de chips e outras ações em alta caíram após a negociação de IA vacilar. O índice de chips subiu cerca de 60% no ano até o início da negociação na sexta-feira. A Nvidia, AMD e Applied Materials caíram 3,4%, 4,9% e 6,5%, respectivamente. A SpaceX caiu 4,5% após o aborto de um teste de voo do Starship.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "South Korea's stock boom comes with one big risk investors shouldn't ignore - Business Insider",
+      "url": "https://www.businessinsider.com/kospi-stock-index-sk-hynix-samsung-share-price-retail-investors-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-16",
+      "resumo": "A bolsa de ações da Coreia do Sul está experimentando um boom, mas há um grande risco que os investidores devem considerar. A vulnerabilidade do mercado pode estar relacionada à estrutura de propriedade, com investidores de retalho comprando agressivamente enquanto investidores estrangeiros vendem. Isso pode levar a uma volatilidade exacerbada e a um aceleramento de qualquer venda.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Finanças",
+        "Coreia do Sul"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "Why Google partnered with former Twitter CEO Parag Agrawal's $2 billion AI search startup - Business Insider",
+      "url": "https://www.businessinsider.com/parag-agrawal-parallel-partners-with-google-cloud-ai-tools-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-16",
+      "resumo": "A Google se associou com a startup de busca de IA de $2 bilhões liderada pelo ex-CEO da Twitter, Parag Agrawal. A parceria visa melhorar a tecnologia de busca da Google. A startup de Agrawal é uma das principais concorrentes da Google no mercado de busca de IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Google",
+        "Startup"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 57
+    },
+    {
+      "titulo": "VistaShares' Jon McNeill on the company's AI supercycle ETF - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/17/vistashares-jon-mcneill-on-the-companys-ai-supercycle-etf.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-17",
+      "resumo": "O fundador da VistaShares, Jon McNeill, discute os detalhes do ETF de superciclo de IA da empresa, a lançamento de um novo espaço, robótica e defesa ETF, e mais, no programa \"Squawk Box\".",
+      "sentimento": "bullish",
+      "tags": [
+        "IA",
+        "ETF",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 42
+    },
     {
       "titulo": "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models - CNBC",
       "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
@@ -883,38 +1005,6 @@
       "tokens_usados": 65
     },
     {
-      "titulo": "Tencent leads deal to unwind Meta’s $2bn Manus acquisition",
-      "url": "https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480?syn-25a6b1a6=1",
-      "fonte": "ft.com",
-      "data": "2026-07-10",
-      "resumo": "A Tencent lidera uma operação para desfazer a aquisição de $2 bilhões da Manus pela Meta, após uma ordem do governo chinês para rever a aquisição. A Tencent se tornará a maior acionista da start-up de agente de IA após a reversão da aquisição.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "China",
-        "Tencent",
-        "Meta"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 54
-    },
-    {
-      "titulo": "Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return",
-      "url": "https://www.ft.com/content/a66c1d90-682b-480a-8fc3-fb7b7e2f1873?syn-25a6b1a6=1",
-      "fonte": "ft.com",
-      "data": "2026-07-10",
-      "resumo": "A Carlyle está vendendo sua unidade de energia para centros de dados, que vale $2,6 bilhões, para a EQT, obtendo um retorno de cinco vezes o investimento. Esta transação destaca um ponto forte para as vendas de empresas de private equity, em meio a uma alta demanda por infraestrutura de inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "Private Equity",
-        "Data Center",
-        "AI",
-        "Infraestrutura"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 64
-    },
-    {
       "titulo": "AI Enthusiasm Powers Nasdaq to All-Time High: 3 Stocks to Grab",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-enthusiasm-powers-nasdaq-time-123400575.html",
       "fonte": "finance.yahoo.com",
@@ -1110,21 +1200,6 @@
       "tokens_usados": 57
     },
     {
-      "titulo": "Next week brings earnings and inflation data amid resumption of U.S.-Iran hostilities. Here's what's ahead - CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-10",
-      "resumo": "A próxima semana trará resultados de empresas e dados de inflação, em meio ao ressurgimento de tensões entre EUA e Irã. A ASML e a Taiwan Semiconductor Manufacturing Company serão foco de atenção, pois os traders avaliarão sinais de esgotamento no mercado de chips. A inflação também será um fator importante, com preços de energia aumentando novamente após o fim do cessar-fogo entre EUA e Irã.",
-      "sentimento": "bearish",
-      "tags": [
-        "Semiconductor",
-        "Earnings",
-        "Inflação"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 127
-    },
-    {
       "titulo": "AI is entering a new phase — and these are the stocks investors should be watching - CNBC",
       "url": "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html",
       "fonte": "cnbc.com",
@@ -1170,21 +1245,6 @@
       "tokens_usados": 93
     },
     {
-      "titulo": "Big Tech Doubles Debt Load to $350 Billion in AI Spending Spree - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-10",
-      "resumo": "As maiores empresas de tecnologia, incluindo Alphabet, Amazon, Meta, Microsoft e Oracle, dobraram sua dívida para $350 bilhões nos últimos cinco anos, em um esforço para financiar seus investimentos em centros de dados de inteligência artificial.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Big Tech",
-        "Tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 90
-    },
-    {
       "titulo": "AI is rewriting the Big Tech org chart. See which roles are getting hit the most. - Business Insider",
       "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
       "fonte": "businessinsider.com",
@@ -1200,37 +1260,6 @@
       "tokens_usados": 70
     },
     {
-      "titulo": "SK Hynix stock soars after the red-hot memory maker's US debut - Business Insider",
-      "url": "https://www.businessinsider.com/sk-hynix-stock-price-skhyv-ipo-26-billion-offering-nasdaq-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-10",
-      "resumo": "A ação da SK Hynix teve um aumento significativo após o seu debut nos EUA, marcando a continuação da histeria de IPO que afeta a Wall Street este ano. A empresa é vista como um líder no desenvolvimento de tecnologia de memória e AI, o que gerou uma grande demanda por suas ações. Outras ações de chips e memória foram voláteis, com Nvidia tendo um aumento de 3%, enquanto Intel, Micron e Western Digital tiveram quedas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "IPO",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 86
-    },
-    {
-      "titulo": "The state of the tech trade as SK Hynix opens for trading - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/10/the-state-of-the-tech-trade-as-sk-hynix-opens-for-trading.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-10",
-      "resumo": "A SK Hynix abriu suas ações para negociação, mas não há informações específicas sobre a notícia em si. No entanto, há uma entrevista com o Chairman Chey Tae-won da SK Group e uma discussão sobre a relação entre as reivindicações de retorno sobre investimento (ROI) das empresas de inteligência artificial (IA) e a opinião dos investidores.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Tech",
-        "SK Hynix"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 66
-    },
-    {
       "titulo": "Dark smoke rose above a Virginia data center as a heat wave pushed the power grid close to its limits - Business Insider",
       "url": "https://www.businessinsider.com/virginia-data-center-diesel-backup-generator-heat-wave-pjm-2026-7",
       "fonte": "businessinsider.com",
@@ -1244,157 +1273,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 67
-    },
-    {
-      "titulo": "Meta's stock has best week since early 2024 as optimism builds around AI strategy - CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-10",
-      "resumo": "A ação da Meta teve o melhor desempenho semanal desde o início de 2024, com um aumento de 15%, graças à otimização em torno da estratégia de inteligência artificial do CEO Mark Zuckerberg. A empresa está progredindo com o desenvolvimento de chips de IA personalizados e espera começar a fabricar o seu primeiro chip, o Iris, em setembro. A notícia também foi influenciada pela apresentação de novos modelos de agente, como o Muse Spark 1.1.",
-      "sentimento": "bullish",
-      "tags": [
-        "Meta",
-        "AI",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 84
-    },
-    {
-      "titulo": "3 things risk derailing a summer stock market rally, Morgan Stanley says - Business Insider",
-      "url": "https://www.businessinsider.com/stock-market-outlook-sp500-rally-risks-interest-rates-morgan-stanley-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-10",
-      "resumo": "A Morgan Stanley alertou que três riscos podem desestabilizar a recuperação do mercado de ações no verão. O primeiro risco é que as empresas que investem pesadamente em inteligência artificial (IA) possam reduzir seus gastos, o que afetaria negativamente as ações. Outro risco é que a Federação Americana de Economia (Fed) possa aumentar os juros, o que também afetaria as ações. Além disso, a perspectiva de investimento em IA pode enfraquecer se as empresas não conseguirem gerar retorno sobre o investimento (ROI) esperado.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 94
-    },
-    {
-      "titulo": "How Apple stock rode the AI rollercoaster to record highs in 1 chart - CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-10",
-      "resumo": "A Apple está alcançando recordes de alta de ações graças à sua abordagem inteligente em inteligência artificial (IA). Em vez de competir com os outros gigantes da tecnologia, a empresa está se concentrando em fornecer dispositivos capazes de IA em larga escala, aproveitando sua vantagem de ter o iPhone como um dos produtos mais bem-sucedidos. Isso está alinhado com a tendência de otimização de tokens e explica a última onda de aumento das ações da Apple após a correção no início de junho.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Apple",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 92
-    },
-    {
-      "titulo": "Options Action: Traders look for new AI edge - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/10/options-action-traders-look-for-new-ai-edge.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-10",
-      "resumo": "O vídeo \"Options Action: Traders look for new AI edge\" da CNBC discute a relação entre as afirmações de retorno sobre investimento (ROI) das empresas em inteligência artificial (IA) e a percepção dos investidores. O analista Gil Luria da D.A. Davidson destaca a desconexão entre as reivindicações das empresas e a opinião dos investidores.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Finance",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 63
-    },
-    {
-      "titulo": "Meta stock got the 18% pop Jim Cramer said it could on cloud news. What's next? - CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-10",
-      "resumo": "A ação da Meta teve um aumento de 18% após Jim Cramer prever essa reação em notícias sobre nuvens. Zuckerberg discutiu a nuvem e desacreditou a ideia de que a empresa tenha superconstruído sua infraestrutura de IA. Analistas de Wall Street estão agora vendo a Meta como uma compra, com 91% de recomendações de compra e uma meta de preço média de $821, o que implica mais de 20% de ganho.",
-      "sentimento": "bullish",
-      "tags": [
-        "Meta",
-        "AI",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 80
-    },
-    {
-      "titulo": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Toll, Shopify, Twilio, Seagate, Chipotle & more - CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/fridays-biggest-analyst-calls-on-wall-street-include-nvidia-and-spacex.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-10",
-      "resumo": "A Morgan Stanley reiterou a SpaceX como overweight e aumentou a previsão de preço para $1,100, enquanto reiterou a Nvidia como overweight após uma reunião com a diretoria. A empresa também iniciou cobertura da BrightSpring com uma classificação de outperform e preço-alvo de $80. Além disso, a Bernstein atualizou a classificação da J.B. Hunt para outperform.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "SpaceX",
-        "Nvidia",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 66
-    },
-    {
-      "titulo": "This e-commerce stock could get a boost from the agentic AI craze, Stifel says - CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/shopify-could-get-a-boost-from-the-agentic-ai-craze-stifel-says.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-10",
-      "resumo": "A Stifel acredita que a Shopify pode receber um impulso devido à onda de agente IA, devido ao crescimento do mercado de agente IA global, que pode chegar a $24,5 bilhões até 2030. O analista destaca que a monetização de IA no varejo está no início e que o impacto nas ações pode levar tempo para se materializar.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "E-commerce",
-        "Shopify"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "The Whirlwind 72 Hours of Rival AI Announcements - Business Insider",
-      "url": "https://www.businessinsider.com/new-ai-model-announcements-openai-meta-grok-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-10",
-      "resumo": "Em uma semana intensa, várias empresas de tecnologia anunciaram avanços em inteligência artificial. A OpenAI e a Anthropic, duas das principais empresas de IA, anunciaram novas tecnologias e parcerias. Além disso, a Meta e a Google também fizeram anúncios importantes sobre IA. Esses anúncios têm implicações significativas para o setor de tecnologia e podem influenciar a forma como as empresas desenvolvem e utilizam a IA no futuro.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Negócios"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 76
-    },
-    {
-      "titulo": "AI’s Next Race: Cost, Control, and Compute - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/10/ais-next-race-cost-control-and-compute.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-10",
-      "resumo": "A indústria de IA está entrando em uma nova fase de competição, onde a eficiência energética, o controle e a capacidade de processamento são fatores críticos. Empresas como Perplexity estão desenvolvendo modelos de orquestração para melhorar a eficiência e reduzir os custos. Além disso, a tendência de modelos abertos está crescendo, permitindo que as empresas executem modelos que podem ser baixados e controlados.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Investimento"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 130
-    },
-    {
-      "titulo": "D.A. Davidson's Gil Luria: Disconnect between companies' AI ROI claims and investor sentiment - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/10/d-a-davidsons-gil-luria-disconnect-between-companies-ai-roi-claims-and-investor-sentiment.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-10",
-      "resumo": "O analista financeiro Gil Luria, da D.A. Davidson, discute a descontinuidade entre as afirmações de retorno sobre investimento (ROI) das empresas em inteligência artificial (IA) e o sentimento dos investidores. Luria afirma que as empresas estão gastando muito dinheiro com IA, mas os investidores estão questionando quando esses investimentos começarão a render dividendos.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Finanças",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 62
     }
   ]
 }

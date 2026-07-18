@@ -1,56 +1,4 @@
 {
-  "https://www.cnbc.com/2026/07/09/jim-cramer-investors-making-mistake-trillion-dollar-tech-giants.html": {
-    "hash": "478833c1190c4236395621a5b73f64cf",
-    "visto_em": "2026-07-10"
-  },
-  "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html": {
-    "hash": "b4ece7ac471431c54588d42f9c1735cb",
-    "visto_em": "2026-07-10"
-  },
-  "https://www.reuters.com/business/higher-bar-corporate-profit-growth-poses-challenge-us-stock-market-rally-2026-07-09/": {
-    "hash": "648e79748c6f0bc1247557fba2180247",
-    "visto_em": "2026-07-10"
-  },
-  "https://www.cnbc.com/video/2026/07/09/fast-money-traders-talk-countdown-to-sk-hynix-trading-on-the-nasdaq.html": {
-    "hash": "e782f26f917affb321ac9116b64ff148",
-    "visto_em": "2026-07-10"
-  },
-  "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/": {
-    "hash": "e5d32ecef35c5e0e02feee36b62e2c49",
-    "visto_em": "2026-07-10"
-  },
-  "https://www.reuters.com/commentary/breakingviews/good-bad-ugly-ais-economic-impact-2026-07-09/": {
-    "hash": "d418bb9aff0fde9ec021029ae58f9c0f",
-    "visto_em": "2026-07-10"
-  },
-  "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/": {
-    "hash": "43887ef93afeb163eeac0bfa7d4f0c4f",
-    "visto_em": "2026-07-10"
-  },
-  "https://www.cnbc.com/2026/07/09/cramers-lightning-round-buy-carpenter-technology.html": {
-    "hash": "cc30f1801a008b50e153bce8370d6230",
-    "visto_em": "2026-07-10"
-  },
-  "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/": {
-    "hash": "e6400b152235eefc6c3e92efa7833980",
-    "visto_em": "2026-07-10"
-  },
-  "https://www.investing.com/news/stock-market-news/top-agriculture--infrastructure-stock-pick-from-oppenheimer-93CH-4782973": {
-    "hash": "56b79e71a922d258784bb1bec5e54eba",
-    "visto_em": "2026-07-10"
-  },
-  "https://www.cnbc.com/video/2026/07/10/d-a-davidsons-gil-luria-disconnect-between-companies-ai-roi-claims-and-investor-sentiment.html": {
-    "hash": "1409880121ebf62a1b587ac48cd8ccf4",
-    "visto_em": "2026-07-10"
-  },
-  "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/": {
-    "hash": "60b170010981abeb0c4e72b450a04e00",
-    "visto_em": "2026-07-10"
-  },
-  "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/": {
-    "hash": "32ea55472bba610e477a653e64759cac",
-    "visto_em": "2026-07-10"
-  },
   "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html": {
     "hash": "e7588331106edad8533a36d5513eff22",
     "visto_em": "2026-07-11"
@@ -434,5 +382,37 @@
   "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html": {
     "hash": "5dbbb2b7751cc660bff3d69d0200479b",
     "visto_em": "2026-07-17"
+  },
+  "https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/": {
+    "hash": "fdb3de09d7ff52b77092f259614d4b94",
+    "visto_em": "2026-07-18"
+  },
+  "https://www.reuters.com/business/wall-st-futures-fall-chip-selloff-gathers-pace-netflix-tumbles-2026-07-17/": {
+    "hash": "c7971c4a54193a8076db1dced1f04dfc",
+    "visto_em": "2026-07-18"
+  },
+  "https://www.cnbc.com/video/2026/07/17/morning-call-sheet-earnings-ai-and-rates-keep-markets-on-edge.html": {
+    "hash": "45de0507064bcf5aa995607bfa9528b9",
+    "visto_em": "2026-07-18"
+  },
+  "https://www.businessinsider.com/stock-market-today-chip-selloff-kimi-moonshot-ai-rotation-soxx-2026-7": {
+    "hash": "d169c45060f00e887ec896541993bb89",
+    "visto_em": "2026-07-18"
+  },
+  "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/": {
+    "hash": "14a15ba229a3059c6901af81ab82a104",
+    "visto_em": "2026-07-18"
+  },
+  "https://www.businessinsider.com/kospi-stock-index-sk-hynix-samsung-share-price-retail-investors-2026-7": {
+    "hash": "e318e72ac58ae6542a704c2582b7620f",
+    "visto_em": "2026-07-18"
+  },
+  "https://www.businessinsider.com/parag-agrawal-parallel-partners-with-google-cloud-ai-tools-2026-7": {
+    "hash": "143e3d49e3159559c4cae261b9115404",
+    "visto_em": "2026-07-18"
+  },
+  "https://www.cnbc.com/video/2026/07/17/vistashares-jon-mcneill-on-the-companys-ai-supercycle-etf.html": {
+    "hash": "0b79f666d6fb55af77f59de39ba4d011",
+    "visto_em": "2026-07-18"
   }
 }
