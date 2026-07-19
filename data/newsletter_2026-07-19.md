@@ -1,137 +1,59 @@
 # Newsletter IA Bolsa — 2026-07-19
 
-**Gerado em:** 19/07/2026 05:49
-**Total:** 10 noticias
+**Gerado em:** 19/07/2026 11:08
+**Total:** 4 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. The AI rotation stole the spotlight from a strong start to earnings season - CNBC
+## 1. These are the most oversold stocks after a rough week on Wall Street - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Semicondutores, Mercados Financeiros
+**Relevancia:** 5.0/10  
+**Tags:** AI, Tecnologia, Mercado de Ações
 
-A corrida da IA dominou os mercados novamente esta semana, eclipsando o início impressionante da temporada de resultados do segundo trimestre. A inflação continuou a diminuir, segundo relatórios de preços de consumo e produtor, enquanto as principais bancos do país reforçaram a força dos mercados de capital. No entanto, a incerteza sobre a Crise do Golfo Pérsico e a corrida da IA continuaram a pressionar os investidores.
+A CNBC lista as ações mais subvalorizadas após uma semana difícil no mercado de Wall Street. A Oracle e a Super Micro Computer estão entre as ações mais afetadas, com RSI abaixo de 30, indicando que estão em território subvalorizado. A falta de confiança em investimentos em IA e a venda de ações de empresas de tecnologia afetaram o mercado.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/18/the-ai-rotation-stole-the-spotlight-from-a-strong-start-to-earnings-season-.html)
+[Ler noticia completa](https://www.cnbc.com/2026/07/18/these-are-the-most-oversold-stocks-after-a-rough-week-on-wall-street.html)
 
 ---
 
-## 2. This CEF Holds The Biggest Bargains In Tech, Pays 7.4% - Forbes
+## 2. Tesla And Alphabet Headline A Big S&P 500 Earnings Week - Forbes
 
 **Fonte:** forbes.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 8.0/10  
-**Tags:** Semicondutores, Tecnologia, Mercado de Ações
+**Tags:** IA, Tecnologia, S&P 500
 
-O índice SMH, que inclui empresas como NVIDIA e Micron, sofreu uma queda recente, mas a demanda por semicondutores continua a crescer. Algumas empresas, como Micron e NVIDIA, estão abaixo do valor médio da S&P 500. A venda de semicondutores está ainda presente e a demanda é intensa, mas as empresas com valorização mais alta, como Broadcom e ASML Holding, estão mais caras.
+A semana de resultados financeiros da S&P 500 será liderada por empresas de tecnologia, incluindo Tesla e Alphabet, com crescimento de 31,1% em relação ao ano passado. A demanda por inteligência artificial (IA) está impulsionando os resultados financeiros da Micron Technology e da NVIDIA. A S&P 500 caiu 1,5% na semana passada devido à fraqueza em empresas de chips de memória e ao agravamento do conflito com o Irã.
 
-[Ler noticia completa](https://www.forbes.com/sites/michaelfoster/2026/07/18/this-cef-holds-the-biggest-bargains-in-tech-pays-74/)
-
----
-
-## 3. July consumer sentiment rises to 54.4, well above expectations - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 6.0/10  
-**Tags:** economia, consumidor, mercado financeiro
-
-O índice de sentimentos dos consumidores nos EUA subiu para 54,4 em julho, superando as expectativas. Este aumento é um sinal positivo para a economia e pode influenciar as decisões de investimento.
-
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/17/july-consumer-sentiment.html)
+[Ler noticia completa](https://www.forbes.com/sites/bill_stone/2026/07/19/tesla-and-alphabet-headline-a-big-sp-500-earnings-week/)
 
 ---
 
-## 4. A strong start to earnings season will be put to the test next week - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** Earnings, Semicondutores, Inteligência Artificial, Mercados Financeiros
-
-A temporada de resultados financeiros está começando bem, mas enfrentará desafios na próxima semana. As grandes bancos que iniciaram a temporada de relatórios do segundo trimestre superaram as expectativas, sinalizando bons tempos para os mercados de capital. No entanto, os investidores continuam a observar áreas problemáticas, como os semicondutores e a despesa com inteligência artificial.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/17/stock-market-next-week-outlook-for-july-20-24-2026.html)
-
----
-
-## 5. Meta, Anthropic in talks for potential $10 billion compute lease deal, source says - Reuters
+## 3. Apple unseats Nvidia to become world's most valuable company as AI bets shift - Reuters
 
 **Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
-**Tags:** Meta, Anthropic, Computação, Nuvem
+**Tags:** AI, Semicondutores, NASDAQ
 
-A Meta está em negociações para alugar poder de computação à Anthropic em um acordo potencial de até $10 bilhões em dois anos. Isso ajudaria a Meta a diversificar sua receita além da publicidade e competir com empresas de nuvem como CoreWeave e Nebius. A Anthropic pagaria a Meta em parcelas mensais ao longo de dois anos, embora os termos sejam sujeitos a mudanças.
+A Apple está prestes a ultrapassar a Nvidia como a empresa mais valiosa do mundo, uma mudança que pode refletir a reavaliação dos investidores sobre a perspectiva da inteligência artificial. A Nvidia, que foi líder até agora, pode continuar a ser um participante significativo no setor, mas a Apple está em uma posição delicada, tendo aumentado os preços para compensar os custos crescentes.
 
-[Ler noticia completa](https://www.reuters.com/technology/meta-talks-10-billion-anthropic-compute-deal-nyt-reports-2026-07-17/)
+[Ler noticia completa](https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/)
 
 ---
 
-## 6. Open Weight Models Are Turning Inference Into A Control Point - Forbes
+## 4. Small Business Technology News Roundup: IBM Shares Crash, ChatGPT To Replace Wall Street Analysts - Forbes
 
 **Fonte:** forbes.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Inteligência Artificial, Mercado de Tecnologia
-
-Com o aumento da concorrência na área de IA, os compradores estão sendo incentivados a examinar a portabilidade e as estruturas de margem, o que pode empoderá-los na evolução do mercado de inteligência artificial.
-
-[Ler noticia completa](https://www.forbes.com/sites/janakirammsv/2026/07/18/open-weight-models-are-turning-inference-into-a-control-point/)
-
----
-
-## 7. SpaceX stock sees brief Pentagon AI bump, while CoreWeave slides on pricing threat - Investing.com
-
-**Fonte:** investing.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
-**Tags:** IA, Tecnologia, SpaceX, CoreWeave
+**Tags:** AI, Finanças, Tecnologia
 
-A SpaceX teve um aumento temporário em seu preço de ação após uma notícia sobre o uso de inteligência artificial (IA) pelo Pentágono, enquanto a CoreWeave caiu devido a uma ameaça de preços. A SpaceX é uma empresa de tecnologia espacial fundada por Elon Musk, e a CoreWeave é uma empresa de tecnologia de rede de computadores.
+A IBM sofreu uma queda de 25% no valor das ações, resultando em uma perda de US$ 67 bilhões, devido à falta de adaptação à mudança de investimentos em inteligência artificial (IA) por parte dos clientes. Além disso, a OpenAI está contratando um investidor para trabalhar em projetos que podem automatizar tarefas financeiras complexas, impactando os papéis de analistas juniores. Já a Upwork revelou que a IA está transformando a freelancer, com profissionais que sabem usar a IA ganhando 34% a mais.
 
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/spacex-stock-sees-brief-pentagon-ai-bump-while-coreweave-slides-on-pricing-threat-4798980)
-
----
-
-## 8. Big Tech earnings season and the capex spiral - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** IA, Tecnologia, Big Tech, Capex
-
-A temporada de resultados financeiros da Big Tech está em andamento, e várias empresas, incluindo Google, Amazon, Microsoft e Meta, estão relatando seus resultados. Além disso, a capex (investimento em ativos fixos) está aumentando, o que pode levar a um ciclo de crescimento contínuo. Os dados centros são um exemplo de como essas empresas estão investindo em infraestrutura para apoiar o crescimento da IA e da computação em nuvem.
-
-[Ler noticia completa](https://www.businessinsider.com/big-tech-spending-capex-earnings-season-memory-prices-ai-2026-7)
-
----
-
-## 9. BofA names senior executives to drive AI adoption in global markets-memo - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Finance, Bank of America
-
-A Bank of America anunciou a nomeação de Kevin Milsom como chefe de plataformas de transformação de IA, com o objetivo de impulsionar a adoção e implementação de tecnologias de IA em sua unidade de mercados globais. Ashok Krishnan, chefe de plataformas, lidera esforços para modernizar a tecnologia e aumentar a automação, incluindo a implantação de ferramentas de IA gerativa e outras novas tecnologias.
-
-[Ler noticia completa](https://www.reuters.com/legal/transactional/bofa-names-senior-executives-drive-ai-adoption-global-markets-memo-2026-07-17/)
-
----
-
-## 10. AI Startups, Solopreneurs, And Actual Numbers - Forbes
-
-**Fonte:** forbes.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Solopreneurship, Startups
-
-A ascensão da inteligência artificial (IA) está revolucionando a forma como as empresas operam, tornando a solopreneurship cada vez mais atraente e desafiando a tradição de carreiras corporativas. Dados recentes indicam um aumento significativo no número de fundadores únicos de empresas C-corp e um aumento de 27% nas solicitações de negócios solo em setores expostos à IA. A IA está permitindo que as empresas sejam mais leves e escaláveis, contrastando com as estruturas corporativas frequentemente frágeis.
-
-[Ler noticia completa](https://www.forbes.com/sites/johnwerner/2026/07/18/ai-startups-solopreneurs-and-actual-numbers/)
+[Ler noticia completa](https://www.forbes.com/sites/quickerbettertech/2026/07/19/small-business-technology-news-roundup-ibm-shares-crash-chatgpt-to-replace-wall-street-analysts/)
 
 ---

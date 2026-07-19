@@ -2,10 +2,70 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-19",
-    "total_noticias": 95,
-    "gerado_em": "2026-07-19T05:49:18.906041"
+    "total_noticias": 99,
+    "gerado_em": "2026-07-19T11:08:41.888297"
   },
   "noticias": [
+    {
+      "titulo": "These are the most oversold stocks after a rough week on Wall Street - CNBC",
+      "url": "https://www.cnbc.com/2026/07/18/these-are-the-most-oversold-stocks-after-a-rough-week-on-wall-street.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-18",
+      "resumo": "A CNBC lista as ações mais subvalorizadas após uma semana difícil no mercado de Wall Street. A Oracle e a Super Micro Computer estão entre as ações mais afetadas, com RSI abaixo de 30, indicando que estão em território subvalorizado. A falta de confiança em investimentos em IA e a venda de ações de empresas de tecnologia afetaram o mercado.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 71
+    },
+    {
+      "titulo": "Tesla And Alphabet Headline A Big S&P 500 Earnings Week - Forbes",
+      "url": "https://www.forbes.com/sites/bill_stone/2026/07/19/tesla-and-alphabet-headline-a-big-sp-500-earnings-week/",
+      "fonte": "forbes.com",
+      "data": "2026-07-19",
+      "resumo": "A semana de resultados financeiros da S&P 500 será liderada por empresas de tecnologia, incluindo Tesla e Alphabet, com crescimento de 31,1% em relação ao ano passado. A demanda por inteligência artificial (IA) está impulsionando os resultados financeiros da Micron Technology e da NVIDIA. A S&P 500 caiu 1,5% na semana passada devido à fraqueza em empresas de chips de memória e ao agravamento do conflito com o Irã.",
+      "sentimento": "bullish",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "S&P 500"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "Apple unseats Nvidia to become world's most valuable company as AI bets shift - Reuters",
+      "url": "https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/",
+      "fonte": "reuters.com",
+      "data": "2026-07-17",
+      "resumo": "A Apple está prestes a ultrapassar a Nvidia como a empresa mais valiosa do mundo, uma mudança que pode refletir a reavaliação dos investidores sobre a perspectiva da inteligência artificial. A Nvidia, que foi líder até agora, pode continuar a ser um participante significativo no setor, mas a Apple está em uma posição delicada, tendo aumentado os preços para compensar os custos crescentes.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 105
+    },
+    {
+      "titulo": "Small Business Technology News Roundup: IBM Shares Crash, ChatGPT To Replace Wall Street Analysts - Forbes",
+      "url": "https://www.forbes.com/sites/quickerbettertech/2026/07/19/small-business-technology-news-roundup-ibm-shares-crash-chatgpt-to-replace-wall-street-analysts/",
+      "fonte": "forbes.com",
+      "data": "2026-07-19",
+      "resumo": "A IBM sofreu uma queda de 25% no valor das ações, resultando em uma perda de US$ 67 bilhões, devido à falta de adaptação à mudança de investimentos em inteligência artificial (IA) por parte dos clientes. Além disso, a OpenAI está contratando um investidor para trabalhar em projetos que podem automatizar tarefas financeiras complexas, impactando os papéis de analistas juniores. Já a Upwork revelou que a IA está transformando a freelancer, com profissionais que sabem usar a IA ganhando 34% a mais.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Finanças",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 91
+    },
     {
       "titulo": "The AI rotation stole the spotlight from a strong start to earnings season - CNBC",
       "url": "https://www.cnbc.com/2026/07/18/the-ai-rotation-stole-the-spotlight-from-a-strong-start-to-earnings-season-.html",
