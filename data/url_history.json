@@ -1,48 +1,4 @@
 {
-  "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html": {
-    "hash": "e7588331106edad8533a36d5513eff22",
-    "visto_em": "2026-07-11"
-  },
-  "https://www.cnbc.com/2026/07/10/fridays-biggest-analyst-calls-on-wall-street-include-nvidia-and-spacex.html": {
-    "hash": "88d3efd5b4a301caa7bd3a72aaf4ee66",
-    "visto_em": "2026-07-11"
-  },
-  "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html": {
-    "hash": "5a99cce13f52955d9d58eab1a4fa29cd",
-    "visto_em": "2026-07-11"
-  },
-  "https://www.cnbc.com/2026/07/10/shopify-could-get-a-boost-from-the-agentic-ai-craze-stifel-says.html": {
-    "hash": "f73fc5e925650e5e0f8ad39199d4cd23",
-    "visto_em": "2026-07-11"
-  },
-  "https://www.businessinsider.com/new-ai-model-announcements-openai-meta-grok-2026-7": {
-    "hash": "0aa2b573c9d52acdac23316e7f07dd8b",
-    "visto_em": "2026-07-11"
-  },
-  "https://www.cnbc.com/video/2026/07/10/ais-next-race-cost-control-and-compute.html": {
-    "hash": "57946e3deca35da158618a773dc0787a",
-    "visto_em": "2026-07-11"
-  },
-  "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html": {
-    "hash": "625b8ec0118f9cc42ae7eeb6d91c786f",
-    "visto_em": "2026-07-11"
-  },
-  "https://www.businessinsider.com/stock-market-outlook-sp500-rally-risks-interest-rates-morgan-stanley-2026-7": {
-    "hash": "bba177c7a9fe664b57657ee619380ad0",
-    "visto_em": "2026-07-11"
-  },
-  "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html": {
-    "hash": "d781af1fbe2ae66c5dd30384fdd7b570",
-    "visto_em": "2026-07-11"
-  },
-  "https://www.cnbc.com/video/2026/07/10/options-action-traders-look-for-new-ai-edge.html": {
-    "hash": "48a85c3f2ff964de893100e1a783c2ee",
-    "visto_em": "2026-07-11"
-  },
-  "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html": {
-    "hash": "ad21564ad78139aa39dc6aa39fbfb773",
-    "visto_em": "2026-07-11"
-  },
   "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html": {
     "hash": "1b439af3476c298edfd9fa57830d3743",
     "visto_em": "2026-07-12"
@@ -442,5 +398,45 @@
   "https://za.investing.com/news/cryptocurrency-news/bitcoin-falls-to-628k-as-usiran-tensions-batter-risk-4365293": {
     "hash": "1aad74aa2e25460f9718e5aa5b617021",
     "visto_em": "2026-07-18"
+  },
+  "https://www.cnbc.com/2026/07/18/the-ai-rotation-stole-the-spotlight-from-a-strong-start-to-earnings-season-.html": {
+    "hash": "0dd5cc321f3f7c91107f04c6c1409359",
+    "visto_em": "2026-07-19"
+  },
+  "https://www.forbes.com/sites/michaelfoster/2026/07/18/this-cef-holds-the-biggest-bargains-in-tech-pays-74/": {
+    "hash": "7669819bd96a14fd2948a07ee221b460",
+    "visto_em": "2026-07-19"
+  },
+  "https://www.cnbc.com/video/2026/07/17/july-consumer-sentiment.html": {
+    "hash": "e842d667b73e48af0292032ab0615e43",
+    "visto_em": "2026-07-19"
+  },
+  "https://www.cnbc.com/2026/07/17/stock-market-next-week-outlook-for-july-20-24-2026.html": {
+    "hash": "c8ad38bfb22fe7480ad0fe01f1c49e40",
+    "visto_em": "2026-07-19"
+  },
+  "https://www.reuters.com/technology/meta-talks-10-billion-anthropic-compute-deal-nyt-reports-2026-07-17/": {
+    "hash": "86d59d63f096fe877d9fa43c1aeebcb0",
+    "visto_em": "2026-07-19"
+  },
+  "https://www.forbes.com/sites/janakirammsv/2026/07/18/open-weight-models-are-turning-inference-into-a-control-point/": {
+    "hash": "c7e4400eabb1c6b25873716996e38af2",
+    "visto_em": "2026-07-19"
+  },
+  "https://www.investing.com/news/stock-market-news/spacex-stock-sees-brief-pentagon-ai-bump-while-coreweave-slides-on-pricing-threat-4798980": {
+    "hash": "7734e98fee52c44f913cb505ee6937dd",
+    "visto_em": "2026-07-19"
+  },
+  "https://www.businessinsider.com/big-tech-spending-capex-earnings-season-memory-prices-ai-2026-7": {
+    "hash": "242e5a39d2bd722486b187e2c53f0d64",
+    "visto_em": "2026-07-19"
+  },
+  "https://www.reuters.com/legal/transactional/bofa-names-senior-executives-drive-ai-adoption-global-markets-memo-2026-07-17/": {
+    "hash": "ac42d7d3b88f3b1b2b586270beae5883",
+    "visto_em": "2026-07-19"
+  },
+  "https://www.forbes.com/sites/johnwerner/2026/07/18/ai-startups-solopreneurs-and-actual-numbers/": {
+    "hash": "91dabb04b0a5419285f7234fe1c04be0",
+    "visto_em": "2026-07-19"
   }
 }

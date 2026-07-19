@@ -1,11 +1,165 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-18",
-    "total_noticias": 91,
-    "gerado_em": "2026-07-18T11:03:28.034800"
+    "data": "2026-07-19",
+    "total_noticias": 95,
+    "gerado_em": "2026-07-19T05:49:18.906041"
   },
   "noticias": [
+    {
+      "titulo": "The AI rotation stole the spotlight from a strong start to earnings season - CNBC",
+      "url": "https://www.cnbc.com/2026/07/18/the-ai-rotation-stole-the-spotlight-from-a-strong-start-to-earnings-season-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-18",
+      "resumo": "A corrida da IA dominou os mercados novamente esta semana, eclipsando o início impressionante da temporada de resultados do segundo trimestre. A inflação continuou a diminuir, segundo relatórios de preços de consumo e produtor, enquanto as principais bancos do país reforçaram a força dos mercados de capital. No entanto, a incerteza sobre a Crise do Golfo Pérsico e a corrida da IA continuaram a pressionar os investidores.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 132
+    },
+    {
+      "titulo": "This CEF Holds The Biggest Bargains In Tech, Pays 7.4% - Forbes",
+      "url": "https://www.forbes.com/sites/michaelfoster/2026/07/18/this-cef-holds-the-biggest-bargains-in-tech-pays-74/",
+      "fonte": "forbes.com",
+      "data": "2026-07-18",
+      "resumo": "O índice SMH, que inclui empresas como NVIDIA e Micron, sofreu uma queda recente, mas a demanda por semicondutores continua a crescer. Algumas empresas, como Micron e NVIDIA, estão abaixo do valor médio da S&P 500. A venda de semicondutores está ainda presente e a demanda é intensa, mas as empresas com valorização mais alta, como Broadcom e ASML Holding, estão mais caras.",
+      "sentimento": "bullish",
+      "tags": [
+        "Semicondutores",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "July consumer sentiment rises to 54.4, well above expectations - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/17/july-consumer-sentiment.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-17",
+      "resumo": "O índice de sentimentos dos consumidores nos EUA subiu para 54,4 em julho, superando as expectativas. Este aumento é um sinal positivo para a economia e pode influenciar as decisões de investimento.",
+      "sentimento": "bullish",
+      "tags": [
+        "economia",
+        "consumidor",
+        "mercado financeiro"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 42
+    },
+    {
+      "titulo": "A strong start to earnings season will be put to the test next week - CNBC",
+      "url": "https://www.cnbc.com/2026/07/17/stock-market-next-week-outlook-for-july-20-24-2026.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-17",
+      "resumo": "A temporada de resultados financeiros está começando bem, mas enfrentará desafios na próxima semana. As grandes bancos que iniciaram a temporada de relatórios do segundo trimestre superaram as expectativas, sinalizando bons tempos para os mercados de capital. No entanto, os investidores continuam a observar áreas problemáticas, como os semicondutores e a despesa com inteligência artificial.",
+      "sentimento": "bearish",
+      "tags": [
+        "Earnings",
+        "Semicondutores",
+        "Inteligência Artificial",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "Meta, Anthropic in talks for potential $10 billion compute lease deal, source says - Reuters",
+      "url": "https://www.reuters.com/technology/meta-talks-10-billion-anthropic-compute-deal-nyt-reports-2026-07-17/",
+      "fonte": "reuters.com",
+      "data": "2026-07-17",
+      "resumo": "A Meta está em negociações para alugar poder de computação à Anthropic em um acordo potencial de até $10 bilhões em dois anos. Isso ajudaria a Meta a diversificar sua receita além da publicidade e competir com empresas de nuvem como CoreWeave e Nebius. A Anthropic pagaria a Meta em parcelas mensais ao longo de dois anos, embora os termos sejam sujeitos a mudanças.",
+      "sentimento": "bullish",
+      "tags": [
+        "Meta",
+        "Anthropic",
+        "Computação",
+        "Nuvem"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Open Weight Models Are Turning Inference Into A Control Point - Forbes",
+      "url": "https://www.forbes.com/sites/janakirammsv/2026/07/18/open-weight-models-are-turning-inference-into-a-control-point/",
+      "fonte": "forbes.com",
+      "data": "2026-07-18",
+      "resumo": "Com o aumento da concorrência na área de IA, os compradores estão sendo incentivados a examinar a portabilidade e as estruturas de margem, o que pode empoderá-los na evolução do mercado de inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Inteligência Artificial",
+        "Mercado de Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 46
+    },
+    {
+      "titulo": "SpaceX stock sees brief Pentagon AI bump, while CoreWeave slides on pricing threat - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/spacex-stock-sees-brief-pentagon-ai-bump-while-coreweave-slides-on-pricing-threat-4798980",
+      "fonte": "investing.com",
+      "data": "2026-07-17",
+      "resumo": "A SpaceX teve um aumento temporário em seu preço de ação após uma notícia sobre o uso de inteligência artificial (IA) pelo Pentágono, enquanto a CoreWeave caiu devido a uma ameaça de preços. A SpaceX é uma empresa de tecnologia espacial fundada por Elon Musk, e a CoreWeave é uma empresa de tecnologia de rede de computadores.",
+      "sentimento": "bearish",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "SpaceX",
+        "CoreWeave"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "Big Tech earnings season and the capex spiral - Business Insider",
+      "url": "https://www.businessinsider.com/big-tech-spending-capex-earnings-season-memory-prices-ai-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-18",
+      "resumo": "A temporada de resultados financeiros da Big Tech está em andamento, e várias empresas, incluindo Google, Amazon, Microsoft e Meta, estão relatando seus resultados. Além disso, a capex (investimento em ativos fixos) está aumentando, o que pode levar a um ciclo de crescimento contínuo. Os dados centros são um exemplo de como essas empresas estão investindo em infraestrutura para apoiar o crescimento da IA e da computação em nuvem.",
+      "sentimento": "bullish",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "Big Tech",
+        "Capex"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 80
+    },
+    {
+      "titulo": "BofA names senior executives to drive AI adoption in global markets-memo - Reuters",
+      "url": "https://www.reuters.com/legal/transactional/bofa-names-senior-executives-drive-ai-adoption-global-markets-memo-2026-07-17/",
+      "fonte": "reuters.com",
+      "data": "2026-07-17",
+      "resumo": "A Bank of America anunciou a nomeação de Kevin Milsom como chefe de plataformas de transformação de IA, com o objetivo de impulsionar a adoção e implementação de tecnologias de IA em sua unidade de mercados globais. Ashok Krishnan, chefe de plataformas, lidera esforços para modernizar a tecnologia e aumentar a automação, incluindo a implantação de ferramentas de IA gerativa e outras novas tecnologias.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Finance",
+        "Bank of America"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 75
+    },
+    {
+      "titulo": "AI Startups, Solopreneurs, And Actual Numbers - Forbes",
+      "url": "https://www.forbes.com/sites/johnwerner/2026/07/18/ai-startups-solopreneurs-and-actual-numbers/",
+      "fonte": "forbes.com",
+      "data": "2026-07-18",
+      "resumo": "A ascensão da inteligência artificial (IA) está revolucionando a forma como as empresas operam, tornando a solopreneurship cada vez mais atraente e desafiando a tradição de carreiras corporativas. Dados recentes indicam um aumento significativo no número de fundadores únicos de empresas C-corp e um aumento de 27% nas solicitações de negócios solo em setores expostos à IA. A IA está permitindo que as empresas sejam mais leves e escaláveis, contrastando com as estruturas corporativas frequentemente frágeis.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Solopreneurship",
+        "Startups"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 85
+    },
     {
       "titulo": "Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race - MarketWatch",
       "url": "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205",
@@ -1246,21 +1400,6 @@
       "tokens_usados": 72
     },
     {
-      "titulo": "My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes. - Business Insider",
-      "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-11",
-      "resumo": "O artigo apresenta uma ferramenta de IA gerativa chamada Codex, que pode criar soluções personalizadas em minutos. A ferramenta é mencionada em um contexto de colaboração e inovação, destacando a capacidade da IA em resolver problemas complexos. Além disso, o artigo aborda temas relacionados à IA, como modelos de linguagem grande, computação em nuvem, semicondutores e veículos autônomos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Computação em Nuvem"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 69
-    },
-    {
       "titulo": "Tech stocks feel like the only game in town. Here's why they are so hard to abandon - CNBC",
       "url": "https://www.cnbc.com/2026/07/12/tech-stocks-still-feel-like-the-only-game-in-town-heres-why-they-are-so-hard-to-abandon-.html",
       "fonte": "cnbc.com",
@@ -1304,81 +1443,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 57
-    },
-    {
-      "titulo": "AI is entering a new phase — and these are the stocks investors should be watching - CNBC",
-      "url": "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-11",
-      "resumo": "A indústria de inteligência artificial está entrando em uma nova fase, onde as empresas estão sendo pressionadas a justificar os seus gastos com capital. Isso está levando a uma mudança de foco, onde a maximização da utilização dos recursos está sendo substituída pela otimização da produtividade. As hyperscalers, como Amazon, Alphabet e Microsoft, estão sentindo o impacto disso.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "These underperforming trades could yield big returns over next six months - CNBC",
-      "url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-11",
-      "resumo": "Akins, especialista em ETFs, destaca oportunidades de investimento em ações de pequenas e médias empresas que foram deixadas para trás no mercado liderado por megacapitais e semicondutores. Ele destaca que essas ações podem realizar bons retornos nos próximos seis meses, com crescimento de lucros e receita, além de expansão de múltiplos que foram extremamente deprimidos nos últimos anos.",
-      "sentimento": "bullish",
-      "tags": [
-        "ETFs",
-        "Small-cap",
-        "Semicondutores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week - CNBC",
-      "url": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-11",
-      "resumo": "A semana foi marcada por uma volatilidade no mercado de tecnologia, especialmente no setor de semicondutores e inteligência artificial. A Nvidia subiu 4% e atingiu seu valor mais alto em quase um mês, enquanto a Meta Platforms anunciou planos para lançar uma empresa de nuvem que venderá potência de processamento para clientes externos. No entanto, a tensão entre os EUA e o Irã e a notícia de que a China está desenvolvendo sua própria placa de AI fizeram com que o mercado se estabilizasse.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 93
-    },
-    {
-      "titulo": "AI is rewriting the Big Tech org chart. See which roles are getting hit the most. - Business Insider",
-      "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-11",
-      "resumo": "A inteligência artificial está revendo a estrutura organizacional das grandes empresas de tecnologia. De acordo com dados de SignalFire, os engenheiros de software representam 55% das contratações em empresas de tecnologia, um aumento de 9% em relação a 2019. Isso sugere que a IA está criando novas oportunidades de emprego e mudando a forma como as empresas de tecnologia contratam pessoal.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Emprego"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 70
-    },
-    {
-      "titulo": "Dark smoke rose above a Virginia data center as a heat wave pushed the power grid close to its limits - Business Insider",
-      "url": "https://www.businessinsider.com/virginia-data-center-diesel-backup-generator-heat-wave-pjm-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-11",
-      "resumo": "Um data center em Virginia, propriedade da Digital Realty, enfrentou problemas de energia durante um calor intenso, levando a que geradores diesel fossem ativados. A situação foi evitada de se tornar mais grave graças a programas de demanda-resposta. A região de Ashburn, Virginia, é conhecida como \"data center alley\" (bairro dos centros de dados) nos Estados Unidos.",
-      "sentimento": "neutral",
-      "tags": [
-        "Data Center",
-        "Tecnologia",
-        "Energia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
     }
   ]
 }
