@@ -1,40 +1,4 @@
 {
-  "https://www.cnbc.com/2026/07/11/ai-is-entering-a-new-phase-and-these-are-the-stocks-investors-should-be-watching.html": {
-    "hash": "1b439af3476c298edfd9fa57830d3743",
-    "visto_em": "2026-07-12"
-  },
-  "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html": {
-    "hash": "30d4b7ed73c5763d7438c33607de4851",
-    "visto_em": "2026-07-12"
-  },
-  "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html": {
-    "hash": "72e44e14be0fa2c86f99fd964784d200",
-    "visto_em": "2026-07-12"
-  },
-  "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree": {
-    "hash": "9515fe4193067821070c63447e9d2654",
-    "visto_em": "2026-07-12"
-  },
-  "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7": {
-    "hash": "6591ea8f4983133bb2b70539990eeb3f",
-    "visto_em": "2026-07-12"
-  },
-  "https://www.businessinsider.com/sk-hynix-stock-price-skhyv-ipo-26-billion-offering-nasdaq-2026-7": {
-    "hash": "5d6809245a8f68fdb58f0a935580f64c",
-    "visto_em": "2026-07-12"
-  },
-  "https://www.cnbc.com/video/2026/07/10/the-state-of-the-tech-trade-as-sk-hynix-opens-for-trading.html": {
-    "hash": "7eeddc6153d2445c05e005ede18f2abe",
-    "visto_em": "2026-07-12"
-  },
-  "https://www.businessinsider.com/virginia-data-center-diesel-backup-generator-heat-wave-pjm-2026-7": {
-    "hash": "ce424b43b0762f394c6f10b08aaabcfd",
-    "visto_em": "2026-07-12"
-  },
-  "https://www.cnbc.com/2026/07/10/stock-market-next-week-outlook-for-july-13-17-2026.html": {
-    "hash": "e7c92db38a803eb3d8cf8d1372f7acd6",
-    "visto_em": "2026-07-12"
-  },
   "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a": {
     "hash": "db73971e25b99e8bcdc88ba55f556348",
     "visto_em": "2026-07-13"
@@ -454,5 +418,45 @@
   "https://www.forbes.com/sites/quickerbettertech/2026/07/19/small-business-technology-news-roundup-ibm-shares-crash-chatgpt-to-replace-wall-street-analysts/": {
     "hash": "2f9ba4dccdd47556625f0d7a9a68fdb6",
     "visto_em": "2026-07-19"
+  },
+  "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-20/": {
+    "hash": "13100dcbf4e012334ac7841a793bc27e",
+    "visto_em": "2026-07-20"
+  },
+  "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html": {
+    "hash": "378b496a385a060d9c28f87992cd3e65",
+    "visto_em": "2026-07-20"
+  },
+  "https://www.cnbc.com/2026/07/19/earnings-playbook-alphabet-tesla-headline-this-weeks-big-reports.html": {
+    "hash": "adb208773f98408632357843068e23fa",
+    "visto_em": "2026-07-20"
+  },
+  "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/": {
+    "hash": "cd2b17260c92cc3bb996811b54b031e7",
+    "visto_em": "2026-07-20"
+  },
+  "https://www.cnbc.com/video/2026/07/20/tsmc-cfo-strong-customer-demand-drives-us-investment.html": {
+    "hash": "2fb21ee405a3374d9f7b0877d414a567",
+    "visto_em": "2026-07-20"
+  },
+  "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3": {
+    "hash": "6e6c808b581a7c261182dbeedd1abe1a",
+    "visto_em": "2026-07-20"
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough": {
+    "hash": "bdb4e5a4c1894c4667860f8096e62874",
+    "visto_em": "2026-07-20"
+  },
+  "https://www.forbes.com/sites/jimosman/2026/07/19/apple-stock-shows-why-the-ai-trade-is-moving-beyond-nvidia/": {
+    "hash": "13387f08e196ebdc7a7f167e2de57427",
+    "visto_em": "2026-07-20"
+  },
+  "https://www.forbes.com/sites/janakirammsv/2026/07/19/frontier-ai-labs-are-renting-compute-from-their-competitors/": {
+    "hash": "fcbef81fed3fbce486d77cdd24551730",
+    "visto_em": "2026-07-20"
+  },
+  "https://www.cnbc.com/video/2026/07/20/position-more-towards-the-picks-and-shovels-of-ai-javelin.html": {
+    "hash": "8f8c16e9d9d23f43b0cfb8cc4eed7f04",
+    "visto_em": "2026-07-20"
   }
 }

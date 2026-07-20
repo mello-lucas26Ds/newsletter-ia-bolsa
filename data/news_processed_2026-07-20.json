@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-07-20",
+    "total_noticias": 10,
+    "gerado_em": "2026-07-20T06:15:50.474141"
+  },
+  "noticias": [
+    {
+      "titulo": "Asia shares hesitant as oil climbs, earnings loom - Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-20/",
+      "fonte": "reuters.com",
+      "data": "2026-07-20",
+      "resumo": "Ações asiáticas vacilam devido ao aumento do preço do petróleo e à expectativa de resultados financeiros. A indústria de semicondutores e inteligência artificial está sob pressão, com o índice de semicondutores de Filadélfia caindo 10% na semana passada. A empresa chinesa Moonshot anunciou um modelo de peso aberto que supera o desempenho do modelo Fable da Anthropic.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Petróleo",
+        "Mercados Asiáticos"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says - CNBC",
+      "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-19",
+      "resumo": "A TSMC está acelerando a expansão de sua fábrica em Arizona para capitalizar a tendência de \"megatendência\" de IA, segundo o CFO Wendell Huang. A empresa investirá US$ 100 bilhões em novas instalações, incluindo fábricas de wafers e embalagens avançadas. A TSMC espera que sua tecnologia de 2 nanômetros impulse suas receitas no próximo trimestre.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 64
+    },
+    {
+      "titulo": "Earnings playbook: Alphabet and Tesla are among the big companies set to report this week - CNBC",
+      "url": "https://www.cnbc.com/2026/07/19/earnings-playbook-alphabet-tesla-headline-this-weeks-big-reports.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-19",
+      "resumo": "A Alphabet e a Tesla estão entre as principais empresas que vão relatar seus resultados financeiros esta semana. A LSEG prevê que a Alphabet e a Tesla tenham um crescimento de mais de 20% em receita e lucro. O analista Brian Pitz da BMO aumentou o alvo de preço da Alphabet para $455, o que representa um ganho de 31% em relação ao fechamento de sexta-feira.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tech",
+        "Earnings"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 75
+    },
+    {
+      "titulo": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-19",
+      "resumo": "A Netflix adquiriu o startup InterPositive, fundado por Ben Affleck, por US$ 587 milhões em dinheiro. O startup utiliza ferramentas de IA para melhorar a qualidade de filmes em pós-produção, especialmente em situações de desafios de produção. A equipe do InterPositive se juntará à Netflix e Ben Affleck se tornará conselheiro sênior da empresa.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Media & Entertainment",
+        "Netflix"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 88
+    },
+    {
+      "titulo": "TSMC CFO: higher U.S. investment driven by strong customer demand and U.S. government support - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/20/tsmc-cfo-strong-customer-demand-drives-us-investment.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-20",
+      "resumo": "O CFO da TSMC, Wendell Huang, afirma que a investidação adicional de $100 bilhões nos EUA é benéfica para o país, pois fortalece o ecossistema de semicondutores, fortalece a cadeia de suprimentos e cria mais empregos de alta tecnologia e bem remunerados.",
+      "sentimento": "bullish",
+      "tags": [
+        "[Semicondutores",
+        "TSMC",
+        "Economia]"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 51
+    },
+    {
+      "titulo": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them? - MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3",
+      "fonte": "marketwatch.com",
+      "data": "2026-07-19",
+      "resumo": "O mercado de ações em julho está em um estado de calma quase assustadora na superfície, mas há sinais crescentes de que isso não durará. O \"Magnifico Sete\", um grupo de nomes de tecnologia quase abandonados após um primeiro semestre de 2026 brutal, está voltando à vida nos últimos dois semanas, o que pode dar um impulso ao S&P 500. O Roundhill Magnifico Sete ETF (MAGS) avançou mais de 4% em julho, liderado por Apple e Meta.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 86
+    },
+    {
+      "titulo": "China’s Moonshot Plans IPO in Six Months After AI Breakthrough - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-19",
+      "resumo": "A Moonshot AI, uma empresa de inteligência artificial chinesa, está planejando uma oferta pública inicial (IPO) em seis meses após um recente avanço tecnológico. A empresa está em processo de levantamento de capital que pode valorizá-la em mais de $30 bilhões. A Moonshot está se preparando para listagem em Hong Kong e está em processo de distribuição de resolução de ações para seus investidores.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "China",
+        "IPO"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "Apple Stock Shows Why The AI Trade Is Moving Beyond Nvidia - Forbes",
+      "url": "https://www.forbes.com/sites/jimosman/2026/07/19/apple-stock-shows-why-the-ai-trade-is-moving-beyond-nvidia/",
+      "fonte": "forbes.com",
+      "data": "2026-07-19",
+      "resumo": "A ação da Apple mostra que o mercado de IA está se movendo além da Nvidia. A empresa não está tentando ganhar a corrida de IA vendendo infraestrutura, mas sim aproveitando sua vantagem em dispositivos, sistema operacional e serviços. O mercado está passando a avaliar se a IA ajuda a melhorar a rentabilidade da empresa existente da Apple.",
+      "sentimento": "bullish",
+      "tags": [
+        "Apple",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "Frontier AI Labs Are Renting Compute From Their Competitors - Forbes",
+      "url": "https://www.forbes.com/sites/janakirammsv/2026/07/19/frontier-ai-labs-are-renting-compute-from-their-competitors/",
+      "fonte": "forbes.com",
+      "data": "2026-07-19",
+      "resumo": "Empresas de IA estão mudando suas estratégias de infraestrutura de computação, diversificando-se e alugando capacidade de processamento de seus concorrentes. Isso inclui acordos de longo prazo e construção de instalações personalizadas com parceiros. A mudança de estratégia está gerando novos fornecedores de infraestrutura e realocando riscos de construção, financiamento e permissão.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Infraestrutura"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 60
+    },
+    {
+      "titulo": "Position portfolios toward AI's 'picks and shovels': Javelin Wealth Management - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/20/position-more-towards-the-picks-and-shovels-of-ai-javelin.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-20",
+      "resumo": "O analista da Javelin Wealth Management, Polka Mishra, recomenda que os investidores se posicionem em torno das \"picks and shovels\" da inteligência artificial, como a indústria de semicondutores da Coreia do Sul, que ainda está em um ciclo forte. No entanto, ele alerta que os investidores devem ser pacientes e preparados para mais volatilidade no mercado.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 65
+    }
+  ]
+}
