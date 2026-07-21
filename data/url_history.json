@@ -1,76 +1,4 @@
 {
-  "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a": {
-    "hash": "db73971e25b99e8bcdc88ba55f556348",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.cnbc.com/2026/07/12/top-analysts-are-confident-about-these-3-stocks-for-the-long-haul.html": {
-    "hash": "52dffe609c2bdd2896a6e0ee45c01c8c",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.reuters.com/world/asia-pacific/tsmc-add-2-advanced-chip-packaging-plants-chiayi-taiwan-minister-says-2026-07-13/": {
-    "hash": "e77995b225b5532f2084b6fdfc156cfb",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html": {
-    "hash": "5bac19376403ea12af8631c1bce679c2",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7": {
-    "hash": "96a11989331c9f563941362dbb15acb7",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.cnbc.com/2026/07/12/tech-stocks-still-feel-like-the-only-game-in-town-heres-why-they-are-so-hard-to-abandon-.html": {
-    "hash": "1a4d1301f630a281beece26b146a1c34",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.forbes.com/sites/quickerbettertech/2026/07/12/small-business-technology-news-roundup-microsoft-makes-a-major-ai-u-turn/": {
-    "hash": "4ec09de33a53a5c613ace530221842a7",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.forbes.com/sites/robertdaugherty/2026/07/12/ai-is-changing-lending-but-trust-remains-the-real-advantage/": {
-    "hash": "225e66ede0ac4df6380448cbd55d9c75",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks": {
-    "hash": "9d60fd3c7a6498e3d3c766b285af0025",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.ft.com/content/0d04378d-d71b-4225-b31a-70504e358480?syn-25a6b1a6=1": {
-    "hash": "deef150b1f60751c2900491bb506509d",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html": {
-    "hash": "ba41a59e7dd4c220f1042e11bf222385",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.ft.com/content/a66c1d90-682b-480a-8fc3-fb7b7e2f1873?syn-25a6b1a6=1": {
-    "hash": "014fa27ee6b5fa850afe57c12a20008c",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.bloomberg.com/": {
-    "hash": "51cb6d89b0c577a11f1fb35e85b6e3c9",
-    "visto_em": "2026-07-13"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-enthusiasm-powers-nasdaq-time-123400575.html": {
-    "hash": "0c96b1fd097461f652937aca23daf086",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.investing.com/analysis/wall-street-rally-stalls-as-ai-fears-hit-tech-stocks-gold-surges-200674437": {
-    "hash": "b9ea0d4fc6ce609fc6e6d23bc31f8eca",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.reuters.com/business/us-stock-index-futures-rise-middle-east-peace-hopes-ai-optimism-2026-05-06": {
-    "hash": "ff31613071e49640ea6740054355b102",
-    "visto_em": "2026-07-13"
-  },
-  "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-as-software-leads-ai-relief-rally-ahead-of-nvidia-earnings-210010666.html": {
-    "hash": "5528e35f6780d222f6da96e3fcc229f9",
-    "visto_em": "2026-07-13"
-  },
-  "https://www.investing.com/analysis/3-undertheradar-chip-stocks-with-strong-upside-amid-the-ai-rally-200679780": {
-    "hash": "7362818e63c7bf0003f4f87d292f9bac",
-    "visto_em": "2026-07-13"
-  },
   "https://www.reuters.com/world/asia-pacific/tsmc-q2-revenue-jumps-36-year-earlier-beating-market-expectations-2026-07-13/": {
     "hash": "2e49c43147ce97c7c5ae6efc0c6b7ef6",
     "visto_em": "2026-07-14"
@@ -498,5 +426,45 @@
   "https://www.businessinsider.com/kimi-k3-ai-model-moonshot-investors-alibaba-cloud-tencent-stock-2026-7": {
     "hash": "551f08f2fcd60434c75afd21a665c3a2",
     "visto_em": "2026-07-20"
+  },
+  "https://ca.finance.yahoo.com/news/us-stock-futures-asian-markets-115838384.html": {
+    "hash": "eb80e95da794e8b39a2501bd4978ebbf",
+    "visto_em": "2026-07-21"
+  },
+  "https://markets.businessinsider.com/news/stocks/nvidia-&-micron--2-profitable-ai-stocks-with-strong-growth-potential-15809248": {
+    "hash": "5acb2938610a21a076bec477d753a730",
+    "visto_em": "2026-07-21"
+  },
+  "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17": {
+    "hash": "633d4bd29484511d2cb99e7752379fdc",
+    "visto_em": "2026-07-21"
+  },
+  "https://www.reuters.com/world/asia-pacific/global-markets-wrapup-1-2026-07-21/": {
+    "hash": "ce4af9abb5b3e2bea7741627944c4e7a",
+    "visto_em": "2026-07-21"
+  },
+  "https://www.cnbc.com/video/2026/07/20/liontrust-the-key-this-week-will-be-earnings-outlook-from-the-ai-hyperscalers.html": {
+    "hash": "5c676ab2156cd070c71fd69fffbd31f5",
+    "visto_em": "2026-07-21"
+  },
+  "https://www.businessinsider.com/growth-stocks-investment-strategy-sp500-magnificent-7-ai-citi-2026-7": {
+    "hash": "29d22e016dc1776e7f18272a10f0edd7",
+    "visto_em": "2026-07-21"
+  },
+  "https://www.cnbc.com/video/2026/07/21/markets-looking-for-durable-ai-spending-strategist.html": {
+    "hash": "43aaa626a7c80593de9c16fe6927ce31",
+    "visto_em": "2026-07-21"
+  },
+  "https://www.benzinga.com/markets/equities/26/07/60543133/intel-stock-forms-an-alarming-pattern-as-earnings-loom": {
+    "hash": "c32b966fe725968f120ef3581a2db92f",
+    "visto_em": "2026-07-21"
+  },
+  "https://www.cnbc.com/2026/07/20/stocks-making-the-biggest-moves-midday-amd-achr-spcx-iren.html": {
+    "hash": "facc69d96f7926be9f2b85c4a33c8e00",
+    "visto_em": "2026-07-21"
+  },
+  "https://www.forbes.com/sites/victordey/2026/07/20/former-microsoft-ai-leaders-are-spending-1m-to-prove-ai-can-replace-ceos/": {
+    "hash": "06d18a09c529d680ce55eeac4b72c375",
+    "visto_em": "2026-07-21"
   }
 }
