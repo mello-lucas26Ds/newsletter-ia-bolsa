@@ -1,64 +1,4 @@
 {
-  "https://www.reuters.com/world/asia-pacific/tsmc-q2-revenue-jumps-36-year-earlier-beating-market-expectations-2026-07-13/": {
-    "hash": "2e49c43147ce97c7c5ae6efc0c6b7ef6",
-    "visto_em": "2026-07-14"
-  },
-  "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html": {
-    "hash": "3cc64f04befb87b7c5edcd5b2df40e6e",
-    "visto_em": "2026-07-14"
-  },
-  "https://www.businessinsider.com/stock-market-outlook-q2-earnings-bofa-gs-jpm-wfc-citi-2026-7": {
-    "hash": "046eabe8cb47e261ac72502204e9f5b3",
-    "visto_em": "2026-07-14"
-  },
-  "https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-earnings-h2-2026-outlook/": {
-    "hash": "c616765ceb6f29124b7f4f64e2243ae3",
-    "visto_em": "2026-07-14"
-  },
-  "https://www.cnbc.com/2026/07/13/jim-cramer-tech-best-place-find-big-winners.html": {
-    "hash": "60e17087176924d4d3e187cd9c215709",
-    "visto_em": "2026-07-14"
-  },
-  "https://www.reuters.com/business/chip-stocks-hit-rocky-patch-whats-next-2026-07-13/": {
-    "hash": "fc000b1d84430fb53210fe63193f7568",
-    "visto_em": "2026-07-14"
-  },
-  "https://techcrunch.com/sponsor/global-millenial-capital/the-ai-economys-next-layer-of-value/": {
-    "hash": "2ef9c8bedde5b521f3b6abdb132103db",
-    "visto_em": "2026-07-14"
-  },
-  "https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff": {
-    "hash": "d5e6492ab3b4322e04486634b71f8c74",
-    "visto_em": "2026-07-14"
-  },
-  "https://www.businessinsider.com/openai-lawsuit-apple-microsoft-history-sam-altman-2026-7": {
-    "hash": "7d05463eab938536f3f01616ede06fdd",
-    "visto_em": "2026-07-14"
-  },
-  "https://seekingalpha.com/article/4921522-resilience-reflationary-world-navigating-concentration-conflict-conviction-em": {
-    "hash": "f1c702ac67cdc2f2aa6a0c39946a6dbf",
-    "visto_em": "2026-07-14"
-  },
-  "https://www.benzinga.com/trading-ideas/movers/26/07/60423888/braiin-stock-jumps-after-launch-of-ai-native-real-estate-workforce-targeting-32b-market": {
-    "hash": "3ddfbd3884e37a7a4ea1a57b34de9b2e",
-    "visto_em": "2026-07-14"
-  },
-  "https://www.cnbc.com/video/2026/07/13/evolution-of-the-ai-trade-plays-into-sk-hynixs-strengths-rayliant.html": {
-    "hash": "c6825dcc83952c1ab45835d575d29d52",
-    "visto_em": "2026-07-14"
-  },
-  "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html": {
-    "hash": "48e1bce627e7cea3d6d8e2829d20c82b",
-    "visto_em": "2026-07-14"
-  },
-  "https://www.cnbc.com/video/2026/07/13/modern-data-centers-can-run-on-no-water-consumption-vertiv-ceo.html": {
-    "hash": "c6825dcc83952c1ab45835d575d29d52",
-    "visto_em": "2026-07-14"
-  },
-  "https://www.forbes.com/sites/jonathanreichental/2026/07/13/delivering-enterprise-ai-value-requires-more-than-technology/": {
-    "hash": "36efc7098164ea443e4b47aca004116b",
-    "visto_em": "2026-07-14"
-  },
   "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html": {
     "hash": "2d3e406fee472c4fcc351aecf870f31b",
     "visto_em": "2026-07-15"
@@ -482,5 +422,45 @@
   "https://www.forbes.com/sites/viviantoh/2026/07/20/the-enterprise-ai-reckoning-the-next-phase-of-the-ai-economy/": {
     "hash": "be68b95b51d397c9518c8e2a5dda6129",
     "visto_em": "2026-07-21"
+  },
+  "https://www.cnbc.com/video/2026/07/20/hyperscalers-are-better-positioned-than-semiconductors-this-earnings-season-says-hsbcs-max-kettner.html": {
+    "hash": "c6825dcc83952c1ab45835d575d29d52",
+    "visto_em": "2026-07-22"
+  },
+  "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html": {
+    "hash": "feff17e4a4385ec141153c71b18d82da",
+    "visto_em": "2026-07-22"
+  },
+  "https://seekingalpha.com/article/4923508-ai-bubble-burst-alphabet-could-be-first-to-cut-ai-capex": {
+    "hash": "1cd44f40c5d28e619f1775fec6150133",
+    "visto_em": "2026-07-22"
+  },
+  "https://www.businessinsider.com/chip-stocks-ai-hardware-kimi-k3-ubs-bofa-wall-street-2026-7": {
+    "hash": "0e7d00a2f8548759342a3035b71abbcf",
+    "visto_em": "2026-07-22"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment": {
+    "hash": "f2ea52728341208ee57020a8a60c3e3f",
+    "visto_em": "2026-07-22"
+  },
+  "https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-premarket-gm-mmm-nvs-nbis.html": {
+    "hash": "dce84b11d63f2f8551682ad32d989917",
+    "visto_em": "2026-07-22"
+  },
+  "https://www.cnbc.com/2026/07/22/wistron-shares-surge-after-opening-texas-plant-for-nvidia-ai-servers-.html": {
+    "hash": "b18554aace77068ee20b7efc240ea43c",
+    "visto_em": "2026-07-22"
+  },
+  "https://www.investing.com/news/stock-market-news/top-us-workforce-services-stocks-for-the-ai-infrastructure-boom-barclays-93CH-4803721": {
+    "hash": "4bac84bd2870c4f1544d69541af89ca8",
+    "visto_em": "2026-07-22"
+  },
+  "https://www.wsj.com/logistics-report/altana-acquires-ai-platform-to-tackle-customs-complexity-0bf30fa2": {
+    "hash": "78de653d9ef7a7e65f50e73e544de56e",
+    "visto_em": "2026-07-22"
+  },
+  "https://www.cnbc.com/2026/07/20/monday-top-wall-street-analyst-calls-like-nvidia.html": {
+    "hash": "0140193d4d7a0b1ddb1678ab85f0d787",
+    "visto_em": "2026-07-22"
   }
 }
