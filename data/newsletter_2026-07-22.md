@@ -1,137 +1,85 @@
 # Newsletter IA Bolsa — 2026-07-22
 
-**Gerado em:** 22/07/2026 05:47
-**Total:** 10 noticias
+**Gerado em:** 22/07/2026 11:46
+**Total:** 6 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Hyperscalers are better positioned than semiconductors this earnings season, says HSBC's Max Kettner - CNBC
+## 1. This cloud infrastructure stock has slid in recent months. Truist sees a bounce ahead - CNBC
 
 **Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Tecnologia, Hyperscalers
-
-De acordo com o analista da HSBC, Max Kettner, os hyperscalers estão melhor posicionados do que os semicondutores durante esta temporada de resultados. Kettner acredita que os hyperscalers estão melhor preparados para lidar com a demanda crescente por tecnologia de inteligência artificial.
-
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/20/hyperscalers-are-better-positioned-than-semiconductors-this-earnings-season-says-hsbcs-max-kettner.html)
-
----
-
-## 2. Trump's push for American-made AI chips hits TSMC's margins - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** Semiconductor, AI, Economia, Política
-
-A TSMC anunciou um investimento adicional de $100 bilhões nos EUA, após a ameaça de Trump de tarifas para empresas que não produzem produtos americanos. Embora a empresa tenha visto um aumento de 100% em seu capital de mercado nos últimos 12 meses, os lucros trimestrais foram afetados pela expansão internacional.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html)
-
----
-
-## 3. AI Bubble Burst: Alphabet Could Be The First To Cut AI Capex (NASDAQ:GOOG) - Seeking Alpha
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Finanças
-
-A Alphabet pode ser forçada a cortar a orientação de investimentos em IA devido a restrições financeiras, incluindo a redução dos fluxos de caixa líquidos e a necessidade de emitir dívida e novas ações para financiar esses investimentos. Isso pode ser insustentável, considerando o retorno sobre o investimento (ROI).
-
-[Ler noticia completa](https://seekingalpha.com/article/4923508-ai-bubble-burst-alphabet-could-be-first-to-cut-ai-capex)
-
----
-
-## 4. Why analysts say investors should stick with the AI hardware trade despite major volatility in chips stocks - Business Insider
-
-**Fonte:** businessinsider.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, Wall Street
+**Tags:** AI, Nuvem, Tecnologia
 
-Analistas financeiros recomendam que investidores mantenham sua confiança no mercado de hardware de IA, apesar da volatilidade recente nos preços das ações de chips. Eles argumentam que a tendência positiva do mercado de IA ainda é forte, apesar de recentes oscilações. A competição de modelos de IA na China e a incerteza sobre a taxa de juros não são suficientes para afastar os investidores do setor.
+A analista Truist Securities recomenda que os investidores comprem ações da CoreWeave antes que o preço bata em um teto, após a empresa ter sido atualizada para uma recomendação de compra. A empresa de infraestrutura de nuvem tem caído 35% nos últimos três meses, mas a analista Arvind Ramnani vê um potencial de recuperação de 58% do preço atual. A CoreWeave é uma das principais empresas de nuvem e tem uma liderança no mercado, mas enfrenta concorrência de outras empresas, incluindo a Meta.
 
-[Ler noticia completa](https://www.businessinsider.com/chip-stocks-ai-hardware-kimi-k3-ubs-bofa-wall-street-2026-7)
-
----
-
-## 5. America needs to stop getting shocked by Chinese AI - The Verge
-
-**Fonte:** theverge.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** IA, Tecnologia, Mercados Financeiros
-
-A China está ameaçando a liderança do mercado de inteligência artificial (IA) dos EUA, com modelos chineses capazes desafiando a expectativa de que empresas como Anthropic e OpenAI dominem o mercado global. Isso pode afetar as valorações de potenciais IPOs dessas empresas e comprometer a crescimento das empresas de tecnologia que investiram pesadamente em infraestrutura de IA.
-
-[Ler noticia completa](https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment)
+[Ler noticia completa](https://www.cnbc.com/2026/07/22/coreweave-has-slid-in-recent-months-truist-is-betting-on-a-bounce.html)
 
 ---
 
-## 6. Stocks making the biggest moves premarket: General Motors, 3M, Novartis, Nebius & more - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Semicondutores, Mercado de Ações
-
-Ações em movimento pré-abertura: General Motors, 3M, Novartis, Nebius e mais. Nebius Group, uma empresa de nuvem de inteligência artificial, teve um aumento de 6% após a Nvidia revelar uma participação de 9,3% na empresa. 3M apresentou resultados de segunda trimestre que superaram as expectativas, levando a um aumento de mais de 5% na ação. A Taiwan Semiconductor Manufacturing também teve um aumento de mais de 3% após relatórios de aumento de preços para serviços de fabricação de chips.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-premarket-gm-mmm-nvs-nbis.html)
-
----
-
-## 7. Wistron shares surge in Taiwan after opening of Texas AI superchip plant to supply Nvidia - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Nvidia, Tecnologia
-
-A Wistron, uma empresa taiwanesa, viu suas ações subir após a abertura de uma fábrica de chips de IA em Texas, que fornecerá componentes para a Nvidia. A fábrica, que custou US$ 700 milhões, produzirá chips avançados de processamento de IA e expandirá sua capacidade para produzir chips críticos para o próximo geração de computação de IA.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/22/wistron-shares-surge-after-opening-texas-plant-for-nvidia-ai-servers-.html)
-
----
-
-## 8. Top US Workforce Services Stocks for the AI Infrastructure Boom: Barclays - Investing.com
+## 2. Asia stocks climb on tech gains, KOSPI surges 5%; Middle East tensions simmer - Investing.com
 
 **Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Inteligência Artificial, Serviços de Força de Trabalho, Infraestrutura de Dados
+**Tags:** tecnologia, mercados asiáticos, resultados de empresas
 
-A Barclays identificou a Target Hospitality como uma das principais empresas de serviços de força de trabalho no setor, devido à sua capacidade de construir e operar campi projetados para projetos de infraestrutura de dados e inteligência artificial. A empresa está bem posicionada para atender às necessidades de acomodação de força de trabalho geradas pelos projetos de construção de centros de dados em larga escala.
+Ações asiáticas subiram devido a ganhos em tecnologia, com o KOSPI aumentando 5%. No entanto, futuros ligados à Índia caíram 0,8% até o meio-dia. Investidores estão tentando avaliar se os ganhos em tecnologia poderão ser mantidos após os resultados de grandes empresas americanas.
 
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/top-us-workforce-services-stocks-for-the-ai-infrastructure-boom-barclays-93CH-4803721)
-
----
-
-## 9. Exclusive | Altana Acquires AI Platform to Tackle Customs Complexity - WSJ
-
-**Fonte:** wsj.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Tecnologia, Comércio Exterior
-
-A empresa de tecnologia de comércio Altana adquiriu a plataforma de inteligência artificial (IA) Cervo AI para automatizar processos de escritura de entradas de comércio exterior, ajudando a lidar com a complexidade crescente de tarifas e políticas comerciais.
-
-[Ler noticia completa](https://www.wsj.com/logistics-report/altana-acquires-ai-platform-to-tackle-customs-complexity-0bf30fa2)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/asia-stocks-climb-on-tech-gains-kospi-surges-5-middle-east-tensions-simmer-4804620)
 
 ---
 
-## 10. Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Yeti, Harley-Davidson, Broadcom & more - CNBC
+## 3. AI has not killed equity diversification: Helen Jewell - Reuters
 
-**Fonte:** cnbc.com  
+**Fonte:** reuters.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** IA, Tecnologia, Diversificação
+
+A expansão da tecnologia de inteligência artificial (IA) nos últimos anos não invalidou a diversificação de investimentos em ações. Embora os stocks de IA tenham dobrado de valor em um ano, a diversificação não foi uma estratégia recompensadora. A saúde, por outro lado, tem sido um bom diversificador, pois não tem uma relação direta com os stocks de IA. No entanto, a expansão da IA pode mudar essa dinâmica.
+
+[Ler noticia completa](https://www.reuters.com/commentary/reuters-open-interest/ai-has-not-killed-equity-diversification-helen-jewell-2026-07-22/)
+
+---
+
+## 4. Nvidia: Jensen Huang's $0 Billion Strategy (NASDAQ:NVDA) - Seeking Alpha
+
+**Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Fintech, NASDAQ
+**Tags:** AI, Semicondutores, NASDAQ
 
-A CNBC divulgou as principais recomendações de analistas financeiros de segunda-feira, incluindo a Nvidia, Apple, Tesla, Yeti, Harley-Davidson, Broadcom e outras empresas. Morgan Stanley atualizou a Global Payments para "sobrecarga" e acreditou que a empresa está bem posicionada para uma reavaliação. A Bank of America manteve a recomendação de compra para a Apple, enquanto a Jefferies atualizou a Fervo Energy para compra e a Loop atualizou a Harley-Davidson para compra após conversas com concessionários.
+Jensen Huang, CEO da Nvidia, tem uma estratégia de $0 bilhão para impulsionar o crescimento da empresa. A estratégia visa aproveitar as oportunidades de crescimento em áreas como inteligência artificial, jogos e computação em nuvem. A Nvidia está bem posicionada para aproveitar as tendências de crescimento dessas áreas.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/20/monday-top-wall-street-analyst-calls-like-nvidia.html)
+[Ler noticia completa](https://seekingalpha.com/article/4923889-nvidia-jensen-huang-0-billion-strategy)
+
+---
+
+## 5. AI investment boom puts Big Tech's free cash flow under pressure - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Tecnologia, Big Tech
+
+A corrida por investimentos em IA está colocando pressão nos fluxos de caixa livres das grandes tecnologias. A Oracle está preocupada, com suas ações tendo perdido 36% de valor este ano, enquanto seu fluxo de caixa livre se tornou negativo. A empresa planeja aumentar $45 bilhões a $50 bilhões por meio de dívida e ações para financiar a expansão da infraestrutura de nuvem.
+
+[Ler noticia completa](https://www.reuters.com/business/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-2026-07-22/)
+
+---
+
+## 6. The Anthropic-Physical Intelligence rumor roiling AI Twitter - TechCrunch
+
+**Fonte:** techcrunch.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Robótica, Startups
+
+Um rumor sobre a possível aquisição da startup de robótica Physical Intelligence pela Anthropic gerou uma grande reação no Twitter. Embora a startup tenha negado a notícia, foi revelado que as duas empresas realmente mantiveram conversas de aquisição no início do ano. A Physical Intelligence é uma startup de renome, com mais de $1 bilhão de investimento e um modelo de robótica amplamente utilizado na pesquisa.
+
+[Ler noticia completa](https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/)
 
 ---

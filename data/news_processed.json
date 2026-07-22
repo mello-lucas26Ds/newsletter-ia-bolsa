@@ -2,10 +2,100 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-22",
-    "total_noticias": 105,
-    "gerado_em": "2026-07-22T05:47:20.603106"
+    "total_noticias": 111,
+    "gerado_em": "2026-07-22T11:46:54.249558"
   },
   "noticias": [
+    {
+      "titulo": "This cloud infrastructure stock has slid in recent months. Truist sees a bounce ahead - CNBC",
+      "url": "https://www.cnbc.com/2026/07/22/coreweave-has-slid-in-recent-months-truist-is-betting-on-a-bounce.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-22",
+      "resumo": "A analista Truist Securities recomenda que os investidores comprem ações da CoreWeave antes que o preço bata em um teto, após a empresa ter sido atualizada para uma recomendação de compra. A empresa de infraestrutura de nuvem tem caído 35% nos últimos três meses, mas a analista Arvind Ramnani vê um potencial de recuperação de 58% do preço atual. A CoreWeave é uma das principais empresas de nuvem e tem uma liderança no mercado, mas enfrenta concorrência de outras empresas, incluindo a Meta.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Nuvem",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 92
+    },
+    {
+      "titulo": "Asia stocks climb on tech gains, KOSPI surges 5%; Middle East tensions simmer - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-climb-on-tech-gains-kospi-surges-5-middle-east-tensions-simmer-4804620",
+      "fonte": "investing.com",
+      "data": "2026-07-22",
+      "resumo": "Ações asiáticas subiram devido a ganhos em tecnologia, com o KOSPI aumentando 5%. No entanto, futuros ligados à Índia caíram 0,8% até o meio-dia. Investidores estão tentando avaliar se os ganhos em tecnologia poderão ser mantidos após os resultados de grandes empresas americanas.",
+      "sentimento": "bullish",
+      "tags": [
+        "tecnologia",
+        "mercados asiáticos",
+        "resultados de empresas"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 55
+    },
+    {
+      "titulo": "AI has not killed equity diversification: Helen Jewell - Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/ai-has-not-killed-equity-diversification-helen-jewell-2026-07-22/",
+      "fonte": "reuters.com",
+      "data": "2026-07-22",
+      "resumo": "A expansão da tecnologia de inteligência artificial (IA) nos últimos anos não invalidou a diversificação de investimentos em ações. Embora os stocks de IA tenham dobrado de valor em um ano, a diversificação não foi uma estratégia recompensadora. A saúde, por outro lado, tem sido um bom diversificador, pois não tem uma relação direta com os stocks de IA. No entanto, a expansão da IA pode mudar essa dinâmica.",
+      "sentimento": "neutral",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "Diversificação"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 146
+    },
+    {
+      "titulo": "Nvidia: Jensen Huang's $0 Billion Strategy (NASDAQ:NVDA) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4923889-nvidia-jensen-huang-0-billion-strategy",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-21",
+      "resumo": "Jensen Huang, CEO da Nvidia, tem uma estratégia de $0 bilhão para impulsionar o crescimento da empresa. A estratégia visa aproveitar as oportunidades de crescimento em áreas como inteligência artificial, jogos e computação em nuvem. A Nvidia está bem posicionada para aproveitar as tendências de crescimento dessas áreas.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 57
+    },
+    {
+      "titulo": "AI investment boom puts Big Tech's free cash flow under pressure - Reuters",
+      "url": "https://www.reuters.com/business/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-2026-07-22/",
+      "fonte": "reuters.com",
+      "data": "2026-07-22",
+      "resumo": "A corrida por investimentos em IA está colocando pressão nos fluxos de caixa livres das grandes tecnologias. A Oracle está preocupada, com suas ações tendo perdido 36% de valor este ano, enquanto seu fluxo de caixa livre se tornou negativo. A empresa planeja aumentar $45 bilhões a $50 bilhões por meio de dívida e ações para financiar a expansão da infraestrutura de nuvem.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Big Tech"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "The Anthropic-Physical Intelligence rumor roiling AI Twitter - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-22",
+      "resumo": "Um rumor sobre a possível aquisição da startup de robótica Physical Intelligence pela Anthropic gerou uma grande reação no Twitter. Embora a startup tenha negado a notícia, foi revelado que as duas empresas realmente mantiveram conversas de aquisição no início do ano. A Physical Intelligence é uma startup de renome, com mais de $1 bilhão de investimento e um modelo de robótica amplamente utilizado na pesquisa.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Robótica",
+        "Startups"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 109
+    },
     {
       "titulo": "Hyperscalers are better positioned than semiconductors this earnings season, says HSBC's Max Kettner - CNBC",
       "url": "https://www.cnbc.com/video/2026/07/20/hyperscalers-are-better-positioned-than-semiconductors-this-earnings-season-says-hsbcs-max-kettner.html",
