@@ -1,11 +1,162 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-22",
-    "total_noticias": 111,
-    "gerado_em": "2026-07-22T11:46:54.249558"
+    "data": "2026-07-23",
+    "total_noticias": 106,
+    "gerado_em": "2026-07-23T05:51:44.144096"
   },
   "noticias": [
+    {
+      "titulo": "Chip Stocks Surge as SK hynix, Micron Lead AI-Fueled Rally - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-surge-sk-hynix-174430156.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-22",
+      "resumo": "Ações de semicondutores subiram na terça-feira, com a SK hynix e a Micron Technology liderando as ganhas, enquanto investidores continuam a favorar fabricantes de memória devido à expectativa de forte demanda relacionada à inteligência artificial. A SK hynix subiu cerca de 9% e a Micron Technology ganhou cerca de 7%, adicionando ao seu desempenho forte em 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "Semicondutores",
+        "Inteligência Artificial",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "Nasdaq 100 Jumps 1% as Chip Stocks Rebound Before Big Tech Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-jumps-1-chip-192526254.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-21",
+      "resumo": "A Nasdaq 100 subiu 1% devido à recuperação das ações de chips, com a indústria de tecnologia também se fortalecendo. A Alphabet, Amazon e Microsoft moveram-se para cima, embora declínios em Apple e Tesla limitassem o avanço geral do S&P 500. A Intel e a Alphabet estão programadas para divulgar resultados que podem fornecer insights sobre como o gasto em inteligência artificial está influenciando a indústria de tecnologia.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Semicondutores",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 78
+    },
+    {
+      "titulo": "Stock market today: Dow, S&P 500, Nasdaq rally fizzles as chip stock momentum fades, oil rises",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-21",
+      "resumo": "O mercado de ações dos EUA caiu na segunda-feira, com as ações de chips perdendo impulso antes dos resultados trimestrais das grandes tecnologias esta semana, enquanto os preços do petróleo foram voláteis após ataques recíprocos entre os EUA e o Irã no fim de semana. As expectativas de Wall Street aumentaram para os resultados trimestrais da Alphabet, Intel, IBM e Tesla, que serão divulgados mais tarde esta semana.",
+      "sentimento": "bearish",
+      "tags": [
+        "tecnologia",
+        "petróleo",
+        "ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 77
+    },
+    {
+      "titulo": "Micron jumps 12% on BofA note, chip rally (MU:NASDAQ) | Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4616000-micron-jumps-12-on-bofa-note-chip-rally",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-21",
+      "resumo": "A nota positiva da Bank of America sobre a demanda de memória impulsada pela IA e o potencial de retorno de capital, juntamente com a força geral das ações de memória e armazenamento, impulsionou a alta da ação da Micron. A empresa relatou receita, margens e EPS recorde, com expectativa de crescimento contínuo no Q4, embora os aumentos de margem possam ser mais lentos. Os defensores da ação citam o fluxo de caixa livre recorde, a estrutura oligopolista e a demanda por IA, enquanto os críticos alertam para a alta valorização, o aumento potencial de oferta na indústria, os riscos técnicos e a normalização das margens ao longo do tempo.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 119
+    },
+    {
+      "titulo": "Powerful rally! This Wall Street AI winner with 500% share price jump is not your typical chip stock - The Economic Times",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/powerful-rally-this-wall-street-ai-winner-with-500-share-price-jump-is-not-your-typical-chip-stock/articleshow/132538639.cms",
+      "fonte": "m.economictimes.com",
+      "data": "2026-07-22",
+      "resumo": "A GE Vernova experimentou um crescimento de 500% desde sua spin-off em 2024, tornando-se uma importante jogada de infraestrutura de IA. Investidores estão apostando no aumento da demanda por eletricidade em centros de dados, impulsionando ordens, backlog e orientação. O crescimento forte nas áreas de energia, eletrificação e turbinas a gás está impulsionando a corrida além das ações de chip tradicionais focadas em IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Energia",
+        "Infraestrutura"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "A veteran investor says this is the most important AI capex number that markets should watch - Business Insider",
+      "url": "https://www.businessinsider.com/tech-earnings-ai-capex-hyperscalers-msft-nvda-gene-munster-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-22",
+      "resumo": "Um investidor experiente afirma que o número mais importante de investimento em infraestrutura de IA que os mercados devem observar é a taxa de crescimento das receitas, que ele espera ultrapassar 20% ao ano nos próximos anos. Isso, segundo ele, criaria um cenário favorável para as ações de infraestrutura de IA, pois o crescimento das receitas superaria a queda nos múltiplos de valorização.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "Investing"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "Google justifies its massive AI spending with a booming cloud business - TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-22",
+      "resumo": "A Alphabet, empresa matriz da Google, apresentou resultados financeiros impressionantes, com lucro de $112,1 bilhão e crescimento de 24% na receita em relação ao mesmo período do ano anterior. A empresa justificou seu investimento massivo em IA com o crescimento do negócio de nuvem, que alcançou $94,5 bilhões em receita. O CEO Sundar Pichai destacou a \"mudança de paradigma\" causada pelos investimentos em IA na empresa.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Cloud Computing",
+        "Google"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "Alphabet earnings put the AI spending boom under scrutiny - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/22/alphabet-earnings-put-the-ai-spending-boom-under-scrutiny.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-22",
+      "resumo": "A Alphabet apresentou resultados financeiros que levantam questionamentos sobre o boom de investimentos em inteligência artificial. Investidores estão procurando por crescimento de receita no cloud e lucros estáveis na busca para justificar um investimento de capital de cerca de 300 bilhões de dólares no próximo ano, previsto pelo Bank of America.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Financeiro"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 60
+    },
+    {
+      "titulo": "Why we're sticking with Alphabet despite an imperfect quarter and more AI spending - CNBC",
+      "url": "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-23",
+      "resumo": "A Alphabet apresentou um quarto imperfeito, com lucro operacional abaixo das expectativas, mas acima do esperado em termos de margem operacional. A empresa aumentou sua despesa com capital para o ano, o que pode preocupar os investidores. Apesar disso, a demanda por IA foi boa e o mercado não está em um clima perdoador.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 63
+    },
+    {
+      "titulo": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement - CNBC",
+      "url": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-21",
+      "resumo": "A Super Micro anunciou um aumento de 15% em suas ações após a divulgação de novas ordens e margens de lucro. A empresa espera que sua receita para o trimestre de junho seja no baixo fim da faixa de previsão de $11,0 bilhão a $12,5 bilhão. Além disso, a Super Micro relatou um estoque de ordens recorde no final do ano fiscal de 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "[Super Micro",
+        "AI",
+        "Tech]"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
     {
       "titulo": "This cloud infrastructure stock has slid in recent months. Truist sees a bounce ahead - CNBC",
       "url": "https://www.cnbc.com/2026/07/22/coreweave-has-slid-in-recent-months-truist-is-betting-on-a-bounce.html",
@@ -1339,21 +1490,6 @@
       "tokens_usados": 80
     },
     {
-      "titulo": "TSMC posts 77% profit jump for Q2, surging past market expectations - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/tsmcs-second-quarter-profit-seen-hitting-record-ai-boom-2026-07-15/",
-      "fonte": "reuters.com",
-      "data": "2026-07-15",
-      "resumo": "A TSMC (Taiwan Semiconductor Manufacturing Co) registrou um aumento de 77% no lucro do segundo trimestre, superando as expectativas do mercado. A demanda por chips avançados para aplicações de inteligência artificial permanece forte, levando a uma expansão significativa da empresa. A TSMC é agora a empresa mais valiosa da Ásia, com um capitalização de mercado de cerca de $1,97 trilhão.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Taiwan"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 69
-    },
-    {
       "titulo": "TSMC second-quarter profit jumps 23%, beating estimates, on high-end chip boom - CNBC",
       "url": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
       "fonte": "cnbc.com",
@@ -1382,37 +1518,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 88
-    },
-    {
-      "titulo": "Michael Burry shares the earnings reports he's watching to see if IBM's disastrous quarter is an industrywide problem - Business Insider",
-      "url": "https://www.businessinsider.com/michael-burry-ibm-stock-down-ai-software-stocks-msft-wipro-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-15",
-      "resumo": "Michael Burry, conhecido investidor, está monitorando os relatórios de ganhos de várias empresas, incluindo SAP, Microsoft, Wipro, Infosys, Cognizant e Capgemini, para ver se a péssima performance da IBM é um problema de toda a indústria. Burry acredita que a IBM não conseguiu se adaptar rapidamente ao mercado de inteligência artificial e está esperando para ver se outros companheiros de indústria também enfrentam problemas semelhantes.",
-      "sentimento": "bearish",
-      "tags": [
-        "Wall Street",
-        "Stocks",
-        "AI",
-        "Tech stocks"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 77
-    },
-    {
-      "titulo": "China's DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO, sources say - Reuters",
-      "url": "https://www.reuters.com/legal/transactional/chinas-deepseek-raise-fresh-capital-74-billion-valuation-ahead-onshore-ipo-2026-07-15/",
-      "fonte": "reuters.com",
-      "data": "2026-07-15",
-      "resumo": "A empresa de inteligência artificial (IA) chinesa DeepSeek está planejando levantar capital adicional a um valor de 74 bilhões de dólares, com o objetivo de financiar seus planos de expansão e desenvolvimento de tecnologia. A empresa está procurando arrecadar até 50 bilhões de iuanes em uma nova rodada de financiamento e está em discussões para realizar uma oferta pública inicial (IPO) na bolsa de valores de Shanghai. Isso sugere que a empresa está enfrentando desafios financeiros para manter sua liderança no setor de IA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "China",
-        "IPO"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 93
     },
     {
       "titulo": "Hitting it big betting on startups in the AI era will be a lot harder, but Silicon Valley might not feel the worst of it - Business Insider",
@@ -1462,36 +1567,6 @@
       "tokens_usados": 122
     },
     {
-      "titulo": "What Is Driving The Divergence Between AI Analyst Targets And Reality - Forbes",
-      "url": "https://www.forbes.com/sites/karlfreund/2026/07/15/what-is-driving-the-divergence-between-ai-analyst-targets-and-reality/",
-      "fonte": "forbes.com",
-      "data": "2026-07-15",
-      "resumo": "A divergência entre as previsões dos analistas de AI e a realidade está causando perdas significativas no mercado de ações de chips, com mais de $2.3 trilhões perdidos desde junho. Embora os analistas sejam otimistas, com previsões de crescimento de receita e valorização conservadora, os investidores estão preocupados com a demanda em pico, ameaças competitivas e declínio de CAPEX. Históricamente, essas divergências resultaram em declínios significativos ou períodos de recuperação prolongados.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Finance"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 80
-    },
-    {
-      "titulo": "Alibaba’s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence - CNBC",
-      "url": "https://www.cnbc.com/2026/07/15/alibaba-qwen-ai-apple-intelligence.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-15",
-      "resumo": "As ações da Alibaba listadas nos EUA subiram 4% em preços de abertura após a confirmação de que seu modelo de IA Qwen será integrado aos sistemas da Apple na China. Isso ocorre após meses de intensa rivalidade tecnológica entre os EUA e a China na corrida pela liderança na área de IA. A integração permitirá que os usuários acessem as capacidades do modelo de Qwen, como compreensão e geração de texto e imagem, sem precisar mudar de ferramentas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "China",
-        "Apple"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 88
-    },
-    {
       "titulo": "Apple can cement its AI position by picking the winner to partner or acquire: CIO - CNBC",
       "url": "https://www.cnbc.com/video/2026/07/16/alex-guiliano.html",
       "fonte": "cnbc.com",
@@ -1505,21 +1580,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 67
-    },
-    {
-      "titulo": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models - TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "fonte": "techcrunch.com",
-      "data": "2026-07-15",
-      "resumo": "A Anthropic e o fundo de investimento Blackstone estão investindo em uma joint venture chamada Ode, que visa implementar tecnologia de IA em empresas, em vez de apenas desenvolver modelos. A Ode foi fundada com base em uma startup de serviços de engenharia de IA chamada Fractional AI, que foi adquirida após uma parceria de 11 meses com a OpenAI.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "TechCrunch",
-        "Startup"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 90
     },
     {
       "titulo": "SK Hynix shares plunge 9% as Asia sees tech rout, tracking U.S. chip losses - CNBC",
@@ -1537,51 +1597,6 @@
       "tokens_usados": 62
     },
     {
-      "titulo": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
-      "url": "https://www.cnbc.com/2026/07/15/thursdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-15",
-      "resumo": "A CNBC lista as principais histórias de ações para a próxima sessão de negociação, incluindo a divulgação de resultados financeiros de empresas como GE Aerospace, Abbott Labs, UnitedHealth, Taiwan Semiconductor e Netflix. Além disso, a previsão de reclamações de desemprego e a performance de ações como United Airlines também são destacadas.",
-      "sentimento": "neutral",
-      "tags": [
-        "Earnings",
-        "AI",
-        "Semiconductor"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 60
-    },
-    {
-      "titulo": "Tombigbee Fiber adopts Calix AI workforce platform - Investing.com",
-      "url": "https://www.investing.com/news/company-news/tombigbee-fiber-adopts-calix-ai-workforce-platform-93CH-4794023",
-      "fonte": "investing.com",
-      "data": "2026-07-15",
-      "resumo": "A Tombigbee Fiber adotou a plataforma de força de trabalho de IA da Calix, permitindo uma maior eficiência e produtividade em suas operações. A plataforma de IA da Calix é projetada para ajudar as empresas a otimizar suas operações e melhorar a experiência do usuário.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Telecomunicações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 54
-    },
-    {
-      "titulo": "Eyeing valuation jump, investors prep bids for chip giant CXMT's $8.6 billion IPO - Reuters",
-      "url": "https://www.reuters.com/business/finance/eyeing-valuation-jump-investors-prep-bids-chip-giant-cxmts-86-billion-ipo-2026-07-15/",
-      "fonte": "reuters.com",
-      "data": "2026-07-15",
-      "resumo": "O investidor CXMT está preparando um IPO de $8,6 bilhões, com valorização esperada. Investidores estão preparando ofertas para a oferta pública inicial da empresa de chips, que pode ser um sinal de confiança no setor de tecnologia.",
-      "sentimento": "bullish",
-      "tags": [
-        "Semicondutores",
-        "IPO",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 46
-    },
-    {
       "titulo": "China approves Apple Intelligence, creating a new catalyst for device sales - CNBC",
       "url": "https://www.cnbc.com/video/2026/07/16/china-approves-apple-intelligence-creating-a-new-catalyst-for-device-sales.html",
       "fonte": "cnbc.com",
@@ -1595,96 +1610,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 57
-    },
-    {
-      "titulo": "CNBC Daily Open: A chip off the AI block - CNBC",
-      "url": "https://www.cnbc.com/2026/07/15/cnbc-daily-open-chips-asml-earnings.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-15",
-      "resumo": "A IBM sofreu uma queda de 25% em sua ação, enquanto a SK Hynix recuperou-se e levou a uma retomada geral no setor. A ASML aumentou sua previsão de receita para o ano, mas alguns investidores alertam que a entusiasmo em torno das ações de hardware relacionadas à IA está se tornando excessivo.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 104
-    },
-    {
-      "titulo": "ASML raises 2026 forecast, expands capacity on AI chip demand - Reuters",
-      "url": "https://www.reuters.com/business/asml-tops-q2-estimates-ai-chip-demand-2026-07-15/",
-      "fonte": "reuters.com",
-      "data": "2026-07-15",
-      "resumo": "A ASML, fornecedora de equipamentos para a produção de chips de alta tecnologia, aumentou sua previsão de vendas para 2026 e anunciou um aumento de capacidade para atender à demanda crescente por chips de inteligência artificial. A empresa, que fornece máquinas para a Nvidia e a TSMC, entre outras, superou as previsões de lucro do segundo trimestre e suas ações subiram quase 4%. A ASML planeja expandir sua capacidade por cerca de um terço por ano para seus principais equipamentos EUV, que estão todos reservados até 2027.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 96
-    },
-    {
-      "titulo": "ASML hikes sales forecast for second time this year on strong AI chip demand - CNBC",
-      "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-15",
-      "resumo": "A ASML aumentou sua previsão de vendas pela segunda vez este ano, devido à forte demanda por chips de inteligência artificial. A Taiwan Semiconductor Manufacturing Co (TSMC), um dos principais clientes da ASML, relatou um aumento de 68% nas vendas em junho. A TSMC está planejando adicionar duas fábricas de embalagem de chips avançadas no parque científico de Chiayi, no sul da Taiwan.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 72
-    },
-    {
-      "titulo": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally - CNBC",
-      "url": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-15",
-      "resumo": "A SK Hynix, uma empresa sul-coreana de semicondutores, viu suas ações subir 11% após uma onda de ações de tecnologia asiáticas. A alta foi liderada por uma recuperação das ações de semicondutores nos EUA e se espalhou por todo o setor de chips do Japão. Outras empresas asiáticas de tecnologia também registraram ganhos significativos.",
-      "sentimento": "bullish",
-      "tags": [
-        "Semicondutores",
-        "Tecnologia",
-        "Mercados Asiáticos"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 64
-    },
-    {
-      "titulo": "Breakingviews - Apple’s China plea signals low-tech chip upheaval - Reuters",
-      "url": "https://www.reuters.com/commentary/breakingviews/apples-china-plea-signals-low-tech-chip-upheaval-2026-07-15/",
-      "fonte": "reuters.com",
-      "data": "2026-07-15",
-      "resumo": "A Apple está pressionando a China para resolver a crise de componentes de memória, que está afetando a indústria de consumo eletrônico e a indústria automobilística. A falta de investimento em fábricas de chips mais antigos está causando escassez e aumentos de preços, afetando empresas como a Xiaomi e a Apple. Isso é particularmente grave no setor de memória DRAM.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "China"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 70
-    },
-    {
-      "titulo": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - TechCrunch",
-      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "fonte": "techcrunch.com",
-      "data": "2026-07-15",
-      "resumo": "Um pesquisador da OpenAI, Miles Wang, está em negociações para lançar uma startup de descoberta de fármacos com IA, avaliada em $2 bilhões. A startup está em negociações para levantar $200 milhões e várias outras pesquisadoras da OpenAI estão esperadas para se juntar à empresa.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Biotech",
-        "Startup"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 54
     }
   ]
 }

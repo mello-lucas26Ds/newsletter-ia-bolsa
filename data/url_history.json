@@ -1,60 +1,4 @@
 {
-  "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html": {
-    "hash": "2d3e406fee472c4fcc351aecf870f31b",
-    "visto_em": "2026-07-15"
-  },
-  "https://www.cnbc.com/2026/07/14/earnings-season-plays-profit-expectations-are-growing-for-these-stocks.html": {
-    "hash": "1473faf140cbebb8007433eee53315c8",
-    "visto_em": "2026-07-15"
-  },
-  "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/": {
-    "hash": "fda10206f40bfc33f135c9da62973ece",
-    "visto_em": "2026-07-15"
-  },
-  "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/": {
-    "hash": "b9489c7b58fa3867423ff05f0a2ad78a",
-    "visto_em": "2026-07-15"
-  },
-  "https://www.cnbc.com/2026/07/14/cybersecurity-stocks-ai-spending-mythos.html": {
-    "hash": "98887bf21a0c200ad407824402acf5f7",
-    "visto_em": "2026-07-15"
-  },
-  "https://www.reuters.com/commentary/breakingviews/apples-china-plea-signals-low-tech-chip-upheaval-2026-07-15/": {
-    "hash": "247347ab0164c7a490140d9f949e7601",
-    "visto_em": "2026-07-15"
-  },
-  "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/": {
-    "hash": "f9eaf1580972140cbae3913fb5ff82b6",
-    "visto_em": "2026-07-15"
-  },
-  "https://www.reuters.com/business/meta-expands-louisiana-data-center-5-gigawatts-compute-capacity-2026-07-13/": {
-    "hash": "93487ad43c2c673453678991398e42f9",
-    "visto_em": "2026-07-15"
-  },
-  "https://www.cnbc.com/2026/07/15/cnbc-daily-open-chips-asml-earnings.html": {
-    "hash": "d128ca20323b7a6b83d48e8550004546",
-    "visto_em": "2026-07-15"
-  },
-  "https://www.reuters.com/business/asml-tops-q2-estimates-ai-chip-demand-2026-07-15/": {
-    "hash": "e5b4df6a04b476f86c53199bd4df8658",
-    "visto_em": "2026-07-15"
-  },
-  "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html": {
-    "hash": "6c009e557eabae7238aff6e81dbb381c",
-    "visto_em": "2026-07-15"
-  },
-  "https://www.cnbc.com/video/2026/07/14/jpmorgan-chase-beats-on-top-and-bottom-lines-in-q2.html": {
-    "hash": "809e9f27ca52d859099f2085743e0389",
-    "visto_em": "2026-07-15"
-  },
-  "https://www.businessinsider.com/sk-hynix-spacex-stock-offerings-ipo-market-ai-investing-honeymoon-2026-7": {
-    "hash": "a59727bbd8e8ecf20f42501d4d562ed1",
-    "visto_em": "2026-07-15"
-  },
-  "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html": {
-    "hash": "2468aa649fbcfa6a0fa072fb126cff56",
-    "visto_em": "2026-07-15"
-  },
   "https://www.forbes.com/sites/karlfreund/2026/07/15/what-is-driving-the-divergence-between-ai-analyst-targets-and-reality/": {
     "hash": "583fa1ece27e18d8a467e6d656028a49",
     "visto_em": "2026-07-16"
@@ -486,5 +430,45 @@
   "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/": {
     "hash": "4660246c6261610f76341a31393b9b07",
     "visto_em": "2026-07-22"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-surge-sk-hynix-174430156.html": {
+    "hash": "1e517085d704c1c04c0cc1063994ba4e",
+    "visto_em": "2026-07-23"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-jumps-1-chip-192526254.html": {
+    "hash": "54d0f31e6674f093892ab3f00bb9bb7d",
+    "visto_em": "2026-07-23"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html": {
+    "hash": "063d3983befecbb110cb8bb09083093b",
+    "visto_em": "2026-07-23"
+  },
+  "https://seekingalpha.com/news/4616000-micron-jumps-12-on-bofa-note-chip-rally": {
+    "hash": "4bf41b177f3875c126401a4eedab3de4",
+    "visto_em": "2026-07-23"
+  },
+  "https://m.economictimes.com/markets/us-stocks/news/powerful-rally-this-wall-street-ai-winner-with-500-share-price-jump-is-not-your-typical-chip-stock/articleshow/132538639.cms": {
+    "hash": "7391ba15da30c779b881f2c092432397",
+    "visto_em": "2026-07-23"
+  },
+  "https://www.businessinsider.com/tech-earnings-ai-capex-hyperscalers-msft-nvda-gene-munster-2026-7": {
+    "hash": "839833f66e22dbc40f9423542744028d",
+    "visto_em": "2026-07-23"
+  },
+  "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/": {
+    "hash": "340065d17300553cf3348288644c6975",
+    "visto_em": "2026-07-23"
+  },
+  "https://www.cnbc.com/video/2026/07/22/alphabet-earnings-put-the-ai-spending-boom-under-scrutiny.html": {
+    "hash": "cb4ff794d07259b2b7356c6c65976a74",
+    "visto_em": "2026-07-23"
+  },
+  "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html": {
+    "hash": "53aef3c62c71296809755c6b2cd10ca9",
+    "visto_em": "2026-07-23"
+  },
+  "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html": {
+    "hash": "c961dc29048793b7cf86007dcb819d4b",
+    "visto_em": "2026-07-23"
   }
 }
