@@ -2,10 +2,115 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-23",
-    "total_noticias": 106,
-    "gerado_em": "2026-07-23T05:51:44.144096"
+    "total_noticias": 113,
+    "gerado_em": "2026-07-23T11:50:53.533595"
   },
   "noticias": [
+    {
+      "titulo": "US Stock Futures Rise as Chipmaker Rebound Overshadows Iran War - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/us-stock-futures-rise-as-chipmaker-rebound-overshadows-iran-war",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-21",
+      "resumo": "A bolsa de valores dos EUA experimentou um aumento, com a Nasdaq 100 alcançando seu melhor dia em três semanas. A indústria de chips, que é fundamental para o desenvolvimento de inteligência artificial, liderou a recuperação, com empresas como Samsung e Taiwan Semiconductor Manufacturing Co. apresentando resultados sólidos. A Micron Technology Inc. também teve um aumento de 12%, beneficiada pela expansão da infraestrutura de inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 75
+    },
+    {
+      "titulo": "Lyn Alden: AI demand is here but profits remain the biggest question - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/23/lyn-alden-ai-demand-is-here-but-profits-remain-the-biggest-question.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-23",
+      "resumo": "A especialista em investimentos Lyn Alden afirma que a demanda por inteligência artificial (IA) permanece forte, mas os investidores devem se concentrar na rentabilidade a longo prazo, na infraestrutura de semicondutores e na incerteza crescente para os hiperscalers. Ela destaca que a demanda por IA está presente, mas os lucros ainda são a maior questão.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 64
+    },
+    {
+      "titulo": "Alphabet earnings test investor patience with the AI spending boom - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/22/alphabet-earnings-test-investor-patience-with-the-ai-spending-boom.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-23",
+      "resumo": "A Alphabet, empresa de tecnologia e inteligência artificial, apresentou resultados financeiros que testaram a paciência dos investidores durante a onda de investimentos em IA. A empresa enfrentou desafios em sua capacidade de investir em novas tecnologias, o que pode afetar sua capacidade de liderar a indústria de tecnologia.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 57
+    },
+    {
+      "titulo": "What to watch for after Jensen Huang's Japan visit | TechCrunch",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-19",
+      "resumo": "Jensen Huang, CEO da Nvidia, visitou o Japão e estabeleceu acordos com a elite industrial e de fornecedores de chips do país, incluindo uma fábrica nacional de IA, parcerias com empresas de robótica líderes e acordos com fornecedores de materiais de chips. A visita visa alavancar a presença da Nvidia na indústria japonesa, especialmente nas fábricas e em equipamentos de robótica.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Nvidia",
+        "Japão"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "Reddit stock sinks on report it may not renew Google AI ...",
+      "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-22",
+      "resumo": "A ação da Reddit caiu após relatório de que a empresa pode não renovar seu acordo de $60 milhões por ano com a Google para uso de conteúdo de IA. Embora as negociações estejam em andamento, a notícia causou preocupação entre os investidores. A Reddit também tem um acordo semelhante com a OpenAI, que permite ao fabricante de ChatGPT treinar seus modelos de IA com conteúdo da plataforma.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 77
+    },
+    {
+      "titulo": "Microsoft to fund Mistral's European AI expansion in ...",
+      "url": "https://www.reuters.com/business/microsoft-fund-mistrals-european-ai-expansion-multibillion-dollar-deal-2026-07-21",
+      "fonte": "reuters.com",
+      "data": "2026-07-21",
+      "resumo": "A Microsoft está investindo na expansão europeia da Mistral, uma empresa de inteligência artificial (IA) com sede em Paris. A parceria visa fornecer \"soberania\" em IA, permitindo que os países europeus tenham maior controle sobre sua tecnologia e economia. A Mistral está alinhada com a estratégia da Microsoft de oferecer modelos de IA abertos e permitir que os clientes desenvolvam suas próprias soluções.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "Europa"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-22",
+      "resumo": "Uma rumor sobre a aquisição da Anthropic e da Physical Intelligence foi compartilhada no Twitter, afirmando que a Anthropic é uma das principais empresas de inteligência artificial. Embora a informação inicial tenha sido considerada falsa, foi revelado que as duas empresas realmente tiveram conversas de aquisição no início da primavera.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Inteligência Artificial",
+        "Rumores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 60
+    },
     {
       "titulo": "Chip Stocks Surge as SK hynix, Micron Lead AI-Fueled Rally - Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-surge-sk-hynix-174430156.html",
