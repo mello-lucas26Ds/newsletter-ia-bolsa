@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-07-24",
+    "total_noticias": 10,
+    "gerado_em": "2026-07-24T05:48:37.029350"
+  },
+  "noticias": [
+    {
+      "titulo": "'Magnificent Seven' firms need to prove AI spending is paying off: Citi Research - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/24/magnificent-seven-need-to-prove-ai-spend-is-paying-off-citi-research.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-24",
+      "resumo": "A Citi Research afirma que as sete empresas de tecnologia mais valiosas (conhecidas como \"Magnificent Seven\") precisam provar que os investimentos em inteligência artificial (IA) estão gerando resultados positivos. O chefe de estratégia de ações da Citi, Scott Chronert, diz que essas empresas têm sido afetadas por questões de sentimentos e que a indústria de tecnologia pode ser reavaliada após um ano de desempenho superior impulsionado pela IA.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "UBP games out scenarios for OpenAI, flags risks to the AI story - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/24/ubp-games-out-scenarios-for-openai-flags-risks-to-the-ai-story.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-24",
+      "resumo": "O analista Kieran Calder da UBP discute as capacidades de IA da China, argumentando que seus modelos são mais baratos e comparáveis aos rivais mais caros dos EUA. Ele também destaca os riscos potenciais enfrentados pela OpenAI, enquanto mantém uma visão construtiva sobre a infraestrutura de IA e os investimentos da empresa a longo prazo.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "China",
+        "OpenAI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "Asia stocks rise on Alphabet AI spending boost; oil rally caps gains - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-alphabet-ai-spending-boost-oil-rally-caps-gains-4807455",
+      "fonte": "investing.com",
+      "data": "2026-07-23",
+      "resumo": "Ações asiáticas sobem devido ao aumento do gasto de Alphabet em IA, mas os ganhos são limitados por uma alta no preço do petróleo. O Google aumentou suas estimativas de gastos anuais em meio a um rápido desenvolvimento da infraestrutura de IA. O preço do petróleo surgiu acima de US$ 98 após um ataque dos Houthi a tanques de petróleo sauditas no Mar Vermelho.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Petróleo"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "Intel's stock jumps 11% as chipmaker rides AI boom to fastest revenue growth in almost 15 years - CNBC",
+      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-23",
+      "resumo": "A Intel anunciou resultados financeiros melhor do que o esperado, com um crescimento de 25% na receita, a maior desde 2011. A empresa também apresentou orientações que superaram as expectativas, fazendo com que a ação da empresa suba 11% em negociações prolongadas. O CEO Lip-Bu Tan destacou a demanda insatisfeita por computação impulsionada pela IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "Intel",
+        "AI",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "The Late Morning Rundown: July 23, 2026 - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/23/the-late-morning-rundown-july-23-2026.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-23",
+      "resumo": "RESUMO: \nA CNBC apresenta uma atualização da tarde com várias notícias importantes. A Nasdaq CEO, Adena Friedman, discute os resultados do 2º trimestre e a implementação de IA. Além disso, o CEO do ServiceNow afirma ter um \"kill switch\" para controlar agentes de IA que se tornem indesejáveis. A Coreia do Sul está experimentando um boom de IA, criando vencedores de chips e pressão na habitação. O Bitcoin está subindo e o mercado de ações está sendo afetado por uma nova lei que proíbe os legislado",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Nasdaq",
+        "Bitcoin",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 103
+    },
+    {
+      "titulo": "Stocks making the biggest moves after hours: Intel, AMD, Boston Beer, Deckers & more - CNBC",
+      "url": "https://www.cnbc.com/2026/07/23/stocks-making-the-biggest-moves-after-hours-intc-amd-sam-deck.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-23",
+      "resumo": "As ações de Intel, AMD, Boston Beer e SAP apresentaram movimentos significativos após o fechamento da bolsa. Intel registrou o crescimento de receita mais acentuado em quase 15 anos, com um aumento de 25% em relação ao período anterior. AMD também apresentou resultados positivos, com a expectativa de crescimento de 50% no mercado de unidades centrais de processamento de servidores. Boston Beer e SAP também superaram as expectativas, com a empresa de software alemã apresentando um aumento de 27% no backlog de nuvem.",
+      "sentimento": "bullish",
+      "tags": [
+        "Intel",
+        "AMD",
+        "SAP",
+        "Boston Beer",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 96
+    },
+    {
+      "titulo": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical. - MarketWatch",
+      "url": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725",
+      "fonte": "marketwatch.com",
+      "data": "2026-07-23",
+      "resumo": "A JPMorgan alertou que as ações de IA estão se aproximando de um cenário semelhante ao da década de 1990, onde o mercado se dividiu em dois grupos tecnológicos. A empresa alertou que as próximas semanas são críticas. Algumas ações de IA, como Alphabet e Tesla, tiveram resultados mistos, enquanto outras, como Texas Instruments e STMicroelectronics, superaram as expectativas de lucro.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "European semiconductor stocks diverge as investors weigh AI demand, growth expectations - Reuters",
+      "url": "https://www.reuters.com/business/european-semiconductor-stocks-diverge-investors-weigh-ai-demand-growth-2026-07-23/",
+      "fonte": "reuters.com",
+      "data": "2026-07-23",
+      "resumo": "Ações de semicondutores europeus apresentaram movimentos significativos após atualizações de lucros, com a Soitec subindo 23% devido a forte demanda por fotônica ligada a aplicativos de inteligência artificial, enquanto a STMicroelectronics e a BE Semiconductor Industries caíram devido a desempenho fraco a curto prazo e expectativas de crescimento elevadas.",
+      "sentimento": "bullish",
+      "tags": [
+        "Semicondutores",
+        "Inteligência Artificial",
+        "Mercados Europeus"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 60
+    },
+    {
+      "titulo": "South Korea's tech rally isn't over, but 2 markets stand out as better AI bets, a research firm says - Business Insider",
+      "url": "https://www.businessinsider.com/kospi-stock-index-sky-hynix-samsung-nikkei-japan-taiwan-tsmc-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-22",
+      "resumo": "Pesquisadores da TS Lombard acreditam que a corrida tecnológica da Coreia do Sul não terminou, mas identificaram dois mercados que oferecem apostas melhores em IA. A empresa alerta, no entanto, sobre o ciclo de memória, que pode afetar a indústria de tecnologia.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Coreia do Sul"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 119
+    },
+    {
+      "titulo": "AMD takes a shot at Nvidia by betting on AI's next big shift - Business Insider",
+      "url": "https://www.businessinsider.com/amd-cerebras-partner-ai-inference-helios-system-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-23",
+      "resumo": "A AMD está apostando no próximo grande salto da inteligência artificial (IA) e está competindo com a Nvidia, líder no mercado de GPUs para IA. A AMD está investindo em tecnologia de IA e está a desenvolver novas soluções para o mercado de IA. Isso pode ser um desafio para a Nvidia, que é atualmente a líder no mercado de GPUs para IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Stocks",
+        "Data Centers"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 73
+    }
+  ]
+}

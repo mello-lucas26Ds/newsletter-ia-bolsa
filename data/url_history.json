@@ -1,80 +1,4 @@
 {
-  "https://www.forbes.com/sites/karlfreund/2026/07/15/what-is-driving-the-divergence-between-ai-analyst-targets-and-reality/": {
-    "hash": "583fa1ece27e18d8a467e6d656028a49",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.cnbc.com/2026/07/15/alibaba-qwen-ai-apple-intelligence.html": {
-    "hash": "3dee6ba7eecbfa14faced94a567ec4d4",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.cnbc.com/video/2026/07/16/alex-guiliano.html": {
-    "hash": "413e4ec06a2cc0ba83f9da60dc91e044",
-    "visto_em": "2026-07-16"
-  },
-  "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/": {
-    "hash": "6486155edae06bf659ff42933e4a17cf",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.cnbc.com/2026/07/14/cramers-lightning-round-buy-kratos-defense-security-solutions.html": {
-    "hash": "b84c3fd01b7fba8a19dce04a7723c324",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html": {
-    "hash": "ef86ef5a8c12dfc31e4d578b3c3c1e18",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.cnbc.com/2026/07/15/thursdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html": {
-    "hash": "8fc4766742a848a8965cdc2abd4c16c2",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.investing.com/news/company-news/tombigbee-fiber-adopts-calix-ai-workforce-platform-93CH-4794023": {
-    "hash": "60d0ea156aa5b67f645324784ca65bc3",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.reuters.com/business/finance/eyeing-valuation-jump-investors-prep-bids-chip-giant-cxmts-86-billion-ipo-2026-07-15/": {
-    "hash": "f273c755a68c45c3abf20b323a5c8c1e",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.cnbc.com/video/2026/07/16/china-approves-apple-intelligence-creating-a-new-catalyst-for-device-sales.html": {
-    "hash": "59b63169a72f3d1045596d37749c4418",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.reuters.com/world/asia-pacific/tsmc-q2-profit-jumps-77-record-far-surpasses-expectations-2026-07-16/": {
-    "hash": "2c6150962126b4623b305395765d1400",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.reuters.com/world/asia-pacific/tsmcs-second-quarter-profit-seen-hitting-record-ai-boom-2026-07-15/": {
-    "hash": "7d2febfa3002cd9872e37e297edf4488",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html": {
-    "hash": "c9b8c7ff0e09903d8a009887519b6b2e",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.reuters.com/business/finance/europe-inc-heads-into-strongest-earnings-season-years-ai-gap-persists-2026-07-16/": {
-    "hash": "83122142b9556ac95546fe5365361c76",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.businessinsider.com/michael-burry-ibm-stock-down-ai-software-stocks-msft-wipro-2026-7": {
-    "hash": "241c464fa4865b889446db1885d7e54e",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.reuters.com/legal/transactional/chinas-deepseek-raise-fresh-capital-74-billion-valuation-ahead-onshore-ipo-2026-07-15/": {
-    "hash": "42daf8986fa4771e39f4dae29543aada",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.businessinsider.com/why-the-next-anthropic-will-be-harder-to-find-2026-7": {
-    "hash": "dd0f969669cf75d75bb5c70d92a9d5a7",
-    "visto_em": "2026-07-16"
-  },
-  "https://www.cnbc.com/video/2026/07/16/tsmc-to-invest-additional-100-billion-in-arizona-after-second-quarter-profit-soars-77-percent.html": {
-    "hash": "b143508cc9e1fc559b216b47bbce3055",
-    "visto_em": "2026-07-16"
-  },
-  "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/": {
-    "hash": "e902fedb6db45382e511af41ffda72f5",
-    "visto_em": "2026-07-16"
-  },
   "https://www.reuters.com/business/brookfield-backed-csquare-valued-324-billion-shares-fall-nyse-debut-2026-07-16/": {
     "hash": "c372bad1d588b1a9166e36f3e2ce6e15",
     "visto_em": "2026-07-17"
@@ -498,5 +422,45 @@
   "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter": {
     "hash": "ee59865373d15f8a83b2efdca9030a9f",
     "visto_em": "2026-07-23"
+  },
+  "https://www.cnbc.com/video/2026/07/24/magnificent-seven-need-to-prove-ai-spend-is-paying-off-citi-research.html": {
+    "hash": "a702bf3d326d88f1dec938a85d0c8a05",
+    "visto_em": "2026-07-24"
+  },
+  "https://www.cnbc.com/video/2026/07/24/ubp-games-out-scenarios-for-openai-flags-risks-to-the-ai-story.html": {
+    "hash": "edc8a7ff343d432216a4861da8a61846",
+    "visto_em": "2026-07-24"
+  },
+  "https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-alphabet-ai-spending-boost-oil-rally-caps-gains-4807455": {
+    "hash": "b54f827434683b16c9c9ee3f98c1f4fc",
+    "visto_em": "2026-07-24"
+  },
+  "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html": {
+    "hash": "6fe0b3852b8bc44c281cbc657ea1aa0b",
+    "visto_em": "2026-07-24"
+  },
+  "https://www.cnbc.com/video/2026/07/23/the-late-morning-rundown-july-23-2026.html": {
+    "hash": "ed7d024773703c507ba6eb2d25a7cb89",
+    "visto_em": "2026-07-24"
+  },
+  "https://www.cnbc.com/2026/07/23/stocks-making-the-biggest-moves-after-hours-intc-amd-sam-deck.html": {
+    "hash": "162d0b6cab34957cb6289dd2f47a490a",
+    "visto_em": "2026-07-24"
+  },
+  "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725": {
+    "hash": "cd3ae65b93cede7803bc0ee0b22004f1",
+    "visto_em": "2026-07-24"
+  },
+  "https://www.reuters.com/business/european-semiconductor-stocks-diverge-investors-weigh-ai-demand-growth-2026-07-23/": {
+    "hash": "2724acdea8bcb9522e5ea8dbec338f16",
+    "visto_em": "2026-07-24"
+  },
+  "https://www.businessinsider.com/kospi-stock-index-sky-hynix-samsung-nikkei-japan-taiwan-tsmc-2026-7": {
+    "hash": "e64b5fdc75e1c0494e86e3c93d6bc805",
+    "visto_em": "2026-07-24"
+  },
+  "https://www.businessinsider.com/amd-cerebras-partner-ai-inference-helios-system-2026-7": {
+    "hash": "8b6c87e3f5675a862ed53cc3e43afe90",
+    "visto_em": "2026-07-24"
   }
 }

@@ -1,11 +1,167 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-23",
-    "total_noticias": 113,
-    "gerado_em": "2026-07-23T11:50:53.533595"
+    "data": "2026-07-24",
+    "total_noticias": 101,
+    "gerado_em": "2026-07-24T05:48:37.031548"
   },
   "noticias": [
+    {
+      "titulo": "'Magnificent Seven' firms need to prove AI spending is paying off: Citi Research - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/24/magnificent-seven-need-to-prove-ai-spend-is-paying-off-citi-research.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-24",
+      "resumo": "A Citi Research afirma que as sete empresas de tecnologia mais valiosas (conhecidas como \"Magnificent Seven\") precisam provar que os investimentos em inteligência artificial (IA) estão gerando resultados positivos. O chefe de estratégia de ações da Citi, Scott Chronert, diz que essas empresas têm sido afetadas por questões de sentimentos e que a indústria de tecnologia pode ser reavaliada após um ano de desempenho superior impulsionado pela IA.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "UBP games out scenarios for OpenAI, flags risks to the AI story - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/24/ubp-games-out-scenarios-for-openai-flags-risks-to-the-ai-story.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-24",
+      "resumo": "O analista Kieran Calder da UBP discute as capacidades de IA da China, argumentando que seus modelos são mais baratos e comparáveis aos rivais mais caros dos EUA. Ele também destaca os riscos potenciais enfrentados pela OpenAI, enquanto mantém uma visão construtiva sobre a infraestrutura de IA e os investimentos da empresa a longo prazo.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "China",
+        "OpenAI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "Asia stocks rise on Alphabet AI spending boost; oil rally caps gains - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-alphabet-ai-spending-boost-oil-rally-caps-gains-4807455",
+      "fonte": "investing.com",
+      "data": "2026-07-23",
+      "resumo": "Ações asiáticas sobem devido ao aumento do gasto de Alphabet em IA, mas os ganhos são limitados por uma alta no preço do petróleo. O Google aumentou suas estimativas de gastos anuais em meio a um rápido desenvolvimento da infraestrutura de IA. O preço do petróleo surgiu acima de US$ 98 após um ataque dos Houthi a tanques de petróleo sauditas no Mar Vermelho.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Petróleo"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "Intel's stock jumps 11% as chipmaker rides AI boom to fastest revenue growth in almost 15 years - CNBC",
+      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-23",
+      "resumo": "A Intel anunciou resultados financeiros melhor do que o esperado, com um crescimento de 25% na receita, a maior desde 2011. A empresa também apresentou orientações que superaram as expectativas, fazendo com que a ação da empresa suba 11% em negociações prolongadas. O CEO Lip-Bu Tan destacou a demanda insatisfeita por computação impulsionada pela IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "Intel",
+        "AI",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "The Late Morning Rundown: July 23, 2026 - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/23/the-late-morning-rundown-july-23-2026.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-23",
+      "resumo": "RESUMO: \nA CNBC apresenta uma atualização da tarde com várias notícias importantes. A Nasdaq CEO, Adena Friedman, discute os resultados do 2º trimestre e a implementação de IA. Além disso, o CEO do ServiceNow afirma ter um \"kill switch\" para controlar agentes de IA que se tornem indesejáveis. A Coreia do Sul está experimentando um boom de IA, criando vencedores de chips e pressão na habitação. O Bitcoin está subindo e o mercado de ações está sendo afetado por uma nova lei que proíbe os legislado",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Nasdaq",
+        "Bitcoin",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 103
+    },
+    {
+      "titulo": "Stocks making the biggest moves after hours: Intel, AMD, Boston Beer, Deckers & more - CNBC",
+      "url": "https://www.cnbc.com/2026/07/23/stocks-making-the-biggest-moves-after-hours-intc-amd-sam-deck.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-23",
+      "resumo": "As ações de Intel, AMD, Boston Beer e SAP apresentaram movimentos significativos após o fechamento da bolsa. Intel registrou o crescimento de receita mais acentuado em quase 15 anos, com um aumento de 25% em relação ao período anterior. AMD também apresentou resultados positivos, com a expectativa de crescimento de 50% no mercado de unidades centrais de processamento de servidores. Boston Beer e SAP também superaram as expectativas, com a empresa de software alemã apresentando um aumento de 27% no backlog de nuvem.",
+      "sentimento": "bullish",
+      "tags": [
+        "Intel",
+        "AMD",
+        "SAP",
+        "Boston Beer",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 96
+    },
+    {
+      "titulo": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical. - MarketWatch",
+      "url": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725",
+      "fonte": "marketwatch.com",
+      "data": "2026-07-23",
+      "resumo": "A JPMorgan alertou que as ações de IA estão se aproximando de um cenário semelhante ao da década de 1990, onde o mercado se dividiu em dois grupos tecnológicos. A empresa alertou que as próximas semanas são críticas. Algumas ações de IA, como Alphabet e Tesla, tiveram resultados mistos, enquanto outras, como Texas Instruments e STMicroelectronics, superaram as expectativas de lucro.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "European semiconductor stocks diverge as investors weigh AI demand, growth expectations - Reuters",
+      "url": "https://www.reuters.com/business/european-semiconductor-stocks-diverge-investors-weigh-ai-demand-growth-2026-07-23/",
+      "fonte": "reuters.com",
+      "data": "2026-07-23",
+      "resumo": "Ações de semicondutores europeus apresentaram movimentos significativos após atualizações de lucros, com a Soitec subindo 23% devido a forte demanda por fotônica ligada a aplicativos de inteligência artificial, enquanto a STMicroelectronics e a BE Semiconductor Industries caíram devido a desempenho fraco a curto prazo e expectativas de crescimento elevadas.",
+      "sentimento": "bullish",
+      "tags": [
+        "Semicondutores",
+        "Inteligência Artificial",
+        "Mercados Europeus"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 60
+    },
+    {
+      "titulo": "South Korea's tech rally isn't over, but 2 markets stand out as better AI bets, a research firm says - Business Insider",
+      "url": "https://www.businessinsider.com/kospi-stock-index-sky-hynix-samsung-nikkei-japan-taiwan-tsmc-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-22",
+      "resumo": "Pesquisadores da TS Lombard acreditam que a corrida tecnológica da Coreia do Sul não terminou, mas identificaram dois mercados que oferecem apostas melhores em IA. A empresa alerta, no entanto, sobre o ciclo de memória, que pode afetar a indústria de tecnologia.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Coreia do Sul"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 119
+    },
+    {
+      "titulo": "AMD takes a shot at Nvidia by betting on AI's next big shift - Business Insider",
+      "url": "https://www.businessinsider.com/amd-cerebras-partner-ai-inference-helios-system-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-23",
+      "resumo": "A AMD está apostando no próximo grande salto da inteligência artificial (IA) e está competindo com a Nvidia, líder no mercado de GPUs para IA. A AMD está investindo em tecnologia de IA e está a desenvolver novas soluções para o mercado de IA. Isso pode ser um desafio para a Nvidia, que é atualmente a líder no mercado de GPUs para IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Stocks",
+        "Data Centers"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 73
+    },
     {
       "titulo": "US Stock Futures Rise as Chipmaker Rebound Overshadows Iran War - Bloomberg.com",
       "url": "https://www.bloomberg.com/news/articles/2026-07-21/us-stock-futures-rise-as-chipmaker-rebound-overshadows-iran-war",
@@ -715,21 +871,6 @@
       "tokens_usados": 75
     },
     {
-      "titulo": "3 of our stocks rode the AI rally, while 3 others fell out of favor since last month",
-      "url": "https://www.cnbc.com/2026/07/16/3-of-our-stocks-rode-the-ai-rally-while-3-others-fell-out-of-favor-since-last-month.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-16",
-      "resumo": "As ações de Palo Alto Networks e CrowdStrike subiram 25,5% e 21,7%, respectivamente, enquanto a ação da Apple também atingiu um novo recorde. Já as ações da Intel e outras empresas caíram devido à seleção cada vez maior dos investidores em relação à exposição à inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Cybersecurity",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 56
-    },
-    {
       "titulo": "3 AI Stocks That Can Outperform Nvidia Next Year",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-outperform-nvidia-215600814.html",
       "fonte": "finance.yahoo.com",
@@ -743,21 +884,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 56
-    },
-    {
-      "titulo": "It's 'do or die' time for semiconductor stocks as AI debate intensifies (SMH:NASDAQ) | Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4614585-its-do-or-die-time-for-semiconductor-stocks-as-ai-debate-intensifies",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-16",
-      "resumo": "A indústria de semicondutores está em um momento crucial, com duas visões opostas surgindo em torno do impacto do AI no setor. Enquanto alguns argumentam que o AI pode trazer uma mudança estrutural na demanda por semicondutores, outros apontam para o risco de superabundância de preços e margens de memória.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 59
     },
     {
       "titulo": "Global Stocks Slump As Fears About AI Chips and Energy Grip Markets - Business Insider",
@@ -1231,21 +1357,6 @@
       "tokens_usados": 85
     },
     {
-      "titulo": "Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race - MarketWatch",
-      "url": "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205",
-      "fonte": "marketwatch.com",
-      "data": "2026-07-16",
-      "resumo": "A ação da Alphabet caiu após a Gemini adiar seu lançamento, sugerindo que a Google está tendo dificuldades para manter o ritmo na corrida de inteligência artificial. Isso ocorre enquanto várias concorrentes lançam seus últimos modelos de IA. A frustração entre os engenheiros e pesquisadores da Google é palpável, e investidores estão questionando a durabilidade de um modelo de negócios que depende de modelos de IA que mudam a cada alguns meses.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 83
-    },
-    {
       "titulo": "Ibovespa hoje fecha estável com Petrobras e petróleo em ...",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17072026",
       "fonte": "infomoney.com.br",
@@ -1384,36 +1495,6 @@
       "tokens_usados": 70
     },
     {
-      "titulo": "South Korea's stock boom comes with one big risk investors shouldn't ignore - Business Insider",
-      "url": "https://www.businessinsider.com/kospi-stock-index-sk-hynix-samsung-share-price-retail-investors-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-16",
-      "resumo": "A bolsa de ações da Coreia do Sul está experimentando um boom, mas há um grande risco que os investidores devem considerar. A vulnerabilidade do mercado pode estar relacionada à estrutura de propriedade, com investidores de retalho comprando agressivamente enquanto investidores estrangeiros vendem. Isso pode levar a uma volatilidade exacerbada e a um aceleramento de qualquer venda.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Finanças",
-        "Coreia do Sul"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "Why Google partnered with former Twitter CEO Parag Agrawal's $2 billion AI search startup - Business Insider",
-      "url": "https://www.businessinsider.com/parag-agrawal-parallel-partners-with-google-cloud-ai-tools-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-16",
-      "resumo": "A Google se associou com a startup de busca de IA de $2 bilhões liderada pelo ex-CEO da Twitter, Parag Agrawal. A parceria visa melhorar a tecnologia de busca da Google. A startup de Agrawal é uma das principais concorrentes da Google no mercado de busca de IA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Google",
-        "Startup"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 57
-    },
-    {
       "titulo": "VistaShares' Jon McNeill on the company's AI supercycle ETF - CNBC",
       "url": "https://www.cnbc.com/video/2026/07/17/vistashares-jon-mcneill-on-the-companys-ai-supercycle-etf.html",
       "fonte": "cnbc.com",
@@ -1427,66 +1508,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 42
-    },
-    {
-      "titulo": "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models - CNBC",
-      "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-16",
-      "resumo": "A Fireworks, uma empresa apoiada pela Nvidia, alcançou uma valorização de $17,5 bilhões, demonstrando que empresas estão procurando modelos de IA mais baratos e eficientes. A empresa opera no mercado de nuvem de inferência e está formando alianças para oferecer GPUs para treinar modelos de IA. Isso sugere que as empresas não estão satisfeitas com os modelos de IA produzidos pelas principais empresas de tecnologia.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Nvidia",
-        "CloudComputing"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
-    },
-    {
-      "titulo": "Brookfield-backed Csquare valued at $3.24 billion in NYSE debut - Reuters",
-      "url": "https://www.reuters.com/business/brookfield-backed-csquare-valued-324-billion-shares-fall-nyse-debut-2026-07-16/",
-      "fonte": "reuters.com",
-      "data": "2026-07-16",
-      "resumo": "A Csquare, uma empresa de centros de dados apoiada pelo grupo Brookfield, estreou na bolsa de valores NYSE com uma valorização de US$ 3,24 bilhões. A empresa aproveita o crescimento do investimento em desenvolvimento de inteligência artificial (IA) e centros de dados. Embora a empresa tenha decidido preços abaixo da faixa de mercado, isso sugere que os investidores permanecem seletivos, mesmo com a demanda por centros de dados em alta.",
-      "sentimento": "neutral",
-      "tags": [
-        "IA",
-        "Centros de Dados",
-        "NYSE"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 81
-    },
-    {
-      "titulo": "An AI intimacy startup acquired an app to help couples stay together. Read the LinkedIn DM that sparked the deal. - Business Insider",
-      "url": "https://www.businessinsider.com/read-linkedin-dm-pitch-acquisition-arya-flamme-ai-relationship-couples-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-16",
-      "resumo": "A startup de inteligência artificial (IA) focada em relacionamentos, chamada Arya, adquiriu a aplicação Flamme, que ajuda casais a se manterem juntos. A aquisição é parte de uma estratégia de roll-up da Arya, após um recente investimento de $21 milhões. A equipe da Flamme continuará a trabalhar no aplicativo part-time, enquanto a Arya integra suas camadas de monetização.",
-      "sentimento": "bullish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Negócios"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "An elite fund manager returning 49% this year unpacks his market-beating strategy - Business Insider",
-      "url": "https://www.businessinsider.com/investing-strategy-top-stock-fund-manager-true-rock-etf-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-16",
-      "resumo": "O gerente de fundos Wrona compartilha sua estratégia de investimento que lhe permitiu retornos de 49% este ano. Ele destaca a importância de ler transcrições de chamadas de resultados e ignorar a opinião de analistas externos. Além disso, Wrona enfatiza a necessidade de não deixar medo influenciar suas decisões de investimento.",
-      "sentimento": "bullish",
-      "tags": [
-        "Investing",
-        "AI",
-        "Estratégia de Investimento"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 62
     },
     {
       "titulo": "TSMC will likely face pressure but continue to outperform the market: Mizuho Securities - CNBC",
@@ -1517,204 +1538,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 78
-    },
-    {
-      "titulo": "Apple’s China win strengthens the case for a $5 trillion valuation - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/16/apples-china-win-strengthens-the-case-for-a-5-trillion-valuation.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-16",
-      "resumo": "Apple vence na China e fortalece o caso para uma valorização de $5 trilhões. Executivos de empresas como Arm, IBM e BlackRock compartilham suas perspectivas sobre a indústria de tecnologia e inteligência artificial. O CEO do BlackRock, Larry Fink, é muito otimista sobre os mercados nos próximos 12 meses.",
-      "sentimento": "bullish",
-      "tags": [
-        "[Apple",
-        "China",
-        "Tecnologia",
-        "IA]"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 59
-    },
-    {
-      "titulo": "Here's a rapid-fire update on our stock portfolio, including the 5 names to buy - CNBC",
-      "url": "https://www.cnbc.com/2026/07/16/heres-a-rapid-fire-update-on-our-stock-portfolio-including-the-5-names-to-buy.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-16",
-      "resumo": "O analista financeiro Jim compartilha uma atualização rápida sobre o portfólio de ações, incluindo as 5 empresas a comprar. Ele destaca as oportunidades e desafios de cada empresa, como Alphabet, Amazon, Microsoft, Nvidia e Apple.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 46
-    },
-    {
-      "titulo": "Apple Intelligence approved for launch in China with Alibaba and Baidu - TechCrunch",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "fonte": "techcrunch.com",
-      "data": "2026-07-16",
-      "resumo": "A Apple obteve a aprovação chinesa para lançar o Apple Intelligence em parceria com a Alibaba e a Baidu. Isso marca um passo importante para os objetivos de inteligência artificial da Apple no mercado chinês, que é um dos mais importantes para a empresa. A parceria com a Alibaba integra o modelo Qwen AI da Alibaba nos sistemas operacionais da Apple.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Apple"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 70
-    },
-    {
-      "titulo": "Americans are angry about data centers. Politicians are feeling the pressure - Reuters",
-      "url": "https://www.reuters.com/world/us/americans-are-angry-about-data-centers-politicians-are-feeling-pressure-2026-07-16/",
-      "fonte": "reuters.com",
-      "data": "2026-07-16",
-      "resumo": "Cidadãos americanos estão insatisfeitos com os centros de dados, e políticos estão sentindo pressão para resolver o problema. Desenvolvedores de centros de dados e empresas de investimento estão respondendo às críticas, afirmando que estão comprometidos com o desenvolvimento responsável e a proteção do meio ambiente. Críticos argumentam que os centros de dados estão afetando negativamente a comunidade local.",
-      "sentimento": "neutral",
-      "tags": [
-        "tecnologia",
-        "centros de dados",
-        "meio ambiente"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 70
-    },
-    {
-      "titulo": "TSMC Q2 profit jumps 77% to record, far surpasses expectations - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/tsmc-q2-profit-jumps-77-record-far-surpasses-expectations-2026-07-16/",
-      "fonte": "reuters.com",
-      "data": "2026-07-16",
-      "resumo": "A TSMC, a maior fabricante de chips contratados do mundo, registrou um aumento de 77% no lucro líquido no segundo trimestre, superando as expectativas do mercado e alcançando um recorde. Isso se deve ao aumento da demanda global por processadores de inteligência artificial. A empresa, que fornece chips para clientes como Nvidia e Apple, alcançou um lucro líquido de T$706,6 bilhões (aproximadamente US$ 21,99 bilhões) no período de abril a junho.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Taiwan"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 80
-    },
-    {
-      "titulo": "TSMC second-quarter profit jumps 23%, beating estimates, on high-end chip boom - CNBC",
-      "url": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-16",
-      "resumo": "A Taiwan Semiconductor Manufacturing Co (TSMC) anunciou um aumento de 77,4% no lucro do segundo trimestre em relação ao mesmo período do ano anterior, superando as estimativas. A empresa, que é a maior fabricante de chips por contrato do mundo, registrou um lucro recorde por quinto trimestre consecutivo e uma receita de NT$1,27 trilhão, um aumento de 36% em relação ao mesmo período do ano anterior.",
-      "sentimento": "bullish",
-      "tags": [
-        "TSMC",
-        "Semiconductor",
-        "Taiwan"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 91
-    },
-    {
-      "titulo": "Europe Inc heads into strongest earnings season in years, but AI gap persists - Reuters",
-      "url": "https://www.reuters.com/business/finance/europe-inc-heads-into-strongest-earnings-season-years-ai-gap-persists-2026-07-16/",
-      "fonte": "reuters.com",
-      "data": "2026-07-16",
-      "resumo": "A temporada de resultados financeiros da Europa está prestes a ser a mais forte em anos, mas a lacuna em inteligência artificial (IA) persiste. As empresas norte-americanas estão previstas para registrar um crescimento de 23,7% nos lucros em média, enquanto as empresas europeias, excluindo a energia, estão previstas para registrar um aumento de 6% nos lucros. Embora a lacuna possa se estreitar ao longo do tempo, a IA continua a ser um fator importante para as empresas americanas.",
-      "sentimento": "neutral",
-      "tags": [
-        "IA",
-        "Finanças",
-        "Earnings"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 88
-    },
-    {
-      "titulo": "Hitting it big betting on startups in the AI era will be a lot harder, but Silicon Valley might not feel the worst of it - Business Insider",
-      "url": "https://www.businessinsider.com/why-the-next-anthropic-will-be-harder-to-find-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-16",
-      "resumo": "A era da IA tornou mais difícil investir em startups, mas a região da Baía de São Francisco pode não ser a mais afetada. A valoração de empresas de IA aumentou drasticamente, tornando difícil prever o sucesso de uma empresa. No entanto, a facilidade de criar startups e a entrada de novos investidores podem compensar a dificuldade de investir.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Startups",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77% - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/16/tsmc-to-invest-additional-100-billion-in-arizona-after-second-quarter-profit-soars-77-percent.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-16",
-      "resumo": "A TSMC anunciou que investirá mais US$ 100 bilhões em Arizona após um lucro de 77% no segundo trimestre. Isso ocorre em um momento em que a demanda por tecnologia de computador e inteligência artificial está crescendo rapidamente. A empresa está expandindo sua capacidade de produção para atender à demanda crescente.",
-      "sentimento": "bullish",
-      "tags": [
-        "TSMC",
-        "Inteligência Artificial",
-        "Semicondutores",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 62
-    },
-    {
-      "titulo": "Applied Computing wants to give oil and gas operators an AI model for the entire plant - TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "fonte": "techcrunch.com",
-      "data": "2026-07-16",
-      "resumo": "A Applied Computing está expandindo sua presença internacional com a abertura de uma nova sede em Houston, nos EUA, além de investimentos em pesquisas e engenharia. A empresa também planeja explorar parcerias com clientes da indústria de energia. Com o apoio da KBR, a empresa tem acesso a dados operacionais e expertise da indústria, além de introduções a novos clientes.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Energia",
-        "Startups",
-        "Petroquímica"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 122
-    },
-    {
-      "titulo": "Apple can cement its AI position by picking the winner to partner or acquire: CIO - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/16/alex-guiliano.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-16",
-      "resumo": "A Apple pode consolidar sua posição em inteligência artificial (IA) escolhendo o vencedor para parceiro ou aquisição, de acordo com o analista Dan Ives. O CEO da Arm, Rene Haas, afirma que o boom de IA está limitado pela oferta, com demanda robusta. O CEO do BlackRock, Larry Fink, é otimista sobre os mercados nos próximos 12 meses.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Apple",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "SK Hynix shares plunge 9% as Asia sees tech rout, tracking U.S. chip losses - CNBC",
-      "url": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-16",
-      "resumo": "A SK Hynix experimentou uma queda de 9% após uma rotina de tecnologia na Ásia, seguindo perdas de chips nos EUA. Especialistas alertam que a alta valorização dos semicondutores pode não ser sustentável, apesar de um forte momentum de lucros. A demanda estrutural por infraestrutura de IA e chips de memória permanece intacta.",
-      "sentimento": "bearish",
-      "tags": [
-        "Semicondutores",
-        "Tecnologia",
-        "Mercados"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 62
-    },
-    {
-      "titulo": "China approves Apple Intelligence, creating a new catalyst for device sales - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/16/china-approves-apple-intelligence-creating-a-new-catalyst-for-device-sales.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-16",
-      "resumo": "A China aprovou a utilização da Inteligência Artificial (IA) da Apple, criando um novo catalisador para as vendas de dispositivos da empresa. Esta aprovação pode ajudar a estender a recente recuperação nas vendas da Apple. A empresa pode agora explorar parcerias locais para aproveitar ao máximo a oportunidade.",
-      "sentimento": "bullish",
-      "tags": [
-        "Apple",
-        "IA",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 57
     }
   ]
 }
