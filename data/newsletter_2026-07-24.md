@@ -1,138 +1,124 @@
 # Newsletter IA Bolsa — 2026-07-24
 
-**Gerado em:** 24/07/2026 05:48
-**Total:** 10 noticias
+**Gerado em:** 24/07/2026 11:42
+**Total:** 9 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. 'Magnificent Seven' firms need to prove AI spending is paying off: Citi Research - CNBC
+## 1. Markets weigh AI spending, earnings and rising rates - CNBC
 
 **Fonte:** cnbc.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Tecnologia, Mercado de Ações
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Intel, Economia
 
-A Citi Research afirma que as sete empresas de tecnologia mais valiosas (conhecidas como "Magnificent Seven") precisam provar que os investimentos em inteligência artificial (IA) estão gerando resultados positivos. O chefe de estratégia de ações da Citi, Scott Chronert, diz que essas empresas têm sido afetadas por questões de sentimentos e que a indústria de tecnologia pode ser reavaliada após um ano de desempenho superior impulsionado pela IA.
+O mercado está avaliando o gasto em IA, resultados financeiros e taxas de juros em ascensão. Especialistas em economia e análise de ações destacam a importância do gasto em IA, do impulso de Intel e da visibilidade do backlog como principais impulsionadores do mercado.
 
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/24/magnificent-seven-need-to-prove-ai-spend-is-paying-off-citi-research.html)
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/24/markets-weigh-ai-spending-earnings-and-rising-rates.html)
 
 ---
 
-## 2. UBP games out scenarios for OpenAI, flags risks to the AI story - CNBC
+## 2. Magnificent 7 Loses $767 Billion as AI Skeptics Dump Tech Stocks - Bloomberg.com
 
-**Fonte:** cnbc.com  
+**Fonte:** bloomberg.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Tecnologia, Mercados
+
+O índice "Magnificent 7" de megacap tecnológicas caiu 4,8% em uma única sessão, resultando em uma perda de $767 bilhões em valor de mercado. Isso ocorreu após as divulgações financeiras de Alphabet e Tesla, que geraram dúvidas sobre a durabilidade do mercado de inteligência artificial. As empresas aumentaram seus gastos em capital, o que pode afetar negativamente suas margens de lucro.
+
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-23/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks)
+
+---
+
+## 3. Iran strikes Amazon's Bahrain data infrastructure—Al Jazeera
+
+**Fonte:** seekingalpha.com  
 **Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 6.0/10  
-**Tags:** AI, China, OpenAI, Tecnologia
+**Relevancia:** 5.0/10  
+**Tags:** Tecnologia, Segurança Cibernética, Amazon
 
-O analista Kieran Calder da UBP discute as capacidades de IA da China, argumentando que seus modelos são mais baratos e comparáveis aos rivais mais caros dos EUA. Ele também destaca os riscos potenciais enfrentados pela OpenAI, enquanto mantém uma visão construtiva sobre a infraestrutura de IA e os investimentos da empresa a longo prazo.
+A Irã atacou a infraestrutura de dados da Amazon no Bahrein, de acordo com relatos da Al Jazeera. A notícia não fornece detalhes sobre os danos causados ou a resposta da Amazon. A infraestrutura de dados da Amazon é uma parte crítica da operação da empresa, e um ataque a ela pode ter consequências significativas para a empresa e seus clientes.
 
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/24/ubp-games-out-scenarios-for-openai-flags-risks-to-the-ai-story.html)
-
----
-
-## 3. Asia stocks rise on Alphabet AI spending boost; oil rally caps gains - Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Tecnologia, Petróleo
-
-Ações asiáticas sobem devido ao aumento do gasto de Alphabet em IA, mas os ganhos são limitados por uma alta no preço do petróleo. O Google aumentou suas estimativas de gastos anuais em meio a um rápido desenvolvimento da infraestrutura de IA. O preço do petróleo surgiu acima de US$ 98 após um ataque dos Houthi a tanques de petróleo sauditas no Mar Vermelho.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-alphabet-ai-spending-boost-oil-rally-caps-gains-4807455)
+[Ler noticia completa](https://seekingalpha.com/news/4615874-iran-strikes-amazons-bahrain-data-infrastructure---al-jazeera)
 
 ---
 
-## 4. Intel's stock jumps 11% as chipmaker rides AI boom to fastest revenue growth in almost 15 years - CNBC
+## 4. IREN Stock: From A Bitcoin Miner To An AI Infrastructure Play (NASDAQ:IREN) | Seeking Alpha
 
-**Fonte:** cnbc.com  
+**Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** Intel, AI, Tecnologia, Semicondutores
+**Tags:** AI, NASDAQ, Tecnologia
 
-A Intel anunciou resultados financeiros melhor do que o esperado, com um crescimento de 25% na receita, a maior desde 2011. A empresa também apresentou orientações que superaram as expectativas, fazendo com que a ação da empresa suba 11% em negociações prolongadas. O CEO Lip-Bu Tan destacou a demanda insatisfeita por computação impulsionada pela IA.
+A IREN Limited (IREN) é uma empresa que começou como mineradora de Bitcoin e agora se concentra em infraestrutura de inteligência artificial. O autor da análise recomenda uma compra forte com um preço-alvo de $49 por ação, oferecendo um potencial de ganho de ~20% em relação ao preço atual de $41.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html)
-
----
-
-## 5. The Late Morning Rundown: July 23, 2026 - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Nasdaq, Bitcoin, Tecnologia
-
-RESUMO: 
-A CNBC apresenta uma atualização da tarde com várias notícias importantes. A Nasdaq CEO, Adena Friedman, discute os resultados do 2º trimestre e a implementação de IA. Além disso, o CEO do ServiceNow afirma ter um "kill switch" para controlar agentes de IA que se tornem indesejáveis. A Coreia do Sul está experimentando um boom de IA, criando vencedores de chips e pressão na habitação. O Bitcoin está subindo e o mercado de ações está sendo afetado por uma nova lei que proíbe os legislado
-
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/23/the-late-morning-rundown-july-23-2026.html)
+[Ler noticia completa](https://seekingalpha.com/article/4924578-iren-from-a-bitcoin-miner-to-an-ai-infrastructure-play)
 
 ---
 
-## 6. Stocks making the biggest moves after hours: Intel, AMD, Boston Beer, Deckers & more - CNBC
+## 5. AMD: Major Data Center Deals With Meta And OpenAI
 
-**Fonte:** cnbc.com  
+**Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** Intel, AMD, SAP, Boston Beer, Semicondutores, Tecnologia
+**Tags:** AI, Semiconductor, Earnings
 
-As ações de Intel, AMD, Boston Beer e SAP apresentaram movimentos significativos após o fechamento da bolsa. Intel registrou o crescimento de receita mais acentuado em quase 15 anos, com um aumento de 25% em relação ao período anterior. AMD também apresentou resultados positivos, com a expectativa de crescimento de 50% no mercado de unidades centrais de processamento de servidores. Boston Beer e SAP também superaram as expectativas, com a empresa de software alemã apresentando um aumento de 27% no backlog de nuvem.
+A AMD anunciou acordos importantes com Meta e OpenAI para seus centros de dados, o que levou a uma atualização da previsão de preço para $562,80 e uma classificação de "Comprar". Embora o aumento de preço possa ter incorporado parte da oportunidade de negócios, a empresa pode derivar mais crescimento se conseguir mais parcerias de infraestrutura de inteligência artificial de grande escala e executar bem o seu plano Helios.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/23/stocks-making-the-biggest-moves-after-hours-intc-amd-sam-deck.html)
+[Ler noticia completa](https://seekingalpha.com/article/4923772-amd-major-data-center-deals-with-meta-and-openai)
 
 ---
 
-## 7. AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical. - MarketWatch
+## 6. The REIT Recovery Broadens Beyond Rates | Seeking Alpha
 
-**Fonte:** marketwatch.com  
+**Fonte:** seekingalpha.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** REITs, Imóveis, Mercado de Ações
+
+A recuperação dos REITs (Real Estate Investment Trusts) está se expandindo além das taxas de juros. A temporada de resultados de REITs está começando, com mais de 200 empresas de REITs de ações e hipotecárias, além de dezenas de construtores e empresas de habitação, que apresentarão resultados nos próximos meses. Isso pode ser um sinal de que a recuperação dos REITs está se tornando mais ampla e está além das expectativas de mudanças nas taxas de juros.
+
+[Ler noticia completa](https://seekingalpha.com/article/4924172-the-reit-recovery-broadens-beyond-rates)
+
+---
+
+## 7. IREN's $4 Billion ARR Changes Everything
+
+**Fonte:** seekingalpha.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Tecnologia, Earnings
+
+A IREN Limited alcançou um objetivo de $4 bilhões em ARR (Receita Anual Recorrente) para suas soluções de nuvem de inteligência artificial, com cerca de 85% desses contratos assinados por períodos de vários anos. Isso melhora significativamente a visibilidade de receita e reduz o risco de diluição de ações. No entanto, há uma desconexão significativa na avaliação se a execução for bem-sucedida, com previsões de receita de $728 milhões em FY2026, muito abaixo do objetivo da empresa.
+
+[Ler noticia completa](https://seekingalpha.com/article/4924271-irens-4-billion-arr-changes-everything)
+
+---
+
+## 8. Alphabet’s capex shock raises stakes for Mag 7 earnings - CNBC
+
+**Fonte:** cnbc.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 6.0/10  
-**Tags:** AI, Semiconductor, Tecnologia
+**Tags:** AI, Tecnologia, Mercado de ações
 
-A JPMorgan alertou que as ações de IA estão se aproximando de um cenário semelhante ao da década de 1990, onde o mercado se dividiu em dois grupos tecnológicos. A empresa alertou que as próximas semanas são críticas. Algumas ações de IA, como Alphabet e Tesla, tiveram resultados mistos, enquanto outras, como Texas Instruments e STMicroelectronics, superaram as expectativas de lucro.
+A Alphabet anunciou um aumento significativo em suas despesas de capital (capex), o que aumenta a pressão para as empresas de tecnologia, como Microsoft, Amazon e Meta, que também estão programadas para divulgar seus resultados financeiros na próxima semana. Isso pode ser um sinal de que a indústria de tecnologia está enfrentando um período de crescimento mais lento.
 
-[Ler noticia completa](https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725)
-
----
-
-## 8. European semiconductor stocks diverge as investors weigh AI demand, growth expectations - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** Semicondutores, Inteligência Artificial, Mercados Europeus
-
-Ações de semicondutores europeus apresentaram movimentos significativos após atualizações de lucros, com a Soitec subindo 23% devido a forte demanda por fotônica ligada a aplicativos de inteligência artificial, enquanto a STMicroelectronics e a BE Semiconductor Industries caíram devido a desempenho fraco a curto prazo e expectativas de crescimento elevadas.
-
-[Ler noticia completa](https://www.reuters.com/business/european-semiconductor-stocks-diverge-investors-weigh-ai-demand-growth-2026-07-23/)
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/23/alphabets-capex-shock-raises-stakes-for-mag-7-earnings.html)
 
 ---
 
-## 9. South Korea's tech rally isn't over, but 2 markets stand out as better AI bets, a research firm says - Business Insider
+## 9. Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more - CNBC
 
-**Fonte:** businessinsider.com  
+**Fonte:** cnbc.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 6.0/10  
-**Tags:** AI, Tecnologia, Coreia do Sul
+**Tags:** Tech, Finance, Earnings
 
-Pesquisadores da TS Lombard acreditam que a corrida tecnológica da Coreia do Sul não terminou, mas identificaram dois mercados que oferecem apostas melhores em IA. A empresa alerta, no entanto, sobre o ciclo de memória, que pode afetar a indústria de tecnologia.
+As ações de várias empresas tiveram movimentos significativos após o fechamento do mercado. Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow e outras estiveram entre as principais atuais. As ações de Las Vegas Sands e SL Green Realty caíram após os resultados financeiros não atenderem às expectativas, enquanto a QuantumScape e a Texas Instruments também tiveram declínios. Por outro lado, a United Rentals subiu 10% após superar as expectativas e aumentar a previsão.
 
-[Ler noticia completa](https://www.businessinsider.com/kospi-stock-index-sky-hynix-samsung-nikkei-japan-taiwan-tsmc-2026-7)
-
----
-
-## 10. AMD takes a shot at Nvidia by betting on AI's next big shift - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Stocks, Data Centers
-
-A AMD está apostando no próximo grande salto da inteligência artificial (IA) e está competindo com a Nvidia, líder no mercado de GPUs para IA. A AMD está investindo em tecnologia de IA e está a desenvolver novas soluções para o mercado de IA. Isso pode ser um desafio para a Nvidia, que é atualmente a líder no mercado de GPUs para IA.
-
-[Ler noticia completa](https://www.businessinsider.com/amd-cerebras-partner-ai-inference-helios-system-2026-7)
+[Ler noticia completa](https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-after-hours-googl-tsla-ibm-lvs.html)
 
 ---
