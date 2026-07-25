@@ -1,11 +1,148 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-24",
-    "total_noticias": 110,
-    "gerado_em": "2026-07-24T11:42:33.818612"
+    "data": "2026-07-25",
+    "total_noticias": 100,
+    "gerado_em": "2026-07-25T05:41:29.925508"
   },
   "noticias": [
+    {
+      "titulo": "Digital Realty raises annual FFO forecast on robust data center demand",
+      "url": "https://www.reuters.com/technology/digital-realty-raises-annual-ffo-forecast-robust-data-center-demand-2026-07-23",
+      "fonte": "reuters.com",
+      "data": "2026-07-23",
+      "resumo": "A Digital Realty elevou sua previsão de FFO anual devido à demanda robusta de centros de dados, especialmente de clientes de nuvem e IA. A empresa espera um aumento de 3% nas ações em negociação prolongada. A previsão de FFO para 2026 foi ajustada para $8,15 a $8,20 por ação, e a previsão de receita anual foi aumentada para $6,85 bilhões a $6,95 bilhões.",
+      "sentimento": "bullish",
+      "tags": [
+        "Data Center",
+        "REIT",
+        "AI"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Micron Is A Strong Buy Again Because Of Kimi K3 (NASDAQ:MU) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925351-micron-is-a-strong-buy-again-because-of-kimi-k3",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-24",
+      "resumo": "A Micron Technology permanece como uma das principais beneficiárias do crescimento da infraestrutura de IA, devido ao aumento das necessidades de memória em HBM, DRAM e NAND. Os modelos de fronteira de próxima geração, como o Kimi K3, tornam-se mais eficientes em computação, mas têm parâmetros maiores, janelas de contexto mais longas e armazenamento de contexto agente expandido, o que aumenta substancialmente a intensidade de memória. Isso, por sua vez, permite o uso de inferência mais barato e a viabilidade de aplicações de IA anteriormente inócuas em novos setores e casos de uso.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 102
+    },
+    {
+      "titulo": "Stocks making the biggest moves premarket: Intel, Oracle, American Express & more - CNBC",
+      "url": "https://www.cnbc.com/2026/07/24/stocks-making-the-biggest-moves-premarket-intc-orcl-axp.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-24",
+      "resumo": "As ações de várias empresas estão fazendo movimentos significativos antes do mercado abrir. A Intel registrou um crescimento de 4% após relatar sua maior taxa de crescimento de receita trimestral em quase 15 anos. A Amkor Technology subiu mais de 11% após anunciar um acordo de $1,5 bilhão com a Nvidia. Já a Robert Half caiu quase 7% após relatar resultados abaixo das expectativas.",
+      "sentimento": "bullish",
+      "tags": [
+        "Intel",
+        "Amkor Technology",
+        "Nvidia",
+        "Robert Half"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "AMD has more than doubled in 2026. It has more room to run, UBS says - CNBC",
+      "url": "https://www.cnbc.com/2026/07/24/amd-has-more-than-doubled-in-2026-it-has-more-room-to-run-ubs-says.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-24",
+      "resumo": "A AMD tem suas ações em alta, mais de 152% no ano até agora, e a UBS acredita que ainda há espaço para crescimento. A instituição de investimentos aumentou a previsão de preço para $730, sugerindo um aumento de 35% em relação ao fechamento da quarta-feira. Isso se deve a uma revisão da estimativa de lucro da empresa para 2028, que pode chegar a $30.",
+      "sentimento": "bullish",
+      "tags": [
+        "AMD",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter - CNBC",
+      "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-23",
+      "resumo": "Um relatório da JPMorgan encontrou um salto dramático nos ETFs temáticos de IA, apesar de um quarto ruim. A empresa considera a IA como um dos cinco temas mais importantes em termos de ativos sob gestão. A estratégia de ETF da JPMorgan destaca a relação entre a IA e a infraestrutura, bem como as aplicações e modelos de energia.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "ETFs",
+        "JPMorgan"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "Top Healthcare Stocks Beyond The Market Rotation Averaging 128% Forward EPS Growth - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4924886-top-healthcare-stocks-beyond-the-market-rotation-averaging-128-percent-forward-eps-growth",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-24",
+      "resumo": "Ações de saúde superaram no mês passado em meio a uma rotação de investimentos de risco para setores defensivos. Fundos globais aumentaram suas posições em saúde mais do que qualquer outro setor ou ativo, de acordo com um levantamento da Bank of America em julho. Investidores tendem a se voltar para setores defensivos em mercados voláteis e a saúde tem sido um dos principais realizadores durante períodos de incerteza.",
+      "sentimento": "bullish",
+      "tags": [
+        "saúde",
+        "setores defensivos",
+        "investimentos"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "Big Tech Starts To Feel The AI Cash Burn - Forbes",
+      "url": "https://www.forbes.com/sites/eriksherman/2026/07/24/big-tech-starts-to-feel-the-ai-cash-burn/",
+      "fonte": "forbes.com",
+      "data": "2026-07-24",
+      "resumo": "A Big Tech está começando a sentir o impacto do \"burn\" de capital devido ao investimento em IA. Apesar de um crescimento de 46,89% no caixa e equivalentes e de 110,1% nos investimentos a curto prazo, a queda de 6,9% nas ações de várias empresas, incluindo Alphabet e Tesla, está alarmando os investidores. As empresas de tecnologia estão aumentando seus investimentos em capex, o que pode afetar seus lucros.",
+      "sentimento": "bearish",
+      "tags": [
+        "Big Tech",
+        "IA",
+        "Capex"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "OpenAI’s own model went rogue before Kimi had Wall Street sweating - TechCrunch",
+      "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-24",
+      "resumo": "A OpenAI informou que o modelo Hugging Face foi invadido por modelos pré-lançados da empresa. Além disso, a Anthropic recebeu aprovação para um acordo de $1,5 bilhão de dólares relacionado a direitos autorais. A Google está trabalhando em um novo chip de IA projetado para tornar o Gemini mais eficiente.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 60
+    },
+    {
+      "titulo": "1 hyperscaler megacap down, 3 to go. Alphabet raises the stakes on AI spending - CNBC",
+      "url": "https://www.cnbc.com/2026/07/24/1-hyperscaler-megacap-down-3-to-go-alphabet-raises-the-stakes-on-ai-spending.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-24",
+      "resumo": "O hyperscaler Microsoft está sendo pressionado pelas expectativas de investimento em inteligência artificial (IA), enquanto a Alphabet está aumentando o investimento em IA, o que pode afetar negativamente as ações de Microsoft. A empresa tem exposição significativa ao software empresarial, o que pode ser prejudicado pelas mudanças tecnológicas. A Meta Platforms está aumentando o investimento em IA e planeja lançar uma empresa de nuvem pública para vender capacidade de computação excessiva.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Software",
+        "Meta",
+        "Microsoft"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 81
+    },
     {
       "titulo": "Markets weigh AI spending, earnings and rising rates - CNBC",
       "url": "https://www.cnbc.com/video/2026/07/24/markets-weigh-ai-spending-earnings-and-rising-rates.html",
@@ -886,21 +1023,6 @@
       "tokens_usados": 64
     },
     {
-      "titulo": "Chip stock pullback sparks worries about AI rally strength ...",
-      "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17",
-      "fonte": "reuters.com",
-      "data": "2026-07-17",
-      "resumo": "O setor de tecnologia europeu experimentou uma queda significativa, após ter registrado o maior salto trimestral desde 2001 em junho. A indústria de chips também foi afetada, com ações de empresas como TSMC e ASML caindo. A preocupação é que a força da corrida do setor de inteligência artificial possa estar enfraquecendo.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 61
-    },
-    {
       "titulo": "Asian stocks rise as Mideast mediation takes oil lower - Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/global-markets-wrapup-1-2026-07-21/",
       "fonte": "reuters.com",
@@ -1019,22 +1141,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 56
-    },
-    {
-      "titulo": "Global Stocks Slump As Fears About AI Chips and Energy Grip Markets - Business Insider",
-      "url": "https://www.businessinsider.com/nikkei-225-kospi-index-kioxia-tsmc-hynix-samsung-chip-selloff-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-17",
-      "resumo": "A bolsa de valores global está em declínio devido às preocupações com os chips de IA e energia. A Coreia do Sul decidiu apertar as regras sobre fundos de índice de ações com margem após semanas de oscilações de mercado intensas. A SK Hynix, uma das maiores empresas de tecnologia da Coreia do Sul, perdeu 14% de suas ações listadas na NASDAQ na quinta-feira.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Energia",
-        "NASDAQ"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 74
     },
     {
       "titulo": "Asia stocks mixed as investors reassess AI bets; S Korea slides, China outperforms By Investing.com - Investing.com",
@@ -1308,21 +1414,6 @@
       "tokens_usados": 79
     },
     {
-      "titulo": "Apple unseats Nvidia to become world's most valuable company as AI bets shift - Reuters",
-      "url": "https://www.reuters.com/business/apple-closes-nvidia-race-worlds-most-valuable-company-2026-07-17/",
-      "fonte": "reuters.com",
-      "data": "2026-07-17",
-      "resumo": "A Apple está prestes a ultrapassar a Nvidia como a empresa mais valiosa do mundo, uma mudança que pode refletir a reavaliação dos investidores sobre a perspectiva da inteligência artificial. A Nvidia, que foi líder até agora, pode continuar a ser um participante significativo no setor, mas a Apple está em uma posição delicada, tendo aumentado os preços para compensar os custos crescentes.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 105
-    },
-    {
       "titulo": "Small Business Technology News Roundup: IBM Shares Crash, ChatGPT To Replace Wall Street Analysts - Forbes",
       "url": "https://www.forbes.com/sites/quickerbettertech/2026/07/19/small-business-technology-news-roundup-ibm-shares-crash-chatgpt-to-replace-wall-street-analysts/",
       "fonte": "forbes.com",
@@ -1368,53 +1459,6 @@
       "tokens_usados": 74
     },
     {
-      "titulo": "July consumer sentiment rises to 54.4, well above expectations - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/17/july-consumer-sentiment.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-17",
-      "resumo": "O índice de sentimentos dos consumidores nos EUA subiu para 54,4 em julho, superando as expectativas. Este aumento é um sinal positivo para a economia e pode influenciar as decisões de investimento.",
-      "sentimento": "bullish",
-      "tags": [
-        "economia",
-        "consumidor",
-        "mercado financeiro"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 42
-    },
-    {
-      "titulo": "A strong start to earnings season will be put to the test next week - CNBC",
-      "url": "https://www.cnbc.com/2026/07/17/stock-market-next-week-outlook-for-july-20-24-2026.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-17",
-      "resumo": "A temporada de resultados financeiros está começando bem, mas enfrentará desafios na próxima semana. As grandes bancos que iniciaram a temporada de relatórios do segundo trimestre superaram as expectativas, sinalizando bons tempos para os mercados de capital. No entanto, os investidores continuam a observar áreas problemáticas, como os semicondutores e a despesa com inteligência artificial.",
-      "sentimento": "bearish",
-      "tags": [
-        "Earnings",
-        "Semicondutores",
-        "Inteligência Artificial",
-        "Mercados Financeiros"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "Meta, Anthropic in talks for potential $10 billion compute lease deal, source says - Reuters",
-      "url": "https://www.reuters.com/technology/meta-talks-10-billion-anthropic-compute-deal-nyt-reports-2026-07-17/",
-      "fonte": "reuters.com",
-      "data": "2026-07-17",
-      "resumo": "A Meta está em negociações para alugar poder de computação à Anthropic em um acordo potencial de até $10 bilhões em dois anos. Isso ajudaria a Meta a diversificar sua receita além da publicidade e competir com empresas de nuvem como CoreWeave e Nebius. A Anthropic pagaria a Meta em parcelas mensais ao longo de dois anos, embora os termos sejam sujeitos a mudanças.",
-      "sentimento": "bullish",
-      "tags": [
-        "Meta",
-        "Anthropic",
-        "Computação",
-        "Nuvem"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
-    },
-    {
       "titulo": "Open Weight Models Are Turning Inference Into A Control Point - Forbes",
       "url": "https://www.forbes.com/sites/janakirammsv/2026/07/18/open-weight-models-are-turning-inference-into-a-control-point/",
       "fonte": "forbes.com",
@@ -1428,22 +1472,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 46
-    },
-    {
-      "titulo": "SpaceX stock sees brief Pentagon AI bump, while CoreWeave slides on pricing threat - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/spacex-stock-sees-brief-pentagon-ai-bump-while-coreweave-slides-on-pricing-threat-4798980",
-      "fonte": "investing.com",
-      "data": "2026-07-17",
-      "resumo": "A SpaceX teve um aumento temporário em seu preço de ação após uma notícia sobre o uso de inteligência artificial (IA) pelo Pentágono, enquanto a CoreWeave caiu devido a uma ameaça de preços. A SpaceX é uma empresa de tecnologia espacial fundada por Elon Musk, e a CoreWeave é uma empresa de tecnologia de rede de computadores.",
-      "sentimento": "bearish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "SpaceX",
-        "CoreWeave"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
     },
     {
       "titulo": "Big Tech earnings season and the capex spiral - Business Insider",
@@ -1462,21 +1490,6 @@
       "tokens_usados": 80
     },
     {
-      "titulo": "BofA names senior executives to drive AI adoption in global markets-memo - Reuters",
-      "url": "https://www.reuters.com/legal/transactional/bofa-names-senior-executives-drive-ai-adoption-global-markets-memo-2026-07-17/",
-      "fonte": "reuters.com",
-      "data": "2026-07-17",
-      "resumo": "A Bank of America anunciou a nomeação de Kevin Milsom como chefe de plataformas de transformação de IA, com o objetivo de impulsionar a adoção e implementação de tecnologias de IA em sua unidade de mercados globais. Ashok Krishnan, chefe de plataformas, lidera esforços para modernizar a tecnologia e aumentar a automação, incluindo a implantação de ferramentas de IA gerativa e outras novas tecnologias.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Finance",
-        "Bank of America"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 75
-    },
-    {
       "titulo": "AI Startups, Solopreneurs, And Actual Numbers - Forbes",
       "url": "https://www.forbes.com/sites/johnwerner/2026/07/18/ai-startups-solopreneurs-and-actual-numbers/",
       "fonte": "forbes.com",
@@ -1490,51 +1503,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 85
-    },
-    {
-      "titulo": "Ibovespa hoje fecha estável com Petrobras e petróleo em ...",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17072026",
-      "fonte": "infomoney.com.br",
-      "data": "2026-07-17",
-      "resumo": "O presidente da China, Xi Jinping, apresentou a China como a defensora de uma nova ordem global em inteligência artificial, promovendo a tecnologia de código aberto e desafiando a influência dos EUA. Isso ocorreu durante a Conferência Mundial de Inteligência Artificial em Xangai. A declaração de Xi representou a articulação mais clara de sua visão para o setor de IA.",
-      "sentimento": "neutral",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "China"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 110
-    },
-    {
-      "titulo": "Google’s Gemini delay adds to concerns it is falling behind in AI - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/17/googles-gemini-delay-adds-to-concerns-it-is-falling-behind-in-ai.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-17",
-      "resumo": "A Google está enfrentando preocupações de que está caindo atrás em inteligência artificial (IA) devido ao atraso do projeto Gemini e pressões de concorrentes como OpenAI, Anthropic e Meta. Isso ocorre antes do anúncio de resultados financeiros da Alphabet. A empresa está enfrentando dificuldades internas e atrasos em seu desenvolvimento de IA.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Google",
-        "Alphabet"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 61
-    },
-    {
-      "titulo": "TSMC cautious about long-term growth: Morningstar - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/17/tsmc-cautious-about-long-term-growth-morningstar.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-17",
-      "resumo": "A TSMC, considerada a empresa mais valiosa da Ásia, está mostrando cautela em relação ao crescimento a longo prazo, de acordo com a Morningstar. Isso se deve à incerteza prevalecente no setor de semicondutores, apesar de um relatório de lucros impressionante da empresa.",
-      "sentimento": "bearish",
-      "tags": [
-        "TSMC",
-        "Semicondutores",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 52
     },
     {
       "titulo": "AI Storage & Memory From Backblaze, CoreWeave, Panmnesia, Vast And Cloudera - Forbes",
@@ -1551,128 +1519,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 113
-    },
-    {
-      "titulo": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up - Reuters",
-      "url": "https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/",
-      "fonte": "reuters.com",
-      "data": "2026-07-17",
-      "resumo": "A temporada de resultados trimestrais dos EUA está em andamento, com a Alphabet e a Intel sendo as principais atrações para o mercado de IA. A expectativa é que as empresas apresentem lucros fortes, o que pode influenciar o mercado. A S&P 500 está projetada para aumentar 25,7% no período, de acordo com dados da LSEG IBES.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "NASDAQ",
-        "Earnings"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "Wall St futures fall as chip selloff gathers pace; Netflix tumbles - Reuters",
-      "url": "https://www.reuters.com/business/wall-st-futures-fall-chip-selloff-gathers-pace-netflix-tumbles-2026-07-17/",
-      "fonte": "reuters.com",
-      "data": "2026-07-17",
-      "resumo": "As futuras da Wall St caíram após um selloff em ações de chips se aprofundar, forçando investidores a reavaliar a sustentabilidade da corrida de investimentos em IA este ano. A Netflix também contribuiu para a pressão após prever receita e lucro abaixo das expectativas de Wall Street. A TSMC e a ASML, líderes em fabricação de chips avançados, apresentaram resultados sólidos, mas não conseguiram aliviar as preocupações.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 76
-    },
-    {
-      "titulo": "Morning Call Sheet: Earnings, AI and rates keep markets on edge - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/17/morning-call-sheet-earnings-ai-and-rates-keep-markets-on-edge.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-17",
-      "resumo": "A CNBC apresenta uma discussão sobre resultados financeiros, inteligência artificial, inflação, taxas de juros e volatilidade de mercado. Participam Joyce Chang, Chair de Pesquisa Global da JPMorgan, Barbara Doran, CIO da BD8 Capital Partners, e Matt Maley, Estrategista de Mercado da Miller Tabak. Além disso, são apresentados vídeos sobre Palantir, OpenAI, Kalshi e Standard Nuclear.",
-      "sentimento": "neutral",
-      "tags": [
-        "[Earnings",
-        "AI",
-        "Inflation",
-        "Taxas de Juros]"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "The next DeepSeek? A surprise AI breakthrough in China is rattling US chip stocks - Business Insider",
-      "url": "https://www.businessinsider.com/stock-market-today-chip-selloff-kimi-moonshot-ai-rotation-soxx-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-17",
-      "resumo": "A startup chinesa Moonshot desenvolveu um modelo de IA chamado Kimi K3, que rivaliza com os modelos de IA mais avançados da OpenAI e Anthropic, sem utilizar tantos chips de IA avançados. Isso está causando ansiedade entre os investidores de IA nos EUA, que estão preocupados com o aumento do orçamento de capital global da TSMC e a possibilidade de uma retomada do investimento em IA.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 75
-    },
-    {
-      "titulo": "Chipmakers and other high-flying stocks slide as AI trade wobbles - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/",
-      "fonte": "reuters.com",
-      "data": "2026-07-17",
-      "resumo": "As ações de empresas de chips e outras ações em alta caíram após a negociação de IA vacilar. O índice de chips subiu cerca de 60% no ano até o início da negociação na sexta-feira. A Nvidia, AMD e Applied Materials caíram 3,4%, 4,9% e 6,5%, respectivamente. A SpaceX caiu 4,5% após o aborto de um teste de voo do Starship.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 70
-    },
-    {
-      "titulo": "VistaShares' Jon McNeill on the company's AI supercycle ETF - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/17/vistashares-jon-mcneill-on-the-companys-ai-supercycle-etf.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-17",
-      "resumo": "O fundador da VistaShares, Jon McNeill, discute os detalhes do ETF de superciclo de IA da empresa, a lançamento de um novo espaço, robótica e defesa ETF, e mais, no programa \"Squawk Box\".",
-      "sentimento": "bullish",
-      "tags": [
-        "IA",
-        "ETF",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 42
-    },
-    {
-      "titulo": "TSMC will likely face pressure but continue to outperform the market: Mizuho Securities - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/17/tsmc-will-likely-face-pressure-but-continue-to-outperform-the-market.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-17",
-      "resumo": "O analista Kevin Wang da Mizuho Securities espera que a TSMC continue a superar o mercado, apesar de enfrentar pressão, devido aos seus resultados de lucro fortes. Ele atualizou o alvo de preço da empresa e acredita que a investida de $100 bilhões no planto de fabricação em Arizona será benéfica.",
-      "sentimento": "bullish",
-      "tags": [
-        "TSMC",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 60
-    },
-    {
-      "titulo": "SoftBank sinks 8% as Japanese chip stocks track Wall Street AI sell-off - CNBC",
-      "url": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-17",
-      "resumo": "A queda nas ações da SoftBank e outras empresas japonesas ligadas à inteligência artificial (IA) foi influenciada pela recente rota em ações de semicondutores nos EUA, que se espalhou pela Ásia. A queda nas ações foi motivada por preocupações crescentes sobre o gasto em IA. A Kioxia, uma fabricante de memória de chip japonesa, caiu mais de 14% após ser condenada a pagar US$ 229 milhões em danos.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Wall Street"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 78
     }
   ]
 }

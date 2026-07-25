@@ -1,44 +1,4 @@
 {
-  "https://www.reuters.com/business/brookfield-backed-csquare-valued-324-billion-shares-fall-nyse-debut-2026-07-16/": {
-    "hash": "c372bad1d588b1a9166e36f3e2ce6e15",
-    "visto_em": "2026-07-17"
-  },
-  "https://www.businessinsider.com/read-linkedin-dm-pitch-acquisition-arya-flamme-ai-relationship-couples-2026-7": {
-    "hash": "038d59683c3ab2d1bf0889b127359788",
-    "visto_em": "2026-07-17"
-  },
-  "https://www.businessinsider.com/investing-strategy-top-stock-fund-manager-true-rock-etf-2026-7": {
-    "hash": "4d27447a1310f1b35e6a3e4d19bc53b5",
-    "visto_em": "2026-07-17"
-  },
-  "https://www.cnbc.com/video/2026/07/17/tsmc-will-likely-face-pressure-but-continue-to-outperform-the-market.html": {
-    "hash": "f161d8fc980d371a31721dd68e2b6a4d",
-    "visto_em": "2026-07-17"
-  },
-  "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html": {
-    "hash": "65d4aefded6eeaf619bdd2dda117c7d8",
-    "visto_em": "2026-07-17"
-  },
-  "https://www.cnbc.com/video/2026/07/16/apples-china-win-strengthens-the-case-for-a-5-trillion-valuation.html": {
-    "hash": "6b16e34b2ce3a540ff900ab57b500c50",
-    "visto_em": "2026-07-17"
-  },
-  "https://www.cnbc.com/2026/07/16/heres-a-rapid-fire-update-on-our-stock-portfolio-including-the-5-names-to-buy.html": {
-    "hash": "0880eb1b22345c4596f6063f82ecc4bd",
-    "visto_em": "2026-07-17"
-  },
-  "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/": {
-    "hash": "062a74c73aad3803050daff9f4e9ebd7",
-    "visto_em": "2026-07-17"
-  },
-  "https://www.reuters.com/world/us/americans-are-angry-about-data-centers-politicians-are-feeling-pressure-2026-07-16/": {
-    "hash": "bfef18542351d0a9c4725be50689ad67",
-    "visto_em": "2026-07-17"
-  },
-  "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html": {
-    "hash": "5dbbb2b7751cc660bff3d69d0200479b",
-    "visto_em": "2026-07-17"
-  },
   "https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/": {
     "hash": "fdb3de09d7ff52b77092f259614d4b94",
     "visto_em": "2026-07-18"
@@ -498,5 +458,41 @@
   "https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-after-hours-googl-tsla-ibm-lvs.html": {
     "hash": "a88912fc0ed422fccd08952a91338632",
     "visto_em": "2026-07-24"
+  },
+  "https://www.reuters.com/technology/digital-realty-raises-annual-ffo-forecast-robust-data-center-demand-2026-07-23": {
+    "hash": "8f0e5856333f483ea73f8682bc096289",
+    "visto_em": "2026-07-25"
+  },
+  "https://seekingalpha.com/article/4925351-micron-is-a-strong-buy-again-because-of-kimi-k3": {
+    "hash": "4cad148c6371cc7ebf52cbd54d8a3455",
+    "visto_em": "2026-07-25"
+  },
+  "https://www.cnbc.com/2026/07/24/stocks-making-the-biggest-moves-premarket-intc-orcl-axp.html": {
+    "hash": "8ba856104a645b0fade01fdc3bea2679",
+    "visto_em": "2026-07-25"
+  },
+  "https://www.cnbc.com/2026/07/24/amd-has-more-than-doubled-in-2026-it-has-more-room-to-run-ubs-says.html": {
+    "hash": "22bc05fbb5ea1af0c2197d5330eae5d1",
+    "visto_em": "2026-07-25"
+  },
+  "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html": {
+    "hash": "944aa479c7e5bb644cc4b831c7cc86b7",
+    "visto_em": "2026-07-25"
+  },
+  "https://seekingalpha.com/article/4924886-top-healthcare-stocks-beyond-the-market-rotation-averaging-128-percent-forward-eps-growth": {
+    "hash": "9a67226fafa1b07432e2e11c9c74fd5c",
+    "visto_em": "2026-07-25"
+  },
+  "https://www.forbes.com/sites/eriksherman/2026/07/24/big-tech-starts-to-feel-the-ai-cash-burn/": {
+    "hash": "85aa07fc1a360ce842c5f46f7cae5968",
+    "visto_em": "2026-07-25"
+  },
+  "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/": {
+    "hash": "f1a5dbf71306ae7c7ba7f9bf6f3178ce",
+    "visto_em": "2026-07-25"
+  },
+  "https://www.cnbc.com/2026/07/24/1-hyperscaler-megacap-down-3-to-go-alphabet-raises-the-stakes-on-ai-spending.html": {
+    "hash": "d39bb7b827f9aec04d37fa84f3541752",
+    "visto_em": "2026-07-25"
   }
 }
