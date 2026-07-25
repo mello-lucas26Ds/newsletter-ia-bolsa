@@ -2,10 +2,70 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-25",
-    "total_noticias": 100,
-    "gerado_em": "2026-07-25T05:41:29.925508"
+    "total_noticias": 104,
+    "gerado_em": "2026-07-25T11:09:30.670318"
   },
   "noticias": [
+    {
+      "titulo": "Which AI model is the best stock trader? A finance professor says he's got the answer. - Business Insider",
+      "url": "https://www.businessinsider.com/best-ai-for-trading-stocks-deepseek-claude-chatgpt-grok-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-25",
+      "resumo": "Um professor de finanças afirma ter encontrado a resposta para qual modelo de IA é o melhor trader de ações. Ele apresenta o DeepSeek, que alcançou um retorno de 76% em um ano, contra 27% do S&P 500. O DeepSeek é gerido por um aplicativo chamado Autopilot, que permite a outros traders copiar as suas decisões de investimento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Investing",
+        "Stock Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "Alphabet Earnings Could Lift These 3 Top AI Infrastructure Stocks",
+      "url": "https://seekingalpha.com/article/4924349-alphabet-earnings-could-lift-these-3-top-ai-infrastructure-stocks",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-22",
+      "resumo": "A Alphabet pode impulsionar as ações de 3 principais empresas de infraestrutura de IA, devido aos seus resultados financeiros. Essas empresas são especializadas em tecnologia de IA e podem se beneficiar da tendência positiva da Alphabet. O Head de Estratégia Quantitativa da Seeking Alpha analisa a situação e destaca as oportunidades de investimento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 62
+    },
+    {
+      "titulo": "Microsoft, Meta, Nvidia, and Palantir have a message for Washington - Business Insider",
+      "url": "https://www.businessinsider.com/microsoft-nvidia-meta-palantir-jensen-huang-open-source-ai-letter-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-24",
+      "resumo": "A Microsoft, Meta, Nvidia e Palantir enviaram uma carta a Washington defendendo o futuro dos modelos de peso aberto de IA. 25 empresas e organizações assinaram a carta, incluindo líderes da indústria de tecnologia e investidores. A carta visa alertar os políticos sobre as implicações negativas de restrições à IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "Meta"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 59
+    },
+    {
+      "titulo": "Apple’s anti-capex AI strategy pays off as shares lead the Mag7 - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/24/appleas-anti-capex-ai-strategy-pays-off-as-shares-lead-the-mag7.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-24",
+      "resumo": "Apple está utilizando modelos de IA externos e sua rede de dispositivos para evitar o aumento dos gastos de capex, preservando assim o dinheiro para os acionistas. Essa estratégia está dando resultados positivos, com as ações da empresa liderando o Mag7.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Apple"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 50
+    },
     {
       "titulo": "Digital Realty raises annual FFO forecast on robust data center demand",
       "url": "https://www.reuters.com/technology/digital-realty-raises-annual-ffo-forecast-robust-data-center-demand-2026-07-23",
