@@ -1,137 +1,137 @@
 # Newsletter IA Bolsa — 2026-07-26
 
-**Gerado em:** 26/07/2026 05:59
+**Gerado em:** 26/07/2026 11:20
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Analysis-AI investment boom puts Big Tech's free cash flow under pressure
+## 1. The Zacks Analyst Blog Highlights NVIDIA, AMD, Micron Technology and Taiwan Semiconductor Manufacturing
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Tecnologia, Fluxo de Caixa
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 9.0/10  
+**Tags:** [AI, Semiconductor, TAIWAN]
 
-A corrida de investimentos em IA está pressionando o fluxo de caixa livre das grandes tecnologias, com expectativa de aumento de $340 bilhões em fluxo de caixa operacional em 2027, mas capex previsto de $534 bilhões. Investidores estarão atentos às declarações de lucro para ver se a rápida expansão de receita de nuvem e IA pode acompanhar o aumento de despesas.
+A TSMC relatou receita de NT$1.27 trilhões no segundo trimestre de 2026, um aumento de 36% em relação ao mesmo período do ano anterior e 12% sequencial. A empresa espera alcançar outro crescimento de receita de dois dígitos no terceiro trimestre. A lucratividade da TSMC também foi destacada, com um lucro líquido de NT$706,56 bilhões, um aumento de 77,4% em relação ao mesmo período do ano anterior e 23,4% em relação ao trimestre anterior.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/analysis-ai-investment-boom-puts-050142660.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvidia-144200394.html)
 
 ---
 
-## 2. A new group of stocks is transforming global equities markets. Meet ‘Memi,’ the $3 trillion sector fueled by AI’s insatiable hunger for memory chips
+## 2. Taiwan Semiconductor Manufacturing Just Gave a Warning to Nvidia Investors
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** TSM, TSMC, Nvidia, IA
+
+A Taiwan Semiconductor Manufacturing (TSMC) anunciou resultados financeiros impressionantes, mas a ação caiu após o relatório. A empresa está enfrentando demanda explosiva e está investindo na expansão para atender a ela. No entanto, o mercado está se tornando mais cauteloso em relação aos altos níveis de gastos em inteligência artificial (IA), o que afeta a TSMC de duas maneiras - seu próprio gasto profundo e o de seus clientes. Isso é uma advertência para os investidores da Nvidia, pois a TSMC está aumentando sua previsão de gastos em capital para entre $60 bilhões e $64 bilhões.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-just-gave-125000078.html)
+
+---
+
+## 3. The Overlooked Infrastructure Play Quietly Winning the AI Boom
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semicondutores, Memória, Tecnologia
+**Tags:** AI, Semiconductor, TSMC
 
-A indústria de memória e semicondutores está experimentando um crescimento explosivo, com a criação do termo "memi" para descrever essa tendência. A demanda insaciável de chips de memória por parte da indústria de IA está impulsionando o setor, com empresas como Micron, SK Hynix e Samsung liderando a corrida. A performance do setor é impulsionada principalmente pelo crescimento das receitas, em vez de apenas pelo aumento dos preços.
+A TSMC está se beneficiando do boom de infraestrutura de IA, com uma estimativa de aumento de 3 a 4 trilhões de dólares em 2030, segundo a Nvidia. A empresa de semicondutores tem uma taxa de crescimento impressionante, com uma rentabilidade de 34% ao ano e uma previsão de crescimento contínuo. A ação da TSMC pode seguir uma corrida de touros, com um potencial de ganho de 67% em menos de três anos.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/group-stocks-transforming-global-equities-195039352.html)
-
----
-
-## 3. Brazil stocks lower at close of trade; Bovespa down 0.20% By Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 4.0/10  
-**Tags:** Bovespa, Brasil, Mercado de Ações
-
-As ações brasileiras fecharam em baixa no final do dia, com a Bovespa caindo 0,20%. A perda foi liderada por setores como Imóveis, Materiais Básicos e Consumo. Além disso, a Embraer SA e a Hapvida Participações e Investimentos foram as maiores ganhadoras da sessão, com aumentos de 1,88% e 1,49%, respectivamente.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-020-4801667)
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/overlooked-infrastructure-play-quietly-winning-134300890.html)
 
 ---
 
-## 4. SK Hynix shares rise as Big Tech AI investment boosts semiconductor outlook (NASDAQ:SKHY)
+## 4. 5 Semiconductor Stocks To Buy And 1 To Ignore
+
+**Fonte:** forbes.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** Semicondutores, Inteligência Artificial, NVIDIA, TSMC
+
+A NVIDIA (NVDA) e a Taiwan Semiconductor Manufacturing Company (TSMC) são consideradas ações de compra, devido ao seu papel fundamental na revolução dos chips de inteligência artificial (IA). A NVIDIA lidera a indústria de GPU e a TSMC controla 72% do mercado de foundry de chips, tornando-as essenciais para a produção de chips de IA. As ações de ambas as empresas têm um potencial de crescimento significativo, com uma média de preço-alvo de US$ 302 para a NVDA e uma expectativa de crescimento de 30%+ para a TSMC.
+
+[Ler noticia completa](https://www.forbes.com/sites/investor-hub/article/semiconductor-stocks-to-buy-and-ignore)
+
+---
+
+## 5. Tempus AI Stock Before Q2 Earnings Release: To Buy, Hold or Sell?
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Oncologia, Tecnologia
+
+A Tempus AI, Inc. está prestes a divulgar seus resultados financeiros do 2º trimestre de 2026. A empresa tem apresentado resultados acima das expectativas em três dos últimos quatro trimestres, com uma média de surpresa negativa de 6,58%. A estimativa de receita para o 2º trimestre é de $381,6 milhões, o que representa um crescimento de 21,3% em relação ao mesmo período do ano anterior.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tempus-ai-stock-q2-earnings-150300575.html)
+
+---
+
+## 6. Zacks Investment Ideas feature highlights: Intel, Micron, Marvell, AMD, Nvidia and Taiwan Semiconductor
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 8.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
+**Tags:** Intel, Semicondutores, AI
 
-As ações da SK Hynix subiram 6,6% em previsão de negócios, após Alphabet e Tesla anunciarem investimentos pesados em infraestrutura de inteligência artificial. Isso reforça a expectativa de demanda por semicondutores avançados e memória.
+A Intel superou as expectativas de lucro em três de seus últimos quatro relatórios trimestrais, com uma média de surpresa de EPS de 996,88%. A empresa recentemente relatou lucro líquido ajustado de $1,5 bilhão ou $0,29 por ação, que superou as expectativas de EPS de $0,01. A Intel está focada em expandir seu portfólio de inteligência artificial e reconstruir sua liderança na fabricação de semicondutores.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/sk-hynix-shares-rise-big-103529258.html)
-
----
-
-## 5. AI investment boom puts Big Tech's free cash flow under ...
-
-**Fonte:** reuters.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Tecnologia, Investimentos
-
-A corrida de investimentos em IA está colocando a disponibilidade de caixa líquido das grandes empresas de tecnologia em xeque. Embora as empresas esperem gerar mais de $340 bilhões em caixa operacional em 2027 do que em 2025, o aumento das despesas de capital está previsto em cerca de $534 bilhões. Investidores estarão procurando sinais de que o crescimento rápido na receita de nuvem e IA possa manter o ritmo com o aumento das despesas.
-
-[Ler noticia completa](https://www.reuters.com/business/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-2026-07-22)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-140200652.html)
 
 ---
 
-## 6. My 3 Favorite AI Stocks to Buy Right Now
+## 7. Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push - CNBC
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
-
-A TSMC investirá US$ 100 bilhões adicionais em suas instalações da Arizona para apoiar fábricas de embalagens avançadas e tecnologia de processamento de 2 nm. A Micron Technology é outra opção para investidores, com uma ganância de 240% este ano, impulsionada pela alta demanda por DRAM para centros de dados e programas de IA. A Nebius Group é uma empresa de serviços de nuvem de IA que rebranda-se como uma opção para investidores.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/3-favorite-ai-stocks-buy-174300730.html)
-
----
-
-## 7. Brazil stocks lower at close of trade; Bovespa down 0.03% By Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 4.0/10  
-**Tags:** Bovespa, ações brasileiras, mercado de ações
-
-As ações brasileiras fecharam em baixa, com o Índice Bovespa caindo 0,03%. As principais ações que contribuíram para a queda incluem TEL, GEV, APP, CB, SNDK, DASH e NOW.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-003-4804196)
-
----
-
-## 8. Blackstone Profits Surge 26% on AI Investments  - WSJ
-
-**Fonte:** wsj.com  
+**Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Investimentos
+**Tags:** AI, Semicondutores, Samsung, Broadcom
 
-A Blackstone registrou um aumento de 26% nos lucros no segundo trimestre, graças às receitas geradas por suas investimentos na inteligência artificial. A empresa aproveitou a expansão da IA em todos os seus principais negócios, incluindo private-equity, private-credit e imobiliário. Os investimentos na tecnologia de IA também impulsionaram a demanda por serviços de infraestrutura digital.
+A Samsung Electronics e a Broadcom anunciaram uma parceria de $200 bilhões para desenvolver chips de IA, reforçando a posição da Samsung no mercado de semicondutores de IA. A parceria visa combinar a expertise da Broadcom em design de circuitos integrados de aplicação específica com as capacidades de fabricação da Samsung. A colaboração também inclui o desenvolvimento de memórias de alta banda.
 
-[Ler noticia completa](https://www.wsj.com/finance/investing/blackstone-bx-q2-earnings-report-stock-2026-99916051)
+[Ler noticia completa](https://www.cnbc.com/2026/07/25/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership.html)
 
 ---
 
-## 9. Tech Stocks Return to Rally Mode Ahead of Earnings
+## 8. A top fund manager unpacks why he's sticking with AI infrastructure, and flags 2 lesser-known stocks he's betting on - Business Insider
 
-**Fonte:** wsj.com  
+**Fonte:** businessinsider.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
+**Tags:** AI, Infraestrutura, Tecnologia
 
-As tecnologias voltaram a subir após três dias de perda, com a recuperação das ações de chips e expectativas de bons resultados financeiros de algumas das maiores empresas de tecnologia dos EUA. O Nasdaq teve as maiores ganhas entre os principais índices norte-americanos, subindo 1,3%. O S&P 500 e o Dow industriais também tiveram ganhas de 0,9% e 0,7%, respectivamente.
+O gestor de fundos Brandon Nelson compartilhou por que ele continua a apostar nas infraestruturas de inteligência artificial, destacando duas ações menos conhecidas que ele está apostando. Ele acredita que a fundamental de muitas dessas ações é ainda muito forte, apesar do movimento de preço ter recuado. Ele também mencionou duas ações específicas, a Sterling Infrastructure (STRL) e a SiTime (SITM), que ele acredita terem potencial de crescimento.
 
-[Ler noticia completa](https://www.wsj.com/finance/stocks/tech-stocks-return-to-rally-mode-ahead-of-earnings-3702d559)
+[Ler noticia completa](https://www.businessinsider.com/ai-hardware-stock-picks-to-buy-capex-beneficiaries-strl-sitm-2026-7)
 
 ---
 
-## 10. S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs By Reuters
+## 9. Why Intel's rally faded despite a strong quarter - CNBC
 
-**Fonte:** investing.com  
+**Fonte:** cnbc.com  
 **Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** S&P 500, Nasdaq, Intel, Semicondutores
+**Relevancia:** 5.0/10  
+**Tags:** Intel, Tecnologia, Mercados
 
-O S&P 500 e o Nasdaq caíram na sexta-feira, com preocupações sobre o gasto em inteligência artificial (IA) predominando sobre os resultados de empresas, enquanto os investidores também ponderavam novos impostos e riscos crescentes do conflito no Oriente Médio. A Intel anunciou lucros e receita acima das estimativas de Wall Street, mas suas ações caíram 3,8% apesar dos resultados positivos.
+A Intel teve um forte trimestre, mas sua retomada deu errado. A empresa apresentou resultados sólidos, mas o mercado não reagiu positivamente. Isso pode ser devido à incerteza sobre a capacidade da Intel de competir com outras empresas de tecnologia.
 
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/wall-st-futures-rise-after-tech-rout-mideast-tariffs-in-focus-4810955)
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/24/intel-lower-despite-strong-quarter.html)
+
+---
+
+## 10. DeepSeek Said to Tell Backers of Funding Pause After Viral Posts - Bloomberg.com
+
+**Fonte:** bloomberg.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, China, Financiamento
+
+A DeepSeek, uma empresa de inteligência artificial chinesa, suspendeu sua segunda rodada de financiamento após comentários do fundador Liang Wenfeng terem sido amplamente divulgados na internet. A empresa havia planejado aumentar sua capacidade de processamento, mas agora pode escolher retomar o processo de financiamento em um momento futuro. A suspensão foi motivada pela frustração de Liang com relatos online sobre seus comentários a investidores durante o primeiro financiamento, que arrecadou US$ 7 bilhões em junho.
+
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts)
 
 ---
