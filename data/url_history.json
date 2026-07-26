@@ -1,64 +1,4 @@
 {
-  "https://www.reuters.com/business/wall-st-week-ahead-alphabet-intel-results-focus-ai-trade-us-earnings-rev-up-2026-07-17/": {
-    "hash": "fdb3de09d7ff52b77092f259614d4b94",
-    "visto_em": "2026-07-18"
-  },
-  "https://www.reuters.com/business/wall-st-futures-fall-chip-selloff-gathers-pace-netflix-tumbles-2026-07-17/": {
-    "hash": "c7971c4a54193a8076db1dced1f04dfc",
-    "visto_em": "2026-07-18"
-  },
-  "https://www.cnbc.com/video/2026/07/17/morning-call-sheet-earnings-ai-and-rates-keep-markets-on-edge.html": {
-    "hash": "45de0507064bcf5aa995607bfa9528b9",
-    "visto_em": "2026-07-18"
-  },
-  "https://www.businessinsider.com/stock-market-today-chip-selloff-kimi-moonshot-ai-rotation-soxx-2026-7": {
-    "hash": "d169c45060f00e887ec896541993bb89",
-    "visto_em": "2026-07-18"
-  },
-  "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17/": {
-    "hash": "14a15ba229a3059c6901af81ab82a104",
-    "visto_em": "2026-07-18"
-  },
-  "https://www.businessinsider.com/kospi-stock-index-sk-hynix-samsung-share-price-retail-investors-2026-7": {
-    "hash": "e318e72ac58ae6542a704c2582b7620f",
-    "visto_em": "2026-07-18"
-  },
-  "https://www.businessinsider.com/parag-agrawal-parallel-partners-with-google-cloud-ai-tools-2026-7": {
-    "hash": "143e3d49e3159559c4cae261b9115404",
-    "visto_em": "2026-07-18"
-  },
-  "https://www.cnbc.com/video/2026/07/17/vistashares-jon-mcneill-on-the-companys-ai-supercycle-etf.html": {
-    "hash": "0b79f666d6fb55af77f59de39ba4d011",
-    "visto_em": "2026-07-18"
-  },
-  "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205": {
-    "hash": "8cd23778d394b422972dd69b49db07df",
-    "visto_em": "2026-07-18"
-  },
-  "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17072026": {
-    "hash": "99a13b3eb275dbcecdd980c0bf51366b",
-    "visto_em": "2026-07-18"
-  },
-  "https://br.investing.com/news/commodities-news/trump-diz-que-eua-controlarao-estreito-de-ormuz-e-serao-pagos-por-isso-1999813": {
-    "hash": "350ed8f5ef024b7aa408b74d46e77223",
-    "visto_em": "2026-07-18"
-  },
-  "https://www.cnbc.com/video/2026/07/17/googles-gemini-delay-adds-to-concerns-it-is-falling-behind-in-ai.html": {
-    "hash": "44a7edb92ef0f13ae19f53c0f3d2020c",
-    "visto_em": "2026-07-18"
-  },
-  "https://www.cnbc.com/video/2026/07/17/tsmc-cautious-about-long-term-growth-morningstar.html": {
-    "hash": "c9ddebcf2bae430f1f5f73c70a4814cf",
-    "visto_em": "2026-07-18"
-  },
-  "https://www.forbes.com/sites/tomcoughlin/2026/07/18/ai-storage--memory-from-backblaze-coreweave-panmnesia-vast-and-cloudera/": {
-    "hash": "4a5d76015b08586a645e0cbc963ec671",
-    "visto_em": "2026-07-18"
-  },
-  "https://za.investing.com/news/cryptocurrency-news/bitcoin-falls-to-628k-as-usiran-tensions-batter-risk-4365293": {
-    "hash": "1aad74aa2e25460f9718e5aa5b617021",
-    "visto_em": "2026-07-18"
-  },
   "https://www.cnbc.com/2026/07/18/the-ai-rotation-stole-the-spotlight-from-a-strong-start-to-earnings-season-.html": {
     "hash": "0dd5cc321f3f7c91107f04c6c1409359",
     "visto_em": "2026-07-19"
@@ -510,5 +450,45 @@
   "https://www.cnbc.com/video/2026/07/24/appleas-anti-capex-ai-strategy-pays-off-as-shares-lead-the-mag7.html": {
     "hash": "0d6bee08150b4720033d8d2939a7ca70",
     "visto_em": "2026-07-25"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/analysis-ai-investment-boom-puts-050142660.html": {
+    "hash": "70b587bfc6ffc1f35e518b882ce7ad22",
+    "visto_em": "2026-07-26"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/group-stocks-transforming-global-equities-195039352.html": {
+    "hash": "3cb635d7690b0e537caee4ad65c3f0e1",
+    "visto_em": "2026-07-26"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-020-4801667": {
+    "hash": "3fdef814e1cafa097f6109c6b82f6ad9",
+    "visto_em": "2026-07-26"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/sk-hynix-shares-rise-big-103529258.html": {
+    "hash": "3fc4807a1676fdc0a8bb3693e91aebc6",
+    "visto_em": "2026-07-26"
+  },
+  "https://www.reuters.com/business/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-2026-07-22": {
+    "hash": "9f0a7406ca99d27d42663d7f92a3c8b2",
+    "visto_em": "2026-07-26"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/3-favorite-ai-stocks-buy-174300730.html": {
+    "hash": "50fcf37064075734b83dfe59d2e2b8d2",
+    "visto_em": "2026-07-26"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-003-4804196": {
+    "hash": "d25d7aaea7ac414f062efe81c8bad2f6",
+    "visto_em": "2026-07-26"
+  },
+  "https://www.wsj.com/finance/investing/blackstone-bx-q2-earnings-report-stock-2026-99916051": {
+    "hash": "2617eb0c9b5dd49f061267723ff19748",
+    "visto_em": "2026-07-26"
+  },
+  "https://www.wsj.com/finance/stocks/tech-stocks-return-to-rally-mode-ahead-of-earnings-3702d559": {
+    "hash": "d8b2ceaca435cfaec861b4e2ca5d5954",
+    "visto_em": "2026-07-26"
+  },
+  "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-after-tech-rout-mideast-tariffs-in-focus-4810955": {
+    "hash": "5278f5e62532adeceee0a67792e58f95",
+    "visto_em": "2026-07-26"
   }
 }
