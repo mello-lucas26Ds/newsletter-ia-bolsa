@@ -1,11 +1,162 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-26",
-    "total_noticias": 116,
-    "gerado_em": "2026-07-26T11:20:08.437662"
+    "data": "2026-07-27",
+    "total_noticias": 111,
+    "gerado_em": "2026-07-27T06:27:26.248239"
   },
   "noticias": [
+    {
+      "titulo": "Big Earnings Week Tests Wall Street’s AI Spending Fears - Forbes",
+      "url": "https://www.forbes.com/sites/bill_stone/2026/07/26/big-earnings-week-tests-wall-streets-ai-spending-fears/",
+      "fonte": "forbes.com",
+      "data": "2026-07-26",
+      "resumo": "A semana de resultados financeiros está testando as preocupações de Wall Street com o gasto em IA, com 175 empresas do S&P 500 relatando resultados do 2º trimestre, incluindo gigantes da tecnologia como Meta, Microsoft, Apple e Amazon. A queda do S&P 500 de 0,6% e a queda do Magnificent 7 de 5,7% foram impulsionadas pela ansiedade dos investidores em relação ao aumento dos gastos em IA e tensões geopolíticas. Apesar disso, 86% das empresas do S&P 500 superaram as estimativas, impulsionando o crescimento de resultados do 2º trimestre para 37,9%.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 101
+    },
+    {
+      "titulo": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks - CNBC",
+      "url": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-26",
+      "resumo": "A corrida para construir centros de dados de IA está impulsionando o setor industrial, que está alcançando os níveis de valorização dos stocks de tecnologia. A Alphabet prevê gastos de $195 bilhões a $205 bilhões em capex este ano, e a McKinsey & Company estima que a despesa global com centros de dados pode chegar a quase $8 trilhões até 2030. Empresas como Caterpillar e GE Vernova estão beneficiando desse boom, com aumentos de 50% ou mais este ano.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Industriais",
+        "ETF"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 88
+    },
+    {
+      "titulo": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-26",
+      "resumo": "A Big Tech, liderada por empresas como Microsoft, Meta e Alphabet, está enfrentando uma revolta no mercado devido ao gasto excessivo em investimentos em inteligência artificial (IA). A perda de confiança dos investidores em relação ao gasto em IA está afetando as ações dessas empresas, com a Mag Seven (Alphabet, Microsoft, Amazon, Meta, Nvidia e Tesla) tendo perdido US$ 797 bilhões. As empresas estão projetadas a investir US$ 724 bilhões em capital em 2026 e US$ 950 bilhões em 2027.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "Earnings"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 117
+    },
+    {
+      "titulo": "Strategist calls for positioning across full AI spectrum in a 'pay-to-play' hyperscaler market - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/27/position-across-full-ai-spectrum-in-a-pay-to-play-hyperscaler-market.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-27",
+      "resumo": "Kerry Craig, estrategista de mercado da J.P. Morgan Asset Management, acredita que a história de investimento em inteligência artificial ainda tem espaço para crescer. Ele encontra os hiperscalers de grande capitalização da bolsa americana atraentes, após seu recente subdesempenho, citando o potencial de recuperação e a dinâmica \"pay-to-play\" do setor.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Inteligência Artificial",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 62
+    },
+    {
+      "titulo": "Intel Stock: Grotesque Valuation (NASDAQ:INTC) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925659-intel-grotesque-valuation",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-26",
+      "resumo": "A Intel (INTC) divulgou resultados financeiros melhores do que esperados para o segundo trimestre, graças a um crescimento forte em sua divisão de centros de dados de IA. Isso levou a uma expansão de 25% na receita em comparação com o mesmo período do ano anterior.",
+      "sentimento": "bullish",
+      "tags": [
+        "Intel",
+        "NASDAQ",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 55
+    },
+    {
+      "titulo": "The 'richest' S&P sector valuation due to AI? It might be industrials - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/26/the-richest-sp-sector-valuation-due-to-ai-it-might-be-industrials.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-26",
+      "resumo": "A indústria de bens raízes pode ter a maior valorização do setor S&P devido à IA, rivalizando com a tecnologia. Isso pode ser justificado ou um \"buraco\" de IA no setor tradicional da economia.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Industriais",
+        "S&P 500"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 44
+    },
+    {
+      "titulo": "U.S. Data-Center Operator TECfusions Plans to Go Public in $4 Billion SPAC Deal - WSJ",
+      "url": "https://www.wsj.com/finance/investing/u-s-data-center-operator-tecfusions-plans-to-go-public-in-4-billion-spac-deal-e3f54495",
+      "fonte": "wsj.com",
+      "data": "2026-07-22",
+      "resumo": "A empresa de centros de dados TECfusions, sediada na Flórida, planeja se tornar pública após uma combinação com a Apex Treasury, uma empresa de aquisição especializada listada em Nova York, em um acordo avaliado em cerca de 4 bilhões de dólares. A empresa opera um dos maiores clusters de treinamento de inteligência artificial baseado em AMD da América do Norte. A transação está prevista para ser concluída no quarto trimestre e a empresa começará a ser negociada na NASDAQ.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data-Center",
+        "SPAC",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 89
+    },
+    {
+      "titulo": "Stripe in talks to acquire AI startup OpenRouter for ~$10B",
+      "url": "https://seekingalpha.com/news/4617795-stripe-in-talks-to-acquire-ai-startup-openrouter-for-10b---report",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-23",
+      "resumo": "A Stripe está em negociações para adquirir a startup de IA OpenRouter por cerca de 10 bilhões de dólares. A transação pode ser anunciada em breve, de acordo com fontes próximas ao assunto. A aquisição visa fortalecer a presença da Stripe no mercado de tecnologia de pagamento e IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Fintech",
+        "M&A"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 58
+    },
+    {
+      "titulo": "Alphabet: Wall Street Is Being Ridiculous - Elevated CapEx Is A Buying Opportunity (GOOGL) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4925373-alphabet-wall-street-is-being-ridiculous-elevated-capex-is-abuying-opportunity",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-26",
+      "resumo": "A Alphabet Inc. apresentou resultados robustos no 2º trimestre, com crescimento de 294% nos lucros por ação e 24% na receita, mas as ações caíram mais de 7% devido às preocupações com os investimentos em capital fixo. O CAPEX da empresa aumentou 100% para US$ 44,9 bilhões, com a previsão de aumento para US$ 195-205 bilhões no ano, principalmente para infraestrutura de IA e capacidade de nuvem. Embora a empresa tenha apresentado fluxo de caixa negativo no trimestre, sua carteira de ativos sólida e baixa taxa de pagamento garantem a cobertura de dividendos e flexibilidade de investimento estratégico.",
+      "sentimento": "bullish",
+      "tags": [
+        "GOOGL",
+        "Alphabet",
+        "AI"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 107
+    },
+    {
+      "titulo": "Jim Cramer: Here's the tech stock to buy in a market losing patience with tech - CNBC",
+      "url": "https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-26",
+      "resumo": "Jim Cramer, analista financeiro, recomenda a compra de ações da Intel (INTC) após a empresa ter sofrido uma queda significativa no mercado de ações. Ele acredita que a Intel é uma opção atraente para investidores, especialmente em comparação com a AMD, que também sofreu uma queda, mas não tão severa. Cramer espera que a Intel possa se recuperar e voltar a crescer.",
+      "sentimento": "bullish",
+      "tags": [
+        "Intel",
+        "AMD",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 71
+    },
     {
       "titulo": "The Zacks Analyst Blog Highlights NVIDIA, AMD, Micron Technology and Taiwan Semiconductor Manufacturing",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvidia-144200394.html",
@@ -845,21 +996,6 @@
       "tokens_usados": 57
     },
     {
-      "titulo": "What to watch for after Jensen Huang's Japan visit | TechCrunch",
-      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-      "fonte": "techcrunch.com",
-      "data": "2026-07-19",
-      "resumo": "Jensen Huang, CEO da Nvidia, visitou o Japão e estabeleceu acordos com a elite industrial e de fornecedores de chips do país, incluindo uma fábrica nacional de IA, parcerias com empresas de robótica líderes e acordos com fornecedores de materiais de chips. A visita visa alavancar a presença da Nvidia na indústria japonesa, especialmente nas fábricas e em equipamentos de robótica.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Nvidia",
-        "Japão"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 70
-    },
-    {
       "titulo": "Reddit stock sinks on report it may not renew Google AI ...",
       "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
       "fonte": "cnbc.com",
@@ -1433,21 +1569,6 @@
       "tokens_usados": 115
     },
     {
-      "titulo": "Intel Stock Forms an Alarming Pattern as Earnings Loom - Benzinga",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60543133/intel-stock-forms-an-alarming-pattern-as-earnings-loom",
-      "fonte": "benzinga.com",
-      "data": "2026-07-19",
-      "resumo": "A ação da Intel (NASDAQ:INTC) entrou em um mercado local de baixa após cair 33% desde o pico do ano até agora. A empresa formou um padrão de topo duplo enquanto os traders se preparam para o relatório de resultados do segundo trimestre. A ação da Intel caiu fortemente nas últimas semanas, refletindo a performance de outras empresas de semicondutores.",
-      "sentimento": "bearish",
-      "tags": [
-        "Intel",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 69
-    },
-    {
       "titulo": "Stocks making the biggest moves midday: AMD, Archer Aviation, SpaceX, Iren & more - CNBC",
       "url": "https://www.cnbc.com/2026/07/20/stocks-making-the-biggest-moves-midday-amd-achr-spcx-iren.html",
       "fonte": "cnbc.com",
@@ -1478,21 +1599,6 @@
       "tokens_usados": 75
     },
     {
-      "titulo": "3 AI Stocks That Can Outperform Nvidia Next Year",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-outperform-nvidia-215600814.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-19",
-      "resumo": "A reportagem destaca três ações de IA que podem superar a Nvidia no próximo ano, incluindo a Monolithic Power Systems, Astera Labs e Cadence Design Systems. Essas empresas estão aproveitando a demanda crescente por produtos de AI data centers e soluções de conectividade para servidores de AI.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 56
-    },
-    {
       "titulo": "Asia stocks mixed as investors reassess AI bets; S Korea slides, China outperforms By Investing.com - Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-investors-reassess-ai-bets-s-korea-slides-china-outperforms-4799782",
       "fonte": "investing.com",
@@ -1506,51 +1612,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 100
-    },
-    {
-      "titulo": "Big Tech Needs to Justify AI Spending as Investors Dump ...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-19",
-      "resumo": "A euforia em torno da inteligência artificial (IA) está diminuindo, levando a uma reavaliação das ações de tecnologia. O grupo de tecnologia foi o pior desempenho no S&P 500 Index na semana passada, com a Nasdaq 100 Index perdendo 4,1%. As ações de chips foram o principal culpado, com o índice de semicondutores da Philadelphia Stock Exchange caindo 10% para seu pior desempenho desde abril de 2025.",
-      "sentimento": "bearish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Semicondutores"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 76
-    },
-    {
-      "titulo": "Three themes emerge as AI momentum trade turns volatile: Goldman Sachs (SP500:) - Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4615115-three-themes-emerge-as-ai-momentum-trade-turns-volatile-goldman-sachs",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-19",
-      "resumo": "A Goldman Sachs alerta investidores a não se concentrarem apenas em ações relacionadas à inteligência artificial, devido à volatilidade recente no mercado de infraestrutura de AI. A empresa sugere que os investidores busquem oportunidades em outras áreas, como empresas de experiência do consumidor e atividade de M&A nos EUA.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "M&A",
-        "SP500"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 58
-    },
-    {
-      "titulo": "TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/tsmc-expects-strong-multi-year-demand-ai-chips-it-ramps-up-arizona-investment-2026-07-19/",
-      "fonte": "reuters.com",
-      "data": "2026-07-19",
-      "resumo": "A TSMC espera uma demanda \"forte e de longo prazo\" por chips de IA, investindo US$ 100 bilhões adicionais em suas instalações de Arizona. A empresa está confiante em seu modelo de negócios e planeja construir 13 fábricas de ponta e embalagens avançadas nos próximos anos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "TSMC"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 55
     },
     {
       "titulo": "Dow Tumbles Over 400 Points, Records Weekly Loss: Investor Sentiment Declines, Greed Index In ‘Fear’ Zone - Benzinga",
@@ -1599,51 +1660,6 @@
       "tokens_usados": 68
     },
     {
-      "titulo": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says - CNBC",
-      "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-19",
-      "resumo": "A TSMC está acelerando a expansão de sua fábrica em Arizona para capitalizar a tendência de \"megatendência\" de IA, segundo o CFO Wendell Huang. A empresa investirá US$ 100 bilhões em novas instalações, incluindo fábricas de wafers e embalagens avançadas. A TSMC espera que sua tecnologia de 2 nanômetros impulse suas receitas no próximo trimestre.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 64
-    },
-    {
-      "titulo": "Earnings playbook: Alphabet and Tesla are among the big companies set to report this week - CNBC",
-      "url": "https://www.cnbc.com/2026/07/19/earnings-playbook-alphabet-tesla-headline-this-weeks-big-reports.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-19",
-      "resumo": "A Alphabet e a Tesla estão entre as principais empresas que vão relatar seus resultados financeiros esta semana. A LSEG prevê que a Alphabet e a Tesla tenham um crescimento de mais de 20% em receita e lucro. O analista Brian Pitz da BMO aumentou o alvo de preço da Alphabet para $455, o que representa um ganho de 31% em relação ao fechamento de sexta-feira.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tech",
-        "Earnings"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 75
-    },
-    {
-      "titulo": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup - TechCrunch",
-      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-      "fonte": "techcrunch.com",
-      "data": "2026-07-19",
-      "resumo": "A Netflix adquiriu o startup InterPositive, fundado por Ben Affleck, por US$ 587 milhões em dinheiro. O startup utiliza ferramentas de IA para melhorar a qualidade de filmes em pós-produção, especialmente em situações de desafios de produção. A equipe do InterPositive se juntará à Netflix e Ben Affleck se tornará conselheiro sênior da empresa.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "Netflix"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 88
-    },
-    {
       "titulo": "TSMC CFO: higher U.S. investment driven by strong customer demand and U.S. government support - CNBC",
       "url": "https://www.cnbc.com/video/2026/07/20/tsmc-cfo-strong-customer-demand-drives-us-investment.html",
       "fonte": "cnbc.com",
@@ -1659,66 +1675,6 @@
       "tokens_usados": 51
     },
     {
-      "titulo": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them? - MarketWatch",
-      "url": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3",
-      "fonte": "marketwatch.com",
-      "data": "2026-07-19",
-      "resumo": "O mercado de ações em julho está em um estado de calma quase assustadora na superfície, mas há sinais crescentes de que isso não durará. O \"Magnifico Sete\", um grupo de nomes de tecnologia quase abandonados após um primeiro semestre de 2026 brutal, está voltando à vida nos últimos dois semanas, o que pode dar um impulso ao S&P 500. O Roundhill Magnifico Sete ETF (MAGS) avançou mais de 4% em julho, liderado por Apple e Meta.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Semicondutores"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 86
-    },
-    {
-      "titulo": "China’s Moonshot Plans IPO in Six Months After AI Breakthrough - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-19",
-      "resumo": "A Moonshot AI, uma empresa de inteligência artificial chinesa, está planejando uma oferta pública inicial (IPO) em seis meses após um recente avanço tecnológico. A empresa está em processo de levantamento de capital que pode valorizá-la em mais de $30 bilhões. A Moonshot está se preparando para listagem em Hong Kong e está em processo de distribuição de resolução de ações para seus investidores.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "China",
-        "IPO"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 73
-    },
-    {
-      "titulo": "Apple Stock Shows Why The AI Trade Is Moving Beyond Nvidia - Forbes",
-      "url": "https://www.forbes.com/sites/jimosman/2026/07/19/apple-stock-shows-why-the-ai-trade-is-moving-beyond-nvidia/",
-      "fonte": "forbes.com",
-      "data": "2026-07-19",
-      "resumo": "A ação da Apple mostra que o mercado de IA está se movendo além da Nvidia. A empresa não está tentando ganhar a corrida de IA vendendo infraestrutura, mas sim aproveitando sua vantagem em dispositivos, sistema operacional e serviços. O mercado está passando a avaliar se a IA ajuda a melhorar a rentabilidade da empresa existente da Apple.",
-      "sentimento": "bullish",
-      "tags": [
-        "Apple",
-        "AI",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "Frontier AI Labs Are Renting Compute From Their Competitors - Forbes",
-      "url": "https://www.forbes.com/sites/janakirammsv/2026/07/19/frontier-ai-labs-are-renting-compute-from-their-competitors/",
-      "fonte": "forbes.com",
-      "data": "2026-07-19",
-      "resumo": "Empresas de IA estão mudando suas estratégias de infraestrutura de computação, diversificando-se e alugando capacidade de processamento de seus concorrentes. Isso inclui acordos de longo prazo e construção de instalações personalizadas com parceiros. A mudança de estratégia está gerando novos fornecedores de infraestrutura e realocando riscos de construção, financiamento e permissão.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Infraestrutura"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 60
-    },
-    {
       "titulo": "Position portfolios toward AI's 'picks and shovels': Javelin Wealth Management - CNBC",
       "url": "https://www.cnbc.com/video/2026/07/20/position-more-towards-the-picks-and-shovels-of-ai-javelin.html",
       "fonte": "cnbc.com",
@@ -1732,36 +1688,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 65
-    },
-    {
-      "titulo": "Tesla And Alphabet Headline A Big S&P 500 Earnings Week - Forbes",
-      "url": "https://www.forbes.com/sites/bill_stone/2026/07/19/tesla-and-alphabet-headline-a-big-sp-500-earnings-week/",
-      "fonte": "forbes.com",
-      "data": "2026-07-19",
-      "resumo": "A semana de resultados financeiros da S&P 500 será liderada por empresas de tecnologia, incluindo Tesla e Alphabet, com crescimento de 31,1% em relação ao ano passado. A demanda por inteligência artificial (IA) está impulsionando os resultados financeiros da Micron Technology e da NVIDIA. A S&P 500 caiu 1,5% na semana passada devido à fraqueza em empresas de chips de memória e ao agravamento do conflito com o Irã.",
-      "sentimento": "bullish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "S&P 500"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 79
-    },
-    {
-      "titulo": "Small Business Technology News Roundup: IBM Shares Crash, ChatGPT To Replace Wall Street Analysts - Forbes",
-      "url": "https://www.forbes.com/sites/quickerbettertech/2026/07/19/small-business-technology-news-roundup-ibm-shares-crash-chatgpt-to-replace-wall-street-analysts/",
-      "fonte": "forbes.com",
-      "data": "2026-07-19",
-      "resumo": "A IBM sofreu uma queda de 25% no valor das ações, resultando em uma perda de US$ 67 bilhões, devido à falta de adaptação à mudança de investimentos em inteligência artificial (IA) por parte dos clientes. Além disso, a OpenAI está contratando um investidor para trabalhar em projetos que podem automatizar tarefas financeiras complexas, impactando os papéis de analistas juniores. Já a Upwork revelou que a IA está transformando a freelancer, com profissionais que sabem usar a IA ganhando 34% a mais.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Finanças",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 91
     }
   ]
 }
