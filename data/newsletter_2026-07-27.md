@@ -1,137 +1,124 @@
 # Newsletter IA Bolsa — 2026-07-27
 
-**Gerado em:** 27/07/2026 06:27
-**Total:** 10 noticias
+**Gerado em:** 27/07/2026 12:56
+**Total:** 9 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Big Earnings Week Tests Wall Street’s AI Spending Fears - Forbes
+## 1. Wall St falls as tech earnings spark AI spending worries ...
 
-**Fonte:** forbes.com  
+**Fonte:** reuters.com  
 **Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
+**Relevancia:** 5.0/10  
 **Tags:** AI, Tecnologia, Mercados Financeiros
 
-A semana de resultados financeiros está testando as preocupações de Wall Street com o gasto em IA, com 175 empresas do S&P 500 relatando resultados do 2º trimestre, incluindo gigantes da tecnologia como Meta, Microsoft, Apple e Amazon. A queda do S&P 500 de 0,6% e a queda do Magnificent 7 de 5,7% foram impulsionadas pela ansiedade dos investidores em relação ao aumento dos gastos em IA e tensões geopolíticas. Apesar disso, 86% das empresas do S&P 500 superaram as estimativas, impulsionando o crescimento de resultados do 2º trimestre para 37,9%.
+A bolsa de Wall Street caiu após as divulgações de lucros de empresas de tecnologia, levantando preocupações sobre o investimento em inteligência artificial. Empresas como Alphabet e Tesla mostraram estágios diferentes do ciclo de investimento em IA, com Alphabet começando a demonstrar conexão e Tesla precisando provar que seus projetos ambiciosos podem gerar retornos comerciais.
 
-[Ler noticia completa](https://www.forbes.com/sites/bill_stone/2026/07/26/big-earnings-week-tests-wall-streets-ai-spending-fears/)
+[Ler noticia completa](https://www.reuters.com/business/autos-transportation/wall-st-futures-ease-big-tech-results-revive-ai-spending-worries-oil-jumps-2026-07-23)
 
 ---
 
-## 2. Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks - CNBC
+## 2. Nvidia to acquire $1 billion of new shares of South Korea's Naver - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** Nvidia, Naver, Data Center, Tecnologia
+
+A Nvidia está em negociações para adquirir $1 bilhão de ações da Naver, uma empresa sul-coreana, como parte de uma parceria de investimento para construir um centro de dados.
+
+[Ler noticia completa](https://www.reuters.com/business/media-telecom/nvidia-acquire-1-billion-new-shares-south-koreas-naver-2026-07-26/)
+
+---
+
+## 3. Here are the 3 big things we're watching in the stock market in the week ahead - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** tecnologia, inteligência artificial, resultados financeiros
+
+A semana de resultados financeiros está prestes a começar, com várias empresas de tecnologia e outros setores importantes divulgando seus resultados. A Corning, por exemplo, está esperando por atualizações sobre sua iniciativa de crescimento Springboard, enquanto a Procter & Gamble e a Microsoft precisam explicar suas estratégias de inteligência artificial. Além disso, a Boeing começa a semana com um resultado financeiro importante, afetado pelas tensões no Oriente Médio e o aumento dos preços do petróleo.
+
+[Ler noticia completa](https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html)
+
+---
+
+## 4. Two year yields and semis hold the key to the market's next move - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Semicondutores, Mercado de Ações
+
+A diretora de pesquisa de investidores da StockBrokers.com afirma que os juros de dois anos do Tesouro estão limitando as ações, enquanto a força dos semicondutores e a liderança do mercado em geral determinarão o próximo rally. A análise destaca a importância da capacidade de investimento em hiperscaleres de IA e do preço do petróleo para a próxima movimentação do mercado.
+
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/27/two-year-yields-and-semis-hold-the-key-to-the-markets-next-move.html)
+
+---
+
+## 5. AI's new North Star: Intelligence per dollar - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Artificial Intelligence, Tech
+
+A inteligência artificial (IA) está se tornando cada vez mais importante, e o conceito de "inteligência por dólar" está se tornando um novo norte para a indústria. Isso significa que a IA deve ser capaz de realizar tarefas complexas de forma eficiente e econômica. A indústria está buscando formas de melhorar a inteligência por dólar, com foco em tecnologias como processamento de linguagem natural e aprendizado de máquina.
+
+[Ler noticia completa](https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7)
+
+---
+
+## 6. America's Most Powerful Banker Just Confirmed It: I Want These 5 Stocks, Not The Market - Seeking Alpha
+
+**Fonte:** seekingalpha.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** Finanças, Investimentos, Ações
+
+O analista financeiro Leo Nelissen, com mais de uma década de experiência em Seeking Alpha, compartilha suas recomendações de ações. Ele é um estrategista de equidade focado em macro e investidor a longo prazo, com mais de 50.000 seguidores.
+
+[Ler noticia completa](https://seekingalpha.com/article/4924923-americas-most-powerful-banker-just-confirmed-it-i-want-these-5-stocks-not-market)
+
+---
+
+## 7. AI-driven job losses could pave the way for Fed rate cuts next year, says Robin Brooks - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Industriais, ETF
+**Tags:** AI, Economia, Fed, Política Monetária
 
-A corrida para construir centros de dados de IA está impulsionando o setor industrial, que está alcançando os níveis de valorização dos stocks de tecnologia. A Alphabet prevê gastos de $195 bilhões a $205 bilhões em capex este ano, e a McKinsey & Company estima que a despesa global com centros de dados pode chegar a quase $8 trilhões até 2030. Empresas como Caterpillar e GE Vernova estão beneficiando desse boom, com aumentos de 50% ou mais este ano.
+O economista Robin Brooks afirma que perdas de empregos devido à automação por IA podem levar a cortes de juros da Fed no próximo ano. Brooks também diz que choques geopolíticos estão provando ser menos inflacionários do que se temia. Além disso, a instituição Brookings está focada em como a IA pode afetar a política monetária e a taxa de juros.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html)
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/27/ai-driven-job-losses-could-spur-fed-cuts-next-year-robin-brooks.html)
 
 ---
 
-## 3. Big Tech Earnings Slam Into a Market in Revolt Over AI Spending - Bloomberg.com
+## 8. We are near a short-term peak in the memory cycle: Yiyi Capital - CNBC
 
-**Fonte:** bloomberg.com  
+**Fonte:** cnbc.com  
 **Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Big Tech, Earnings
+**Relevancia:** 6.0/10  
+**Tags:** AI, Semicondutores, Mercado Chinês
 
-A Big Tech, liderada por empresas como Microsoft, Meta e Alphabet, está enfrentando uma revolta no mercado devido ao gasto excessivo em investimentos em inteligência artificial (IA). A perda de confiança dos investidores em relação ao gasto em IA está afetando as ações dessas empresas, com a Mag Seven (Alphabet, Microsoft, Amazon, Meta, Nvidia e Tesla) tendo perdido US$ 797 bilhões. As empresas estão projetadas a investir US$ 724 bilhões em capital em 2026 e US$ 950 bilhões em 2027.
+O analista Theodore Shou da Yiyi Capital afirma que o mercado de memória está perto do pico de seu ciclo, com investidores se preparando para uma onda de listagem de empresas chinesas de IA e semicondutores. Shou também destaca que fatores técnicos provavelmente impulsionaram a alta abrupta das ações da CXMT na sua estreia no mercado de Shanghai STAR.
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending)
-
----
-
-## 4. Strategist calls for positioning across full AI spectrum in a 'pay-to-play' hyperscaler market - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Inteligência Artificial, Mercado de Ações
-
-Kerry Craig, estrategista de mercado da J.P. Morgan Asset Management, acredita que a história de investimento em inteligência artificial ainda tem espaço para crescer. Ele encontra os hiperscalers de grande capitalização da bolsa americana atraentes, após seu recente subdesempenho, citando o potencial de recuperação e a dinâmica "pay-to-play" do setor.
-
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/27/position-across-full-ai-spectrum-in-a-pay-to-play-hyperscaler-market.html)
+[Ler noticia completa](https://www.cnbc.com/video/2026/07/27/we-are-near-a-short-term-peak-in-the-memory-cycle-yiyi-capital.html)
 
 ---
 
-## 5. Intel Stock: Grotesque Valuation (NASDAQ:INTC) - Seeking Alpha
+## 9. Hyperscalers Can't Win With Investors As They Spend Big on AI - Business Insider
 
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** Intel, NASDAQ, Tecnologia
+**Fonte:** businessinsider.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Hyperscalers, Investimentos
 
-A Intel (INTC) divulgou resultados financeiros melhores do que esperados para o segundo trimestre, graças a um crescimento forte em sua divisão de centros de dados de IA. Isso levou a uma expansão de 25% na receita em comparação com o mesmo período do ano anterior.
+Investidores estão cada vez mais céticos sobre o retorno dos investimentos maciços dos hyperscalers em inteligência artificial. Eles se preocupam com a possibilidade de uma bolha semelhante à da internet no início do século XXI, quando as empresas gastaram muito em infraestrutura, mas não viram retornos iniciais, levando a uma queda nos preços das ações.
 
-[Ler noticia completa](https://seekingalpha.com/article/4925659-intel-grotesque-valuation)
-
----
-
-## 6. The 'richest' S&P sector valuation due to AI? It might be industrials - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Industriais, S&P 500
-
-A indústria de bens raízes pode ter a maior valorização do setor S&P devido à IA, rivalizando com a tecnologia. Isso pode ser justificado ou um "buraco" de IA no setor tradicional da economia.
-
-[Ler noticia completa](https://www.cnbc.com/video/2026/07/26/the-richest-sp-sector-valuation-due-to-ai-it-might-be-industrials.html)
-
----
-
-## 7. U.S. Data-Center Operator TECfusions Plans to Go Public in $4 Billion SPAC Deal - WSJ
-
-**Fonte:** wsj.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Data-Center, SPAC, NASDAQ
-
-A empresa de centros de dados TECfusions, sediada na Flórida, planeja se tornar pública após uma combinação com a Apex Treasury, uma empresa de aquisição especializada listada em Nova York, em um acordo avaliado em cerca de 4 bilhões de dólares. A empresa opera um dos maiores clusters de treinamento de inteligência artificial baseado em AMD da América do Norte. A transação está prevista para ser concluída no quarto trimestre e a empresa começará a ser negociada na NASDAQ.
-
-[Ler noticia completa](https://www.wsj.com/finance/investing/u-s-data-center-operator-tecfusions-plans-to-go-public-in-4-billion-spac-deal-e3f54495)
-
----
-
-## 8. Stripe in talks to acquire AI startup OpenRouter for ~$10B
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Fintech, M&A
-
-A Stripe está em negociações para adquirir a startup de IA OpenRouter por cerca de 10 bilhões de dólares. A transação pode ser anunciada em breve, de acordo com fontes próximas ao assunto. A aquisição visa fortalecer a presença da Stripe no mercado de tecnologia de pagamento e IA.
-
-[Ler noticia completa](https://seekingalpha.com/news/4617795-stripe-in-talks-to-acquire-ai-startup-openrouter-for-10b---report)
-
----
-
-## 9. Alphabet: Wall Street Is Being Ridiculous - Elevated CapEx Is A Buying Opportunity (GOOGL) - Seeking Alpha
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** GOOGL, Alphabet, AI
-
-A Alphabet Inc. apresentou resultados robustos no 2º trimestre, com crescimento de 294% nos lucros por ação e 24% na receita, mas as ações caíram mais de 7% devido às preocupações com os investimentos em capital fixo. O CAPEX da empresa aumentou 100% para US$ 44,9 bilhões, com a previsão de aumento para US$ 195-205 bilhões no ano, principalmente para infraestrutura de IA e capacidade de nuvem. Embora a empresa tenha apresentado fluxo de caixa negativo no trimestre, sua carteira de ativos sólida e baixa taxa de pagamento garantem a cobertura de dividendos e flexibilidade de investimento estratégico.
-
-[Ler noticia completa](https://seekingalpha.com/article/4925373-alphabet-wall-street-is-being-ridiculous-elevated-capex-is-abuying-opportunity)
-
----
-
-## 10. Jim Cramer: Here's the tech stock to buy in a market losing patience with tech - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** Intel, AMD, Tecnologia
-
-Jim Cramer, analista financeiro, recomenda a compra de ações da Intel (INTC) após a empresa ter sofrido uma queda significativa no mercado de ações. Ele acredita que a Intel é uma opção atraente para investidores, especialmente em comparação com a AMD, que também sofreu uma queda, mas não tão severa. Cramer espera que a Intel possa se recuperar e voltar a crescer.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html)
+[Ler noticia completa](https://www.businessinsider.com/hyperscalers-cant-win-with-investors-ai-spending-capex-alphabet-earnings-2026-7)
 
 ---

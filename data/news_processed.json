@@ -2,10 +2,147 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-27",
-    "total_noticias": 111,
-    "gerado_em": "2026-07-27T06:27:26.248239"
+    "total_noticias": 120,
+    "gerado_em": "2026-07-27T12:56:08.414003"
   },
   "noticias": [
+    {
+      "titulo": "Wall St falls as tech earnings spark AI spending worries ...",
+      "url": "https://www.reuters.com/business/autos-transportation/wall-st-futures-ease-big-tech-results-revive-ai-spending-worries-oil-jumps-2026-07-23",
+      "fonte": "reuters.com",
+      "data": "2026-07-23",
+      "resumo": "A bolsa de Wall Street caiu após as divulgações de lucros de empresas de tecnologia, levantando preocupações sobre o investimento em inteligência artificial. Empresas como Alphabet e Tesla mostraram estágios diferentes do ciclo de investimento em IA, com Alphabet começando a demonstrar conexão e Tesla precisando provar que seus projetos ambiciosos podem gerar retornos comerciais.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "Nvidia to acquire $1 billion of new shares of South Korea's Naver - Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/nvidia-acquire-1-billion-new-shares-south-koreas-naver-2026-07-26/",
+      "fonte": "reuters.com",
+      "data": "2026-07-26",
+      "resumo": "A Nvidia está em negociações para adquirir $1 bilhão de ações da Naver, uma empresa sul-coreana, como parte de uma parceria de investimento para construir um centro de dados.",
+      "sentimento": "bullish",
+      "tags": [
+        "Nvidia",
+        "Naver",
+        "Data Center",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 40
+    },
+    {
+      "titulo": "Here are the 3 big things we're watching in the stock market in the week ahead - CNBC",
+      "url": "https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-26",
+      "resumo": "A semana de resultados financeiros está prestes a começar, com várias empresas de tecnologia e outros setores importantes divulgando seus resultados. A Corning, por exemplo, está esperando por atualizações sobre sua iniciativa de crescimento Springboard, enquanto a Procter & Gamble e a Microsoft precisam explicar suas estratégias de inteligência artificial. Além disso, a Boeing começa a semana com um resultado financeiro importante, afetado pelas tensões no Oriente Médio e o aumento dos preços do petróleo.",
+      "sentimento": "neutral",
+      "tags": [
+        "tecnologia",
+        "inteligência artificial",
+        "resultados financeiros"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 86
+    },
+    {
+      "titulo": "Two year yields and semis hold the key to the market's next move - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/27/two-year-yields-and-semis-hold-the-key-to-the-markets-next-move.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-27",
+      "resumo": "A diretora de pesquisa de investidores da StockBrokers.com afirma que os juros de dois anos do Tesouro estão limitando as ações, enquanto a força dos semicondutores e a liderança do mercado em geral determinarão o próximo rally. A análise destaca a importância da capacidade de investimento em hiperscaleres de IA e do preço do petróleo para a próxima movimentação do mercado.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "AI's new North Star: Intelligence per dollar - Business Insider",
+      "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-25",
+      "resumo": "A inteligência artificial (IA) está se tornando cada vez mais importante, e o conceito de \"inteligência por dólar\" está se tornando um novo norte para a indústria. Isso significa que a IA deve ser capaz de realizar tarefas complexas de forma eficiente e econômica. A indústria está buscando formas de melhorar a inteligência por dólar, com foco em tecnologias como processamento de linguagem natural e aprendizado de máquina.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "Tech"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 173
+    },
+    {
+      "titulo": "America's Most Powerful Banker Just Confirmed It: I Want These 5 Stocks, Not The Market - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4924923-americas-most-powerful-banker-just-confirmed-it-i-want-these-5-stocks-not-market",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-26",
+      "resumo": "O analista financeiro Leo Nelissen, com mais de uma década de experiência em Seeking Alpha, compartilha suas recomendações de ações. Ele é um estrategista de equidade focado em macro e investidor a longo prazo, com mais de 50.000 seguidores.",
+      "sentimento": "neutral",
+      "tags": [
+        "Finanças",
+        "Investimentos",
+        "Ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 48
+    },
+    {
+      "titulo": "AI-driven job losses could pave the way for Fed rate cuts next year, says Robin Brooks - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/27/ai-driven-job-losses-could-spur-fed-cuts-next-year-robin-brooks.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-27",
+      "resumo": "O economista Robin Brooks afirma que perdas de empregos devido à automação por IA podem levar a cortes de juros da Fed no próximo ano. Brooks também diz que choques geopolíticos estão provando ser menos inflacionários do que se temia. Além disso, a instituição Brookings está focada em como a IA pode afetar a política monetária e a taxa de juros.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Economia",
+        "Fed",
+        "Política Monetária"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "We are near a short-term peak in the memory cycle: Yiyi Capital - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/27/we-are-near-a-short-term-peak-in-the-memory-cycle-yiyi-capital.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-27",
+      "resumo": "O analista Theodore Shou da Yiyi Capital afirma que o mercado de memória está perto do pico de seu ciclo, com investidores se preparando para uma onda de listagem de empresas chinesas de IA e semicondutores. Shou também destaca que fatores técnicos provavelmente impulsionaram a alta abrupta das ações da CXMT na sua estreia no mercado de Shanghai STAR.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Mercado Chinês"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "Hyperscalers Can't Win With Investors As They Spend Big on AI - Business Insider",
+      "url": "https://www.businessinsider.com/hyperscalers-cant-win-with-investors-ai-spending-capex-alphabet-earnings-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-27",
+      "resumo": "Investidores estão cada vez mais céticos sobre o retorno dos investimentos maciços dos hyperscalers em inteligência artificial. Eles se preocupam com a possibilidade de uma bolha semelhante à da internet no início do século XXI, quando as empresas gastaram muito em infraestrutura, mas não viram retornos iniciais, levando a uma queda nos preços das ações.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Hyperscalers",
+        "Investimentos"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 64
+    },
     {
       "titulo": "Big Earnings Week Tests Wall Street’s AI Spending Fears - Forbes",
       "url": "https://www.forbes.com/sites/bill_stone/2026/07/26/big-earnings-week-tests-wall-streets-ai-spending-fears/",
