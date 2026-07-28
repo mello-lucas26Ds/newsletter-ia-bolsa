@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-07-28",
+    "total_noticias": 10,
+    "gerado_em": "2026-07-28T05:45:06.368524"
+  },
+  "noticias": [
+    {
+      "titulo": "3 realities from the summer tech stock rout you are ...",
+      "url": "https://finance.yahoo.com/markets/article/3-realities-from-the-summer-tech-stock-rout-you-are-probably-overlooking-142723054.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-27",
+      "resumo": "A crise no setor de tecnologia no verão levou a uma reavaliação de 30% na relação P/E, com a margem de valorização em relação ao S&P 500 diminuindo para 13%. As estimativas de lucro continuam a crescer, mas as altas taxas de juros e investimentos massivos em infraestrutura de IA têm levado a preocupações sobre a rentabilidade desses investimentos.",
+      "sentimento": "bearish",
+      "tags": [
+        "tecnologia",
+        "AI",
+        "setor de tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "The 'Unsettled' Vibe That's Creeping Through the Markets",
+      "url": "https://www.wsj.com/finance/stocks/stock-market-2026-interest-rate-decision-e3996676",
+      "fonte": "wsj.com",
+      "data": "2026-07-27",
+      "resumo": "O mercado de ações está experimentando uma tendência de queda, apesar de ter resistido a fatores como guerra, inflação e incertezas sobre investimentos em inteligência artificial. Os índices de ações principais tiveram ganhos saudáveis este ano, mas a S&P 500 e o Nasdaq composite caíram pela segunda vez seguida na semana passada.",
+      "sentimento": "bearish",
+      "tags": [
+        "mercado de ações",
+        "inteligência artificial",
+        "inflação"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 64
+    },
+    {
+      "titulo": "META_TITLE_QUOTE",
+      "url": "https://finance.yahoo.com/quote/DLR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-27",
+      "resumo": "A Digital Realty Trust é uma REIT que se concentra em data centers globais e neutros em relação a provedores de serviços de comunicação. A empresa está focada em desenvolver plataformas de data centers para empresas de software de nuvem, serviços financeiros, mídia social e serviços móveis. A REIT tem menos centros de hiperscala do que seus concorrentes, mas está focada em crescer suas capacidades de inteligência artificial (IA) de grande escala. A empresa continua a expandir-se por meio de aquisições, joint ventures e novos projetos de desenvolvimento, além de reciclar capital por meio de vendas de ativos.",
+      "sentimento": "bullish",
+      "tags": [
+        "[REIT",
+        "Data Centers",
+        "IA]"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 108
+    },
+    {
+      "titulo": "Big Tech Earnings and Fed Rate Decision Put Stock Rally ...",
+      "url": "https://www.wsj.com/finance/stocks/big-tech-earnings-and-fed-rate-decision-put-stock-rally-to-the-test-be602633",
+      "fonte": "wsj.com",
+      "data": "2026-07-27",
+      "resumo": "A semana de investimentos está prestes a ser marcada por uma decisão importante da Fed e os resultados financeiros das grandes empresas de tecnologia. Apesar de um ano de rally de ações, os investidores estão começando a se preocupar com a inflação, a guerra e os orçamentos de AI cada vez mais altos.",
+      "sentimento": "bearish",
+      "tags": [
+        "tecnologia",
+        "ações",
+        "Fed"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 62
+    },
+    {
+      "titulo": "Nasdaq lags on angst over AI spending ahead of earnings ...",
+      "url": "https://www.reuters.com/business/wall-st-futures-rise-after-tech-rout-mideast-tariffs-focus-2026-07-24",
+      "fonte": "reuters.com",
+      "data": "2026-07-24",
+      "resumo": "A Nasdaq sofreu uma queda significativa na última quarta-feira, devido ao medo de gastos com IA e queima de capital entre as empresas de tecnologia. Investidores estão preocupados com os planos de aumento de gastos e queima de capital entre as empresas de tecnologia, após os resultados de Alphabet e Tesla. A Intel anunciou planos de aumento de gastos e previu lucros e receita acima das estimativas da Wall Street.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados financeiros"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 80
+    },
+    {
+      "titulo": "Why Microsoft, Meta, and Amazon earnings could crush the ...",
+      "url": "https://finance.yahoo.com/markets/article/why-microsoft-meta-and-amazon-earnings-could-crush-the-sp-500-123600155.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-27",
+      "resumo": "A expectativa é que as divulgações de lucros de Microsoft, Meta e Amazon mostrem um aumento significativo nos investimentos em inteligência artificial, sem sinais de desaceleração. Isso ocorre em um contexto em que a concentração de índices como o S&P 500 tem aumentado, com 10 ações representando 38% do índice, um recorde.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "NASDAQ",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 61
+    },
+    {
+      "titulo": "Alphabet, Tesla test investor patience AI spending overshadows growth",
+      "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-23",
+      "resumo": "A Alphabet e a Tesla apresentaram resultados financeiros que mostraram despesas com IA como um foco principal, o que levou a uma reação negativa dos investidores. Embora as receitas tenham sido melhores do que esperadas, a falta de fluxo de caixa livre negativo e a expectativa de aumento nas despesas com capital não foram suficientes para evitar uma queda nos preços das ações. A indústria de tecnologia pode estar prestes a enfrentar um período de ajuste, especialmente com a próxima semana marcada para a divulgação de resultados de outras megacapacidades.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Earnings"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 99
+    },
+    {
+      "titulo": "Data centers: The business structure that's reshaping AI infrastructure finance (DLR:NYSE)",
+      "url": "https://seekingalpha.com/news/4618177-data-centers-the-business-structure-thats-reshaping-ai-infrastructure-finance",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-27",
+      "resumo": "Empresas de centros de dados estão usando parcerias de joint ventures e capital institucional para financiar infraestrutura de AI e computação de alto desempenho, reduzindo riscos e acelerando o desenvolvimento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Center",
+        "Finanças"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 40
+    },
+    {
+      "titulo": "Earnings week: AAPL. MSFT, AMZN, META, XOM, PYPL, ...",
+      "url": "https://seekingalpha.com/news/4618059-earnings-week-ahead-aapl-msft-amzn-meta-xom-pypl-cvx-f-ko-abbv-v-qcom-ba-mo-sofi-and-more",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-26",
+      "resumo": "A Bank of America aumentou sua previsão de receita e lucro de Q2 para a Meta, destacando a demanda de publicidade digital e benefícios de margem de redução de força de trabalho. A Mizuho reiterou uma classificação de Outperform com um preço-alvo de $835, enquanto a Bernstein manteve sua classificação de Comprar, notando que os investimentos em IA e as comparações mais difíceis no segundo semestre são os principais riscos. A empresa está em discussões avançadas com a Anthropic sobre um acordo de capacidade de computação que pode valer até $10B em dois anos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Meta",
+        "Semicondutores"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 104
+    },
+    {
+      "titulo": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center - WSJ",
+      "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3",
+      "fonte": "wsj.com",
+      "data": "2026-07-26",
+      "resumo": "A Nvidia está em negociações com a OpenAI para garantir um financiamento de cerca de $250 bilhões para um projeto de centro de dados de grande escala. O projeto, desenvolvido pela subsidiária de energia da SoftBank, pode custar mais de $500 bilhões e seria o maior projeto de centro de dados anunciado até o momento.",
+      "sentimento": "bullish",
+      "tags": [
+        "Nvidia",
+        "OpenAI",
+        "Data Center",
+        "AI"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 66
+    }
+  ]
+}
