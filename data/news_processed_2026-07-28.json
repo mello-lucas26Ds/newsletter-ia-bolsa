@@ -2,161 +2,144 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-28",
-    "total_noticias": 10,
-    "gerado_em": "2026-07-28T05:45:06.368524"
+    "total_noticias": 9,
+    "gerado_em": "2026-07-28T11:58:54.823679"
   },
   "noticias": [
     {
-      "titulo": "3 realities from the summer tech stock rout you are ...",
-      "url": "https://finance.yahoo.com/markets/article/3-realities-from-the-summer-tech-stock-rout-you-are-probably-overlooking-142723054.html",
+      "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & ...",
+      "url": "https://finance.yahoo.com/quote/NVDA",
       "fonte": "finance.yahoo.com",
       "data": "2026-07-27",
-      "resumo": "A crise no setor de tecnologia no verão levou a uma reavaliação de 30% na relação P/E, com a margem de valorização em relação ao S&P 500 diminuindo para 13%. As estimativas de lucro continuam a crescer, mas as altas taxas de juros e investimentos massivos em infraestrutura de IA têm levado a preocupações sobre a rentabilidade desses investimentos.",
-      "sentimento": "bearish",
-      "tags": [
-        "tecnologia",
-        "AI",
-        "setor de tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 70
-    },
-    {
-      "titulo": "The 'Unsettled' Vibe That's Creeping Through the Markets",
-      "url": "https://www.wsj.com/finance/stocks/stock-market-2026-interest-rate-decision-e3996676",
-      "fonte": "wsj.com",
-      "data": "2026-07-27",
-      "resumo": "O mercado de ações está experimentando uma tendência de queda, apesar de ter resistido a fatores como guerra, inflação e incertezas sobre investimentos em inteligência artificial. Os índices de ações principais tiveram ganhos saudáveis este ano, mas a S&P 500 e o Nasdaq composite caíram pela segunda vez seguida na semana passada.",
-      "sentimento": "bearish",
-      "tags": [
-        "mercado de ações",
-        "inteligência artificial",
-        "inflação"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 64
-    },
-    {
-      "titulo": "META_TITLE_QUOTE",
-      "url": "https://finance.yahoo.com/quote/DLR",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-27",
-      "resumo": "A Digital Realty Trust é uma REIT que se concentra em data centers globais e neutros em relação a provedores de serviços de comunicação. A empresa está focada em desenvolver plataformas de data centers para empresas de software de nuvem, serviços financeiros, mídia social e serviços móveis. A REIT tem menos centros de hiperscala do que seus concorrentes, mas está focada em crescer suas capacidades de inteligência artificial (IA) de grande escala. A empresa continua a expandir-se por meio de aquisições, joint ventures e novos projetos de desenvolvimento, além de reciclar capital por meio de vendas de ativos.",
+      "resumo": "A NVIDIA Corporation (NVDA) é uma empresa de semicondutores que opera no mercado de tecnologia. A empresa apresenta uma margem de lucro de 62,97% e um retorno sobre ativos de 52,73%. A capitalização de mercado da NVDA é de 5,01 trilhões de dólares.",
       "sentimento": "bullish",
       "tags": [
-        "[REIT",
-        "Data Centers",
-        "IA]"
+        "Semicondutores",
+        "Tecnologia",
+        "NVIDIA"
       ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 108
+      "score_relevancia": 5.0,
+      "tokens_usados": 52
     },
     {
-      "titulo": "Big Tech Earnings and Fed Rate Decision Put Stock Rally ...",
-      "url": "https://www.wsj.com/finance/stocks/big-tech-earnings-and-fed-rate-decision-put-stock-rally-to-the-test-be602633",
-      "fonte": "wsj.com",
+      "titulo": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag - CNBC",
+      "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
+      "fonte": "cnbc.com",
       "data": "2026-07-27",
-      "resumo": "A semana de investimentos está prestes a ser marcada por uma decisão importante da Fed e os resultados financeiros das grandes empresas de tecnologia. Apesar de um ano de rally de ações, os investidores estão começando a se preocupar com a inflação, a guerra e os orçamentos de AI cada vez mais altos.",
+      "resumo": "As ações de criptomoedas tiveram um aumento significativo, enquanto o mercado em geral declinou, devido a uma rotação de capital para temas alternativos, incluindo criptomoedas. As empresas de mineração de bitcoin, que recentemente expandiram suas operações para capturar a oportunidade de IA, também sofreram uma contração. As ações de chip e infraestrutura de IA estiveram sob pressão devido ao aumento da preocupação com financiamento circular e competição de empresas de semicondutores chinesas.",
+      "sentimento": "neutral",
+      "tags": [
+        "Crypto",
+        "AI",
+        "Semiconductor"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 111
+    },
+    {
+      "titulo": "Jim Cramer Warns the Semiconductor Selloff Has ‘Monstrous’ Sellers Behind It",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-warns-semiconductor-selloff-162852814.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-27",
+      "resumo": "Jim Cramer alerta que a selloff nos semicondutores tem \"vendedores monstruosos\" por trás dela. Embora a tendência seja negativa, a análise fundamental não mostra deterioração. A empresa NVIDIA apresentou um resultado de $81,61 bilhões em receita no Q1 FY2027, com um aumento de 85,2% em relação ao ano anterior.",
       "sentimento": "bearish",
       "tags": [
-        "tecnologia",
-        "ações",
-        "Fed"
+        "Semicondutores",
+        "NVIDIA",
+        "AMD"
       ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 62
+      "score_relevancia": 5.0,
+      "tokens_usados": 58
     },
     {
-      "titulo": "Nasdaq lags on angst over AI spending ahead of earnings ...",
-      "url": "https://www.reuters.com/business/wall-st-futures-rise-after-tech-rout-mideast-tariffs-focus-2026-07-24",
-      "fonte": "reuters.com",
-      "data": "2026-07-24",
-      "resumo": "A Nasdaq sofreu uma queda significativa na última quarta-feira, devido ao medo de gastos com IA e queima de capital entre as empresas de tecnologia. Investidores estão preocupados com os planos de aumento de gastos e queima de capital entre as empresas de tecnologia, após os resultados de Alphabet e Tesla. A Intel anunciou planos de aumento de gastos e previu lucros e receita acima das estimativas da Wall Street.",
+      "titulo": "Wall Street's gaze turns to AI adopters as the winners of the next phase of the stock-market rotation - Business Insider",
+      "url": "https://www.businessinsider.com/ai-stocks-adopters-productivity-growth-magnificent-7-earnings-nvda-msft-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-28",
+      "resumo": "Investidores estão começando a se concentrar em empresas que adotam tecnologia de IA, em vez de apenas os \"hiperscalers\" que investem pesadamente nela. Embora a expectativa seja que a adoção de IA continue a impulsionar o crescimento das receitas e a margem de lucro, a competição e a pressão de rivais chineses podem tornar essa parte do mercado volátil. A Morgan Stanley identificou uma lista de 100 stocks que podem se beneficiar da adoção de IA.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Stock Market",
+        "Investing"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 86
+    },
+    {
+      "titulo": "2027 EPS estimates are the 'key number to watch' for markets: Andrew Slimmon - CNBC",
+      "url": "https://www.cnbc.com/video/2026/07/28/andrew-slimmon-2027-eps-estimates-are-key-number-to-watch-for-markets.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-28",
+      "resumo": "Andrew Slimmon, do Morgan Stanley Investment Management, afirma que os investidores devem focar nas estimativas de lucro por ação (EPS) de 2027. Ele também alerta que os investidores devem ser \"um pouco mais cautelosos\" ao alocar entre ações americanas e asiáticas, devido à correlação crescente do comércio de inteligência artificial. Slimmon também destaca que os investidores devem estar atentos às estimativas de EPS, pois elas são o \"número-chave\" a observar nos mercados.",
+      "sentimento": "bullish",
+      "tags": [
+        "IA",
+        "Mercados financeiros",
+        "Economia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 82
+    },
+    {
+      "titulo": "CNBC Daily Open: Chipping away at the AI boom - CNBC",
+      "url": "https://www.cnbc.com/2026/07/28/daily-open-ai-boom-chip-selloff-sk-hynix.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-28",
+      "resumo": "A bolsa de valores asiática está experimentando uma queda significativa devido ao medo de investidores em relação ao setor de IA. A Samsung e a SK Hynix caíram em 10%, enquanto a Nvidia também foi afetada por uma notícia sobre a OpenAI. No entanto, a LVMH relatou um aumento de 3% nas vendas no segundo trimestre, apesar de uma redução nas vendas em Europa e China.",
       "sentimento": "bearish",
       "tags": [
         "AI",
         "Tecnologia",
-        "Mercados financeiros"
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup ...",
+      "url": "https://www.reuters.com/legal/transactional/nvidia-invest-5-billion-ilya-sutskevers-ai-startup-source-says-2026-07-27",
+      "fonte": "reuters.com",
+      "data": "2026-07-27",
+      "resumo": "A Nvidia investirá US$ 5 bilhões na startup Safe Superintelligence, fundada pelo ex-chefe cientista da OpenAI, Ilya Sutskever, em uma parceria estratégica. A empresa receberá recursos computacionais adicionais e acesso a hardware avançado da Nvidia.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Mergers & Acquisitions",
+        "Nvidia"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 46
+    },
+    {
+      "titulo": "Asian chip stocks slide as China competition fears rattle AI trade - Reuters",
+      "url": "https://www.reuters.com/world/china/samsung-sk-hynix-slide-amid-nvidia-financing-worries-china-competition-2026-07-28/",
+      "fonte": "reuters.com",
+      "data": "2026-07-28",
+      "resumo": "A indústria de chips asiática está sendo afetada por preocupações com a concorrência da China, o que está rachando a confiança dos investidores em relação ao setor de inteligência artificial. A SK Hynix, uma das principais fornecedoras de memória de alta banda para a Nvidia, está sendo afetada de forma significativa, com suas ações caindo 7,5% em um dia. A concorrência da China está intensificando, com empresas chinesas desenvolvendo equipamentos de litografia de ultravioleta profundo.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 84
+    },
+    {
+      "titulo": "Why Cognition bought Poke: AI personality is becoming a ...",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-24",
+      "resumo": "A Interaction Company, criadora da assistente de IA Poke, foi adquirida pela startup de codificação Cognition em um acordo avaliado em \"baixos nove dígitos\". A Poke é uma assistente de IA que se comunica com os usuários de forma mais familiar, respondendo como um amigo e incorporando gírias e humor em suas interações. A integração da Poke com a Cognition permitirá que a assistente se torne mais eficiente e confiável.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Assistente Virtual",
+        "Startup"
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 80
-    },
-    {
-      "titulo": "Why Microsoft, Meta, and Amazon earnings could crush the ...",
-      "url": "https://finance.yahoo.com/markets/article/why-microsoft-meta-and-amazon-earnings-could-crush-the-sp-500-123600155.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-27",
-      "resumo": "A expectativa é que as divulgações de lucros de Microsoft, Meta e Amazon mostrem um aumento significativo nos investimentos em inteligência artificial, sem sinais de desaceleração. Isso ocorre em um contexto em que a concentração de índices como o S&P 500 tem aumentado, com 10 ações representando 38% do índice, um recorde.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "NASDAQ",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 61
-    },
-    {
-      "titulo": "Alphabet, Tesla test investor patience AI spending overshadows growth",
-      "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-23",
-      "resumo": "A Alphabet e a Tesla apresentaram resultados financeiros que mostraram despesas com IA como um foco principal, o que levou a uma reação negativa dos investidores. Embora as receitas tenham sido melhores do que esperadas, a falta de fluxo de caixa livre negativo e a expectativa de aumento nas despesas com capital não foram suficientes para evitar uma queda nos preços das ações. A indústria de tecnologia pode estar prestes a enfrentar um período de ajuste, especialmente com a próxima semana marcada para a divulgação de resultados de outras megacapacidades.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Earnings"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 99
-    },
-    {
-      "titulo": "Data centers: The business structure that's reshaping AI infrastructure finance (DLR:NYSE)",
-      "url": "https://seekingalpha.com/news/4618177-data-centers-the-business-structure-thats-reshaping-ai-infrastructure-finance",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-27",
-      "resumo": "Empresas de centros de dados estão usando parcerias de joint ventures e capital institucional para financiar infraestrutura de AI e computação de alto desempenho, reduzindo riscos e acelerando o desenvolvimento.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Data Center",
-        "Finanças"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 40
-    },
-    {
-      "titulo": "Earnings week: AAPL. MSFT, AMZN, META, XOM, PYPL, ...",
-      "url": "https://seekingalpha.com/news/4618059-earnings-week-ahead-aapl-msft-amzn-meta-xom-pypl-cvx-f-ko-abbv-v-qcom-ba-mo-sofi-and-more",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-26",
-      "resumo": "A Bank of America aumentou sua previsão de receita e lucro de Q2 para a Meta, destacando a demanda de publicidade digital e benefícios de margem de redução de força de trabalho. A Mizuho reiterou uma classificação de Outperform com um preço-alvo de $835, enquanto a Bernstein manteve sua classificação de Comprar, notando que os investimentos em IA e as comparações mais difíceis no segundo semestre são os principais riscos. A empresa está em discussões avançadas com a Anthropic sobre um acordo de capacidade de computação que pode valer até $10B em dois anos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Meta",
-        "Semicondutores"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 104
-    },
-    {
-      "titulo": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center - WSJ",
-      "url": "https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3",
-      "fonte": "wsj.com",
-      "data": "2026-07-26",
-      "resumo": "A Nvidia está em negociações com a OpenAI para garantir um financiamento de cerca de $250 bilhões para um projeto de centro de dados de grande escala. O projeto, desenvolvido pela subsidiária de energia da SoftBank, pode custar mais de $500 bilhões e seria o maior projeto de centro de dados anunciado até o momento.",
-      "sentimento": "bullish",
-      "tags": [
-        "Nvidia",
-        "OpenAI",
-        "Data Center",
-        "AI"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 66
     }
   ]
 }
