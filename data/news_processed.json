@@ -2,10 +2,163 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-29",
-    "total_noticias": 112,
-    "gerado_em": "2026-07-29T05:49:41.585156"
+    "total_noticias": 122,
+    "gerado_em": "2026-07-29T12:02:14.106715"
   },
   "noticias": [
+    {
+      "titulo": "What's Going on With Micron Technology Stock Monday? - Micron Technology (NASDAQ:MU)",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60689048/wall-street-sees-little-threat-to-micron-from-chinas-new-memory-giant",
+      "fonte": "benzinga.com",
+      "data": "2026-07-27",
+      "resumo": "A ação da Micron Technology (NASDAQ:MU) está sob pressão após um declínio de 2% no preço antes do mercado abrir, mas analistas acreditam que a empresa permanece bem posicionada no mercado de memória de AI. A entrada de uma empresa chinesa, CXMT, no mercado de memória pode pressionar a Micron em termos de memória de commodity, mas os analistas acreditam que a oportunidade de mercado de memória de AI ainda é favorável à Micron.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 83
+    },
+    {
+      "titulo": "TSMC Stock: I Was Wrong (NYSE:TSM)",
+      "url": "https://seekingalpha.com/article/4925591-tsmc-i-was-wrong",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-25",
+      "resumo": "A TSMC está sendo negociada acima do valor justo estimado de $344,33 por ação, mesmo com suposições agressivas, indicando uma margem de segurança limitada nos níveis atuais.",
+      "sentimento": "bearish",
+      "tags": [
+        "TSMC",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 36
+    },
+    {
+      "titulo": "5 big analyst AI moves: Several top picks named into Q2 ...",
+      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-several-top-picks-named-into-q2-earnings-4812810",
+      "fonte": "investing.com",
+      "data": "2026-07-26",
+      "resumo": "Analistas financeiros destacam várias ações como top picks para o segundo trimestre de 2026, incluindo Samsung e SK Hynix, que anunciaram parcerias de fornecimento de chips nos EUA. Além disso, a Citi reitera a recomendação de compra para essas empresas, apesar de preocupações com o \"peak-out\" de memória. Outros analistas sugerem uma rotação para a China e destacam a importância do setor de tecnologia e inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Semicondutores",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 78
+    },
+    {
+      "titulo": "Is Intel Stock a Buy After Its Latest Earnings Report?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-buy-latest-earnings-155301892.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-28",
+      "resumo": "A Intel anunciou um aumento de US$ 2 bilhões em sua guia de despesas de capital para 2026, o que levou a preocupações sobre a capacidade de retorno desses investimentos. Embora a empresa tenha apresentado números de lucro e receita fortes, sua ação caiu cerca de 33% nos últimos 30 dias.",
+      "sentimento": "bearish",
+      "tags": [
+        "Intel",
+        "AI",
+        "Semiconductor"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 60
+    },
+    {
+      "titulo": "Taiwan Semiconductor's Latest Move Shows It's a Screaming Buy",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductors-latest-move-shows-115000073.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-27",
+      "resumo": "A Taiwan Semiconductor é considerada uma compra incrível devido à sua participação no crescimento da indústria de IA. O CEO da empresa acredita que a demanda por chips de IA permanecerá forte até 2029 ou 2030, o que pode levar a um aumento a longo prazo no valor da ação. Além disso, a empresa tem um preço justo de 25 vezes os lucros futuros.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Taiwan Semiconductor"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Broadcom, Marvell, TSMC: 3 AI Stocks To Watch Next, Says Expert - Taiwan Semiconductor (NYSE:TSM), Broadc",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60697145/exclusive-after-nvidia-and-sk-hynix-these-3-ai-stocks-could-be-the-next-winners-ceo-says",
+      "fonte": "benzinga.com",
+      "data": "2026-07-27",
+      "resumo": "O CEO da GraniteShares, Will Rhind, destaca três ações de tecnologia que podem ser interessantes para investidores em IA: TSMC, Broadcom e Marvell. Ele também alerta que a ação da SanDisk pode estar sobrevalorizada após um aumento de 30 vezes.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 49
+    },
+    {
+      "titulo": "Chip sell-off: SK Hynix, Samsung Electronics, SoftBank",
+      "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-29",
+      "resumo": "A indústria de chips está experimentando uma queda significativa, com empresas como SK Hynix, Samsung Electronics e SoftBank Group sendo afetadas. A queda é sentida em todo o mundo, com índices de tecnologia e semicondutores em queda. A TSMC, maior fabricante de chips do mundo, também registrou uma queda de 1,32%.",
+      "sentimento": "bearish",
+      "tags": [
+        "Semicondutores",
+        "Tecnologia",
+        "Mercados financeiros"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 61
+    },
+    {
+      "titulo": "Intel Vs. TSMC: How CoWoS Packaging Constraints Create Opportunity For Intel Foundry | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4926554-intel-vs-tsmc-how-cowos-packaging-constraints-create-opportunity-for-intel-foundry",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-28",
+      "resumo": "A Intel está enfrentando desafios com a TSMC devido às restrições do CoWoS (Chip-on-Wafer-on-Substrate), mas isso pode criar oportunidades para a Intel Foundry. A TSMC é uma empresa crucial para a indústria de inteligência artificial, mas a Intel pode competir com ela sem precisar superá-la.",
+      "sentimento": "bullish",
+      "tags": [
+        "Intel",
+        "TSMC",
+        "Intel Foundry",
+        "CoWoS",
+        "IA"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 57
+    },
+    {
+      "titulo": "Oracle: The Most Disliked AI Name Could Double",
+      "url": "https://seekingalpha.com/article/4926169-oracle-the-most-disliked-ai-name-could-double",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-28",
+      "resumo": "A Oracle está profundamente desfavorida no mercado, mas apesar de negativas notícias, seu resultado financeiro do último trimestre foi positivo, com crescimento de 21% na receita e aumento de 54% no lucro operacional. A empresa está atrativa em relação a seus pares de IA, com um preço de 10 vezes o fluxo de caixa e um PEG de 0,5.",
+      "sentimento": "bullish",
+      "tags": [
+        "Oracle",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "AI’s Early Winners Are Shopping For Their Next Big Moves - Forbes",
+      "url": "https://www.forbes.com/sites/the-prompt/2026/07/28/ais-early-winners-are-shopping-for-their-next-big-moves/",
+      "fonte": "forbes.com",
+      "data": "2026-07-28",
+      "resumo": "Empresas de IA que se destacaram no mercado estão fazendo ações estratégicas para expandir seus negócios, incluindo aquisições de outras empresas. Cognition comprou a Poke, uma assistente de IA que envia mensagens como um amigo, enquanto a World Labs adquiriu a SceniX, uma empresa de robótica. A Midjourney, conhecida por seu gerador de imagens de IA, também fez aquisições para expandir seus projetos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Startups",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
     {
       "titulo": "Meta to report Q2 earnings amid AI investing concerns",
       "url": "https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html",

@@ -1,137 +1,137 @@
 # Newsletter IA Bolsa — 2026-07-29
 
-**Gerado em:** 29/07/2026 05:49
+**Gerado em:** 29/07/2026 12:02
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Meta to report Q2 earnings amid AI investing concerns
+## 1. What's Going on With Micron Technology Stock Monday? - Micron Technology (NASDAQ:MU)
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 6.0/10  
-**Tags:** Meta, IA, Tecnologia
-
-A Meta está prestes a relatar seus lucros do 2º trimestre, enquanto a empresa enfrenta preocupações com investimentos em inteligência artificial. A empresa está cobrando preços baixos por seus modelos de IA, o que pode ajudar a empresa a conquistar parte do mercado dos grandes laboratórios de IA.
-
-[Ler noticia completa](https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html)
-
----
-
-## 2. Data centers de IA podem destravar R$ 100 bi por ano no Brasil; quais ações ganharão?
-
-**Fonte:** infomoney.com.br  
+**Fonte:** benzinga.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** IA, Infraestrutura, Energia, Tecnologia
-
-A indústria de centros de dados de IA no Brasil pode gerar R$ 100 bilhões por ano, impactando ações globais e crédito corporativo. Empresas de infraestrutura e energia são beneficiadas, e líderes de IA na Bolsa brasileira, como Totvs e Nubank, também têm resultados positivos. Além disso, as próprias elétricas, como a Axia, estão implementando soluções de IA para ganhar eficiência e resiliência.
-
-[Ler noticia completa](https://www.infomoney.com.br/mercados/data-centers-da-ia-podem-destravar-r-100-bi-por-ano-no-brasil-quais-acoes-ganharao)
-
----
-
-## 3. 5 Earnings Reports to Watch as Big Tech’s AI Spending Faces a Test
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Tecnologia, Big Tech, Finance
-
-Quatro gigantes da tecnologia, incluindo Microsoft e Meta, vão relatar seus resultados financeiros da segunda-feira, testando se o investimento maciço em inteligência artificial está gerando retornos reais. A SK Hynix também apresentará seus primeiros resultados desde sua estreia no Nasdaq, e o CEO da Apple, Tim Cook, realizará seu último relatório de resultados como chefe executivo.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/5-earnings-reports-watch-big-022415137.html)
-
----
-
-## 4. S&P 500 inches higher in choppy trading as investors ...
-
-**Fonte:** reuters.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Tecnologia, Mercados Financeiros
-
-O S&P 500 fechou ligeiramente acima em um dia de negociação turbulento, com investidores aguardando os relatórios de lucro das hyperscalers de IA Amazon, Meta, Apple e Microsoft. As ações dessas empresas estavam ligeiramente mais altas em negociação prévia. Os índices futuros Dow e Nasdaq estavam em alta e em baixa, respectivamente.
-
-[Ler noticia completa](https://www.reuters.com/business/nasdaq-futures-drop-ai-chip-worries-ahead-pivotal-earnings-2026-07-28)
-
----
-
-## 5. Microsoft to report Q4 earnings as investors look for return ...
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** Microsoft, AI, Tecnologia
-
-A Microsoft está prestes a divulgar seus resultados financeiros do quarto trimestre, enquanto os investidores buscam sinais de retorno sobre as grandes investidas na inteligência artificial.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html)
-
----
-
-## 6. 6 Catalysts That Might Pop The AI Bubble (NASDAQ:QQQ)
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🔴 BEARISH  
 **Relevancia:** 8.0/10  
 **Tags:** AI, Semiconductor, NASDAQ
 
-O artigo discute possíveis fatores que possam desinflar a bolha do setor de inteligência artificial (IA). Segundo uma pesquisa, cerca de 40% dos participantes acreditam que a venda em massa de ações de memória, como a Micron Technology (MU) e a SK Hynix, possa ser um dos principais motivos. Além disso, outros fatores mencionados incluem a perda de confiança nos investidores, a mudança na percepção da eficácia da IA, a concorrência excessiva e a falta de regulamentação.
+A ação da Micron Technology (NASDAQ:MU) está sob pressão após um declínio de 2% no preço antes do mercado abrir, mas analistas acreditam que a empresa permanece bem posicionada no mercado de memória de AI. A entrada de uma empresa chinesa, CXMT, no mercado de memória pode pressionar a Micron em termos de memória de commodity, mas os analistas acreditam que a oportunidade de mercado de memória de AI ainda é favorável à Micron.
 
-[Ler noticia completa](https://seekingalpha.com/article/4926435-6-catalysts-that-might-pop-the-ai-bubble)
-
----
-
-## 7. Intel Stock Is Falling Tuesday: What's Going On? - Intel (NASDAQ:INTC) - Benzinga
-
-**Fonte:** benzinga.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** Intel, Semicondutores, NASDAQ, IA
-
-A ação da Intel (INTC) caiu cerca de 4% em sessão prévia de terça-feira, enquanto ações de semicondutores recuaram ao lado de um mercado tecnológico mais fraco. No entanto, a demanda por chips de servidor de IA impulsionou a ação da Intel a um aumento de 2% antes do mercado. Analistas prevêem um crescimento significativo nos lucros da Intel nos próximos anos.
-
-[Ler noticia completa](https://www.benzinga.com/markets/tech/26/07/60716573/intel-stock-is-falling-tuesday-whats-going-on)
+[Ler noticia completa](https://www.benzinga.com/markets/tech/26/07/60689048/wall-street-sees-little-threat-to-micron-from-chinas-new-memory-giant)
 
 ---
 
-## 8. What Past Sector Concentrations Tell Us About Today's Tech-Heavy S&P 500
+## 2. TSMC Stock: I Was Wrong (NYSE:TSM)
 
 **Fonte:** seekingalpha.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Sentimento:** 🔴 BEARISH  
 **Relevancia:** 6.0/10  
-**Tags:** S&P 500, Tecnologia, Nasdaq-100
+**Tags:** TSMC, Semiconductor, NASDAQ
 
-A concentração de setores na S&P 500, liderada pela tecnologia, tem aumentado significativamente desde 1990, alcançando 40% da composição atual. Isso faz com que o índice se comporte de forma semelhante ao Nasdaq-100, associado a exposição a tecnologias de alta crescimento. A concentração de risco e a mudança estrutural na economia podem estar por trás desse fenômeno.
+A TSMC está sendo negociada acima do valor justo estimado de $344,33 por ação, mesmo com suposições agressivas, indicando uma margem de segurança limitada nos níveis atuais.
 
-[Ler noticia completa](https://seekingalpha.com/article/4926248-what-past-sector-concentrations-tell-us-about-todays-tech-heavy-sp500)
+[Ler noticia completa](https://seekingalpha.com/article/4925591-tsmc-i-was-wrong)
 
 ---
 
-## 9. Emerging China threat puts a scare into AI hardware stocks ...
+## 3. 5 big analyst AI moves: Several top picks named into Q2 ...
 
-**Fonte:** marketwatch.com  
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Tecnologia, Semicondutores, Mercados Financeiros
+
+Analistas financeiros destacam várias ações como top picks para o segundo trimestre de 2026, incluindo Samsung e SK Hynix, que anunciaram parcerias de fornecimento de chips nos EUA. Além disso, a Citi reitera a recomendação de compra para essas empresas, apesar de preocupações com o "peak-out" de memória. Outros analistas sugerem uma rotação para a China e destacam a importância do setor de tecnologia e inteligência artificial.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-several-top-picks-named-into-q2-earnings-4812810)
+
+---
+
+## 4. Is Intel Stock a Buy After Its Latest Earnings Report?
+
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, China, Tech
+**Tags:** Intel, AI, Semiconductor
 
-A ameaça de uma China emergente afeta negativamente as ações de hardware de IA, com a queda de ações de fabricantes de memória de chip asiáticos devido à ameaça de substitutos mais baratos da China.
+A Intel anunciou um aumento de US$ 2 bilhões em sua guia de despesas de capital para 2026, o que levou a preocupações sobre a capacidade de retorno desses investimentos. Embora a empresa tenha apresentado números de lucro e receita fortes, sua ação caiu cerca de 33% nos últimos 30 dias.
 
-[Ler noticia completa](https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/intel-stock-buy-latest-earnings-155301892.html)
 
 ---
 
-## 10. Exclusive | Cyera to Buy Oasis Security in $1 Billion Deal
+## 5. Taiwan Semiconductor's Latest Move Shows It's a Screaming Buy
 
-**Fonte:** wsj.com  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Tecnologia, Taiwan Semiconductor
+
+A Taiwan Semiconductor é considerada uma compra incrível devido à sua participação no crescimento da indústria de IA. O CEO da empresa acredita que a demanda por chips de IA permanecerá forte até 2029 ou 2030, o que pode levar a um aumento a longo prazo no valor da ação. Além disso, a empresa tem um preço justo de 25 vezes os lucros futuros.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductors-latest-move-shows-115000073.html)
+
+---
+
+## 6. Broadcom, Marvell, TSMC: 3 AI Stocks To Watch Next, Says Expert - Taiwan Semiconductor (NYSE:TSM), Broadc
+
+**Fonte:** benzinga.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semiconductor, NASDAQ
+
+O CEO da GraniteShares, Will Rhind, destaca três ações de tecnologia que podem ser interessantes para investidores em IA: TSMC, Broadcom e Marvell. Ele também alerta que a ação da SanDisk pode estar sobrevalorizada após um aumento de 30 vezes.
+
+[Ler noticia completa](https://www.benzinga.com/trading-ideas/long-ideas/26/07/60697145/exclusive-after-nvidia-and-sk-hynix-these-3-ai-stocks-could-be-the-next-winners-ceo-says)
+
+---
+
+## 7. Chip sell-off: SK Hynix, Samsung Electronics, SoftBank
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 6.0/10  
+**Tags:** Semicondutores, Tecnologia, Mercados financeiros
+
+A indústria de chips está experimentando uma queda significativa, com empresas como SK Hynix, Samsung Electronics e SoftBank Group sendo afetadas. A queda é sentida em todo o mundo, com índices de tecnologia e semicondutores em queda. A TSMC, maior fabricante de chips do mundo, também registrou uma queda de 1,32%.
+
+[Ler noticia completa](https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html)
+
+---
+
+## 8. Intel Vs. TSMC: How CoWoS Packaging Constraints Create Opportunity For Intel Foundry | Seeking Alpha
+
+**Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 8.0/10  
-**Tags:** #Cybersecurity, #AI, #MergersAndAcquisitions
+**Tags:** Intel, TSMC, Intel Foundry, CoWoS, IA
 
-A empresa de segurança de dados Cyera acordou em adquirir a startup Oasis Security por US$ 1 bilhão, o que destaca a crescente demanda por ferramentas que governem agentes de IA como a indústria de segurança cibernética continua a registrar uma onda de fusões e aquisições. A aquisição ajudará a Cyera a integrar sua plataforma de proteção de dados com a tecnologia da Oasis para gerenciar identidades não humanas, como agentes de IA e software automatizado. As empresas esperam que o negócio seja concluído no final do ano.
+A Intel está enfrentando desafios com a TSMC devido às restrições do CoWoS (Chip-on-Wafer-on-Substrate), mas isso pode criar oportunidades para a Intel Foundry. A TSMC é uma empresa crucial para a indústria de inteligência artificial, mas a Intel pode competir com ela sem precisar superá-la.
 
-[Ler noticia completa](https://www.wsj.com/pro/cybersecurity/cyera-to-buy-oasis-security-in-1-billion-deal-af998439)
+[Ler noticia completa](https://seekingalpha.com/article/4926554-intel-vs-tsmc-how-cowos-packaging-constraints-create-opportunity-for-intel-foundry)
+
+---
+
+## 9. Oracle: The Most Disliked AI Name Could Double
+
+**Fonte:** seekingalpha.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** Oracle, AI, Tecnologia
+
+A Oracle está profundamente desfavorida no mercado, mas apesar de negativas notícias, seu resultado financeiro do último trimestre foi positivo, com crescimento de 21% na receita e aumento de 54% no lucro operacional. A empresa está atrativa em relação a seus pares de IA, com um preço de 10 vezes o fluxo de caixa e um PEG de 0,5.
+
+[Ler noticia completa](https://seekingalpha.com/article/4926169-oracle-the-most-disliked-ai-name-could-double)
+
+---
+
+## 10. AI’s Early Winners Are Shopping For Their Next Big Moves - Forbes
+
+**Fonte:** forbes.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Startups, Tecnologia
+
+Empresas de IA que se destacaram no mercado estão fazendo ações estratégicas para expandir seus negócios, incluindo aquisições de outras empresas. Cognition comprou a Poke, uma assistente de IA que envia mensagens como um amigo, enquanto a World Labs adquiriu a SceniX, uma empresa de robótica. A Midjourney, conhecida por seu gerador de imagens de IA, também fez aquisições para expandir seus projetos.
+
+[Ler noticia completa](https://www.forbes.com/sites/the-prompt/2026/07/28/ais-early-winners-are-shopping-for-their-next-big-moves/)
 
 ---
