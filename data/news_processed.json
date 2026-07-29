@@ -1,11 +1,165 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-28",
-    "total_noticias": 122,
-    "gerado_em": "2026-07-28T11:58:54.826618"
+    "data": "2026-07-29",
+    "total_noticias": 112,
+    "gerado_em": "2026-07-29T05:49:41.585156"
   },
   "noticias": [
+    {
+      "titulo": "Meta to report Q2 earnings amid AI investing concerns",
+      "url": "https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-28",
+      "resumo": "A Meta está prestes a relatar seus lucros do 2º trimestre, enquanto a empresa enfrenta preocupações com investimentos em inteligência artificial. A empresa está cobrando preços baixos por seus modelos de IA, o que pode ajudar a empresa a conquistar parte do mercado dos grandes laboratórios de IA.",
+      "sentimento": "neutral",
+      "tags": [
+        "Meta",
+        "IA",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 111
+    },
+    {
+      "titulo": "Data centers de IA podem destravar R$ 100 bi por ano no Brasil; quais ações ganharão?",
+      "url": "https://www.infomoney.com.br/mercados/data-centers-da-ia-podem-destravar-r-100-bi-por-ano-no-brasil-quais-acoes-ganharao",
+      "fonte": "infomoney.com.br",
+      "data": "2026-07-23",
+      "resumo": "A indústria de centros de dados de IA no Brasil pode gerar R$ 100 bilhões por ano, impactando ações globais e crédito corporativo. Empresas de infraestrutura e energia são beneficiadas, e líderes de IA na Bolsa brasileira, como Totvs e Nubank, também têm resultados positivos. Além disso, as próprias elétricas, como a Axia, estão implementando soluções de IA para ganhar eficiência e resiliência.",
+      "sentimento": "bullish",
+      "tags": [
+        "IA",
+        "Infraestrutura",
+        "Energia",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "5 Earnings Reports to Watch as Big Tech’s AI Spending Faces a Test",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-earnings-reports-watch-big-022415137.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-27",
+      "resumo": "Quatro gigantes da tecnologia, incluindo Microsoft e Meta, vão relatar seus resultados financeiros da segunda-feira, testando se o investimento maciço em inteligência artificial está gerando retornos reais. A SK Hynix também apresentará seus primeiros resultados desde sua estreia no Nasdaq, e o CEO da Apple, Tim Cook, realizará seu último relatório de resultados como chefe executivo.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Big Tech",
+        "Finance"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "S&P 500 inches higher in choppy trading as investors ...",
+      "url": "https://www.reuters.com/business/nasdaq-futures-drop-ai-chip-worries-ahead-pivotal-earnings-2026-07-28",
+      "fonte": "reuters.com",
+      "data": "2026-07-28",
+      "resumo": "O S&P 500 fechou ligeiramente acima em um dia de negociação turbulento, com investidores aguardando os relatórios de lucro das hyperscalers de IA Amazon, Meta, Apple e Microsoft. As ações dessas empresas estavam ligeiramente mais altas em negociação prévia. Os índices futuros Dow e Nasdaq estavam em alta e em baixa, respectivamente.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 62
+    },
+    {
+      "titulo": "Microsoft to report Q4 earnings as investors look for return ...",
+      "url": "https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-28",
+      "resumo": "A Microsoft está prestes a divulgar seus resultados financeiros do quarto trimestre, enquanto os investidores buscam sinais de retorno sobre as grandes investidas na inteligência artificial.",
+      "sentimento": "bearish",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 35
+    },
+    {
+      "titulo": "6 Catalysts That Might Pop The AI Bubble (NASDAQ:QQQ)",
+      "url": "https://seekingalpha.com/article/4926435-6-catalysts-that-might-pop-the-ai-bubble",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-28",
+      "resumo": "O artigo discute possíveis fatores que possam desinflar a bolha do setor de inteligência artificial (IA). Segundo uma pesquisa, cerca de 40% dos participantes acreditam que a venda em massa de ações de memória, como a Micron Technology (MU) e a SK Hynix, possa ser um dos principais motivos. Além disso, outros fatores mencionados incluem a perda de confiança nos investidores, a mudança na percepção da eficácia da IA, a concorrência excessiva e a falta de regulamentação.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 137
+    },
+    {
+      "titulo": "Intel Stock Is Falling Tuesday: What's Going On? - Intel (NASDAQ:INTC) - Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60716573/intel-stock-is-falling-tuesday-whats-going-on",
+      "fonte": "benzinga.com",
+      "data": "2026-07-28",
+      "resumo": "A ação da Intel (INTC) caiu cerca de 4% em sessão prévia de terça-feira, enquanto ações de semicondutores recuaram ao lado de um mercado tecnológico mais fraco. No entanto, a demanda por chips de servidor de IA impulsionou a ação da Intel a um aumento de 2% antes do mercado. Analistas prevêem um crescimento significativo nos lucros da Intel nos próximos anos.",
+      "sentimento": "neutral",
+      "tags": [
+        "Intel",
+        "Semicondutores",
+        "NASDAQ",
+        "IA"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 92
+    },
+    {
+      "titulo": "What Past Sector Concentrations Tell Us About Today's Tech-Heavy S&P 500",
+      "url": "https://seekingalpha.com/article/4926248-what-past-sector-concentrations-tell-us-about-todays-tech-heavy-sp500",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-28",
+      "resumo": "A concentração de setores na S&P 500, liderada pela tecnologia, tem aumentado significativamente desde 1990, alcançando 40% da composição atual. Isso faz com que o índice se comporte de forma semelhante ao Nasdaq-100, associado a exposição a tecnologias de alta crescimento. A concentração de risco e a mudança estrutural na economia podem estar por trás desse fenômeno.",
+      "sentimento": "neutral",
+      "tags": [
+        "S&P 500",
+        "Tecnologia",
+        "Nasdaq-100"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "Emerging China threat puts a scare into AI hardware stocks ...",
+      "url": "https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4",
+      "fonte": "marketwatch.com",
+      "data": "2026-07-28",
+      "resumo": "A ameaça de uma China emergente afeta negativamente as ações de hardware de IA, com a queda de ações de fabricantes de memória de chip asiáticos devido à ameaça de substitutos mais baratos da China.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "China",
+        "Tech"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Exclusive | Cyera to Buy Oasis Security in $1 Billion Deal",
+      "url": "https://www.wsj.com/pro/cybersecurity/cyera-to-buy-oasis-security-in-1-billion-deal-af998439",
+      "fonte": "wsj.com",
+      "data": "2026-07-28",
+      "resumo": "A empresa de segurança de dados Cyera acordou em adquirir a startup Oasis Security por US$ 1 bilhão, o que destaca a crescente demanda por ferramentas que governem agentes de IA como a indústria de segurança cibernética continua a registrar uma onda de fusões e aquisições. A aquisição ajudará a Cyera a integrar sua plataforma de proteção de dados com a tecnologia da Oasis para gerenciar identidades não humanas, como agentes de IA e software automatizado. As empresas esperam que o negócio seja concluído no final do ano.",
+      "sentimento": "bullish",
+      "tags": [
+        "#Cybersecurity",
+        "#AI",
+        "#MergersAndAcquisitions"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 97
+    },
     {
       "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & ...",
       "url": "https://finance.yahoo.com/quote/NVDA",
@@ -628,22 +782,6 @@
       "tokens_usados": 82
     },
     {
-      "titulo": "5 Semiconductor Stocks To Buy And 1 To Ignore",
-      "url": "https://www.forbes.com/sites/investor-hub/article/semiconductor-stocks-to-buy-and-ignore",
-      "fonte": "forbes.com",
-      "data": "2026-07-21",
-      "resumo": "A NVIDIA (NVDA) e a Taiwan Semiconductor Manufacturing Company (TSMC) são consideradas ações de compra, devido ao seu papel fundamental na revolução dos chips de inteligência artificial (IA). A NVIDIA lidera a indústria de GPU e a TSMC controla 72% do mercado de foundry de chips, tornando-as essenciais para a produção de chips de IA. As ações de ambas as empresas têm um potencial de crescimento significativo, com uma média de preço-alvo de US$ 302 para a NVDA e uma expectativa de crescimento de 30%+ para a TSMC.",
-      "sentimento": "bullish",
-      "tags": [
-        "Semicondutores",
-        "Inteligência Artificial",
-        "NVIDIA",
-        "TSMC"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 99
-    },
-    {
       "titulo": "Tempus AI Stock Before Q2 Earnings Release: To Buy, Hold or Sell?",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tempus-ai-stock-q2-earnings-150300575.html",
       "fonte": "finance.yahoo.com",
@@ -766,21 +904,6 @@
       "tokens_usados": 78
     },
     {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.20% By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-020-4801667",
-      "fonte": "investing.com",
-      "data": "2026-07-21",
-      "resumo": "As ações brasileiras fecharam em baixa no final do dia, com a Bovespa caindo 0,20%. A perda foi liderada por setores como Imóveis, Materiais Básicos e Consumo. Além disso, a Embraer SA e a Hapvida Participações e Investimentos foram as maiores ganhadoras da sessão, com aumentos de 1,88% e 1,49%, respectivamente.",
-      "sentimento": "bearish",
-      "tags": [
-        "Bovespa",
-        "Brasil",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 62
-    },
-    {
       "titulo": "SK Hynix shares rise as Big Tech AI investment boosts semiconductor outlook (NASDAQ:SKHY)",
       "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-shares-rise-big-103529258.html",
       "fonte": "finance.yahoo.com",
@@ -854,21 +977,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 64
-    },
-    {
-      "titulo": "Tech Stocks Return to Rally Mode Ahead of Earnings",
-      "url": "https://www.wsj.com/finance/stocks/tech-stocks-return-to-rally-mode-ahead-of-earnings-3702d559",
-      "fonte": "wsj.com",
-      "data": "2026-07-21",
-      "resumo": "As tecnologias voltaram a subir após três dias de perda, com a recuperação das ações de chips e expectativas de bons resultados financeiros de algumas das maiores empresas de tecnologia dos EUA. O Nasdaq teve as maiores ganhas entre os principais índices norte-americanos, subindo 1,3%. O S&P 500 e o Dow industriais também tiveram ganhas de 0,9% e 0,7%, respectivamente.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 69
     },
     {
       "titulo": "S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs By Reuters",
@@ -1114,21 +1222,6 @@
       "tokens_usados": 83
     },
     {
-      "titulo": "Iran strikes Amazon's Bahrain data infrastructure—Al Jazeera",
-      "url": "https://seekingalpha.com/news/4615874-iran-strikes-amazons-bahrain-data-infrastructure---al-jazeera",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-21",
-      "resumo": "A Irã atacou a infraestrutura de dados da Amazon no Bahrein, de acordo com relatos da Al Jazeera. A notícia não fornece detalhes sobre os danos causados ou a resposta da Amazon. A infraestrutura de dados da Amazon é uma parte crítica da operação da empresa, e um ataque a ela pode ter consequências significativas para a empresa e seus clientes.",
-      "sentimento": "neutral",
-      "tags": [
-        "Tecnologia",
-        "Segurança Cibernética",
-        "Amazon"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 102
-    },
-    {
       "titulo": "IREN Stock: From A Bitcoin Miner To An AI Infrastructure Play (NASDAQ:IREN) | Seeking Alpha",
       "url": "https://seekingalpha.com/article/4924578-iren-from-a-bitcoin-miner-to-an-ai-infrastructure-play",
       "fonte": "seekingalpha.com",
@@ -1142,21 +1235,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 60
-    },
-    {
-      "titulo": "AMD: Major Data Center Deals With Meta And OpenAI",
-      "url": "https://seekingalpha.com/article/4923772-amd-major-data-center-deals-with-meta-and-openai",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-21",
-      "resumo": "A AMD anunciou acordos importantes com Meta e OpenAI para seus centros de dados, o que levou a uma atualização da previsão de preço para $562,80 e uma classificação de \"Comprar\". Embora o aumento de preço possa ter incorporado parte da oportunidade de negócios, a empresa pode derivar mais crescimento se conseguir mais parcerias de infraestrutura de inteligência artificial de grande escala e executar bem o seu plano Helios.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Earnings"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 78
     },
     {
       "titulo": "The REIT Recovery Broadens Beyond Rates | Seeking Alpha",
@@ -1375,21 +1453,6 @@
       "tokens_usados": 73
     },
     {
-      "titulo": "US Stock Futures Rise as Chipmaker Rebound Overshadows Iran War - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-21/us-stock-futures-rise-as-chipmaker-rebound-overshadows-iran-war",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-21",
-      "resumo": "A bolsa de valores dos EUA experimentou um aumento, com a Nasdaq 100 alcançando seu melhor dia em três semanas. A indústria de chips, que é fundamental para o desenvolvimento de inteligência artificial, liderou a recuperação, com empresas como Samsung e Taiwan Semiconductor Manufacturing Co. apresentando resultados sólidos. A Micron Technology Inc. também teve um aumento de 12%, beneficiada pela expansão da infraestrutura de inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 75
-    },
-    {
       "titulo": "Lyn Alden: AI demand is here but profits remain the biggest question - CNBC",
       "url": "https://www.cnbc.com/video/2026/07/23/lyn-alden-ai-demand-is-here-but-profits-remain-the-biggest-question.html",
       "fonte": "cnbc.com",
@@ -1435,21 +1498,6 @@
       "tokens_usados": 77
     },
     {
-      "titulo": "Microsoft to fund Mistral's European AI expansion in ...",
-      "url": "https://www.reuters.com/business/microsoft-fund-mistrals-european-ai-expansion-multibillion-dollar-deal-2026-07-21",
-      "fonte": "reuters.com",
-      "data": "2026-07-21",
-      "resumo": "A Microsoft está investindo na expansão europeia da Mistral, uma empresa de inteligência artificial (IA) com sede em Paris. A parceria visa fornecer \"soberania\" em IA, permitindo que os países europeus tenham maior controle sobre sua tecnologia e economia. A Mistral está alinhada com a estratégia da Microsoft de oferecer modelos de IA abertos e permitir que os clientes desenvolvam suas próprias soluções.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Microsoft",
-        "Europa"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 72
-    },
-    {
       "titulo": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
       "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter",
       "fonte": "techcrunch.com",
@@ -1478,52 +1526,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 67
-    },
-    {
-      "titulo": "Nasdaq 100 Jumps 1% as Chip Stocks Rebound Before Big Tech Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-jumps-1-chip-192526254.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-21",
-      "resumo": "A Nasdaq 100 subiu 1% devido à recuperação das ações de chips, com a indústria de tecnologia também se fortalecendo. A Alphabet, Amazon e Microsoft moveram-se para cima, embora declínios em Apple e Tesla limitassem o avanço geral do S&P 500. A Intel e a Alphabet estão programadas para divulgar resultados que podem fornecer insights sobre como o gasto em inteligência artificial está influenciando a indústria de tecnologia.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 78
-    },
-    {
-      "titulo": "Stock market today: Dow, S&P 500, Nasdaq rally fizzles as chip stock momentum fades, oil rises",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-21",
-      "resumo": "O mercado de ações dos EUA caiu na segunda-feira, com as ações de chips perdendo impulso antes dos resultados trimestrais das grandes tecnologias esta semana, enquanto os preços do petróleo foram voláteis após ataques recíprocos entre os EUA e o Irã no fim de semana. As expectativas de Wall Street aumentaram para os resultados trimestrais da Alphabet, Intel, IBM e Tesla, que serão divulgados mais tarde esta semana.",
-      "sentimento": "bearish",
-      "tags": [
-        "tecnologia",
-        "petróleo",
-        "ações"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 77
-    },
-    {
-      "titulo": "Micron jumps 12% on BofA note, chip rally (MU:NASDAQ) | Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4616000-micron-jumps-12-on-bofa-note-chip-rally",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-21",
-      "resumo": "A nota positiva da Bank of America sobre a demanda de memória impulsada pela IA e o potencial de retorno de capital, juntamente com a força geral das ações de memória e armazenamento, impulsionou a alta da ação da Micron. A empresa relatou receita, margens e EPS recorde, com expectativa de crescimento contínuo no Q4, embora os aumentos de margem possam ser mais lentos. Os defensores da ação citam o fluxo de caixa livre recorde, a estrutura oligopolista e a demanda por IA, enquanto os críticos alertam para a alta valorização, o aumento potencial de oferta na indústria, os riscos técnicos e a normalização das margens ao longo do tempo.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 119
     },
     {
       "titulo": "Powerful rally! This Wall Street AI winner with 500% share price jump is not your typical chip stock - The Economic Times",
@@ -1601,21 +1603,6 @@
       "tokens_usados": 63
     },
     {
-      "titulo": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement - CNBC",
-      "url": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-21",
-      "resumo": "A Super Micro anunciou um aumento de 15% em suas ações após a divulgação de novas ordens e margens de lucro. A empresa espera que sua receita para o trimestre de junho seja no baixo fim da faixa de previsão de $11,0 bilhão a $12,5 bilhão. Além disso, a Super Micro relatou um estoque de ordens recorde no final do ano fiscal de 2026.",
-      "sentimento": "bullish",
-      "tags": [
-        "[Super Micro",
-        "AI",
-        "Tech]"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
-    },
-    {
       "titulo": "This cloud infrastructure stock has slid in recent months. Truist sees a bounce ahead - CNBC",
       "url": "https://www.cnbc.com/2026/07/22/coreweave-has-slid-in-recent-months-truist-is-betting-on-a-bounce.html",
       "fonte": "cnbc.com",
@@ -1659,21 +1646,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 146
-    },
-    {
-      "titulo": "Nvidia: Jensen Huang's $0 Billion Strategy (NASDAQ:NVDA) - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4923889-nvidia-jensen-huang-0-billion-strategy",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-21",
-      "resumo": "Jensen Huang, CEO da Nvidia, tem uma estratégia de $0 bilhão para impulsionar o crescimento da empresa. A estratégia visa aproveitar as oportunidades de crescimento em áreas como inteligência artificial, jogos e computação em nuvem. A Nvidia está bem posicionada para aproveitar as tendências de crescimento dessas áreas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 57
     },
     {
       "titulo": "AI investment boom puts Big Tech's free cash flow under pressure - Reuters",
@@ -1722,51 +1694,6 @@
       "tokens_usados": 102
     },
     {
-      "titulo": "Why analysts say investors should stick with the AI hardware trade despite major volatility in chips stocks - Business Insider",
-      "url": "https://www.businessinsider.com/chip-stocks-ai-hardware-kimi-k3-ubs-bofa-wall-street-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-21",
-      "resumo": "Analistas financeiros recomendam que investidores mantenham sua confiança no mercado de hardware de IA, apesar da volatilidade recente nos preços das ações de chips. Eles argumentam que a tendência positiva do mercado de IA ainda é forte, apesar de recentes oscilações. A competição de modelos de IA na China e a incerteza sobre a taxa de juros não são suficientes para afastar os investidores do setor.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Wall Street"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 76
-    },
-    {
-      "titulo": "America needs to stop getting shocked by Chinese AI - The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
-      "fonte": "theverge.com",
-      "data": "2026-07-21",
-      "resumo": "A China está ameaçando a liderança do mercado de inteligência artificial (IA) dos EUA, com modelos chineses capazes desafiando a expectativa de que empresas como Anthropic e OpenAI dominem o mercado global. Isso pode afetar as valorações de potenciais IPOs dessas empresas e comprometer a crescimento das empresas de tecnologia que investiram pesadamente em infraestrutura de IA.",
-      "sentimento": "bearish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Mercados Financeiros"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "Stocks making the biggest moves premarket: General Motors, 3M, Novartis, Nebius & more - CNBC",
-      "url": "https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-premarket-gm-mmm-nvs-nbis.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-21",
-      "resumo": "Ações em movimento pré-abertura: General Motors, 3M, Novartis, Nebius e mais. Nebius Group, uma empresa de nuvem de inteligência artificial, teve um aumento de 6% após a Nvidia revelar uma participação de 9,3% na empresa. 3M apresentou resultados de segunda trimestre que superaram as expectativas, levando a um aumento de mais de 5% na ação. A Taiwan Semiconductor Manufacturing também teve um aumento de mais de 3% após relatórios de aumento de preços para serviços de fabricação de chips.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 90
-    },
-    {
       "titulo": "Wistron shares surge in Taiwan after opening of Texas AI superchip plant to supply Nvidia - CNBC",
       "url": "https://www.cnbc.com/2026/07/22/wistron-shares-surge-after-opening-texas-plant-for-nvidia-ai-servers-.html",
       "fonte": "cnbc.com",
@@ -1780,82 +1707,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 66
-    },
-    {
-      "titulo": "Top US Workforce Services Stocks for the AI Infrastructure Boom: Barclays - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/top-us-workforce-services-stocks-for-the-ai-infrastructure-boom-barclays-93CH-4803721",
-      "fonte": "investing.com",
-      "data": "2026-07-21",
-      "resumo": "A Barclays identificou a Target Hospitality como uma das principais empresas de serviços de força de trabalho no setor, devido à sua capacidade de construir e operar campi projetados para projetos de infraestrutura de dados e inteligência artificial. A empresa está bem posicionada para atender às necessidades de acomodação de força de trabalho geradas pelos projetos de construção de centros de dados em larga escala.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Inteligência Artificial",
-        "Serviços de Força de Trabalho",
-        "Infraestrutura de Dados"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 82
-    },
-    {
-      "titulo": "Exclusive | Altana Acquires AI Platform to Tackle Customs Complexity - WSJ",
-      "url": "https://www.wsj.com/logistics-report/altana-acquires-ai-platform-to-tackle-customs-complexity-0bf30fa2",
-      "fonte": "wsj.com",
-      "data": "2026-07-21",
-      "resumo": "A empresa de tecnologia de comércio Altana adquiriu a plataforma de inteligência artificial (IA) Cervo AI para automatizar processos de escritura de entradas de comércio exterior, ajudando a lidar com a complexidade crescente de tarifas e políticas comerciais.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Comércio Exterior"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 97
-    },
-    {
-      "titulo": "'picks and shovels of the picks and shovels' in the AI trade - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/21/picks-and-shovels-of-the-picks-and-shovels-in-the-ai-trade.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-21",
-      "resumo": "O gerente de portfólio Vikas Pershad da M&G Investments afirma que o centro de gravidade no comércio global de IA se deslocou para a Ásia do Norte, em particular, China e Japão. Ele destaca a importância de investir nas \"picks and shovels\" da indústria de IA, ou seja, nas empresas que fornecem tecnologias e serviços essenciais para o desenvolvimento de inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "China",
-        "Japão"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 71
-    },
-    {
-      "titulo": "Asian stocks rise as Mideast mediation takes oil lower - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/global-markets-wrapup-1-2026-07-21/",
-      "fonte": "reuters.com",
-      "data": "2026-07-21",
-      "resumo": "Ações asiáticas subiram na segunda-feira devido a esforços de mediação no Oriente Médio, que empurraram os preços do petróleo para longe de um recorde de um mês. Investidores estão preparados para uma série de resultados corporativos que testarão o setor de IA, que enfrenta pressão. A demanda por hardware de IA permanece intensa, mas as expectativas de lucro se tornaram cada vez mais altas, tornando o setor vulnerável a ajustes marginais.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Earnings"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 133
-    },
-    {
-      "titulo": "Markets looking for durable AI spending, not just blockbuster earnings: Strategist - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/21/markets-looking-for-durable-ai-spending-strategist.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-21",
-      "resumo": "O mercado está procurando por evidências de que os gastos em capital das empresas estão gerando resultados duradouros. A estratégia de investimento de Yung-Yu Ma, do PNC Asset Management, destaca a importância de uma orientação clara sobre os planos de capex para o próximo ano, que pode ser um catalisador para o setor de semicondutores.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Economia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 115
     }
   ]
 }

@@ -1,60 +1,4 @@
 {
-  "https://ca.finance.yahoo.com/news/us-stock-futures-asian-markets-115838384.html": {
-    "hash": "eb80e95da794e8b39a2501bd4978ebbf",
-    "visto_em": "2026-07-21"
-  },
-  "https://markets.businessinsider.com/news/stocks/nvidia-&-micron--2-profitable-ai-stocks-with-strong-growth-potential-15809248": {
-    "hash": "5acb2938610a21a076bec477d753a730",
-    "visto_em": "2026-07-21"
-  },
-  "https://www.reuters.com/world/asia-pacific/chipmakers-other-high-flying-stocks-slide-ai-trade-wobbles-2026-07-17": {
-    "hash": "633d4bd29484511d2cb99e7752379fdc",
-    "visto_em": "2026-07-21"
-  },
-  "https://www.reuters.com/world/asia-pacific/global-markets-wrapup-1-2026-07-21/": {
-    "hash": "ce4af9abb5b3e2bea7741627944c4e7a",
-    "visto_em": "2026-07-21"
-  },
-  "https://www.cnbc.com/video/2026/07/20/liontrust-the-key-this-week-will-be-earnings-outlook-from-the-ai-hyperscalers.html": {
-    "hash": "5c676ab2156cd070c71fd69fffbd31f5",
-    "visto_em": "2026-07-21"
-  },
-  "https://www.businessinsider.com/growth-stocks-investment-strategy-sp500-magnificent-7-ai-citi-2026-7": {
-    "hash": "29d22e016dc1776e7f18272a10f0edd7",
-    "visto_em": "2026-07-21"
-  },
-  "https://www.cnbc.com/video/2026/07/21/markets-looking-for-durable-ai-spending-strategist.html": {
-    "hash": "43aaa626a7c80593de9c16fe6927ce31",
-    "visto_em": "2026-07-21"
-  },
-  "https://www.benzinga.com/markets/equities/26/07/60543133/intel-stock-forms-an-alarming-pattern-as-earnings-loom": {
-    "hash": "c32b966fe725968f120ef3581a2db92f",
-    "visto_em": "2026-07-21"
-  },
-  "https://www.cnbc.com/2026/07/20/stocks-making-the-biggest-moves-midday-amd-achr-spcx-iren.html": {
-    "hash": "facc69d96f7926be9f2b85c4a33c8e00",
-    "visto_em": "2026-07-21"
-  },
-  "https://www.forbes.com/sites/victordey/2026/07/20/former-microsoft-ai-leaders-are-spending-1m-to-prove-ai-can-replace-ceos/": {
-    "hash": "06d18a09c529d680ce55eeac4b72c375",
-    "visto_em": "2026-07-21"
-  },
-  "https://www.reuters.com/business/autos-transportation/wall-st-futures-edge-higher-ahead-this-weeks-megacap-earnings-2026-07-20/": {
-    "hash": "90ed37e28ac0be372c1ecb51ff2f41b8",
-    "visto_em": "2026-07-21"
-  },
-  "https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html": {
-    "hash": "d35a622d0ebd0de8baac419b0acd2ff6",
-    "visto_em": "2026-07-21"
-  },
-  "https://www.cnbc.com/video/2026/07/21/picks-and-shovels-of-the-picks-and-shovels-in-the-ai-trade.html": {
-    "hash": "a1d248c3078514836db206cb7e053c1b",
-    "visto_em": "2026-07-21"
-  },
-  "https://www.forbes.com/sites/viviantoh/2026/07/20/the-enterprise-ai-reckoning-the-next-phase-of-the-ai-economy/": {
-    "hash": "be68b95b51d397c9518c8e2a5dda6129",
-    "visto_em": "2026-07-21"
-  },
   "https://www.cnbc.com/video/2026/07/20/hyperscalers-are-better-positioned-than-semiconductors-this-earnings-season-says-hsbcs-max-kettner.html": {
     "hash": "c6825dcc83952c1ab45835d575d29d52",
     "visto_em": "2026-07-22"
@@ -546,5 +490,45 @@
   "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage": {
     "hash": "a8cfa384b9a06a9132b5f680e2bb5d0f",
     "visto_em": "2026-07-28"
+  },
+  "https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html": {
+    "hash": "340d0fca1557cec0e451b0bc61d3f740",
+    "visto_em": "2026-07-29"
+  },
+  "https://www.infomoney.com.br/mercados/data-centers-da-ia-podem-destravar-r-100-bi-por-ano-no-brasil-quais-acoes-ganharao": {
+    "hash": "67ec399f06a0c0985fb7d0692b70a8ed",
+    "visto_em": "2026-07-29"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/5-earnings-reports-watch-big-022415137.html": {
+    "hash": "9d4667e0958adff08166244335a5ffef",
+    "visto_em": "2026-07-29"
+  },
+  "https://www.reuters.com/business/nasdaq-futures-drop-ai-chip-worries-ahead-pivotal-earnings-2026-07-28": {
+    "hash": "9fc3de6ed98c9bb3cd07b4543bc337f4",
+    "visto_em": "2026-07-29"
+  },
+  "https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html": {
+    "hash": "5f45101a96c144493e59001a36801f85",
+    "visto_em": "2026-07-29"
+  },
+  "https://seekingalpha.com/article/4926435-6-catalysts-that-might-pop-the-ai-bubble": {
+    "hash": "6ee1cdf31080a340c94f553746b338e0",
+    "visto_em": "2026-07-29"
+  },
+  "https://www.benzinga.com/markets/tech/26/07/60716573/intel-stock-is-falling-tuesday-whats-going-on": {
+    "hash": "0b32659d411a47a9240ff73343b45310",
+    "visto_em": "2026-07-29"
+  },
+  "https://seekingalpha.com/article/4926248-what-past-sector-concentrations-tell-us-about-todays-tech-heavy-sp500": {
+    "hash": "5d113bcda1d452a95cfe923ccacda57e",
+    "visto_em": "2026-07-29"
+  },
+  "https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4": {
+    "hash": "136c20ce6c9bfc641ea455179552c5b0",
+    "visto_em": "2026-07-29"
+  },
+  "https://www.wsj.com/pro/cybersecurity/cyera-to-buy-oasis-security-in-1-billion-deal-af998439": {
+    "hash": "d3e1c33b1a7b49dae2d1c4fd393ead97",
+    "visto_em": "2026-07-29"
   }
 }
