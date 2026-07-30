@@ -1,111 +1,59 @@
 # Newsletter IA Bolsa — 2026-07-30
 
-**Gerado em:** 30/07/2026 05:38
-**Total:** 8 noticias
+**Gerado em:** 30/07/2026 11:51
+**Total:** 4 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Meta to report Q2 earnings amid AI investing concerns
+## 1. U.S. and Korean tech stocks are now tightly linked
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** Meta, AI, Inteligência Artificial, Earnings
-
-Meta está programado para divulgar seus resultados financeiros do segundo trimestre após o sino, oferecendo aos investidores uma visão sobre os investimentos da empresa em inteligência artificial e se eles estão gerando resultados positivos. A empresa enfrenta desafios para recuperar seu desempenho no mercado e os investidores questionam os planos de investimento da CEO Mark Zuckerberg. A empresa anunciou um acordo com a BlackRock para construir um centro de dados de $14 bilhões em Texas.
-
-[Ler noticia completa](https://finance.yahoo.com/news/meta-misses-on-q2-earnings-stock-tumbles-121325403.html)
-
----
-
-## 2. Could an AI market crash rival 2000 or 2008? Unlikely
-
-**Fonte:** reuters.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Mercado de Ações
-
-A crise no mercado de tecnologia pode parecer alarmante, com a Nasdaq perto de uma correção de 10% e o índice de semicondutores em uma tendência de mercado baixa. No entanto, os analistas consideram que a situação atual é diferente das crises de 2000 e 2008, devido à valoração razoável das empresas e à lucratividade de muitas delas.
-
-[Ler noticia completa](https://www.reuters.com/commentary/reuters-open-interest/could-an-ai-market-crash-rival-2000-or-2008-unlikely-2026-07-29)
-
----
-
-## 3. Market warning signals flare again as tech, inflation fears intensify
-
-**Fonte:** reuters.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** tecnologia, inflação, mercado de ações
-
-O mercado está alertando para sinais de alerta novamente, com medo de tecnologia e inflação aumentando. Embora os lucros das empresas de tecnologia estejam vindo bem, os investidores estão procurando por receita e lucros que justifiquem os custos do desenvolvimento de IA a longo prazo. A escalada de juros nos EUA e a instabilidade nos mercados estão aumentando a pressão sobre as ações de tecnologia.
-
-[Ler noticia completa](https://www.reuters.com/business/finance/global-markets-stress-graphic-2026-07-28)
-
----
-
-## 4. Microsoft set for $190 billion market value swing after earnings results ...
-
-**Fonte:** reuters.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Microsoft, Meta
-
-A Microsoft está prestes a experimentar um movimento significativo em seu valor de mercado após os resultados financeiros, com investidores esperando sinais de que as investidas em inteligência artificial estão gerando retornos. A empresa é considerada uma história de renda importante relacionada à inteligência artificial, e os investidores estão monitorando a execução da empresa nesse setor. Além disso, a Meta também está sob escrutínio por sua despesa em inteligência artificial.
-
-[Ler noticia completa](https://www.reuters.com/business/finance/microsoft-set-190-billion-market-value-swing-after-earnings-results-options-2026-07-29)
-
----
-
-## 5. The Stock Market Is Not Overvalued, Yet
-
-**Fonte:** seekingalpha.com  
+**Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Semicondutores, Economia
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semiconductor, NASDAQ
 
-Apesar de riscos geopolíticos e medos de inflação, o crescimento das receitas do S&P 500 atingiu 39,3%, apoiando continuadas ganhas no mercado. O investimento em capex com IA provavelmente atingiu seu pico em ações de hardware e semicondutores, com múltiplos reverteindo à medida que o ciclo amadurece. Valuações para índices principais permanecem razoáveis, desde que o crescimento das receitas persista.
+A relação entre ações de tecnologia dos EUA e da Coreia do Sul está se tornando cada vez mais estreita, com a demanda por hardware de inteligência artificial (IA) unindo as fortunas de gigantes de tecnologia dos EUA e fabricantes de chips da Coreia do Sul. A Samsung e a SK Hynix estão no centro da cadeia de fornecimento de hardware de IA, fornecendo chips de memória necessários para centros de dados operados por gigantes de tecnologia dos EUA.
 
-[Ler noticia completa](https://seekingalpha.com/article/4925855-the-stock-market-is-not-overvalued-yet)
+[Ler noticia completa](https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html)
 
 ---
 
-## 6. Bovespa Index Today (IBOV) - Investing.com
+## 2. Earnings call transcript: Meta misses EPS in Q2 2026 as ...
 
 **Fonte:** investing.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 6.0/10  
-**Tags:** Bovespa, Petroleo, Ações, Mercado
-
-O índice Bovespa (IBOV) está apresentando uma variedade de movimentos, com alguns ativos aumentando e outros diminuindo. O PETR4 (Petroleo Brasileiro SA PN) está em alta de 2,16%, enquanto o B3SA3 (B3 SA Brasil Bolsa Balcao) está em queda de 3,00%. Além disso, o PRIO3 (Prio ON) é o maior ganhador do dia, com um aumento de 2,96%.
-
-[Ler noticia completa](https://www.investing.com/indices/bovespa)
-
----
-
-## 7. Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds
-
-**Fonte:** finance.yahoo.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
-**Tags:** IA, Tecnologia, Semicondutores
+**Tags:** Meta, Inteligência Artificial, Tecnologia
 
-A cotação de ações de empresas ligadas à tecnologia e à Inteligência Artificial (IA) caiu após a divulgação de resultados de SK Hynix, que não atenderam às expectativas dos investidores. A empresa registrou um lucro operacional recorde no segundo trimestre, mas o aumento foi inferior ao esperado, levando a preocupações sobre a sustentabilidade do investimento em IA.
+Meta não atingiu as expectativas de lucro por ação (EPS) no segundo trimestre de 2026, o que pode ter implicações para a indústria de tecnologia e inteligência artificial. A empresa enfrenta desafios em sua área de inteligência artificial, incluindo uma ameaça inesperada ao mercado de processamento de computação de AI. A notícia pode afetar as ações de empresas como NVIDIA e Microsoft, que investem pesadamente em tecnologia de IA.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/article/nvidia-micron-amd-sink-after-sk-hynix-results-fail-to-impress-ai-trade-unwinds-130352334.html)
+[Ler noticia completa](https://www.investing.com/news/transcripts/earnings-call-transcript-meta-misses-eps-in-q2-2026-as-stock-sinks-after-hours-93CH-4821910)
 
 ---
 
-## 8. Café: o que separa preço alto de equilíbrio real | Investing.com
+## 3. Ibovespa fecha em queda com bancos e Fed no radar Por Reuters
 
 **Fonte:** br.investing.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 4.0/10  
+**Tags:** Ibovespa, Mercado de Ações, Bancos
+
+A Ibovespa fechou em queda, com bancos e a Fed no radar. A queda é influenciada pela instabilidade no mercado e pela expectativa de aumento das taxas de juros.
+
+[Ler noticia completa](https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-com-bancos-e-fed-no-radar-2018731)
+
+---
+
+## 4. Cotações em Tempo Real: Bolsa de Valores, Ações, Criptomoedas, FIIs – Money Times
+
+**Fonte:** moneytimes.com.br  
 **Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** [Mercado de Ações, Brasil, Inteligência Artificial]
+**Relevancia:** 6.0/10  
+**Tags:** [Criptomoedas, Ações, FIIs, Tecnologia]
 
-O artigo não apresenta uma notícia específica sobre IA ou tecnologia, mas sim uma lista de notícias e ações em destaque no mercado brasileiro. Além disso, há uma seção de ProPicks IA que seleciona ações com histórico de ganhos acima do S&P 500 usando inteligência artificial.
+A lista apresentada é uma tabela com cotações em tempo real de ações, criptomoedas e FIIs de várias empresas, incluindo empresas de tecnologia, saúde e finanças. A lista inclui códigos de identificação de cada empresa, como AIG, AIHS, AIIO, entre outros.
 
-[Ler noticia completa](https://br.investing.com/analysis/cafe-o-que-separa-preco-alto-de-equilibrio-real-200478688)
+[Ler noticia completa](https://www.moneytimes.com.br/cotacoes)
 
 ---
