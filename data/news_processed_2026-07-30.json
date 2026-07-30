@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-07-30",
+    "total_noticias": 8,
+    "gerado_em": "2026-07-30T05:38:24.403751"
+  },
+  "noticias": [
+    {
+      "titulo": "Meta to report Q2 earnings amid AI investing concerns",
+      "url": "https://finance.yahoo.com/news/meta-misses-on-q2-earnings-stock-tumbles-121325403.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-28",
+      "resumo": "Meta está programado para divulgar seus resultados financeiros do segundo trimestre após o sino, oferecendo aos investidores uma visão sobre os investimentos da empresa em inteligência artificial e se eles estão gerando resultados positivos. A empresa enfrenta desafios para recuperar seu desempenho no mercado e os investidores questionam os planos de investimento da CEO Mark Zuckerberg. A empresa anunciou um acordo com a BlackRock para construir um centro de dados de $14 bilhões em Texas.",
+      "sentimento": "bearish",
+      "tags": [
+        "Meta",
+        "AI",
+        "Inteligência Artificial",
+        "Earnings"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 86
+    },
+    {
+      "titulo": "Could an AI market crash rival 2000 or 2008? Unlikely",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/could-an-ai-market-crash-rival-2000-or-2008-unlikely-2026-07-29",
+      "fonte": "reuters.com",
+      "data": "2026-07-29",
+      "resumo": "A crise no mercado de tecnologia pode parecer alarmante, com a Nasdaq perto de uma correção de 10% e o índice de semicondutores em uma tendência de mercado baixa. No entanto, os analistas consideram que a situação atual é diferente das crises de 2000 e 2008, devido à valoração razoável das empresas e à lucratividade de muitas delas.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 93
+    },
+    {
+      "titulo": "Market warning signals flare again as tech, inflation fears intensify",
+      "url": "https://www.reuters.com/business/finance/global-markets-stress-graphic-2026-07-28",
+      "fonte": "reuters.com",
+      "data": "2026-07-28",
+      "resumo": "O mercado está alertando para sinais de alerta novamente, com medo de tecnologia e inflação aumentando. Embora os lucros das empresas de tecnologia estejam vindo bem, os investidores estão procurando por receita e lucros que justifiquem os custos do desenvolvimento de IA a longo prazo. A escalada de juros nos EUA e a instabilidade nos mercados estão aumentando a pressão sobre as ações de tecnologia.",
+      "sentimento": "bearish",
+      "tags": [
+        "tecnologia",
+        "inflação",
+        "mercado de ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "Microsoft set for $190 billion market value swing after earnings results ...",
+      "url": "https://www.reuters.com/business/finance/microsoft-set-190-billion-market-value-swing-after-earnings-results-options-2026-07-29",
+      "fonte": "reuters.com",
+      "data": "2026-07-29",
+      "resumo": "A Microsoft está prestes a experimentar um movimento significativo em seu valor de mercado após os resultados financeiros, com investidores esperando sinais de que as investidas em inteligência artificial estão gerando retornos. A empresa é considerada uma história de renda importante relacionada à inteligência artificial, e os investidores estão monitorando a execução da empresa nesse setor. Além disso, a Meta também está sob escrutínio por sua despesa em inteligência artificial.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "Meta"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "The Stock Market Is Not Overvalued, Yet",
+      "url": "https://seekingalpha.com/article/4925855-the-stock-market-is-not-overvalued-yet",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-27",
+      "resumo": "Apesar de riscos geopolíticos e medos de inflação, o crescimento das receitas do S&P 500 atingiu 39,3%, apoiando continuadas ganhas no mercado. O investimento em capex com IA provavelmente atingiu seu pico em ações de hardware e semicondutores, com múltiplos reverteindo à medida que o ciclo amadurece. Valuações para índices principais permanecem razoáveis, desde que o crescimento das receitas persista.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Economia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "Bovespa Index Today (IBOV) - Investing.com",
+      "url": "https://www.investing.com/indices/bovespa",
+      "fonte": "investing.com",
+      "data": "2026-07-29",
+      "resumo": "O índice Bovespa (IBOV) está apresentando uma variedade de movimentos, com alguns ativos aumentando e outros diminuindo. O PETR4 (Petroleo Brasileiro SA PN) está em alta de 2,16%, enquanto o B3SA3 (B3 SA Brasil Bolsa Balcao) está em queda de 3,00%. Além disso, o PRIO3 (Prio ON) é o maior ganhador do dia, com um aumento de 2,96%.",
+      "sentimento": "neutral",
+      "tags": [
+        "Bovespa",
+        "Petroleo",
+        "Ações",
+        "Mercado"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-micron-amd-sink-after-sk-hynix-results-fail-to-impress-ai-trade-unwinds-130352334.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-29",
+      "resumo": "A cotação de ações de empresas ligadas à tecnologia e à Inteligência Artificial (IA) caiu após a divulgação de resultados de SK Hynix, que não atenderam às expectativas dos investidores. A empresa registrou um lucro operacional recorde no segundo trimestre, mas o aumento foi inferior ao esperado, levando a preocupações sobre a sustentabilidade do investimento em IA.",
+      "sentimento": "bearish",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 66
+    },
+    {
+      "titulo": "Café: o que separa preço alto de equilíbrio real | Investing.com",
+      "url": "https://br.investing.com/analysis/cafe-o-que-separa-preco-alto-de-equilibrio-real-200478688",
+      "fonte": "br.investing.com",
+      "data": "2026-07-29",
+      "resumo": "O artigo não apresenta uma notícia específica sobre IA ou tecnologia, mas sim uma lista de notícias e ações em destaque no mercado brasileiro. Além disso, há uma seção de ProPicks IA que seleciona ações com histórico de ganhos acima do S&P 500 usando inteligência artificial.",
+      "sentimento": "neutral",
+      "tags": [
+        "[Mercado de Ações",
+        "Brasil",
+        "Inteligência Artificial]"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 58
+    }
+  ]
+}

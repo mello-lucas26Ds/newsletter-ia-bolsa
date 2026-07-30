@@ -1,11 +1,133 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-07-29",
-    "total_noticias": 122,
-    "gerado_em": "2026-07-29T12:02:14.106715"
+    "data": "2026-07-30",
+    "total_noticias": 107,
+    "gerado_em": "2026-07-30T05:38:24.406493"
   },
   "noticias": [
+    {
+      "titulo": "Meta to report Q2 earnings amid AI investing concerns",
+      "url": "https://finance.yahoo.com/news/meta-misses-on-q2-earnings-stock-tumbles-121325403.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-28",
+      "resumo": "Meta está programado para divulgar seus resultados financeiros do segundo trimestre após o sino, oferecendo aos investidores uma visão sobre os investimentos da empresa em inteligência artificial e se eles estão gerando resultados positivos. A empresa enfrenta desafios para recuperar seu desempenho no mercado e os investidores questionam os planos de investimento da CEO Mark Zuckerberg. A empresa anunciou um acordo com a BlackRock para construir um centro de dados de $14 bilhões em Texas.",
+      "sentimento": "bearish",
+      "tags": [
+        "Meta",
+        "AI",
+        "Inteligência Artificial",
+        "Earnings"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 86
+    },
+    {
+      "titulo": "Could an AI market crash rival 2000 or 2008? Unlikely",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/could-an-ai-market-crash-rival-2000-or-2008-unlikely-2026-07-29",
+      "fonte": "reuters.com",
+      "data": "2026-07-29",
+      "resumo": "A crise no mercado de tecnologia pode parecer alarmante, com a Nasdaq perto de uma correção de 10% e o índice de semicondutores em uma tendência de mercado baixa. No entanto, os analistas consideram que a situação atual é diferente das crises de 2000 e 2008, devido à valoração razoável das empresas e à lucratividade de muitas delas.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 93
+    },
+    {
+      "titulo": "Market warning signals flare again as tech, inflation fears intensify",
+      "url": "https://www.reuters.com/business/finance/global-markets-stress-graphic-2026-07-28",
+      "fonte": "reuters.com",
+      "data": "2026-07-28",
+      "resumo": "O mercado está alertando para sinais de alerta novamente, com medo de tecnologia e inflação aumentando. Embora os lucros das empresas de tecnologia estejam vindo bem, os investidores estão procurando por receita e lucros que justifiquem os custos do desenvolvimento de IA a longo prazo. A escalada de juros nos EUA e a instabilidade nos mercados estão aumentando a pressão sobre as ações de tecnologia.",
+      "sentimento": "bearish",
+      "tags": [
+        "tecnologia",
+        "inflação",
+        "mercado de ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "Microsoft set for $190 billion market value swing after earnings results ...",
+      "url": "https://www.reuters.com/business/finance/microsoft-set-190-billion-market-value-swing-after-earnings-results-options-2026-07-29",
+      "fonte": "reuters.com",
+      "data": "2026-07-29",
+      "resumo": "A Microsoft está prestes a experimentar um movimento significativo em seu valor de mercado após os resultados financeiros, com investidores esperando sinais de que as investidas em inteligência artificial estão gerando retornos. A empresa é considerada uma história de renda importante relacionada à inteligência artificial, e os investidores estão monitorando a execução da empresa nesse setor. Além disso, a Meta também está sob escrutínio por sua despesa em inteligência artificial.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "Meta"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "The Stock Market Is Not Overvalued, Yet",
+      "url": "https://seekingalpha.com/article/4925855-the-stock-market-is-not-overvalued-yet",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-27",
+      "resumo": "Apesar de riscos geopolíticos e medos de inflação, o crescimento das receitas do S&P 500 atingiu 39,3%, apoiando continuadas ganhas no mercado. O investimento em capex com IA provavelmente atingiu seu pico em ações de hardware e semicondutores, com múltiplos reverteindo à medida que o ciclo amadurece. Valuações para índices principais permanecem razoáveis, desde que o crescimento das receitas persista.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Economia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "Bovespa Index Today (IBOV) - Investing.com",
+      "url": "https://www.investing.com/indices/bovespa",
+      "fonte": "investing.com",
+      "data": "2026-07-29",
+      "resumo": "O índice Bovespa (IBOV) está apresentando uma variedade de movimentos, com alguns ativos aumentando e outros diminuindo. O PETR4 (Petroleo Brasileiro SA PN) está em alta de 2,16%, enquanto o B3SA3 (B3 SA Brasil Bolsa Balcao) está em queda de 3,00%. Além disso, o PRIO3 (Prio ON) é o maior ganhador do dia, com um aumento de 2,96%.",
+      "sentimento": "neutral",
+      "tags": [
+        "Bovespa",
+        "Petroleo",
+        "Ações",
+        "Mercado"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-micron-amd-sink-after-sk-hynix-results-fail-to-impress-ai-trade-unwinds-130352334.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-29",
+      "resumo": "A cotação de ações de empresas ligadas à tecnologia e à Inteligência Artificial (IA) caiu após a divulgação de resultados de SK Hynix, que não atenderam às expectativas dos investidores. A empresa registrou um lucro operacional recorde no segundo trimestre, mas o aumento foi inferior ao esperado, levando a preocupações sobre a sustentabilidade do investimento em IA.",
+      "sentimento": "bearish",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 66
+    },
+    {
+      "titulo": "Café: o que separa preço alto de equilíbrio real | Investing.com",
+      "url": "https://br.investing.com/analysis/cafe-o-que-separa-preco-alto-de-equilibrio-real-200478688",
+      "fonte": "br.investing.com",
+      "data": "2026-07-29",
+      "resumo": "O artigo não apresenta uma notícia específica sobre IA ou tecnologia, mas sim uma lista de notícias e ações em destaque no mercado brasileiro. Além disso, há uma seção de ProPicks IA que seleciona ações com histórico de ganhos acima do S&P 500 usando inteligência artificial.",
+      "sentimento": "neutral",
+      "tags": [
+        "[Mercado de Ações",
+        "Brasil",
+        "Inteligência Artificial]"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 58
+    },
     {
       "titulo": "What's Going on With Micron Technology Stock Monday? - Micron Technology (NASDAQ:MU)",
       "url": "https://www.benzinga.com/markets/tech/26/07/60689048/wall-street-sees-little-threat-to-micron-from-chinas-new-memory-giant",
@@ -828,22 +950,6 @@
       "tokens_usados": 44
     },
     {
-      "titulo": "U.S. Data-Center Operator TECfusions Plans to Go Public in $4 Billion SPAC Deal - WSJ",
-      "url": "https://www.wsj.com/finance/investing/u-s-data-center-operator-tecfusions-plans-to-go-public-in-4-billion-spac-deal-e3f54495",
-      "fonte": "wsj.com",
-      "data": "2026-07-22",
-      "resumo": "A empresa de centros de dados TECfusions, sediada na Flórida, planeja se tornar pública após uma combinação com a Apex Treasury, uma empresa de aquisição especializada listada em Nova York, em um acordo avaliado em cerca de 4 bilhões de dólares. A empresa opera um dos maiores clusters de treinamento de inteligência artificial baseado em AMD da América do Norte. A transação está prevista para ser concluída no quarto trimestre e a empresa começará a ser negociada na NASDAQ.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Data-Center",
-        "SPAC",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 89
-    },
-    {
       "titulo": "Stripe in talks to acquire AI startup OpenRouter for ~$10B",
       "url": "https://seekingalpha.com/news/4617795-stripe-in-talks-to-acquire-ai-startup-openrouter-for-10b---report",
       "fonte": "seekingalpha.com",
@@ -1026,21 +1132,6 @@
       "tokens_usados": 112
     },
     {
-      "titulo": "Analysis-AI investment boom puts Big Tech's free cash flow under pressure",
-      "url": "https://finance.yahoo.com/technology/ai/articles/analysis-ai-investment-boom-puts-050142660.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-22",
-      "resumo": "A corrida de investimentos em IA está pressionando o fluxo de caixa livre das grandes tecnologias, com expectativa de aumento de $340 bilhões em fluxo de caixa operacional em 2027, mas capex previsto de $534 bilhões. Investidores estarão atentos às declarações de lucro para ver se a rápida expansão de receita de nuvem e IA pode acompanhar o aumento de despesas.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Fluxo de Caixa"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 72
-    },
-    {
       "titulo": "A new group of stocks is transforming global equities markets. Meet ‘Memi,’ the $3 trillion sector fueled by AI’s insatiable hunger for memory chips",
       "url": "https://finance.yahoo.com/markets/stocks/articles/group-stocks-transforming-global-equities-195039352.html",
       "fonte": "finance.yahoo.com",
@@ -1072,21 +1163,6 @@
       "tokens_usados": 43
     },
     {
-      "titulo": "AI investment boom puts Big Tech's free cash flow under ...",
-      "url": "https://www.reuters.com/business/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-2026-07-22",
-      "fonte": "reuters.com",
-      "data": "2026-07-22",
-      "resumo": "A corrida de investimentos em IA está colocando a disponibilidade de caixa líquido das grandes empresas de tecnologia em xeque. Embora as empresas esperem gerar mais de $340 bilhões em caixa operacional em 2027 do que em 2025, o aumento das despesas de capital está previsto em cerca de $534 bilhões. Investidores estarão procurando sinais de que o crescimento rápido na receita de nuvem e IA possa manter o ritmo com o aumento das despesas.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Investimentos"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 84
-    },
-    {
       "titulo": "My 3 Favorite AI Stocks to Buy Right Now",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-favorite-ai-stocks-buy-174300730.html",
       "fonte": "finance.yahoo.com",
@@ -1100,21 +1176,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 82
-    },
-    {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.03% By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-003-4804196",
-      "fonte": "investing.com",
-      "data": "2026-07-22",
-      "resumo": "As ações brasileiras fecharam em baixa, com o Índice Bovespa caindo 0,03%. As principais ações que contribuíram para a queda incluem TEL, GEV, APP, CB, SNDK, DASH e NOW.",
-      "sentimento": "bearish",
-      "tags": [
-        "Bovespa",
-        "ações brasileiras",
-        "mercado de ações"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 41
     },
     {
       "titulo": "Blackstone Profits Surge 26% on AI Investments  - WSJ",
@@ -1161,21 +1222,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 68
-    },
-    {
-      "titulo": "Alphabet Earnings Could Lift These 3 Top AI Infrastructure Stocks",
-      "url": "https://seekingalpha.com/article/4924349-alphabet-earnings-could-lift-these-3-top-ai-infrastructure-stocks",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-22",
-      "resumo": "A Alphabet pode impulsionar as ações de 3 principais empresas de infraestrutura de IA, devido aos seus resultados financeiros. Essas empresas são especializadas em tecnologia de IA e podem se beneficiar da tendência positiva da Alphabet. O Head de Estratégia Quantitativa da Seeking Alpha analisa a situação e destaca as oportunidades de investimento.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 62
     },
     {
       "titulo": "Microsoft, Meta, Nvidia, and Palantir have a message for Washington - Business Insider",
@@ -1390,36 +1436,6 @@
       "tokens_usados": 60
     },
     {
-      "titulo": "The REIT Recovery Broadens Beyond Rates | Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4924172-the-reit-recovery-broadens-beyond-rates",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-22",
-      "resumo": "A recuperação dos REITs (Real Estate Investment Trusts) está se expandindo além das taxas de juros. A temporada de resultados de REITs está começando, com mais de 200 empresas de REITs de ações e hipotecárias, além de dezenas de construtores e empresas de habitação, que apresentarão resultados nos próximos meses. Isso pode ser um sinal de que a recuperação dos REITs está se tornando mais ampla e está além das expectativas de mudanças nas taxas de juros.",
-      "sentimento": "bullish",
-      "tags": [
-        "REITs",
-        "Imóveis",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 88
-    },
-    {
-      "titulo": "IREN's $4 Billion ARR Changes Everything",
-      "url": "https://seekingalpha.com/article/4924271-irens-4-billion-arr-changes-everything",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-22",
-      "resumo": "A IREN Limited alcançou um objetivo de $4 bilhões em ARR (Receita Anual Recorrente) para suas soluções de nuvem de inteligência artificial, com cerca de 85% desses contratos assinados por períodos de vários anos. Isso melhora significativamente a visibilidade de receita e reduz o risco de diluição de ações. No entanto, há uma desconexão significativa na avaliação se a execução for bem-sucedida, com previsões de receita de $728 milhões em FY2026, muito abaixo do objetivo da empresa.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Earnings"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 86
-    },
-    {
       "titulo": "Alphabet’s capex shock raises stakes for Mag 7 earnings - CNBC",
       "url": "https://www.cnbc.com/video/2026/07/23/alphabets-capex-shock-raises-stakes-for-mag-7-earnings.html",
       "fonte": "cnbc.com",
@@ -1433,21 +1449,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 69
-    },
-    {
-      "titulo": "Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more - CNBC",
-      "url": "https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-after-hours-googl-tsla-ibm-lvs.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-22",
-      "resumo": "As ações de várias empresas tiveram movimentos significativos após o fechamento do mercado. Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow e outras estiveram entre as principais atuais. As ações de Las Vegas Sands e SL Green Realty caíram após os resultados financeiros não atenderem às expectativas, enquanto a QuantumScape e a Texas Instruments também tiveram declínios. Por outro lado, a United Rentals subiu 10% após superar as expectativas e aumentar a previsão.",
-      "sentimento": "bearish",
-      "tags": [
-        "Tech",
-        "Finance",
-        "Earnings"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 81
     },
     {
       "titulo": "'Magnificent Seven' firms need to prove AI spending is paying off: Citi Research - CNBC",
@@ -1576,21 +1577,6 @@
       "tokens_usados": 60
     },
     {
-      "titulo": "South Korea's tech rally isn't over, but 2 markets stand out as better AI bets, a research firm says - Business Insider",
-      "url": "https://www.businessinsider.com/kospi-stock-index-sky-hynix-samsung-nikkei-japan-taiwan-tsmc-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-22",
-      "resumo": "Pesquisadores da TS Lombard acreditam que a corrida tecnológica da Coreia do Sul não terminou, mas identificaram dois mercados que oferecem apostas melhores em IA. A empresa alerta, no entanto, sobre o ciclo de memória, que pode afetar a indústria de tecnologia.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Coreia do Sul"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 119
-    },
-    {
       "titulo": "AMD takes a shot at Nvidia by betting on AI's next big shift - Business Insider",
       "url": "https://www.businessinsider.com/amd-cerebras-partner-ai-inference-helios-system-2026-7",
       "fonte": "businessinsider.com",
@@ -1636,111 +1622,6 @@
       "tokens_usados": 57
     },
     {
-      "titulo": "Reddit stock sinks on report it may not renew Google AI ...",
-      "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-22",
-      "resumo": "A ação da Reddit caiu após relatório de que a empresa pode não renovar seu acordo de $60 milhões por ano com a Google para uso de conteúdo de IA. Embora as negociações estejam em andamento, a notícia causou preocupação entre os investidores. A Reddit também tem um acordo semelhante com a OpenAI, que permite ao fabricante de ChatGPT treinar seus modelos de IA com conteúdo da plataforma.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 77
-    },
-    {
-      "titulo": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter",
-      "fonte": "techcrunch.com",
-      "data": "2026-07-22",
-      "resumo": "Uma rumor sobre a aquisição da Anthropic e da Physical Intelligence foi compartilhada no Twitter, afirmando que a Anthropic é uma das principais empresas de inteligência artificial. Embora a informação inicial tenha sido considerada falsa, foi revelado que as duas empresas realmente tiveram conversas de aquisição no início da primavera.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Inteligência Artificial",
-        "Rumores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 60
-    },
-    {
-      "titulo": "Chip Stocks Surge as SK hynix, Micron Lead AI-Fueled Rally - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-surge-sk-hynix-174430156.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-22",
-      "resumo": "Ações de semicondutores subiram na terça-feira, com a SK hynix e a Micron Technology liderando as ganhas, enquanto investidores continuam a favorar fabricantes de memória devido à expectativa de forte demanda relacionada à inteligência artificial. A SK hynix subiu cerca de 9% e a Micron Technology ganhou cerca de 7%, adicionando ao seu desempenho forte em 2026.",
-      "sentimento": "bullish",
-      "tags": [
-        "Semicondutores",
-        "Inteligência Artificial",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "Powerful rally! This Wall Street AI winner with 500% share price jump is not your typical chip stock - The Economic Times",
-      "url": "https://m.economictimes.com/markets/us-stocks/news/powerful-rally-this-wall-street-ai-winner-with-500-share-price-jump-is-not-your-typical-chip-stock/articleshow/132538639.cms",
-      "fonte": "m.economictimes.com",
-      "data": "2026-07-22",
-      "resumo": "A GE Vernova experimentou um crescimento de 500% desde sua spin-off em 2024, tornando-se uma importante jogada de infraestrutura de IA. Investidores estão apostando no aumento da demanda por eletricidade em centros de dados, impulsionando ordens, backlog e orientação. O crescimento forte nas áreas de energia, eletrificação e turbinas a gás está impulsionando a corrida além das ações de chip tradicionais focadas em IA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Energia",
-        "Infraestrutura"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 73
-    },
-    {
-      "titulo": "A veteran investor says this is the most important AI capex number that markets should watch - Business Insider",
-      "url": "https://www.businessinsider.com/tech-earnings-ai-capex-hyperscalers-msft-nvda-gene-munster-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-22",
-      "resumo": "Um investidor experiente afirma que o número mais importante de investimento em infraestrutura de IA que os mercados devem observar é a taxa de crescimento das receitas, que ele espera ultrapassar 20% ao ano nos próximos anos. Isso, segundo ele, criaria um cenário favorável para as ações de infraestrutura de IA, pois o crescimento das receitas superaria a queda nos múltiplos de valorização.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Microsoft",
-        "Investing"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 72
-    },
-    {
-      "titulo": "Google justifies its massive AI spending with a booming cloud business - TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "fonte": "techcrunch.com",
-      "data": "2026-07-22",
-      "resumo": "A Alphabet, empresa matriz da Google, apresentou resultados financeiros impressionantes, com lucro de $112,1 bilhão e crescimento de 24% na receita em relação ao mesmo período do ano anterior. A empresa justificou seu investimento massivo em IA com o crescimento do negócio de nuvem, que alcançou $94,5 bilhões em receita. O CEO Sundar Pichai destacou a \"mudança de paradigma\" causada pelos investimentos em IA na empresa.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Cloud Computing",
-        "Google"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 76
-    },
-    {
-      "titulo": "Alphabet earnings put the AI spending boom under scrutiny - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/22/alphabet-earnings-put-the-ai-spending-boom-under-scrutiny.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-22",
-      "resumo": "A Alphabet apresentou resultados financeiros que levantam questionamentos sobre o boom de investimentos em inteligência artificial. Investidores estão procurando por crescimento de receita no cloud e lucros estáveis na busca para justificar um investimento de capital de cerca de 300 bilhões de dólares no próximo ano, previsto pelo Bank of America.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Financeiro"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 60
-    },
-    {
       "titulo": "Why we're sticking with Alphabet despite an imperfect quarter and more AI spending - CNBC",
       "url": "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html",
       "fonte": "cnbc.com",
@@ -1754,112 +1635,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 63
-    },
-    {
-      "titulo": "This cloud infrastructure stock has slid in recent months. Truist sees a bounce ahead - CNBC",
-      "url": "https://www.cnbc.com/2026/07/22/coreweave-has-slid-in-recent-months-truist-is-betting-on-a-bounce.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-22",
-      "resumo": "A analista Truist Securities recomenda que os investidores comprem ações da CoreWeave antes que o preço bata em um teto, após a empresa ter sido atualizada para uma recomendação de compra. A empresa de infraestrutura de nuvem tem caído 35% nos últimos três meses, mas a analista Arvind Ramnani vê um potencial de recuperação de 58% do preço atual. A CoreWeave é uma das principais empresas de nuvem e tem uma liderança no mercado, mas enfrenta concorrência de outras empresas, incluindo a Meta.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Nuvem",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 92
-    },
-    {
-      "titulo": "Asia stocks climb on tech gains, KOSPI surges 5%; Middle East tensions simmer - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-climb-on-tech-gains-kospi-surges-5-middle-east-tensions-simmer-4804620",
-      "fonte": "investing.com",
-      "data": "2026-07-22",
-      "resumo": "Ações asiáticas subiram devido a ganhos em tecnologia, com o KOSPI aumentando 5%. No entanto, futuros ligados à Índia caíram 0,8% até o meio-dia. Investidores estão tentando avaliar se os ganhos em tecnologia poderão ser mantidos após os resultados de grandes empresas americanas.",
-      "sentimento": "bullish",
-      "tags": [
-        "tecnologia",
-        "mercados asiáticos",
-        "resultados de empresas"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 55
-    },
-    {
-      "titulo": "AI has not killed equity diversification: Helen Jewell - Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/ai-has-not-killed-equity-diversification-helen-jewell-2026-07-22/",
-      "fonte": "reuters.com",
-      "data": "2026-07-22",
-      "resumo": "A expansão da tecnologia de inteligência artificial (IA) nos últimos anos não invalidou a diversificação de investimentos em ações. Embora os stocks de IA tenham dobrado de valor em um ano, a diversificação não foi uma estratégia recompensadora. A saúde, por outro lado, tem sido um bom diversificador, pois não tem uma relação direta com os stocks de IA. No entanto, a expansão da IA pode mudar essa dinâmica.",
-      "sentimento": "neutral",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Diversificação"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 146
-    },
-    {
-      "titulo": "AI investment boom puts Big Tech's free cash flow under pressure - Reuters",
-      "url": "https://www.reuters.com/business/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-2026-07-22/",
-      "fonte": "reuters.com",
-      "data": "2026-07-22",
-      "resumo": "A corrida por investimentos em IA está colocando pressão nos fluxos de caixa livres das grandes tecnologias. A Oracle está preocupada, com suas ações tendo perdido 36% de valor este ano, enquanto seu fluxo de caixa livre se tornou negativo. A empresa planeja aumentar $45 bilhões a $50 bilhões por meio de dívida e ações para financiar a expansão da infraestrutura de nuvem.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Big Tech"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 73
-    },
-    {
-      "titulo": "The Anthropic-Physical Intelligence rumor roiling AI Twitter - TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "fonte": "techcrunch.com",
-      "data": "2026-07-22",
-      "resumo": "Um rumor sobre a possível aquisição da startup de robótica Physical Intelligence pela Anthropic gerou uma grande reação no Twitter. Embora a startup tenha negado a notícia, foi revelado que as duas empresas realmente mantiveram conversas de aquisição no início do ano. A Physical Intelligence é uma startup de renome, com mais de $1 bilhão de investimento e um modelo de robótica amplamente utilizado na pesquisa.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Robótica",
-        "Startups"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 109
-    },
-    {
-      "titulo": "Trump's push for American-made AI chips hits TSMC's margins - CNBC",
-      "url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-22",
-      "resumo": "A TSMC anunciou um investimento adicional de $100 bilhões nos EUA, após a ameaça de Trump de tarifas para empresas que não produzem produtos americanos. Embora a empresa tenha visto um aumento de 100% em seu capital de mercado nos últimos 12 meses, os lucros trimestrais foram afetados pela expansão internacional.",
-      "sentimento": "bearish",
-      "tags": [
-        "Semiconductor",
-        "AI",
-        "Economia",
-        "Política"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 102
-    },
-    {
-      "titulo": "Wistron shares surge in Taiwan after opening of Texas AI superchip plant to supply Nvidia - CNBC",
-      "url": "https://www.cnbc.com/2026/07/22/wistron-shares-surge-after-opening-texas-plant-for-nvidia-ai-servers-.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-22",
-      "resumo": "A Wistron, uma empresa taiwanesa, viu suas ações subir após a abertura de uma fábrica de chips de IA em Texas, que fornecerá componentes para a Nvidia. A fábrica, que custou US$ 700 milhões, produzirá chips avançados de processamento de IA e expandirá sua capacidade para produzir chips críticos para o próximo geração de computação de IA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Nvidia",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 66
     }
   ]
 }
