@@ -1,72 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-surge-sk-hynix-174430156.html": {
-    "hash": "1e517085d704c1c04c0cc1063994ba4e",
-    "visto_em": "2026-07-23"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-jumps-1-chip-192526254.html": {
-    "hash": "54d0f31e6674f093892ab3f00bb9bb7d",
-    "visto_em": "2026-07-23"
-  },
-  "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html": {
-    "hash": "063d3983befecbb110cb8bb09083093b",
-    "visto_em": "2026-07-23"
-  },
-  "https://seekingalpha.com/news/4616000-micron-jumps-12-on-bofa-note-chip-rally": {
-    "hash": "4bf41b177f3875c126401a4eedab3de4",
-    "visto_em": "2026-07-23"
-  },
-  "https://m.economictimes.com/markets/us-stocks/news/powerful-rally-this-wall-street-ai-winner-with-500-share-price-jump-is-not-your-typical-chip-stock/articleshow/132538639.cms": {
-    "hash": "7391ba15da30c779b881f2c092432397",
-    "visto_em": "2026-07-23"
-  },
-  "https://www.businessinsider.com/tech-earnings-ai-capex-hyperscalers-msft-nvda-gene-munster-2026-7": {
-    "hash": "839833f66e22dbc40f9423542744028d",
-    "visto_em": "2026-07-23"
-  },
-  "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/": {
-    "hash": "340065d17300553cf3348288644c6975",
-    "visto_em": "2026-07-23"
-  },
-  "https://www.cnbc.com/video/2026/07/22/alphabet-earnings-put-the-ai-spending-boom-under-scrutiny.html": {
-    "hash": "cb4ff794d07259b2b7356c6c65976a74",
-    "visto_em": "2026-07-23"
-  },
-  "https://www.cnbc.com/2026/07/22/why-were-sticking-with-alphabet-despite-an-imperfect-quarter-and-more-ai-spending.html": {
-    "hash": "53aef3c62c71296809755c6b2cd10ca9",
-    "visto_em": "2026-07-23"
-  },
-  "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html": {
-    "hash": "c961dc29048793b7cf86007dcb819d4b",
-    "visto_em": "2026-07-23"
-  },
-  "https://www.bloomberg.com/news/articles/2026-07-21/us-stock-futures-rise-as-chipmaker-rebound-overshadows-iran-war": {
-    "hash": "c26c06675d396b869b536c206a24c641",
-    "visto_em": "2026-07-23"
-  },
-  "https://www.cnbc.com/video/2026/07/23/lyn-alden-ai-demand-is-here-but-profits-remain-the-biggest-question.html": {
-    "hash": "c32023fc7f8af8993b6e8b5c9599d8e7",
-    "visto_em": "2026-07-23"
-  },
-  "https://www.cnbc.com/video/2026/07/22/alphabet-earnings-test-investor-patience-with-the-ai-spending-boom.html": {
-    "hash": "ab13c05b9a4ac27ca2fad7cee315c331",
-    "visto_em": "2026-07-23"
-  },
-  "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit": {
-    "hash": "d5277e34f2f2c97a7411103c131dbc03",
-    "visto_em": "2026-07-23"
-  },
-  "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html": {
-    "hash": "d1d63e4744afe01620180aa4375482d6",
-    "visto_em": "2026-07-23"
-  },
-  "https://www.reuters.com/business/microsoft-fund-mistrals-european-ai-expansion-multibillion-dollar-deal-2026-07-21": {
-    "hash": "32e9ec7da99288ac0d33b402984e0580",
-    "visto_em": "2026-07-23"
-  },
-  "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter": {
-    "hash": "ee59865373d15f8a83b2efdca9030a9f",
-    "visto_em": "2026-07-23"
-  },
   "https://www.cnbc.com/video/2026/07/24/magnificent-seven-need-to-prove-ai-spend-is-paying-off-citi-research.html": {
     "hash": "a702bf3d326d88f1dec938a85d0c8a05",
     "visto_em": "2026-07-24"
@@ -554,5 +486,41 @@
   "https://www.moneytimes.com.br/cotacoes": {
     "hash": "d05443f266e6072dae0d4eb86e8a8b37",
     "visto_em": "2026-07-30"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-blast-off-micron-144436659.html": {
+    "hash": "ad605eafec80ae5ceea1bd9afe486fc0",
+    "visto_em": "2026-07-31"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tsmcs-next-ai-chip-move-195343067.html": {
+    "hash": "0fa06b19061eef9dedfa82424481fde3",
+    "visto_em": "2026-07-31"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-28-7-191401816.html": {
+    "hash": "80a1694b919d710f5a528b193149088e",
+    "visto_em": "2026-07-31"
+  },
+  "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html": {
+    "hash": "af4a58b6bbdf63bd80937a5185e01533",
+    "visto_em": "2026-07-31"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-jumps-7-microsoft-195100756.html": {
+    "hash": "b02df2b1e1ec19d6294dc4297f96e0a7",
+    "visto_em": "2026-07-31"
+  },
+  "https://seekingalpha.com/news/4621765-nasdaq-100-surges-3-as-microsoft-and-semis-drive-broad-tech-rally": {
+    "hash": "5a0a65f14edc449658a3786c8ffe5f40",
+    "visto_em": "2026-07-31"
+  },
+  "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents": {
+    "hash": "36e575b0592ecbde807e53f381c5d679",
+    "visto_em": "2026-07-31"
+  },
+  "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25": {
+    "hash": "6af62cc2ad55953c08777b4c5027046b",
+    "visto_em": "2026-07-31"
+  },
+  "https://www.businessinsider.com/legora-acquires-legal-ai-startup-wexler-consolidation-2026-7": {
+    "hash": "f84a1befffa1116d15d257caca867c5f",
+    "visto_em": "2026-07-31"
   }
 }

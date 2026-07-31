@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-07-31",
+    "total_noticias": 9,
+    "gerado_em": "2026-07-31T06:10:16.039580"
+  },
+  "noticias": [
+    {
+      "titulo": "Memory Stocks Blast Off: Micron, SK Hynix, SanDisk ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-blast-off-micron-144436659.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-30",
+      "resumo": "As ações de memória, como Micron, SK Hynix e SanDisk, estão tendo um desempenho positivo, impulsionadas por fundamentos industriais favoráveis e sentimento de mercado mais forte. A continuidade da recuperação da tecnologia e a força do NASDAQ 100 podem proporcionar apoio adicional às ações de semicondutores. No entanto, os investidores devem manter suas posições moderadas, pois as ações de semicondutores podem permanecer voláteis.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "TSMC's next AI chip move sends Intel stock soaring",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmcs-next-ai-chip-move-195343067.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-30",
+      "resumo": "A TSMC está desenvolvendo uma nova tecnologia de embalagem de chips avançados semelhante à abordagem da Intel, o que levou a uma alta de 12% nas ações da Intel e 7% nas ações da TSMC. A tecnologia, que conecta múltiplos componentes de chips com pontes de silício, permite processadores maiores e mais complexos, melhorando a eficiência e reduzindo os custos de fabricação.",
+      "sentimento": "bullish",
+      "tags": [
+        "TSM",
+        "Intel",
+        "AI",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "Cathie Wood Invests $28.7 Million in Two High-Stakes ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-28-7-191401816.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-30",
+      "resumo": "Cathie Wood investiu US$ 28,7 milhões em ações da TSMC e da SpaceX. A ARK comprou 37.916 ações da TSMC, valorizadas em cerca de US$ 14,2 milhões, e 128.932 ações da SpaceX, valorizadas em aproximadamente US$ 14,5 milhões. Essas compras reforçam a exposição da ARK ao maior fabricante de chips contratados do mundo e ao líder da indústria de foguetes.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
+      "url": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-28",
+      "resumo": "Empresas de Wall Street estão desenvolvendo agentes de investimento com IA para operar 24 horas por dia, enquanto investidores de retalho testam ferramentas de IA para ajudar nas decisões de investimento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Finanças",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 40
+    },
+    {
+      "titulo": "TSMC Stock Jumps 7% as Microsoft Revives AI-Chip Trade",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-jumps-7-microsoft-195100756.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-30",
+      "resumo": "A TSMC, a maior fabricante de chips sob encomenda do mundo, subiu aproximadamente 7% na quarta-feira em decorrência dos resultados de Microsoft, que renovaram a confiança dos investidores na demanda por infraestrutura de inteligência artificial. A empresa gerou um faturamento de US$ 40,2 bilhões no segundo trimestre, um aumento de 36% em termos de novo dólar taiwanês. A TSMC também superou as expectativas em termos de margem bruta e operacional.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "Nasdaq-100 surges 3% as Microsoft and semis drive broad tech rally",
+      "url": "https://seekingalpha.com/news/4621765-nasdaq-100-surges-3-as-microsoft-and-semis-drive-broad-tech-rally",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-30",
+      "resumo": "O Índice Nasdaq-100 subiu 3,3% na quarta-feira, enquanto o Índice Nasdaq Composite avançou 2,6% em uma sessão forte que elevou o complexo tecnológico mais amplo. A alta ocorreu um dia após a Reserva Federal manter as taxas de juros estáveis.",
+      "sentimento": "bullish",
+      "tags": [
+        "Nasdaq",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 81
+    },
+    {
+      "titulo": "Cyera agrees to acquire Oasis Security for $1B to safeguard ...",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents",
+      "fonte": "techcrunch.com",
+      "data": "2026-07-29",
+      "resumo": "A Cyera acordou a compra da Oasis Security por US$ 1 bilhão para proteger a identidade e os dados. A Cyera planeja integrar a tecnologia da Oasis em uma plataforma de segurança unificada. A empresa já ultrapassou US$ 150 milhões em receita recorrente anual (ARR) e tem cerca de US$ 2,3 bilhões em financiamento total.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Cyera",
+        "Mergers and Acquisitions",
+        "Security"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "Samsung Elec, SK Group seal $950 bln deals as South ...",
+      "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
+      "fonte": "reuters.com",
+      "data": "2026-07-25",
+      "resumo": "A Samsung Eletrônica e o Grupo SK selaram acordos de $950 bilhões para desenvolver tecnologia de inteligência artificial (IA) em parceria com empresas de tecnologia dos EUA. Os acordos incluem a criação de clusters de produção de semicondutores, ecossistemas físicos de IA e centros de dados de IA. A Coreia do Sul busca atrair investimentos e parceiros tecnológicos para impulsionar seu programa de IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Tecnologia Coreana"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Legora Acquires Legal AI Startup Wexler in Fifth Acquisition in 2026 - Business Insider",
+      "url": "https://www.businessinsider.com/legora-acquires-legal-ai-startup-wexler-consolidation-2026-7",
+      "fonte": "businessinsider.com",
+      "data": "2026-07-29",
+      "resumo": "A Legora adquiriu a startup de inteligência artificial Wexler, especializada em litigios, em sua quinta aquisição em 2026. A Wexler desenvolveu software que ajuda advogados a reconstruir casos a partir de milhares de documentos, permitindo que eles identifiquem conflitos entre a evidência e as declarações de testemunhas. Com essa aquisição, a Legora busca se tornar mais útil para advogados de julgamentos.",
+      "sentimento": "bullish",
+      "tags": [
+        "M&A",
+        "AI",
+        "Legora"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 70
+    }
+  ]
+}
