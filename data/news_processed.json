@@ -2,10 +2,55 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-07-31",
-    "total_noticias": 97,
-    "gerado_em": "2026-07-31T06:10:16.041795"
+    "total_noticias": 100,
+    "gerado_em": "2026-07-31T11:59:35.643544"
   },
   "noticias": [
+    {
+      "titulo": "Wall Street ends sharply higher, lifted by soaring Microsoft",
+      "url": "https://www.reuters.com/business/us-stock-futures-steady-microsoft-offsets-fed-concerns-2026-07-30",
+      "fonte": "reuters.com",
+      "data": "2026-07-30",
+      "resumo": "A Wall Street terminou com um aumento significativo, impulsionado pela alta de Microsoft. Apesar de empresas de tecnologia relatarem lucros fortes, investidores estão preocupados com os custos crescentes da IA. A declínio do fluxo de caixa de Alphabet e Tesla e a queda de Meta após relatar um declínio de 91% no fluxo de caixa livre da segunda quinzena também contribuíram para a volatilidade no mercado.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Wall Street"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "Earnings call transcript: Samsung Electronics posts record Q2 2026 profit as AI demand surges",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-samsung-electronics-posts-record-q2-2026-profit-as-ai-demand-surges-93CH-4822292",
+      "fonte": "investing.com",
+      "data": "2026-07-30",
+      "resumo": "A Samsung Electronics divulgou resultados record para o 2º trimestre de 2026, com receita que cresceu 28% em relação ao trimestre anterior, chegando a KRW 171,5 trilhões, e lucro operacional que subiu 56% para KRW 89,5 trilhões, impulsionado pela demanda por produtos de memória relacionados à IA, SSDs de servidores e serviços de fundição avançados. A ação da empresa permaneceu estável em início de negociação, com as ações em $2,670, caindo 1,11% em relação ao fechamento anterior de $2,700.",
+      "sentimento": "bullish",
+      "tags": [
+        "Samsung",
+        "AI",
+        "Semicondutores"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 88
+    },
+    {
+      "titulo": "AI cloud provider Nscale to buy software startup Anyscale",
+      "url": "https://www.reuters.com/business/ai-cloud-provider-nscale-buy-software-startup-anyscale-2026-07-30",
+      "fonte": "reuters.com",
+      "data": "2026-07-30",
+      "resumo": "A Nscale, provedora de nuvem de inteligência artificial, adquiriu a startup de software Anyscale por cerca de $1,65 bilhão. A Anyscale fornece software para organizar e gerenciar tarefas complexas de inteligência artificial, permitindo que elas sejam executadas de forma eficiente em vários computadores ao mesmo tempo. A Anyscale continuará a operar sob sua marca e servir seus clientes existentes.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Cloud Computing",
+        "Startup"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 69
+    },
     {
       "titulo": "Memory Stocks Blast Off: Micron, SK Hynix, SanDisk ...",
       "url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-blast-off-micron-144436659.html",
