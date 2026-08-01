@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-08-01",
+    "total_noticias": 6,
+    "gerado_em": "2026-08-01T05:53:06.939470"
+  },
+  "noticias": [
+    {
+      "titulo": "Top Chip Analyst: Semiconductor Oversupply Is Nearly Impossible Before 2028. Why He’s Bullish on Memory",
+      "url": "https://finance.yahoo.com/technology/articles/top-chip-analyst-semiconductor-oversupply-122247883.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-31",
+      "resumo": "O analista de chips, Caso, afirma que a superprodução de semicondutores é quase impossível antes de 2028, devido à falta de espaço físico na TSMC e à demanda acelerada de AI. Ele é otimista em relação à memória, pois os fornecedores estão severamente limitados em sua capacidade de produção. NVIDIA e AMD apresentaram resultados recordes, com a demanda de data center aumentando 57% e 199%, respectivamente.",
+      "sentimento": "bullish",
+      "tags": [
+        "Semiconductor",
+        "AI",
+        "NVIDIA",
+        "AMD"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "SanDisk Leads Memory Stock Rally — Here's What's Fueling the Bounce Back - Micron Technology (NASDAQ:MU), - Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60803849/sandisk-leads-memory-stock-rally-heres-whats-fueling-the-bounce-back",
+      "fonte": "benzinga.com",
+      "data": "2026-07-30",
+      "resumo": "A ação da SanDisk liderou uma recuperação nos preços das ações de memória, impulsionada por uma melhoria estrutural na indústria de memória impulsionada pela demanda relacionada à inteligência artificial (IA). A UBS iniciou cobertura sobre as ações da SK Hynix com uma recomendação de compra e preço-alvo de $204, argumentando que a ação não reflete plenamente a melhoria estrutural da indústria.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 137
+    },
+    {
+      "titulo": "BigBear.ai Before Q2 Earnings: Buy, Sell or Hold the Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-q2-earnings-buy-140600906.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-29",
+      "resumo": "BigBear.ai apresentou um primeiro trimestre estável de 2026, com receitas de $34,4 milhões que permaneceram quase inalteradas em relação ao ano anterior. A empresa melhorou significativamente a margem bruta para 34% e obteve vários contratos de defesa e IA de alta valor, elevando o estoque de 14% sequencialmente para $281,9 milhões. A empresa também terminou o trimestre com um forte $431,5 milhões em caixa e investimentos. A empresa reafirmou sua orientação de receita para todo o ano de 2026, de $135-$165 milhões, refletindo confiança em seu cenário de crescimento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Defesa",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 98
+    },
+    {
+      "titulo": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
+      "url": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-31",
+      "resumo": "Investidores estão escolhendo os vencedores da IA durante essa temporada de resultados, com as ações de gigantes tecnológicos divergindo. Amazon, Microsoft e Alphabet adicionaram quase $1,5 trilhão em valor combinado essa semana, enquanto Meta caiu 8% e Apple perdeu mais de $350 bilhões de valor de mercado.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Megacaps"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 56
+    },
+    {
+      "titulo": "AMD Stock Is Gaining Wednesday: What's Going On? - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60752479/amd-stock-is-gaining-wednesday-whats-going-on",
+      "fonte": "benzinga.com",
+      "data": "2026-07-29",
+      "resumo": "A ação da AMD está subindo na quarta-feira, com expectativas de lucro elevadas para o próximo trimestre. A empresa é esperada para relatar lucro de $1,55 por ação, um aumento de 48 centavos em relação ao mesmo período do ano passado. A empresa é uma das principais holdings em vários ETFs de semicondutores e tecnologia, o que pode influenciar significativamente o preço da ação.",
+      "sentimento": "bullish",
+      "tags": [
+        "AMD",
+        "Semicondutores",
+        "Tecnologia",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Brazil Market Trading Resumes After Widespread Halt Hits B3",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/brazil-market-open-delayed-as-b3-exchange-sees-processing-issues",
+      "fonte": "bloomberg.com",
+      "data": "2026-07-31",
+      "resumo": "A Bolsa de Valores de São Paulo (B3) sofreu um atraso de mais de três horas em sua abertura, deixando traders sem informações sobre as cotações de ações. A causa do atraso ainda não foi divulgada. A Bolsa de Valores de São Paulo é a principal plataforma de negociação de ações no Brasil.",
+      "sentimento": "neutral",
+      "tags": [
+        "B3",
+        "Bolsa de Valores",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 4.0,
+      "tokens_usados": 66
+    }
+  ]
+}
