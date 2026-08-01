@@ -1,85 +1,98 @@
 # Newsletter IA Bolsa — 2026-08-01
 
-**Gerado em:** 01/08/2026 05:53
-**Total:** 6 noticias
+**Gerado em:** 01/08/2026 11:17
+**Total:** 7 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Top Chip Analyst: Semiconductor Oversupply Is Nearly Impossible Before 2028. Why He’s Bullish on Memory
+## 1. Nasdaq falls 3% in July, driven by worst month for chips since financial crisis
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 8.0/10  
+**Tags:** NASDAQ, AI, Tecnologia
+
+A NASDAQ caiu 3% em julho, impulsionada pelo pior mês para as ações de chips desde a crise financeira. No entanto, a Wall Street registrou ganhos significativos na quarta-feira, com a S&P 500 subindo 1,7%, o Dow Jones Industrial Average subindo 1,2% e a NASDAQ Composite subindo 2,8%. As ações de tecnologia foram as melhores do dia, com a Microsoft Corporation ajudando a dissipar preocupações sobre gastos de capital excessivos em inteligência artificial.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-upbeat-amazon-earnings-apple-slides-4826634)
+
+---
+
+## 2. IREN Ltd. (IREN) is Gaining Momentum. This Tech Giant May Be Playing a Big Role
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** Semiconductor, AI, NVIDIA, AMD
+**Tags:** IREN, AI, NASDAQ
 
-O analista de chips, Caso, afirma que a superprodução de semicondutores é quase impossível antes de 2028, devido à falta de espaço físico na TSMC e à demanda acelerada de AI. Ele é otimista em relação à memória, pois os fornecedores estão severamente limitados em sua capacidade de produção. NVIDIA e AMD apresentaram resultados recordes, com a demanda de data center aumentando 57% e 199%, respectivamente.
+A IREN Ltd. (NASDAQ:IREN) registrou um aumento de 30,54% em sua ação, após a empresa ter sido adquirida pelo fundo de investimentos Citadel LLC, após a perda de valor de suas ações em seis dias consecutivos. O aumento da ação foi reforçado pela declaração de crescimento de gastos em capital de Microsoft para 2027, que reforçou a confiança dos investidores na demanda por infraestrutura de inteligência artificial.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/articles/top-chip-analyst-semiconductor-oversupply-122247883.html)
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/iren-ltd-iren-gaining-momentum-013647455.html)
 
 ---
 
-## 2. SanDisk Leads Memory Stock Rally — Here's What's Fueling the Bounce Back - Micron Technology (NASDAQ:MU), - Benzinga
+## 3. Microsoft Stock Price Rally After Earnings Provides Blueprint for AI Trade - Business Insider
 
-**Fonte:** benzinga.com  
+**Fonte:** businessinsider.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
+**Tags:** Microsoft, AI, Tecnologia
 
-A ação da SanDisk liderou uma recuperação nos preços das ações de memória, impulsionada por uma melhoria estrutural na indústria de memória impulsionada pela demanda relacionada à inteligência artificial (IA). A UBS iniciou cobertura sobre as ações da SK Hynix com uma recomendação de compra e preço-alvo de $204, argumentando que a ação não reflete plenamente a melhoria estrutural da indústria.
+A Microsoft apresentou um relatório de lucros que contrastou com o de sua concorrente Meta, levando a uma grande reação no mercado. A empresa de tecnologia mostrou crescimento forte em sua plataforma de nuvem Azure, alimentada por inteligência artificial, e não aumentou suas projeções de gastos. Isso levou a uma grande subida no preço das ações da Microsoft, com um aumento de até 16%. O mercado de ações também foi reanimado, com o S&P 500, Dow Jones e Nasdaq 100 apresentando ganhos significativos.
 
-[Ler noticia completa](https://www.benzinga.com/trading-ideas/movers/26/07/60803849/sandisk-leads-memory-stock-rally-heres-whats-fueling-the-bounce-back)
-
----
-
-## 3. BigBear.ai Before Q2 Earnings: Buy, Sell or Hold the Stock?
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Defesa, Tecnologia
-
-BigBear.ai apresentou um primeiro trimestre estável de 2026, com receitas de $34,4 milhões que permaneceram quase inalteradas em relação ao ano anterior. A empresa melhorou significativamente a margem bruta para 34% e obteve vários contratos de defesa e IA de alta valor, elevando o estoque de 14% sequencialmente para $281,9 milhões. A empresa também terminou o trimestre com um forte $431,5 milhões em caixa e investimentos. A empresa reafirmou sua orientação de receita para todo o ano de 2026, de $135-$165 milhões, refletindo confiança em seu cenário de crescimento.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-q2-earnings-buy-140600906.html)
+[Ler noticia completa](https://www.businessinsider.com/microsoft-stock-price-q2-earnings-meta-ai-trade-azure-spending-2026-7)
 
 ---
 
-## 4. Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week
+## 4. Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Tecnologia, Megacaps
+**Relevancia:** 9.0/10  
+**Tags:** Microsoft, Meta, AI, Tecnologia
 
-Investidores estão escolhendo os vencedores da IA durante essa temporada de resultados, com as ações de gigantes tecnológicos divergindo. Amazon, Microsoft e Alphabet adicionaram quase $1,5 trilhão em valor combinado essa semana, enquanto Meta caiu 8% e Apple perdeu mais de $350 bilhões de valor de mercado.
+A Microsoft teve seu valor de ações aumentado em 15% na quarta-feira, enquanto a Meta caiu quase 8% após a divulgação de resultados financeiros divergentes. A Microsoft superou as expectativas de receita e relatou um crescimento de 43% na sua unidade de nuvem Azure, enquanto a Meta falhou em atender às expectativas e previu uma receita menor do que o esperado para o trimestre atual.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html)
+[Ler noticia completa](https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html)
 
 ---
 
-## 5. AMD Stock Is Gaining Wednesday: What's Going On? - Advanced Micro Devices (NASDAQ:AMD) - Benzinga
+## 5. Advanced Micro Devices, Inc. (AMD) Stock Price, News, Quote & History - Yahoo Finance
 
-**Fonte:** benzinga.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AMD, Semicondutores, Tecnologia, NASDAQ
+**Tags:** AI, Semicondutores, Tecnologia
 
-A ação da AMD está subindo na quarta-feira, com expectativas de lucro elevadas para o próximo trimestre. A empresa é esperada para relatar lucro de $1,55 por ação, um aumento de 48 centavos em relação ao mesmo período do ano passado. A empresa é uma das principais holdings em vários ETFs de semicondutores e tecnologia, o que pode influenciar significativamente o preço da ação.
+A AMD está prestes a relatar resultados financeiros, com analistas prevendo forte crescimento de receita impulsionado pela demanda de centros de dados. Recentes desenvolvimentos incluem o aumento da despesa de Amazon em IA e o compromisso da CEO Lisa Su com a produção de cargas de trabalho de IA, aumentando a otimismo dos investidores. A AMD está focada em IA e tecnologia, com CEO que reforça a importância da área.
 
-[Ler noticia completa](https://www.benzinga.com/markets/tech/26/07/60752479/amd-stock-is-gaining-wednesday-whats-going-on)
+[Ler noticia completa](https://finance.yahoo.com/quote/AMD)
 
 ---
 
-## 6. Brazil Market Trading Resumes After Widespread Halt Hits B3
+## 6. The ceiling for shares of Meta is lower after its earnings report, analysts say
 
-**Fonte:** bloomberg.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 4.0/10  
-**Tags:** B3, Bolsa de Valores, Mercado de Ações
+**Fonte:** cnbc.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** Meta, AI, Tecnologia
 
-A Bolsa de Valores de São Paulo (B3) sofreu um atraso de mais de três horas em sua abertura, deixando traders sem informações sobre as cotações de ações. A causa do atraso ainda não foi divulgada. A Bolsa de Valores de São Paulo é a principal plataforma de negociação de ações no Brasil.
+Analistas financeiros dizem que o teto para as ações da Meta está mais baixo após o relatório de resultados, devido à falta de atualizações significativas sobre o progresso dos modelos de ponta e à priorização da inteligência de vendas em detrimento do cálculo. No entanto, algumas firmas mantêm uma visão positiva sobre a empresa, destacando a força dos fundamentos e a capacidade de gerar lucros para financiar suas ambições em IA.
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-31/brazil-market-open-delayed-as-b3-exchange-sees-processing-issues)
+[Ler noticia completa](https://www.cnbc.com/2026/07/30/the-ceiling-for-shares-of-meta-is-lower-after-its-earnings-report-analysts-say.html)
+
+---
+
+## 7. TSMC is moving in on Intel’s turf; Why Intel is up anyway
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** Intel, TSMC, IA, Tecnologia
+
+A TSMC está se aproximando do território da Intel, mas a empresa ainda está subindo devido aos relatórios de lucro positivos de empresas como Microsoft e Meta, que reforçaram a demanda por chips para a infraestrutura de IA.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-moving-intel-turf-why-135723456.html)
 
 ---
