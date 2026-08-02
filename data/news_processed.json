@@ -1,11 +1,133 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-01",
+    "data": "2026-08-02",
     "total_noticias": 94,
-    "gerado_em": "2026-08-01T11:17:12.537791"
+    "gerado_em": "2026-08-02T05:54:30.883592"
   },
   "noticias": [
+    {
+      "titulo": "Cathie Wood buys $14.3 million of tumbling semiconductor ...",
+      "url": "https://au.finance.yahoo.com/news/cathie-wood-buys-14-3-020700579.html",
+      "fonte": "au.finance.yahoo.com",
+      "data": "2026-07-31",
+      "resumo": "A analista financeira Cathie Wood comprou $14.3 milhões de ações da Nvidia, cujo preço caiu 6,57% nas últimas cinco sessões de negociação. A empresa tem um preço de mercado baixo, com um ratio de preço-lucro futuro de 17,53, seu menor desde abril de 2015. Wood também comprou ações de outras empresas, incluindo Taiwan Semiconductor e Tesla.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "Nasdaq leads Wall Street gains as Amazon rally offsets Apple decline",
+      "url": "https://www.reuters.com/business/nasdaq-100-leads-us-futures-higher-amazon-surge-offsets-apple-decline-2026-07-31",
+      "fonte": "reuters.com",
+      "data": "2026-07-31",
+      "resumo": "A Nasdaq liderou as ganhas da Wall Street, com a recuperação da Amazon compensando a declínio da Apple. A Amazon relatou o maior crescimento de receita em quatro anos, seguido por relatórios semelhantes de Microsoft e Alphabet. Isso levou os investidores a ignorar a grande queda nos fluxos de caixa dos empresas e a focar nos sinais de que as investidas nos líderes de IA estão começando a pagar.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "NASDAQ",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 78
+    },
+    {
+      "titulo": "U.S. Stocks Rally After Microsoft Earnings",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rally-after-microsoft-earnings-4f058c06",
+      "fonte": "wsj.com",
+      "data": "2026-07-30",
+      "resumo": "Ações de empresas americanas se recuperaram após o relatório de lucros da Microsoft, que mostrou crescimento significativo em sua unidade de computação em nuvem e ganhos em uma participação na Anthropic. Isso revelou o potencial de retorno para investimentos em inteligência artificial. No entanto, a Meta Platforms relatou que seu gasto em centros de dados está afetando o fluxo de caixa livre.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "NASDAQ",
+        "Microsoft"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 71
+    },
+    {
+      "titulo": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
+      "url": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-31",
+      "resumo": "O fundo hedge Situational Awareness enfrentou problemas, mesmo em um mercado de ações relativamente estável. A queda dos preços de ações de empresas de tecnologia, incluindo fabricantes de chips e centros de dados, foi seguida por uma recuperação no Nasdaq Composite. No entanto, alguns investidores, como Michael Burry, continuam a ser céticos em relação ao setor de inteligência artificial.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 70
+    },
+    {
+      "titulo": "TSMC works on new advanced chip packaging similar to Intel: report",
+      "url": "https://seekingalpha.com/news/4621814-tsmc-works-on-new-advanced-chip-packaging-similar-to-intel-report",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-30",
+      "resumo": "A TSMC está trabalhando em uma nova tecnologia de embalagem de chips avançada, semelhante à utilizada pela Intel, de acordo com um relatório da _The Information_. Esta tecnologia visa atrair novos clientes para a fábrica da Intel.",
+      "sentimento": "bullish",
+      "tags": [
+        "TSMC",
+        "Intel",
+        "Tecnologia de Embalagem de Chips",
+        "Fábrica de Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 53
+    },
+    {
+      "titulo": "Earnings call transcript: Kioxia Q1 2026 profit surges, stock ...",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kioxia-q1-2026-profit-surges-stock-jumps-18-93CH-4826967",
+      "fonte": "investing.com",
+      "data": "2026-07-31",
+      "resumo": "A Kioxia anunciou um aumento significativo no lucro no primeiro trimestre de 2026, com uma receita e lucro operacional em níveis recordes. A empresa está investindo em tecnologias de IA e big data para melhorar a produtividade e atender às demandas crescentes. Além disso, a Kioxia está planejando uma aquisição de ações, que será realizada entre 3 de agosto e 30 de outubro de 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Nvidia Stock Is Stagnating — But The Fundamentals Aren't (NASDAQ:NVDA)",
+      "url": "https://seekingalpha.com/article/4926233-nvidia-stock-is-stagnating-but-the-fundamentals-arent",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-28",
+      "resumo": "A Nvidia está apresentando um desempenho estagnado no mercado, mas os fundamentos da empresa não indicam problemas. A empresa continua a crescer com uma taxa de crescimento de 70,68% ao ano, e a sua participação no mercado de GPUs e TPU é dominante.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "NVIDIA"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 103
+    },
+    {
+      "titulo": "ADBE Stock At Near Two-Month Highs After FTC Grants Early Approval For Adobe’s Acquisition Of Topaz Labs",
+      "url": "https://finance.yahoo.com/technology/ai/articles/adbe-stock-near-two-month-163945228.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-30",
+      "resumo": "A Adobe (ADBE) atinge níveis próximos aos dois meses mais altos após a FTC conceder aprovação prévia para a aquisição da Topaz Labs. A Topaz Labs trará sua tecnologia Neurostream, que permite executar modelos de IA complexos diretamente no hardware local sem depender da computação em nuvem. A equipe da Topaz Labs continuará liderada pelo CEO Eric Yang, e os produtos Topaz permanecerão acessíveis aos usuários atuais.",
+      "sentimento": "bullish",
+      "tags": [
+        "ADBE",
+        "Adobe",
+        "Topaz Labs",
+        "IA"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 78
+    },
     {
       "titulo": "Nasdaq falls 3% in July, driven by worst month for chips since financial crisis",
       "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-upbeat-amazon-earnings-apple-slides-4826634",
@@ -358,21 +480,6 @@
       "tokens_usados": 67
     },
     {
-      "titulo": "Samsung Elec, SK Group seal $950 bln deals as South ...",
-      "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-      "fonte": "reuters.com",
-      "data": "2026-07-25",
-      "resumo": "A Samsung Eletrônica e o Grupo SK selaram acordos de $950 bilhões para desenvolver tecnologia de inteligência artificial (IA) em parceria com empresas de tecnologia dos EUA. Os acordos incluem a criação de clusters de produção de semicondutores, ecossistemas físicos de IA e centros de dados de IA. A Coreia do Sul busca atrair investimentos e parceiros tecnológicos para impulsionar seu programa de IA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Tecnologia Coreana"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
-    },
-    {
       "titulo": "Legora Acquires Legal AI Startup Wexler in Fifth Acquisition in 2026 - Business Insider",
       "url": "https://www.businessinsider.com/legora-acquires-legal-ai-startup-wexler-consolidation-2026-7",
       "fonte": "businessinsider.com",
@@ -584,21 +691,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 83
-    },
-    {
-      "titulo": "TSMC Stock: I Was Wrong (NYSE:TSM)",
-      "url": "https://seekingalpha.com/article/4925591-tsmc-i-was-wrong",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-25",
-      "resumo": "A TSMC está sendo negociada acima do valor justo estimado de $344,33 por ação, mesmo com suposições agressivas, indicando uma margem de segurança limitada nos níveis atuais.",
-      "sentimento": "bearish",
-      "tags": [
-        "TSMC",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 36
     },
     {
       "titulo": "5 big analyst AI moves: Several top picks named into Q2 ...",
@@ -1150,21 +1242,6 @@
       "tokens_usados": 72
     },
     {
-      "titulo": "AI's new North Star: Intelligence per dollar - Business Insider",
-      "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-25",
-      "resumo": "A inteligência artificial (IA) está se tornando cada vez mais importante, e o conceito de \"inteligência por dólar\" está se tornando um novo norte para a indústria. Isso significa que a IA deve ser capaz de realizar tarefas complexas de forma eficiente e econômica. A indústria está buscando formas de melhorar a inteligência por dólar, com foco em tecnologias como processamento de linguagem natural e aprendizado de máquina.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Artificial Intelligence",
-        "Tech"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 173
-    },
-    {
       "titulo": "America's Most Powerful Banker Just Confirmed It: I Want These 5 Stocks, Not The Market - Seeking Alpha",
       "url": "https://seekingalpha.com/article/4924923-americas-most-powerful-banker-just-confirmed-it-i-want-these-5-stocks-not-market",
       "fonte": "seekingalpha.com",
@@ -1346,37 +1423,6 @@
       "tokens_usados": 71
     },
     {
-      "titulo": "Tempus AI Stock Before Q2 Earnings Release: To Buy, Hold or Sell?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tempus-ai-stock-q2-earnings-150300575.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-25",
-      "resumo": "A Tempus AI, Inc. está prestes a divulgar seus resultados financeiros do 2º trimestre de 2026. A empresa tem apresentado resultados acima das expectativas em três dos últimos quatro trimestres, com uma média de surpresa negativa de 6,58%. A estimativa de receita para o 2º trimestre é de $381,6 milhões, o que representa um crescimento de 21,3% em relação ao mesmo período do ano anterior.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Oncologia",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 125
-    },
-    {
-      "titulo": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push - CNBC",
-      "url": "https://www.cnbc.com/2026/07/25/samsung-electronics-wins-200-billion-broadcom-ai-chip-partnership.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-25",
-      "resumo": "A Samsung Electronics e a Broadcom anunciaram uma parceria de $200 bilhões para desenvolver chips de IA, reforçando a posição da Samsung no mercado de semicondutores de IA. A parceria visa combinar a expertise da Broadcom em design de circuitos integrados de aplicação específica com as capacidades de fabricação da Samsung. A colaboração também inclui o desenvolvimento de memórias de alta banda.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Samsung",
-        "Broadcom"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 72
-    },
-    {
       "titulo": "A top fund manager unpacks why he's sticking with AI infrastructure, and flags 2 lesser-known stocks he's betting on - Business Insider",
       "url": "https://www.businessinsider.com/ai-hardware-stock-picks-to-buy-capex-beneficiaries-strl-sitm-2026-7",
       "fonte": "businessinsider.com",
@@ -1390,52 +1436,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 77
-    },
-    {
-      "titulo": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-25",
-      "resumo": "A DeepSeek, uma empresa de inteligência artificial chinesa, suspendeu sua segunda rodada de financiamento após comentários do fundador Liang Wenfeng terem sido amplamente divulgados na internet. A empresa havia planejado aumentar sua capacidade de processamento, mas agora pode escolher retomar o processo de financiamento em um momento futuro. A suspensão foi motivada pela frustração de Liang com relatos online sobre seus comentários a investidores durante o primeiro financiamento, que arrecadou US$ 7 bilhões em junho.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "China",
-        "Financiamento"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 112
-    },
-    {
-      "titulo": "S&P 500, Nasdaq fall as investors juggle earnings, Mideast risks and tariffs By Reuters",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-after-tech-rout-mideast-tariffs-in-focus-4810955",
-      "fonte": "investing.com",
-      "data": "2026-07-25",
-      "resumo": "O S&P 500 e o Nasdaq caíram na sexta-feira, com preocupações sobre o gasto em inteligência artificial (IA) predominando sobre os resultados de empresas, enquanto os investidores também ponderavam novos impostos e riscos crescentes do conflito no Oriente Médio. A Intel anunciou lucros e receita acima das estimativas de Wall Street, mas suas ações caíram 3,8% apesar dos resultados positivos.",
-      "sentimento": "bearish",
-      "tags": [
-        "S&P 500",
-        "Nasdaq",
-        "Intel",
-        "Semicondutores"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 71
-    },
-    {
-      "titulo": "Which AI model is the best stock trader? A finance professor says he's got the answer. - Business Insider",
-      "url": "https://www.businessinsider.com/best-ai-for-trading-stocks-deepseek-claude-chatgpt-grok-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-25",
-      "resumo": "Um professor de finanças afirma ter encontrado a resposta para qual modelo de IA é o melhor trader de ações. Ele apresenta o DeepSeek, que alcançou um retorno de 76% em um ano, contra 27% do S&P 500. O DeepSeek é gerido por um aplicativo chamado Autopilot, que permite a outros traders copiar as suas decisões de investimento.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Investing",
-        "Stock Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 68
     }
   ]
 }

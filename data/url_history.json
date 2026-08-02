@@ -1,56 +1,4 @@
 {
-  "https://www.reuters.com/technology/digital-realty-raises-annual-ffo-forecast-robust-data-center-demand-2026-07-23": {
-    "hash": "8f0e5856333f483ea73f8682bc096289",
-    "visto_em": "2026-07-25"
-  },
-  "https://seekingalpha.com/article/4925351-micron-is-a-strong-buy-again-because-of-kimi-k3": {
-    "hash": "4cad148c6371cc7ebf52cbd54d8a3455",
-    "visto_em": "2026-07-25"
-  },
-  "https://www.cnbc.com/2026/07/24/stocks-making-the-biggest-moves-premarket-intc-orcl-axp.html": {
-    "hash": "8ba856104a645b0fade01fdc3bea2679",
-    "visto_em": "2026-07-25"
-  },
-  "https://www.cnbc.com/2026/07/24/amd-has-more-than-doubled-in-2026-it-has-more-room-to-run-ubs-says.html": {
-    "hash": "22bc05fbb5ea1af0c2197d5330eae5d1",
-    "visto_em": "2026-07-25"
-  },
-  "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html": {
-    "hash": "944aa479c7e5bb644cc4b831c7cc86b7",
-    "visto_em": "2026-07-25"
-  },
-  "https://seekingalpha.com/article/4924886-top-healthcare-stocks-beyond-the-market-rotation-averaging-128-percent-forward-eps-growth": {
-    "hash": "9a67226fafa1b07432e2e11c9c74fd5c",
-    "visto_em": "2026-07-25"
-  },
-  "https://www.forbes.com/sites/eriksherman/2026/07/24/big-tech-starts-to-feel-the-ai-cash-burn/": {
-    "hash": "85aa07fc1a360ce842c5f46f7cae5968",
-    "visto_em": "2026-07-25"
-  },
-  "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/": {
-    "hash": "f1a5dbf71306ae7c7ba7f9bf6f3178ce",
-    "visto_em": "2026-07-25"
-  },
-  "https://www.cnbc.com/2026/07/24/1-hyperscaler-megacap-down-3-to-go-alphabet-raises-the-stakes-on-ai-spending.html": {
-    "hash": "d39bb7b827f9aec04d37fa84f3541752",
-    "visto_em": "2026-07-25"
-  },
-  "https://www.businessinsider.com/best-ai-for-trading-stocks-deepseek-claude-chatgpt-grok-2026-7": {
-    "hash": "97988015933e8cdc9f3d30bc770b3d63",
-    "visto_em": "2026-07-25"
-  },
-  "https://seekingalpha.com/article/4924349-alphabet-earnings-could-lift-these-3-top-ai-infrastructure-stocks": {
-    "hash": "f88c565978585a0f7dfc261d4c097987",
-    "visto_em": "2026-07-25"
-  },
-  "https://www.businessinsider.com/microsoft-nvidia-meta-palantir-jensen-huang-open-source-ai-letter-2026-7": {
-    "hash": "6ffe19162e11f72381538dfb640eae57",
-    "visto_em": "2026-07-25"
-  },
-  "https://www.cnbc.com/video/2026/07/24/appleas-anti-capex-ai-strategy-pays-off-as-shares-lead-the-mag7.html": {
-    "hash": "0d6bee08150b4720033d8d2939a7ca70",
-    "visto_em": "2026-07-25"
-  },
   "https://finance.yahoo.com/technology/ai/articles/analysis-ai-investment-boom-puts-050142660.html": {
     "hash": "70b587bfc6ffc1f35e518b882ce7ad22",
     "visto_em": "2026-07-26"
@@ -510,5 +458,37 @@
   "https://finance.yahoo.com/markets/stocks/articles/tsmc-moving-intel-turf-why-135723456.html": {
     "hash": "94943fbb7ed456a935db8364a959c93d",
     "visto_em": "2026-08-01"
+  },
+  "https://au.finance.yahoo.com/news/cathie-wood-buys-14-3-020700579.html": {
+    "hash": "efafb525aa6a8f1d5bfd0e69912dc4e4",
+    "visto_em": "2026-08-02"
+  },
+  "https://www.reuters.com/business/nasdaq-100-leads-us-futures-higher-amazon-surge-offsets-apple-decline-2026-07-31": {
+    "hash": "5753cffaaff5b1c2477938fc3e6255d9",
+    "visto_em": "2026-08-02"
+  },
+  "https://www.wsj.com/finance/stocks/u-s-stocks-rally-after-microsoft-earnings-4f058c06": {
+    "hash": "30fee4b9a1c229463c8bdfb4e832256c",
+    "visto_em": "2026-08-02"
+  },
+  "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html": {
+    "hash": "64f03213dd8a33efd1f99d55fda332fe",
+    "visto_em": "2026-08-02"
+  },
+  "https://seekingalpha.com/news/4621814-tsmc-works-on-new-advanced-chip-packaging-similar-to-intel-report": {
+    "hash": "211ca6575ab9de953822a58f27210fa2",
+    "visto_em": "2026-08-02"
+  },
+  "https://www.investing.com/news/transcripts/earnings-call-transcript-kioxia-q1-2026-profit-surges-stock-jumps-18-93CH-4826967": {
+    "hash": "41643affdef3808dc5c4585fd63f9e89",
+    "visto_em": "2026-08-02"
+  },
+  "https://seekingalpha.com/article/4926233-nvidia-stock-is-stagnating-but-the-fundamentals-arent": {
+    "hash": "8f8fab2aa2ab5c8c4f88ecd4d14b2dc1",
+    "visto_em": "2026-08-02"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/adbe-stock-near-two-month-163945228.html": {
+    "hash": "9b3f32b0e563d035b8a2101fe60b4fe0",
+    "visto_em": "2026-08-02"
   }
 }
