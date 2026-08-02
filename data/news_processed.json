@@ -2,10 +2,101 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-02",
-    "total_noticias": 94,
-    "gerado_em": "2026-08-02T05:54:30.883592"
+    "total_noticias": 100,
+    "gerado_em": "2026-08-02T11:16:21.761495"
   },
   "noticias": [
+    {
+      "titulo": "1 AI Stock I’d Buy Before It Hits Another All-Time High",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-ai-stock-d-buy-180013623.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-01",
+      "resumo": "O analista Vandita Jadeja recomenda a compra da ação da Taiwan Semiconductor Manufacturing (TSM) antes que ela atinja outro recorde histórico. A empresa registrou um aumento de 77% na lucratividade no 2º trimestre, mas as ações estão 15% abaixo do recorde histórico. O analista acredita que a empresa pode atingir US$ 550 por ação, desde que mantenha a liderança no mercado de silício e continue a crescer com a demanda por inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "Taiwan"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 82
+    },
+    {
+      "titulo": "Chipmaker Kioxia reports AI-driven 45-fold surge in quarterly net profit",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chipmaker-kioxia-reports-ai-driven-074122130.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-07-31",
+      "resumo": "A empresa de chips Kioxia relatou um aumento de 45 vezes no lucro líquido trimestral, impulsionado por tecnologia de inteligência artificial (IA). Embora as estimativas de analistas tenham sido superadas, as ações da empresa perderam mais da metade de seu valor nos últimos 30 dias. No entanto, elas ainda estão em alta de cerca de 1.500% nos últimos 12 meses.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 121
+    },
+    {
+      "titulo": "ICON stock surges 7% on Anthropic AI partnership for trials",
+      "url": "https://za.investing.com/news/stock-market-news/icon-stock-surges-7-on-anthropic-ai-partnership-for-trials-93CH-4390222",
+      "fonte": "za.investing.com",
+      "data": "2026-07-28",
+      "resumo": "A ação da ICON surgiu 7% após a empresa anunciar uma parceria com a Anthropic AI para realizar testes. Embora o conteúdo da notícia seja limitado, é possível inferir que a parceria é positiva para a empresa.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 48
+    },
+    {
+      "titulo": "Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal, sources say",
+      "url": "https://www.reuters.com/world/eric-trump-backed-defense-technology-company-space-eyes-go-public-638-million-2026-07-31",
+      "fonte": "reuters.com",
+      "data": "2026-07-31",
+      "resumo": "A empresa de tecnologia de defesa Space-Eyes, apoiada por Eric Trump, está se tornando pública por meio de uma fusão com a McKinley Acquisition Corp, em um acordo avaliado em US$ 638 milhões. A empresa desenvolve produtos como o SeaWatch, uma plataforma de inteligência marítima, e o Morpheus, um sistema de detecção e mitigação de ameaças aéreas não tripuladas. A fusão está prevista para ser concluída no quarto trimestre de 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "Tecnologia de Defesa",
+        "SPAC",
+        "Nasdaq"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 82
+    },
+    {
+      "titulo": "The AI Trade Faces A Final Flush Lower, I'm Buying It",
+      "url": "https://seekingalpha.com/article/4925686-the-ai-trade-faces-a-final-flush-lower-im-buying-it",
+      "fonte": "seekingalpha.com",
+      "data": "2026-07-26",
+      "resumo": "O autor da publicação está comprando ações de uma empresa de tecnologia que está enfrentando dificuldades, acreditando que o preço está baixo e que a empresa tem potencial de recuperação. Ele destaca a importância de democratizar a literacia financeira e de não ser intimidado por jargões financeiros complexos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 59
+    },
+    {
+      "titulo": "Uber is building an autonomous vehicle empire, and here's ...",
+      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker",
+      "fonte": "techcrunch.com",
+      "data": "2026-08-01",
+      "resumo": "A Uber está construindo um império de veículos autônomos, anunciando parcerias e planos para lançar uma frota global de veículos autônomos em 2027 e 2028. A empresa está trabalhando com a Nvidia para desenvolver a plataforma de veículos autônomos e está em parceria com a Pony.ai e a Wayve para lançar robotaxis em várias cidades.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Veículos Autônomos",
+        "Uber",
+        "Nvidia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 66
+    },
     {
       "titulo": "Cathie Wood buys $14.3 million of tumbling semiconductor ...",
       "url": "https://au.finance.yahoo.com/news/cathie-wood-buys-14-3-020700579.html",
