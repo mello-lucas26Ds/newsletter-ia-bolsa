@@ -1,98 +1,98 @@
 # Newsletter IA Bolsa — 2026-08-03
 
-**Gerado em:** 03/08/2026 06:19
+**Gerado em:** 03/08/2026 12:55
 **Total:** 7 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. US Stocks Rally to End a Turbulent Month; Amazon Jumps 15% - Bloomberg
+## 1. SoundHound AI's Next Earnings Report on Aug. 5 Could ...
 
-**Fonte:** bloomberg.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Tecnologia, NASDAQ
+**Relevancia:** 5.0/10  
+**Tags:** AI, NASDAQ, Inteligência Artificial
 
-A bolsa de valores dos EUA registrou um aumento no final de um mês turbulento, com a Amazon liderando o avanço com um salto de 15% após resultados impressionantes. A corrida por inteligência artificial impulsionou uma ampla gama de empresas, levando a um aumento nos índices S&P 500 e Nasdaq 100.
+A SoundHound AI está programada para divulgar seus resultados financeiros do segundo trimestre em 5 de agosto. A empresa precisa de uma atualização positiva, pois suas ações perderam mais de 40% de valor desde o início de 2026. No entanto, os analistas da Wall Street permanecem otimistas em relação à empresa de inteligência artificial.
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-07-31/futures-rise-as-everything-ai-rallies-on-amazon-s-blowout-growth)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/soundhound-ais-next-earnings-report-214501723.html)
 
 ---
 
-## 2. Asia stocks fall; KOSPI erases 5% gains despite strong ...
+## 2. Jim Cramer Can’t Help But Gloat At Apple Inc (NASDAQ:AAPL)’s AI Developments
 
-**Fonte:** investing.com  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Apple, NASDAQ
+
+Jim Cramer elogia os desenvolvimentos de inteligência artificial da Apple Inc (NASDAQ:AAPL), considerando-a um "abrigo seguro" para investimentos em AI. A empresa tem uma base de usuários massiva e tem sido capaz de manter suas margens fortes por meio de medidas de preços. No entanto, os críticos questionam se a base de usuários da Apple Inc (NASDAQ:AAPL) é suficiente para monetizar suas iniciativas de AI.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/jim-cramer-t-help-gloat-023735112.html)
+
+---
+
+## 3. Magnificent 7 results set to test broadening US stock market
+
+**Fonte:** reuters.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 6.0/10  
-**Tags:** Semiconductor, AI, NASDAQ
+**Tags:** AI, Semicondutores, Tecnologia, Bolsa de Valores
 
-A bolsa asiática caiu, com o índice KOSPI perdendo as 5% de ganhos apesar de uma forte expansão das receitas de Samsung. A empresa sul-coreana relatou um aumento de mais de 250 vezes na lucratividade de seus semicondutores, devido à demanda robusta por chips de memória de alta banda utilizados em servidores de inteligência artificial. No entanto, a SK Hynix caiu 4% após os resultados não atenderem às expectativas dos investidores.
+A bolsa de valores dos EUA está prestes a testar seu desempenho com os resultados das 7 empresas líderes do setor de tecnologia, incluindo Alphabet e Tesla, que já apresentaram resultados negativos. A queda dessas empresas pode afetar o mercado, que tem sido impulsionado pela corrida ao desenvolvimento de inteligência artificial (IA). A indústria de semicondutores também está sendo afetada, com o índice Philadelphia SE Semiconductor index caindo mais de 19% desde o pico em junho.
 
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-markets-digest-fed-decision-samsung-results-kospi-rebounds-4822296)
+[Ler noticia completa](https://www.reuters.com/business/magnificent-7-results-set-test-broadening-us-stock-market-2026-07-29)
 
 ---
 
-## 3. AI Stocks Without The AI Price Tag | Seeking Alpha
+## 4. Goldman Sachs sees AI trade stabilizing as strong ...
 
 **Fonte:** seekingalpha.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Utilidades Elétricas, Investimentos
-
-O artigo discute a possibilidade de investir em tecnologia de inteligência artificial (IA) sem expor-se ao risco de uma bolha. O autor sugere que as empresas de utilidades elétricas podem ser uma opção atraente, pois têm um valor de mercado mais baixo e uma taxa de crescimento mais alta do que a média do setor. As utilidades elétricas têm um múltiplo de preço-mercado (PE) de 20,47X e uma taxa de crescimento de 7%-10% ao ano para os próximos 5 anos.
-
-[Ler noticia completa](https://seekingalpha.com/article/4929146-ai-stocks-without-the-ai-price-tag)
-
----
-
-## 4. Microsoft Just Changed The AI Narrative (NASDAQ:MSFT)
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 9.0/10  
-**Tags:** AI, Microsoft, NASDAQ
-
-A Microsoft continuou a justificar sua valoração premium, com previsões de receita de $744 bilhões e lucro por ação de $41 até o final de 2031, o que pressiona os múltiplos de mercado a se reduzirem. O Azure ultrapassou $100 bilhões em receita anual e a taxa de crescimento trimestral acelerou para 43%, demonstrando uma demanda por IA que continua a se fortalecer. A empresa também expandiu sua monetização de IA em produtos como GitHub Copilot e Microsoft 365 Copilot.
-
-[Ler noticia completa](https://seekingalpha.com/article/4929160-microsoft-just-changed-ai-narrative)
-
----
-
-## 5. A crise do capex nas big techs? | Investing.com
-
-**Fonte:** br.investing.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** IA, Tecnologia, Mercado de Ações
-
-A crise do capex nas big techs pode ser uma ameaça significativa para o mercado de ações, especialmente se as empresas não conseguirem traduzir sua hegemonia tecnológica em lucro líquido distribuível. A provocação para os investidores é até quando o mercado aceitará que as maiores empresas do mundo operem com fluxo de caixa negativo. Os próximos resultados decidirão se 2026 será o ano da consolidação da IA ou o ano do estouro de uma possível bolha do Capex.
-
-[Ler noticia completa](https://br.investing.com/analysis/a-crise-do-capex-nas-big-techs-200478686)
-
----
-
-## 6. Amazon soars after CEO makes the case for its massive AI ...
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 9.0/10  
-**Tags:** AI, Amazon, Computação em Nuvem
-
-A Amazon registrou um crescimento acima das expectativas no segundo trimestre, com seu negócio de computação em nuvem de alta margem apresentando o crescimento mais rápido em 18 trimestres. O CEO Andy Jassy explicou como a grande investimento na inteligência artificial gerará retornos, o que levou a uma reação positiva no mercado. A empresa relatou uma receita de $200 bilhões, 20% acima do ano anterior, e lucro por ação de $5,75, 242% acima do ano anterior.
-
-[Ler noticia completa](https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html)
-
----
-
-## 7. ALLOS (ALOS3): IA deve acirrar concorrência online enquanto shoppings mantêm vantagem
-
-**Fonte:** infomoney.com.br  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 8.0/10  
-**Tags:** AI, Varejo, Comércio Eletrônico
+**Tags:** AI, Tecnologia, Mercado de Ações
 
-A Inteligência Artificial (IA) pode acirrar a concorrência online no varejo, enquanto as lojas físicas, como as operadoras de shoppings, mantêm uma vantagem. O CEO da ALLOS afirma que a tecnologia pode acelerar decisões, aprimorar o mix de lojas e ampliar o conhecimento sobre os consumidores.
+A Goldman Sachs acredita que o mercado de tecnologia está estabilizando, apesar da volatilidade recente, devido a fortes ganhos de lucro corporativos e previsões de crescimento de receita. A empresa argumenta que esses ganhos são fundamentais para o mercado e que a volatilidade é resultado de investimentos de momento. Além disso, a Goldman Sachs acredita que a continuidade dos ganhos de lucro fortes, especialmente entre os hyperscalers, apoiará a alta investimento em IA.
 
-[Ler noticia completa](https://www.infomoney.com.br/onde-investir/allos-alos3-ve-ia-acirrando-concorrencia-online-e-reforcando-forca-dos-shoppings)
+[Ler noticia completa](https://seekingalpha.com/news/4623138-goldman-sachs-sees-ai-trade-stabilizing-as-strong-earnings-keep-bull-market-intact)
+
+---
+
+## 5. TSMC Is Reportedly Developing Advanced Chip ...
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** TSMC, Intel, Tecnologia, Semicondutores
+
+A TSMC está desenvolvendo uma tecnologia de embalagem avançada de chips, que poderia enfraquecer a vantagem competitiva da Intel. A notícia impulsionou as ações da TSMC e da Intel em preços de abertura mais altos.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html)
+
+---
+
+## 6. The July jobs report, SpaceX earnings, and AI struggles
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Tecnologia, Mercado de Ações
+
+O relatório de empregos de julho, os lucros da SpaceX e as dificuldades da IA estão em destaque. A SpaceX enfrenta preocupações sobre seus altos requisitos de capital, enquanto a indústria de IA enfrenta desafios em gerar retornos saudáveis. Além disso, a queda de uma fundo de hedge liderado por um jovem especialista em IA é um exemplo da volatilidade do mercado.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/article/the-july-jobs-report-spacex-earnings-and-ai-struggles-what-to-watch-this-week-100000237.html)
+
+---
+
+## 7. Nscale buys Anyscale as it seeks to own more of the AI compute stack | TechCrunch
+
+**Fonte:** techcrunch.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Mergers and Acquisitions, Data Center Infrastructure
+
+A Nscale adquiriu a Anyscale, uma startup de computação de IA, para expandir sua presença no mercado de infraestrutura de centros de dados e computação de IA. A Anyscale continuará a operar sob sua própria marca e servir seus clientes existentes, com seus cerca de 200 funcionários se juntando à Nscale.
+
+[Ler noticia completa](https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack)
 
 ---
