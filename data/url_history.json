@@ -1,80 +1,4 @@
 {
-  "https://www.forbes.com/sites/bill_stone/2026/07/26/big-earnings-week-tests-wall-streets-ai-spending-fears/": {
-    "hash": "5a9b9b441dada914f034169c15162024",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html": {
-    "hash": "f79e7b868c15ec25fe38b5cdb5ff83e7",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending": {
-    "hash": "c23425d86825521cb17da2439736b794",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.cnbc.com/video/2026/07/27/position-across-full-ai-spectrum-in-a-pay-to-play-hyperscaler-market.html": {
-    "hash": "2c49b8b72c84add09f11f3c463675aeb",
-    "visto_em": "2026-07-27"
-  },
-  "https://seekingalpha.com/article/4925659-intel-grotesque-valuation": {
-    "hash": "a1a569302f890a26d21e01186e64665d",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.cnbc.com/video/2026/07/26/the-richest-sp-sector-valuation-due-to-ai-it-might-be-industrials.html": {
-    "hash": "7935828f631cca13863ad0f67fb01f0a",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.wsj.com/finance/investing/u-s-data-center-operator-tecfusions-plans-to-go-public-in-4-billion-spac-deal-e3f54495": {
-    "hash": "9bdf16897c9ebb9a751e746214ef59ff",
-    "visto_em": "2026-07-27"
-  },
-  "https://seekingalpha.com/news/4617795-stripe-in-talks-to-acquire-ai-startup-openrouter-for-10b---report": {
-    "hash": "d4a34546333b83d401afafc1f8fd7329",
-    "visto_em": "2026-07-27"
-  },
-  "https://seekingalpha.com/article/4925373-alphabet-wall-street-is-being-ridiculous-elevated-capex-is-abuying-opportunity": {
-    "hash": "051185e75f10ffa3ed47e79dda3ef444",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html": {
-    "hash": "ab7eecccafb9dea2c9e3a5c1fb89e00d",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.reuters.com/business/autos-transportation/wall-st-futures-ease-big-tech-results-revive-ai-spending-worries-oil-jumps-2026-07-23": {
-    "hash": "001fec695357f0450af62f636ad1a2fe",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.reuters.com/business/media-telecom/nvidia-acquire-1-billion-new-shares-south-koreas-naver-2026-07-26/": {
-    "hash": "34d64ddc34d03d2444bc2cb236ff648e",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html": {
-    "hash": "16f08ec1ccff21ab5e41d0356be3aade",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.cnbc.com/video/2026/07/27/two-year-yields-and-semis-hold-the-key-to-the-markets-next-move.html": {
-    "hash": "464f02f1ffa240b8d42325af887857b3",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7": {
-    "hash": "723e43fbf8315eaef6d88ecdee8da98c",
-    "visto_em": "2026-07-27"
-  },
-  "https://seekingalpha.com/article/4924923-americas-most-powerful-banker-just-confirmed-it-i-want-these-5-stocks-not-market": {
-    "hash": "a835bc049908223d3c15724686581549",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.cnbc.com/video/2026/07/27/ai-driven-job-losses-could-spur-fed-cuts-next-year-robin-brooks.html": {
-    "hash": "ebc9bb6276a7b27b3e5e2f67ce3d94be",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.cnbc.com/video/2026/07/27/we-are-near-a-short-term-peak-in-the-memory-cycle-yiyi-capital.html": {
-    "hash": "ebc9bb6276a7b27b3e5e2f67ce3d94be",
-    "visto_em": "2026-07-27"
-  },
-  "https://www.businessinsider.com/hyperscalers-cant-win-with-investors-ai-spending-capex-alphabet-earnings-2026-7": {
-    "hash": "597e7963453cd90c32e013c47cc5ca4d",
-    "visto_em": "2026-07-27"
-  },
   "https://finance.yahoo.com/markets/article/3-realities-from-the-summer-tech-stock-rout-you-are-probably-overlooking-142723054.html": {
     "hash": "c6de98ea9f4cfadd68b9f6bd458c63d2",
     "visto_em": "2026-07-28"
@@ -490,5 +414,45 @@
   "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack": {
     "hash": "3d591e23a323fe037af0d01ba43a3db0",
     "visto_em": "2026-08-03"
+  },
+  "https://seekingalpha.com/news/4621896-ai-memory-chip-stocks-surge-as-hedge-fund-unwinds": {
+    "hash": "c0e9fafe5ef4186cf02b37172e5b1ff8",
+    "visto_em": "2026-08-04"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-047-4829234": {
+    "hash": "338bce1aef09baf3c64c6d6218d56d5c",
+    "visto_em": "2026-08-04"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-188-4826163": {
+    "hash": "b06b516eaec3c2c0eb753e562275b4c8",
+    "visto_em": "2026-08-04"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-152-4821683": {
+    "hash": "c3e083c4b24b9fabac7337c8186e5750",
+    "visto_em": "2026-08-04"
+  },
+  "https://finance.yahoo.com/technology/articles/nvidia-amd-micron-lead-chip-182255155.html": {
+    "hash": "275572c89af2f529043d3cbf16c1fbb0",
+    "visto_em": "2026-08-04"
+  },
+  "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html": {
+    "hash": "1f3a8d278da11ef67c152e1912c7044c",
+    "visto_em": "2026-08-04"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html": {
+    "hash": "db9bb887ae19ce8de63fe6f1c4b66477",
+    "visto_em": "2026-08-04"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/bull-case-arista-networks-anet-180729358.html": {
+    "hash": "043b5f99c1eacceac0aea62e7c30e8b2",
+    "visto_em": "2026-08-04"
+  },
+  "https://seekingalpha.com/article/4928078-ai-narrative-fading-by-the-numbers": {
+    "hash": "88377ed0b927dbbf298a1b3d0651c9c7",
+    "visto_em": "2026-08-04"
+  },
+  "https://br.investing.com/news/stock-market-news/impressoras-de-chips-da-asml-de-us400-mi-impulsionam-boom-da-ia-2016770": {
+    "hash": "2e1e15921a7916d5474f8cac57051804",
+    "visto_em": "2026-08-04"
   }
 }
