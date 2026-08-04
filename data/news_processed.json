@@ -2,10 +2,102 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-04",
-    "total_noticias": 89,
-    "gerado_em": "2026-08-04T05:45:26.800135"
+    "total_noticias": 95,
+    "gerado_em": "2026-08-04T12:03:15.166651"
   },
   "noticias": [
+    {
+      "titulo": "If Artificial Intelligence Is in a Bubble, These Are the Stocks That Could Benefit Most",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-bubble-stocks-could-032000721.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-03",
+      "resumo": "Se os investidores se afastam dos maiores vencedores do setor de inteligência artificial, como as ações de semicondutores e hyperscalers, eles podem querer permanecer no setor de tecnologia. Nesse caso, as ações de software com preços de valorização atraentes podem ser pontos de destino naturais para muitos. Algumas das ações mais desvalorizadas já tiveram recuperações significativas no preço, incluindo a Adobe e a Salesforce, que ainda estão produzindo fluxo de caixa livre sólido.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Software",
+        "ETF"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 82
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.00%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-000-4832279",
+      "fonte": "investing.com",
+      "data": "2026-08-03",
+      "resumo": "O mercado de ações no Brasil fechou com um aumento de 0,00% no índice Bovespa. No entanto, algumas ações específicas tiveram variações significativas, incluindo a ação da Microsoft, que subiu 4,93%, e a ação do SNDK, que subiu 6,03%.",
+      "sentimento": "bullish",
+      "tags": [
+        "Bovespa",
+        "ações",
+        "mercado de capitais"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 50
+    },
+    {
+      "titulo": "AMD Stock Is Up Big, and Wall Street Is Underestimating It",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-big-wall-street-143032128.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-01",
+      "resumo": "A AMD está experimentando um grande aumento de valor, e a Wall Street está subestimando a empresa. As projeções de receita para o Q2 de 2026 são de $11,2 bilhões, com crescimento de 46% em relação ao ano anterior. A empresa também superou as expectativas em termos de lucro e receita no Q1 de 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "AMD",
+        "AI",
+        "Semicondutores",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "Got $1,000? Taiwan Semiconductor Manufacturing's $100 Billion Arizona Investment Makes It a Must-Own Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-taiwan-semiconductor-180500978.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-03",
+      "resumo": "A Taiwan Semiconductor Manufacturing (TSM) está investindo US$ 100 bilhões em suas instalações de produção na Arizônia, totalizando US$ 265 bilhões. Isso é considerado um movimento importante pela empresa e solidifica a ação como uma compra. Com US$ 1.000 disponíveis, a TSM é uma das melhores ações para investir no momento.",
+      "sentimento": "bullish",
+      "tags": [
+        "TSM",
+        "Semiconductor",
+        "Taiwan"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 60
+    },
+    {
+      "titulo": "Reconfigured tax laws to help activate investments, boost manufacturing & foreign capital",
+      "url": "https://m.economictimes.com/news/economy/policy/reconfigured-tax-laws-to-help-activate-investments-boost-manufacturing-foreign-capital/articleshow/132841009.cms",
+      "fonte": "m.economictimes.com",
+      "data": "2026-08-04",
+      "resumo": "O governo da Índia reconfigurou as leis fiscais para estimular investimentos, aumentar a produção e atração de capital estrangeiro. As mudanças incluem incentivos para a manufatura, isenções fiscais para REITs e InvITS, e regras para o setor de infraestrutura digital. Essas alterações visam atrair investimentos estrangeiros e estimular a economia da Índia.",
+      "sentimento": "bullish",
+      "tags": [
+        "taxação",
+        "investimentos",
+        "manufatura",
+        "capital estrangeiro"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 63
+    },
+    {
+      "titulo": "A Hawkish Hold, A Steeper Curve",
+      "url": "https://seekingalpha.com/article/4929294-hawkish-hold-steeper-curve",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-02",
+      "resumo": "O artigo discute a situação atual dos REITs (Real Estate Investment Trusts) e apresenta algumas recomendações de compra para investidores. O Digital Realty Trust é destacado como uma opção de compra com cautela, devido a sua guia de crescimento aumentada e dividendos congelados. Além disso, são apresentadas três opções de compra fortes com um retorno médio de 1 ano acima de 50%.",
+      "sentimento": "bullish",
+      "tags": [
+        "REITs",
+        "Imóveis",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 71
+    },
     {
       "titulo": "AI, memory chip stocks surge as hedge fund unwinds (SNDK:NASDAQ) | Seeking Alpha",
       "url": "https://seekingalpha.com/news/4621896-ai-memory-chip-stocks-surge-as-hedge-fund-unwinds",
