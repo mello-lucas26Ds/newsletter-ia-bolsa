@@ -1,11 +1,162 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-04",
-    "total_noticias": 95,
-    "gerado_em": "2026-08-04T12:03:15.166651"
+    "data": "2026-08-05",
+    "total_noticias": 82,
+    "gerado_em": "2026-08-05T05:44:46.047812"
   },
   "noticias": [
+    {
+      "titulo": "The stock market soars. 5 reasons behind the big surge Tuesday",
+      "url": "https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-04",
+      "resumo": "O mercado de ações registrou um grande aumento, com 5 razões por trás da grande subida na segunda-feira. Investidores estão comprando ações de tecnologia em massa, com otimismo de que todas elas podem ser vencedoras da IA. O iShares Semiconductor ETF (SOXX) subiu mais de 6% e o iShares Expanded Tech-Software Sector ETF (IGV) adicionou quase 5%. O Nasdaq Composite, que é fortemente influenciado por tecnologia, subiu mais de 2,5%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Semicondutores",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 80
+    },
+    {
+      "titulo": "Stocks are surging to fresh records as the US says a deal is close to reopen the Strait of Hormuz",
+      "url": "https://www.businessinsider.com/stock-market-today-sp500-dow-record-high-strait-of-hormuz-pltr-2026-8",
+      "fonte": "businessinsider.com",
+      "data": "2026-08-04",
+      "resumo": "A Nasdaq 100 alcançou um novo recorde, com uma subida de mais de 3%, impulsionada por investimentos em AI e componentes de chips. A hyperscalers também foram foco, com a maioria das empresas gigantes subindo durante a sessão. A Palantir foi uma das principais destaque, com uma subida de 29% após relatar receita comercial \"outro mundo\" e superar as estimativas.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "NASDAQ"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-just-reclaimed-2-134600639.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-04",
+      "resumo": "A Taiwan Semiconductor Manufacturing (TSM) recuperou um patrimônio líquido de US$ 2 trilhões, mas ainda é negociada a cerca de 20 vezes os lucros projetados. A empresa é uma das principais fabricantes de chips do mundo e é conhecida por fornecer chips de ponta para empresas como Nvidia e AMD.",
+      "sentimento": "bullish",
+      "tags": [
+        "Semicondutores",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 61
+    },
+    {
+      "titulo": "Amazon Earnings, $3 Trillion Market Cap Point To Growth In These Top AI Stocks - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4929574-amazon-earnings-3-trillion-market-cap-point-to-growth-in-these-top-ai-stocks",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-03",
+      "resumo": "A Amazon recentemente alcançou um patrimônio líquido de $3 trilhões, reforçando a tendência de crescimento das empresas de infraestrutura de IA. Os fortes resultados financeiros da Microsoft e da Alphabet também sugerem que a despesa com IA permanece uma prioridade estratégica, apesar da volatilidade recente no mercado. Empresas de infraestrutura de IA bem posicionadas continuam a se beneficiar da expansão de capacidade de nuvem e centros de dados por parte dos hiperscalers.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Cloud Computing",
+        "Infraestrutura de TI"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 84
+    },
+    {
+      "titulo": "AMD Earnings Beat Estimates and Stock Falls 8%: Was the Bar Too High?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-earnings-beat-estimates-stock-205710559.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-04",
+      "resumo": "A AMD anunciou resultados financeiros que superaram as estimativas, com receita de $11,54 bilhões e guia de vendas para o terceiro trimestre de aproximadamente $13 bilhões. No entanto, a ação caiu 8% em negociação após-horário, devido a preocupações sobre a valoração em comparação com a Nvidia e Broadcom, além de limites de capacidade na TSMC.",
+      "sentimento": "bearish",
+      "tags": [
+        "AMD",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 97
+    },
+    {
+      "titulo": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture - CNBC",
+      "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-03",
+      "resumo": "A presença de investimentos em empresas de IA privadas está distorcendo a imagem das receitas corporativas. A Microsoft, Amazon e Alphabet registraram ganhos significativos de investimento no último trimestre graças a participações em Anthropic e OpenAI, mas esses ganhos são apenas em papel e não refletem o crescimento real das empresas. Sem esses ganhos, o crescimento das receitas do S&P 500 seria de cerca de 29%, muito mais próximo do que os analistas haviam previsto.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 85
+    },
+    {
+      "titulo": "'non-sexy parts of the AI trade' offer EM's biggest opportunities - CNBC",
+      "url": "https://www.cnbc.com/video/2026/08/05/lazard-am-pockets-of-opportunity-in-em-especially-in-the-non-sexy-parts-of-the-ai-trade.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-05",
+      "resumo": "O analista Eric Van Nostrand da Lazard Asset Management afirma que a próxima etapa do negócio de IA pode vir de empresas de mercado emergente que apoiam centros de dados e cadeias de suprimento de chips, oferecendo oportunidades significativas. Ele também destaca a Índia como uma oportunidade subestimada de IA com uma história de investimento liderada por infraestrutura.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Emerging Markets",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "Morgan Stanley Shares 24 AI Adopter Stocks to Buy Now - Business Insider",
+      "url": "https://www.businessinsider.com/ai-stocks-to-buy-now-companies-adopting-profit-margins-productivity-2026-8",
+      "fonte": "businessinsider.com",
+      "data": "2026-08-04",
+      "resumo": "A Morgan Stanley compartilhou uma lista de 24 ações de empresas que adotam a inteligência artificial (IA) e são recomendadas para investir. A lista inclui empresas como Meta Platforms, Amazon, Grindr, Johnson Controls e outras que estão aproveitando a IA para melhorar seus negócios e produtos. A lista destaca a capacidade dessas empresas de aumentar a eficiência, acelerar o desenvolvimento de produtos e melhorar a experiência do usuário.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 77
+    },
+    {
+      "titulo": "Gasto acelerado com IA gera impacto bilionário no caixa das big techs | Empresas | Valor Econômico",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/01/gasto-acelerado-com-ia-impacta-caixa-de-big-techs-mas-h-demanda-e-retorno-deve-aparecer-em-at-3-anos.ghtml",
+      "fonte": "valor.globo.com",
+      "data": "2026-08-02",
+      "resumo": "O gasto acelerado com IA pelas big techs está gerando impacto bilionário no caixa dessas empresas. Apesar da apreensão dos investidores, analistas apontam que o aumento das despesas é justificado devido à entrada da Meta na oferta de serviços de computação em nuvem e aos avanços de IA na geração de anúncios. Isso traz sentido à elevação do capex e é um cenário diferente do que foi visto em 2022.",
+      "sentimento": "bullish",
+      "tags": [
+        "IA",
+        "Big Tech",
+        "Computação em Nuvem"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 82
+    },
+    {
+      "titulo": "Analyst on hyperscalers' earnings potential - CNBC",
+      "url": "https://www.cnbc.com/video/2026/08/05/analyst-on-hyperscalers-earnings-potential.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-05",
+      "resumo": "O analista Patrick Moorhead da Moor Insights & Strategy afirma que, embora alguns investidores estejam fazendo apostas rápidas nos hiperscalers em virtude da onda de inteligência artificial, empresas como a Microsoft e Azure estão gerando lucros. Moorhead destaca que os hiperscalers estão focados em gerar receita e não apenas em investir em tecnologia de ponta.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Hyperscalers",
+        "Microsoft"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 64
+    },
     {
       "titulo": "If Artificial Intelligence Is in a Bubble, These Are the Stocks That Could Benefit Most",
       "url": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-bubble-stocks-could-032000721.html",
@@ -491,21 +642,6 @@
       "tokens_usados": 121
     },
     {
-      "titulo": "ICON stock surges 7% on Anthropic AI partnership for trials",
-      "url": "https://za.investing.com/news/stock-market-news/icon-stock-surges-7-on-anthropic-ai-partnership-for-trials-93CH-4390222",
-      "fonte": "za.investing.com",
-      "data": "2026-07-28",
-      "resumo": "A ação da ICON surgiu 7% após a empresa anunciar uma parceria com a Anthropic AI para realizar testes. Embora o conteúdo da notícia seja limitado, é possível inferir que a parceria é positiva para a empresa.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 48
-    },
-    {
       "titulo": "Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal, sources say",
       "url": "https://www.reuters.com/world/eric-trump-backed-defense-technology-company-space-eyes-go-public-638-million-2026-07-31",
       "fonte": "reuters.com",
@@ -626,21 +762,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 74
-    },
-    {
-      "titulo": "Nvidia Stock Is Stagnating — But The Fundamentals Aren't (NASDAQ:NVDA)",
-      "url": "https://seekingalpha.com/article/4926233-nvidia-stock-is-stagnating-but-the-fundamentals-arent",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-28",
-      "resumo": "A Nvidia está apresentando um desempenho estagnado no mercado, mas os fundamentos da empresa não indicam problemas. A empresa continua a crescer com uma taxa de crescimento de 70,68% ao ano, e a sua participação no mercado de GPUs e TPU é dominante.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "NVIDIA"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 103
     },
     {
       "titulo": "ADBE Stock At Near Two-Month Highs After FTC Grants Early Approval For Adobe’s Acquisition Of Topaz Labs",
@@ -949,21 +1070,6 @@
       "tokens_usados": 69
     },
     {
-      "titulo": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
-      "url": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-28",
-      "resumo": "Empresas de Wall Street estão desenvolvendo agentes de investimento com IA para operar 24 horas por dia, enquanto investidores de retalho testam ferramentas de IA para ajudar nas decisões de investimento.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Finanças",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 40
-    },
-    {
       "titulo": "TSMC Stock Jumps 7% as Microsoft Revives AI-Chip Trade",
       "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-jumps-7-microsoft-195100756.html",
       "fonte": "finance.yahoo.com",
@@ -1025,21 +1131,6 @@
       "tokens_usados": 70
     },
     {
-      "titulo": "U.S. and Korean tech stocks are now tightly linked",
-      "url": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-28",
-      "resumo": "A relação entre ações de tecnologia dos EUA e da Coreia do Sul está se tornando cada vez mais estreita, com a demanda por hardware de inteligência artificial (IA) unindo as fortunas de gigantes de tecnologia dos EUA e fabricantes de chips da Coreia do Sul. A Samsung e a SK Hynix estão no centro da cadeia de fornecimento de hardware de IA, fornecendo chips de memória necessários para centros de dados operados por gigantes de tecnologia dos EUA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 88
-    },
-    {
       "titulo": "Earnings call transcript: Meta misses EPS in Q2 2026 as ...",
       "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-meta-misses-eps-in-q2-2026-as-stock-sinks-after-hours-93CH-4821910",
       "fonte": "investing.com",
@@ -1070,38 +1161,6 @@
       "tokens_usados": 40
     },
     {
-      "titulo": "Cotações em Tempo Real: Bolsa de Valores, Ações, Criptomoedas, FIIs – Money Times",
-      "url": "https://www.moneytimes.com.br/cotacoes",
-      "fonte": "moneytimes.com.br",
-      "data": "2026-07-28",
-      "resumo": "A lista apresentada é uma tabela com cotações em tempo real de ações, criptomoedas e FIIs de várias empresas, incluindo empresas de tecnologia, saúde e finanças. A lista inclui códigos de identificação de cada empresa, como AIG, AIHS, AIIO, entre outros.",
-      "sentimento": "neutral",
-      "tags": [
-        "[Criptomoedas",
-        "Ações",
-        "FIIs",
-        "Tecnologia]"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 87
-    },
-    {
-      "titulo": "Meta to report Q2 earnings amid AI investing concerns",
-      "url": "https://finance.yahoo.com/news/meta-misses-on-q2-earnings-stock-tumbles-121325403.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-28",
-      "resumo": "Meta está programado para divulgar seus resultados financeiros do segundo trimestre após o sino, oferecendo aos investidores uma visão sobre os investimentos da empresa em inteligência artificial e se eles estão gerando resultados positivos. A empresa enfrenta desafios para recuperar seu desempenho no mercado e os investidores questionam os planos de investimento da CEO Mark Zuckerberg. A empresa anunciou um acordo com a BlackRock para construir um centro de dados de $14 bilhões em Texas.",
-      "sentimento": "bearish",
-      "tags": [
-        "Meta",
-        "AI",
-        "Inteligência Artificial",
-        "Earnings"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 86
-    },
-    {
       "titulo": "Could an AI market crash rival 2000 or 2008? Unlikely",
       "url": "https://www.reuters.com/commentary/reuters-open-interest/could-an-ai-market-crash-rival-2000-or-2008-unlikely-2026-07-29",
       "fonte": "reuters.com",
@@ -1115,21 +1174,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 93
-    },
-    {
-      "titulo": "Market warning signals flare again as tech, inflation fears intensify",
-      "url": "https://www.reuters.com/business/finance/global-markets-stress-graphic-2026-07-28",
-      "fonte": "reuters.com",
-      "data": "2026-07-28",
-      "resumo": "O mercado está alertando para sinais de alerta novamente, com medo de tecnologia e inflação aumentando. Embora os lucros das empresas de tecnologia estejam vindo bem, os investidores estão procurando por receita e lucros que justifiquem os custos do desenvolvimento de IA a longo prazo. A escalada de juros nos EUA e a instabilidade nos mercados estão aumentando a pressão sobre as ações de tecnologia.",
-      "sentimento": "bearish",
-      "tags": [
-        "tecnologia",
-        "inflação",
-        "mercado de ações"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 76
     },
     {
       "titulo": "Microsoft set for $190 billion market value swing after earnings results ...",
@@ -1193,21 +1237,6 @@
       "tokens_usados": 58
     },
     {
-      "titulo": "Is Intel Stock a Buy After Its Latest Earnings Report?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-buy-latest-earnings-155301892.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-28",
-      "resumo": "A Intel anunciou um aumento de US$ 2 bilhões em sua guia de despesas de capital para 2026, o que levou a preocupações sobre a capacidade de retorno desses investimentos. Embora a empresa tenha apresentado números de lucro e receita fortes, sua ação caiu cerca de 33% nos últimos 30 dias.",
-      "sentimento": "bearish",
-      "tags": [
-        "Intel",
-        "AI",
-        "Semiconductor"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 60
-    },
-    {
       "titulo": "Chip sell-off: SK Hynix, Samsung Electronics, SoftBank",
       "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
       "fonte": "cnbc.com",
@@ -1221,235 +1250,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 61
-    },
-    {
-      "titulo": "Intel Vs. TSMC: How CoWoS Packaging Constraints Create Opportunity For Intel Foundry | Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4926554-intel-vs-tsmc-how-cowos-packaging-constraints-create-opportunity-for-intel-foundry",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-28",
-      "resumo": "A Intel está enfrentando desafios com a TSMC devido às restrições do CoWoS (Chip-on-Wafer-on-Substrate), mas isso pode criar oportunidades para a Intel Foundry. A TSMC é uma empresa crucial para a indústria de inteligência artificial, mas a Intel pode competir com ela sem precisar superá-la.",
-      "sentimento": "bullish",
-      "tags": [
-        "Intel",
-        "TSMC",
-        "Intel Foundry",
-        "CoWoS",
-        "IA"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 57
-    },
-    {
-      "titulo": "Oracle: The Most Disliked AI Name Could Double",
-      "url": "https://seekingalpha.com/article/4926169-oracle-the-most-disliked-ai-name-could-double",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-28",
-      "resumo": "A Oracle está profundamente desfavorida no mercado, mas apesar de negativas notícias, seu resultado financeiro do último trimestre foi positivo, com crescimento de 21% na receita e aumento de 54% no lucro operacional. A empresa está atrativa em relação a seus pares de IA, com um preço de 10 vezes o fluxo de caixa e um PEG de 0,5.",
-      "sentimento": "bullish",
-      "tags": [
-        "Oracle",
-        "AI",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "AI’s Early Winners Are Shopping For Their Next Big Moves - Forbes",
-      "url": "https://www.forbes.com/sites/the-prompt/2026/07/28/ais-early-winners-are-shopping-for-their-next-big-moves/",
-      "fonte": "forbes.com",
-      "data": "2026-07-28",
-      "resumo": "Empresas de IA que se destacaram no mercado estão fazendo ações estratégicas para expandir seus negócios, incluindo aquisições de outras empresas. Cognition comprou a Poke, uma assistente de IA que envia mensagens como um amigo, enquanto a World Labs adquiriu a SceniX, uma empresa de robótica. A Midjourney, conhecida por seu gerador de imagens de IA, também fez aquisições para expandir seus projetos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Startups",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 72
-    },
-    {
-      "titulo": "Meta to report Q2 earnings amid AI investing concerns",
-      "url": "https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-28",
-      "resumo": "A Meta está prestes a relatar seus lucros do 2º trimestre, enquanto a empresa enfrenta preocupações com investimentos em inteligência artificial. A empresa está cobrando preços baixos por seus modelos de IA, o que pode ajudar a empresa a conquistar parte do mercado dos grandes laboratórios de IA.",
-      "sentimento": "neutral",
-      "tags": [
-        "Meta",
-        "IA",
-        "Tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 111
-    },
-    {
-      "titulo": "S&P 500 inches higher in choppy trading as investors ...",
-      "url": "https://www.reuters.com/business/nasdaq-futures-drop-ai-chip-worries-ahead-pivotal-earnings-2026-07-28",
-      "fonte": "reuters.com",
-      "data": "2026-07-28",
-      "resumo": "O S&P 500 fechou ligeiramente acima em um dia de negociação turbulento, com investidores aguardando os relatórios de lucro das hyperscalers de IA Amazon, Meta, Apple e Microsoft. As ações dessas empresas estavam ligeiramente mais altas em negociação prévia. Os índices futuros Dow e Nasdaq estavam em alta e em baixa, respectivamente.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados Financeiros"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 62
-    },
-    {
-      "titulo": "Microsoft to report Q4 earnings as investors look for return ...",
-      "url": "https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-28",
-      "resumo": "A Microsoft está prestes a divulgar seus resultados financeiros do quarto trimestre, enquanto os investidores buscam sinais de retorno sobre as grandes investidas na inteligência artificial.",
-      "sentimento": "bearish",
-      "tags": [
-        "Microsoft",
-        "AI",
-        "Tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 35
-    },
-    {
-      "titulo": "6 Catalysts That Might Pop The AI Bubble (NASDAQ:QQQ)",
-      "url": "https://seekingalpha.com/article/4926435-6-catalysts-that-might-pop-the-ai-bubble",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-28",
-      "resumo": "O artigo discute possíveis fatores que possam desinflar a bolha do setor de inteligência artificial (IA). Segundo uma pesquisa, cerca de 40% dos participantes acreditam que a venda em massa de ações de memória, como a Micron Technology (MU) e a SK Hynix, possa ser um dos principais motivos. Além disso, outros fatores mencionados incluem a perda de confiança nos investidores, a mudança na percepção da eficácia da IA, a concorrência excessiva e a falta de regulamentação.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 137
-    },
-    {
-      "titulo": "Intel Stock Is Falling Tuesday: What's Going On? - Intel (NASDAQ:INTC) - Benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60716573/intel-stock-is-falling-tuesday-whats-going-on",
-      "fonte": "benzinga.com",
-      "data": "2026-07-28",
-      "resumo": "A ação da Intel (INTC) caiu cerca de 4% em sessão prévia de terça-feira, enquanto ações de semicondutores recuaram ao lado de um mercado tecnológico mais fraco. No entanto, a demanda por chips de servidor de IA impulsionou a ação da Intel a um aumento de 2% antes do mercado. Analistas prevêem um crescimento significativo nos lucros da Intel nos próximos anos.",
-      "sentimento": "neutral",
-      "tags": [
-        "Intel",
-        "Semicondutores",
-        "NASDAQ",
-        "IA"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 92
-    },
-    {
-      "titulo": "What Past Sector Concentrations Tell Us About Today's Tech-Heavy S&P 500",
-      "url": "https://seekingalpha.com/article/4926248-what-past-sector-concentrations-tell-us-about-todays-tech-heavy-sp500",
-      "fonte": "seekingalpha.com",
-      "data": "2026-07-28",
-      "resumo": "A concentração de setores na S&P 500, liderada pela tecnologia, tem aumentado significativamente desde 1990, alcançando 40% da composição atual. Isso faz com que o índice se comporte de forma semelhante ao Nasdaq-100, associado a exposição a tecnologias de alta crescimento. A concentração de risco e a mudança estrutural na economia podem estar por trás desse fenômeno.",
-      "sentimento": "neutral",
-      "tags": [
-        "S&P 500",
-        "Tecnologia",
-        "Nasdaq-100"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "Emerging China threat puts a scare into AI hardware stocks ...",
-      "url": "https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4",
-      "fonte": "marketwatch.com",
-      "data": "2026-07-28",
-      "resumo": "A ameaça de uma China emergente afeta negativamente as ações de hardware de IA, com a queda de ações de fabricantes de memória de chip asiáticos devido à ameaça de substitutos mais baratos da China.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "China",
-        "Tech"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
-    },
-    {
-      "titulo": "Exclusive | Cyera to Buy Oasis Security in $1 Billion Deal",
-      "url": "https://www.wsj.com/pro/cybersecurity/cyera-to-buy-oasis-security-in-1-billion-deal-af998439",
-      "fonte": "wsj.com",
-      "data": "2026-07-28",
-      "resumo": "A empresa de segurança de dados Cyera acordou em adquirir a startup Oasis Security por US$ 1 bilhão, o que destaca a crescente demanda por ferramentas que governem agentes de IA como a indústria de segurança cibernética continua a registrar uma onda de fusões e aquisições. A aquisição ajudará a Cyera a integrar sua plataforma de proteção de dados com a tecnologia da Oasis para gerenciar identidades não humanas, como agentes de IA e software automatizado. As empresas esperam que o negócio seja concluído no final do ano.",
-      "sentimento": "bullish",
-      "tags": [
-        "#Cybersecurity",
-        "#AI",
-        "#MergersAndAcquisitions"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 97
-    },
-    {
-      "titulo": "Wall Street's gaze turns to AI adopters as the winners of the next phase of the stock-market rotation - Business Insider",
-      "url": "https://www.businessinsider.com/ai-stocks-adopters-productivity-growth-magnificent-7-earnings-nvda-msft-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-28",
-      "resumo": "Investidores estão começando a se concentrar em empresas que adotam tecnologia de IA, em vez de apenas os \"hiperscalers\" que investem pesadamente nela. Embora a expectativa seja que a adoção de IA continue a impulsionar o crescimento das receitas e a margem de lucro, a competição e a pressão de rivais chineses podem tornar essa parte do mercado volátil. A Morgan Stanley identificou uma lista de 100 stocks que podem se beneficiar da adoção de IA.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Stock Market",
-        "Investing"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 86
-    },
-    {
-      "titulo": "2027 EPS estimates are the 'key number to watch' for markets: Andrew Slimmon - CNBC",
-      "url": "https://www.cnbc.com/video/2026/07/28/andrew-slimmon-2027-eps-estimates-are-key-number-to-watch-for-markets.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-28",
-      "resumo": "Andrew Slimmon, do Morgan Stanley Investment Management, afirma que os investidores devem focar nas estimativas de lucro por ação (EPS) de 2027. Ele também alerta que os investidores devem ser \"um pouco mais cautelosos\" ao alocar entre ações americanas e asiáticas, devido à correlação crescente do comércio de inteligência artificial. Slimmon também destaca que os investidores devem estar atentos às estimativas de EPS, pois elas são o \"número-chave\" a observar nos mercados.",
-      "sentimento": "bullish",
-      "tags": [
-        "IA",
-        "Mercados financeiros",
-        "Economia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 82
-    },
-    {
-      "titulo": "CNBC Daily Open: Chipping away at the AI boom - CNBC",
-      "url": "https://www.cnbc.com/2026/07/28/daily-open-ai-boom-chip-selloff-sk-hynix.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-28",
-      "resumo": "A bolsa de valores asiática está experimentando uma queda significativa devido ao medo de investidores em relação ao setor de IA. A Samsung e a SK Hynix caíram em 10%, enquanto a Nvidia também foi afetada por uma notícia sobre a OpenAI. No entanto, a LVMH relatou um aumento de 3% nas vendas no segundo trimestre, apesar de uma redução nas vendas em Europa e China.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados Financeiros"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 76
-    },
-    {
-      "titulo": "Asian chip stocks slide as China competition fears rattle AI trade - Reuters",
-      "url": "https://www.reuters.com/world/china/samsung-sk-hynix-slide-amid-nvidia-financing-worries-china-competition-2026-07-28/",
-      "fonte": "reuters.com",
-      "data": "2026-07-28",
-      "resumo": "A indústria de chips asiática está sendo afetada por preocupações com a concorrência da China, o que está rachando a confiança dos investidores em relação ao setor de inteligência artificial. A SK Hynix, uma das principais fornecedoras de memória de alta banda para a Nvidia, está sendo afetada de forma significativa, com suas ações caindo 7,5% em um dia. A concorrência da China está intensificando, com empresas chinesas desenvolvendo equipamentos de litografia de ultravioleta profundo.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 84
     }
   ]
 }
