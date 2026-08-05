@@ -2,160 +2,99 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-05",
-    "total_noticias": 10,
-    "gerado_em": "2026-08-05T05:44:46.045709"
+    "total_noticias": 6,
+    "gerado_em": "2026-08-05T12:00:23.638050"
   },
   "noticias": [
     {
-      "titulo": "The stock market soars. 5 reasons behind the big surge Tuesday",
-      "url": "https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-04",
-      "resumo": "O mercado de ações registrou um grande aumento, com 5 razões por trás da grande subida na segunda-feira. Investidores estão comprando ações de tecnologia em massa, com otimismo de que todas elas podem ser vencedoras da IA. O iShares Semiconductor ETF (SOXX) subiu mais de 6% e o iShares Expanded Tech-Software Sector ETF (IGV) adicionou quase 5%. O Nasdaq Composite, que é fortemente influenciado por tecnologia, subiu mais de 2,5%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 80
-    },
-    {
-      "titulo": "Stocks are surging to fresh records as the US says a deal is close to reopen the Strait of Hormuz",
-      "url": "https://www.businessinsider.com/stock-market-today-sp500-dow-record-high-strait-of-hormuz-pltr-2026-8",
-      "fonte": "businessinsider.com",
-      "data": "2026-08-04",
-      "resumo": "A Nasdaq 100 alcançou um novo recorde, com uma subida de mais de 3%, impulsionada por investimentos em AI e componentes de chips. A hyperscalers também foram foco, com a maioria das empresas gigantes subindo durante a sessão. A Palantir foi uma das principais destaque, com uma subida de 29% após relatar receita comercial \"outro mundo\" e superar as estimativas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "NASDAQ"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 69
-    },
-    {
-      "titulo": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-just-reclaimed-2-134600639.html",
+      "titulo": "Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-holds-taiwan-semiconductor-100500337.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-08-04",
-      "resumo": "A Taiwan Semiconductor Manufacturing (TSM) recuperou um patrimônio líquido de US$ 2 trilhões, mas ainda é negociada a cerca de 20 vezes os lucros projetados. A empresa é uma das principais fabricantes de chips do mundo e é conhecida por fornecer chips de ponta para empresas como Nvidia e AMD.",
+      "resumo": "O investidor Stanley Druckenmiller manteve sua posição em Taiwan Semiconductor Manufacturing (TSM) após a empresa superar as expectativas no segundo trimestre, apostando que a demanda por chips de Nvidia e AMD continuará crescendo. A empresa está negociando a uma razoável 24 vezes de lucro futuro, com analistas projetando um crescimento anualizado de cerca de 35% nos próximos anos. A TSMC é uma das melhores ações para lucrar com o crescimento da infraestrutura de gastos em inteligência artificial (IA).",
       "sentimento": "bullish",
       "tags": [
-        "Semicondutores",
+        "AI",
+        "Semiconductor",
+        "Taiwan"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 87
+    },
+    {
+      "titulo": "5 things to know before the stock market opens Tuesday",
+      "url": "https://www.cnbc.com/2026/08/04/5-things-to-know-before-the-stock-market-opens.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-04",
+      "resumo": "O mercado de ações está prestes a abrir com uma nota positiva, após a Nasdaq-100 subir quase 2% ontem, e a Amazon ultrapassar a marca de $3 trilhões de mercado de capitalização. A Palantir também teve um bom dia, com suas ações subindo mais de 14% após a empresa relatar resultados trimestrais melhores do que esperados.",
+      "sentimento": "bullish",
+      "tags": [
+        "NASDAQ",
+        "Tecnologia",
+        "Amazon"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "Asia stocks jump as AI rally returns; Japan, Korea surge",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-ai-rally-returns-japan-korea-surge-4836372",
+      "fonte": "investing.com",
+      "data": "2026-08-05",
+      "resumo": "A bolsa asiática registrou um aumento significativo, liderada pela indústria de tecnologia e inteligência artificial, com países como Japão e Coreia liderando as ganhas. A melhoria no sentimento em relação à IA e a recuperação da confiança dos investidores após a divulgação de resultados sólidos de empresas de tecnologia contribuíram para o aumento dos preços das ações.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Bolsa Asiática"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "SpaceX First Earnings Report Is Coming. Here’s What To Look For",
+      "url": "https://www.forbes.com/sites/investor-hub/article/spacex-first-earnings-report-what-to-look-out-for",
+      "fonte": "forbes.com",
+      "data": "2026-08-03",
+      "resumo": "A SpaceX está prestes a apresentar seu primeiro relatório de ganhos, e investidores devem estar atentos a vários aspectos, incluindo despesas com capital em AI, lucratividade de Starlink e planejamento de capital. A empresa investiu $7,72 bilhões em AI apenas no primeiro trimestre de 2026, e espera aumentar suas despesas para $118,4 bilhões em 2028. A lucratividade de Starlink é considerada o principal motor de valor da empresa, com $11,4 bilhões de receita e $4,4 bilhões de lucro operacional em 2025.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "SpaceX"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 143
+    },
+    {
+      "titulo": "Banco Santander (Brasil) SA (SANB3.SA)",
+      "url": "https://finance.yahoo.com/quote/SANB3.SA",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-04",
+      "resumo": "O Banco Santander (Brasil) SA (SANB3.SA) apresenta uma visão geral de seus resultados financeiros, incluindo receita, lucro, margem de lucro e outros indicadores financeiros. Além disso, o banco fornece informações sobre sua estrutura de capital, incluindo mercado de capitalização, valor de empresa, P/E e outros indicadores de valoração.",
+      "sentimento": "neutral",
+      "tags": [
+        "Banco",
+        "Finanças",
+        "Economia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 81
+    },
+    {
+      "titulo": "4 Hyperscalers, One Message: The AI Trade Isn’t Over (NYSEARCA:SPY)",
+      "url": "https://seekingalpha.com/article/4929289-4-hyperscalers-one-message-the-ai-trade-isnt-over",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-02",
+      "resumo": "Quatro hyperscalers, incluindo Amazon e Meta, enviaram uma mensagem clara de que a corrida ao AI não está acabando. Embora haja uma onda de pânico no mercado devido a uma série de fatores, essas empresas continuam a investir pesadamente na tecnologia de inteligência artificial. Isso sugere que a tendência de crescimento da indústria de AI ainda está longe de terminar.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
         "Tecnologia",
         "Mercado de Ações"
       ],
       "score_relevancia": 5.0,
-      "tokens_usados": 61
-    },
-    {
-      "titulo": "Amazon Earnings, $3 Trillion Market Cap Point To Growth In These Top AI Stocks - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4929574-amazon-earnings-3-trillion-market-cap-point-to-growth-in-these-top-ai-stocks",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-03",
-      "resumo": "A Amazon recentemente alcançou um patrimônio líquido de $3 trilhões, reforçando a tendência de crescimento das empresas de infraestrutura de IA. Os fortes resultados financeiros da Microsoft e da Alphabet também sugerem que a despesa com IA permanece uma prioridade estratégica, apesar da volatilidade recente no mercado. Empresas de infraestrutura de IA bem posicionadas continuam a se beneficiar da expansão de capacidade de nuvem e centros de dados por parte dos hiperscalers.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Cloud Computing",
-        "Infraestrutura de TI"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 84
-    },
-    {
-      "titulo": "AMD Earnings Beat Estimates and Stock Falls 8%: Was the Bar Too High?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-earnings-beat-estimates-stock-205710559.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-04",
-      "resumo": "A AMD anunciou resultados financeiros que superaram as estimativas, com receita de $11,54 bilhões e guia de vendas para o terceiro trimestre de aproximadamente $13 bilhões. No entanto, a ação caiu 8% em negociação após-horário, devido a preocupações sobre a valoração em comparação com a Nvidia e Broadcom, além de limites de capacidade na TSMC.",
-      "sentimento": "bearish",
-      "tags": [
-        "AMD",
-        "Semicondutores",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 97
-    },
-    {
-      "titulo": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture - CNBC",
-      "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-03",
-      "resumo": "A presença de investimentos em empresas de IA privadas está distorcendo a imagem das receitas corporativas. A Microsoft, Amazon e Alphabet registraram ganhos significativos de investimento no último trimestre graças a participações em Anthropic e OpenAI, mas esses ganhos são apenas em papel e não refletem o crescimento real das empresas. Sem esses ganhos, o crescimento das receitas do S&P 500 seria de cerca de 29%, muito mais próximo do que os analistas haviam previsto.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados Financeiros"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 85
-    },
-    {
-      "titulo": "'non-sexy parts of the AI trade' offer EM's biggest opportunities - CNBC",
-      "url": "https://www.cnbc.com/video/2026/08/05/lazard-am-pockets-of-opportunity-in-em-especially-in-the-non-sexy-parts-of-the-ai-trade.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-05",
-      "resumo": "O analista Eric Van Nostrand da Lazard Asset Management afirma que a próxima etapa do negócio de IA pode vir de empresas de mercado emergente que apoiam centros de dados e cadeias de suprimento de chips, oferecendo oportunidades significativas. Ele também destaca a Índia como uma oportunidade subestimada de IA com uma história de investimento liderada por infraestrutura.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Emerging Markets",
-        "Semicondutores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "Morgan Stanley Shares 24 AI Adopter Stocks to Buy Now - Business Insider",
-      "url": "https://www.businessinsider.com/ai-stocks-to-buy-now-companies-adopting-profit-margins-productivity-2026-8",
-      "fonte": "businessinsider.com",
-      "data": "2026-08-04",
-      "resumo": "A Morgan Stanley compartilhou uma lista de 24 ações de empresas que adotam a inteligência artificial (IA) e são recomendadas para investir. A lista inclui empresas como Meta Platforms, Amazon, Grindr, Johnson Controls e outras que estão aproveitando a IA para melhorar seus negócios e produtos. A lista destaca a capacidade dessas empresas de aumentar a eficiência, acelerar o desenvolvimento de produtos e melhorar a experiência do usuário.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 77
-    },
-    {
-      "titulo": "Gasto acelerado com IA gera impacto bilionário no caixa das big techs | Empresas | Valor Econômico",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/01/gasto-acelerado-com-ia-impacta-caixa-de-big-techs-mas-h-demanda-e-retorno-deve-aparecer-em-at-3-anos.ghtml",
-      "fonte": "valor.globo.com",
-      "data": "2026-08-02",
-      "resumo": "O gasto acelerado com IA pelas big techs está gerando impacto bilionário no caixa dessas empresas. Apesar da apreensão dos investidores, analistas apontam que o aumento das despesas é justificado devido à entrada da Meta na oferta de serviços de computação em nuvem e aos avanços de IA na geração de anúncios. Isso traz sentido à elevação do capex e é um cenário diferente do que foi visto em 2022.",
-      "sentimento": "bullish",
-      "tags": [
-        "IA",
-        "Big Tech",
-        "Computação em Nuvem"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 82
-    },
-    {
-      "titulo": "Analyst on hyperscalers' earnings potential - CNBC",
-      "url": "https://www.cnbc.com/video/2026/08/05/analyst-on-hyperscalers-earnings-potential.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-05",
-      "resumo": "O analista Patrick Moorhead da Moor Insights & Strategy afirma que, embora alguns investidores estejam fazendo apostas rápidas nos hiperscalers em virtude da onda de inteligência artificial, empresas como a Microsoft e Azure estão gerando lucros. Moorhead destaca que os hiperscalers estão focados em gerar receita e não apenas em investir em tecnologia de ponta.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Hyperscalers",
-        "Microsoft"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 64
+      "tokens_usados": 71
     }
   ]
 }

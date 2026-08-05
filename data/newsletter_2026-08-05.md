@@ -1,137 +1,85 @@
 # Newsletter IA Bolsa — 2026-08-05
 
-**Gerado em:** 05/08/2026 05:44
-**Total:** 10 noticias
+**Gerado em:** 05/08/2026 12:00
+**Total:** 6 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. The stock market soars. 5 reasons behind the big surge Tuesday
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Tecnologia, Semicondutores, NASDAQ
-
-O mercado de ações registrou um grande aumento, com 5 razões por trás da grande subida na segunda-feira. Investidores estão comprando ações de tecnologia em massa, com otimismo de que todas elas podem ser vencedoras da IA. O iShares Semiconductor ETF (SOXX) subiu mais de 6% e o iShares Expanded Tech-Software Sector ETF (IGV) adicionou quase 5%. O Nasdaq Composite, que é fortemente influenciado por tecnologia, subiu mais de 2,5%.
-
-[Ler noticia completa](https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html)
-
----
-
-## 2. Stocks are surging to fresh records as the US says a deal is close to reopen the Strait of Hormuz
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 9.0/10  
-**Tags:** AI, Tecnologia, NASDAQ
-
-A Nasdaq 100 alcançou um novo recorde, com uma subida de mais de 3%, impulsionada por investimentos em AI e componentes de chips. A hyperscalers também foram foco, com a maioria das empresas gigantes subindo durante a sessão. A Palantir foi uma das principais destaque, com uma subida de 29% após relatar receita comercial "outro mundo" e superar as estimativas.
-
-[Ler noticia completa](https://www.businessinsider.com/stock-market-today-sp500-dow-record-high-strait-of-hormuz-pltr-2026-8)
-
----
-
-## 3. Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings.
+## 1. Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** Semicondutores, Tecnologia, Mercado de Ações
+**Tags:** AI, Semiconductor, Taiwan
 
-A Taiwan Semiconductor Manufacturing (TSM) recuperou um patrimônio líquido de US$ 2 trilhões, mas ainda é negociada a cerca de 20 vezes os lucros projetados. A empresa é uma das principais fabricantes de chips do mundo e é conhecida por fornecer chips de ponta para empresas como Nvidia e AMD.
+O investidor Stanley Druckenmiller manteve sua posição em Taiwan Semiconductor Manufacturing (TSM) após a empresa superar as expectativas no segundo trimestre, apostando que a demanda por chips de Nvidia e AMD continuará crescendo. A empresa está negociando a uma razoável 24 vezes de lucro futuro, com analistas projetando um crescimento anualizado de cerca de 35% nos próximos anos. A TSMC é uma das melhores ações para lucrar com o crescimento da infraestrutura de gastos em inteligência artificial (IA).
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-just-reclaimed-2-134600639.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-holds-taiwan-semiconductor-100500337.html)
 
 ---
 
-## 4. Amazon Earnings, $3 Trillion Market Cap Point To Growth In These Top AI Stocks - Seeking Alpha
+## 2. 5 things to know before the stock market opens Tuesday
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 8.0/10  
+**Tags:** NASDAQ, Tecnologia, Amazon
+
+O mercado de ações está prestes a abrir com uma nota positiva, após a Nasdaq-100 subir quase 2% ontem, e a Amazon ultrapassar a marca de $3 trilhões de mercado de capitalização. A Palantir também teve um bom dia, com suas ações subindo mais de 14% após a empresa relatar resultados trimestrais melhores do que esperados.
+
+[Ler noticia completa](https://www.cnbc.com/2026/08/04/5-things-to-know-before-the-stock-market-opens.html)
+
+---
+
+## 3. Asia stocks jump as AI rally returns; Japan, Korea surge
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Tecnologia, Bolsa Asiática
+
+A bolsa asiática registrou um aumento significativo, liderada pela indústria de tecnologia e inteligência artificial, com países como Japão e Coreia liderando as ganhas. A melhoria no sentimento em relação à IA e a recuperação da confiança dos investidores após a divulgação de resultados sólidos de empresas de tecnologia contribuíram para o aumento dos preços das ações.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-ai-rally-returns-japan-korea-surge-4836372)
+
+---
+
+## 4. SpaceX First Earnings Report Is Coming. Here’s What To Look For
+
+**Fonte:** forbes.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Tecnologia, SpaceX
+
+A SpaceX está prestes a apresentar seu primeiro relatório de ganhos, e investidores devem estar atentos a vários aspectos, incluindo despesas com capital em AI, lucratividade de Starlink e planejamento de capital. A empresa investiu $7,72 bilhões em AI apenas no primeiro trimestre de 2026, e espera aumentar suas despesas para $118,4 bilhões em 2028. A lucratividade de Starlink é considerada o principal motor de valor da empresa, com $11,4 bilhões de receita e $4,4 bilhões de lucro operacional em 2025.
+
+[Ler noticia completa](https://www.forbes.com/sites/investor-hub/article/spacex-first-earnings-report-what-to-look-out-for)
+
+---
+
+## 5. Banco Santander (Brasil) SA (SANB3.SA)
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** Banco, Finanças, Economia
+
+O Banco Santander (Brasil) SA (SANB3.SA) apresenta uma visão geral de seus resultados financeiros, incluindo receita, lucro, margem de lucro e outros indicadores financeiros. Além disso, o banco fornece informações sobre sua estrutura de capital, incluindo mercado de capitalização, valor de empresa, P/E e outros indicadores de valoração.
+
+[Ler noticia completa](https://finance.yahoo.com/quote/SANB3.SA)
+
+---
+
+## 6. 4 Hyperscalers, One Message: The AI Trade Isn’t Over (NYSEARCA:SPY)
 
 **Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Cloud Computing, Infraestrutura de TI
-
-A Amazon recentemente alcançou um patrimônio líquido de $3 trilhões, reforçando a tendência de crescimento das empresas de infraestrutura de IA. Os fortes resultados financeiros da Microsoft e da Alphabet também sugerem que a despesa com IA permanece uma prioridade estratégica, apesar da volatilidade recente no mercado. Empresas de infraestrutura de IA bem posicionadas continuam a se beneficiar da expansão de capacidade de nuvem e centros de dados por parte dos hiperscalers.
-
-[Ler noticia completa](https://seekingalpha.com/article/4929574-amazon-earnings-3-trillion-market-cap-point-to-growth-in-these-top-ai-stocks)
-
----
-
-## 5. AMD Earnings Beat Estimates and Stock Falls 8%: Was the Bar Too High?
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
-**Tags:** AMD, Semicondutores, Tecnologia
+**Tags:** AI, Tecnologia, Mercado de Ações
 
-A AMD anunciou resultados financeiros que superaram as estimativas, com receita de $11,54 bilhões e guia de vendas para o terceiro trimestre de aproximadamente $13 bilhões. No entanto, a ação caiu 8% em negociação após-horário, devido a preocupações sobre a valoração em comparação com a Nvidia e Broadcom, além de limites de capacidade na TSMC.
+Quatro hyperscalers, incluindo Amazon e Meta, enviaram uma mensagem clara de que a corrida ao AI não está acabando. Embora haja uma onda de pânico no mercado devido a uma série de fatores, essas empresas continuam a investir pesadamente na tecnologia de inteligência artificial. Isso sugere que a tendência de crescimento da indústria de AI ainda está longe de terminar.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/amd-earnings-beat-estimates-stock-205710559.html)
-
----
-
-## 6. Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Mercados Financeiros
-
-A presença de investimentos em empresas de IA privadas está distorcendo a imagem das receitas corporativas. A Microsoft, Amazon e Alphabet registraram ganhos significativos de investimento no último trimestre graças a participações em Anthropic e OpenAI, mas esses ganhos são apenas em papel e não refletem o crescimento real das empresas. Sem esses ganhos, o crescimento das receitas do S&P 500 seria de cerca de 29%, muito mais próximo do que os analistas haviam previsto.
-
-[Ler noticia completa](https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html)
-
----
-
-## 7. 'non-sexy parts of the AI trade' offer EM's biggest opportunities - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Emerging Markets, Semicondutores
-
-O analista Eric Van Nostrand da Lazard Asset Management afirma que a próxima etapa do negócio de IA pode vir de empresas de mercado emergente que apoiam centros de dados e cadeias de suprimento de chips, oferecendo oportunidades significativas. Ele também destaca a Índia como uma oportunidade subestimada de IA com uma história de investimento liderada por infraestrutura.
-
-[Ler noticia completa](https://www.cnbc.com/video/2026/08/05/lazard-am-pockets-of-opportunity-in-em-especially-in-the-non-sexy-parts-of-the-ai-trade.html)
-
----
-
-## 8. Morgan Stanley Shares 24 AI Adopter Stocks to Buy Now - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Investimentos
-
-A Morgan Stanley compartilhou uma lista de 24 ações de empresas que adotam a inteligência artificial (IA) e são recomendadas para investir. A lista inclui empresas como Meta Platforms, Amazon, Grindr, Johnson Controls e outras que estão aproveitando a IA para melhorar seus negócios e produtos. A lista destaca a capacidade dessas empresas de aumentar a eficiência, acelerar o desenvolvimento de produtos e melhorar a experiência do usuário.
-
-[Ler noticia completa](https://www.businessinsider.com/ai-stocks-to-buy-now-companies-adopting-profit-margins-productivity-2026-8)
-
----
-
-## 9. Gasto acelerado com IA gera impacto bilionário no caixa das big techs | Empresas | Valor Econômico
-
-**Fonte:** valor.globo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** IA, Big Tech, Computação em Nuvem
-
-O gasto acelerado com IA pelas big techs está gerando impacto bilionário no caixa dessas empresas. Apesar da apreensão dos investidores, analistas apontam que o aumento das despesas é justificado devido à entrada da Meta na oferta de serviços de computação em nuvem e aos avanços de IA na geração de anúncios. Isso traz sentido à elevação do capex e é um cenário diferente do que foi visto em 2022.
-
-[Ler noticia completa](https://valor.globo.com/empresas/noticia/2026/08/01/gasto-acelerado-com-ia-impacta-caixa-de-big-techs-mas-h-demanda-e-retorno-deve-aparecer-em-at-3-anos.ghtml)
-
----
-
-## 10. Analyst on hyperscalers' earnings potential - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Hyperscalers, Microsoft
-
-O analista Patrick Moorhead da Moor Insights & Strategy afirma que, embora alguns investidores estejam fazendo apostas rápidas nos hiperscalers em virtude da onda de inteligência artificial, empresas como a Microsoft e Azure estão gerando lucros. Moorhead destaca que os hiperscalers estão focados em gerar receita e não apenas em investir em tecnologia de ponta.
-
-[Ler noticia completa](https://www.cnbc.com/video/2026/08/05/analyst-on-hyperscalers-earnings-potential.html)
+[Ler noticia completa](https://seekingalpha.com/article/4929289-4-hyperscalers-one-message-the-ai-trade-isnt-over)
 
 ---
