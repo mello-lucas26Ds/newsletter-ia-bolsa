@@ -1,11 +1,146 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-05",
-    "total_noticias": 88,
-    "gerado_em": "2026-08-05T12:00:23.639419"
+    "data": "2026-08-06",
+    "total_noticias": 81,
+    "gerado_em": "2026-08-06T05:47:01.938586"
   },
   "noticias": [
+    {
+      "titulo": "AI-driven tech melt-up fuels $3.5T Nasdaq 100 surge in four days (NDX:)",
+      "url": "https://seekingalpha.com/news/4625732-ai-driven-tech-melt-up-fuels-35t-nasdaq-100-surge-in-four-days",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-05",
+      "resumo": "O índice Nasdaq 100 (NDX) registrou um aumento de cerca de $3,5T em valor de mercado nas últimas quatro sessões de negociação, impulsionado por uma onda de resultados financeiros fortes da tecnologia que reacendeu a otimismo dos investidores em relação ao gasto com inteligência artificial. A onda de gastos com IA reacendeu a otimismo dos investidores em relação ao setor de tecnologia, impulsionando o índice a um aumento de 9,3% nas últimas quatro sessões.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "NASDAQ"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 83
+    },
+    {
+      "titulo": "Tech Melt-Up Drives $3.5 Trillion Nasdaq 100 Gain in Four Days",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/tech-melt-up-drives-3-5-trillion-nasdaq-100-rally-in-four-days",
+      "fonte": "bloomberg.com",
+      "data": "2026-08-05",
+      "resumo": "A Nasdaq 100 experimentou um aumento de $3,5 trilhões em apenas quatro dias, impulsionado por fortes lucros que embolaram os investidores sobre a perspectiva de IA. A tecnologia está em alta, com o índice de tecnologia subindo 9,3% nesse período, sua maior recuperação desde abril de 2025.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 56
+    },
+    {
+      "titulo": "What Is Going on with Taiwan Semiconductor Stock on Wednesday? - Taiwan Semiconductor (NYSE:TSM) - Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60958922/what-is-going-on-with-taiwan-semiconductor-stock-on-wednesday",
+      "fonte": "benzinga.com",
+      "data": "2026-08-05",
+      "resumo": "A ação da Taiwan Semiconductor Manufacturing Co Ltd (TSM) está em queda de 0,43% no dia de ontem, apesar de outros fabricantes de chips de inteligência artificial terem experimentado um aumento significativo após a divulgação de resultados financeiros fortes da Palantir. A TSM está em uma tendência de longo prazo, mas a situação no curto prazo é mais volátil. A empresa está programada para divulgar seus resultados financeiros no dia 15 de outubro, com estimativas de lucro e receita que superam os valores do ano anterior.",
+      "sentimento": "bearish",
+      "tags": [
+        "TSM",
+        "Semiconductor",
+        "AI"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 95
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.06%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-006-4835843",
+      "fonte": "investing.com",
+      "data": "2026-08-04",
+      "resumo": "O índice de ações brasileiro, Bovespa, fechou com uma queda de 0,06% no final do dia. Além disso, as ações de várias empresas, incluindo SPCX, AMD, PLTR, NVDA e MU, apresentaram variações significativas.",
+      "sentimento": "bearish",
+      "tags": [
+        "Bovespa",
+        "Mercado de Ações",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 44
+    },
+    {
+      "titulo": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+      "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+      "fonte": "cnbc.com",
+      "data": "2026-07-31",
+      "resumo": "Leopold Aschenbrenner, fundador de um hedge fund de IA, perdeu a maioria de seu patrimônio de $45 bilhões em apenas dias. A perda ocorreu após uma série de investimentos arriscados em tecnologia e AI. A notícia é um lembrete da volatilidade do mercado de ações e da importância de tomar decisões informadas.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 100
+    },
+    {
+      "titulo": "Ibovespa hoje: acompanhe em tempo real a Bolsa de Valores",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05082026",
+      "fonte": "infomoney.com.br",
+      "data": "2026-08-05",
+      "resumo": "A Bolsa de Valores de São Paulo (B3) está em operação, com a Ibovespa abrindo com uma alta de 0,03% em relação ao fechamento de ontem. A Petrobras (PETR3) começa a sessão com ganhos de 1,00%, enquanto a Havpida (HAPV3) abre com mais 0,25%. Além disso, os supermercadistas ASAI3, GMAT3 e PCAR3 também abrem com altas.",
+      "sentimento": "bullish",
+      "tags": [
+        "Bolsa de Valores",
+        "Ibovespa",
+        "Petrobras"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 105
+    },
+    {
+      "titulo": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
+      "url": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-03",
+      "resumo": "Jim Cramer afirma que a Wall Street agora está mais otimista em relação às grandes empresas de tecnologia que investem em inteligência artificial, graças à explicação de Andy Jassy sobre os retornos desses investimentos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "BigTech",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 43
+    },
+    {
+      "titulo": "Ibovespa e dólar hoje: petróleo recua com Irã e Selic cai no Focus antes do Copom",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-petroleo-recua-com-ira-e-selic-cai-no-focus-2024202",
+      "fonte": "br.investing.com",
+      "data": "2026-08-03",
+      "resumo": "A notícia não apresenta uma notícia específica sobre a Ibovespa e o dólar, mas sim uma seleção de ações e ETFs com destaque para a tecnologia e a inteligência artificial. A Palantir e a Snap apresentam resultados positivos, enquanto o mercado aguarda os balanços da AMD e a SpaceX. O petróleo recua com a tensão no Irã.",
+      "sentimento": "bullish",
+      "tags": [
+        "Tecnologia",
+        "Inteligência Artificial",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 69
+    },
+    {
+      "titulo": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders",
+      "fonte": "techcrunch.com",
+      "data": "2026-08-05",
+      "resumo": "A Klaviyo, plataforma de marketing de automação de e-commerce, adquiriu a Agency, startup de sucesso de clientes fundada por Elias Torres. Torres se juntará à Klaviyo como CPO e liderará a equipe de 25 pessoas para acelerar o desenvolvimento e a expansão dos agentes de IA da Klaviyo. A Agency havia recebido $32 milhões de investidores antes da aquisição.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Startups",
+        "M&A"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 68
+    },
     {
       "titulo": "Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-holds-taiwan-semiconductor-100500337.html",
@@ -475,21 +610,6 @@
       "tokens_usados": 62
     },
     {
-      "titulo": "Impressoras de chips da ASML de US$400 mi impulsionam boom da IA Por Reuters",
-      "url": "https://br.investing.com/news/stock-market-news/impressoras-de-chips-da-asml-de-us400-mi-impulsionam-boom-da-ia-2016770",
-      "fonte": "br.investing.com",
-      "data": "2026-07-29",
-      "resumo": "A empresa de tecnologia ASML lançou impressoras de chips de US$400 milhões, o que impulsionou o boom da IA. A notícia não menciona especificamente ações de empresas de IA, mas sim a tecnologia por trás delas. A lista de ações e ETFs inclui empresas de tecnologia e financeiras, mas não há uma conexão direta com a IA.",
-      "sentimento": "bullish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 111
-    },
-    {
       "titulo": "SoundHound AI's Next Earnings Report on Aug. 5 Could ...",
       "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ais-next-earnings-report-214501723.html",
       "fonte": "finance.yahoo.com",
@@ -518,22 +638,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 74
-    },
-    {
-      "titulo": "Magnificent 7 results set to test broadening US stock market",
-      "url": "https://www.reuters.com/business/magnificent-7-results-set-test-broadening-us-stock-market-2026-07-29",
-      "fonte": "reuters.com",
-      "data": "2026-07-29",
-      "resumo": "A bolsa de valores dos EUA está prestes a testar seu desempenho com os resultados das 7 empresas líderes do setor de tecnologia, incluindo Alphabet e Tesla, que já apresentaram resultados negativos. A queda dessas empresas pode afetar o mercado, que tem sido impulsionado pela corrida ao desenvolvimento de inteligência artificial (IA). A indústria de semicondutores também está sendo afetada, com o índice Philadelphia SE Semiconductor index caindo mais de 19% desde o pico em junho.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Tecnologia",
-        "Bolsa de Valores"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 88
     },
     {
       "titulo": "Goldman Sachs sees AI trade stabilizing as strong ...",
@@ -657,21 +761,6 @@
       "tokens_usados": 89
     },
     {
-      "titulo": "A crise do capex nas big techs? | Investing.com",
-      "url": "https://br.investing.com/analysis/a-crise-do-capex-nas-big-techs-200478686",
-      "fonte": "br.investing.com",
-      "data": "2026-07-29",
-      "resumo": "A crise do capex nas big techs pode ser uma ameaça significativa para o mercado de ações, especialmente se as empresas não conseguirem traduzir sua hegemonia tecnológica em lucro líquido distribuível. A provocação para os investidores é até quando o mercado aceitará que as maiores empresas do mundo operem com fluxo de caixa negativo. Os próximos resultados decidirão se 2026 será o ano da consolidação da IA ou o ano do estouro de uma possível bolha do Capex.",
-      "sentimento": "bearish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 89
-    },
-    {
       "titulo": "Amazon soars after CEO makes the case for its massive AI ...",
       "url": "https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html",
       "fonte": "cnbc.com",
@@ -685,21 +774,6 @@
       ],
       "score_relevancia": 9.0,
       "tokens_usados": 87
-    },
-    {
-      "titulo": "ALLOS (ALOS3): IA deve acirrar concorrência online enquanto shoppings mantêm vantagem",
-      "url": "https://www.infomoney.com.br/onde-investir/allos-alos3-ve-ia-acirrando-concorrencia-online-e-reforcando-forca-dos-shoppings",
-      "fonte": "infomoney.com.br",
-      "data": "2026-07-29",
-      "resumo": "A Inteligência Artificial (IA) pode acirrar a concorrência online no varejo, enquanto as lojas físicas, como as operadoras de shoppings, mantêm uma vantagem. O CEO da ALLOS afirma que a tecnologia pode acelerar decisões, aprimorar o mix de lojas e ampliar o conhecimento sobre os consumidores.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Varejo",
-        "Comércio Eletrônico"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 56
     },
     {
       "titulo": "1 AI Stock I’d Buy Before It Hits Another All-Time High",
@@ -1008,21 +1082,6 @@
       "tokens_usados": 137
     },
     {
-      "titulo": "BigBear.ai Before Q2 Earnings: Buy, Sell or Hold the Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-q2-earnings-buy-140600906.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-29",
-      "resumo": "BigBear.ai apresentou um primeiro trimestre estável de 2026, com receitas de $34,4 milhões que permaneceram quase inalteradas em relação ao ano anterior. A empresa melhorou significativamente a margem bruta para 34% e obteve vários contratos de defesa e IA de alta valor, elevando o estoque de 14% sequencialmente para $281,9 milhões. A empresa também terminou o trimestre com um forte $431,5 milhões em caixa e investimentos. A empresa reafirmou sua orientação de receita para todo o ano de 2026, de $135-$165 milhões, refletindo confiança em seu cenário de crescimento.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Defesa",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 98
-    },
-    {
       "titulo": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
       "url": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
       "fonte": "cnbc.com",
@@ -1036,22 +1095,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 56
-    },
-    {
-      "titulo": "AMD Stock Is Gaining Wednesday: What's Going On? - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/07/60752479/amd-stock-is-gaining-wednesday-whats-going-on",
-      "fonte": "benzinga.com",
-      "data": "2026-07-29",
-      "resumo": "A ação da AMD está subindo na quarta-feira, com expectativas de lucro elevadas para o próximo trimestre. A empresa é esperada para relatar lucro de $1,55 por ação, um aumento de 48 centavos em relação ao mesmo período do ano passado. A empresa é uma das principais holdings em vários ETFs de semicondutores e tecnologia, o que pode influenciar significativamente o preço da ação.",
-      "sentimento": "bullish",
-      "tags": [
-        "AMD",
-        "Semicondutores",
-        "Tecnologia",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
     },
     {
       "titulo": "Brazil Market Trading Resumes After Widespread Halt Hits B3",
@@ -1188,158 +1231,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 81
-    },
-    {
-      "titulo": "Cyera agrees to acquire Oasis Security for $1B to safeguard ...",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents",
-      "fonte": "techcrunch.com",
-      "data": "2026-07-29",
-      "resumo": "A Cyera acordou a compra da Oasis Security por US$ 1 bilhão para proteger a identidade e os dados. A Cyera planeja integrar a tecnologia da Oasis em uma plataforma de segurança unificada. A empresa já ultrapassou US$ 150 milhões em receita recorrente anual (ARR) e tem cerca de US$ 2,3 bilhões em financiamento total.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Cyera",
-        "Mergers and Acquisitions",
-        "Security"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "Legora Acquires Legal AI Startup Wexler in Fifth Acquisition in 2026 - Business Insider",
-      "url": "https://www.businessinsider.com/legora-acquires-legal-ai-startup-wexler-consolidation-2026-7",
-      "fonte": "businessinsider.com",
-      "data": "2026-07-29",
-      "resumo": "A Legora adquiriu a startup de inteligência artificial Wexler, especializada em litigios, em sua quinta aquisição em 2026. A Wexler desenvolveu software que ajuda advogados a reconstruir casos a partir de milhares de documentos, permitindo que eles identifiquem conflitos entre a evidência e as declarações de testemunhas. Com essa aquisição, a Legora busca se tornar mais útil para advogados de julgamentos.",
-      "sentimento": "bullish",
-      "tags": [
-        "M&A",
-        "AI",
-        "Legora"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 70
-    },
-    {
-      "titulo": "Earnings call transcript: Meta misses EPS in Q2 2026 as ...",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-meta-misses-eps-in-q2-2026-as-stock-sinks-after-hours-93CH-4821910",
-      "fonte": "investing.com",
-      "data": "2026-07-29",
-      "resumo": "Meta não atingiu as expectativas de lucro por ação (EPS) no segundo trimestre de 2026, o que pode ter implicações para a indústria de tecnologia e inteligência artificial. A empresa enfrenta desafios em sua área de inteligência artificial, incluindo uma ameaça inesperada ao mercado de processamento de computação de AI. A notícia pode afetar as ações de empresas como NVIDIA e Microsoft, que investem pesadamente em tecnologia de IA.",
-      "sentimento": "bearish",
-      "tags": [
-        "Meta",
-        "Inteligência Artificial",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 79
-    },
-    {
-      "titulo": "Ibovespa fecha em queda com bancos e Fed no radar Por Reuters",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-com-bancos-e-fed-no-radar-2018731",
-      "fonte": "br.investing.com",
-      "data": "2026-07-29",
-      "resumo": "A Ibovespa fechou em queda, com bancos e a Fed no radar. A queda é influenciada pela instabilidade no mercado e pela expectativa de aumento das taxas de juros.",
-      "sentimento": "bearish",
-      "tags": [
-        "Ibovespa",
-        "Mercado de Ações",
-        "Bancos"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 40
-    },
-    {
-      "titulo": "Could an AI market crash rival 2000 or 2008? Unlikely",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/could-an-ai-market-crash-rival-2000-or-2008-unlikely-2026-07-29",
-      "fonte": "reuters.com",
-      "data": "2026-07-29",
-      "resumo": "A crise no mercado de tecnologia pode parecer alarmante, com a Nasdaq perto de uma correção de 10% e o índice de semicondutores em uma tendência de mercado baixa. No entanto, os analistas consideram que a situação atual é diferente das crises de 2000 e 2008, devido à valoração razoável das empresas e à lucratividade de muitas delas.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 93
-    },
-    {
-      "titulo": "Microsoft set for $190 billion market value swing after earnings results ...",
-      "url": "https://www.reuters.com/business/finance/microsoft-set-190-billion-market-value-swing-after-earnings-results-options-2026-07-29",
-      "fonte": "reuters.com",
-      "data": "2026-07-29",
-      "resumo": "A Microsoft está prestes a experimentar um movimento significativo em seu valor de mercado após os resultados financeiros, com investidores esperando sinais de que as investidas em inteligência artificial estão gerando retornos. A empresa é considerada uma história de renda importante relacionada à inteligência artificial, e os investidores estão monitorando a execução da empresa nesse setor. Além disso, a Meta também está sob escrutínio por sua despesa em inteligência artificial.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Microsoft",
-        "Meta"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 79
-    },
-    {
-      "titulo": "Bovespa Index Today (IBOV) - Investing.com",
-      "url": "https://www.investing.com/indices/bovespa",
-      "fonte": "investing.com",
-      "data": "2026-07-29",
-      "resumo": "O índice Bovespa (IBOV) está apresentando uma variedade de movimentos, com alguns ativos aumentando e outros diminuindo. O PETR4 (Petroleo Brasileiro SA PN) está em alta de 2,16%, enquanto o B3SA3 (B3 SA Brasil Bolsa Balcao) está em queda de 3,00%. Além disso, o PRIO3 (Prio ON) é o maior ganhador do dia, com um aumento de 2,96%.",
-      "sentimento": "neutral",
-      "tags": [
-        "Bovespa",
-        "Petroleo",
-        "Ações",
-        "Mercado"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-micron-amd-sink-after-sk-hynix-results-fail-to-impress-ai-trade-unwinds-130352334.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-29",
-      "resumo": "A cotação de ações de empresas ligadas à tecnologia e à Inteligência Artificial (IA) caiu após a divulgação de resultados de SK Hynix, que não atenderam às expectativas dos investidores. A empresa registrou um lucro operacional recorde no segundo trimestre, mas o aumento foi inferior ao esperado, levando a preocupações sobre a sustentabilidade do investimento em IA.",
-      "sentimento": "bearish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Semicondutores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 66
-    },
-    {
-      "titulo": "Café: o que separa preço alto de equilíbrio real | Investing.com",
-      "url": "https://br.investing.com/analysis/cafe-o-que-separa-preco-alto-de-equilibrio-real-200478688",
-      "fonte": "br.investing.com",
-      "data": "2026-07-29",
-      "resumo": "O artigo não apresenta uma notícia específica sobre IA ou tecnologia, mas sim uma lista de notícias e ações em destaque no mercado brasileiro. Além disso, há uma seção de ProPicks IA que seleciona ações com histórico de ganhos acima do S&P 500 usando inteligência artificial.",
-      "sentimento": "neutral",
-      "tags": [
-        "[Mercado de Ações",
-        "Brasil",
-        "Inteligência Artificial]"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 58
-    },
-    {
-      "titulo": "Chip sell-off: SK Hynix, Samsung Electronics, SoftBank",
-      "url": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-29",
-      "resumo": "A indústria de chips está experimentando uma queda significativa, com empresas como SK Hynix, Samsung Electronics e SoftBank Group sendo afetadas. A queda é sentida em todo o mundo, com índices de tecnologia e semicondutores em queda. A TSMC, maior fabricante de chips do mundo, também registrou uma queda de 1,32%.",
-      "sentimento": "bearish",
-      "tags": [
-        "Semicondutores",
-        "Tecnologia",
-        "Mercados financeiros"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 61
     }
   ]
 }

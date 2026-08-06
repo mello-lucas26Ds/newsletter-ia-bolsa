@@ -1,84 +1,4 @@
 {
-  "https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html": {
-    "hash": "340d0fca1557cec0e451b0bc61d3f740",
-    "visto_em": "2026-07-29"
-  },
-  "https://www.infomoney.com.br/mercados/data-centers-da-ia-podem-destravar-r-100-bi-por-ano-no-brasil-quais-acoes-ganharao": {
-    "hash": "67ec399f06a0c0985fb7d0692b70a8ed",
-    "visto_em": "2026-07-29"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/5-earnings-reports-watch-big-022415137.html": {
-    "hash": "9d4667e0958adff08166244335a5ffef",
-    "visto_em": "2026-07-29"
-  },
-  "https://www.reuters.com/business/nasdaq-futures-drop-ai-chip-worries-ahead-pivotal-earnings-2026-07-28": {
-    "hash": "9fc3de6ed98c9bb3cd07b4543bc337f4",
-    "visto_em": "2026-07-29"
-  },
-  "https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html": {
-    "hash": "5f45101a96c144493e59001a36801f85",
-    "visto_em": "2026-07-29"
-  },
-  "https://seekingalpha.com/article/4926435-6-catalysts-that-might-pop-the-ai-bubble": {
-    "hash": "6ee1cdf31080a340c94f553746b338e0",
-    "visto_em": "2026-07-29"
-  },
-  "https://www.benzinga.com/markets/tech/26/07/60716573/intel-stock-is-falling-tuesday-whats-going-on": {
-    "hash": "0b32659d411a47a9240ff73343b45310",
-    "visto_em": "2026-07-29"
-  },
-  "https://seekingalpha.com/article/4926248-what-past-sector-concentrations-tell-us-about-todays-tech-heavy-sp500": {
-    "hash": "5d113bcda1d452a95cfe923ccacda57e",
-    "visto_em": "2026-07-29"
-  },
-  "https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4": {
-    "hash": "136c20ce6c9bfc641ea455179552c5b0",
-    "visto_em": "2026-07-29"
-  },
-  "https://www.wsj.com/pro/cybersecurity/cyera-to-buy-oasis-security-in-1-billion-deal-af998439": {
-    "hash": "d3e1c33b1a7b49dae2d1c4fd393ead97",
-    "visto_em": "2026-07-29"
-  },
-  "https://www.benzinga.com/markets/tech/26/07/60689048/wall-street-sees-little-threat-to-micron-from-chinas-new-memory-giant": {
-    "hash": "4b52d0a701c3228df646e2135dc92ab9",
-    "visto_em": "2026-07-29"
-  },
-  "https://seekingalpha.com/article/4925591-tsmc-i-was-wrong": {
-    "hash": "5235b560c0535e3769b8b35b9559b09c",
-    "visto_em": "2026-07-29"
-  },
-  "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-several-top-picks-named-into-q2-earnings-4812810": {
-    "hash": "018cf245b70cac70bbf3ec185498b116",
-    "visto_em": "2026-07-29"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/intel-stock-buy-latest-earnings-155301892.html": {
-    "hash": "69fce5c1e806f45e3caf4bceed623a47",
-    "visto_em": "2026-07-29"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductors-latest-move-shows-115000073.html": {
-    "hash": "17874ade51c5c3dc955398d601f3fdb9",
-    "visto_em": "2026-07-29"
-  },
-  "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60697145/exclusive-after-nvidia-and-sk-hynix-these-3-ai-stocks-could-be-the-next-winners-ceo-says": {
-    "hash": "50028b9dadeb3ffd731d50a60f9d4035",
-    "visto_em": "2026-07-29"
-  },
-  "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html": {
-    "hash": "ad2b596d9482a96e0fef6c87d8c49354",
-    "visto_em": "2026-07-29"
-  },
-  "https://seekingalpha.com/article/4926554-intel-vs-tsmc-how-cowos-packaging-constraints-create-opportunity-for-intel-foundry": {
-    "hash": "1a0c35c1d034cb26e2853c85f43699e2",
-    "visto_em": "2026-07-29"
-  },
-  "https://seekingalpha.com/article/4926169-oracle-the-most-disliked-ai-name-could-double": {
-    "hash": "1c048dedddd23dc0949bf2a61d2a070c",
-    "visto_em": "2026-07-29"
-  },
-  "https://www.forbes.com/sites/the-prompt/2026/07/28/ais-early-winners-are-shopping-for-their-next-big-moves/": {
-    "hash": "1528429a6584ae9dd384eb74ad56e297",
-    "visto_em": "2026-07-29"
-  },
   "https://finance.yahoo.com/news/meta-misses-on-q2-earnings-stock-tumbles-121325403.html": {
     "hash": "32e069a380ecf0e7afb1d40173aca790",
     "visto_em": "2026-07-30"
@@ -466,5 +386,41 @@
   "https://seekingalpha.com/article/4929289-4-hyperscalers-one-message-the-ai-trade-isnt-over": {
     "hash": "d7c746d4433816845dd9ff4aee511f84",
     "visto_em": "2026-08-05"
+  },
+  "https://seekingalpha.com/news/4625732-ai-driven-tech-melt-up-fuels-35t-nasdaq-100-surge-in-four-days": {
+    "hash": "fc8345ca74b7feb693666e92c171903b",
+    "visto_em": "2026-08-06"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-05/tech-melt-up-drives-3-5-trillion-nasdaq-100-rally-in-four-days": {
+    "hash": "d7d2e4534625738c9b02bb3a022ede25",
+    "visto_em": "2026-08-06"
+  },
+  "https://www.benzinga.com/markets/tech/26/08/60958922/what-is-going-on-with-taiwan-semiconductor-stock-on-wednesday": {
+    "hash": "549e7841114582378b088f395592238c",
+    "visto_em": "2026-08-06"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-006-4835843": {
+    "hash": "0d5efa01c8722ce14d73b515fc4023ed",
+    "visto_em": "2026-08-06"
+  },
+  "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html": {
+    "hash": "b28f3c21f4146436df6d7ce0381d13fc",
+    "visto_em": "2026-08-06"
+  },
+  "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05082026": {
+    "hash": "3140eda62ec55d868e1acab5cc375986",
+    "visto_em": "2026-08-06"
+  },
+  "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html": {
+    "hash": "b5a237175fd6ad9fd6516d20679c1a51",
+    "visto_em": "2026-08-06"
+  },
+  "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-petroleo-recua-com-ira-e-selic-cai-no-focus-2024202": {
+    "hash": "16f4025b44dfe0f71c9a7b6735769558",
+    "visto_em": "2026-08-06"
+  },
+  "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders": {
+    "hash": "cc761d4c9ff8e8c5c9b789f73f253622",
+    "visto_em": "2026-08-06"
   }
 }
