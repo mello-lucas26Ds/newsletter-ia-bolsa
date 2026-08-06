@@ -1,124 +1,59 @@
 # Newsletter IA Bolsa — 2026-08-06
 
-**Gerado em:** 06/08/2026 05:47
-**Total:** 9 noticias
+**Gerado em:** 06/08/2026 12:02
+**Total:** 4 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. AI-driven tech melt-up fuels $3.5T Nasdaq 100 surge in four days (NDX:)
+## 1. AMD forecasts upbeat revenue on strong AI chip demand ...
 
-**Fonte:** seekingalpha.com  
+**Fonte:** reuters.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 9.0/10  
-**Tags:** AI, Tecnologia, NASDAQ
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semiconductor, NASDAQ
 
-O índice Nasdaq 100 (NDX) registrou um aumento de cerca de $3,5T em valor de mercado nas últimas quatro sessões de negociação, impulsionado por uma onda de resultados financeiros fortes da tecnologia que reacendeu a otimismo dos investidores em relação ao gasto com inteligência artificial. A onda de gastos com IA reacendeu a otimismo dos investidores em relação ao setor de tecnologia, impulsionando o índice a um aumento de 9,3% nas últimas quatro sessões.
+A AMD prevê uma receita acima das estimativas da Wall Street, graças à forte demanda por seus chips para apoiar tecnologias de inteligência artificial. A empresa está aproveitando a expansão de capacidade de centros de dados para impulsionar a venda de seus processadores de dados. A AMD está desafiando a Nvidia, líder no mercado de chips de inteligência artificial, com investimentos bilionários.
 
-[Ler noticia completa](https://seekingalpha.com/news/4625732-ai-driven-tech-melt-up-fuels-35t-nasdaq-100-surge-in-four-days)
+[Ler noticia completa](https://www.reuters.com/business/amd-forecasts-upbeat-revenue-ai-data-center-demand-beats-quarterly-estimates-2026-08-04)
 
 ---
 
 ## 2. Tech Melt-Up Drives $3.5 Trillion Nasdaq 100 Gain in Four Days
 
-**Fonte:** bloomberg.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 9.0/10  
-**Tags:** AI, Tecnologia, Mercados
+**Tags:** AI, Tecnologia, NASDAQ
 
-A Nasdaq 100 experimentou um aumento de $3,5 trilhões em apenas quatro dias, impulsionado por fortes lucros que embolaram os investidores sobre a perspectiva de IA. A tecnologia está em alta, com o índice de tecnologia subindo 9,3% nesse período, sua maior recuperação desde abril de 2025.
+A Nasdaq 100 experimentou um aumento de 9,3% em apenas quatro dias, o maior rally desde abril de 2025. A recuperação é resultado de resultados de segunda-feira impressionantes que tranquilizaram os investidores sobre os investimentos em inteligência artificial. A compra de ações de tecnologia pelos fundos de hedge foi a mais rápida desde dezembro de 2022.
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-08-05/tech-melt-up-drives-3-5-trillion-nasdaq-100-rally-in-four-days)
-
----
-
-## 3. What Is Going on with Taiwan Semiconductor Stock on Wednesday? - Taiwan Semiconductor (NYSE:TSM) - Benzinga
-
-**Fonte:** benzinga.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** TSM, Semiconductor, AI
-
-A ação da Taiwan Semiconductor Manufacturing Co Ltd (TSM) está em queda de 0,43% no dia de ontem, apesar de outros fabricantes de chips de inteligência artificial terem experimentado um aumento significativo após a divulgação de resultados financeiros fortes da Palantir. A TSM está em uma tendência de longo prazo, mas a situação no curto prazo é mais volátil. A empresa está programada para divulgar seus resultados financeiros no dia 15 de outubro, com estimativas de lucro e receita que superam os valores do ano anterior.
-
-[Ler noticia completa](https://www.benzinga.com/markets/tech/26/08/60958922/what-is-going-on-with-taiwan-semiconductor-stock-on-wednesday)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tech-melt-drives-3-5-092612137.html)
 
 ---
 
-## 4. Brazil stocks lower at close of trade; Bovespa down 0.06%
+## 3. Earnings call transcript: Tegma jumps 11% after strong Q2 2026 growth
 
-**Fonte:** investing.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** Bovespa, Mercado de Ações, Tecnologia
-
-O índice de ações brasileiro, Bovespa, fechou com uma queda de 0,06% no final do dia. Além disso, as ações de várias empresas, incluindo SPCX, AMD, PLTR, NVDA e MU, apresentaram variações significativas.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-006-4835843)
-
----
-
-## 5. How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🔴 BEARISH  
+**Fonte:** za.investing.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Mercado de Ações
+**Tags:** Tegma, Tecnologia, Logística
 
-Leopold Aschenbrenner, fundador de um hedge fund de IA, perdeu a maioria de seu patrimônio de $45 bilhões em apenas dias. A perda ocorreu após uma série de investimentos arriscados em tecnologia e AI. A notícia é um lembrete da volatilidade do mercado de ações e da importância de tomar decisões informadas.
+A Tegma registrou um crescimento de 11% após um forte desempenho no 2º trimestre de 2026, apesar de alguns setores terem apresentado resultados desiguais. A divisão de distribuição e logística global registrou uma queda de 13% ano a ano, enquanto a divisão de logística integrada apresentou apenas um crescimento modesto e pressão nas margens. No entanto, a empresa afirmou que alguns dos problemas operacionais que afetaram os trimestres anteriores estavam começando a se aliviar.
 
-[Ler noticia completa](https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html)
-
----
-
-## 6. Ibovespa hoje: acompanhe em tempo real a Bolsa de Valores
-
-**Fonte:** infomoney.com.br  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 6.0/10  
-**Tags:** Bolsa de Valores, Ibovespa, Petrobras
-
-A Bolsa de Valores de São Paulo (B3) está em operação, com a Ibovespa abrindo com uma alta de 0,03% em relação ao fechamento de ontem. A Petrobras (PETR3) começa a sessão com ganhos de 1,00%, enquanto a Havpida (HAPV3) abre com mais 0,25%. Além disso, os supermercadistas ASAI3, GMAT3 e PCAR3 também abrem com altas.
-
-[Ler noticia completa](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05082026)
+[Ler noticia completa](https://za.investing.com/news/transcripts/earnings-call-transcript-tegma-jumps-11-after-strong-q2-2026-growth-93CH-4406642)
 
 ---
 
-## 7. Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, BigTech, Tecnologia
-
-Jim Cramer afirma que a Wall Street agora está mais otimista em relação às grandes empresas de tecnologia que investem em inteligência artificial, graças à explicação de Andy Jassy sobre os retornos desses investimentos.
-
-[Ler noticia completa](https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html)
-
----
-
-## 8. Ibovespa e dólar hoje: petróleo recua com Irã e Selic cai no Focus antes do Copom
+## 4. Balanços corporativos, petróleo e Copom no radar dos mercados | Investing.com
 
 **Fonte:** br.investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** Tecnologia, Inteligência Artificial, Mercado de Ações
+**Tags:** Balanços corporativos, Petróleo, Copom, Mercados financeiros
 
-A notícia não apresenta uma notícia específica sobre a Ibovespa e o dólar, mas sim uma seleção de ações e ETFs com destaque para a tecnologia e a inteligência artificial. A Palantir e a Snap apresentam resultados positivos, enquanto o mercado aguarda os balanços da AMD e a SpaceX. O petróleo recua com a tensão no Irã.
+A temporada de balanços corporativos no Brasil está em andamento, com empresas como Itaú e Gerdau divulgando seus resultados. Além disso, a produção industrial de junho no Brasil e o relatório Jolts nos Estados Unidos são pontos de atenção para os investidores. O petróleo também está em foco, após a queda temporária devido à escalada militar no Oriente Médio. A reunião do Copom também é importante, pois pode confirmar mais um corte da Selic e sinalizar para setembro.
 
-[Ler noticia completa](https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-petroleo-recua-com-ira-e-selic-cai-no-focus-2024202)
-
----
-
-## 9. Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders
-
-**Fonte:** techcrunch.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Startups, M&A
-
-A Klaviyo, plataforma de marketing de automação de e-commerce, adquiriu a Agency, startup de sucesso de clientes fundada por Elias Torres. Torres se juntará à Klaviyo como CPO e liderará a equipe de 25 pessoas para acelerar o desenvolvimento e a expansão dos agentes de IA da Klaviyo. A Agency havia recebido $32 milhões de investidores antes da aquisição.
-
-[Ler noticia completa](https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders)
+[Ler noticia completa](https://br.investing.com/analysis/balancos-corporativos-petroleo-e-copom-no-radar-dos-mercados-200478818)
 
 ---
