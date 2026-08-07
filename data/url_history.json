@@ -1,52 +1,4 @@
 {
-  "https://finance.yahoo.com/news/meta-misses-on-q2-earnings-stock-tumbles-121325403.html": {
-    "hash": "32e069a380ecf0e7afb1d40173aca790",
-    "visto_em": "2026-07-30"
-  },
-  "https://www.reuters.com/commentary/reuters-open-interest/could-an-ai-market-crash-rival-2000-or-2008-unlikely-2026-07-29": {
-    "hash": "5df56a6b0353fbe25f7519f743f2ddc5",
-    "visto_em": "2026-07-30"
-  },
-  "https://www.reuters.com/business/finance/global-markets-stress-graphic-2026-07-28": {
-    "hash": "69a6613289165aa19d98359ad3f9b00f",
-    "visto_em": "2026-07-30"
-  },
-  "https://www.reuters.com/business/finance/microsoft-set-190-billion-market-value-swing-after-earnings-results-options-2026-07-29": {
-    "hash": "cdc17fb4d3ba9d791063473b307d5a0f",
-    "visto_em": "2026-07-30"
-  },
-  "https://seekingalpha.com/article/4925855-the-stock-market-is-not-overvalued-yet": {
-    "hash": "8b940380f094cf54d5225d12769ce07a",
-    "visto_em": "2026-07-30"
-  },
-  "https://www.investing.com/indices/bovespa": {
-    "hash": "eb2725f14f5c241a39fa7bd5f7bc934e",
-    "visto_em": "2026-07-30"
-  },
-  "https://finance.yahoo.com/markets/article/nvidia-micron-amd-sink-after-sk-hynix-results-fail-to-impress-ai-trade-unwinds-130352334.html": {
-    "hash": "1cc1b5d4ac99a563c5546e21691cc0df",
-    "visto_em": "2026-07-30"
-  },
-  "https://br.investing.com/analysis/cafe-o-que-separa-preco-alto-de-equilibrio-real-200478688": {
-    "hash": "1ab81842f373be374d881e97f5f95ef0",
-    "visto_em": "2026-07-30"
-  },
-  "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html": {
-    "hash": "e92f1841501aec6117823024d71c523b",
-    "visto_em": "2026-07-30"
-  },
-  "https://www.investing.com/news/transcripts/earnings-call-transcript-meta-misses-eps-in-q2-2026-as-stock-sinks-after-hours-93CH-4821910": {
-    "hash": "cae66e3fb5f87c89ece63a840f4f2aed",
-    "visto_em": "2026-07-30"
-  },
-  "https://br.investing.com/news/stock-market-news/ibovespa-fecha-em-queda-com-bancos-e-fed-no-radar-2018731": {
-    "hash": "4a3f96494d86dc33072324c5d0eddb1a",
-    "visto_em": "2026-07-30"
-  },
-  "https://www.moneytimes.com.br/cotacoes": {
-    "hash": "d05443f266e6072dae0d4eb86e8a8b37",
-    "visto_em": "2026-07-30"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-blast-off-micron-144436659.html": {
     "hash": "ad605eafec80ae5ceea1bd9afe486fc0",
     "visto_em": "2026-07-31"
@@ -438,5 +390,41 @@
   "https://br.investing.com/analysis/balancos-corporativos-petroleo-e-copom-no-radar-dos-mercados-200478818": {
     "hash": "b9623473ab888281a643b162aaafd944",
     "visto_em": "2026-08-06"
+  },
+  "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html": {
+    "hash": "f4243c7c5f3ff81565e82a7b9e679478",
+    "visto_em": "2026-08-07"
+  },
+  "https://www.reuters.com/business/nasdaq-futures-underpinned-by-strong-ai-forecasts-focus-earnings-data-2026-08-04": {
+    "hash": "39179f9f515ed358e5286621ed01314e",
+    "visto_em": "2026-08-07"
+  },
+  "https://ca.investing.com/news/stock-market-news/litchfield-hills-initiates-datavault-ai-stock-with-buy-rating-on-tokenization-potential-93CH-4775690": {
+    "hash": "8fea2ee4ba0b98c02e39085dedb0483e",
+    "visto_em": "2026-08-07"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-down-22-heres-085000550.html": {
+    "hash": "ded94e7ddbd06822290602bf09ec02b7",
+    "visto_em": "2026-08-07"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-combined-28-114500645.html": {
+    "hash": "85139e7e60dcb762e0c6f3382bbf8e81",
+    "visto_em": "2026-08-07"
+  },
+  "https://br.investing.com/news/company-news/spac-new-america-acquisition-nomeia-kyle-wool-como-novo-ceo-93CH-2027953": {
+    "hash": "0fa308a6fcabd163ff15d679534e7b26",
+    "visto_em": "2026-08-07"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-soun-pushes-liveperson-140905419.html": {
+    "hash": "32ca5ff829582ee794df17891ce3713a",
+    "visto_em": "2026-08-07"
+  },
+  "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html": {
+    "hash": "f114ceb7e831e6fa13ed0e7589d3899e",
+    "visto_em": "2026-08-07"
+  },
+  "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-reacao-ao-copom-durigan-e-balancos": {
+    "hash": "6b0d56daf95f6ec665b3e6910132554d",
+    "visto_em": "2026-08-07"
   }
 }

@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-08-07",
+    "total_noticias": 9,
+    "gerado_em": "2026-08-07T04:53:28.412057"
+  },
+  "noticias": [
+    {
+      "titulo": "Cramer says one hedge fund's collapse cleared the way for tech's rally",
+      "url": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-04",
+      "resumo": "O colapso do hedge fund Situational Awareness, especializado em IA, liberou o caminho para a recuperação da tecnologia, pois removiu uma grande fonte de venda forçada. Isso permitiu que as ações de tecnologia subissem devido a fundamentos fortes, especialmente com a temporada de resultados financeiros. A empresa ServiceNow, por exemplo, teve um resultado forte e sua ação subiu em vez de cair.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Hedge Funds"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes",
+      "url": "https://www.reuters.com/business/nasdaq-futures-underpinned-by-strong-ai-forecasts-focus-earnings-data-2026-08-04",
+      "fonte": "reuters.com",
+      "data": "2026-08-04",
+      "resumo": "O Dow e o S&P 500 fecharam a semana em record, impulsionados por resultados de empresas ligadas à inteligência artificial e esperanças de um acordo no Oriente Médio. A Nasdaq 100 também subiu. A temporada de resultados financeiros até agora tem sido melhor do que a média histórica, com 85,2% das empresas que relataram resultados no segundo trimestre superando as estimativas.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Earnings",
+        "Wall Street"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 71
+    },
+    {
+      "titulo": "Litchfield Hills initiates Datavault AI stock with buy rating on tokenization potential",
+      "url": "https://ca.investing.com/news/stock-market-news/litchfield-hills-initiates-datavault-ai-stock-with-buy-rating-on-tokenization-potential-93CH-4775690",
+      "fonte": "ca.investing.com",
+      "data": "2026-08-04",
+      "resumo": "A Litchfield Hills iniciou a avaliação da Datavault AI com uma recomendação de compra, baseada no potencial de tokenização da empresa.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tokenização",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 58
+    },
+    {
+      "titulo": "Semiconductor Stocks Are Down 22%. Here's the 1 Chip Stock I'd Buy Right Now.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-down-22-heres-085000550.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-04",
+      "resumo": "A indústria de semicondutores está em baixa, com uma queda de 22%. No entanto, a Motley Fool recomenda a compra de uma ação de chip específica, a TSMC, devido ao seu crescimento de receita projetado para ultrapassar 40% no ano.",
+      "sentimento": "bullish",
+      "tags": [
+        "Semicondutores",
+        "TSMC",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 49
+    },
+    {
+      "titulo": "Cathie Wood invests a combined $28.7 million in TSMC, SpaceX after trimming investments in Amazon, Alphabet and Shopify",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-combined-28-114500645.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-06",
+      "resumo": "A investidora Cathie Wood investiu cerca de $28,7 milhões em TSMC e SpaceX, após vender partes de suas posições em Amazon, Alphabet e Shopify. A venda de Amazon ocorreu apenas horas antes do lançamento do relatório de segunda-feira de resultados do segundo trimestre da empresa, que superou as expectativas da Wall Street e impulsionou as ações a um novo máximo histórico.",
+      "sentimento": "bullish",
+      "tags": [
+        "TSMC",
+        "SpaceX",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 71
+    },
+    {
+      "titulo": "SPAC New America Acquisition nomeia Kyle Wool como novo CEO",
+      "url": "https://br.investing.com/news/company-news/spac-new-america-acquisition-nomeia-kyle-wool-como-novo-ceo-93CH-2027953",
+      "fonte": "br.investing.com",
+      "data": "2026-08-05",
+      "resumo": "A New America Acquisition, uma SPAC, nomeou Kyle Wool como novo CEO. A escolha de Kyle Wool pode ser vista como uma escolha estratégica para a empresa, considerando sua experiência em liderança e gestão de tecnologia.",
+      "sentimento": "neutral",
+      "tags": [
+        "SPAC",
+        "tecnologia",
+        "gestão"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 45
+    },
+    {
+      "titulo": "SoundHound AI (SOUN) Pushes LivePerson Deal As Investor Town Hall Nears",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-soun-pushes-liveperson-140905419.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-06",
+      "resumo": "A SoundHound AI está focada em inteligência artificial de voz e conversacional, e está prestes a adquirir a LivePerson, uma empresa especializada em ferramentas de engajamento de clientes. A combinação dessas empresas pode ser um ponto de encontro para investidores que buscam oportunidades no setor de inteligência artificial e software de interação com clientes.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Customer Engagement",
+        "M&A"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 64
+    },
+    {
+      "titulo": "AMD buys Taalas, startup that hardwires AI models into its ...",
+      "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-06",
+      "resumo": "A AMD anunciou a aquisição da Taalas, uma startup que desenvolve chips para inferência de modelos de IA. A Taalas criou uma plataforma para transformar qualquer modelo de IA em silício personalizado, permitindo a criação de chips em apenas dois meses após a recebimento do modelo. A AMD planeja integrar a tecnologia da Taalas em seus sistemas, incluindo processadores centrais e GPUs Instinct.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "AMD"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "Ibovespa Futuro cai com reação ao Copom, Durigan e balanços",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-reacao-ao-copom-durigan-e-balancos",
+      "fonte": "infomoney.com.br",
+      "data": "2026-08-06",
+      "resumo": "O Ibovespa Futuro opera em baixa nos primeiros negócios desta quinta-feira, com investidores reagindo ao comunicado do Banco Central, que deixou os próximos passos da política monetária em aberto. Além disso, a atenção se volta para as declarações do ministro da Fazenda, Dario Durigan, e a divulgação de balanços corporativos, incluindo da Petrobras.",
+      "sentimento": "bearish",
+      "tags": [
+        "Ibovespa",
+        "Mercado Financeiro",
+        "Política Monetária"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 64
+    }
+  ]
+}
