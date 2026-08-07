@@ -1,124 +1,72 @@
 # Newsletter IA Bolsa — 2026-08-07
 
-**Gerado em:** 07/08/2026 04:53
-**Total:** 9 noticias
+**Gerado em:** 07/08/2026 10:52
+**Total:** 5 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Cramer says one hedge fund's collapse cleared the way for tech's rally
+## 1. AMD earnings: Sky-high expectations leave little room for missteps (AMD:NASDAQ)
 
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Tecnologia, Hedge Funds
-
-O colapso do hedge fund Situational Awareness, especializado em IA, liberou o caminho para a recuperação da tecnologia, pois removiu uma grande fonte de venda forçada. Isso permitiu que as ações de tecnologia subissem devido a fundamentos fortes, especialmente com a temporada de resultados financeiros. A empresa ServiceNow, por exemplo, teve um resultado forte e sua ação subiu em vez de cair.
-
-[Ler noticia completa](https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html)
-
----
-
-## 2. Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Earnings, Wall Street
-
-O Dow e o S&P 500 fecharam a semana em record, impulsionados por resultados de empresas ligadas à inteligência artificial e esperanças de um acordo no Oriente Médio. A Nasdaq 100 também subiu. A temporada de resultados financeiros até agora tem sido melhor do que a média histórica, com 85,2% das empresas que relataram resultados no segundo trimestre superando as estimativas.
-
-[Ler noticia completa](https://www.reuters.com/business/nasdaq-futures-underpinned-by-strong-ai-forecasts-focus-earnings-data-2026-08-04)
-
----
-
-## 3. Litchfield Hills initiates Datavault AI stock with buy rating on tokenization potential
-
-**Fonte:** ca.investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Tokenização, Tecnologia
-
-A Litchfield Hills iniciou a avaliação da Datavault AI com uma recomendação de compra, baseada no potencial de tokenização da empresa.
-
-[Ler noticia completa](https://ca.investing.com/news/stock-market-news/litchfield-hills-initiates-datavault-ai-stock-with-buy-rating-on-tokenization-potential-93CH-4775690)
-
----
-
-## 4. Semiconductor Stocks Are Down 22%. Here's the 1 Chip Stock I'd Buy Right Now.
-
-**Fonte:** finance.yahoo.com  
+**Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** Semicondutores, TSMC, Investimentos
+**Tags:** AI, Semicondutores, NASDAQ
 
-A indústria de semicondutores está em baixa, com uma queda de 22%. No entanto, a Motley Fool recomenda a compra de uma ação de chip específica, a TSMC, devido ao seu crescimento de receita projetado para ultrapassar 40% no ano.
+A AMD está programada para divulgar os resultados do segundo trimestre após o fechamento do mercado na terça-feira, 4 de agosto, com investidores esperando mais um quarto com forte influência da inteligência artificial. Os resultados da empresa podem influenciar a percepção do espaço de semicondutores de inteligência artificial, com ações como a Nvidia, Broadcom, Marvell Technology e Taiwan Semiconductor Manufacturing frequentemente sendo negociadas em conjunto com as expectativas de gastos com infraestrutura de inteligência artificial.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-down-22-heres-085000550.html)
+[Ler noticia completa](https://seekingalpha.com/news/4623812-amd-q2-2026-earnings-preview)
 
 ---
 
-## 5. Cathie Wood invests a combined $28.7 million in TSMC, SpaceX after trimming investments in Amazon, Alphabet and Shopify
+## 2. AMD forecasts upbeat revenue on AI data-center demand, beats quarterly estimates
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** TSMC, SpaceX, AI, Tecnologia
+**Tags:** AI, Tecnologia, Semicondutores
 
-A investidora Cathie Wood investiu cerca de $28,7 milhões em TSMC e SpaceX, após vender partes de suas posições em Amazon, Alphabet e Shopify. A venda de Amazon ocorreu apenas horas antes do lançamento do relatório de segunda-feira de resultados do segundo trimestre da empresa, que superou as expectativas da Wall Street e impulsionou as ações a um novo máximo histórico.
+A AMD (Advanced Micro Devices) divulgou um resultado financeiro positivo, superando as estimativas de receita para o trimestre, graças à alta demanda por centros de dados que utilizam inteligência artificial (IA). A empresa espera uma receita mais alta para o próximo trimestre, o que é visto como um sinal positivo para o setor de tecnologia.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-combined-28-114500645.html)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/amd-forecasts-upbeat-revenue-on-ai-datacenter-demand-beats-quarterly-estimates-4835799)
 
 ---
 
-## 6. SPAC New America Acquisition nomeia Kyle Wool como novo CEO
+## 3. Lucro da Power Integrations superou projeções por $0,05; receita supera estimativas
+
+**Fonte:** br.investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** Power Integrations, Tecnologia, Semicondutores
+
+A Power Integrations anunciou que seu lucro por ação superou as projeções por $0,05, enquanto a receita também superou as estimativas. Essa notícia é positiva para os investidores da empresa.
+
+[Ler noticia completa](https://br.investing.com/news/earnings/lucro-da-power-integrations-superou-projecoes-por-005-receita-supera-estimativas-2028547)
+
+---
+
+## 4. Gerdau discute venda de minério com compradores do Brasil e exterior
 
 **Fonte:** br.investing.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
-**Tags:** SPAC, tecnologia, gestão
+**Tags:** Ibovespa, Gerdau, Minério
 
-A New America Acquisition, uma SPAC, nomeou Kyle Wool como novo CEO. A escolha de Kyle Wool pode ser vista como uma escolha estratégica para a empresa, considerando sua experiência em liderança e gestão de tecnologia.
+A empresa Gerdau está em negociações com compradores para vender minério, tendo em vista a discussão com compradores do Brasil e exterior. A empresa está listada na Bolsa de Valores de São Paulo (B3) e sua ação é negociada sob o símbolo GGBR3. O ProPicks IA, uma ferramenta de inteligência artificial, avalia a ação de Gerdau em comparação com milhares de alternativas.
 
-[Ler noticia completa](https://br.investing.com/news/company-news/spac-new-america-acquisition-nomeia-kyle-wool-como-novo-ceo-93CH-2027953)
+[Ler noticia completa](https://br.investing.com/news/stock-market-news/gerdau-discute-venda-de-minerio-com-compradores-do-brasil-e-exterior-2027554)
 
 ---
 
-## 7. SoundHound AI (SOUN) Pushes LivePerson Deal As Investor Town Hall Nears
+## 5. SANB11: Ações do Santander Brasil disparam 13% com OPA da matriz espanhola
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** br.investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Customer Engagement, M&A
+**Tags:** Banco, Finanças, Mercado de Ações
 
-A SoundHound AI está focada em inteligência artificial de voz e conversacional, e está prestes a adquirir a LivePerson, uma empresa especializada em ferramentas de engajamento de clientes. A combinação dessas empresas pode ser um ponto de encontro para investidores que buscam oportunidades no setor de inteligência artificial e software de interação com clientes.
+A ação do Santander Brasil (SANB11) disparou 13% após a matriz espanhola anunciar uma oferta pública de aquisição (OPA). A aprovação regulatória ainda não foi confirmada, mas o resultado do terceiro trimestre de 2026 será um catalisador importante para o papel do banco.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-soun-pushes-liveperson-140905419.html)
-
----
-
-## 8. AMD buys Taalas, startup that hardwires AI models into its ...
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, AMD
-
-A AMD anunciou a aquisição da Taalas, uma startup que desenvolve chips para inferência de modelos de IA. A Taalas criou uma plataforma para transformar qualquer modelo de IA em silício personalizado, permitindo a criação de chips em apenas dois meses após a recebimento do modelo. A AMD planeja integrar a tecnologia da Taalas em seus sistemas, incluindo processadores centrais e GPUs Instinct.
-
-[Ler noticia completa](https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html)
-
----
-
-## 9. Ibovespa Futuro cai com reação ao Copom, Durigan e balanços
-
-**Fonte:** infomoney.com.br  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** Ibovespa, Mercado Financeiro, Política Monetária
-
-O Ibovespa Futuro opera em baixa nos primeiros negócios desta quinta-feira, com investidores reagindo ao comunicado do Banco Central, que deixou os próximos passos da política monetária em aberto. Além disso, a atenção se volta para as declarações do ministro da Fazenda, Dario Durigan, e a divulgação de balanços corporativos, incluindo da Petrobras.
-
-[Ler noticia completa](https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-reacao-ao-copom-durigan-e-balancos)
+[Ler noticia completa](https://br.investing.com/news/stock-market-news/sanb11-acoes-do-santander-brasil-disparam-13-com-opa-da-matriz-espanhola-2022331)
 
 ---
