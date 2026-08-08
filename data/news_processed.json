@@ -1,11 +1,104 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-07",
-    "total_noticias": 76,
-    "gerado_em": "2026-08-07T10:52:07.016005"
+    "data": "2026-08-08",
+    "total_noticias": 66,
+    "gerado_em": "2026-08-08T04:09:17.087424"
   },
   "noticias": [
+    {
+      "titulo": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-stocks-storm-back-103001009.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-07",
+      "resumo": "As ações das empresas de tecnologia \"Big Tech\" voltaram a subir após os medos sobre a IA diminuírem e a euforia retornar. Isso ocorreu após a divulgação de relatórios de lucro que mostraram um crescimento acelerado das receitas relacionadas à IA para as empresas Microsoft e Amazon. As ações dessas empresas subiram significativamente após a divulgação dos resultados, adicionando um valor de mercado combinado de US$ 1,3 trilhão.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Big Tech",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "Global Market: Japan's Nikkei jumps over 3% as AI stocks rally, upbeat earnings lift sentiment - The Economic Times",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/global-market-japans-nikkei-jumps-over-3-as-ai-stocks-rally-upbeat-earnings-lift-sentiment/articleshow/132893039.cms",
+      "fonte": "m.economictimes.com",
+      "data": "2026-08-06",
+      "resumo": "A bolsa de valores do Japão, Nikkei, registrou um aumento de mais de 3% na quarta-feira, impulsionado por ganhos significativos nas ações relacionadas à inteligência artificial (IA) que seguiram a onda de alta na Bolsa de Nova York. Além disso, a série de resultados financeiros otimistas e atualizações de previsões de lucro contribuíram para o aumento do otimismo dos investidores. A Murata Manufacturing, um dos principais fornecedores de capacitores cerâmicos multicamadas usados em servidores de IA, subiu 8,33% após aumentar a previsão de lucro líquido anual, refletindo o crescimento da otimismo em relação à demanda impulsionada pela IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "Nikkei"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 107
+    },
+    {
+      "titulo": "TSMC set to ramp up 3nm wafer starts months ahead of schedule: Wedbush",
+      "url": "https://seekingalpha.com/news/4624943-tsmc-set-to-ramp-up-3nm-wafer-starts-months-ahead-of-schedule-wedbush",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-04",
+      "resumo": "A Taiwan Semiconductor Manufacturing (TSM) está programada para aumentar a produção de wafers em tecnologia de 3nm dois a três meses à frente do esperado, de acordo com a Wedbush. Isso deve impulsionar a demanda por componentes de alta tecnologia e potencialmente afetar as empresas de semicondutores como AMD, NVDA e AVGO.",
+      "sentimento": "bullish",
+      "tags": [
+        "TSM",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 61
+    },
+    {
+      "titulo": "Intel Soars 10%, AMD Jumps 8%, Broadcom Rises 6% as Chip Stocks Ride a Risk-On Rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-soars-10-amd-jumps-163611976.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-05",
+      "resumo": "A Intel subiu 10%, a AMD saltou 8% e a Broadcom aumentou 6% devido a uma onda de risco positiva, impulsionada pela expansão do setor de centros de dados da AMD e pelo aumento da receita de semicondutores de inteligência artificial da Broadcom. A valorização dos ativos também é um fator importante, com a AMD tendo um P/E de 171,17x e a NVIDIA tendendo a ser a mais razoável.",
+      "sentimento": "bullish",
+      "tags": [
+        "Intel",
+        "AMD",
+        "Broadcom",
+        "Semicondutores",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 80
+    },
+    {
+      "titulo": "Oracle: Cloud ERP And Oracle Database Software Driving Growth (NYSE:ORCL)",
+      "url": "https://seekingalpha.com/article/4931727-oracle-cloud-erp-and-oracle-database-software-driving-growth",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-06",
+      "resumo": "A Oracle está a experimentar crescimento graças ao seu Cloud ERP e software do Oracle Database. A infraestrutura de nuvem da Oracle deve continuar a ser um motor de crescimento, especialmente com o projeto Stargate, que envolve a construção de infraestrutura de nuvem para a inteligência artificial. A empresa espera que sua participação no mercado de infraestrutura de nuvem cresça de 2025 a 2028F, graças à expansão de centros de dados e regiões de banco de dados.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Cloud Computing",
+        "Oracle"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 87
+    },
+    {
+      "titulo": "SoundHound AI Inc Stock Price Today | NASDAQ: SOUN ...",
+      "url": "https://www.investing.com/equities/soundhound-ai",
+      "fonte": "investing.com",
+      "data": "2026-08-06",
+      "resumo": "A SoundHound AI (NASDAQ:SOUN) anunciou parcerias com a Deliverect para automatizar pedidos de voz em restaurantes, mas também enfrentou vendas de ações por parte de executivos e um baixo preço de 52 semanas.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "NASDAQ",
+        "Tecnologia"
+      ],
+      "score_relevancia": 4.0,
+      "tokens_usados": 42
+    },
     {
       "titulo": "AMD earnings: Sky-high expectations leave little room for missteps (AMD:NASDAQ)",
       "url": "https://seekingalpha.com/news/4623812-amd-q2-2026-earnings-preview",
@@ -65,21 +158,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 122
-    },
-    {
-      "titulo": "SANB11: Ações do Santander Brasil disparam 13% com OPA da matriz espanhola",
-      "url": "https://br.investing.com/news/stock-market-news/sanb11-acoes-do-santander-brasil-disparam-13-com-opa-da-matriz-espanhola-2022331",
-      "fonte": "br.investing.com",
-      "data": "2026-07-31",
-      "resumo": "A ação do Santander Brasil (SANB11) disparou 13% após a matriz espanhola anunciar uma oferta pública de aquisição (OPA). A aprovação regulatória ainda não foi confirmada, mas o resultado do terceiro trimestre de 2026 será um catalisador importante para o papel do banco.",
-      "sentimento": "bullish",
-      "tags": [
-        "Banco",
-        "Finanças",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 112
     },
     {
       "titulo": "Cramer says one hedge fund's collapse cleared the way for tech's rally",
@@ -337,21 +415,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 44
-    },
-    {
-      "titulo": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
-      "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-31",
-      "resumo": "Leopold Aschenbrenner, fundador de um hedge fund de IA, perdeu a maioria de seu patrimônio de $45 bilhões em apenas dias. A perda ocorreu após uma série de investimentos arriscados em tecnologia e AI. A notícia é um lembrete da volatilidade do mercado de ações e da importância de tomar decisões informadas.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 100
     },
     {
       "titulo": "Ibovespa hoje: acompanhe em tempo real a Bolsa de Valores",
@@ -747,21 +810,6 @@
       "tokens_usados": 71
     },
     {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.47%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-047-4829234",
-      "fonte": "investing.com",
-      "data": "2026-07-31",
-      "resumo": "O índice Bovespa do Brasil encerrou o dia com um aumento de 0,47%. Embora haja algumas ações que tenham caído, como MPWR, STX, WDC, ARM, MAR e MU, outras como AMZN e MSFT têm apresentado ganhos significativos.",
-      "sentimento": "bullish",
-      "tags": [
-        "Bovespa",
-        "Mercado de Ações",
-        "Economia Brasileira"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 49
-    },
-    {
       "titulo": "AMD to report Q2 earnings as chip stocks continue to waver",
       "url": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html",
       "fonte": "finance.yahoo.com",
@@ -883,21 +931,6 @@
       "tokens_usados": 73
     },
     {
-      "titulo": "US Stocks Rally to End a Turbulent Month; Amazon Jumps 15% - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/futures-rise-as-everything-ai-rallies-on-amazon-s-blowout-growth",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-31",
-      "resumo": "A bolsa de valores dos EUA registrou um aumento no final de um mês turbulento, com a Amazon liderando o avanço com um salto de 15% após resultados impressionantes. A corrida por inteligência artificial impulsionou uma ampla gama de empresas, levando a um aumento nos índices S&P 500 e Nasdaq 100.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 60
-    },
-    {
       "titulo": "AI Stocks Without The AI Price Tag | Seeking Alpha",
       "url": "https://seekingalpha.com/article/4929146-ai-stocks-without-the-ai-price-tag",
       "fonte": "seekingalpha.com",
@@ -943,36 +976,6 @@
       "tokens_usados": 82
     },
     {
-      "titulo": "Chipmaker Kioxia reports AI-driven 45-fold surge in quarterly net profit",
-      "url": "https://finance.yahoo.com/technology/ai/articles/chipmaker-kioxia-reports-ai-driven-074122130.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-31",
-      "resumo": "A empresa de chips Kioxia relatou um aumento de 45 vezes no lucro líquido trimestral, impulsionado por tecnologia de inteligência artificial (IA). Embora as estimativas de analistas tenham sido superadas, as ações da empresa perderam mais da metade de seu valor nos últimos 30 dias. No entanto, elas ainda estão em alta de cerca de 1.500% nos últimos 12 meses.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 121
-    },
-    {
-      "titulo": "Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal, sources say",
-      "url": "https://www.reuters.com/world/eric-trump-backed-defense-technology-company-space-eyes-go-public-638-million-2026-07-31",
-      "fonte": "reuters.com",
-      "data": "2026-07-31",
-      "resumo": "A empresa de tecnologia de defesa Space-Eyes, apoiada por Eric Trump, está se tornando pública por meio de uma fusão com a McKinley Acquisition Corp, em um acordo avaliado em US$ 638 milhões. A empresa desenvolve produtos como o SeaWatch, uma plataforma de inteligência marítima, e o Morpheus, um sistema de detecção e mitigação de ameaças aéreas não tripuladas. A fusão está prevista para ser concluída no quarto trimestre de 2026.",
-      "sentimento": "bullish",
-      "tags": [
-        "Tecnologia de Defesa",
-        "SPAC",
-        "Nasdaq"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 82
-    },
-    {
       "titulo": "Uber is building an autonomous vehicle empire, and here's ...",
       "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker",
       "fonte": "techcrunch.com",
@@ -989,96 +992,6 @@
       "tokens_usados": 66
     },
     {
-      "titulo": "Cathie Wood buys $14.3 million of tumbling semiconductor ...",
-      "url": "https://au.finance.yahoo.com/news/cathie-wood-buys-14-3-020700579.html",
-      "fonte": "au.finance.yahoo.com",
-      "data": "2026-07-31",
-      "resumo": "A analista financeira Cathie Wood comprou $14.3 milhões de ações da Nvidia, cujo preço caiu 6,57% nas últimas cinco sessões de negociação. A empresa tem um preço de mercado baixo, com um ratio de preço-lucro futuro de 17,53, seu menor desde abril de 2015. Wood também comprou ações de outras empresas, incluindo Taiwan Semiconductor e Tesla.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 65
-    },
-    {
-      "titulo": "Nasdaq leads Wall Street gains as Amazon rally offsets Apple decline",
-      "url": "https://www.reuters.com/business/nasdaq-100-leads-us-futures-higher-amazon-surge-offsets-apple-decline-2026-07-31",
-      "fonte": "reuters.com",
-      "data": "2026-07-31",
-      "resumo": "A Nasdaq liderou as ganhas da Wall Street, com a recuperação da Amazon compensando a declínio da Apple. A Amazon relatou o maior crescimento de receita em quatro anos, seguido por relatórios semelhantes de Microsoft e Alphabet. Isso levou os investidores a ignorar a grande queda nos fluxos de caixa dos empresas e a focar nos sinais de que as investidas nos líderes de IA estão começando a pagar.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "NASDAQ",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 78
-    },
-    {
-      "titulo": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
-      "url": "https://www.cnbc.com/2026/07/31/why-leopold-aschenbrenner-situational-awareness-hedge-fund-imploded.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-31",
-      "resumo": "O fundo hedge Situational Awareness enfrentou problemas, mesmo em um mercado de ações relativamente estável. A queda dos preços de ações de empresas de tecnologia, incluindo fabricantes de chips e centros de dados, foi seguida por uma recuperação no Nasdaq Composite. No entanto, alguns investidores, como Michael Burry, continuam a ser céticos em relação ao setor de inteligência artificial.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 70
-    },
-    {
-      "titulo": "Earnings call transcript: Kioxia Q1 2026 profit surges, stock ...",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kioxia-q1-2026-profit-surges-stock-jumps-18-93CH-4826967",
-      "fonte": "investing.com",
-      "data": "2026-07-31",
-      "resumo": "A Kioxia anunciou um aumento significativo no lucro no primeiro trimestre de 2026, com uma receita e lucro operacional em níveis recordes. A empresa está investindo em tecnologias de IA e big data para melhorar a produtividade e atender às demandas crescentes. Além disso, a Kioxia está planejando uma aquisição de ações, que será realizada entre 3 de agosto e 30 de outubro de 2026.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Semicondutores"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 74
-    },
-    {
-      "titulo": "Nasdaq falls 3% in July, driven by worst month for chips since financial crisis",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-upbeat-amazon-earnings-apple-slides-4826634",
-      "fonte": "investing.com",
-      "data": "2026-07-31",
-      "resumo": "A NASDAQ caiu 3% em julho, impulsionada pelo pior mês para as ações de chips desde a crise financeira. No entanto, a Wall Street registrou ganhos significativos na quarta-feira, com a S&P 500 subindo 1,7%, o Dow Jones Industrial Average subindo 1,2% e a NASDAQ Composite subindo 2,8%. As ações de tecnologia foram as melhores do dia, com a Microsoft Corporation ajudando a dissipar preocupações sobre gastos de capital excessivos em inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "NASDAQ",
-        "AI",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 82
-    },
-    {
-      "titulo": "IREN Ltd. (IREN) is Gaining Momentum. This Tech Giant May Be Playing a Big Role",
-      "url": "https://finance.yahoo.com/technology/ai/articles/iren-ltd-iren-gaining-momentum-013647455.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-31",
-      "resumo": "A IREN Ltd. (NASDAQ:IREN) registrou um aumento de 30,54% em sua ação, após a empresa ter sido adquirida pelo fundo de investimentos Citadel LLC, após a perda de valor de suas ações em seis dias consecutivos. O aumento da ação foi reforçado pela declaração de crescimento de gastos em capital de Microsoft para 2027, que reforçou a confiança dos investidores na demanda por infraestrutura de inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "IREN",
-        "AI",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 76
-    },
-    {
       "titulo": "Advanced Micro Devices, Inc. (AMD) Stock Price, News, Quote & History - Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/AMD",
       "fonte": "finance.yahoo.com",
@@ -1092,68 +1005,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 79
-    },
-    {
-      "titulo": "TSMC is moving in on Intel’s turf; Why Intel is up anyway",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-moving-intel-turf-why-135723456.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-31",
-      "resumo": "A TSMC está se aproximando do território da Intel, mas a empresa ainda está subindo devido aos relatórios de lucro positivos de empresas como Microsoft e Meta, que reforçaram a demanda por chips para a infraestrutura de IA.",
-      "sentimento": "bullish",
-      "tags": [
-        "Intel",
-        "TSMC",
-        "IA",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 48
-    },
-    {
-      "titulo": "Top Chip Analyst: Semiconductor Oversupply Is Nearly Impossible Before 2028. Why He’s Bullish on Memory",
-      "url": "https://finance.yahoo.com/technology/articles/top-chip-analyst-semiconductor-oversupply-122247883.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-07-31",
-      "resumo": "O analista de chips, Caso, afirma que a superprodução de semicondutores é quase impossível antes de 2028, devido à falta de espaço físico na TSMC e à demanda acelerada de AI. Ele é otimista em relação à memória, pois os fornecedores estão severamente limitados em sua capacidade de produção. NVIDIA e AMD apresentaram resultados recordes, com a demanda de data center aumentando 57% e 199%, respectivamente.",
-      "sentimento": "bullish",
-      "tags": [
-        "Semiconductor",
-        "AI",
-        "NVIDIA",
-        "AMD"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 76
-    },
-    {
-      "titulo": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
-      "url": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
-      "fonte": "cnbc.com",
-      "data": "2026-07-31",
-      "resumo": "Investidores estão escolhendo os vencedores da IA durante essa temporada de resultados, com as ações de gigantes tecnológicos divergindo. Amazon, Microsoft e Alphabet adicionaram quase $1,5 trilhão em valor combinado essa semana, enquanto Meta caiu 8% e Apple perdeu mais de $350 bilhões de valor de mercado.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Megacaps"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 56
-    },
-    {
-      "titulo": "Brazil Market Trading Resumes After Widespread Halt Hits B3",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/brazil-market-open-delayed-as-b3-exchange-sees-processing-issues",
-      "fonte": "bloomberg.com",
-      "data": "2026-07-31",
-      "resumo": "A Bolsa de Valores de São Paulo (B3) sofreu um atraso de mais de três horas em sua abertura, deixando traders sem informações sobre as cotações de ações. A causa do atraso ainda não foi divulgada. A Bolsa de Valores de São Paulo é a principal plataforma de negociação de ações no Brasil.",
-      "sentimento": "neutral",
-      "tags": [
-        "B3",
-        "Bolsa de Valores",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 66
     }
   ]
 }

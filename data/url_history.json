@@ -1,52 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-blast-off-micron-144436659.html": {
-    "hash": "ad605eafec80ae5ceea1bd9afe486fc0",
-    "visto_em": "2026-07-31"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmcs-next-ai-chip-move-195343067.html": {
-    "hash": "0fa06b19061eef9dedfa82424481fde3",
-    "visto_em": "2026-07-31"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-28-7-191401816.html": {
-    "hash": "80a1694b919d710f5a528b193149088e",
-    "visto_em": "2026-07-31"
-  },
-  "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html": {
-    "hash": "af4a58b6bbdf63bd80937a5185e01533",
-    "visto_em": "2026-07-31"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-jumps-7-microsoft-195100756.html": {
-    "hash": "b02df2b1e1ec19d6294dc4297f96e0a7",
-    "visto_em": "2026-07-31"
-  },
-  "https://seekingalpha.com/news/4621765-nasdaq-100-surges-3-as-microsoft-and-semis-drive-broad-tech-rally": {
-    "hash": "5a0a65f14edc449658a3786c8ffe5f40",
-    "visto_em": "2026-07-31"
-  },
-  "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents": {
-    "hash": "36e575b0592ecbde807e53f381c5d679",
-    "visto_em": "2026-07-31"
-  },
-  "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25": {
-    "hash": "6af62cc2ad55953c08777b4c5027046b",
-    "visto_em": "2026-07-31"
-  },
-  "https://www.businessinsider.com/legora-acquires-legal-ai-startup-wexler-consolidation-2026-7": {
-    "hash": "f84a1befffa1116d15d257caca867c5f",
-    "visto_em": "2026-07-31"
-  },
-  "https://www.reuters.com/business/us-stock-futures-steady-microsoft-offsets-fed-concerns-2026-07-30": {
-    "hash": "481678fda55e64635547877fc11b191f",
-    "visto_em": "2026-07-31"
-  },
-  "https://www.investing.com/news/transcripts/earnings-call-transcript-samsung-electronics-posts-record-q2-2026-profit-as-ai-demand-surges-93CH-4822292": {
-    "hash": "220699cc32395f3592baebb563eb3013",
-    "visto_em": "2026-07-31"
-  },
-  "https://www.reuters.com/business/ai-cloud-provider-nscale-buy-software-startup-anyscale-2026-07-30": {
-    "hash": "a9f63a706bc53e2ac4f7cd5ab04834e7",
-    "visto_em": "2026-07-31"
-  },
   "https://finance.yahoo.com/technology/articles/top-chip-analyst-semiconductor-oversupply-122247883.html": {
     "hash": "6e14d76a424062d02084a1274f739140",
     "visto_em": "2026-08-01"
@@ -446,5 +398,29 @@
   "https://br.investing.com/news/stock-market-news/sanb11-acoes-do-santander-brasil-disparam-13-com-opa-da-matriz-espanhola-2022331": {
     "hash": "4a3f96494d86dc33072324c5d0eddb1a",
     "visto_em": "2026-08-07"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/big-tech-stocks-storm-back-103001009.html": {
+    "hash": "b4326cd31755c5673fd9f7168c3cc58c",
+    "visto_em": "2026-08-08"
+  },
+  "https://m.economictimes.com/markets/us-stocks/news/global-market-japans-nikkei-jumps-over-3-as-ai-stocks-rally-upbeat-earnings-lift-sentiment/articleshow/132893039.cms": {
+    "hash": "e33522737da34026e9deef85e3db2fcf",
+    "visto_em": "2026-08-08"
+  },
+  "https://seekingalpha.com/news/4624943-tsmc-set-to-ramp-up-3nm-wafer-starts-months-ahead-of-schedule-wedbush": {
+    "hash": "2681a5baf11d136b46457093e1176a94",
+    "visto_em": "2026-08-08"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/intel-soars-10-amd-jumps-163611976.html": {
+    "hash": "bbb8f74e1a74c3fd44ee39a19f210b34",
+    "visto_em": "2026-08-08"
+  },
+  "https://seekingalpha.com/article/4931727-oracle-cloud-erp-and-oracle-database-software-driving-growth": {
+    "hash": "ea95e427662bf9751252ef51671e2151",
+    "visto_em": "2026-08-08"
+  },
+  "https://www.investing.com/equities/soundhound-ai": {
+    "hash": "c8bd654fd8ec8bf46a00705788a197b3",
+    "visto_em": "2026-08-08"
   }
 }
