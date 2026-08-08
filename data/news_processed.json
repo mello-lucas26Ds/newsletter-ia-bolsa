@@ -2,10 +2,70 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-08",
-    "total_noticias": 66,
-    "gerado_em": "2026-08-08T04:09:17.087424"
+    "total_noticias": 70,
+    "gerado_em": "2026-08-08T10:32:31.312725"
   },
   "noticias": [
+    {
+      "titulo": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-super-micro-rally-10-172012450.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-05",
+      "resumo": "As ações de Dell e Super Micro Computer subiram 10% e 9%, respectivamente, enquanto a Hewlett Packard Enterprise avançou 6%. A onda de risco positivo no setor de tecnologia está impulsionando as ações de hardware de inteligência artificial. O próximo catalisador para o grupo é as divulgações de resultados, com a Super Micro Computer sendo a próxima a relatar.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "Microsoft: AI Investment Is Driven By Orders Already In Hand",
+      "url": "https://seekingalpha.com/article/4930565-microsoft-stock-ai-investment-driven-by-orders-already-in-hand",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-05",
+      "resumo": "A Microsoft apresentou resultados financeiros fortes no Q4, com lucro por ação de $4,74 e receita de $90B, superando as expectativas. A empresa investe em tecnologia de IA e nuvem, com um backlog de $678B, o que reforça a visão positiva do mercado.",
+      "sentimento": "bullish",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Cloud Computing"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 53
+    },
+    {
+      "titulo": "Forget Taiwan Semiconductor: 2 AI ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/forget-taiwan-semiconductor-2-ai-165000875.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-07",
+      "resumo": "O artigo da Motley Fool sugere que, em vez de investir em Taiwan Semiconductor Manufacturing (TSMC), os investidores devem considerar duas ações de equipamentos de semicondutores de Inteligência Artificial (IA): Applied Materials e ASML. Embora TSMC seja uma empresa crucial para a indústria de chips, a sua localização em Taiwan é um risco geopolítico. Já Applied Materials e ASML têm uma perspectiva de crescimento acelerado e uma relação P/E mais atraente.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 113
+    },
+    {
+      "titulo": "AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership",
+      "url": "https://www.reuters.com/business/ai-cloud-startup-volta-valued-24-billion-announces-10-billion-ai-partnership-2026-08-04",
+      "fonte": "reuters.com",
+      "data": "2026-08-04",
+      "resumo": "A startup de IA em nuvem, Volta, foi avaliada em US$ 2,4 bilhões e anunciou um acordo de US$ 10 bilhões com a Anthropic. A empresa também anunciou um projeto em Noruega que é o primeiro de uma fila de projetos que excedem 1 GW de capacidade de energia em curto prazo na América do Norte e Europa.",
+      "sentimento": "bullish",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "Investimentos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
     {
       "titulo": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes",
       "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-stocks-storm-back-103001009.html",

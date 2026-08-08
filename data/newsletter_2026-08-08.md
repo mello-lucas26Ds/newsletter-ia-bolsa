@@ -1,85 +1,59 @@
 # Newsletter IA Bolsa — 2026-08-08
 
-**Gerado em:** 08/08/2026 04:09
-**Total:** 6 noticias
+**Gerado em:** 08/08/2026 10:32
+**Total:** 4 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes
+## 1. Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Big Tech, NASDAQ
+**Tags:** AI, Tecnologia, Semicondutores
 
-As ações das empresas de tecnologia "Big Tech" voltaram a subir após os medos sobre a IA diminuírem e a euforia retornar. Isso ocorreu após a divulgação de relatórios de lucro que mostraram um crescimento acelerado das receitas relacionadas à IA para as empresas Microsoft e Amazon. As ações dessas empresas subiram significativamente após a divulgação dos resultados, adicionando um valor de mercado combinado de US$ 1,3 trilhão.
+As ações de Dell e Super Micro Computer subiram 10% e 9%, respectivamente, enquanto a Hewlett Packard Enterprise avançou 6%. A onda de risco positivo no setor de tecnologia está impulsionando as ações de hardware de inteligência artificial. O próximo catalisador para o grupo é as divulgações de resultados, com a Super Micro Computer sendo a próxima a relatar.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/big-tech-stocks-storm-back-103001009.html)
-
----
-
-## 2. Global Market: Japan's Nikkei jumps over 3% as AI stocks rally, upbeat earnings lift sentiment - The Economic Times
-
-**Fonte:** m.economictimes.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, Nikkei
-
-A bolsa de valores do Japão, Nikkei, registrou um aumento de mais de 3% na quarta-feira, impulsionado por ganhos significativos nas ações relacionadas à inteligência artificial (IA) que seguiram a onda de alta na Bolsa de Nova York. Além disso, a série de resultados financeiros otimistas e atualizações de previsões de lucro contribuíram para o aumento do otimismo dos investidores. A Murata Manufacturing, um dos principais fornecedores de capacitores cerâmicos multicamadas usados em servidores de IA, subiu 8,33% após aumentar a previsão de lucro líquido anual, refletindo o crescimento da otimismo em relação à demanda impulsionada pela IA.
-
-[Ler noticia completa](https://m.economictimes.com/markets/us-stocks/news/global-market-japans-nikkei-jumps-over-3-as-ai-stocks-rally-upbeat-earnings-lift-sentiment/articleshow/132893039.cms)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/dell-super-micro-rally-10-172012450.html)
 
 ---
 
-## 3. TSMC set to ramp up 3nm wafer starts months ahead of schedule: Wedbush
+## 2. Microsoft: AI Investment Is Driven By Orders Already In Hand
 
 **Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** TSM, Semicondutores, Tecnologia
+**Relevancia:** 9.0/10  
+**Tags:** Microsoft, AI, Cloud Computing
 
-A Taiwan Semiconductor Manufacturing (TSM) está programada para aumentar a produção de wafers em tecnologia de 3nm dois a três meses à frente do esperado, de acordo com a Wedbush. Isso deve impulsionar a demanda por componentes de alta tecnologia e potencialmente afetar as empresas de semicondutores como AMD, NVDA e AVGO.
+A Microsoft apresentou resultados financeiros fortes no Q4, com lucro por ação de $4,74 e receita de $90B, superando as expectativas. A empresa investe em tecnologia de IA e nuvem, com um backlog de $678B, o que reforça a visão positiva do mercado.
 
-[Ler noticia completa](https://seekingalpha.com/news/4624943-tsmc-set-to-ramp-up-3nm-wafer-starts-months-ahead-of-schedule-wedbush)
+[Ler noticia completa](https://seekingalpha.com/article/4930565-microsoft-stock-ai-investment-driven-by-orders-already-in-hand)
 
 ---
 
-## 4. Intel Soars 10%, AMD Jumps 8%, Broadcom Rises 6% as Chip Stocks Ride a Risk-On Rally
+## 3. Forget Taiwan Semiconductor: 2 AI ...
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** Intel, AMD, Broadcom, Semicondutores, NASDAQ
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semiconductor, NASDAQ
 
-A Intel subiu 10%, a AMD saltou 8% e a Broadcom aumentou 6% devido a uma onda de risco positiva, impulsionada pela expansão do setor de centros de dados da AMD e pelo aumento da receita de semicondutores de inteligência artificial da Broadcom. A valorização dos ativos também é um fator importante, com a AMD tendo um P/E de 171,17x e a NVIDIA tendendo a ser a mais razoável.
+O artigo da Motley Fool sugere que, em vez de investir em Taiwan Semiconductor Manufacturing (TSMC), os investidores devem considerar duas ações de equipamentos de semicondutores de Inteligência Artificial (IA): Applied Materials e ASML. Embora TSMC seja uma empresa crucial para a indústria de chips, a sua localização em Taiwan é um risco geopolítico. Já Applied Materials e ASML têm uma perspectiva de crescimento acelerado e uma relação P/E mais atraente.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/intel-soars-10-amd-jumps-163611976.html)
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/forget-taiwan-semiconductor-2-ai-165000875.html)
 
 ---
 
-## 5. Oracle: Cloud ERP And Oracle Database Software Driving Growth (NYSE:ORCL)
+## 4. AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership
 
-**Fonte:** seekingalpha.com  
+**Fonte:** reuters.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Cloud Computing, Oracle
+**Tags:** IA, Tecnologia, Investimentos
 
-A Oracle está a experimentar crescimento graças ao seu Cloud ERP e software do Oracle Database. A infraestrutura de nuvem da Oracle deve continuar a ser um motor de crescimento, especialmente com o projeto Stargate, que envolve a construção de infraestrutura de nuvem para a inteligência artificial. A empresa espera que sua participação no mercado de infraestrutura de nuvem cresça de 2025 a 2028F, graças à expansão de centros de dados e regiões de banco de dados.
+A startup de IA em nuvem, Volta, foi avaliada em US$ 2,4 bilhões e anunciou um acordo de US$ 10 bilhões com a Anthropic. A empresa também anunciou um projeto em Noruega que é o primeiro de uma fila de projetos que excedem 1 GW de capacidade de energia em curto prazo na América do Norte e Europa.
 
-[Ler noticia completa](https://seekingalpha.com/article/4931727-oracle-cloud-erp-and-oracle-database-software-driving-growth)
-
----
-
-## 6. SoundHound AI Inc Stock Price Today | NASDAQ: SOUN ...
-
-**Fonte:** investing.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 4.0/10  
-**Tags:** AI, NASDAQ, Tecnologia
-
-A SoundHound AI (NASDAQ:SOUN) anunciou parcerias com a Deliverect para automatizar pedidos de voz em restaurantes, mas também enfrentou vendas de ações por parte de executivos e um baixo preço de 52 semanas.
-
-[Ler noticia completa](https://www.investing.com/equities/soundhound-ai)
+[Ler noticia completa](https://www.reuters.com/business/ai-cloud-startup-volta-valued-24-billion-announces-10-billion-ai-partnership-2026-08-04)
 
 ---
