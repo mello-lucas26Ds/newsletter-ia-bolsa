@@ -1,56 +1,4 @@
 {
-  "https://finance.yahoo.com/technology/articles/top-chip-analyst-semiconductor-oversupply-122247883.html": {
-    "hash": "6e14d76a424062d02084a1274f739140",
-    "visto_em": "2026-08-01"
-  },
-  "https://www.benzinga.com/trading-ideas/movers/26/07/60803849/sandisk-leads-memory-stock-rally-heres-whats-fueling-the-bounce-back": {
-    "hash": "3900abb98e5ce01c26068e163b7141de",
-    "visto_em": "2026-08-01"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-q2-earnings-buy-140600906.html": {
-    "hash": "dc7faf76d8ff9ae9728dc9ae685d1d62",
-    "visto_em": "2026-08-01"
-  },
-  "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html": {
-    "hash": "bac32dea9ced5d5d8a383477895aff81",
-    "visto_em": "2026-08-01"
-  },
-  "https://www.benzinga.com/markets/tech/26/07/60752479/amd-stock-is-gaining-wednesday-whats-going-on": {
-    "hash": "0e809a095b67e262fd063bf3a8d3415d",
-    "visto_em": "2026-08-01"
-  },
-  "https://www.bloomberg.com/news/articles/2026-07-31/brazil-market-open-delayed-as-b3-exchange-sees-processing-issues": {
-    "hash": "b8c4d735df4655124b41ba73068fe081",
-    "visto_em": "2026-08-01"
-  },
-  "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-upbeat-amazon-earnings-apple-slides-4826634": {
-    "hash": "edc49f0fc16e69234e02fed6a7f41956",
-    "visto_em": "2026-08-01"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/iren-ltd-iren-gaining-momentum-013647455.html": {
-    "hash": "93751cb4a8a938b2621fe6f86d5da208",
-    "visto_em": "2026-08-01"
-  },
-  "https://www.businessinsider.com/microsoft-stock-price-q2-earnings-meta-ai-trade-azure-spending-2026-7": {
-    "hash": "148ca86d65d289d83980983bd01ec1bd",
-    "visto_em": "2026-08-01"
-  },
-  "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html": {
-    "hash": "2f70981a0ef04280e5a5e671dfa9bf9c",
-    "visto_em": "2026-08-01"
-  },
-  "https://finance.yahoo.com/quote/AMD": {
-    "hash": "226c55904be2705fd58822773a32df59",
-    "visto_em": "2026-08-01"
-  },
-  "https://www.cnbc.com/2026/07/30/the-ceiling-for-shares-of-meta-is-lower-after-its-earnings-report-analysts-say.html": {
-    "hash": "06c90e6a5cf0417399939167fd0e69d2",
-    "visto_em": "2026-08-01"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-moving-intel-turf-why-135723456.html": {
-    "hash": "94943fbb7ed456a935db8364a959c93d",
-    "visto_em": "2026-08-01"
-  },
   "https://au.finance.yahoo.com/news/cathie-wood-buys-14-3-020700579.html": {
     "hash": "efafb525aa6a8f1d5bfd0e69912dc4e4",
     "visto_em": "2026-08-02"
@@ -438,5 +386,25 @@
   "https://www.reuters.com/business/ai-cloud-startup-volta-valued-24-billion-announces-10-billion-ai-partnership-2026-08-04": {
     "hash": "f273c755a68c45c3abf20b323a5c8c1e",
     "visto_em": "2026-08-08"
+  },
+  "https://seekingalpha.com/article/4933045-im-bullish-on-ai-but-not-every-ai-stock": {
+    "hash": "c880f5b42c6be7eba95604fb1a63868d",
+    "visto_em": "2026-08-09"
+  },
+  "https://www.google.com/goto?url=CAESmgEB7keqTXt0M-TmSwg7SjWEzCTiC7YNp1o1ERR9yVOqka5sA-Q9HW8eLvgZ7rr8yrC4SLfqBOffH31H6gXxImjT6J1EAa_ewoylsIPwzHTx2GD64p5B2iazYr07JnulSHcsrq2kLsagKFcivXhQXVUqM6mKJgQJOh7HY1UBpOUu_7jJll9KXg-YB7pmOvy1w43fuqJgT0X8gBXY": {
+    "hash": "b508ddcfa309936c649dfc26c1188ab7",
+    "visto_em": "2026-08-09"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-growth-174200038.html": {
+    "hash": "c8e0cf90da64cbfa16a84e7cfb614261",
+    "visto_em": "2026-08-09"
+  },
+  "https://finance.yahoo.com/real-estate/articles/everyones-chasing-ai-data-center-142000779.html": {
+    "hash": "01ffed0e5f15282e9889a2bd5cb1c27d",
+    "visto_em": "2026-08-09"
+  },
+  "https://finance.yahoo.com/technology/articles/intel-really-able-beat-tsmc-044653110.html": {
+    "hash": "6448796028170fd1627cd18d80137aa6",
+    "visto_em": "2026-08-09"
   }
 }

@@ -1,11 +1,91 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-08",
-    "total_noticias": 70,
-    "gerado_em": "2026-08-08T10:32:31.312725"
+    "data": "2026-08-09",
+    "total_noticias": 67,
+    "gerado_em": "2026-08-09T04:16:18.682530"
   },
   "noticias": [
+    {
+      "titulo": "I'm Bullish On AI But Not Every AI Stock",
+      "url": "https://seekingalpha.com/article/4933045-im-bullish-on-ai-but-not-every-ai-stock",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-07",
+      "resumo": "O autor é otimista em relação à IA, mas não em relação a todas as ações de IA. Ele destaca a importância da Nvidia como um teste para o ciclo de investimento em IA, com foco nos resultados do 2º trimestre de 2027. Além disso, ele enfatiza a capacidade das empresas de investir em infraestrutura de IA, como Amazon, Microsoft, Alphabet e Meta, que podem investir cerca de $700-725 bilhões em 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Nvidia",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 81
+    },
+    {
+      "titulo": "The stock market soars. 5 reasons behind the big surge Tuesday",
+      "url": "https://www.google.com/goto?url=CAESmgEB7keqTXt0M-TmSwg7SjWEzCTiC7YNp1o1ERR9yVOqka5sA-Q9HW8eLvgZ7rr8yrC4SLfqBOffH31H6gXxImjT6J1EAa_ewoylsIPwzHTx2GD64p5B2iazYr07JnulSHcsrq2kLsagKFcivXhQXVUqM6mKJgQJOh7HY1UBpOUu_7jJll9KXg-YB7pmOvy1w43fuqJgT0X8gBXY",
+      "fonte": "google.com",
+      "data": "2026-08-05",
+      "resumo": "O mercado de ações registrou um grande aumento na segunda-feira, com várias razões contribuindo para essa tendência. A tecnologia foi uma das principais motivações, com ações de empresas de semicondutores e software aumentando significativamente. Isso ocorreu após uma reversão de tendência em julho, quando as ações de semicondutores haviam implosado.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Tecnologia",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 60
+    },
+    {
+      "titulo": "Buy 5 Top-Ranked Growth Stocks for August to Tap Market Rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-growth-174200038.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-07",
+      "resumo": "A notícia destaca cinco ações de crescimento de alta classificação para agosto, incluindo a Micron Technology (MU), que está bem posicionada para atender às crescentes demandas de desempenho e eficiência dos sistemas de IA. A empresa está investindo pesadamente em tecnologias de memória de próxima geração, incluindo a HBM3E e HBM4, que estão tendo uma demanda excepcionalmente forte devido à sua velocidade e eficiência.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Micron Technology",
+        "NVIDIA",
+        "Celestica",
+        "Vertiv Holdings Co."
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 183
+    },
+    {
+      "titulo": "Everyone's Chasing AI Data Center Stocks. This 5%-Yielding Dividend Stock Already Owns a Piece of the Boom.",
+      "url": "https://finance.yahoo.com/real-estate/articles/everyones-chasing-ai-data-center-142000779.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-08",
+      "resumo": "A Realty Income, uma REIT, recentemente assinou um acordo de parceria com a Cloud Capital para investir em centros de dados hiperescaláveis. A parceria inicialmente terá ativos avaliados em mais de $6 bilhões, com a Realty Income investindo até $1,4 bilhão em uma carteira de três ativos em Virgínia do Norte. Isso permitirá à empresa investir em futuros desenvolvimentos e aquisições de centros de dados em EUA e Europa.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Center",
+        "REIT"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 151
+    },
+    {
+      "titulo": "How Will Intel Really Be Able to Beat TSMC in The Next Year?",
+      "url": "https://finance.yahoo.com/technology/articles/intel-really-able-beat-tsmc-044653110.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-08",
+      "resumo": "A Intel busca superar a TSMC no próximo ano, mas enfrenta desafios significativos. A TSMC obteve $40 bilhões em receita com margem bruta de 67,7%, enquanto a Intel registrou $16 bilhões, mas seu unidade de fundição perdeu $2,1 bilhões. A Intel depende de investimentos de NVIDIA e do CHIPS Act para competir com a TSMC.",
+      "sentimento": "bearish",
+      "tags": [
+        "Intel",
+        "TSMC",
+        "Semiconductor",
+        "AI"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 129
+    },
     {
       "titulo": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-super-micro-rally-10-172012450.html",
@@ -808,22 +888,6 @@
       "tokens_usados": 50
     },
     {
-      "titulo": "AMD Stock Is Up Big, and Wall Street Is Underestimating It",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-big-wall-street-143032128.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-01",
-      "resumo": "A AMD está experimentando um grande aumento de valor, e a Wall Street está subestimando a empresa. As projeções de receita para o Q2 de 2026 são de $11,2 bilhões, com crescimento de 46% em relação ao ano anterior. A empresa também superou as expectativas em termos de lucro e receita no Q1 de 2026.",
-      "sentimento": "bullish",
-      "tags": [
-        "AMD",
-        "AI",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 65
-    },
-    {
       "titulo": "Got $1,000? Taiwan Semiconductor Manufacturing's $100 Billion Arizona Investment Makes It a Must-Own Stock",
       "url": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-taiwan-semiconductor-180500978.html",
       "fonte": "finance.yahoo.com",
@@ -900,21 +964,6 @@
       "tokens_usados": 63
     },
     {
-      "titulo": "The Bull Case For Arista Networks (ANET) Could Change Following Raised 2026 Guidance And AI Demand Momentum",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-arista-networks-anet-180729358.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-01",
-      "resumo": "Arista Networks (ANET) recentemente relatou um forte primeiro trimestre de 2026 e aumentou sua orientação de receita para o ano, apoiada por demanda crescente por soluções de rede de centros de dados focadas em IA e novas plataformas como a série 7060XE7. A empresa está prestes a divulgar seus resultados do segundo trimestre em 4 de agosto. Investidores estão monitorando como os produtos e parcerias de IA da Arista traduzem em crescimento de lucros sustentável.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Data Center",
-        "Networking"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 85
-    },
-    {
       "titulo": "SoundHound AI's Next Earnings Report on Aug. 5 Could ...",
       "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ais-next-earnings-report-214501723.html",
       "fonte": "finance.yahoo.com",
@@ -928,21 +977,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 64
-    },
-    {
-      "titulo": "Jim Cramer Can’t Help But Gloat At Apple Inc (NASDAQ:AAPL)’s AI Developments",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-t-help-gloat-023735112.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-01",
-      "resumo": "Jim Cramer elogia os desenvolvimentos de inteligência artificial da Apple Inc (NASDAQ:AAPL), considerando-a um \"abrigo seguro\" para investimentos em AI. A empresa tem uma base de usuários massiva e tem sido capaz de manter suas margens fortes por meio de medidas de preços. No entanto, os críticos questionam se a base de usuários da Apple Inc (NASDAQ:AAPL) é suficiente para monetizar suas iniciativas de AI.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Apple",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
     },
     {
       "titulo": "Goldman Sachs sees AI trade stabilizing as strong ...",
@@ -989,82 +1023,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 73
-    },
-    {
-      "titulo": "AI Stocks Without The AI Price Tag | Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4929146-ai-stocks-without-the-ai-price-tag",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-01",
-      "resumo": "O artigo discute a possibilidade de investir em tecnologia de inteligência artificial (IA) sem expor-se ao risco de uma bolha. O autor sugere que as empresas de utilidades elétricas podem ser uma opção atraente, pois têm um valor de mercado mais baixo e uma taxa de crescimento mais alta do que a média do setor. As utilidades elétricas têm um múltiplo de preço-mercado (PE) de 20,47X e uma taxa de crescimento de 7%-10% ao ano para os próximos 5 anos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Utilidades Elétricas",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 90
-    },
-    {
-      "titulo": "Microsoft Just Changed The AI Narrative (NASDAQ:MSFT)",
-      "url": "https://seekingalpha.com/article/4929160-microsoft-just-changed-ai-narrative",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-01",
-      "resumo": "A Microsoft continuou a justificar sua valoração premium, com previsões de receita de $744 bilhões e lucro por ação de $41 até o final de 2031, o que pressiona os múltiplos de mercado a se reduzirem. O Azure ultrapassou $100 bilhões em receita anual e a taxa de crescimento trimestral acelerou para 43%, demonstrando uma demanda por IA que continua a se fortalecer. A empresa também expandiu sua monetização de IA em produtos como GitHub Copilot e Microsoft 365 Copilot.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Microsoft",
-        "NASDAQ"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 89
-    },
-    {
-      "titulo": "1 AI Stock I’d Buy Before It Hits Another All-Time High",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-ai-stock-d-buy-180013623.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-01",
-      "resumo": "O analista Vandita Jadeja recomenda a compra da ação da Taiwan Semiconductor Manufacturing (TSM) antes que ela atinja outro recorde histórico. A empresa registrou um aumento de 77% na lucratividade no 2º trimestre, mas as ações estão 15% abaixo do recorde histórico. O analista acredita que a empresa pode atingir US$ 550 por ação, desde que mantenha a liderança no mercado de silício e continue a crescer com a demanda por inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Taiwan"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 82
-    },
-    {
-      "titulo": "Uber is building an autonomous vehicle empire, and here's ...",
-      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker",
-      "fonte": "techcrunch.com",
-      "data": "2026-08-01",
-      "resumo": "A Uber está construindo um império de veículos autônomos, anunciando parcerias e planos para lançar uma frota global de veículos autônomos em 2027 e 2028. A empresa está trabalhando com a Nvidia para desenvolver a plataforma de veículos autônomos e está em parceria com a Pony.ai e a Wayve para lançar robotaxis em várias cidades.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Veículos Autônomos",
-        "Uber",
-        "Nvidia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 66
-    },
-    {
-      "titulo": "Advanced Micro Devices, Inc. (AMD) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/AMD",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-01",
-      "resumo": "A AMD está prestes a relatar resultados financeiros, com analistas prevendo forte crescimento de receita impulsionado pela demanda de centros de dados. Recentes desenvolvimentos incluem o aumento da despesa de Amazon em IA e o compromisso da CEO Lisa Su com a produção de cargas de trabalho de IA, aumentando a otimismo dos investidores. A AMD está focada em IA e tecnologia, com CEO que reforça a importância da área.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 79
     }
   ]
 }
