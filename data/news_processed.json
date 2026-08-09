@@ -2,10 +2,85 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-09",
-    "total_noticias": 67,
-    "gerado_em": "2026-08-09T04:16:18.682530"
+    "total_noticias": 72,
+    "gerado_em": "2026-08-09T10:33:50.388188"
   },
   "noticias": [
+    {
+      "titulo": "Ação de materiais selecionada por IA dispara +22% após forte balanço",
+      "url": "https://br.investing.com/news/stock-market-news/alta-de-34-no-mes-acao-de-materiais-selecionada-por-ia-dispara-22-apos-resultados-solidos-2030641",
+      "fonte": "br.investing.com",
+      "data": "2026-08-06",
+      "resumo": "A ação da Diodes Incorporated (NASDAQGS:DIOD) disparou 15,34% após um forte LPA acima do consenso, enquanto outras ações selecionadas por IA também apresentaram ganhos expressivos, como a Atlassian Corp BDR (+38,23%) e a Twilio BDR (+26,41%).",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Materiais",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 45
+    },
+    {
+      "titulo": "AMD earnings report Q2 2026",
+      "url": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-04",
+      "resumo": "A AMD aumentou suas expectativas para o tamanho da indústria de semicondutores, prevendo que ela possa chegar a $2 trilhões por ano em 2028. A empresa espera que $1,4 trilhões disso venha de aceleradores de IA, ou GPUs, um aumento de $500 bilhões previstos anteriormente. A AMD também começará a enviar o Helios, seu primeiro sistema de escala de rack de IA, para empresas como Meta, OpenAI e Oracle.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "NASDAQ"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 78
+    },
+    {
+      "titulo": "Iguatemi SA Unit Stock Price Today | BVMF: IGTI11 Live - Investing.com",
+      "url": "https://www.investing.com/equities/iguatemi-unt",
+      "fonte": "investing.com",
+      "data": "2026-08-05",
+      "resumo": "A notícia trata sobre a cotação atual da ação IGTI11 da Iguatemi SA, listada na B3, com preço de R$ 24,29 e variação de 0,08% em relação ao dia anterior. A ação está com dados atrasados e não é incluída nas estratégias de investimento da plataforma.",
+      "sentimento": "neutral",
+      "tags": [
+        "B3",
+        "Iguatemi SA",
+        "BRL"
+      ],
+      "score_relevancia": 2.0,
+      "tokens_usados": 56
+    },
+    {
+      "titulo": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
+      "fonte": "techcrunch.com",
+      "data": "2026-08-08",
+      "resumo": "A OpenAI adquiriu a startup de apresentações NextSlide, com o objetivo de continuar a missão de tornar a comunicação visual mais acessível e ajudar mais pessoas a expressar suas ideias de forma clara. A equipe da NextSlide agora está trabalhando no ChatGPT.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Startups",
+        "OpenAI"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 51
+    },
+    {
+      "titulo": "US Foods Q2 2026 slides: record EBITDA, AI-driven growth",
+      "url": "https://za.investing.com/news/company-news/us-foods-q2-2026-slides-record-ebitda-aidriven-growth-93CH-4413894",
+      "fonte": "za.investing.com",
+      "data": "2026-08-06",
+      "resumo": "A US Foods apresentou resultados financeiros notáveis no segundo trimestre de 2026, com um record de EBITDA, graças ao crescimento impulsionado pela inteligência artificial (AI). Embora não haja detalhes específicos sobre as estratégias de investimento mencionadas, a empresa parece estar aproveitando as oportunidades oferecidas pela tecnologia AI para impulsionar seu crescimento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Food",
+        "EBITDA"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 60
+    },
     {
       "titulo": "I'm Bullish On AI But Not Every AI Stock",
       "url": "https://seekingalpha.com/article/4933045-im-bullish-on-ai-but-not-every-ai-stock",
