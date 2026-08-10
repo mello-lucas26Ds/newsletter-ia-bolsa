@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-08-10",
+    "total_noticias": 8,
+    "gerado_em": "2026-08-10T04:27:54.862628"
+  },
+  "noticias": [
+    {
+      "titulo": "Earnings beats ease concerns over record U.S. stock rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-beats-ease-concerns-over-070820398.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-09",
+      "resumo": "A segunda-feira de resultados financeiros nos EUA foi marcada por uma série de superestimativas, o que ajudou a aliviar preocupações sobre a dependência excessiva da corrida dos ativos de inteligência artificial. Empresas como Amazon e Microsoft apresentaram resultados impressionantes, enquanto a maioria das empresas da S&P 500 superou as expectativas dos analistas. A energia foi o setor que mais cresceu, com uma expansão de 147%, impulsionada por preços de petróleo mais altos devido à guerra no Irã.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Energia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 88
+    },
+    {
+      "titulo": "Cathie Wood's Ark Piled Into Nvidia and Taiwan ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-piled-nvidia-072500018.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-09",
+      "resumo": "Cathie Wood's Ark Invest comprou cerca de $15 milhões de ações da Nvidia e $14,7 milhões de ações da Taiwan Semiconductor Manufacturing (TSMC) após os resultados financeiros de Meta, o que sugere que ela acredita na durabilidade da demanda por infraestrutura de inteligência artificial (IA). A compra de TSMC reflete a ligação entre a empresa e a Nvidia, pois a TSMC é responsável pela fabricação de chips da Nvidia. A ação de Wood em comprar ações da Nvidia e TSMC sugere que ela acredita que a demanda por IA continuará a crescer.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 101
+    },
+    {
+      "titulo": "AMD's Beat-and-Raise Q2 Earnings Shows Just How High the AI Bar Is",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amds-beat-raise-q2-earnings-113002308.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-07",
+      "resumo": "A AMD apresentou resultados financeiros impressionantes no segundo trimestre, com receita e lucro acima das expectativas e orientação para o terceiro trimestre mais alta. No entanto, a alta performance da empresa não foi suficiente para satisfazer os investidores, que agora exigem crescimento acelerado e estimativas mais altas. A empresa destacou o crescimento significativo em sua receita de centros de dados, que aumentou 107% em relação ao mesmo período do ano passado.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "AMD",
+        "Semiconductor"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 135
+    },
+    {
+      "titulo": "A $10,000 Investment in Taiwan Semiconductor Today Will Be ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-taiwan-semiconductor-195000867.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-09",
+      "resumo": "A Motley Fool prevê que uma investimento de $10.000 na Taiwan Semiconductor (TSM) em 2028 será valorizado em cerca de $20.000, graças à sua posição dominante no mercado de chips e à demanda crescente de empresas de inteligência artificial. A empresa pode gerar NT$9,32 trilhões em receita e lucros de $146 bilhões, o que representa um crescimento de 100% em relação ao valor atual.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-navitas-semiconductor-heres-230101107.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-09",
+      "resumo": "A Nvidia e a Navitas Semiconductor são duas empresas de inteligência artificial com tendências de receita diferentes. A Nvidia apresenta uma tendência de receita crescente, enquanto a Navitas Semiconductor apresenta uma tendência de receita declinante. Essas tendências podem ser importantes para os investidores que estão considerando investir em empresas de IA.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "Nvidia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 60
+    },
+    {
+      "titulo": "Palantir: This Rally Is A Gift, Sell It",
+      "url": "https://seekingalpha.com/article/4932064-palantir-this-rally-is-a-gift-sell-it",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-06",
+      "resumo": "O autor do artigo, Cavenagh Research, afirma que a ação da Palantir está em uma tendência de alta, mas aconselha a vender, considerando que os números da empresa são \"outro mundo\" e que a valorização da empresa é \"fantasia\". No entanto, a empresa continua a exceder as expectativas e a demanda por soluções de inteligência artificial soberanas aumenta.",
+      "sentimento": "bearish",
+      "tags": [
+        "Palantir",
+        "AI",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 94
+    },
+    {
+      "titulo": "Worst-Ever Brazil Market Outage Puts B3’s Near-Monopoly in Focus",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/worst-ever-brazil-market-outage-puts-b3-s-near-monopoly-in-focus",
+      "fonte": "bloomberg.com",
+      "data": "2026-08-07",
+      "resumo": "A pior interrupção de mercado já registrada na história dos mercados financeiros brasileiros levanta suspeitas sobre a posição de monopólio da B3. A interrupção, que ocorreu em agosto de 2026, foi apenas a mais recente das muitas interrupções que afetaram investidores na maior economia da América Latina nos últimos 12 meses.",
+      "sentimento": "bearish",
+      "tags": [
+        "B3",
+        "Bolsa de Valores",
+        "Mercados Financeiros",
+        "América Latina"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 162
+    },
+    {
+      "titulo": "Jim Cramer says the market's biggest opportunities have room for multiple winners",
+      "url": "https://www.cnbc.com/2026/08/05/cramer-markets-biggest-opportunities-room-for-multiple-winners.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-05",
+      "resumo": "Jim Cramer afirma que o mercado tem oportunidades significativas para vários vencedores, apesar da reação negativa de Wall Street em relação à Nvidia. Ele diz que a demanda por CPU e GPU pode chegar a trilhões de dólares até 2030, deixando espaço para múltiplos vencedores.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Nvidia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 56
+    }
+  ]
+}
