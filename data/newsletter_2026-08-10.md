@@ -1,111 +1,98 @@
 # Newsletter IA Bolsa — 2026-08-10
 
-**Gerado em:** 10/08/2026 04:27
-**Total:** 8 noticias
+**Gerado em:** 10/08/2026 11:08
+**Total:** 7 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Earnings beats ease concerns over record U.S. stock rally
+## 1. Palantir Surges 10%, UiPath Rises 7%, C3.ai Gains 5% as Agentic AI Stocks Rally Together
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Energia, Mercado de Ações
+**Tags:** AI, Agente, Tecnologia
 
-A segunda-feira de resultados financeiros nos EUA foi marcada por uma série de superestimativas, o que ajudou a aliviar preocupações sobre a dependência excessiva da corrida dos ativos de inteligência artificial. Empresas como Amazon e Microsoft apresentaram resultados impressionantes, enquanto a maioria das empresas da S&P 500 superou as expectativas dos analistas. A energia foi o setor que mais cresceu, com uma expansão de 147%, impulsionada por preços de petróleo mais altos devido à guerra no Irã.
+As ações de Palantir, UiPath e C3.ai estão em alta, com Palantir subindo 10%, UiPath aumentando 7% e C3.ai ganhando 5%. Essa alta é vista como uma confirmação da teoria da soberania-AI, que sugere que as empresas que controlam seus próprios dados e inteligência artificial têm um valor mais alto.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/earnings-beats-ease-concerns-over-070820398.html)
-
----
-
-## 2. Cathie Wood's Ark Piled Into Nvidia and Taiwan ...
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
-
-Cathie Wood's Ark Invest comprou cerca de $15 milhões de ações da Nvidia e $14,7 milhões de ações da Taiwan Semiconductor Manufacturing (TSMC) após os resultados financeiros de Meta, o que sugere que ela acredita na durabilidade da demanda por infraestrutura de inteligência artificial (IA). A compra de TSMC reflete a ligação entre a empresa e a Nvidia, pois a TSMC é responsável pela fabricação de chips da Nvidia. A ação de Wood em comprar ações da Nvidia e TSMC sugere que ela acredita que a demanda por IA continuará a crescer.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-piled-nvidia-072500018.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/palantir-surges-10-uipath-rises-181234941.html)
 
 ---
 
-## 3. AMD's Beat-and-Raise Q2 Earnings Shows Just How High the AI Bar Is
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** AI, AMD, Semiconductor
-
-A AMD apresentou resultados financeiros impressionantes no segundo trimestre, com receita e lucro acima das expectativas e orientação para o terceiro trimestre mais alta. No entanto, a alta performance da empresa não foi suficiente para satisfazer os investidores, que agora exigem crescimento acelerado e estimativas mais altas. A empresa destacou o crescimento significativo em sua receita de centros de dados, que aumentou 107% em relação ao mesmo período do ano passado.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/amds-beat-raise-q2-earnings-113002308.html)
-
----
-
-## 4. A $10,000 Investment in Taiwan Semiconductor Today Will Be ...
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
-
-A Motley Fool prevê que uma investimento de $10.000 na Taiwan Semiconductor (TSM) em 2028 será valorizado em cerca de $20.000, graças à sua posição dominante no mercado de chips e à demanda crescente de empresas de inteligência artificial. A empresa pode gerar NT$9,32 trilhões em receita e lucros de $146 bilhões, o que representa um crescimento de 100% em relação ao valor atual.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/10-000-investment-taiwan-semiconductor-195000867.html)
-
----
-
-## 5. Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, Nvidia
-
-A Nvidia e a Navitas Semiconductor são duas empresas de inteligência artificial com tendências de receita diferentes. A Nvidia apresenta uma tendência de receita crescente, enquanto a Navitas Semiconductor apresenta uma tendência de receita declinante. Essas tendências podem ser importantes para os investidores que estão considerando investir em empresas de IA.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/nvidia-vs-navitas-semiconductor-heres-230101107.html)
-
----
-
-## 6. Palantir: This Rally Is A Gift, Sell It
+## 2. Nvidia: Upside Is Starting To Fade (NASDAQ:NVDA)
 
 **Fonte:** seekingalpha.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
-**Tags:** Palantir, AI, Tecnologia
+**Tags:** NVDA, NASDAQ, Tecnologia, Inteligência Artificial
 
-O autor do artigo, Cavenagh Research, afirma que a ação da Palantir está em uma tendência de alta, mas aconselha a vender, considerando que os números da empresa são "outro mundo" e que a valorização da empresa é "fantasia". No entanto, a empresa continua a exceder as expectativas e a demanda por soluções de inteligência artificial soberanas aumenta.
+O analista financeiro questiona a perspectiva de crescimento da Nvidia (NVDA) após a empresa ter alcançado um patamar de preço elevado em relação a seus pares. Ele compara os preços de mercado da NVDA com aqueles de outras empresas como AMD, Broadcom, Marvell, Arm e Intel, e sugere que o upside da empresa está começando a desvanecer-se.
 
-[Ler noticia completa](https://seekingalpha.com/article/4932064-palantir-this-rally-is-a-gift-sell-it)
+[Ler noticia completa](https://seekingalpha.com/article/4932374-nvidia-upside-is-starting-to-fade)
 
 ---
 
-## 7. Worst-Ever Brazil Market Outage Puts B3’s Near-Monopoly in Focus
+## 3. AI trade gets crowded as India stages a comeback: What fund flows reveal - The Economic Times
 
-**Fonte:** bloomberg.com  
+**Fonte:** m.economictimes.com  
 **Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** B3, Bolsa de Valores, Mercados Financeiros, América Latina
+**Relevancia:** 5.0/10  
+**Tags:** IA, Tecnologia, Mercados Globais
 
-A pior interrupção de mercado já registrada na história dos mercados financeiros brasileiros levanta suspeitas sobre a posição de monopólio da B3. A interrupção, que ocorreu em agosto de 2026, foi apenas a mais recente das muitas interrupções que afetaram investidores na maior economia da América Latina nos últimos 12 meses.
+A corrida por investimentos em tecnologia de inteligência artificial (IA) está se tornando cada vez mais intensa, com a Índia se destacando como um mercado de diversificação em um cenário onde os investidores estão retornando para os mercados ligados à IA. Embora as previsões de crescimento de lucros sejam mais baixas na Índia em comparação com a Coreia do Sul e Taiwan, os fundos estão continuando a afluir para esses mercados.
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-08-07/worst-ever-brazil-market-outage-puts-b3-s-near-monopoly-in-focus)
+[Ler noticia completa](https://m.economictimes.com/markets/stocks/news/ai-trade-gets-crowded-as-india-stages-a-comeback-what-fund-flows-reveal/articleshow/133062811.cms)
 
 ---
 
-## 8. Jim Cramer says the market's biggest opportunities have room for multiple winners
+## 4. Bovespa Index (IBOV)  - Investing.com NG
 
-**Fonte:** cnbc.com  
+**Fonte:** google.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** Bovespa, IBOV, B3SA3
+
+O índice Bovespa (IBOV) apresentou mudanças no preço de algumas ações, com FLRY3 e AZZA3 sendo as maiores ganhadoras, e LREN3 e CMIN3 sendo as maiores perdedoras. Além disso, a B3 SA Brasil Bolsa Balcao (B3SA3) apresentou seus melhores resultados trimestrais da história para o Q1 2026, superando as expectativas dos analistas.
+
+[Ler noticia completa](https://www.google.com/goto?url=CAESYAHuR6pN8qzkLm_1s7swAOQih1VPVzGpRuxmSqVXMdndyHB2h49geATLqCmCfqgRcARayTxDXcTOQTei1_ulLi4zhMKsgMsr63zy-iFa6z9bykWDQLFbqrpWpt4zSwgJ0Q%3D%3D)
+
+---
+
+## 5. Celestica: Strong Earnings Growth Still Leaves Room For Upside (NYSE:CLS) | Seeking Alpha
+
+**Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Nvidia, Mercado de Ações
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semicondutores, Tecnologia, NASDAQ
 
-Jim Cramer afirma que o mercado tem oportunidades significativas para vários vencedores, apesar da reação negativa de Wall Street em relação à Nvidia. Ele diz que a demanda por CPU e GPU pode chegar a trilhões de dólares até 2030, deixando espaço para múltiplos vencedores.
+Celestica está beneficiando do crescimento rápido dos centros de dados de IA, infraestrutura de nuvem e rede de alta velocidade. O segmento de Conectividade e Soluções de Nuvem é o mais rápido em crescimento, com um aumento de 84% em receita anualizada. A empresa é valorizada em $434 por ação, com 31% de potencial de alavancagem.
 
-[Ler noticia completa](https://www.cnbc.com/2026/08/05/cramer-markets-biggest-opportunities-room-for-multiple-winners.html)
+[Ler noticia completa](https://seekingalpha.com/article/4931704-celestica-strong-earnings-growth-still-leaves-room-for-upside)
+
+---
+
+## 6. US stock market could ride earnings strength to more gains after S&P 500 hits record
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semicondutores, Mercado de Ações, Earnings
+
+O mercado de ações dos EUA pode continuar a subir devido ao forte desempenho das empresas, mesmo após o S&P 500 atingir um novo recorde. A grande demanda por centros de dados de IA está impulsionando a indústria de semicondutores e outras empresas. Além disso, a temporada de resultados trimestrais está superando as expectativas, o que deve fornecer apoio fundamental crítico para ações nos próximos meses.
+
+[Ler noticia completa](https://www.reuters.com/business/us-stock-market-could-ride-earnings-strength-more-gains-after-sp-500-hits-record-2026-08-05)
+
+---
+
+## 7. AMD Advances AI Strategy With Taalas Acquisition
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semiconductor, NASDAQ
+
+A AMD anunciou a aquisição da Taalas, especialista em silício de inferência de inteligência artificial, visando melhorar suas soluções de computação no mercado dinâmico de inferência de inteligência artificial. A tecnologia da Taalas, que otimiza fluxos de dados de inferência para reduzir gargalos de computação e memória, fortalecerá o plano de ação de inteligência artificial da AMD melhorando o desempenho e a eficiência da inferência. A aquisição permitirá que a AMD integre as soluções da Taalas com suas plataformas de hardware e software existentes.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/ai-chips-amd-advances-ai-113923975.html)
 
 ---
