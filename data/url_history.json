@@ -1,60 +1,4 @@
 {
-  "https://www.bloomberg.com/news/articles/2026-07-31/futures-rise-as-everything-ai-rallies-on-amazon-s-blowout-growth": {
-    "hash": "b7250a1ecfb0e3046b4eb6e6b09d5e59",
-    "visto_em": "2026-08-03"
-  },
-  "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-markets-digest-fed-decision-samsung-results-kospi-rebounds-4822296": {
-    "hash": "46276797d552860cea00f13ad3fdbe73",
-    "visto_em": "2026-08-03"
-  },
-  "https://seekingalpha.com/article/4929146-ai-stocks-without-the-ai-price-tag": {
-    "hash": "387dd27cb4e782a0dbc6ff19e73e9387",
-    "visto_em": "2026-08-03"
-  },
-  "https://seekingalpha.com/article/4929160-microsoft-just-changed-ai-narrative": {
-    "hash": "0b0e8bbc3bddb261097861a255015f70",
-    "visto_em": "2026-08-03"
-  },
-  "https://br.investing.com/analysis/a-crise-do-capex-nas-big-techs-200478686": {
-    "hash": "be7240a66b32fcf37e5e6335f2630c61",
-    "visto_em": "2026-08-03"
-  },
-  "https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html": {
-    "hash": "208358006f30f3e27525b4d8dac3aa20",
-    "visto_em": "2026-08-03"
-  },
-  "https://www.infomoney.com.br/onde-investir/allos-alos3-ve-ia-acirrando-concorrencia-online-e-reforcando-forca-dos-shoppings": {
-    "hash": "a348d71131af8085db745647f48b9a07",
-    "visto_em": "2026-08-03"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/soundhound-ais-next-earnings-report-214501723.html": {
-    "hash": "cf8780850a80d84458be07c68971e49e",
-    "visto_em": "2026-08-03"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/jim-cramer-t-help-gloat-023735112.html": {
-    "hash": "73aeb5bfb059fefac4eb1534fd76380c",
-    "visto_em": "2026-08-03"
-  },
-  "https://www.reuters.com/business/magnificent-7-results-set-test-broadening-us-stock-market-2026-07-29": {
-    "hash": "232a0564ca4d9cbd57fb9c32c1b2b23d",
-    "visto_em": "2026-08-03"
-  },
-  "https://seekingalpha.com/news/4623138-goldman-sachs-sees-ai-trade-stabilizing-as-strong-earnings-keep-bull-market-intact": {
-    "hash": "cdbe0ab1868c1a2521c061749ce4d0e5",
-    "visto_em": "2026-08-03"
-  },
-  "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html": {
-    "hash": "f468cd80c76bcac71f554f53b9ee5f7b",
-    "visto_em": "2026-08-03"
-  },
-  "https://finance.yahoo.com/markets/article/the-july-jobs-report-spacex-earnings-and-ai-struggles-what-to-watch-this-week-100000237.html": {
-    "hash": "b36c8fbe92c03c2b64cf07b7fc2c85f2",
-    "visto_em": "2026-08-03"
-  },
-  "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack": {
-    "hash": "3d591e23a323fe037af0d01ba43a3db0",
-    "visto_em": "2026-08-03"
-  },
   "https://seekingalpha.com/news/4621896-ai-memory-chip-stocks-surge-as-hedge-fund-unwinds": {
     "hash": "c0e9fafe5ef4186cf02b37172e5b1ff8",
     "visto_em": "2026-08-04"
@@ -430,5 +374,45 @@
   "https://finance.yahoo.com/technology/ai/articles/ai-chips-amd-advances-ai-113923975.html": {
     "hash": "39106b7859cac4ef8e3311b2da3e5639",
     "visto_em": "2026-08-10"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/atlassian-soars-34-twilio-leaps-145426222.html": {
+    "hash": "45696ce3e250e896b1182137004bbd12",
+    "visto_em": "2026-08-11"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-surges-ai-chip-130445040.html": {
+    "hash": "1627d5964f6f5de367ac5c579cb52c10",
+    "visto_em": "2026-08-11"
+  },
+  "https://finance.yahoo.com/quote/NVDA": {
+    "hash": "ee12bce2ec26425a5bcb510637221575",
+    "visto_em": "2026-08-11"
+  },
+  "https://www.investing.com/news/stock-market-news/earnings-beats-ease-concerns-over-record-us-stock-rally-4847712": {
+    "hash": "f197743aa25135cc8d576a86c63bd6e3",
+    "visto_em": "2026-08-11"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-173-4847393": {
+    "hash": "113d2bca3c344e6ecb88476a6c8f770e",
+    "visto_em": "2026-08-11"
+  },
+  "https://br.investing.com/news/stock-market-news/ibovespa-sobe-na-abertura-com-itau-entre-suportes-apos-balanco-2027485": {
+    "hash": "b7ed83848fa2719169e5dc65b56dac80",
+    "visto_em": "2026-08-11"
+  },
+  "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html": {
+    "hash": "fc103d5a03a58595f2b4933030d51fba",
+    "visto_em": "2026-08-11"
+  },
+  "https://finance.yahoo.com/quote/SOUN": {
+    "hash": "2df3c873f2ff8fd68c42b982ffae1c18",
+    "visto_em": "2026-08-11"
+  },
+  "https://finance.yahoo.com/real-estate/articles/realty-income-corp-o-q2-050448385.html": {
+    "hash": "2c6753837ec182e03f4af57e1bea7c3a",
+    "visto_em": "2026-08-11"
+  },
+  "https://finance.yahoo.com/markets/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html": {
+    "hash": "86dc98af1f7628396c1c5d1e849044eb",
+    "visto_em": "2026-08-11"
   }
 }

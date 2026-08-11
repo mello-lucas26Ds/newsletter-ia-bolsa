@@ -1,11 +1,164 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-10",
-    "total_noticias": 80,
-    "gerado_em": "2026-08-10T11:08:21.408704"
+    "data": "2026-08-11",
+    "total_noticias": 79,
+    "gerado_em": "2026-08-11T04:18:57.981156"
   },
   "noticias": [
+    {
+      "titulo": "Atlassian Soars 34%, Twilio Leaps 27%, Cloudflare Advances 9% in Software Stock Surge",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-soars-34-twilio-leaps-145426222.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-08",
+      "resumo": "A Atlassian, Twilio e Cloudflare lideram o surto no setor de software, com a Atlassian subindo 34%, a Twilio 27% e a Cloudflare 9%. A expectativa de aumento de taxas de juros diminuiu, tornando os investimentos em tecnologia mais atraentes. As empresas estão beneficiando de catalisadores específicos, como crescimento de nuvem e oportunidades de IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Software",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 64
+    },
+    {
+      "titulo": "TSMC Revenue Surges as AI Chip Demand Hold",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-surges-ai-chip-130445040.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-10",
+      "resumo": "A TSMC, uma empresa de semicondutores, registrou uma receita de NT$467,58 bilhões em julho, o que representa um aumento de 44,7% em relação ao mesmo período do ano anterior. Isso é visto como um sinal positivo para a demanda de chips de inteligência artificial (IA). A empresa é fundamental para a produção de chips de IA para empresas como a Nvidia e a Google.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "TAIWAN"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "NVIDIA Corporation (NVDA)",
+      "url": "https://finance.yahoo.com/quote/NVDA",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-10",
+      "resumo": "A NVIDIA Corporation (NVDA) está sendo acompanhada em seu desempenho financeiro, com um preço atual de $217.55 e uma variação de -2,86% em relação ao fechamento anterior. A empresa é líder no setor de semicondutores e tecnologia, com uma capitalização de mercado de $5,269 trilhões. Além disso, a empresa tem uma série de metas de preço e recomendações de analistas, incluindo uma meta de preço média de $302,83 e uma recomendação de \"Strong Buy\" de alguns analistas.",
+      "sentimento": "bullish",
+      "tags": [
+        "Semicondutores",
+        "Tecnologia",
+        "NVIDIA"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 86
+    },
+    {
+      "titulo": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
+      "url": "https://www.investing.com/news/stock-market-news/earnings-beats-ease-concerns-over-record-us-stock-rally-4847712",
+      "fonte": "investing.com",
+      "data": "2026-08-09",
+      "resumo": "A Wall Street Journal informa que os lucros fortes de empresas importantes nos EUA impulsionaram os índices de ações para novos altos, aliviando preocupações de que a corrida dos mercados repouse excessivamente em uma pequena parcela de empresas de inteligência artificial. O Amazon.com Inc (NASDAQ:AMZN) teve suas ações aumentadas em 15% após as vendas de computação em nuvem acelerarem, enquanto a Microsoft adicionou um recorde de $450 bilhões em valor de mercado após resultados que aliviaram preocupações sobre os retornos da despesa com centros de dados e chips.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "NASDAQ",
+        "Earnings"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 97
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 1.73%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-173-4847393",
+      "fonte": "investing.com",
+      "data": "2026-08-07",
+      "resumo": "As ações brasileiras fecharam em queda no final do dia, com o Bovespa caindo 1,73%. No entanto, as ações de empresas de tecnologia nos EUA estiveram em alta, com ações como SPCX, NVDA e PLTR apresentando ganhos significativos.",
+      "sentimento": "bullish",
+      "tags": [
+        "tecnologia",
+        "ações",
+        "mercado de ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 49
+    },
+    {
+      "titulo": "Ibovespa sobe na abertura com Itaú entre suportes após balanço",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-sobe-na-abertura-com-itau-entre-suportes-apos-balanco-2027485",
+      "fonte": "br.investing.com",
+      "data": "2026-08-05",
+      "resumo": "A Ibovespa abriu em alta, com ações como Itaú entre os principais suportes após o balanço. A Petrobras PN foi uma das ações em destaque, com uma variação de -1,34%. A ProPicks IA apresentou uma seleção de ações com histórico de ganhos acima do S&P 500, incluindo empresas como Nubank BDR e XP BDR.",
+      "sentimento": "bullish",
+      "tags": [
+        "Ibovespa",
+        "ações",
+        "balanço",
+        "Itaú",
+        "Petrobras PN"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 66
+    },
+    {
+      "titulo": "TSMC sees 45% sales surge as AI demand stays strong - CNBC",
+      "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-10",
+      "resumo": "A TSMC, a maior fabricante de chips do mundo, relatou uma grande aumento nas vendas em julho, com um crescimento de 44,7% em comparação com o mesmo período do ano passado. A demanda por chips relacionados à inteligência artificial (IA) continua forte, o que é um sinal positivo para o setor. A empresa espera um aumento de 40% na receita em dólares americanos para o ano de 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "TAIWAN"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 77
+    },
+    {
+      "titulo": "SoundHound AI, Inc. (SOUN)",
+      "url": "https://finance.yahoo.com/quote/SOUN",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-10",
+      "resumo": "A SoundHound AI, Inc. (SOUN) relatou um recorde de receita de $61,9 milhões no 2º trimestre, com um crescimento de 45% em relação ao mesmo período do ano anterior. A empresa também aumentou sua previsão de receita para 2026, para $230-260 milhões. No entanto, a empresa ainda enfrenta perdas contínuas e uma valorização premium, o que pode representar riscos para os investidores.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Software",
+        "NASDAQ"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 71
+    },
+    {
+      "titulo": "Realty Income Corp (O) (Q2 2026) Earnings Call Highlights: AFFO Growth and Strategic Expansion ...",
+      "url": "https://finance.yahoo.com/real-estate/articles/realty-income-corp-o-q2-050448385.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-07",
+      "resumo": "A Realty Income Corp (O) apresentou resultados sólidos no 2º trimestre de 2026, com crescimento do AFFO e expansão estratégica. A empresa iniciou uma parceria de $6 bilhões com a Cloud Capital para desenvolver centros de dados hiperescala, e os fundamentos industriais estão melhorando. Além disso, a empresa alcançou recaptura internacional de 112,9% e a U.S. Core Plus Fund está completamente alocada, gerando receitas para os acionistas.",
+      "sentimento": "bullish",
+      "tags": [
+        "REIT",
+        "Data Center",
+        "Hyperscale",
+        "Fundamentos Industriais"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "Chip equipment stocks rise after Taiwan Semiconductor revenue ...",
+      "url": "https://finance.yahoo.com/markets/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-10",
+      "resumo": "A TSMC, a maior fabricante de chips do mundo, relatou um aumento de 37% em sua receita anualizada de janeiro a julho de 2026, totalizando cerca de 89,11 bilhões de dólares. Isso levou a uma alta nos preços das ações de empresas como a ASML, que fabrica equipamentos para a produção de chips. A demanda por semicondutores, especialmente para inteligência artificial, está impulsionando a expansão da TSMC.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
     {
       "titulo": "Palantir Surges 10%, UiPath Rises 7%, C3.ai Gains 5% as Agentic AI Stocks Rally Together",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-surges-10-uipath-rises-181234941.html",
@@ -544,21 +697,6 @@
       "tokens_usados": 42
     },
     {
-      "titulo": "AMD earnings: Sky-high expectations leave little room for missteps (AMD:NASDAQ)",
-      "url": "https://seekingalpha.com/news/4623812-amd-q2-2026-earnings-preview",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-03",
-      "resumo": "A AMD está programada para divulgar os resultados do segundo trimestre após o fechamento do mercado na terça-feira, 4 de agosto, com investidores esperando mais um quarto com forte influência da inteligência artificial. Os resultados da empresa podem influenciar a percepção do espaço de semicondutores de inteligência artificial, com ações como a Nvidia, Broadcom, Marvell Technology e Taiwan Semiconductor Manufacturing frequentemente sendo negociadas em conjunto com as expectativas de gastos com infraestrutura de inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 84
-    },
-    {
       "titulo": "AMD forecasts upbeat revenue on AI data-center demand, beats quarterly estimates",
       "url": "https://www.investing.com/news/stock-market-news/amd-forecasts-upbeat-revenue-on-ai-datacenter-demand-beats-quarterly-estimates-4835799",
       "fonte": "investing.com",
@@ -876,36 +1014,6 @@
       "tokens_usados": 105
     },
     {
-      "titulo": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
-      "url": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-03",
-      "resumo": "Jim Cramer afirma que a Wall Street agora está mais otimista em relação às grandes empresas de tecnologia que investem em inteligência artificial, graças à explicação de Andy Jassy sobre os retornos desses investimentos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "BigTech",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 43
-    },
-    {
-      "titulo": "Ibovespa e dólar hoje: petróleo recua com Irã e Selic cai no Focus antes do Copom",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-petroleo-recua-com-ira-e-selic-cai-no-focus-2024202",
-      "fonte": "br.investing.com",
-      "data": "2026-08-03",
-      "resumo": "A notícia não apresenta uma notícia específica sobre a Ibovespa e o dólar, mas sim uma seleção de ações e ETFs com destaque para a tecnologia e a inteligência artificial. A Palantir e a Snap apresentam resultados positivos, enquanto o mercado aguarda os balanços da AMD e a SpaceX. O petróleo recua com a tensão no Irã.",
-      "sentimento": "bullish",
-      "tags": [
-        "Tecnologia",
-        "Inteligência Artificial",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 69
-    },
-    {
       "titulo": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
       "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders",
       "fonte": "techcrunch.com",
@@ -964,21 +1072,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 67
-    },
-    {
-      "titulo": "SpaceX First Earnings Report Is Coming. Here’s What To Look For",
-      "url": "https://www.forbes.com/sites/investor-hub/article/spacex-first-earnings-report-what-to-look-out-for",
-      "fonte": "forbes.com",
-      "data": "2026-08-03",
-      "resumo": "A SpaceX está prestes a apresentar seu primeiro relatório de ganhos, e investidores devem estar atentos a vários aspectos, incluindo despesas com capital em AI, lucratividade de Starlink e planejamento de capital. A empresa investiu $7,72 bilhões em AI apenas no primeiro trimestre de 2026, e espera aumentar suas despesas para $118,4 bilhões em 2028. A lucratividade de Starlink é considerada o principal motor de valor da empresa, com $11,4 bilhões de receita e $4,4 bilhões de lucro operacional em 2025.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "SpaceX"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 143
     },
     {
       "titulo": "Banco Santander (Brasil) SA (SANB3.SA)",
@@ -1042,21 +1135,6 @@
       "tokens_usados": 61
     },
     {
-      "titulo": "Amazon Earnings, $3 Trillion Market Cap Point To Growth In These Top AI Stocks - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4929574-amazon-earnings-3-trillion-market-cap-point-to-growth-in-these-top-ai-stocks",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-03",
-      "resumo": "A Amazon recentemente alcançou um patrimônio líquido de $3 trilhões, reforçando a tendência de crescimento das empresas de infraestrutura de IA. Os fortes resultados financeiros da Microsoft e da Alphabet também sugerem que a despesa com IA permanece uma prioridade estratégica, apesar da volatilidade recente no mercado. Empresas de infraestrutura de IA bem posicionadas continuam a se beneficiar da expansão de capacidade de nuvem e centros de dados por parte dos hiperscalers.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Cloud Computing",
-        "Infraestrutura de TI"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 84
-    },
-    {
       "titulo": "AMD Earnings Beat Estimates and Stock Falls 8%: Was the Bar Too High?",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amd-earnings-beat-estimates-stock-205710559.html",
       "fonte": "finance.yahoo.com",
@@ -1070,21 +1148,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 97
-    },
-    {
-      "titulo": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture - CNBC",
-      "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-03",
-      "resumo": "A presença de investimentos em empresas de IA privadas está distorcendo a imagem das receitas corporativas. A Microsoft, Amazon e Alphabet registraram ganhos significativos de investimento no último trimestre graças a participações em Anthropic e OpenAI, mas esses ganhos são apenas em papel e não refletem o crescimento real das empresas. Sem esses ganhos, o crescimento das receitas do S&P 500 seria de cerca de 29%, muito mais próximo do que os analistas haviam previsto.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados Financeiros"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 85
     },
     {
       "titulo": "'non-sexy parts of the AI trade' offer EM's biggest opportunities - CNBC",
@@ -1132,51 +1195,6 @@
       "tokens_usados": 64
     },
     {
-      "titulo": "If Artificial Intelligence Is in a Bubble, These Are the Stocks That Could Benefit Most",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-bubble-stocks-could-032000721.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-03",
-      "resumo": "Se os investidores se afastam dos maiores vencedores do setor de inteligência artificial, como as ações de semicondutores e hyperscalers, eles podem querer permanecer no setor de tecnologia. Nesse caso, as ações de software com preços de valorização atraentes podem ser pontos de destino naturais para muitos. Algumas das ações mais desvalorizadas já tiveram recuperações significativas no preço, incluindo a Adobe e a Salesforce, que ainda estão produzindo fluxo de caixa livre sólido.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Software",
-        "ETF"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 82
-    },
-    {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.00%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-000-4832279",
-      "fonte": "investing.com",
-      "data": "2026-08-03",
-      "resumo": "O mercado de ações no Brasil fechou com um aumento de 0,00% no índice Bovespa. No entanto, algumas ações específicas tiveram variações significativas, incluindo a ação da Microsoft, que subiu 4,93%, e a ação do SNDK, que subiu 6,03%.",
-      "sentimento": "bullish",
-      "tags": [
-        "Bovespa",
-        "ações",
-        "mercado de capitais"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 50
-    },
-    {
-      "titulo": "Got $1,000? Taiwan Semiconductor Manufacturing's $100 Billion Arizona Investment Makes It a Must-Own Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-taiwan-semiconductor-180500978.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-03",
-      "resumo": "A Taiwan Semiconductor Manufacturing (TSM) está investindo US$ 100 bilhões em suas instalações de produção na Arizônia, totalizando US$ 265 bilhões. Isso é considerado um movimento importante pela empresa e solidifica a ação como uma compra. Com US$ 1.000 disponíveis, a TSM é uma das melhores ações para investir no momento.",
-      "sentimento": "bullish",
-      "tags": [
-        "TSM",
-        "Semiconductor",
-        "Taiwan"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 60
-    },
-    {
       "titulo": "Reconfigured tax laws to help activate investments, boost manufacturing & foreign capital",
       "url": "https://m.economictimes.com/news/economy/policy/reconfigured-tax-laws-to-help-activate-investments-boost-manufacturing-foreign-capital/articleshow/132841009.cms",
       "fonte": "m.economictimes.com",
@@ -1190,36 +1208,6 @@
         "capital estrangeiro"
       ],
       "score_relevancia": 8.0,
-      "tokens_usados": 63
-    },
-    {
-      "titulo": "AMD to report Q2 earnings as chip stocks continue to waver",
-      "url": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-03",
-      "resumo": "A AMD está prestes a divulgar seus resultados financeiros do segundo trimestre, enquanto as ações de chips continuam a oscilar. A empresa está esperada para registrar lucro por ação de $1,62 e receita de $11,3 bilhões, de acordo com estimativas de analistas da Bloomberg. Isso representa um aumento significativo em relação ao mesmo período do ano passado, quando a empresa registrou lucro por ação de $0,48 e receita de $7,6 bilhões.",
-      "sentimento": "bullish",
-      "tags": [
-        "AMD",
-        "Semiconductor",
-        "Earnings"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 80
-    },
-    {
-      "titulo": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-03",
-      "resumo": "A Motley Fool compara as empresas de semicondutores ASML e TSMC, destacando as duas como opções promissoras para investir em inteligência artificial (IA). Ambas as empresas apresentaram crescimento significativo nos últimos cinco anos, com ASML tendo aumentado sua receita em mais de 90%. A escolha entre as duas empresas depende das preferências do investidor.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
       "tokens_usados": 63
     }
   ]

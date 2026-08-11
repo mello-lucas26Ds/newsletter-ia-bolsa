@@ -1,0 +1,137 @@
+# Newsletter IA Bolsa — 2026-08-11
+
+**Gerado em:** 11/08/2026 04:18
+**Total:** 10 noticias
+**Fonte dos dados:** Tavily API + Groq AI
+
+---
+
+## 1. Atlassian Soars 34%, Twilio Leaps 27%, Cloudflare Advances 9% in Software Stock Surge
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Software, NASDAQ
+
+A Atlassian, Twilio e Cloudflare lideram o surto no setor de software, com a Atlassian subindo 34%, a Twilio 27% e a Cloudflare 9%. A expectativa de aumento de taxas de juros diminuiu, tornando os investimentos em tecnologia mais atraentes. As empresas estão beneficiando de catalisadores específicos, como crescimento de nuvem e oportunidades de IA.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/atlassian-soars-34-twilio-leaps-145426222.html)
+
+---
+
+## 2. TSMC Revenue Surges as AI Chip Demand Hold
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semiconductor, TAIWAN
+
+A TSMC, uma empresa de semicondutores, registrou uma receita de NT$467,58 bilhões em julho, o que representa um aumento de 44,7% em relação ao mesmo período do ano anterior. Isso é visto como um sinal positivo para a demanda de chips de inteligência artificial (IA). A empresa é fundamental para a produção de chips de IA para empresas como a Nvidia e a Google.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-surges-ai-chip-130445040.html)
+
+---
+
+## 3. NVIDIA Corporation (NVDA)
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** Semicondutores, Tecnologia, NVIDIA
+
+A NVIDIA Corporation (NVDA) está sendo acompanhada em seu desempenho financeiro, com um preço atual de $217.55 e uma variação de -2,86% em relação ao fechamento anterior. A empresa é líder no setor de semicondutores e tecnologia, com uma capitalização de mercado de $5,269 trilhões. Além disso, a empresa tem uma série de metas de preço e recomendações de analistas, incluindo uma meta de preço média de $302,83 e uma recomendação de "Strong Buy" de alguns analistas.
+
+[Ler noticia completa](https://finance.yahoo.com/quote/NVDA)
+
+---
+
+## 4. Earnings beats ease concerns over record U.S. stock rally - WSJ
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, NASDAQ, Earnings
+
+A Wall Street Journal informa que os lucros fortes de empresas importantes nos EUA impulsionaram os índices de ações para novos altos, aliviando preocupações de que a corrida dos mercados repouse excessivamente em uma pequena parcela de empresas de inteligência artificial. O Amazon.com Inc (NASDAQ:AMZN) teve suas ações aumentadas em 15% após as vendas de computação em nuvem acelerarem, enquanto a Microsoft adicionou um recorde de $450 bilhões em valor de mercado após resultados que aliviaram preocupações sobre os retornos da despesa com centros de dados e chips.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/earnings-beats-ease-concerns-over-record-us-stock-rally-4847712)
+
+---
+
+## 5. Brazil stocks lower at close of trade; Bovespa down 1.73%
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** tecnologia, ações, mercado de ações
+
+As ações brasileiras fecharam em queda no final do dia, com o Bovespa caindo 1,73%. No entanto, as ações de empresas de tecnologia nos EUA estiveram em alta, com ações como SPCX, NVDA e PLTR apresentando ganhos significativos.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-173-4847393)
+
+---
+
+## 6. Ibovespa sobe na abertura com Itaú entre suportes após balanço
+
+**Fonte:** br.investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 6.0/10  
+**Tags:** Ibovespa, ações, balanço, Itaú, Petrobras PN
+
+A Ibovespa abriu em alta, com ações como Itaú entre os principais suportes após o balanço. A Petrobras PN foi uma das ações em destaque, com uma variação de -1,34%. A ProPicks IA apresentou uma seleção de ações com histórico de ganhos acima do S&P 500, incluindo empresas como Nubank BDR e XP BDR.
+
+[Ler noticia completa](https://br.investing.com/news/stock-market-news/ibovespa-sobe-na-abertura-com-itau-entre-suportes-apos-balanco-2027485)
+
+---
+
+## 7. TSMC sees 45% sales surge as AI demand stays strong - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semiconductor, TAIWAN
+
+A TSMC, a maior fabricante de chips do mundo, relatou uma grande aumento nas vendas em julho, com um crescimento de 44,7% em comparação com o mesmo período do ano passado. A demanda por chips relacionados à inteligência artificial (IA) continua forte, o que é um sinal positivo para o setor. A empresa espera um aumento de 40% na receita em dólares americanos para o ano de 2026.
+
+[Ler noticia completa](https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html)
+
+---
+
+## 8. SoundHound AI, Inc. (SOUN)
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Software, NASDAQ
+
+A SoundHound AI, Inc. (SOUN) relatou um recorde de receita de $61,9 milhões no 2º trimestre, com um crescimento de 45% em relação ao mesmo período do ano anterior. A empresa também aumentou sua previsão de receita para 2026, para $230-260 milhões. No entanto, a empresa ainda enfrenta perdas contínuas e uma valorização premium, o que pode representar riscos para os investidores.
+
+[Ler noticia completa](https://finance.yahoo.com/quote/SOUN)
+
+---
+
+## 9. Realty Income Corp (O) (Q2 2026) Earnings Call Highlights: AFFO Growth and Strategic Expansion ...
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** REIT, Data Center, Hyperscale, Fundamentos Industriais
+
+A Realty Income Corp (O) apresentou resultados sólidos no 2º trimestre de 2026, com crescimento do AFFO e expansão estratégica. A empresa iniciou uma parceria de $6 bilhões com a Cloud Capital para desenvolver centros de dados hiperescala, e os fundamentos industriais estão melhorando. Além disso, a empresa alcançou recaptura internacional de 112,9% e a U.S. Core Plus Fund está completamente alocada, gerando receitas para os acionistas.
+
+[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/realty-income-corp-o-q2-050448385.html)
+
+---
+
+## 10. Chip equipment stocks rise after Taiwan Semiconductor revenue ...
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Semiconductor, NASDAQ
+
+A TSMC, a maior fabricante de chips do mundo, relatou um aumento de 37% em sua receita anualizada de janeiro a julho de 2026, totalizando cerca de 89,11 bilhões de dólares. Isso levou a uma alta nos preços das ações de empresas como a ASML, que fabrica equipamentos para a produção de chips. A demanda por semicondutores, especialmente para inteligência artificial, está impulsionando a expansão da TSMC.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html)
+
+---
