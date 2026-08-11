@@ -2,10 +2,131 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-11",
-    "total_noticias": 79,
-    "gerado_em": "2026-08-11T04:18:57.981156"
+    "total_noticias": 87,
+    "gerado_em": "2026-08-11T10:50:24.637704"
   },
   "noticias": [
+    {
+      "titulo": "We told you first: these AI-picked stocks are up +48% and +28% already By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/we-told-you-first-these-aipicked-stocks-are-up-48-and-28-already-4847758",
+      "fonte": "investing.com",
+      "data": "2026-08-10",
+      "resumo": "A empresa Diodes (NASDAQGS:DIOD) alcançou um aumento de 27,76% em agosto, enquanto a Himax (NASDAQGS:HIMX) e a Insight Enterprises (NASDAQGS:NSIT) também apresentaram ganhos significativos, de 16,51% e 15,81%, respectivamente. Esses resultados são atribuídos à demanda acelerada por tecnologia de IA e à eficiência operacional. Além disso, a Insight Enterprises aumentou sua previsão de lucro anual devido ao aumento da demanda por infraestrutura de nuvem e tecnologia de IA pronta.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "NASDAQ"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 78
+    },
+    {
+      "titulo": "Corporate earnings soared in Q2, with AI as the 'growth engine': Chart of the Day",
+      "url": "https://finance.yahoo.com/markets/article/corporate-earnings-soared-in-q2-with-ai-as-the-growth-engine-chart-of-the-day-173507179.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-10",
+      "resumo": "A segunda quarta-feira viu um crescimento amplo das receitas, com 10 dos 11 setores em ritmo de crescimento positivo ano a ano, de acordo com a BofA. No entanto, o setor de IA permaneceu como o principal motor de crescimento do índice. As empresas de IA registraram um crescimento de 28% na média, enquanto as empresas não relacionadas à IA registraram um crescimento de apenas 12%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 134
+    },
+    {
+      "titulo": "How Much Do You Need Invested by 50 to Retire on Dividends at 60?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/much-invested-50-retire-dividends-103126428.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-09",
+      "resumo": "Para se aposentar com rendimentos de dividendos aos 60 anos, é necessário investir uma quantia significativa. Com uma taxa de retorno de 6%, $60.000 requer $1.000.000 e $100.000 requer cerca de $1.667.000. Alguns exemplos de empresas que oferecem dividendos atraentes incluem SBA Communications e Equinix, que está crescendo em virtude da construção de infraestrutura de IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "[Dividendos",
+        "Investimentos",
+        "Retirada]"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 65
+    },
+    {
+      "titulo": "The “Set It & Forget It” Stocks I'd Want to Own",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/set-forget-stocks-d-want-170014127.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-10",
+      "resumo": "A reportagem destaca a oferta de ações gratuitas de até $3.000 para contas do SoFi Active Invest. Além disso, a Equinix é apresentada como uma das empresas que podem gerar renda passiva significativa. A empresa opera o maior pé-direito neutro de interconexão do mundo e tem uma história de crescimento de dividendos.",
+      "sentimento": "bullish",
+      "tags": [
+        "Equinix",
+        "NASDAQ",
+        "Dividendos",
+        "Renda Passiva"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 63
+    },
+    {
+      "titulo": "DDOG Q2 Deep Dive: Market Reacts Negatively Despite Accelerating Core Growth and AI Momentum",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ddog-q2-deep-dive-market-010922675.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-10",
+      "resumo": "A Datadog relatou um crescimento acelerado em produtos de observabilidade e segurança de IA, mas o mercado reagiu negativamente após o anúncio de resultados financeiros. A empresa espera uma adoção sustentada desses produtos e uma resposta positiva dos clientes às novas funcionalidades de embalagem e gestão de custos. A Datadog está focada em conquistar grandes clientes e expandir sua presença no setor federal.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Datadog",
+        "NASDAQ"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 106
+    },
+    {
+      "titulo": "Innodata Q2 Earnings Call Focuses on AI Research and Diversification",
+      "url": "https://finance.yahoo.com/technology/ai/articles/innodata-q2-earnings-call-focuses-140000234.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-08",
+      "resumo": "A Innodata Inc. (INOD) apresentou resultados financeiros para o segundo trimestre de 2026, destacando a diversificação de clientes, a expansão de capacidades de pesquisa em IA e uma abordagem disciplinada para a orientação de receita. O CEO Jack Abuhoff também anunciou uma transição planejada para a posição de CEO à medida que a empresa cresce.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Diversificação"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 64
+    },
+    {
+      "titulo": "SpaceX revenue jumps in debut results as satellite, AI businesses ...",
+      "url": "https://www.reuters.com/business/media-telecom/spacex-quarterly-revenue-surges-debut-results-strong-growth-its-starlink-2026-08-04",
+      "fonte": "reuters.com",
+      "data": "2026-08-04",
+      "resumo": "A SpaceX apresentou resultados de debut com um aumento significativo de receita, com perdas operacionais reduzidas para $143 milhões no segundo trimestre. A unidade de inteligência artificial (IA) da empresa também mostrou sinais de ganhar tração comercial, com o negócio de satélite Starlink apresentando um crescimento de 79% nas receitas. A empresa está investindo pesadamente na construção de capacidade de processamento de IA a larga escala.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "SpaceX"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 75
+    },
+    {
+      "titulo": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+      "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-07",
+      "resumo": "A indústria de software está enfrentando pressões devido ao avanço da inteligência artificial, levando a uma especulação sobre o futuro da indústria. Apesar de alguns fracassos, como a queda de HubSpot e Datadog, outras empresas como Atlassian e Twilio tiveram um aumento histórico, revivendo a confiança em partes do setor.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Software",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
     {
       "titulo": "Atlassian Soars 34%, Twilio Leaps 27%, Cloudflare Advances 9% in Software Stock Surge",
       "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-soars-34-twilio-leaps-145426222.html",
