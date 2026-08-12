@@ -1,240 +1,200 @@
 # Newsletter IA Bolsa
 
-🌐 **Acesse o site:** https://mello-lucas26ds.github.io/newsletter-ia-bolsa/
+Live site: https://mello-lucas26ds.github.io/newsletter-ia-bolsa/
 
-Newsletter automatizada sobre **Inteligência Artificial e Mercado Financeiro** — atualizada 2× ao dia via GitHub Actions, com notícias acumuladas permanentemente. Nenhuma notícia se perde.
+An autonomous agent that runs twice daily on GitHub Actions, fetches financial and AI news from 19 trusted sources, processes each article through an LLM pipeline for summarization and sentiment classification, and publishes the results to a static site with 49+ consecutive days of uninterrupted operation.
 
----
+## How it works
 
-## O que é
-
-Um agregador de notícias sobre IA, semicondutores, data centers e movimentações de mercado. As notícias são buscadas em fontes globais confiáveis, processadas por IA para resumo e classificação de sentimento, e exibidas em um site estático com design futurista.
-
-O site exibe **todas as notícias de todas as execuções históricas**, organizadas com filtros por sentimento (Bullish/Bearish/Neutral) e busca por empresa, tag ou palavra-chave.
-
----
-
-## Diferenciais
-
-| Recurso | Descrição |
-|---|---|
-| **Dados acumulativos** | Notícias nunca se perdem — cada execução adiciona ao acumulado, não sobrescreve |
-| **Sentimento de mercado** | Cada notícia classificada como Bullish 🟢, Bearish 🔴 ou Neutral ⚪ |
-| **Busca em tempo real** | Filtros + busca por empresa, tag ou palavra-chave no frontend puro (JavaScript) |
-| **Fonte transparente** | Badge no site indica "Dados Reais — Tavily + Groq" vs "Dados de Demonstração" |
-| **Modo desenvolvimento** | Flask com dados fake para visualizar o design sem gastar APIs |
-| **Observabilidade** | Langfuse opcional para rastrear traces e custos de inferência |
-
----
-
-## Fontes monitoradas
-
-| Categoria | Exemplos de fontes |
-|---|---|
-| Notícias financeiras | Bloomberg, Reuters, Financial Times, Wall Street Journal, CNBC, MarketWatch, Investing.com, Benzinga |
-| Tecnologia / IA | The Verge, TechCrunch, Ars Technica |
-| Mercado brasileiro | Valor Econômico, InfoMoney, Money Times |
-
-
-As fontes são buscadas via **Tavily API** com `search_depth=advanced` e filtro de domínios confiáveis.
-
----
-
-## Como funciona — pipeline GitHub Actions
-
-O pipeline roda automaticamente na nuvem, sem precisar do computador ligado:
+The agent runs on a cron schedule (06:00 and 23:00 UTC-4, 7 days a week) with no server, no manual intervention, and no single point of human dependency.
 
 ```
-GitHub Actions (cron 06:00 e 23:00 UTC-4)
-       ↓
-app/services/pipeline.py
-       ↓
-Tavily API — busca notícias em fontes globais (IA, semicondutores, data centers, mercado)
-       ↓
-LangChain Expression Language (LCEL) 
-       ↓ ─── [Sucesso] ───→ ChatGroq (Llama-3.1-8b-instant) -> Resume, extrai tags e sentimento
-       ↓ ─── [Falha/Erro] ──→ Regex Fallback (Python puro nativo e sem custos)
-       ↓
-Regex fallback — se Groq falhar, usa regex para extração básica (sem custo)
-       ↓
-Filtra URLs já vistas em data/url_history.json
-       ↓
-Salva data/news_processed_YYYY-MM-DD.json  (snapshot do dia)
-       ↓
-Mescla com data/news_processed.json (acumulado permanente)
-       ↓
-generate_site.py → gera index.html atualizado
-       ↓
-git commit + push → GitHub Pages atualizado
+GitHub Actions (cron trigger)
+       |
+       v
+app/services/pipeline.py          -- orchestrates the full run
+       |
+       v
+ingest.py                        -- Tavily API: 6 domain-specific queries
+       |                               across 19 trusted sources
+       v
+dedup.py                        -- URL dedup via MD5 hash
+       |                               7-day sliding window cleanup
+       v
+process_ai.py                    -- LangChain LCEL chain:
+       |                               ChatPromptTemplate | ChatGroq | StrOutputParser
+       |
+       +--- [LLM succeeds] ----->  Structured output:
+       |                               RESUMO, SENTIMENTO, TAGS, SCORE (0-10)
+       |
+       +--- [LLM fails] ------->  RegexFallbackSummarizer:
+       |                               keyword-based extraction, zero cost
+       v
+newsletter.py                    -- formats JSON + Markdown output
+       |
+       v
+generate_site.py                 -- Jinja2 -> static index.html
+       |
+       v
+git commit + push               -- GitHub Pages updated
 ```
 
-### Agendamento
+## Reliability design
 
-| Horário UTC-4 | Horário UTC | Dias |
-|---|---|---|
-| 06:00 | 10:00 | Segunda a domingo |
-| 23:00 | 03:00 | Segunda a domingo |
+The system is built around the assumption that external services will fail. Each failure mode has a defined fallback path:
 
-Para rodar fora do agendamento: **Actions → "Newsletter IA Bolsa" → Run workflow**
+| Failure | Fallback | Cost |
+|---------|----------|------|
+| Groq API unavailable at startup | RegexFallbackSummarizer activates for all articles | Zero |
+| Single article fails during LLM call | Only that article falls back to regex; others continue normally | Zero for failed article |
+| Tavily `topic="news"` returns errors | Retry with `topic="general"` | Same |
+| No daily snapshots exist for site generation | Loads from `news_processed.json` accumulated file | N/A |
+| Missing API keys in production | Pipeline refuses to start (frozen dataclass validation) | N/A |
 
----
+Additional guardrails:
 
-## Stack
+- **Score clamping**: output scores are clamped to 0.0-10.0 regardless of LLM output
+- **Sentiment validation**: only `bullish`, `bearish`, or `neutral` accepted; anything else is rejected
+- **Rate limiting**: 0.3s delay between LLM calls, 0.5s between Tavily calls
+- **Max articles per run**: configurable, clamped to 1-50
+- **XSS prevention**: all user-facing HTML is sanitized with bleach
+- **API key safety**: config-check endpoint returns boolean status only, never exposes keys
 
-| Componente             | Tecnologia                       | Por quê                                                            |
-| ---------------------- | -------------------------------- | ------------------------------------------------------------------ |
-| **Backend / Pipeline** | **Python 3.12**                  | Orquestra busca, processamento, deduplicação, formatação e geração |
-| Busca                  | Tavily API                       | Fontes primárias                                                   |
-| Processamento IA       | LangChain + Groq API             | Orquestração do pipeline de IA via LCEL (prompt | llm | parser) e inferência ultra-rápida com Llama 3.1.                                                  |
-| **Orquestração**       | **Python dataclasses + pathlib** | Config imutável, caminhos robustos, código limpo                   |
-| **Testes**             | **pytest**                       | 14 testes automatizados, regressão zero                            |
-| Fallback               | Regex (Python puro)              | Sem custo                                                          |
-| Template               | Jinja2 + Flask                   | Dev mode                                                           |
-| Frontend               | HTML5 + CSS3 + Vanilla JS        | Site estático                                                      |
-| Design                 | CSS futurista gamer              | Identidade                                                         |
-| Hospedagem             | GitHub Pages                     | Gratuito                                                           |
-| Automação              | GitHub Actions (cron)            | Sem servidor                                                       |
-| Deduplicação           | `url_history.json`               | URLs vistas                                                        |
-| Observabilidade        | Langfuse (opcional)              | Traces                                                             |
+## Observability
 
+- **Langfuse**: optional LLM tracing per article (wrap each `resumir()` call in a trace)
+- **Pipeline stats**: each run returns `{"buscadas": N, "novas": N, "processadas": N, "erros": N}`
+- **Health check**: `GET /api/health` returns status and version
+- **Data badge**: the live site displays whether data is real (Tavily + Groq) or demo
 
----
+## Tech stack
 
-## Estrutura do repositório
+| Component | Technology | Notes |
+|-----------|-----------|-------|
+| Pipeline | Python 3.12 | Orchestration, processing, dedup, formatting |
+| News retrieval | Tavily API | `search_depth=advanced`, domain whitelist |
+| LLM | Groq (LLaMA 3.1 8B Instant) | Fast inference, low cost |
+| LLM orchestration | LangChain LCEL | `prompt \| llm \| StrOutputParser` |
+| Fallback | Python regex | Zero-cost, zero-dependency |
+| Deduplication | MD5 hash + JSON file | 7-day sliding window |
+| Observability | Langfuse (optional) | Per-call LLM tracing |
+| Templates | Jinja2 | Static site generation |
+| Dev server | Flask | Local development with fake data |
+| Frontend | HTML5 + CSS3 + Vanilla JS | No framework, no build step |
+| Hosting | GitHub Pages | Free, serverless |
+| CI/CD | GitHub Actions | Cron schedule, auto-commit |
+| Testing | pytest | 14 automated tests |
+| Config | Frozen dataclass + `.env` | Immutable at runtime |
+
+## Repository structure
 
 ```
 newsletter-ia-bolsa/
 ├── .github/
 │   └── workflows/
-│       └── newsletter.yml        ← workflow GitHub Actions (cron 2×/dia)
+│       └── newsletter.yml          # Cron schedule (2x/day, 7 days/week)
 ├── app/
-│   ├── __init__.py               ← factory Flask
-│   ├── routes.py                 ← rotas de desenvolvimento
+│   ├── __init__.py                 # Flask factory
+│   ├── routes.py                   # Dev routes + health/config APIs
 │   ├── services/
-│   │   ├── pipeline.py           ← pipeline principal (busca → processa → salva)
-│   │   ├── ingest.py             ← TavilySource (busca em fontes)
-│   │   ├── process_ai.py         ← GroqSummarizer + RegexFallback
-│   │   ├── dedup.py              ← JsonDeduplicador (url_history.json)
-│   │   ├── newsletter.py         ← NewsletterFormatter (JSON, Markdown, HTML)
-│   │   └── generate_site.py      ← gera index.html estático
-│   ├── static/
-│   │   └── css/
-│   │       └── style.css         ← design futurista gamer
+│   │   ├── pipeline.py             # Main orchestrator (5-stage pipeline)
+│   │   ├── ingest.py               # TavilySource (news fetching)
+│   │   ├── process_ai.py           # GroqSummarizer + RegexFallbackSummarizer
+│   │   ├── dedup.py                # JsonDeduplicador (URL + hash dedup)
+│   │   ├── newsletter.py           # NewsletterFormatter (JSON, Markdown)
+│   │   └── generate_site.py        # Static site generator (Jinja2)
+│   ├── static/css/
+│   │   └── style.css               # Site styles
 │   └── templates/
-│       ├── base.html             ← layout base
-│       ├── index.html            ← template da newsletter (Flask + estático)
-│       ├── newsletter.html       ← página individual por data
+│       ├── base.html               # Base layout
+│       ├── index.html              # Main template (Flask + static)
+│       ├── newsletter.html         # Per-date newsletter page
 │       └── dev/
-│           └── panel.html        ← dashboard de desenvolvimento
+│           └── panel.html          # Dev dashboard
 ├── data/
-│   ├── news_processed.json       ← acumulado permanente (todas as notícias)
-│   ├── news_processed_YYYY-MM-DD.json  ← snapshot do dia
-│   ├── newsletter_YYYY-MM-DD.md      ← newsletter em Markdown
-│   └── url_history.json          ← histórico de URLs para deduplicação
-├── tests/                        ← testes pytest (14 testes)
-├── index.html                    ← site gerado (GitHub Pages)
-├── static/                       ← CSS copiado para GitHub Pages
-├── config.py                     ← configuração centralizada (dataclass frozen)
-├── config_editor.py              ← configuração alteracoes
-├── run.py                        ← ponto de entrada Flask (dev)
-├── requirements.txt            ← dependências Python
-├── .env.example                ← template de variáveis de ambiente
-└── README.md                     ← este arquivo
+│   ├── news_processed.json         # Permanent accumulated database
+│   ├── news_processed_YYYY-MM-DD.json  # Daily snapshot
+│   ├── newsletter_YYYY-MM-DD.md       # Daily Markdown edition
+│   └── url_history.json           # Dedup history
+├── tests/
+│   ├── test_config.py              # Config validation (6 tests)
+│   ├── test_routes.py              # Route + API tests (8 tests)
+│   └── testar_integracao.py        # Integration simulation
+├── config.py                       # Frozen dataclass config
+├── config_editor.py                # CLI config editor
+├── run.py                          # Flask dev entry point
+├── requirements.txt                # Dependencies
+├── .env.example                    # Environment template
+└── index.html                      # Generated static site (GitHub Pages)
 ```
 
----
+## Monitored sources
 
-## Configuração (primeira vez)
+| Category | Sources |
+|----------|---------|
+| Financial news | Bloomberg, Reuters, Financial Times, Wall Street Journal, CNBC, MarketWatch, Investing.com, Benzinga |
+| Technology | The Verge, TechCrunch, Ars Technica |
+| Brazilian market | Valor Economico, InfoMoney, Money Times |
 
-### 1. Secrets necessários
+Sources are fetched via Tavily API with `search_depth=advanced` and a domain whitelist filter.
 
-Acesse **Settings → Secrets → Actions** no repositório e adicione:
+## Setup
 
-| Secret | Onde obter | Custo | Obrigatório |
-|---|---|---|---|
-| `TAVILY_API_KEY` | [tavily.com](https://tavily.com) | Gratuito (1.000 buscas/mês) | ✅ Sim |
-| `GROQ_API_KEY` | [console.groq.com](https://console.groq.com) | Gratuito (rate limit generoso) | ✅ Sim |
-| `LANGFUSE_SECRET_KEY` | [langfuse.com](https://langfuse.com) | Gratuito (tier hobby) | ❌ Opcional |
-| `LANGFUSE_PUBLIC_KEY` | [langfuse.com](https://langfuse.com) | Gratuito (tier hobby) | ❌ Opcional |
+### 1. Add GitHub Secrets
 
-> **Sem `GROQ_API_KEY`**: o pipeline usa regex fallback automaticamente, sem custo, mas com qualidade reduzida.
+Go to Settings > Secrets > Actions and add:
 
-### 2. GitHub Pages
+| Secret | Source | Required |
+|--------|--------|----------|
+| `TAVILY_API_KEY` | [tavily.com](https://tavily.com) | Yes |
+| `GROQ_API_KEY` | [console.groq.com](https://console.groq.com) | Yes |
+| `LANGFUSE_SECRET_KEY` | [langfuse.com](https://langfuse.com) | Yes |
+| `LANGFUSE_PUBLIC_KEY` | [langfuse.com](https://langfuse.com) | Yes |
 
-Em **Settings → Pages**, confirme que a fonte é o branch `main`, pasta raiz `/`.
+Without `GROQ_API_KEY`, the pipeline automatically uses the regex fallback (zero cost, lower quality).
 
-### 3. Variáveis de ambiente (local)
+### 2. Enable GitHub Pages
 
-```bash
-cp .env.example .env
-# Edite .env com suas chaves
-```
+Settings > Pages > Source: branch `main`, folder `/ (root)`.
 
----
-
-## Execução local
-
-### Modo desenvolvimento (Flask + dados fake)
+### 3. Local development
 
 ```bash
-# Instalar dependências
 pip install -r requirements.txt
-
-# Rodar servidor Flask
+cp .env.example .env
+# Edit .env with your keys
 python run.py
-# Acesse http://127.0.0.1:5000
+# http://127.0.0.1:5000
 ```
 
-O Flask carrega dados reais se existirem; senão, usa dados fake para visualizar o design.
+Flask loads real data if available; otherwise serves fake data for design preview.
 
-### Pipeline manual (dados reais)
+### 4. Run pipeline manually
 
 ```bash
-# Rodar pipeline completo (busca → processa → gera site)
 python -m app.services.pipeline
-
-# O index.html na raiz será atualizado automaticamente
 ```
 
-### Testes
+### 5. Run tests
 
 ```bash
 python -m pytest tests/ -v
 ```
 
----
+## Architecture decisions
 
-## Decisões arquiteturais
+**Why cumulative data instead of daily overwrite?**
+Each execution appends to a permanent JSON file instead of replacing the previous day. This allows historical search by company or tag, trend analysis over time, and a site that gets richer with every run.
 
-### Por que dados acumulativos?
+**Why Groq instead of GPT-4 or Claude?**
+Inference speed (edge-located, no queue), significantly lower token cost, and a built-in regex fallback that guarantees the pipeline works even without an LLM provider.
 
-Diferente de newsletters que sobrescrevem o conteúdo diário, o **IA Bolsa** mantém um histórico permanente. Isso permite:
-- Análise de tendências ao longo do tempo
-- Busca em notícias antigas por empresa ou tag
-- Site mais rico e valioso a cada execução
+**Why a static site instead of a web app?**
+GitHub Pages is free, requires no server maintenance, and serves the use case: users read news, filter by sentiment, and search. No user accounts, no database writes at runtime.
 
-### Por que Groq em vez de Claude/GPT?
+**Why sentiment classification?**
+Tagging each article as Bullish/Bearish/Neutral lets readers filter for what matters to their investment thesis -- something generic aggregators don't provide.
 
-- **Velocidade**: inferência em edge, sem fila
-- **Custo**: tokens significativamente mais baratos
-- **Fallback**: regex nativo garante funcionamento mesmo sem API
+## License
 
-### Por que Flask + site estático?
-
-- **Flask**: dev mode rápido com hot-reload e dados fake
-- **Site estático**: GitHub Pages gratuito, sem servidor, sem manutenção
-
-### Por que sentimento de mercado?
-
-Classificar notícias como Bullish/Bearish/Neutral permite que investidores filtrem rapidamente o que importa para suas estratégias — diferencial que agregadores genéricos não oferecem.
-
-### 🔗 Orquestração Resiliente com LangChain (LCEL)
-O core do processamento de linguagem natural foi construído utilizando o ecossistema **LangChain**. A arquitetura aproveita os seguintes recursos do framework:
-* **Composição via LCEL:** O pipeline de transformação (`ChatPromptTemplate | ChatGroq | StrOutputParser`) garante um fluxo de dados limpo, tipado e imutável.
-* **Fallback Estruturado:** O sistema foi desenhado para detectar falhas de importação ou de conexão com o modelo de linguagem, acionando automaticamente um motor secundário baseado em Regex nativo, garantindo custo zero e resiliência total do pipeline (Zero Downtime).
-
----
-
-## Licença
-
-MIT © 2026 — IA Bolsa
+MIT
