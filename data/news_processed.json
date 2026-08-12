@@ -2,10 +2,145 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-12",
-    "total_noticias": 76,
-    "gerado_em": "2026-08-12T04:46:16.861800"
+    "total_noticias": 85,
+    "gerado_em": "2026-08-12T11:00:13.168939"
   },
   "noticias": [
+    {
+      "titulo": "Palantir: Doubling Down On The Same Mistakes (NASDAQ:PLTR)",
+      "url": "https://seekingalpha.com/article/4934296-palantir-doubling-down-on-the-same-mistakes",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-11",
+      "resumo": "A Palantir Technologies apresentou um trimestre mais uma vez impressionante, com receitas quase dobradas em relação ao ano anterior para US$ 1,9 bilhão, graças a um movimento forte de negócios. A empresa de software de inteligência artificial para empresas está aproveitando uma mudança de volta à soberania da IA, onde os clientes estão usando AIP para proteger dados e sistemas proprietários de laboratórios de IA rebeldes. Apesar de fundamentos robustos e demanda impulsionada pela IA, a ação da empresa está se recuperando de um valor semelhante ao de 2025, quando um valor semelhante levou a uma queda de 50%. O valor da PLTR retornou a múltiplos de pico, agora negociando em 53x 2026 de vendas e quase 100x fluxo de caixa livre, sugerindo uma saída em níveis anteriores acima de US$ 200.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 163
+    },
+    {
+      "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://www.google.com/goto?url=CAESXQHuR6pN4xJ9bLuXQUG6zIDCOLhifZFwnflmjLLcccPkAjKGs2cgAsagWVgOCzwGR24Shqoxl_sFwTefU40Me3YQyYQZR8W4kN7q2_1TzEQwhL-ItFFpsE-ejn9urg%3D%3D",
+      "fonte": "google.com",
+      "data": "2026-08-12",
+      "resumo": "A NVIDIA está à frente de uma grande infraestrutura de construção para apoiar avanços em inteligência artificial, com planos de mobilizar US$ 500 bilhões em parcerias. A AMD está intensificando a concorrência com suas próprias iniciativas e parcerias de IA. A NVIDIA tem um mercado de capital de US$ 5,27 trilhões e uma margem de lucro de 62,97%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "Nvidia Chip Boom Is Spreading: 6 Stocks to Watch - Intel (NASDAQ:INTC), Broadcom (NASDAQ:AVGO), Advanced",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/61122617/nvidia-chip-boom-spreading-six-stocks-to-watch",
+      "fonte": "benzinga.com",
+      "data": "2026-08-11",
+      "resumo": "A JPMorgan prevê que a onda de chips de computação, memória e rede vai continuar, criando oportunidades de investimento em várias empresas do setor semicondutor. A Nvidia pode ter iniciado a onda de chips de IA, mas a JPMorgan vê espaço para o resto da indústria se recuperar e crescer.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 59
+    },
+    {
+      "titulo": "Investing News - Investment Articles - Investing Research",
+      "url": "https://www.marketwatch.com/investing",
+      "fonte": "marketwatch.com",
+      "data": "2026-08-12",
+      "resumo": "A notícia destaca a tendência positiva do mercado de tecnologia, especialmente em relação à inteligência artificial (IA). Várias empresas, como CoreWeave e Lumentum, estão apresentando resultados financeiros sólidos e crescimento significativo em suas vendas. Além disso, a demanda por tecnologia de IA está aumentando, o que está impulsionando o crescimento das empresas que atuam nessa área.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "Earnings call transcript: Lumentum tops Q4 2026 forecasts as AI demand lifts outlook",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-lumentum-tops-q4-2026-forecasts-as-ai-demand-lifts-outlook-93CH-4852933",
+      "fonte": "investing.com",
+      "data": "2026-08-11",
+      "resumo": "A Lumentum Holdings superou as previsões de receita e lucro do quarto trimestre, graças à alta demanda por componentes ópticos usados em centros de dados de inteligência artificial. A empresa relatou lucros ajustados de $3,23 por ação em receita de $1,01 bilhão, superando as estimativas dos analistas. As ações da empresa subiram 1,51% em negociação após horas, após fechar a sessão regular em $820,19.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Inteligência Artificial",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Cybersecurity Stocks Surge, With Palo Alto Networks and CrowdStrike Leading the Charge",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cybersecurity-stocks-surge-palo-alto-202524523.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-11",
+      "resumo": "Ações de segurança cibernética experimentaram um aumento significativo na segunda-feira, apesar de uma queda nos mercados mais amplos. Analistas destacaram a inovação de inteligência artificial como um motor de crescimento no setor de segurança cibernética. Palo Alto Networks e CrowdStrike foram os maiores ganhadores da S&P 500 na segunda-feira, com suas ações subindo 6% e 5%, respectivamente, e estabelecendo novos recordes de fechamento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Segurança Cibernética",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Nvidia's Big Deal Expands The AI Horizon Once Again (Rating Upgrade)",
+      "url": "https://seekingalpha.com/article/4934882-nvidia-big-deal-expands-the-ai-horizon-once-again-rating-upgrade",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-11",
+      "resumo": "A Nvidia Corporation expandiu mais uma vez o horizonte da inteligência artificial com um grande negócio, merecendo uma atualização de rating. A empresa está se destacando como uma das principais opções para investidores que buscam aproveitar o crescimento da infraestrutura de inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Nvidia",
+        "Inteligência Artificial"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 53
+    },
+    {
+      "titulo": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
+      "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-11",
+      "resumo": "A CoreWeave anunciou um aumento de 14% em suas ações após o relatório de segunda-feira, onde a empresa informou que sua receita dobrou devido à demanda acelerada por infraestrutura de inteligência artificial. A empresa também anunciou um acordo de vários anos com a Anthropic e um compromisso de $6 bilhões da empresa de trading quantitativo Jane Street. A concorrência está crescendo, com a SpaceX começando a vender capacidade de processamento excedente e a Meta considerando lançar uma empresa de nuvem.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Cloud Computing",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 90
+    },
+    {
+      "titulo": "META Meta Platforms, Inc.",
+      "url": "https://finance.yahoo.com/quote/META",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "A Meta Platforms, Inc. anunciou um objetivo de gastos de capital de US$ 130 bilhões e uma aumento de 28% na receita, apesar de enfrentar pressões de margem. A empresa está investindo em IA, mas enfrenta desafios no mercado. A alta capitalização de giro do setor de tecnologia está causando preocupação entre os investidores.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Meta"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 94
+    },
     {
       "titulo": "Riot Platforms Soars 17% on $9.1B Anthropic Data Center ...",
       "url": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-soars-17-9-130537358.html",
