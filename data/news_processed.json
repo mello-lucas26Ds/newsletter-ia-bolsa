@@ -1,11 +1,162 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-11",
-    "total_noticias": 87,
-    "gerado_em": "2026-08-11T10:50:24.637704"
+    "data": "2026-08-12",
+    "total_noticias": 76,
+    "gerado_em": "2026-08-12T04:46:16.861800"
   },
   "noticias": [
+    {
+      "titulo": "Riot Platforms Soars 17% on $9.1B Anthropic Data Center ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-soars-17-9-130537358.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-11",
+      "resumo": "A Riot Platforms teve um aumento de 17% após anúncio de um contrato de $9.1B com a Anthropic para construir um centro de dados. Outros operadores de infraestrutura de AI e HPC também tiveram um aumento modesto, mas a resposta foi limitada e não reflete uma reavaliação do setor como um todo.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Center",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 62
+    },
+    {
+      "titulo": "Investing In The AI Panic Rally With AIQ (NASDAQ:AIQ) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4933961-investing-in-the-ai-panic-rally-with-aiq",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-10",
+      "resumo": "O autor analisa a tendência do mercado de inteligência artificial (IA) e sugere que a onda de compra está entrando em uma fase mais discriminatória. Ele recomenda investir em ações de empresas como AIQ (NASDAQ:AIQ), que está relacionada ao setor de IA. O autor também destaca a importância de estar preparado para as flutuações do mercado e aproveitar as oportunidades que elas oferecem.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "NASDAQ",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/12-nasdaq-stocks-doubled-2026-052500188.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-11",
+      "resumo": "A lista de 12 ações da Nasdaq que dobraram em 2026 não inclui as 7 ações consideradas \"Magnificência Sete\", que são líderes no setor de tecnologia. Embora os estrategistas de Wall Street tenham defendido a compra dessas ações, a tendência de investimento mudou, com capital sendo direcionado para empresas que fornecem infraestrutura física para a IA.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "Nasdaq"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 108
+    },
+    {
+      "titulo": "Is Realty Income Stock Worth Holding After Its Q2 Earnings Results?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/realty-income-stock-worth-holding-152200256.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-11",
+      "resumo": "A Realty Income está expandindo suas operações em diferentes setores, incluindo propriedades industriais, Europa, capital privado e centros de dados. A empresa tem um programa de $6 bilhões para investir em centros de dados de alta escala em parceria com a Cloud Capital, que pode envolver até $1,4 bilhão de ações da Realty Income ao longo do tempo. A diversificação da empresa pode apoiar o crescimento a longo prazo, mas também aumenta o risco de execução.",
+      "sentimento": "neutral",
+      "tags": [
+        "REIT",
+        "Propriedades Imobiliárias",
+        "Diversificação"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 86
+    },
+    {
+      "titulo": "Nvidia and Wall Street giants ink $500B AI infrastructure mega-deal",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-and-wall-street-giants-plan-500b-ai-funding-deal-ft-reports-4849933",
+      "fonte": "investing.com",
+      "data": "2026-08-10",
+      "resumo": "A Nvidia está em negociações para criar um pacote de financiamento de infraestrutura de IA de US$ 500 bilhões em parceria com alguns dos principais bancos de investimento da Wall Street. Embora o escopo seja monumental, as ações da empresa caíram cerca de 3,1% nas negociações ativas de segunda-feira.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Nvidia",
+        "Wall Street"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 59
+    },
+    {
+      "titulo": "Itaúsa 1H26 slides: record results, 22% profit growth despite headwinds",
+      "url": "https://www.investing.com/news/company-news/itausa-1h26-slides-record-results-22-profit-growth-despite-headwinds-93CH-4852198",
+      "fonte": "investing.com",
+      "data": "2026-08-11",
+      "resumo": "A Itaúsa apresentou resultados recordados no primeiro semestre de 2026, com crescimento de 22% em lucro, apesar de desafios econômicos. A dívida líquida caiu 99% em relação a junho de 2025, e a taxa de retorno dos acionistas atingiu 39% nos últimos 12 meses. A empresa também destacou dividendos de 9,8% no primeiro semestre, um dos maiores da Bolsa de Valores do Brasil.",
+      "sentimento": "bullish",
+      "tags": [
+        "Itaúsa",
+        "Bovespa",
+        "Dividendos"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "Brava ON Share Price | BRAV3 Stock - Investing.com UK",
+      "url": "https://uk.investing.com/equities/3r-petroleum-oleo-e-gas-sa",
+      "fonte": "uk.investing.com",
+      "data": "2026-08-07",
+      "resumo": "A Brava ON (BRAV3) é uma empresa brasileira que opera no setor de energia. A empresa tem um preço de ação atual de R$ 18,86, com uma variação de 1,95% no dia. A empresa paga dividendos com uma taxa de juros de 0,68%. A capitalização de mercado da empresa é de R$ 7,10 bilhões.",
+      "sentimento": "bearish",
+      "tags": [
+        "Energia",
+        "Finanças",
+        "Brasil"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 63
+    },
+    {
+      "titulo": "Business Deals, Mergers and Acquisitions",
+      "url": "https://www.wsj.com/business/deals",
+      "fonte": "wsj.com",
+      "data": "2026-08-11",
+      "resumo": "A WSJ relata várias notícias de negócios, incluindo aquisições e financiamentos de empresas de tecnologia, como Nvidia, Visa e Teledyne Technologies. Além disso, há notícias de negócios em setores como real estate e segurança de fraude.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Negócios"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 45
+    },
+    {
+      "titulo": "Mais trabalhadores aderem à greve da BHP no hub de minério de ferro de Port Hedland",
+      "url": "https://br.investing.com/news/company-news/mais-trabalhadores-aderem-a-greve-da-bhp-no-hub-de-minerio-de-ferro-de-port-hedland-2032298",
+      "fonte": "br.investing.com",
+      "data": "2026-08-09",
+      "resumo": "A notícia não menciona explicitamente uma notícia específica, mas parece ser uma página de notícias financeiras com várias informações sobre ações e ETFs. A página inclui uma seção de \"ProPicks IA\" que seleciona ações com base em inteligência artificial, além de notícias e análises sobre ações brasileiras e internacionais.",
+      "sentimento": "neutral",
+      "tags": [
+        "[Ações",
+        "ETFs",
+        "Inteligência Artificial",
+        "Finanças]"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 60
+    },
+    {
+      "titulo": "Itaúsa 1H26 slides: record results, 39% shareholder return",
+      "url": "https://www.investing.com/news/company-news/itausa-1h26-slides-record-results-39-shareholder-return-93CH-4852195",
+      "fonte": "investing.com",
+      "data": "2026-08-11",
+      "resumo": "O Itaúsa apresentou resultados recordados no primeiro semestre de 2026, com um retorno de 39% para os acionistas. A empresa registrou um lucro líquido de R$ 9,6 bilhões, com R$ 8,8 bilhões provenientes de resultados recorrentes e R$ 857 milhões de itens não recorrentes.",
+      "sentimento": "bullish",
+      "tags": [
+        "Bovespa",
+        "Itaúsa",
+        "Finanças"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 87
+    },
     {
       "titulo": "We told you first: these AI-picked stocks are up +48% and +28% already By Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/we-told-you-first-these-aipicked-stocks-are-up-48-and-28-already-4847758",
@@ -96,21 +247,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 64
-    },
-    {
-      "titulo": "SpaceX revenue jumps in debut results as satellite, AI businesses ...",
-      "url": "https://www.reuters.com/business/media-telecom/spacex-quarterly-revenue-surges-debut-results-strong-growth-its-starlink-2026-08-04",
-      "fonte": "reuters.com",
-      "data": "2026-08-04",
-      "resumo": "A SpaceX apresentou resultados de debut com um aumento significativo de receita, com perdas operacionais reduzidas para $143 milhões no segundo trimestre. A unidade de inteligência artificial (IA) da empresa também mostrou sinais de ganhar tração comercial, com o negócio de satélite Starlink apresentando um crescimento de 79% nas receitas. A empresa está investindo pesadamente na construção de capacidade de processamento de IA a larga escala.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "SpaceX"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 75
     },
     {
       "titulo": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
@@ -525,21 +661,6 @@
       "tokens_usados": 45
     },
     {
-      "titulo": "AMD earnings report Q2 2026",
-      "url": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-04",
-      "resumo": "A AMD aumentou suas expectativas para o tamanho da indústria de semicondutores, prevendo que ela possa chegar a $2 trilhões por ano em 2028. A empresa espera que $1,4 trilhões disso venha de aceleradores de IA, ou GPUs, um aumento de $500 bilhões previstos anteriormente. A AMD também começará a enviar o Helios, seu primeiro sistema de escala de rack de IA, para empresas como Meta, OpenAI e Oracle.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 78
-    },
-    {
       "titulo": "Iguatemi SA Unit Stock Price Today | BVMF: IGTI11 Live - Investing.com",
       "url": "https://www.investing.com/equities/iguatemi-unt",
       "fonte": "investing.com",
@@ -710,21 +831,6 @@
       "tokens_usados": 113
     },
     {
-      "titulo": "AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership",
-      "url": "https://www.reuters.com/business/ai-cloud-startup-volta-valued-24-billion-announces-10-billion-ai-partnership-2026-08-04",
-      "fonte": "reuters.com",
-      "data": "2026-08-04",
-      "resumo": "A startup de IA em nuvem, Volta, foi avaliada em US$ 2,4 bilhões e anunciou um acordo de US$ 10 bilhões com a Anthropic. A empresa também anunciou um projeto em Noruega que é o primeiro de uma fila de projetos que excedem 1 GW de capacidade de energia em curto prazo na América do Norte e Europa.",
-      "sentimento": "bullish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
-    },
-    {
       "titulo": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes",
       "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-stocks-storm-back-103001009.html",
       "fonte": "finance.yahoo.com",
@@ -754,21 +860,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 107
-    },
-    {
-      "titulo": "TSMC set to ramp up 3nm wafer starts months ahead of schedule: Wedbush",
-      "url": "https://seekingalpha.com/news/4624943-tsmc-set-to-ramp-up-3nm-wafer-starts-months-ahead-of-schedule-wedbush",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-04",
-      "resumo": "A Taiwan Semiconductor Manufacturing (TSM) está programada para aumentar a produção de wafers em tecnologia de 3nm dois a três meses à frente do esperado, de acordo com a Wedbush. Isso deve impulsionar a demanda por componentes de alta tecnologia e potencialmente afetar as empresas de semicondutores como AMD, NVDA e AVGO.",
-      "sentimento": "bullish",
-      "tags": [
-        "TSM",
-        "Semicondutores",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 61
     },
     {
       "titulo": "Intel Soars 10%, AMD Jumps 8%, Broadcom Rises 6% as Chip Stocks Ride a Risk-On Rally",
@@ -818,21 +909,6 @@
       "tokens_usados": 42
     },
     {
-      "titulo": "AMD forecasts upbeat revenue on AI data-center demand, beats quarterly estimates",
-      "url": "https://www.investing.com/news/stock-market-news/amd-forecasts-upbeat-revenue-on-ai-datacenter-demand-beats-quarterly-estimates-4835799",
-      "fonte": "investing.com",
-      "data": "2026-08-04",
-      "resumo": "A AMD (Advanced Micro Devices) divulgou um resultado financeiro positivo, superando as estimativas de receita para o trimestre, graças à alta demanda por centros de dados que utilizam inteligência artificial (IA). A empresa espera uma receita mais alta para o próximo trimestre, o que é visto como um sinal positivo para o setor de tecnologia.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Semicondutores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 102
-    },
-    {
       "titulo": "Lucro da Power Integrations superou projeções por $0,05; receita supera estimativas",
       "url": "https://br.investing.com/news/earnings/lucro-da-power-integrations-superou-projecoes-por-005-receita-supera-estimativas-2028547",
       "fonte": "br.investing.com",
@@ -861,66 +937,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 122
-    },
-    {
-      "titulo": "Cramer says one hedge fund's collapse cleared the way for tech's rally",
-      "url": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-04",
-      "resumo": "O colapso do hedge fund Situational Awareness, especializado em IA, liberou o caminho para a recuperação da tecnologia, pois removiu uma grande fonte de venda forçada. Isso permitiu que as ações de tecnologia subissem devido a fundamentos fortes, especialmente com a temporada de resultados financeiros. A empresa ServiceNow, por exemplo, teve um resultado forte e sua ação subiu em vez de cair.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Hedge Funds"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 72
-    },
-    {
-      "titulo": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes",
-      "url": "https://www.reuters.com/business/nasdaq-futures-underpinned-by-strong-ai-forecasts-focus-earnings-data-2026-08-04",
-      "fonte": "reuters.com",
-      "data": "2026-08-04",
-      "resumo": "O Dow e o S&P 500 fecharam a semana em record, impulsionados por resultados de empresas ligadas à inteligência artificial e esperanças de um acordo no Oriente Médio. A Nasdaq 100 também subiu. A temporada de resultados financeiros até agora tem sido melhor do que a média histórica, com 85,2% das empresas que relataram resultados no segundo trimestre superando as estimativas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Earnings",
-        "Wall Street"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 71
-    },
-    {
-      "titulo": "Litchfield Hills initiates Datavault AI stock with buy rating on tokenization potential",
-      "url": "https://ca.investing.com/news/stock-market-news/litchfield-hills-initiates-datavault-ai-stock-with-buy-rating-on-tokenization-potential-93CH-4775690",
-      "fonte": "ca.investing.com",
-      "data": "2026-08-04",
-      "resumo": "A Litchfield Hills iniciou a avaliação da Datavault AI com uma recomendação de compra, baseada no potencial de tokenização da empresa.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tokenização",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 58
-    },
-    {
-      "titulo": "Semiconductor Stocks Are Down 22%. Here's the 1 Chip Stock I'd Buy Right Now.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-down-22-heres-085000550.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-04",
-      "resumo": "A indústria de semicondutores está em baixa, com uma queda de 22%. No entanto, a Motley Fool recomenda a compra de uma ação de chip específica, a TSMC, devido ao seu crescimento de receita projetado para ultrapassar 40% no ano.",
-      "sentimento": "bullish",
-      "tags": [
-        "Semicondutores",
-        "TSMC",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 49
     },
     {
       "titulo": "Cathie Wood invests a combined $28.7 million in TSMC, SpaceX after trimming investments in Amazon, Alphabet and Shopify",
@@ -999,21 +1015,6 @@
       "tokens_usados": 64
     },
     {
-      "titulo": "AMD forecasts upbeat revenue on strong AI chip demand ...",
-      "url": "https://www.reuters.com/business/amd-forecasts-upbeat-revenue-ai-data-center-demand-beats-quarterly-estimates-2026-08-04",
-      "fonte": "reuters.com",
-      "data": "2026-08-04",
-      "resumo": "A AMD prevê uma receita acima das estimativas da Wall Street, graças à forte demanda por seus chips para apoiar tecnologias de inteligência artificial. A empresa está aproveitando a expansão de capacidade de centros de dados para impulsionar a venda de seus processadores de dados. A AMD está desafiando a Nvidia, líder no mercado de chips de inteligência artificial, com investimentos bilionários.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 71
-    },
-    {
       "titulo": "Tech Melt-Up Drives $3.5 Trillion Nasdaq 100 Gain in Four Days",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tech-melt-drives-3-5-092612137.html",
       "fonte": "finance.yahoo.com",
@@ -1027,21 +1028,6 @@
       ],
       "score_relevancia": 9.0,
       "tokens_usados": 65
-    },
-    {
-      "titulo": "Earnings call transcript: Tegma jumps 11% after strong Q2 2026 growth",
-      "url": "https://za.investing.com/news/transcripts/earnings-call-transcript-tegma-jumps-11-after-strong-q2-2026-growth-93CH-4406642",
-      "fonte": "za.investing.com",
-      "data": "2026-08-04",
-      "resumo": "A Tegma registrou um crescimento de 11% após um forte desempenho no 2º trimestre de 2026, apesar de alguns setores terem apresentado resultados desiguais. A divisão de distribuição e logística global registrou uma queda de 13% ano a ano, enquanto a divisão de logística integrada apresentou apenas um crescimento modesto e pressão nas margens. No entanto, a empresa afirmou que alguns dos problemas operacionais que afetaram os trimestres anteriores estavam começando a se aliviar.",
-      "sentimento": "bullish",
-      "tags": [
-        "Tegma",
-        "Tecnologia",
-        "Logística"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 83
     },
     {
       "titulo": "Balanços corporativos, petróleo e Copom no radar dos mercados | Investing.com",
@@ -1105,21 +1091,6 @@
       "tokens_usados": 95
     },
     {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.06%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-006-4835843",
-      "fonte": "investing.com",
-      "data": "2026-08-04",
-      "resumo": "O índice de ações brasileiro, Bovespa, fechou com uma queda de 0,06% no final do dia. Além disso, as ações de várias empresas, incluindo SPCX, AMD, PLTR, NVDA e MU, apresentaram variações significativas.",
-      "sentimento": "bearish",
-      "tags": [
-        "Bovespa",
-        "Mercado de Ações",
-        "Tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 44
-    },
-    {
       "titulo": "Ibovespa hoje: acompanhe em tempo real a Bolsa de Valores",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05082026",
       "fonte": "infomoney.com.br",
@@ -1150,36 +1121,6 @@
       "tokens_usados": 68
     },
     {
-      "titulo": "Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip Demand From Nvidia and AMD Keeps Growing",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-holds-taiwan-semiconductor-100500337.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-04",
-      "resumo": "O investidor Stanley Druckenmiller manteve sua posição em Taiwan Semiconductor Manufacturing (TSM) após a empresa superar as expectativas no segundo trimestre, apostando que a demanda por chips de Nvidia e AMD continuará crescendo. A empresa está negociando a uma razoável 24 vezes de lucro futuro, com analistas projetando um crescimento anualizado de cerca de 35% nos próximos anos. A TSMC é uma das melhores ações para lucrar com o crescimento da infraestrutura de gastos em inteligência artificial (IA).",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Taiwan"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 87
-    },
-    {
-      "titulo": "5 things to know before the stock market opens Tuesday",
-      "url": "https://www.cnbc.com/2026/08/04/5-things-to-know-before-the-stock-market-opens.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-04",
-      "resumo": "O mercado de ações está prestes a abrir com uma nota positiva, após a Nasdaq-100 subir quase 2% ontem, e a Amazon ultrapassar a marca de $3 trilhões de mercado de capitalização. A Palantir também teve um bom dia, com suas ações subindo mais de 14% após a empresa relatar resultados trimestrais melhores do que esperados.",
-      "sentimento": "bullish",
-      "tags": [
-        "NASDAQ",
-        "Tecnologia",
-        "Amazon"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 65
-    },
-    {
       "titulo": "Asia stocks jump as AI rally returns; Japan, Korea surge",
       "url": "https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-ai-rally-returns-japan-korea-surge-4836372",
       "fonte": "investing.com",
@@ -1193,82 +1134,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 67
-    },
-    {
-      "titulo": "Banco Santander (Brasil) SA (SANB3.SA)",
-      "url": "https://finance.yahoo.com/quote/SANB3.SA",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-04",
-      "resumo": "O Banco Santander (Brasil) SA (SANB3.SA) apresenta uma visão geral de seus resultados financeiros, incluindo receita, lucro, margem de lucro e outros indicadores financeiros. Além disso, o banco fornece informações sobre sua estrutura de capital, incluindo mercado de capitalização, valor de empresa, P/E e outros indicadores de valoração.",
-      "sentimento": "neutral",
-      "tags": [
-        "Banco",
-        "Finanças",
-        "Economia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 81
-    },
-    {
-      "titulo": "The stock market soars. 5 reasons behind the big surge Tuesday",
-      "url": "https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-04",
-      "resumo": "O mercado de ações registrou um grande aumento, com 5 razões por trás da grande subida na segunda-feira. Investidores estão comprando ações de tecnologia em massa, com otimismo de que todas elas podem ser vencedoras da IA. O iShares Semiconductor ETF (SOXX) subiu mais de 6% e o iShares Expanded Tech-Software Sector ETF (IGV) adicionou quase 5%. O Nasdaq Composite, que é fortemente influenciado por tecnologia, subiu mais de 2,5%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 80
-    },
-    {
-      "titulo": "Stocks are surging to fresh records as the US says a deal is close to reopen the Strait of Hormuz",
-      "url": "https://www.businessinsider.com/stock-market-today-sp500-dow-record-high-strait-of-hormuz-pltr-2026-8",
-      "fonte": "businessinsider.com",
-      "data": "2026-08-04",
-      "resumo": "A Nasdaq 100 alcançou um novo recorde, com uma subida de mais de 3%, impulsionada por investimentos em AI e componentes de chips. A hyperscalers também foram foco, com a maioria das empresas gigantes subindo durante a sessão. A Palantir foi uma das principais destaque, com uma subida de 29% após relatar receita comercial \"outro mundo\" e superar as estimativas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "NASDAQ"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 69
-    },
-    {
-      "titulo": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-just-reclaimed-2-134600639.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-04",
-      "resumo": "A Taiwan Semiconductor Manufacturing (TSM) recuperou um patrimônio líquido de US$ 2 trilhões, mas ainda é negociada a cerca de 20 vezes os lucros projetados. A empresa é uma das principais fabricantes de chips do mundo e é conhecida por fornecer chips de ponta para empresas como Nvidia e AMD.",
-      "sentimento": "bullish",
-      "tags": [
-        "Semicondutores",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 61
-    },
-    {
-      "titulo": "AMD Earnings Beat Estimates and Stock Falls 8%: Was the Bar Too High?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-earnings-beat-estimates-stock-205710559.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-04",
-      "resumo": "A AMD anunciou resultados financeiros que superaram as estimativas, com receita de $11,54 bilhões e guia de vendas para o terceiro trimestre de aproximadamente $13 bilhões. No entanto, a ação caiu 8% em negociação após-horário, devido a preocupações sobre a valoração em comparação com a Nvidia e Broadcom, além de limites de capacidade na TSMC.",
-      "sentimento": "bearish",
-      "tags": [
-        "AMD",
-        "Semicondutores",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 97
     },
     {
       "titulo": "'non-sexy parts of the AI trade' offer EM's biggest opportunities - CNBC",
@@ -1286,21 +1151,6 @@
       "tokens_usados": 68
     },
     {
-      "titulo": "Morgan Stanley Shares 24 AI Adopter Stocks to Buy Now - Business Insider",
-      "url": "https://www.businessinsider.com/ai-stocks-to-buy-now-companies-adopting-profit-margins-productivity-2026-8",
-      "fonte": "businessinsider.com",
-      "data": "2026-08-04",
-      "resumo": "A Morgan Stanley compartilhou uma lista de 24 ações de empresas que adotam a inteligência artificial (IA) e são recomendadas para investir. A lista inclui empresas como Meta Platforms, Amazon, Grindr, Johnson Controls e outras que estão aproveitando a IA para melhorar seus negócios e produtos. A lista destaca a capacidade dessas empresas de aumentar a eficiência, acelerar o desenvolvimento de produtos e melhorar a experiência do usuário.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Investimentos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 77
-    },
-    {
       "titulo": "Analyst on hyperscalers' earnings potential - CNBC",
       "url": "https://www.cnbc.com/video/2026/08/05/analyst-on-hyperscalers-earnings-potential.html",
       "fonte": "cnbc.com",
@@ -1314,22 +1164,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 64
-    },
-    {
-      "titulo": "Reconfigured tax laws to help activate investments, boost manufacturing & foreign capital",
-      "url": "https://m.economictimes.com/news/economy/policy/reconfigured-tax-laws-to-help-activate-investments-boost-manufacturing-foreign-capital/articleshow/132841009.cms",
-      "fonte": "m.economictimes.com",
-      "data": "2026-08-04",
-      "resumo": "O governo da Índia reconfigurou as leis fiscais para estimular investimentos, aumentar a produção e atração de capital estrangeiro. As mudanças incluem incentivos para a manufatura, isenções fiscais para REITs e InvITS, e regras para o setor de infraestrutura digital. Essas alterações visam atrair investimentos estrangeiros e estimular a economia da Índia.",
-      "sentimento": "bullish",
-      "tags": [
-        "taxação",
-        "investimentos",
-        "manufatura",
-        "capital estrangeiro"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 63
     }
   ]
 }

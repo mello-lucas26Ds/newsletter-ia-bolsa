@@ -1,68 +1,4 @@
 {
-  "https://seekingalpha.com/news/4621896-ai-memory-chip-stocks-surge-as-hedge-fund-unwinds": {
-    "hash": "c0e9fafe5ef4186cf02b37172e5b1ff8",
-    "visto_em": "2026-08-04"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-047-4829234": {
-    "hash": "338bce1aef09baf3c64c6d6218d56d5c",
-    "visto_em": "2026-08-04"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-188-4826163": {
-    "hash": "b06b516eaec3c2c0eb753e562275b4c8",
-    "visto_em": "2026-08-04"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-152-4821683": {
-    "hash": "c3e083c4b24b9fabac7337c8186e5750",
-    "visto_em": "2026-08-04"
-  },
-  "https://finance.yahoo.com/technology/articles/nvidia-amd-micron-lead-chip-182255155.html": {
-    "hash": "275572c89af2f529043d3cbf16c1fbb0",
-    "visto_em": "2026-08-04"
-  },
-  "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html": {
-    "hash": "1f3a8d278da11ef67c152e1912c7044c",
-    "visto_em": "2026-08-04"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html": {
-    "hash": "db9bb887ae19ce8de63fe6f1c4b66477",
-    "visto_em": "2026-08-04"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/bull-case-arista-networks-anet-180729358.html": {
-    "hash": "043b5f99c1eacceac0aea62e7c30e8b2",
-    "visto_em": "2026-08-04"
-  },
-  "https://seekingalpha.com/article/4928078-ai-narrative-fading-by-the-numbers": {
-    "hash": "88377ed0b927dbbf298a1b3d0651c9c7",
-    "visto_em": "2026-08-04"
-  },
-  "https://br.investing.com/news/stock-market-news/impressoras-de-chips-da-asml-de-us400-mi-impulsionam-boom-da-ia-2016770": {
-    "hash": "2e1e15921a7916d5474f8cac57051804",
-    "visto_em": "2026-08-04"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-bubble-stocks-could-032000721.html": {
-    "hash": "ae70b6037eac55490fd0dae9862223d0",
-    "visto_em": "2026-08-04"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-000-4832279": {
-    "hash": "542f6f186f6cd561e3bcdd40d74240df",
-    "visto_em": "2026-08-04"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/amd-stock-big-wall-street-143032128.html": {
-    "hash": "83c56f147a80d69f88ca9389ab1c2eba",
-    "visto_em": "2026-08-04"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/got-1-000-taiwan-semiconductor-180500978.html": {
-    "hash": "96937100ee456f077bdbb88ca90c0516",
-    "visto_em": "2026-08-04"
-  },
-  "https://m.economictimes.com/news/economy/policy/reconfigured-tax-laws-to-help-activate-investments-boost-manufacturing-foreign-capital/articleshow/132841009.cms": {
-    "hash": "51f5642fd83704e3145342b9ec881a73",
-    "visto_em": "2026-08-04"
-  },
-  "https://seekingalpha.com/article/4929294-hawkish-hold-steeper-curve": {
-    "hash": "cc6a851958aaeadbfffc21fa109d6ab4",
-    "visto_em": "2026-08-04"
-  },
   "https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html": {
     "hash": "29f400f39fdb80b6f3a3313d18e621c7",
     "visto_em": "2026-08-05"
@@ -446,5 +382,45 @@
   "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html": {
     "hash": "fb30771c7746240b653e69c9c51c3f74",
     "visto_em": "2026-08-11"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/riot-platforms-soars-17-9-130537358.html": {
+    "hash": "a3ac8fc02538539eb54f56eecc76f260",
+    "visto_em": "2026-08-12"
+  },
+  "https://seekingalpha.com/article/4933961-investing-in-the-ai-panic-rally-with-aiq": {
+    "hash": "2ad10549c8dae68fbc5515b7e6d9c315",
+    "visto_em": "2026-08-12"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/12-nasdaq-stocks-doubled-2026-052500188.html": {
+    "hash": "869625f8d074ac91072b5fa06c16aea0",
+    "visto_em": "2026-08-12"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/realty-income-stock-worth-holding-152200256.html": {
+    "hash": "67ff11094cdfc06f6dbc8b73d497cd19",
+    "visto_em": "2026-08-12"
+  },
+  "https://www.investing.com/news/stock-market-news/nvidia-and-wall-street-giants-plan-500b-ai-funding-deal-ft-reports-4849933": {
+    "hash": "3bc6a553e0b2390e5f22de6273269dcb",
+    "visto_em": "2026-08-12"
+  },
+  "https://www.investing.com/news/company-news/itausa-1h26-slides-record-results-22-profit-growth-despite-headwinds-93CH-4852198": {
+    "hash": "de1c6bd295de88261edd855439a2c484",
+    "visto_em": "2026-08-12"
+  },
+  "https://uk.investing.com/equities/3r-petroleum-oleo-e-gas-sa": {
+    "hash": "0a3624724346717b78be394c4d6dbaa0",
+    "visto_em": "2026-08-12"
+  },
+  "https://www.wsj.com/business/deals": {
+    "hash": "b3eeab05ac2cecd75f371877b3412c3a",
+    "visto_em": "2026-08-12"
+  },
+  "https://br.investing.com/news/company-news/mais-trabalhadores-aderem-a-greve-da-bhp-no-hub-de-minerio-de-ferro-de-port-hedland-2032298": {
+    "hash": "2e1e15921a7916d5474f8cac57051804",
+    "visto_em": "2026-08-12"
+  },
+  "https://www.investing.com/news/company-news/itausa-1h26-slides-record-results-39-shareholder-return-93CH-4852195": {
+    "hash": "f1eeb85bba5089711b478c57ae992d36",
+    "visto_em": "2026-08-12"
   }
 }
