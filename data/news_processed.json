@@ -2,10 +2,163 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-13",
-    "total_noticias": 75,
-    "gerado_em": "2026-08-13T04:49:34.427413"
+    "total_noticias": 85,
+    "gerado_em": "2026-08-13T11:01:28.398133"
   },
   "noticias": [
+    {
+      "titulo": "Cotações em Tempo Real: Bolsa de Valores, Ações, Criptomoedas, FIIs – Money Times",
+      "url": "https://www.moneytimes.com.br/cotacoes",
+      "fonte": "moneytimes.com.br",
+      "data": "2026-08-10",
+      "resumo": "O B3 lançou o índice Small Cap Smart Rebal B3, que visa oferecer uma opção de investimento para os pequenos negócios. Além disso, a XP Asset destaca os ETFs como um produto ideal para investidores, devido à sua flexibilidade e diversificação. A Itaú é considerada a ação mais recomendada para ter na carteira em agosto, segundo 14 analistas.",
+      "sentimento": "bullish",
+      "tags": [
+        "B3",
+        "ETFs",
+        "Investimentos",
+        "Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "Itaúsa posts record recurring net income of R$8.8 billion in 1H26, up 12%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ita-sa-posts-record-recurring-140000466.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "A Itaúsa, maior empresa de investimentos do Brasil, alcançou um lucro líquido recorrente de R$8,8 bilhões no 1H26, um aumento de 12% em relação ao mesmo período do ano anterior, com ROE recorrente de 19,3%.",
+      "sentimento": "bullish",
+      "tags": [
+        "Itaúsa",
+        "investimentos",
+        "lucro"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 44
+    },
+    {
+      "titulo": "We Are Undoubtedly In An AI Bubble (NASDAQ:SMH)",
+      "url": "https://seekingalpha.com/article/4933866-we-are-undoubtedly-in-an-ai-bubble",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-09",
+      "resumo": "O analista Uttam Dey afirma que acredita estar em uma bolha de inteligência artificial (IA). Ele argumenta que os preços das ações de empresas relacionadas à IA estão muito altos e que há um risco de correção significativa. Dey destaca que a bolha de IA é semelhante à bolha da internet na década de 1990 e que os investidores devem estar preparados para uma possível correção.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 75
+    },
+    {
+      "titulo": "META_TITLE_QUOTE",
+      "url": "https://finance.yahoo.com/quote/VALE",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-13",
+      "resumo": "Vale S.A. é uma empresa de mineração de outros metais e minerais, com sede no Brasil. A empresa apresentou retornos significativos nos últimos anos, incluindo um aumento de 9,31% no ano até agora e 52,63% nos últimos 12 meses. A empresa é líder em mineração de ferro e níquel e também é envolvida em pesquisas e atividades de comércio.",
+      "sentimento": "bullish",
+      "tags": [
+        "Mineração",
+        "Metais",
+        "Brasil"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "Patria Investments Limited (PAX) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/PAX",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-10",
+      "resumo": "Patria Investments Limited é uma empresa de investimentos em mercados privados que opera em várias áreas, incluindo private equity, venture capital e asset management. A empresa busca investir em setores diversos, como agribusiness, saúde, logística e tecnologia, com foco em América Latina, Europa e Estados Unidos. A empresa busca investir entre $38,48 milhões e $72,14 milhões por transação e busca uma participação majoritária ou minoritária em suas empresas de investimento.",
+      "sentimento": "neutral",
+      "tags": [
+        "Private Equity",
+        "Venture Capital",
+        "Asset Management"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 82
+    },
+    {
+      "titulo": "TSM Taiwan Semiconductor Manufacturing Company ...",
+      "url": "https://seekingalpha.com/symbol/TSM",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-11",
+      "resumo": "A notícia não apresenta informações específicas sobre a empresa Taiwan Semiconductor Manufacturing Company (TSM). No entanto, há uma lista de executores de negócios e funcionários da empresa que realizaram compras de ações em 10 de agosto de 2026. A lista inclui nomes como Y. Mii, C. C. Wei, Y. L. Wang, Chun-Hsien Lee e outros, com detalhes sobre as compras realizadas.",
+      "sentimento": "neutral",
+      "tags": [
+        "TSM",
+        "Taiwan Semiconductor Manufacturing Company",
+        "IA",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "TSMC Stock Holds Flat Despite 44.7% July Sales Surge",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-holds-flat-despite-155910769.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-11",
+      "resumo": "A TSMC registrou um aumento de 44,7% nas vendas em julho, mas o preço da ação permaneceu estável. A empresa já aumentou a expectativa de crescimento de receita para mais de 40% em termos de dólares americanos, com aceleradores de IA, fabricação de ponta e embalagem avançada contribuindo para o crescimento. A empresa agora precisa manter a execução e cumprir as expectativas de crescimento.",
+      "sentimento": "neutral",
+      "tags": [
+        "TSMC",
+        "AI",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Nebius Group shares jump as AI cloud growth fuels investor optimism",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nebius-group-shares-jump-ai-095830477.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "Ações da Nebius Group subiram 9,5% em previsões de mercado após a empresa de infraestrutura de nuvem AI divulgar resultados financeiros do 2º trimestre de 2026, com investidores respondendo positivamente. A empresa tem vantagens competitivas em sua infraestrutura de nuvem sem ativos e capacidade de capacidade de GPU limitada. O setor de neocloud também foi impulsionado por resultados positivos de CoreWeave e investimentos em capacidade de computação por hyperscalers.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Cloud Computing",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 79
+    },
+    {
+      "titulo": "Aswath Damodaran shares 3 lessons investors can learn from rise and fall of Leopold Aschenbrenner's AI fund - The Economic Times",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/aswath-damodaran-shares-3-lessons-investors-can-learn-from-rise-and-fall-of-leopold-aschenbrenners-ai-fund/articleshow/133146739.cms",
+      "fonte": "m.economictimes.com",
+      "data": "2026-08-07",
+      "resumo": "Aswath Damodaran compartilha três lições que investidores podem aprender com o surgimento e declínio do fundo de IA de Leopold Aschenbrenner. O artigo não menciona especificamente o desempenho do mercado, mas destaca a importância de aprender com os erros e acertos do passado.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Investimentos",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 83
+    },
+    {
+      "titulo": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
+      "url": "https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-09",
+      "resumo": "Analistas de Wall Street recomendam três ações com potencial de crescimento sólido, incluindo a Amazon, que tem uma forte correlação com a receita de inteligência artificial (IA). O analista Anmuth aumentou suas estimativas de vendas e lucro operacional da Amazon após os resultados do segundo trimestre. Além disso, a empresa tem uma boa perspectiva financeira devido às suas investimentos em IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Amazon",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 70
+    },
     {
       "titulo": "AI’s biggest build-out is here. These stocks offer a way to invest in the data center boom",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-biggest-buildout-stocks-offer-065900313.html",

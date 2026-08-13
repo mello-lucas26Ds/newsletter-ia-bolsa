@@ -1,137 +1,137 @@
 # Newsletter IA Bolsa — 2026-08-13
 
-**Gerado em:** 13/08/2026 04:49
+**Gerado em:** 13/08/2026 11:01
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. AI’s biggest build-out is here. These stocks offer a way to invest in the data center boom
+## 1. Cotações em Tempo Real: Bolsa de Valores, Ações, Criptomoedas, FIIs – Money Times
+
+**Fonte:** moneytimes.com.br  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** B3, ETFs, Investimentos, Ações
+
+O B3 lançou o índice Small Cap Smart Rebal B3, que visa oferecer uma opção de investimento para os pequenos negócios. Além disso, a XP Asset destaca os ETFs como um produto ideal para investidores, devido à sua flexibilidade e diversificação. A Itaú é considerada a ação mais recomendada para ter na carteira em agosto, segundo 14 analistas.
+
+[Ler noticia completa](https://www.moneytimes.com.br/cotacoes)
+
+---
+
+## 2. Itaúsa posts record recurring net income of R$8.8 billion in 1H26, up 12%
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 8.0/10  
-**Tags:** AI, Data Center, REIT
+**Tags:** Itaúsa, investimentos, lucro
 
-O mercado de centros de dados está em expansão e investidores podem aproveitar essa oportunidade investindo em REITs como Equinix e Digital Realty, que são líderes no mercado de hospedagem de servidores para empresas de nuvem e internet. Essas empresas têm uma vantagem competitiva devido à sua presença em locais urbanos, onde a demanda por espaço de servidor é alta e a concorrência é baixa. Além disso, a estabilidade dessas empresas é maior devido ao grande número de clientes que elas têm.
+A Itaúsa, maior empresa de investimentos do Brasil, alcançou um lucro líquido recorrente de R$8,8 bilhões no 1H26, um aumento de 12% em relação ao mesmo período do ano anterior, com ROE recorrente de 19,3%.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/ai-biggest-buildout-stocks-offer-065900313.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ita-sa-posts-record-recurring-140000466.html)
 
 ---
 
-## 2. Tech leads sectors higher in early trading as chip stocks gain: AlphaCheck
+## 3. We Are Undoubtedly In An AI Bubble (NASDAQ:SMH)
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
+**Fonte:** seekingalpha.com  
+**Sentimento:** 🔴 BEARISH  
 **Relevancia:** 8.0/10  
 **Tags:** AI, Tecnologia, Semicondutores
 
-A tecnologia lidera os setores em alta no início do dia, com ações de chips ganhando força, de acordo com a AlphaCheck. O Índice Nasdaq Composite lidera as principais bolsas após a divulgação de resultados financeiros de empresas-chave de infraestrutura de inteligência artificial, impulsionando as ações de tecnologia.
+O analista Uttam Dey afirma que acredita estar em uma bolha de inteligência artificial (IA). Ele argumenta que os preços das ações de empresas relacionadas à IA estão muito altos e que há um risco de correção significativa. Dey destaca que a bolha de IA é semelhante à bolha da internet na década de 1990 e que os investidores devem estar preparados para uma possível correção.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/article/tech-leads-sectors-higher-in-early-trading-as-chip-stocks-gain-alphacheck-134443200.html)
-
----
-
-## 3. US Stock Futures Rise as Tech Rally Resumes Before Key CPI Data
-
-**Fonte:** bloomberg.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Tecnologia, Mercados
-
-As futuros dos EUA subiram antes do sino, os traders aguardam dados de inflação importantes que fornecerão visão sobre a próxima etapa da corrida, após recentes resultados de lucro reviveram a otimismo sobre a expansão da inteligência artificial.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-rise-as-tech-rally-resumes-before-key-cpi-data)
+[Ler noticia completa](https://seekingalpha.com/article/4933866-we-are-undoubtedly-in-an-ai-bubble)
 
 ---
 
-## 4. If I Could Tell All Investors 1 Thing About the Stock Market Right Now, It's This
+## 4. META_TITLE_QUOTE
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Economia, Tecnologia
+**Relevancia:** 5.0/10  
+**Tags:** Mineração, Metais, Brasil
 
-A notícia destaca que a tecnologia de inteligência artificial (IA) está gerando crescimento de lucro para empresas da S&P 500, não apenas para ações de tecnologia. Isso pode ser um sinal de um boom de IA em larga escala, em vez de um buraco de bolhas. A reportagem menciona que empresas de diferentes setores, como remoção de lixo, transporte e consultoria, estão relatando ganhos de margem de lucro de 1,5% a 1,8% devido a ferramentas e automação de IA.
+Vale S.A. é uma empresa de mineração de outros metais e minerais, com sede no Brasil. A empresa apresentou retornos significativos nos últimos anos, incluindo um aumento de 9,31% no ano até agora e 52,63% nos últimos 12 meses. A empresa é líder em mineração de ferro e níquel e também é envolvida em pesquisas e atividades de comércio.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/could-tell-investors-1-thing-132000375.html)
+[Ler noticia completa](https://finance.yahoo.com/quote/VALE)
 
 ---
 
-## 5. AMD, Lumentum, others added to GF Securities preferred list, as AI rebound to continue
+## 5. Patria Investments Limited (PAX) Stock Price, News, Quote & History - Yahoo Finance
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** Private Equity, Venture Capital, Asset Management
+
+Patria Investments Limited é uma empresa de investimentos em mercados privados que opera em várias áreas, incluindo private equity, venture capital e asset management. A empresa busca investir em setores diversos, como agribusiness, saúde, logística e tecnologia, com foco em América Latina, Europa e Estados Unidos. A empresa busca investir entre $38,48 milhões e $72,14 milhões por transação e busca uma participação majoritária ou minoritária em suas empresas de investimento.
+
+[Ler noticia completa](https://finance.yahoo.com/quote/PAX)
+
+---
+
+## 6. TSM Taiwan Semiconductor Manufacturing Company ...
 
 **Fonte:** seekingalpha.com  
-**Sentimento:** 🟢 BULLISH  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
+**Tags:** TSM, Taiwan Semiconductor Manufacturing Company, IA, Tecnologia
 
-A GF Securities adicionou a AMD, Lumentum e Hon Hai à sua lista de preferência, prevendo que a recuperação dos ativos ligados à inteligência artificial continuará. A empresa considera que julho foi um mês difícil para o setor, mas acreditam que a tendência positiva continuará.
+A notícia não apresenta informações específicas sobre a empresa Taiwan Semiconductor Manufacturing Company (TSM). No entanto, há uma lista de executores de negócios e funcionários da empresa que realizaram compras de ações em 10 de agosto de 2026. A lista inclui nomes como Y. Mii, C. C. Wei, Y. L. Wang, Chun-Hsien Lee e outros, com detalhes sobre as compras realizadas.
 
-[Ler noticia completa](https://seekingalpha.com/news/4631418-amd-lumentum-others-added-to-gf-securities-preferred-list-as-ai-rebound-to-continue)
+[Ler noticia completa](https://seekingalpha.com/symbol/TSM)
 
 ---
 
-## 6. 1 AI Stock to Buy Before It Soars 129%, According to a Wall Street Analyst (Hint: the CEO Is Elon Musk)
+## 7. TSMC Stock Holds Flat Despite 44.7% July Sales Surge
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 9.0/10  
-**Tags:** AI, SpaceX, Tesla
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** TSMC, AI, Semicondutores, Tecnologia
 
-A SpaceX apresentou resultados financeiros encorajadores no segundo trimestre, com receita que aumentou 92% para $7,8 bilhões. A empresa está investindo pesadamente em infraestrutura de IA, o que deve acelerar em próximos trimestres. O analista Jonas estima que a receita da SpaceX aumentará 88% anualmente até 2030, com o segmento de IA sendo o principal motor de crescimento.
+A TSMC registrou um aumento de 44,7% nas vendas em julho, mas o preço da ação permaneceu estável. A empresa já aumentou a expectativa de crescimento de receita para mais de 40% em termos de dólares americanos, com aceleradores de IA, fabricação de ponta e embalagem avançada contribuindo para o crescimento. A empresa agora precisa manter a execução e cumprir as expectativas de crescimento.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/1-ai-stock-buy-soars-090800712.html)
-
----
-
-## 7. BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
-
-Analistas da BofA, JPMorgan e Oppenheimer nomeiam suas 3 ações favoritas em IA, incluindo a Lam Research, que tem um alvo de preço de $400. A empresa de equipamentos de semicondutores superou as expectativas do quarto trimestre e os analistas esperam que a expansão de chips AI beneficie a empresa. Além disso, a Amazon e a Palantir Technologies também foram nomeadas como ações favoritas.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/bofa-jpmorgan-oppenheimer-name-3-205320683.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-holds-flat-despite-155910769.html)
 
 ---
 
-## 8. SK Hynix Stock Jumps 5.5% as AI Memory Rally Reignites
+## 8. Nebius Group shares jump as AI cloud growth fuels investor optimism
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semicondutores, Tecnologia
+**Tags:** AI, Cloud Computing, NASDAQ
 
-A ação da SK Hynix subiu 5,5% devido ao renascimento da corrida por memória de AI. A empresa está investindo em capacidade e planeja anunciar um programa de retorno de ações mais concreto até o final do ano. Isso é importante porque a SK Hynix gastou anos transformando a escassez de memória de AI em lucros explosivos, e os investidores agora querem que esses lucros sejam distribuídos.
+Ações da Nebius Group subiram 9,5% em previsões de mercado após a empresa de infraestrutura de nuvem AI divulgar resultados financeiros do 2º trimestre de 2026, com investidores respondendo positivamente. A empresa tem vantagens competitivas em sua infraestrutura de nuvem sem ativos e capacidade de capacidade de GPU limitada. O setor de neocloud também foi impulsionado por resultados positivos de CoreWeave e investimentos em capacidade de computação por hyperscalers.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-jumps-5-165620732.html)
-
----
-
-## 9. S&P 500 ends higher as CoreWeave results fuel AI optimism
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Mercados de Ações
-
-O índice S&P 500 fechou em alta após o resultado positivo da CoreWeave, que elevou sua previsão de despesas de capital anual e superou as estimativas de lucro do segundo trimestre. Outros provedores de infraestrutura de AI também registraram aumentos significativos. A robusta demanda por AI está impulsionando a escalada da infraestrutura de AI, com grandes empresas continuando a investir bilhões nessa área.
-
-[Ler noticia completa](https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12)
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/nebius-group-shares-jump-ai-095830477.html)
 
 ---
 
-## 10. TSMC July 2026 revenue jumps 44.7% on AI chip demand
+## 9. Aswath Damodaran shares 3 lessons investors can learn from rise and fall of Leopold Aschenbrenner's AI fund - The Economic Times
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** m.economictimes.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 6.0/10  
+**Tags:** AI, Investimentos, Mercado de Ações
+
+Aswath Damodaran compartilha três lições que investidores podem aprender com o surgimento e declínio do fundo de IA de Leopold Aschenbrenner. O artigo não menciona especificamente o desempenho do mercado, mas destaca a importância de aprender com os erros e acertos do passado.
+
+[Ler noticia completa](https://m.economictimes.com/markets/us-stocks/news/aswath-damodaran-shares-3-lessons-investors-can-learn-from-rise-and-fall-of-leopold-aschenbrenners-ai-fund/articleshow/133146739.cms)
+
+---
+
+## 10. Top Wall Street analysts like these 3 stocks for their solid growth potential
+
+**Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, TSMC
+**Tags:** AI, Amazon, NASDAQ
 
-A TSMC anunciou uma alta de 44,7% em sua receita de julho de 2026, de NT$467,58 bilhões (US$14,5 bilhões), refletindo um aumento na demanda por chips usados em aplicações de inteligência artificial. Isso coloca a empresa à frente de sua própria previsão de receita para o ano. A TSMC também aumentou sua projeção de gastos em capital para entre US$60 bilhões e US$64 bilhões para o ano.
+Analistas de Wall Street recomendam três ações com potencial de crescimento sólido, incluindo a Amazon, que tem uma forte correlação com a receita de inteligência artificial (IA). O analista Anmuth aumentou suas estimativas de vendas e lucro operacional da Amazon após os resultados do segundo trimestre. Além disso, a empresa tem uma boa perspectiva financeira devido às suas investimentos em IA.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/tsmc-july-2026-revenue-jumps-110802277.html)
+[Ler noticia completa](https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html)
 
 ---
