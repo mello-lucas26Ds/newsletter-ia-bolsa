@@ -1,11 +1,161 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-12",
-    "total_noticias": 85,
-    "gerado_em": "2026-08-12T11:00:13.168939"
+    "data": "2026-08-13",
+    "total_noticias": 75,
+    "gerado_em": "2026-08-13T04:49:34.427413"
   },
   "noticias": [
+    {
+      "titulo": "AI’s biggest build-out is here. These stocks offer a way to invest in the data center boom",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-biggest-buildout-stocks-offer-065900313.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "O mercado de centros de dados está em expansão e investidores podem aproveitar essa oportunidade investindo em REITs como Equinix e Digital Realty, que são líderes no mercado de hospedagem de servidores para empresas de nuvem e internet. Essas empresas têm uma vantagem competitiva devido à sua presença em locais urbanos, onde a demanda por espaço de servidor é alta e a concorrência é baixa. Além disso, a estabilidade dessas empresas é maior devido ao grande número de clientes que elas têm.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Center",
+        "REIT"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 92
+    },
+    {
+      "titulo": "Tech leads sectors higher in early trading as chip stocks gain: AlphaCheck",
+      "url": "https://finance.yahoo.com/markets/article/tech-leads-sectors-higher-in-early-trading-as-chip-stocks-gain-alphacheck-134443200.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "A tecnologia lidera os setores em alta no início do dia, com ações de chips ganhando força, de acordo com a AlphaCheck. O Índice Nasdaq Composite lidera as principais bolsas após a divulgação de resultados financeiros de empresas-chave de infraestrutura de inteligência artificial, impulsionando as ações de tecnologia.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Semicondutores"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 112
+    },
+    {
+      "titulo": "US Stock Futures Rise as Tech Rally Resumes Before Key CPI Data",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-rise-as-tech-rally-resumes-before-key-cpi-data",
+      "fonte": "bloomberg.com",
+      "data": "2026-08-12",
+      "resumo": "As futuros dos EUA subiram antes do sino, os traders aguardam dados de inflação importantes que fornecerão visão sobre a próxima etapa da corrida, após recentes resultados de lucro reviveram a otimismo sobre a expansão da inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 107
+    },
+    {
+      "titulo": "If I Could Tell All Investors 1 Thing About the Stock Market Right Now, It's This",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-tell-investors-1-thing-132000375.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "A notícia destaca que a tecnologia de inteligência artificial (IA) está gerando crescimento de lucro para empresas da S&P 500, não apenas para ações de tecnologia. Isso pode ser um sinal de um boom de IA em larga escala, em vez de um buraco de bolhas. A reportagem menciona que empresas de diferentes setores, como remoção de lixo, transporte e consultoria, estão relatando ganhos de margem de lucro de 1,5% a 1,8% devido a ferramentas e automação de IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Economia",
+        "Tecnologia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 88
+    },
+    {
+      "titulo": "AMD, Lumentum, others added to GF Securities preferred list, as AI rebound to continue",
+      "url": "https://seekingalpha.com/news/4631418-amd-lumentum-others-added-to-gf-securities-preferred-list-as-ai-rebound-to-continue",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-12",
+      "resumo": "A GF Securities adicionou a AMD, Lumentum e Hon Hai à sua lista de preferência, prevendo que a recuperação dos ativos ligados à inteligência artificial continuará. A empresa considera que julho foi um mês difícil para o setor, mas acreditam que a tendência positiva continuará.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 54
+    },
+    {
+      "titulo": "1 AI Stock to Buy Before It Soars 129%, According to a Wall Street Analyst (Hint: the CEO Is Elon Musk)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-ai-stock-buy-soars-090800712.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "A SpaceX apresentou resultados financeiros encorajadores no segundo trimestre, com receita que aumentou 92% para $7,8 bilhões. A empresa está investindo pesadamente em infraestrutura de IA, o que deve acelerar em próximos trimestres. O analista Jonas estima que a receita da SpaceX aumentará 88% anualmente até 2030, com o segmento de IA sendo o principal motor de crescimento.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "SpaceX",
+        "Tesla"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 67
+    },
+    {
+      "titulo": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-jpmorgan-oppenheimer-name-3-205320683.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-10",
+      "resumo": "Analistas da BofA, JPMorgan e Oppenheimer nomeiam suas 3 ações favoritas em IA, incluindo a Lam Research, que tem um alvo de preço de $400. A empresa de equipamentos de semicondutores superou as expectativas do quarto trimestre e os analistas esperam que a expansão de chips AI beneficie a empresa. Além disso, a Amazon e a Palantir Technologies também foram nomeadas como ações favoritas.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 73
+    },
+    {
+      "titulo": "SK Hynix Stock Jumps 5.5% as AI Memory Rally Reignites",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-jumps-5-165620732.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "A ação da SK Hynix subiu 5,5% devido ao renascimento da corrida por memória de AI. A empresa está investindo em capacidade e planeja anunciar um programa de retorno de ações mais concreto até o final do ano. Isso é importante porque a SK Hynix gastou anos transformando a escassez de memória de AI em lucros explosivos, e os investidores agora querem que esses lucros sejam distribuídos.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "S&P 500 ends higher as CoreWeave results fuel AI optimism",
+      "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+      "fonte": "reuters.com",
+      "data": "2026-08-12",
+      "resumo": "O índice S&P 500 fechou em alta após o resultado positivo da CoreWeave, que elevou sua previsão de despesas de capital anual e superou as estimativas de lucro do segundo trimestre. Outros provedores de infraestrutura de AI também registraram aumentos significativos. A robusta demanda por AI está impulsionando a escalada da infraestrutura de AI, com grandes empresas continuando a investir bilhões nessa área.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "TSMC July 2026 revenue jumps 44.7% on AI chip demand",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-july-2026-revenue-jumps-110802277.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-11",
+      "resumo": "A TSMC anunciou uma alta de 44,7% em sua receita de julho de 2026, de NT$467,58 bilhões (US$14,5 bilhões), refletindo um aumento na demanda por chips usados em aplicações de inteligência artificial. Isso coloca a empresa à frente de sua própria previsão de receita para o ano. A TSMC também aumentou sua projeção de gastos em capital para entre US$60 bilhões e US$64 bilhões para o ano.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "TSMC"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 76
+    },
     {
       "titulo": "Palantir: Doubling Down On The Same Mistakes (NASDAQ:PLTR)",
       "url": "https://seekingalpha.com/article/4934296-palantir-doubling-down-on-the-same-mistakes",
@@ -474,23 +624,6 @@
       "tokens_usados": 49
     },
     {
-      "titulo": "Ibovespa sobe na abertura com Itaú entre suportes após balanço",
-      "url": "https://br.investing.com/news/stock-market-news/ibovespa-sobe-na-abertura-com-itau-entre-suportes-apos-balanco-2027485",
-      "fonte": "br.investing.com",
-      "data": "2026-08-05",
-      "resumo": "A Ibovespa abriu em alta, com ações como Itaú entre os principais suportes após o balanço. A Petrobras PN foi uma das ações em destaque, com uma variação de -1,34%. A ProPicks IA apresentou uma seleção de ações com histórico de ganhos acima do S&P 500, incluindo empresas como Nubank BDR e XP BDR.",
-      "sentimento": "bullish",
-      "tags": [
-        "Ibovespa",
-        "ações",
-        "balanço",
-        "Itaú",
-        "Petrobras PN"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 66
-    },
-    {
       "titulo": "TSMC sees 45% sales surge as AI demand stays strong - CNBC",
       "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
       "fonte": "cnbc.com",
@@ -629,22 +762,6 @@
       "tokens_usados": 66
     },
     {
-      "titulo": "US stock market could ride earnings strength to more gains after S&P 500 hits record",
-      "url": "https://www.reuters.com/business/us-stock-market-could-ride-earnings-strength-more-gains-after-sp-500-hits-record-2026-08-05",
-      "fonte": "reuters.com",
-      "data": "2026-08-05",
-      "resumo": "O mercado de ações dos EUA pode continuar a subir devido ao forte desempenho das empresas, mesmo após o S&P 500 atingir um novo recorde. A grande demanda por centros de dados de IA está impulsionando a indústria de semicondutores e outras empresas. Além disso, a temporada de resultados trimestrais está superando as expectativas, o que deve fornecer apoio fundamental crítico para ações nos próximos meses.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Mercado de Ações",
-        "Earnings"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 78
-    },
-    {
       "titulo": "AMD Advances AI Strategy With Taalas Acquisition",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-amd-advances-ai-113923975.html",
       "fonte": "finance.yahoo.com",
@@ -766,21 +883,6 @@
       "tokens_usados": 162
     },
     {
-      "titulo": "Jim Cramer says the market's biggest opportunities have room for multiple winners",
-      "url": "https://www.cnbc.com/2026/08/05/cramer-markets-biggest-opportunities-room-for-multiple-winners.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-05",
-      "resumo": "Jim Cramer afirma que o mercado tem oportunidades significativas para vários vencedores, apesar da reação negativa de Wall Street em relação à Nvidia. Ele diz que a demanda por CPU e GPU pode chegar a trilhões de dólares até 2030, deixando espaço para múltiplos vencedores.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Nvidia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 56
-    },
-    {
       "titulo": "Ação de materiais selecionada por IA dispara +22% após forte balanço",
       "url": "https://br.investing.com/news/stock-market-news/alta-de-34-no-mes-acao-de-materiais-selecionada-por-ia-dispara-22-apos-resultados-solidos-2030641",
       "fonte": "br.investing.com",
@@ -794,21 +896,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 45
-    },
-    {
-      "titulo": "Iguatemi SA Unit Stock Price Today | BVMF: IGTI11 Live - Investing.com",
-      "url": "https://www.investing.com/equities/iguatemi-unt",
-      "fonte": "investing.com",
-      "data": "2026-08-05",
-      "resumo": "A notícia trata sobre a cotação atual da ação IGTI11 da Iguatemi SA, listada na B3, com preço de R$ 24,29 e variação de 0,08% em relação ao dia anterior. A ação está com dados atrasados e não é incluída nas estratégias de investimento da plataforma.",
-      "sentimento": "neutral",
-      "tags": [
-        "B3",
-        "Iguatemi SA",
-        "BRL"
-      ],
-      "score_relevancia": 2.0,
-      "tokens_usados": 56
     },
     {
       "titulo": "OpenAI acquires presentation startup NextSlide",
@@ -854,22 +941,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 81
-    },
-    {
-      "titulo": "The stock market soars. 5 reasons behind the big surge Tuesday",
-      "url": "https://www.google.com/goto?url=CAESmgEB7keqTXt0M-TmSwg7SjWEzCTiC7YNp1o1ERR9yVOqka5sA-Q9HW8eLvgZ7rr8yrC4SLfqBOffH31H6gXxImjT6J1EAa_ewoylsIPwzHTx2GD64p5B2iazYr07JnulSHcsrq2kLsagKFcivXhQXVUqM6mKJgQJOh7HY1UBpOUu_7jJll9KXg-YB7pmOvy1w43fuqJgT0X8gBXY",
-      "fonte": "google.com",
-      "data": "2026-08-05",
-      "resumo": "O mercado de ações registrou um grande aumento na segunda-feira, com várias razões contribuindo para essa tendência. A tecnologia foi uma das principais motivações, com ações de empresas de semicondutores e software aumentando significativamente. Isso ocorreu após uma reversão de tendência em julho, quando as ações de semicondutores haviam implosado.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Tecnologia",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 60
     },
     {
       "titulo": "Buy 5 Top-Ranked Growth Stocks for August to Tap Market Rally",
@@ -921,36 +992,6 @@
       "tokens_usados": 129
     },
     {
-      "titulo": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-super-micro-rally-10-172012450.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-05",
-      "resumo": "As ações de Dell e Super Micro Computer subiram 10% e 9%, respectivamente, enquanto a Hewlett Packard Enterprise avançou 6%. A onda de risco positivo no setor de tecnologia está impulsionando as ações de hardware de inteligência artificial. O próximo catalisador para o grupo é as divulgações de resultados, com a Super Micro Computer sendo a próxima a relatar.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Semicondutores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "Microsoft: AI Investment Is Driven By Orders Already In Hand",
-      "url": "https://seekingalpha.com/article/4930565-microsoft-stock-ai-investment-driven-by-orders-already-in-hand",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-05",
-      "resumo": "A Microsoft apresentou resultados financeiros fortes no Q4, com lucro por ação de $4,74 e receita de $90B, superando as expectativas. A empresa investe em tecnologia de IA e nuvem, com um backlog de $678B, o que reforça a visão positiva do mercado.",
-      "sentimento": "bullish",
-      "tags": [
-        "Microsoft",
-        "AI",
-        "Cloud Computing"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 53
-    },
-    {
       "titulo": "Forget Taiwan Semiconductor: 2 AI ...",
       "url": "https://finance.yahoo.com/technology/ai/articles/forget-taiwan-semiconductor-2-ai-165000875.html",
       "fonte": "finance.yahoo.com",
@@ -995,23 +1036,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 107
-    },
-    {
-      "titulo": "Intel Soars 10%, AMD Jumps 8%, Broadcom Rises 6% as Chip Stocks Ride a Risk-On Rally",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-soars-10-amd-jumps-163611976.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-05",
-      "resumo": "A Intel subiu 10%, a AMD saltou 8% e a Broadcom aumentou 6% devido a uma onda de risco positiva, impulsionada pela expansão do setor de centros de dados da AMD e pelo aumento da receita de semicondutores de inteligência artificial da Broadcom. A valorização dos ativos também é um fator importante, com a AMD tendo um P/E de 171,17x e a NVIDIA tendendo a ser a mais razoável.",
-      "sentimento": "bullish",
-      "tags": [
-        "Intel",
-        "AMD",
-        "Broadcom",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 80
     },
     {
       "titulo": "Oracle: Cloud ERP And Oracle Database Software Driving Growth (NYSE:ORCL)",
@@ -1059,21 +1083,6 @@
       "tokens_usados": 40
     },
     {
-      "titulo": "Gerdau discute venda de minério com compradores do Brasil e exterior",
-      "url": "https://br.investing.com/news/stock-market-news/gerdau-discute-venda-de-minerio-com-compradores-do-brasil-e-exterior-2027554",
-      "fonte": "br.investing.com",
-      "data": "2026-08-05",
-      "resumo": "A empresa Gerdau está em negociações com compradores para vender minério, tendo em vista a discussão com compradores do Brasil e exterior. A empresa está listada na Bolsa de Valores de São Paulo (B3) e sua ação é negociada sob o símbolo GGBR3. O ProPicks IA, uma ferramenta de inteligência artificial, avalia a ação de Gerdau em comparação com milhares de alternativas.",
-      "sentimento": "neutral",
-      "tags": [
-        "Ibovespa",
-        "Gerdau",
-        "Minério"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 122
-    },
-    {
       "titulo": "Cathie Wood invests a combined $28.7 million in TSMC, SpaceX after trimming investments in Amazon, Alphabet and Shopify",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-combined-28-114500645.html",
       "fonte": "finance.yahoo.com",
@@ -1088,21 +1097,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 71
-    },
-    {
-      "titulo": "SPAC New America Acquisition nomeia Kyle Wool como novo CEO",
-      "url": "https://br.investing.com/news/company-news/spac-new-america-acquisition-nomeia-kyle-wool-como-novo-ceo-93CH-2027953",
-      "fonte": "br.investing.com",
-      "data": "2026-08-05",
-      "resumo": "A New America Acquisition, uma SPAC, nomeou Kyle Wool como novo CEO. A escolha de Kyle Wool pode ser vista como uma escolha estratégica para a empresa, considerando sua experiência em liderança e gestão de tecnologia.",
-      "sentimento": "neutral",
-      "tags": [
-        "SPAC",
-        "tecnologia",
-        "gestão"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 45
     },
     {
       "titulo": "SoundHound AI (SOUN) Pushes LivePerson Deal As Investor Town Hall Nears",
@@ -1147,157 +1141,6 @@
         "Política Monetária"
       ],
       "score_relevancia": 6.0,
-      "tokens_usados": 64
-    },
-    {
-      "titulo": "Tech Melt-Up Drives $3.5 Trillion Nasdaq 100 Gain in Four Days",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-melt-drives-3-5-092612137.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-05",
-      "resumo": "A Nasdaq 100 experimentou um aumento de 9,3% em apenas quatro dias, o maior rally desde abril de 2025. A recuperação é resultado de resultados de segunda-feira impressionantes que tranquilizaram os investidores sobre os investimentos em inteligência artificial. A compra de ações de tecnologia pelos fundos de hedge foi a mais rápida desde dezembro de 2022.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "NASDAQ"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 65
-    },
-    {
-      "titulo": "Balanços corporativos, petróleo e Copom no radar dos mercados | Investing.com",
-      "url": "https://br.investing.com/analysis/balancos-corporativos-petroleo-e-copom-no-radar-dos-mercados-200478818",
-      "fonte": "br.investing.com",
-      "data": "2026-08-05",
-      "resumo": "A temporada de balanços corporativos no Brasil está em andamento, com empresas como Itaú e Gerdau divulgando seus resultados. Além disso, a produção industrial de junho no Brasil e o relatório Jolts nos Estados Unidos são pontos de atenção para os investidores. O petróleo também está em foco, após a queda temporária devido à escalada militar no Oriente Médio. A reunião do Copom também é importante, pois pode confirmar mais um corte da Selic e sinalizar para setembro.",
-      "sentimento": "bullish",
-      "tags": [
-        "Balanços corporativos",
-        "Petróleo",
-        "Copom",
-        "Mercados financeiros"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 90
-    },
-    {
-      "titulo": "AI-driven tech melt-up fuels $3.5T Nasdaq 100 surge in four days (NDX:)",
-      "url": "https://seekingalpha.com/news/4625732-ai-driven-tech-melt-up-fuels-35t-nasdaq-100-surge-in-four-days",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-05",
-      "resumo": "O índice Nasdaq 100 (NDX) registrou um aumento de cerca de $3,5T em valor de mercado nas últimas quatro sessões de negociação, impulsionado por uma onda de resultados financeiros fortes da tecnologia que reacendeu a otimismo dos investidores em relação ao gasto com inteligência artificial. A onda de gastos com IA reacendeu a otimismo dos investidores em relação ao setor de tecnologia, impulsionando o índice a um aumento de 9,3% nas últimas quatro sessões.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "NASDAQ"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 83
-    },
-    {
-      "titulo": "Tech Melt-Up Drives $3.5 Trillion Nasdaq 100 Gain in Four Days",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/tech-melt-up-drives-3-5-trillion-nasdaq-100-rally-in-four-days",
-      "fonte": "bloomberg.com",
-      "data": "2026-08-05",
-      "resumo": "A Nasdaq 100 experimentou um aumento de $3,5 trilhões em apenas quatro dias, impulsionado por fortes lucros que embolaram os investidores sobre a perspectiva de IA. A tecnologia está em alta, com o índice de tecnologia subindo 9,3% nesse período, sua maior recuperação desde abril de 2025.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 56
-    },
-    {
-      "titulo": "What Is Going on with Taiwan Semiconductor Stock on Wednesday? - Taiwan Semiconductor (NYSE:TSM) - Benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/08/60958922/what-is-going-on-with-taiwan-semiconductor-stock-on-wednesday",
-      "fonte": "benzinga.com",
-      "data": "2026-08-05",
-      "resumo": "A ação da Taiwan Semiconductor Manufacturing Co Ltd (TSM) está em queda de 0,43% no dia de ontem, apesar de outros fabricantes de chips de inteligência artificial terem experimentado um aumento significativo após a divulgação de resultados financeiros fortes da Palantir. A TSM está em uma tendência de longo prazo, mas a situação no curto prazo é mais volátil. A empresa está programada para divulgar seus resultados financeiros no dia 15 de outubro, com estimativas de lucro e receita que superam os valores do ano anterior.",
-      "sentimento": "bearish",
-      "tags": [
-        "TSM",
-        "Semiconductor",
-        "AI"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 95
-    },
-    {
-      "titulo": "Ibovespa hoje: acompanhe em tempo real a Bolsa de Valores",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-05082026",
-      "fonte": "infomoney.com.br",
-      "data": "2026-08-05",
-      "resumo": "A Bolsa de Valores de São Paulo (B3) está em operação, com a Ibovespa abrindo com uma alta de 0,03% em relação ao fechamento de ontem. A Petrobras (PETR3) começa a sessão com ganhos de 1,00%, enquanto a Havpida (HAPV3) abre com mais 0,25%. Além disso, os supermercadistas ASAI3, GMAT3 e PCAR3 também abrem com altas.",
-      "sentimento": "bullish",
-      "tags": [
-        "Bolsa de Valores",
-        "Ibovespa",
-        "Petrobras"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 105
-    },
-    {
-      "titulo": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders",
-      "fonte": "techcrunch.com",
-      "data": "2026-08-05",
-      "resumo": "A Klaviyo, plataforma de marketing de automação de e-commerce, adquiriu a Agency, startup de sucesso de clientes fundada por Elias Torres. Torres se juntará à Klaviyo como CPO e liderará a equipe de 25 pessoas para acelerar o desenvolvimento e a expansão dos agentes de IA da Klaviyo. A Agency havia recebido $32 milhões de investidores antes da aquisição.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Startups",
-        "M&A"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "Asia stocks jump as AI rally returns; Japan, Korea surge",
-      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-ai-rally-returns-japan-korea-surge-4836372",
-      "fonte": "investing.com",
-      "data": "2026-08-05",
-      "resumo": "A bolsa asiática registrou um aumento significativo, liderada pela indústria de tecnologia e inteligência artificial, com países como Japão e Coreia liderando as ganhas. A melhoria no sentimento em relação à IA e a recuperação da confiança dos investidores após a divulgação de resultados sólidos de empresas de tecnologia contribuíram para o aumento dos preços das ações.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Bolsa Asiática"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "'non-sexy parts of the AI trade' offer EM's biggest opportunities - CNBC",
-      "url": "https://www.cnbc.com/video/2026/08/05/lazard-am-pockets-of-opportunity-in-em-especially-in-the-non-sexy-parts-of-the-ai-trade.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-05",
-      "resumo": "O analista Eric Van Nostrand da Lazard Asset Management afirma que a próxima etapa do negócio de IA pode vir de empresas de mercado emergente que apoiam centros de dados e cadeias de suprimento de chips, oferecendo oportunidades significativas. Ele também destaca a Índia como uma oportunidade subestimada de IA com uma história de investimento liderada por infraestrutura.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Emerging Markets",
-        "Semicondutores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "Analyst on hyperscalers' earnings potential - CNBC",
-      "url": "https://www.cnbc.com/video/2026/08/05/analyst-on-hyperscalers-earnings-potential.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-05",
-      "resumo": "O analista Patrick Moorhead da Moor Insights & Strategy afirma que, embora alguns investidores estejam fazendo apostas rápidas nos hiperscalers em virtude da onda de inteligência artificial, empresas como a Microsoft e Azure estão gerando lucros. Moorhead destaca que os hiperscalers estão focados em gerar receita e não apenas em investir em tecnologia de ponta.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Hyperscalers",
-        "Microsoft"
-      ],
-      "score_relevancia": 5.0,
       "tokens_usados": 64
     }
   ]
