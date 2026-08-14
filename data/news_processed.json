@@ -2,10 +2,86 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-14",
-    "total_noticias": 80,
-    "gerado_em": "2026-08-14T04:46:31.607721"
+    "total_noticias": 85,
+    "gerado_em": "2026-08-14T10:57:29.113466"
   },
   "noticias": [
+    {
+      "titulo": "Dan Ives Says CoreWeave, Cisco Earnings ‘Pieces of the Puzzle’ for AI Trade: ‘Get the Popcorn Out’",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-coreweave-cisco-165357370.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-13",
+      "resumo": "O analista Dan Ives considera as divulgações de resultados de CoreWeave e Cisco como \"peças do quebra-cabeça\" para a tendência de investimento em inteligência artificial. Ele afirma que a tendência de investimento em AI está apenas começando e que os resultados dessas empresas podem mostrar a tendência de crescimento antes dos resultados de NVIDIA, que são esperados para o final do mês.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Inteligência Artificial",
+        "NASDAQ"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "Big Tech's AI Revenue Is Surging, But Suppliers Will Still ...",
+      "url": "https://seekingalpha.com/article/4936192-big-tech-ai-revenue-is-surging-but-suppliers-will-still-be-the-bigger-winners",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-13",
+      "resumo": "A receita de AI das grandes tecnologias está crescendo, mas os fornecedores ainda serão os maiores ganhadores. As empresas como Microsoft, Alphabet e Amazon estão registrando um aumento significativo em suas receitas de nuvem, mas os fornecedores de tecnologia de AI ainda têm espaço para crescer.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "BigTech"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 55
+    },
+    {
+      "titulo": "META_TITLE_QUOTE",
+      "url": "https://finance.yahoo.com/quote/CRWV",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-13",
+      "resumo": "A CoreWeave (CRWV) está expandindo sua capacidade de negociação com inteligência artificial (IA) com um novo acordo significativo, refletindo uma demanda robusta. Analistas prevêem que a receita do empresa mais que dobrará em relação ao ano anterior, destacando o potencial de crescimento da empresa apesar da volatilidade recente no preço da ação.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Software",
+        "Infraestrutura",
+        "Negociação"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 117
+    },
+    {
+      "titulo": "Earnings call transcript: CoreWeave tops Q2 2026 estimates, shares jump 13.5%",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-coreweave-tops-q2-2026-estimates-shares-jump-135-93CH-4852937",
+      "fonte": "investing.com",
+      "data": "2026-08-11",
+      "resumo": "A CoreWeave anunciou resultados financeiros superiores às expectativas para o 2º trimestre de 2026, com uma alta de 13,5% nas ações. A empresa destaca a demanda crescente por infraestrutura de nuvem para inteligência artificial (IA) e a sua capacidade de atender a essa demanda com sua plataforma. A CoreWeave também menciona a introdução de novas capacidades em sua plataforma de IA e a adoção de seus serviços de desenvolvimento de IA por uma ampla gama de clientes.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Cloud Computing",
+        "Tecnologia"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 87
+    },
+    {
+      "titulo": "Fastly Stock Is Rising Today: What's Driving It, and Are AI- ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fastly-stock-rising-today-driving-191705298.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-11",
+      "resumo": "Ações de empresas de nuvem e inteligência artificial estão sendo impulsionadas por uma onda de otimismo no setor. A Fastly e a Datadog estão subindo 21% e 9%, respectivamente, enquanto a CoreWeave está caindo 2% devido a previsões de resultados e vendas de ações por parte de executivos. A Oracle e a Net também estão subindo, refletindo a tendência do setor.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Cloud Computing",
+        "ETF"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 71
+    },
     {
       "titulo": "5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday",
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-semiconductor-stocks-jim-cramer-171441263.html",
