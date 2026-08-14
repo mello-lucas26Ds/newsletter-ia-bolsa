@@ -1,11 +1,131 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-13",
-    "total_noticias": 85,
-    "gerado_em": "2026-08-13T11:01:28.398133"
+    "data": "2026-08-14",
+    "total_noticias": 80,
+    "gerado_em": "2026-08-14T04:46:31.607721"
   },
   "noticias": [
+    {
+      "titulo": "5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-semiconductor-stocks-jim-cramer-171441263.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-13",
+      "resumo": "As ações de cinco empresas de semicondutores, incluindo Qualcomm (QCOM), Lam Research (LRCX), NVIDIA (NVDA), AMD (AMD) e ASML, estão em destaque devido a suas realizações financeiras recentes e perspectivas futuras. A NVIDIA guiou uma receita de $91 bilhões para o próximo trimestre, enquanto a AMD registrou uma receita de $11,536 bilhões no segundo trimestre de 2026, com um crescimento de 50,1% em relação ao mesmo período do ano anterior.",
+      "sentimento": "bullish",
+      "tags": [
+        "Semicondutores",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 81
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.19%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-019-4850239",
+      "fonte": "investing.com",
+      "data": "2026-08-10",
+      "resumo": "As ações brasileiras fecharam em baixa no final do dia, com o Bovespa caindo 0.19%. As piores desempenhadoras da sessão foram Cosan SA Industria e Comercio, Grupo Vamos SA e YDUQS Participacoes SA, que caíram 5.99%, 5.52% e 5.28%, respectivamente.",
+      "sentimento": "bearish",
+      "tags": [
+        "Bovespa",
+        "Brasil",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 4.0,
+      "tokens_usados": 51
+    },
+    {
+      "titulo": "Azure, Foundries, and Accelerators: Grading the AI ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/azure-foundries-accelerators-grading-ai-170031235.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-13",
+      "resumo": "A 24/7 Wall St. avaliou as principais empresas envolvidas no desenvolvimento de tecnologia de inteligência artificial, destacando Microsoft, TSMC e AMD. A TSMC foi considerada a melhor opção, com uma melhoria de 77% na receita líquida no último trimestre e uma margem bruta de 67,7%. Já a AMD foi considerada cara, com um P/E de 124 após uma alta de 119% no ano até agora.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "U.S. Stocks Mixed After Inflation Data, AI Earnings",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-inflation-data-5deef0c8",
+      "fonte": "wsj.com",
+      "data": "2026-08-12",
+      "resumo": "A bolsa de valores dos EUA apresentou um desempenho misto, com o Dow Jones Industrial Average terminando praticamente flat, enquanto o Nasdaq Composite adicionou 0,54%. A inflação foi considerada relativamente benigna e os lucros da inteligência artificial foram um fator positivo.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Economia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 7.0,
+      "tokens_usados": 51
+    },
+    {
+      "titulo": "The AI Boom Is Paying Off. New Research Says S&P 500 Companies Using AI Tools Boost Margins By 1.5% or More. These 2 ETFs Could Be Good Buys Now.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-boom-paying-off-research-212000326.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "Estudos recentes mostram que empresas do S&P 500 que utilizam ferramentas de IA aumentam suas margens de lucro em 1,5% a 1,8%. Isso pode ser bom para a economia e pode ser uma boa oportunidade para investir em ETFs relacionados.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "ETF",
+        "Economia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 49
+    },
+    {
+      "titulo": "AI investment will fuel more equity issuance, while buybacks cushion effects: Goldman Sachs",
+      "url": "https://seekingalpha.com/news/4629661-ai-investment-will-fuel-more-equity-issuance-but-buybacks-will-cushion-effects-goldman-sachs",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-09",
+      "resumo": "A Goldman Sachs prevê que a investimento em IA aumentará a emissão de ações, mas as aquisições de ações irão amortecer os efeitos. A empresa também afirma que a maioria das investimentos em infraestrutura de IA será financiada com dívida, enquanto a ação desempenhará um papel secundário, mas importante, para outras empresas relacionadas à IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Emissão de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 66
+    },
+    {
+      "titulo": "AI was a popular topic on investment banks' Q2 earnings calls",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-popular-topic-investment-banks-205101264.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "A tecnologia de inteligência artificial (IA) foi um tópico popular nas chamadas de resultados trimestrais de bancos de investimento no segundo trimestre. Analistas de ações estavam ansiosos para saber o impacto da tecnologia no mercado de fusões e aquisições e nas próprias empresas bancárias, além de como implementar a tecnologia custaria. Os bancos de investimento esperam que a IA exacerbe a concorrência e a necessidade de criatividade em financiamentos, especialmente em projetos de centros de dados.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "M&A",
+        "Bancos de Investimento"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 87
+    },
+    {
+      "titulo": "Micron Technology's (MU) Competitive Edge in a Rapidly ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-competitive-edge-143850791.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-13",
+      "resumo": "A Aron Capital destaca a Micron Technology (MU) como líder no mercado de memória e armazenamento, com um potencial de crescimento impulsionado pela demanda por AI. A empresa beneficia de uma vantagem competitiva devido à escassez de memória e capacidade de investimento excepcionalmente alto. A Micron Technology é uma das 40 ações mais populares entre os fundos de hedge em 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Micron Technology",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 71
+    },
     {
       "titulo": "Cotações em Tempo Real: Bolsa de Valores, Ações, Criptomoedas, FIIs – Money Times",
       "url": "https://www.moneytimes.com.br/cotacoes",
@@ -853,22 +973,6 @@
       "tokens_usados": 59
     },
     {
-      "titulo": "Nvidia: Upside Is Starting To Fade (NASDAQ:NVDA)",
-      "url": "https://seekingalpha.com/article/4932374-nvidia-upside-is-starting-to-fade",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-06",
-      "resumo": "O analista financeiro questiona a perspectiva de crescimento da Nvidia (NVDA) após a empresa ter alcançado um patamar de preço elevado em relação a seus pares. Ele compara os preços de mercado da NVDA com aqueles de outras empresas como AMD, Broadcom, Marvell, Arm e Intel, e sugere que o upside da empresa está começando a desvanecer-se.",
-      "sentimento": "bearish",
-      "tags": [
-        "NVDA",
-        "NASDAQ",
-        "Tecnologia",
-        "Inteligência Artificial"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 68
-    },
-    {
       "titulo": "AI trade gets crowded as India stages a comeback: What fund flows reveal - The Economic Times",
       "url": "https://m.economictimes.com/markets/stocks/news/ai-trade-gets-crowded-as-india-stages-a-comeback-what-fund-flows-reveal/articleshow/133062811.cms",
       "fonte": "m.economictimes.com",
@@ -897,22 +1001,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 110
-    },
-    {
-      "titulo": "Celestica: Strong Earnings Growth Still Leaves Room For Upside (NYSE:CLS) | Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4931704-celestica-strong-earnings-growth-still-leaves-room-for-upside",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-06",
-      "resumo": "Celestica está beneficiando do crescimento rápido dos centros de dados de IA, infraestrutura de nuvem e rede de alta velocidade. O segmento de Conectividade e Soluções de Nuvem é o mais rápido em crescimento, com um aumento de 84% em receita anualizada. A empresa é valorizada em $434 por ação, com 31% de potencial de alavancagem.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "Tecnologia",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 66
     },
     {
       "titulo": "AMD Advances AI Strategy With Taalas Acquisition",
@@ -1005,21 +1093,6 @@
       "tokens_usados": 60
     },
     {
-      "titulo": "Palantir: This Rally Is A Gift, Sell It",
-      "url": "https://seekingalpha.com/article/4932064-palantir-this-rally-is-a-gift-sell-it",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-06",
-      "resumo": "O autor do artigo, Cavenagh Research, afirma que a ação da Palantir está em uma tendência de alta, mas aconselha a vender, considerando que os números da empresa são \"outro mundo\" e que a valorização da empresa é \"fantasia\". No entanto, a empresa continua a exceder as expectativas e a demanda por soluções de inteligência artificial soberanas aumenta.",
-      "sentimento": "bearish",
-      "tags": [
-        "Palantir",
-        "AI",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 94
-    },
-    {
       "titulo": "Worst-Ever Brazil Market Outage Puts B3’s Near-Monopoly in Focus",
       "url": "https://www.bloomberg.com/news/articles/2026-08-07/worst-ever-brazil-market-outage-puts-b3-s-near-monopoly-in-focus",
       "fonte": "bloomberg.com",
@@ -1036,21 +1109,6 @@
       "tokens_usados": 162
     },
     {
-      "titulo": "Ação de materiais selecionada por IA dispara +22% após forte balanço",
-      "url": "https://br.investing.com/news/stock-market-news/alta-de-34-no-mes-acao-de-materiais-selecionada-por-ia-dispara-22-apos-resultados-solidos-2030641",
-      "fonte": "br.investing.com",
-      "data": "2026-08-06",
-      "resumo": "A ação da Diodes Incorporated (NASDAQGS:DIOD) disparou 15,34% após um forte LPA acima do consenso, enquanto outras ações selecionadas por IA também apresentaram ganhos expressivos, como a Atlassian Corp BDR (+38,23%) e a Twilio BDR (+26,41%).",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Materiais",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 45
-    },
-    {
       "titulo": "OpenAI acquires presentation startup NextSlide",
       "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
       "fonte": "techcrunch.com",
@@ -1064,21 +1122,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 51
-    },
-    {
-      "titulo": "US Foods Q2 2026 slides: record EBITDA, AI-driven growth",
-      "url": "https://za.investing.com/news/company-news/us-foods-q2-2026-slides-record-ebitda-aidriven-growth-93CH-4413894",
-      "fonte": "za.investing.com",
-      "data": "2026-08-06",
-      "resumo": "A US Foods apresentou resultados financeiros notáveis no segundo trimestre de 2026, com um record de EBITDA, graças ao crescimento impulsionado pela inteligência artificial (AI). Embora não haja detalhes específicos sobre as estratégias de investimento mencionadas, a empresa parece estar aproveitando as oportunidades oferecidas pela tecnologia AI para impulsionar seu crescimento.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Food",
-        "EBITDA"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 60
     },
     {
       "titulo": "I'm Bullish On AI But Not Every AI Stock",
@@ -1174,127 +1217,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 79
-    },
-    {
-      "titulo": "Global Market: Japan's Nikkei jumps over 3% as AI stocks rally, upbeat earnings lift sentiment - The Economic Times",
-      "url": "https://m.economictimes.com/markets/us-stocks/news/global-market-japans-nikkei-jumps-over-3-as-ai-stocks-rally-upbeat-earnings-lift-sentiment/articleshow/132893039.cms",
-      "fonte": "m.economictimes.com",
-      "data": "2026-08-06",
-      "resumo": "A bolsa de valores do Japão, Nikkei, registrou um aumento de mais de 3% na quarta-feira, impulsionado por ganhos significativos nas ações relacionadas à inteligência artificial (IA) que seguiram a onda de alta na Bolsa de Nova York. Além disso, a série de resultados financeiros otimistas e atualizações de previsões de lucro contribuíram para o aumento do otimismo dos investidores. A Murata Manufacturing, um dos principais fornecedores de capacitores cerâmicos multicamadas usados em servidores de IA, subiu 8,33% após aumentar a previsão de lucro líquido anual, refletindo o crescimento da otimismo em relação à demanda impulsionada pela IA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Nikkei"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 107
-    },
-    {
-      "titulo": "Oracle: Cloud ERP And Oracle Database Software Driving Growth (NYSE:ORCL)",
-      "url": "https://seekingalpha.com/article/4931727-oracle-cloud-erp-and-oracle-database-software-driving-growth",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-06",
-      "resumo": "A Oracle está a experimentar crescimento graças ao seu Cloud ERP e software do Oracle Database. A infraestrutura de nuvem da Oracle deve continuar a ser um motor de crescimento, especialmente com o projeto Stargate, que envolve a construção de infraestrutura de nuvem para a inteligência artificial. A empresa espera que sua participação no mercado de infraestrutura de nuvem cresça de 2025 a 2028F, graças à expansão de centros de dados e regiões de banco de dados.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Cloud Computing",
-        "Oracle"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 87
-    },
-    {
-      "titulo": "SoundHound AI Inc Stock Price Today | NASDAQ: SOUN ...",
-      "url": "https://www.investing.com/equities/soundhound-ai",
-      "fonte": "investing.com",
-      "data": "2026-08-06",
-      "resumo": "A SoundHound AI (NASDAQ:SOUN) anunciou parcerias com a Deliverect para automatizar pedidos de voz em restaurantes, mas também enfrentou vendas de ações por parte de executivos e um baixo preço de 52 semanas.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "NASDAQ",
-        "Tecnologia"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 42
-    },
-    {
-      "titulo": "Lucro da Power Integrations superou projeções por $0,05; receita supera estimativas",
-      "url": "https://br.investing.com/news/earnings/lucro-da-power-integrations-superou-projecoes-por-005-receita-supera-estimativas-2028547",
-      "fonte": "br.investing.com",
-      "data": "2026-08-06",
-      "resumo": "A Power Integrations anunciou que seu lucro por ação superou as projeções por $0,05, enquanto a receita também superou as estimativas. Essa notícia é positiva para os investidores da empresa.",
-      "sentimento": "bullish",
-      "tags": [
-        "Power Integrations",
-        "Tecnologia",
-        "Semicondutores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 40
-    },
-    {
-      "titulo": "Cathie Wood invests a combined $28.7 million in TSMC, SpaceX after trimming investments in Amazon, Alphabet and Shopify",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-combined-28-114500645.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-06",
-      "resumo": "A investidora Cathie Wood investiu cerca de $28,7 milhões em TSMC e SpaceX, após vender partes de suas posições em Amazon, Alphabet e Shopify. A venda de Amazon ocorreu apenas horas antes do lançamento do relatório de segunda-feira de resultados do segundo trimestre da empresa, que superou as expectativas da Wall Street e impulsionou as ações a um novo máximo histórico.",
-      "sentimento": "bullish",
-      "tags": [
-        "TSMC",
-        "SpaceX",
-        "AI",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 71
-    },
-    {
-      "titulo": "SoundHound AI (SOUN) Pushes LivePerson Deal As Investor Town Hall Nears",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-soun-pushes-liveperson-140905419.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-06",
-      "resumo": "A SoundHound AI está focada em inteligência artificial de voz e conversacional, e está prestes a adquirir a LivePerson, uma empresa especializada em ferramentas de engajamento de clientes. A combinação dessas empresas pode ser um ponto de encontro para investidores que buscam oportunidades no setor de inteligência artificial e software de interação com clientes.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Customer Engagement",
-        "M&A"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 64
-    },
-    {
-      "titulo": "AMD buys Taalas, startup that hardwires AI models into its ...",
-      "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-06",
-      "resumo": "A AMD anunciou a aquisição da Taalas, uma startup que desenvolve chips para inferência de modelos de IA. A Taalas criou uma plataforma para transformar qualquer modelo de IA em silício personalizado, permitindo a criação de chips em apenas dois meses após a recebimento do modelo. A AMD planeja integrar a tecnologia da Taalas em seus sistemas, incluindo processadores centrais e GPUs Instinct.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "AMD"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 72
-    },
-    {
-      "titulo": "Ibovespa Futuro cai com reação ao Copom, Durigan e balanços",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-reacao-ao-copom-durigan-e-balancos",
-      "fonte": "infomoney.com.br",
-      "data": "2026-08-06",
-      "resumo": "O Ibovespa Futuro opera em baixa nos primeiros negócios desta quinta-feira, com investidores reagindo ao comunicado do Banco Central, que deixou os próximos passos da política monetária em aberto. Além disso, a atenção se volta para as declarações do ministro da Fazenda, Dario Durigan, e a divulgação de balanços corporativos, incluindo da Petrobras.",
-      "sentimento": "bearish",
-      "tags": [
-        "Ibovespa",
-        "Mercado Financeiro",
-        "Política Monetária"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 64
     }
   ]
 }

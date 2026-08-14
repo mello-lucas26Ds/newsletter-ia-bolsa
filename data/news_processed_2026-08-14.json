@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-08-14",
+    "total_noticias": 8,
+    "gerado_em": "2026-08-14T04:46:31.605757"
+  },
+  "noticias": [
+    {
+      "titulo": "5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-semiconductor-stocks-jim-cramer-171441263.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-13",
+      "resumo": "As ações de cinco empresas de semicondutores, incluindo Qualcomm (QCOM), Lam Research (LRCX), NVIDIA (NVDA), AMD (AMD) e ASML, estão em destaque devido a suas realizações financeiras recentes e perspectivas futuras. A NVIDIA guiou uma receita de $91 bilhões para o próximo trimestre, enquanto a AMD registrou uma receita de $11,536 bilhões no segundo trimestre de 2026, com um crescimento de 50,1% em relação ao mesmo período do ano anterior.",
+      "sentimento": "bullish",
+      "tags": [
+        "Semicondutores",
+        "Tecnologia",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 81
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.19%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-019-4850239",
+      "fonte": "investing.com",
+      "data": "2026-08-10",
+      "resumo": "As ações brasileiras fecharam em baixa no final do dia, com o Bovespa caindo 0.19%. As piores desempenhadoras da sessão foram Cosan SA Industria e Comercio, Grupo Vamos SA e YDUQS Participacoes SA, que caíram 5.99%, 5.52% e 5.28%, respectivamente.",
+      "sentimento": "bearish",
+      "tags": [
+        "Bovespa",
+        "Brasil",
+        "Mercado de Ações"
+      ],
+      "score_relevancia": 4.0,
+      "tokens_usados": 51
+    },
+    {
+      "titulo": "Azure, Foundries, and Accelerators: Grading the AI ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/azure-foundries-accelerators-grading-ai-170031235.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-13",
+      "resumo": "A 24/7 Wall St. avaliou as principais empresas envolvidas no desenvolvimento de tecnologia de inteligência artificial, destacando Microsoft, TSMC e AMD. A TSMC foi considerada a melhor opção, com uma melhoria de 77% na receita líquida no último trimestre e uma margem bruta de 67,7%. Já a AMD foi considerada cara, com um P/E de 124 após uma alta de 119% no ano até agora.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "U.S. Stocks Mixed After Inflation Data, AI Earnings",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-inflation-data-5deef0c8",
+      "fonte": "wsj.com",
+      "data": "2026-08-12",
+      "resumo": "A bolsa de valores dos EUA apresentou um desempenho misto, com o Dow Jones Industrial Average terminando praticamente flat, enquanto o Nasdaq Composite adicionou 0,54%. A inflação foi considerada relativamente benigna e os lucros da inteligência artificial foram um fator positivo.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Economia",
+        "Mercados Financeiros"
+      ],
+      "score_relevancia": 7.0,
+      "tokens_usados": 51
+    },
+    {
+      "titulo": "The AI Boom Is Paying Off. New Research Says S&P 500 Companies Using AI Tools Boost Margins By 1.5% or More. These 2 ETFs Could Be Good Buys Now.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-boom-paying-off-research-212000326.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "Estudos recentes mostram que empresas do S&P 500 que utilizam ferramentas de IA aumentam suas margens de lucro em 1,5% a 1,8%. Isso pode ser bom para a economia e pode ser uma boa oportunidade para investir em ETFs relacionados.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "ETF",
+        "Economia"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 49
+    },
+    {
+      "titulo": "AI investment will fuel more equity issuance, while buybacks cushion effects: Goldman Sachs",
+      "url": "https://seekingalpha.com/news/4629661-ai-investment-will-fuel-more-equity-issuance-but-buybacks-will-cushion-effects-goldman-sachs",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-09",
+      "resumo": "A Goldman Sachs prevê que a investimento em IA aumentará a emissão de ações, mas as aquisições de ações irão amortecer os efeitos. A empresa também afirma que a maioria das investimentos em infraestrutura de IA será financiada com dívida, enquanto a ação desempenhará um papel secundário, mas importante, para outras empresas relacionadas à IA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Emissão de Ações"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 66
+    },
+    {
+      "titulo": "AI was a popular topic on investment banks' Q2 earnings calls",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-popular-topic-investment-banks-205101264.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "A tecnologia de inteligência artificial (IA) foi um tópico popular nas chamadas de resultados trimestrais de bancos de investimento no segundo trimestre. Analistas de ações estavam ansiosos para saber o impacto da tecnologia no mercado de fusões e aquisições e nas próprias empresas bancárias, além de como implementar a tecnologia custaria. Os bancos de investimento esperam que a IA exacerbe a concorrência e a necessidade de criatividade em financiamentos, especialmente em projetos de centros de dados.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "M&A",
+        "Bancos de Investimento"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 87
+    },
+    {
+      "titulo": "Micron Technology's (MU) Competitive Edge in a Rapidly ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-competitive-edge-143850791.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-13",
+      "resumo": "A Aron Capital destaca a Micron Technology (MU) como líder no mercado de memória e armazenamento, com um potencial de crescimento impulsionado pela demanda por AI. A empresa beneficia de uma vantagem competitiva devido à escassez de memória e capacidade de investimento excepcionalmente alto. A Micron Technology é uma das 40 ações mais populares entre os fundos de hedge em 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Micron Technology",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 71
+    }
+  ]
+}
