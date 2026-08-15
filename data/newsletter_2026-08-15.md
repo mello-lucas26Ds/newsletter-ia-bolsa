@@ -1,124 +1,85 @@
 # Newsletter IA Bolsa — 2026-08-15
 
-**Gerado em:** 15/08/2026 03:36
-**Total:** 9 noticias
+**Gerado em:** 15/08/2026 10:21
+**Total:** 6 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Two Stocks Are Quietly Beating Nvidia, and Wall Street Wants Them 30% Higher
+## 1. Mad Money’s Jim Cramer Says These 6 AI Stocks are Primed to Surge
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** TSMC, Nvidia, Ciena, Semicondutores
+**Tags:** AI, Inteligência Artificial, Tecnologia
 
-A Taiwan Semiconductor (TSM) está superando a Nvidia em termos de desempenho, com um retorno de 154% desde agosto de 2024, contra 79% da Nvidia. A TSMC é considerada uma "Strong Buy" pelos analistas, com cerca de 27% de potencial de aumento. Além disso, a Ciena (CIEN) também tem superado a Nvidia em 16 ocasiões no último ano.
+Jim Cramer, do Mad Money, diz que seis ações de inteligência artificial estão prontas para surpreender. As ações de AI Data Center, que haviam caído em junho, recuperaram força na semana passada, com Nebius liderando com um ganho de 34,14%. Cramer afirma que a confiança foi restaurada após uma série de desenvolvimentos recentes.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/two-stocks-quietly-beating-nvidia-112714362.html)
-
----
-
-## 2. Robotics Stocks Rally as Unitree's 8000X Oversubscribed ...
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 9.0/10  
-**Tags:** Robótica, Inteligência Artificial, Ações
-
-Ações de robótica estão em alta após o IPO do Unitree Robotics ser mais de 8.000 vezes sobrescrito por investidores, o que sinaliza uma grande demanda por ações de robótica e inteligência artificial física. A Ouster, líder em lidar, está em primeiro lugar, com uma alta de 7% em uma única sessão, enquanto a Symbotic e a Teradyne também estão em alta.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/robotics-stocks-rally-unitree-8000x-183206760.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/mad-money-jim-cramer-says-192419592.html)
 
 ---
 
-## 3. Palantir: 'Otherworldly' Q2 Results, A Long-Term AI Investment (NASDAQ:PLTR) | Seeking Alpha
+## 2. Intuit: Strong Fundamentals Amid AI Fears Make The Stock Attractive (NASDAQ:INTU)
 
 **Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, NASDAQ
+**Tags:** AI, NASDAQ, Finance
 
-A Palantir apresentou resultados "outro mundos" no 2º trimestre, o que pode ser visto como uma longa aposta no investimento em IA. A empresa de tecnologia de software está se destacando no mercado, substituindo as ações de software que impulsionaram a recuperação do mercado após a pandemia. A Palantir está se beneficiando da tendência de investimento em infraestrutura de IA, especialmente em fabricantes de chips.
+A Intuit está se preparando para sua relatórios de Q4, após um ano de queda no preço da ação. A empresa está trabalhando para se tornar uma empresa "ampliada por IA" em vez de ser "desafiada pela IA". A gestão precisa provar que a IA aumenta o valor dos clientes para transformar o maior risco em uma força.
 
-[Ler noticia completa](https://seekingalpha.com/article/4935408-palantir-stock-otherworldly-q2-earnings-a-long-term-ai-investment)
-
----
-
-## 4. Broadcom Inc. (AVGO)
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** Semicondutores, NVIDIA, Tecnologia
-
-A lista apresenta ações de empresas de semicondutores, incluindo NVIDIA, Taiwan Semiconductor Manufacturing Company, QUALCOMM e outras. As ações de NVIDIA e Taiwan Semiconductor Manufacturing Company apresentam variações negativas, enquanto QUALCOMM apresenta uma variação positiva.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/AVGO)
+[Ler noticia completa](https://seekingalpha.com/article/4935926-intuit-strong-fundamentals-amid-ai-fears-make-the-stock-attractive)
 
 ---
 
-## 5. META_TITLE_QUOTE
+## 3. Google lança modelo de IA Gemini 3.7 Flash para tarefas de programação
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 6.0/10  
-**Tags:** AI, Tecnologia, Finance
-
-A Nebius Group está programada para divulgar os resultados do 2º trimestre em 12 de agosto, após um crescimento explosivo no 1º trimestre. No entanto, o investidor Michael Burry levantou preocupações ao curto a ação, citando riscos relacionados a compromissos financeiros pesados em infraestrutura de IA.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/NBIS)
-
----
-
-## 6. Oportunidade ou diminuir exposição? O que fazer em meio ao sell-off na Bolsa
-
-**Fonte:** infomoney.com.br  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** Bolsa, Brasil, Investimentos, Tecnologia
-
-A corretora Itaú BBA destaca que o Brasil continua sendo visto como uma opção barata para investidores globais, mas a maioria prefere uma postura defensiva. A disputa entre o fluxo direcionado à tecnologia global e a busca por mercados de valor deve continuar determinando a dinâmica da Bolsa nos próximos meses. A estratégia é buscar exposição ao Brasil sem ficar excessivamente dependente do comportamento dos juros, do crédito ou do ciclo econômico doméstico.
-
-[Ler noticia completa](https://www.infomoney.com.br/mercados/sell-off-na-b3-comprar-acoes-exportadoras-ou-apostar-na-queda-dos-juros-o-que-fazer-agora)
-
----
-
-## 7. Keel Infrastructure: Beware Delta-Of-Ruin Profile (NASDAQ:KEEL) | Seeking Alpha
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 4.0/10  
-**Tags:** KEEL, NASDAQ, DataCenters
-
-O artigo destaca que a Keel Infrastructure Corp. (KEEL) não é ideal para investimentos a longo prazo, devido ao seu perfil de investimento "delta de ruína". A empresa tenta pressionar os hyperscalers para obter recursos escassos, o que pode ser arriscado.
-
-[Ler noticia completa](https://seekingalpha.com/article/4934615-keel-infrastructure-stock-beware-delta-of-ruin-profile)
-
----
-
-## 8. Corning Incorporated: Well-Positioned AI Infrastructure Play
-
-**Fonte:** seekingalpha.com  
+**Fonte:** br.investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Infraestrutura
+**Tags:** IA, Tecnologia, Inteligência Artificial
 
-A Corning Incorporated (GLW) é uma empresa bem posicionada para aproveitar a infraestrutura de inteligência artificial (IA). Com a narrativa de IA otimista fortalecida, a empresa é vista como uma oportunidade atraente para investidores. A Corning está bem posicionada para aproveitar o crescimento da demanda por soluções de IA e tecnologia de dados.
+A Google lançou o modelo de IA Gemini 3.7 Flash para tarefas de programação, mas não há informações específicas sobre como isso afetará as ações de empresas relacionadas à tecnologia e inteligência artificial. No entanto, as ações de empresas como Estrela PN, Grupo Multi ON e Azevedo & Travassos ON apresentaram aumentos significativos, enquanto ações como Hapvida ON e OSX Brasil ON apresentaram quedas.
 
-[Ler noticia completa](https://seekingalpha.com/article/4935796-corning-stock-well-positioned-ai-infrastructure-play)
+[Ler noticia completa](https://br.investing.com/news/stock-market-news/google-lanca-modelo-de-ia-gemini-37-flash-para-tarefas-de-programacao-93CH-2038612)
 
 ---
 
-## 9. Cerebras stock plunges 14% after second earnings report following IPO
+## 4. Eventually, Free Cash Flow Will Matter Again
 
-**Fonte:** cnbc.com  
+**Fonte:** seekingalpha.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semicondutores, IPO, Cerebras
+**Tags:** AI, Tecnologia, Mercado de Ações
 
-A Cerebras Systems, uma empresa de chips de computador especializada em inteligência artificial (IA), anunciou resultados financeiros que levaram a uma queda de 14% no preço das ações após o segundo relatório de rendimentos desde sua oferta pública inicial (IPO) em maio. A empresa espera que seus lucros brutos aumentem para entre 38% e 40% no trimestre atual, aliviando uma preocupação dos investidores. O CEO Andrew Feldman afirmou que a demanda por IA é "por cima do teto" e que a empresa espera que sua receita triplique no próximo ano fiscal.
+Apesar de empresas de tecnologia como Meta, Alphabet e Oracle apresentarem crescimento impressionante em receita e lucro, sua cash flow livre está deteriorando rapidamente. A captação de capital, litígios e investimentos em infraestrutura estão afetando negativamente o fluxo de caixa dessas empresas. O mercado está apostando na rentabilidade futura de investimentos em IA, mas a divergência entre lucro e cash flow livre levanta dúvidas sobre a possibilidade de um ciclo boom-bust.
 
-[Ler noticia completa](https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html)
+[Ler noticia completa](https://seekingalpha.com/article/4936803-eventually-free-cash-flow-will-matter-again)
+
+---
+
+## 5. Lucro da Vibra quase quadriplica no 2° tri Por Reuters
+
+**Fonte:** br.investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 8.0/10  
+**Tags:** tecnologia, mercado de ações, lucro
+
+A Vibra anunciou um lucro líquido quase quatro vezes maior no 2° trimestre, superando as expectativas de analistas que previam um lucro líquido de R$2,1 bilhões. A empresa também apresentou um Ebitda de R$3,4 bilhões e uma receita líquida de R$55,4 bilhões.
+
+[Ler noticia completa](https://br.investing.com/news/stock-market-news/lucro-da-vibra-quase-quadriplica-no-2-tri-2040100)
+
+---
+
+## 6. Braskem reverte prejuízo e tem lucro de R$3,33 bi no 2º tri
+
+**Fonte:** br.investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** Petroquímica, Petróleo, Economia Brasileira
+
+A Braskem apresentou lucro de R$3,33 bilhões no 2º trimestre de 2023, revertendo o prejuízo do período anterior. A empresa destacou a melhoria da demanda por petroquímicos e a redução de custos como fatores importantes para o resultado positivo.
+
+[Ler noticia completa](https://br.investing.com/news/stock-market-news/braskem-reverte-prejuizo-e-tem-lucro-de-r333-bi-no-2o-tri-2039307)
 
 ---
