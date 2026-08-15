@@ -1,11 +1,149 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-14",
-    "total_noticias": 85,
-    "gerado_em": "2026-08-14T10:57:29.113466"
+    "data": "2026-08-15",
+    "total_noticias": 82,
+    "gerado_em": "2026-08-15T03:36:03.851352"
   },
   "noticias": [
+    {
+      "titulo": "Two Stocks Are Quietly Beating Nvidia, and Wall Street Wants Them 30% Higher",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-stocks-quietly-beating-nvidia-112714362.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-14",
+      "resumo": "A Taiwan Semiconductor (TSM) está superando a Nvidia em termos de desempenho, com um retorno de 154% desde agosto de 2024, contra 79% da Nvidia. A TSMC é considerada uma \"Strong Buy\" pelos analistas, com cerca de 27% de potencial de aumento. Além disso, a Ciena (CIEN) também tem superado a Nvidia em 16 ocasiões no último ano.",
+      "sentimento": "bullish",
+      "tags": [
+        "TSMC",
+        "Nvidia",
+        "Ciena",
+        "Semicondutores"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 68
+    },
+    {
+      "titulo": "Robotics Stocks Rally as Unitree's 8000X Oversubscribed ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/robotics-stocks-rally-unitree-8000x-183206760.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "Ações de robótica estão em alta após o IPO do Unitree Robotics ser mais de 8.000 vezes sobrescrito por investidores, o que sinaliza uma grande demanda por ações de robótica e inteligência artificial física. A Ouster, líder em lidar, está em primeiro lugar, com uma alta de 7% em uma única sessão, enquanto a Symbotic e a Teradyne também estão em alta.",
+      "sentimento": "bullish",
+      "tags": [
+        "Robótica",
+        "Inteligência Artificial",
+        "Ações"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 72
+    },
+    {
+      "titulo": "Palantir: 'Otherworldly' Q2 Results, A Long-Term AI Investment (NASDAQ:PLTR) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4935408-palantir-stock-otherworldly-q2-earnings-a-long-term-ai-investment",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-12",
+      "resumo": "A Palantir apresentou resultados \"outro mundos\" no 2º trimestre, o que pode ser visto como uma longa aposta no investimento em IA. A empresa de tecnologia de software está se destacando no mercado, substituindo as ações de software que impulsionaram a recuperação do mercado após a pandemia. A Palantir está se beneficiando da tendência de investimento em infraestrutura de IA, especialmente em fabricantes de chips.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "Broadcom Inc. (AVGO)",
+      "url": "https://finance.yahoo.com/quote/AVGO",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-11",
+      "resumo": "A lista apresenta ações de empresas de semicondutores, incluindo NVIDIA, Taiwan Semiconductor Manufacturing Company, QUALCOMM e outras. As ações de NVIDIA e Taiwan Semiconductor Manufacturing Company apresentam variações negativas, enquanto QUALCOMM apresenta uma variação positiva.",
+      "sentimento": "bearish",
+      "tags": [
+        "Semicondutores",
+        "NVIDIA",
+        "Tecnologia"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 44
+    },
+    {
+      "titulo": "META_TITLE_QUOTE",
+      "url": "https://finance.yahoo.com/quote/NBIS",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-14",
+      "resumo": "A Nebius Group está programada para divulgar os resultados do 2º trimestre em 12 de agosto, após um crescimento explosivo no 1º trimestre. No entanto, o investidor Michael Burry levantou preocupações ao curto a ação, citando riscos relacionados a compromissos financeiros pesados em infraestrutura de IA.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Finance"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 55
+    },
+    {
+      "titulo": "Oportunidade ou diminuir exposição? O que fazer em meio ao sell-off na Bolsa",
+      "url": "https://www.infomoney.com.br/mercados/sell-off-na-b3-comprar-acoes-exportadoras-ou-apostar-na-queda-dos-juros-o-que-fazer-agora",
+      "fonte": "infomoney.com.br",
+      "data": "2026-08-12",
+      "resumo": "A corretora Itaú BBA destaca que o Brasil continua sendo visto como uma opção barata para investidores globais, mas a maioria prefere uma postura defensiva. A disputa entre o fluxo direcionado à tecnologia global e a busca por mercados de valor deve continuar determinando a dinâmica da Bolsa nos próximos meses. A estratégia é buscar exposição ao Brasil sem ficar excessivamente dependente do comportamento dos juros, do crédito ou do ciclo econômico doméstico.",
+      "sentimento": "neutral",
+      "tags": [
+        "Bolsa",
+        "Brasil",
+        "Investimentos",
+        "Tecnologia"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 83
+    },
+    {
+      "titulo": "Keel Infrastructure: Beware Delta-Of-Ruin Profile (NASDAQ:KEEL) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4934615-keel-infrastructure-stock-beware-delta-of-ruin-profile",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-11",
+      "resumo": "O artigo destaca que a Keel Infrastructure Corp. (KEEL) não é ideal para investimentos a longo prazo, devido ao seu perfil de investimento \"delta de ruína\". A empresa tenta pressionar os hyperscalers para obter recursos escassos, o que pode ser arriscado.",
+      "sentimento": "bearish",
+      "tags": [
+        "KEEL",
+        "NASDAQ",
+        "DataCenters"
+      ],
+      "score_relevancia": 4.0,
+      "tokens_usados": 50
+    },
+    {
+      "titulo": "Corning Incorporated: Well-Positioned AI Infrastructure Play",
+      "url": "https://seekingalpha.com/article/4935796-corning-stock-well-positioned-ai-infrastructure-play",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-13",
+      "resumo": "A Corning Incorporated (GLW) é uma empresa bem posicionada para aproveitar a infraestrutura de inteligência artificial (IA). Com a narrativa de IA otimista fortalecida, a empresa é vista como uma oportunidade atraente para investidores. A Corning está bem posicionada para aproveitar o crescimento da demanda por soluções de IA e tecnologia de dados.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Infraestrutura"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 62
+    },
+    {
+      "titulo": "Cerebras stock plunges 14% after second earnings report following IPO",
+      "url": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-12",
+      "resumo": "A Cerebras Systems, uma empresa de chips de computador especializada em inteligência artificial (IA), anunciou resultados financeiros que levaram a uma queda de 14% no preço das ações após o segundo relatório de rendimentos desde sua oferta pública inicial (IPO) em maio. A empresa espera que seus lucros brutos aumentem para entre 38% e 40% no trimestre atual, aliviando uma preocupação dos investidores. O CEO Andrew Feldman afirmou que a demanda por IA é \"por cima do teto\" e que a empresa espera que sua receita triplique no próximo ano fiscal.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "IPO",
+        "Cerebras"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 126
+    },
     {
       "titulo": "Dan Ives Says CoreWeave, Cisco Earnings ‘Pieces of the Puzzle’ for AI Trade: ‘Get the Popcorn Out’",
       "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-coreweave-cisco-165357370.html",
@@ -324,21 +462,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 79
-    },
-    {
-      "titulo": "Aswath Damodaran shares 3 lessons investors can learn from rise and fall of Leopold Aschenbrenner's AI fund - The Economic Times",
-      "url": "https://m.economictimes.com/markets/us-stocks/news/aswath-damodaran-shares-3-lessons-investors-can-learn-from-rise-and-fall-of-leopold-aschenbrenners-ai-fund/articleshow/133146739.cms",
-      "fonte": "m.economictimes.com",
-      "data": "2026-08-07",
-      "resumo": "Aswath Damodaran compartilha três lições que investidores podem aprender com o surgimento e declínio do fundo de IA de Leopold Aschenbrenner. O artigo não menciona especificamente o desempenho do mercado, mas destaca a importância de aprender com os erros e acertos do passado.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Investimentos",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 83
     },
     {
       "titulo": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
@@ -731,21 +854,6 @@
       "tokens_usados": 72
     },
     {
-      "titulo": "Brava ON Share Price | BRAV3 Stock - Investing.com UK",
-      "url": "https://uk.investing.com/equities/3r-petroleum-oleo-e-gas-sa",
-      "fonte": "uk.investing.com",
-      "data": "2026-08-07",
-      "resumo": "A Brava ON (BRAV3) é uma empresa brasileira que opera no setor de energia. A empresa tem um preço de ação atual de R$ 18,86, com uma variação de 1,95% no dia. A empresa paga dividendos com uma taxa de juros de 0,68%. A capitalização de mercado da empresa é de R$ 7,10 bilhões.",
-      "sentimento": "bearish",
-      "tags": [
-        "Energia",
-        "Finanças",
-        "Brasil"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 63
-    },
-    {
       "titulo": "Business Deals, Mergers and Acquisitions",
       "url": "https://www.wsj.com/business/deals",
       "fonte": "wsj.com",
@@ -883,21 +991,6 @@
       "tokens_usados": 64
     },
     {
-      "titulo": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
-      "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-07",
-      "resumo": "A indústria de software está enfrentando pressões devido ao avanço da inteligência artificial, levando a uma especulação sobre o futuro da indústria. Apesar de alguns fracassos, como a queda de HubSpot e Datadog, outras empresas como Atlassian e Twilio tiveram um aumento histórico, revivendo a confiança em partes do setor.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Software",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 72
-    },
-    {
       "titulo": "Atlassian Soars 34%, Twilio Leaps 27%, Cloudflare Advances 9% in Software Stock Surge",
       "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-soars-34-twilio-leaps-145426222.html",
       "fonte": "finance.yahoo.com",
@@ -958,21 +1051,6 @@
       "tokens_usados": 97
     },
     {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 1.73%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-173-4847393",
-      "fonte": "investing.com",
-      "data": "2026-08-07",
-      "resumo": "As ações brasileiras fecharam em queda no final do dia, com o Bovespa caindo 1,73%. No entanto, as ações de empresas de tecnologia nos EUA estiveram em alta, com ações como SPCX, NVDA e PLTR apresentando ganhos significativos.",
-      "sentimento": "bullish",
-      "tags": [
-        "tecnologia",
-        "ações",
-        "mercado de ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 49
-    },
-    {
       "titulo": "TSMC sees 45% sales surge as AI demand stays strong - CNBC",
       "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
       "fonte": "cnbc.com",
@@ -1001,22 +1079,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 71
-    },
-    {
-      "titulo": "Realty Income Corp (O) (Q2 2026) Earnings Call Highlights: AFFO Growth and Strategic Expansion ...",
-      "url": "https://finance.yahoo.com/real-estate/articles/realty-income-corp-o-q2-050448385.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-07",
-      "resumo": "A Realty Income Corp (O) apresentou resultados sólidos no 2º trimestre de 2026, com crescimento do AFFO e expansão estratégica. A empresa iniciou uma parceria de $6 bilhões com a Cloud Capital para desenvolver centros de dados hiperescala, e os fundamentos industriais estão melhorando. Além disso, a empresa alcançou recaptura internacional de 112,9% e a U.S. Core Plus Fund está completamente alocada, gerando receitas para os acionistas.",
-      "sentimento": "bullish",
-      "tags": [
-        "REIT",
-        "Data Center",
-        "Hyperscale",
-        "Fundamentos Industriais"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 79
     },
     {
       "titulo": "Chip equipment stocks rise after Taiwan Semiconductor revenue ...",
@@ -1064,21 +1126,6 @@
       "tokens_usados": 81
     },
     {
-      "titulo": "Bovespa Index (IBOV)  - Investing.com NG",
-      "url": "https://www.google.com/goto?url=CAESYAHuR6pN8qzkLm_1s7swAOQih1VPVzGpRuxmSqVXMdndyHB2h49geATLqCmCfqgRcARayTxDXcTOQTei1_ulLi4zhMKsgMsr63zy-iFa6z9bykWDQLFbqrpWpt4zSwgJ0Q%3D%3D",
-      "fonte": "google.com",
-      "data": "2026-08-07",
-      "resumo": "O índice Bovespa (IBOV) apresentou mudanças no preço de algumas ações, com FLRY3 e AZZA3 sendo as maiores ganhadoras, e LREN3 e CMIN3 sendo as maiores perdedoras. Além disso, a B3 SA Brasil Bolsa Balcao (B3SA3) apresentou seus melhores resultados trimestrais da história para o Q1 2026, superando as expectativas dos analistas.",
-      "sentimento": "neutral",
-      "tags": [
-        "Bovespa",
-        "IBOV",
-        "B3SA3"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 110
-    },
-    {
       "titulo": "AMD Advances AI Strategy With Taalas Acquisition",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-amd-advances-ai-113923975.html",
       "fonte": "finance.yahoo.com",
@@ -1124,21 +1171,6 @@
       "tokens_usados": 101
     },
     {
-      "titulo": "AMD's Beat-and-Raise Q2 Earnings Shows Just How High the AI Bar Is",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amds-beat-raise-q2-earnings-113002308.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-07",
-      "resumo": "A AMD apresentou resultados financeiros impressionantes no segundo trimestre, com receita e lucro acima das expectativas e orientação para o terceiro trimestre mais alta. No entanto, a alta performance da empresa não foi suficiente para satisfazer os investidores, que agora exigem crescimento acelerado e estimativas mais altas. A empresa destacou o crescimento significativo em sua receita de centros de dados, que aumentou 107% em relação ao mesmo período do ano passado.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "AMD",
-        "Semiconductor"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 135
-    },
-    {
       "titulo": "A $10,000 Investment in Taiwan Semiconductor Today Will Be ...",
       "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-taiwan-semiconductor-195000867.html",
       "fonte": "finance.yahoo.com",
@@ -1169,22 +1201,6 @@
       "tokens_usados": 60
     },
     {
-      "titulo": "Worst-Ever Brazil Market Outage Puts B3’s Near-Monopoly in Focus",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/worst-ever-brazil-market-outage-puts-b3-s-near-monopoly-in-focus",
-      "fonte": "bloomberg.com",
-      "data": "2026-08-07",
-      "resumo": "A pior interrupção de mercado já registrada na história dos mercados financeiros brasileiros levanta suspeitas sobre a posição de monopólio da B3. A interrupção, que ocorreu em agosto de 2026, foi apenas a mais recente das muitas interrupções que afetaram investidores na maior economia da América Latina nos últimos 12 meses.",
-      "sentimento": "bearish",
-      "tags": [
-        "B3",
-        "Bolsa de Valores",
-        "Mercados Financeiros",
-        "América Latina"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 162
-    },
-    {
       "titulo": "OpenAI acquires presentation startup NextSlide",
       "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
       "fonte": "techcrunch.com",
@@ -1198,39 +1214,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 51
-    },
-    {
-      "titulo": "I'm Bullish On AI But Not Every AI Stock",
-      "url": "https://seekingalpha.com/article/4933045-im-bullish-on-ai-but-not-every-ai-stock",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-07",
-      "resumo": "O autor é otimista em relação à IA, mas não em relação a todas as ações de IA. Ele destaca a importância da Nvidia como um teste para o ciclo de investimento em IA, com foco nos resultados do 2º trimestre de 2027. Além disso, ele enfatiza a capacidade das empresas de investir em infraestrutura de IA, como Amazon, Microsoft, Alphabet e Meta, que podem investir cerca de $700-725 bilhões em 2026.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Nvidia",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 81
-    },
-    {
-      "titulo": "Buy 5 Top-Ranked Growth Stocks for August to Tap Market Rally",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-growth-174200038.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-07",
-      "resumo": "A notícia destaca cinco ações de crescimento de alta classificação para agosto, incluindo a Micron Technology (MU), que está bem posicionada para atender às crescentes demandas de desempenho e eficiência dos sistemas de IA. A empresa está investindo pesadamente em tecnologias de memória de próxima geração, incluindo a HBM3E e HBM4, que estão tendo uma demanda excepcionalmente forte devido à sua velocidade e eficiência.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Micron Technology",
-        "NVIDIA",
-        "Celestica",
-        "Vertiv Holdings Co."
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 183
     },
     {
       "titulo": "Everyone's Chasing AI Data Center Stocks. This 5%-Yielding Dividend Stock Already Owns a Piece of the Boom.",
@@ -1262,37 +1245,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 129
-    },
-    {
-      "titulo": "Forget Taiwan Semiconductor: 2 AI ...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/forget-taiwan-semiconductor-2-ai-165000875.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-07",
-      "resumo": "O artigo da Motley Fool sugere que, em vez de investir em Taiwan Semiconductor Manufacturing (TSMC), os investidores devem considerar duas ações de equipamentos de semicondutores de Inteligência Artificial (IA): Applied Materials e ASML. Embora TSMC seja uma empresa crucial para a indústria de chips, a sua localização em Taiwan é um risco geopolítico. Já Applied Materials e ASML têm uma perspectiva de crescimento acelerado e uma relação P/E mais atraente.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 113
-    },
-    {
-      "titulo": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-stocks-storm-back-103001009.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-07",
-      "resumo": "As ações das empresas de tecnologia \"Big Tech\" voltaram a subir após os medos sobre a IA diminuírem e a euforia retornar. Isso ocorreu após a divulgação de relatórios de lucro que mostraram um crescimento acelerado das receitas relacionadas à IA para as empresas Microsoft e Amazon. As ações dessas empresas subiram significativamente após a divulgação dos resultados, adicionando um valor de mercado combinado de US$ 1,3 trilhão.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Big Tech",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 79
     }
   ]
 }
