@@ -1,44 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/big-tech-stocks-storm-back-103001009.html": {
-    "hash": "b4326cd31755c5673fd9f7168c3cc58c",
-    "visto_em": "2026-08-08"
-  },
-  "https://m.economictimes.com/markets/us-stocks/news/global-market-japans-nikkei-jumps-over-3-as-ai-stocks-rally-upbeat-earnings-lift-sentiment/articleshow/132893039.cms": {
-    "hash": "e33522737da34026e9deef85e3db2fcf",
-    "visto_em": "2026-08-08"
-  },
-  "https://seekingalpha.com/news/4624943-tsmc-set-to-ramp-up-3nm-wafer-starts-months-ahead-of-schedule-wedbush": {
-    "hash": "2681a5baf11d136b46457093e1176a94",
-    "visto_em": "2026-08-08"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/intel-soars-10-amd-jumps-163611976.html": {
-    "hash": "bbb8f74e1a74c3fd44ee39a19f210b34",
-    "visto_em": "2026-08-08"
-  },
-  "https://seekingalpha.com/article/4931727-oracle-cloud-erp-and-oracle-database-software-driving-growth": {
-    "hash": "ea95e427662bf9751252ef51671e2151",
-    "visto_em": "2026-08-08"
-  },
-  "https://www.investing.com/equities/soundhound-ai": {
-    "hash": "c8bd654fd8ec8bf46a00705788a197b3",
-    "visto_em": "2026-08-08"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/dell-super-micro-rally-10-172012450.html": {
-    "hash": "653fb88ca38b03002c9e7b37364b3599",
-    "visto_em": "2026-08-08"
-  },
-  "https://seekingalpha.com/article/4930565-microsoft-stock-ai-investment-driven-by-orders-already-in-hand": {
-    "hash": "aa4c253d736f14fbbf8f1a57dedc8feb",
-    "visto_em": "2026-08-08"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/forget-taiwan-semiconductor-2-ai-165000875.html": {
-    "hash": "30a3ad5868f7fdb5e9a1be50bf52740a",
-    "visto_em": "2026-08-08"
-  },
-  "https://www.reuters.com/business/ai-cloud-startup-volta-valued-24-billion-announces-10-billion-ai-partnership-2026-08-04": {
-    "hash": "f273c755a68c45c3abf20b323a5c8c1e",
-    "visto_em": "2026-08-08"
-  },
   "https://seekingalpha.com/article/4933045-im-bullish-on-ai-but-not-every-ai-stock": {
     "hash": "c880f5b42c6be7eba95604fb1a63868d",
     "visto_em": "2026-08-09"
@@ -478,5 +438,45 @@
   "https://br.investing.com/news/stock-market-news/braskem-reverte-prejuizo-e-tem-lucro-de-r333-bi-no-2o-tri-2039307": {
     "hash": "4a3f96494d86dc33072324c5d0eddb1a",
     "visto_em": "2026-08-15"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html": {
+    "hash": "282170b9a6a22cc86ad4078c8dfae9a8",
+    "visto_em": "2026-08-16"
+  },
+  "https://www.businessinsider.com/ai-infrastructure-trade-gets-a-boost-coreweave-nebius-nvidia-earnings-2026-8": {
+    "hash": "1b203805de314cf8349dab1bc1e3be0c",
+    "visto_em": "2026-08-16"
+  },
+  "https://www.benzinga.com/opinion/26/08/61224022/5-ai-stocks-with-strong-growth-to-buy-on-the-rebound": {
+    "hash": "084aeaefc2c15923255f2054b94aae62",
+    "visto_em": "2026-08-16"
+  },
+  "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html": {
+    "hash": "a1bb93bdf0991b8648b42cd688630724",
+    "visto_em": "2026-08-16"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tsmc-faces-revenue-uncertainty-2028-111631563.html": {
+    "hash": "a69764efa7901c0370014060aee9a766",
+    "visto_em": "2026-08-16"
+  },
+  "https://www.infomoney.com.br/economia/ia-nao-causa-apocalipse-no-mercado-de-trabalho-dos-eua-mas-alguns-sinais-ja-surgem": {
+    "hash": "337f234448916fb2e419cd9cb6ba499a",
+    "visto_em": "2026-08-16"
+  },
+  "https://br.investing.com/news/company-news/sandisk-apresenta-metas-financeiras-ate-o-ano-fiscal-de-2030-93CH-2038489": {
+    "hash": "805b9e250ef9f4f43ef02f7c00e26568",
+    "visto_em": "2026-08-16"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-picks-44-7-115500302.html": {
+    "hash": "a2616fc65cb20542fb87d6039cb9e186",
+    "visto_em": "2026-08-16"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-133846677.html": {
+    "hash": "0aa12302fc70815201844df08d6e356c",
+    "visto_em": "2026-08-16"
+  },
+  "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html": {
+    "hash": "e078cb2ea904c62cd9fd1fc2ad4136f8",
+    "visto_em": "2026-08-16"
   }
 }

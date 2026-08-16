@@ -1,11 +1,163 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-15",
-    "total_noticias": 88,
-    "gerado_em": "2026-08-15T10:21:47.135684"
+    "data": "2026-08-16",
+    "total_noticias": 91,
+    "gerado_em": "2026-08-16T03:45:44.929947"
   },
   "noticias": [
+    {
+      "titulo": "AMD, Intel and NVIDIA All Rally as Super Micro's Blowout ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-15",
+      "resumo": "A notícia relata que as ações de AMD, Intel e NVIDIA estão em alta devido aos resultados excepcionais da Super Micro Computer, que reforçam a demanda por infraestrutura de inteligência artificial. A Intel pode se beneficiar como fornecedora de CPUs para sistemas de servidores de AI, enquanto a AMD se estabelece como um concorrente credível à NVIDIA em silicon de data center de AI.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Intel",
+        "NVIDIA",
+        "AMD"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 74
+    },
+    {
+      "titulo": "The AI Trade Gets a Boost Ahead of Earnings Seasons' Final Boss",
+      "url": "https://www.businessinsider.com/ai-infrastructure-trade-gets-a-boost-coreweave-nebius-nvidia-earnings-2026-8",
+      "fonte": "businessinsider.com",
+      "data": "2026-08-13",
+      "resumo": "Após alguns relatórios de lucro positivos, a tendência de investimento em tecnologia de inteligência artificial (IA) está recebendo um impulso. Empresas como CoreWeave e Nebius relataram crescimento significativo de receita e backlog de pedidos, levando a um aumento de suas ações. Especialistas acreditam que a demanda por tecnologia de IA está crescendo rapidamente e que a preocupação é com a capacidade de suprimento, em vez de demanda.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Mercados"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 76
+    },
+    {
+      "titulo": "5 AI Stocks with Strong Growth to Buy on the Rebound",
+      "url": "https://www.benzinga.com/opinion/26/08/61224022/5-ai-stocks-with-strong-growth-to-buy-on-the-rebound",
+      "fonte": "benzinga.com",
+      "data": "2026-08-14",
+      "resumo": "Cinco ações de inteligência artificial com crescimento forte para comprar na recuperação. A Marvell Technology Inc. é uma das empresas que destacam-se, com um score de crescimento de 99,81 pontos. A empresa tem suas mãos em camadas de interconexão após uma infusão de capital em março de 2025, graças a um investimento de $2 bilhões da NVIDIA.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 9.0,
+      "tokens_usados": 66
+    },
+    {
+      "titulo": "CoreWeave gains 19%, Nebius surges 34% in post- ...",
+      "url": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-12",
+      "resumo": "CoreWeave e Supermicro experimentam alta de suas ações após relatórios financeiros positivos. A CoreWeave registrou um aumento de 112% em sua receita no segundo trimestre, enquanto a Supermicro viu seu valor aumentar 19% após anunciar mais de $60 bilhões em novos pedidos de hardware para centros de dados.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Data Center",
+        "Finance"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 58
+    },
+    {
+      "titulo": "TSMC Faces Revenue 'Uncertainty' In 2028-29 As AI Investments Need To Prove Their Returns, Morningstar Analyst Says",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-faces-revenue-uncertainty-2028-111631563.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "O analista da Morningstar, Rounak Jain, afirma que a TSMC enfrentará incerteza em suas receitas para 2028-29, pois as investidas em IA precisam comprovar seus retornos. A empresa está se adaptando à evolução da cadeia de suprimentos de semicondutores, com chips avançados dando lugar a outros componentes como a principal restrição do setor. A capacidade da TSMC de expandir sua oferta ao lado da demanda será crucial, pois as barreiras se deslocam para a infraestrutura de AI mais ampla.",
+      "sentimento": "bearish",
+      "tags": [
+        "TSMC",
+        "Semicondutores",
+        "IA"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 88
+    },
+    {
+      "titulo": "IA não causa “apocalipse” no mercado de trabalho dos EUA, mas alguns sinais já surgem",
+      "url": "https://www.infomoney.com.br/economia/ia-nao-causa-apocalipse-no-mercado-de-trabalho-dos-eua-mas-alguns-sinais-ja-surgem",
+      "fonte": "infomoney.com.br",
+      "data": "2026-08-15",
+      "resumo": "A inteligência artificial (IA) não está causando um \"apocalipse\" no mercado de trabalho dos EUA, mas alguns sinais de ajuste já começam a surgir, especialmente para profissionais em início de carreira. No entanto, a IA também está impulsionando contratações em setores ligados à infraestrutura tecnológica. O banco destaca que os profissionais em início de carreira podem estar funcionando como a \"linha de frente\" dos ajustes promovidos pela adoção da IA.",
+      "sentimento": "neutral",
+      "tags": [
+        "IA",
+        "Tecnologia",
+        "Mercado de Trabalho"
+      ],
+      "score_relevancia": 6.0,
+      "tokens_usados": 139
+    },
+    {
+      "titulo": "Sandisk apresenta metas financeiras até o ano fiscal de 2030",
+      "url": "https://br.investing.com/news/company-news/sandisk-apresenta-metas-financeiras-ate-o-ano-fiscal-de-2030-93CH-2038489",
+      "fonte": "br.investing.com",
+      "data": "2026-08-13",
+      "resumo": "A Sandisk apresentou metas financeiras até o ano fiscal de 2030, mas não há informações específicas sobre o conteúdo dessas metas. A notícia não está relacionada à Sandisk, mas sim apresenta uma lista de ações em destaque e notícias financeiras.",
+      "sentimento": "neutral",
+      "tags": [
+        "tecnologia",
+        "finance",
+        "mercado_acao"
+      ],
+      "score_relevancia": 2.0,
+      "tokens_usados": 49
+    },
+    {
+      "titulo": "Cathie Wood picks up $44.7 million in shares of two highly watched tech stocks. Is it too late to follow along?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-picks-44-7-115500302.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-14",
+      "resumo": "A investidora Cathie Wood adquiriu US$ 44,7 milhões em ações de duas empresas de tecnologia altamente monitoradas, TSMC e SpaceX. A compra foi financiada em parte pela venda de ações de Amazon, Alphabet e Shopify. A TSMC é a maior fabricante de chips sob encomenda do mundo e fornece chips para gigantes de IA como a Nvidia.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semiconductor",
+        "NASDAQ"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 66
+    },
+    {
+      "titulo": "ASML Holding N.V. (ASML) vs. Taiwan Semiconductor Manufacturing Company Limited (TSM): A Key Supplier Says it Can Keep Up With the AI Boom",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-133846677.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-12",
+      "resumo": "A Taiwan Semiconductor Manufacturing Company Limited (TSM) relatou seus resultados financeiros, com um aumento de 77% na lucratividade e 36% na receita no segundo trimestre. A empresa é o maior cliente da ASML Holding N.V. e enfrenta desafios de capacidade. Apesar disso, a TSMC está expandindo sua capacidade de produção de chips avançados e pacotes. A ASML é fundamental para a produção desses chips, que são essenciais para o boom da inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Semicondutores",
+        "TSMC",
+        "ASML"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 83
+    },
+    {
+      "titulo": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
+      "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-13",
+      "resumo": "A Kospi da Coreia do Sul entrou em um mercado de ações de alta em apenas mais de um mês, graças a uma recuperação acelerada impulsionada pela revivência global do comércio de inteligência artificial. A Kospi subiu mais de 4% no início da negociação, levando sua recuperação desde o baixo histórico de 30 de julho a cerca de 23%. Investidores estão voltando a apoiar ações de hardware de tecnologia, pois as últimas divulgações de lucros de gigantes tecnológicos apontam para um gasto contínuo em inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Tecnologia",
+        "Coreia do Sul"
+      ],
+      "score_relevancia": 8.0,
+      "tokens_usados": 97
+    },
     {
       "titulo": "Mad Money’s Jim Cramer Says These 6 AI Stocks are Primed to Surge",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mad-money-jim-cramer-says-192419592.html",
@@ -1066,36 +1218,6 @@
       "tokens_usados": 106
     },
     {
-      "titulo": "Innodata Q2 Earnings Call Focuses on AI Research and Diversification",
-      "url": "https://finance.yahoo.com/technology/ai/articles/innodata-q2-earnings-call-focuses-140000234.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-08",
-      "resumo": "A Innodata Inc. (INOD) apresentou resultados financeiros para o segundo trimestre de 2026, destacando a diversificação de clientes, a expansão de capacidades de pesquisa em IA e uma abordagem disciplinada para a orientação de receita. O CEO Jack Abuhoff também anunciou uma transição planejada para a posição de CEO à medida que a empresa cresce.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Diversificação"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 64
-    },
-    {
-      "titulo": "Atlassian Soars 34%, Twilio Leaps 27%, Cloudflare Advances 9% in Software Stock Surge",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-soars-34-twilio-leaps-145426222.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-08",
-      "resumo": "A Atlassian, Twilio e Cloudflare lideram o surto no setor de software, com a Atlassian subindo 34%, a Twilio 27% e a Cloudflare 9%. A expectativa de aumento de taxas de juros diminuiu, tornando os investimentos em tecnologia mais atraentes. As empresas estão beneficiando de catalisadores específicos, como crescimento de nuvem e oportunidades de IA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Software",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 64
-    },
-    {
       "titulo": "TSMC Revenue Surges as AI Chip Demand Hold",
       "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-surges-ai-chip-130445040.html",
       "fonte": "finance.yahoo.com",
@@ -1186,21 +1308,6 @@
       "tokens_usados": 76
     },
     {
-      "titulo": "Palantir Surges 10%, UiPath Rises 7%, C3.ai Gains 5% as Agentic AI Stocks Rally Together",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-surges-10-uipath-rises-181234941.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-08",
-      "resumo": "As ações de Palantir, UiPath e C3.ai estão em alta, com Palantir subindo 10%, UiPath aumentando 7% e C3.ai ganhando 5%. Essa alta é vista como uma confirmação da teoria da soberania-AI, que sugere que as empresas que controlam seus próprios dados e inteligência artificial têm um valor mais alto.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Agente",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 59
-    },
-    {
       "titulo": "AI trade gets crowded as India stages a comeback: What fund flows reveal - The Economic Times",
       "url": "https://m.economictimes.com/markets/stocks/news/ai-trade-gets-crowded-as-india-stages-a-comeback-what-fund-flows-reveal/articleshow/133062811.cms",
       "fonte": "m.economictimes.com",
@@ -1214,21 +1321,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 81
-    },
-    {
-      "titulo": "AMD Advances AI Strategy With Taalas Acquisition",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-amd-advances-ai-113923975.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-08",
-      "resumo": "A AMD anunciou a aquisição da Taalas, especialista em silício de inferência de inteligência artificial, visando melhorar suas soluções de computação no mercado dinâmico de inferência de inteligência artificial. A tecnologia da Taalas, que otimiza fluxos de dados de inferência para reduzir gargalos de computação e memória, fortalecerá o plano de ação de inteligência artificial da AMD melhorando o desempenho e a eficiência da inferência. A aquisição permitirá que a AMD integre as soluções da Taalas com suas plataformas de hardware e software existentes.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 93
     },
     {
       "titulo": "Earnings beats ease concerns over record U.S. stock rally",
@@ -1289,52 +1381,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 60
-    },
-    {
-      "titulo": "OpenAI acquires presentation startup NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
-      "fonte": "techcrunch.com",
-      "data": "2026-08-08",
-      "resumo": "A OpenAI adquiriu a startup de apresentações NextSlide, com o objetivo de continuar a missão de tornar a comunicação visual mais acessível e ajudar mais pessoas a expressar suas ideias de forma clara. A equipe da NextSlide agora está trabalhando no ChatGPT.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Startups",
-        "OpenAI"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 51
-    },
-    {
-      "titulo": "Everyone's Chasing AI Data Center Stocks. This 5%-Yielding Dividend Stock Already Owns a Piece of the Boom.",
-      "url": "https://finance.yahoo.com/real-estate/articles/everyones-chasing-ai-data-center-142000779.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-08",
-      "resumo": "A Realty Income, uma REIT, recentemente assinou um acordo de parceria com a Cloud Capital para investir em centros de dados hiperescaláveis. A parceria inicialmente terá ativos avaliados em mais de $6 bilhões, com a Realty Income investindo até $1,4 bilhão em uma carteira de três ativos em Virgínia do Norte. Isso permitirá à empresa investir em futuros desenvolvimentos e aquisições de centros de dados em EUA e Europa.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Data Center",
-        "REIT"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 151
-    },
-    {
-      "titulo": "How Will Intel Really Be Able to Beat TSMC in The Next Year?",
-      "url": "https://finance.yahoo.com/technology/articles/intel-really-able-beat-tsmc-044653110.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-08",
-      "resumo": "A Intel busca superar a TSMC no próximo ano, mas enfrenta desafios significativos. A TSMC obteve $40 bilhões em receita com margem bruta de 67,7%, enquanto a Intel registrou $16 bilhões, mas seu unidade de fundição perdeu $2,1 bilhões. A Intel depende de investimentos de NVIDIA e do CHIPS Act para competir com a TSMC.",
-      "sentimento": "bearish",
-      "tags": [
-        "Intel",
-        "TSMC",
-        "Semiconductor",
-        "AI"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 129
     }
   ]
 }
