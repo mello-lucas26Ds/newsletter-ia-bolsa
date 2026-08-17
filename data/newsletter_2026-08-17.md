@@ -1,137 +1,158 @@
 # Newsletter IA Bolsa — 2026-08-17
 
-**Gerado em:** 17/08/2026 03:47
-**Total:** 10 noticias
+**Gerado em:** 17/08/2026 10:31
+**Total:** 7 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom
+## 1. 3 Under-the-Radar Chip Stocks Wall Street Is Sleeping On in August
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** Semicondutores, Inteligência Artificial, Tecnologia
+**Tags:** AI, Market
 
-A empresa Taiwan Semiconductor Manufacturing (TSMC) pode ser o grande vencedor do boom histórico de semicondutores e inteligência artificial. Com um preço de ação atual de cerca de $420, a empresa pode subir para $848, quase o dobro do preço atual, devido ao crescimento de suas receitas e lucros. A empresa é significativamente mais barata do que a AMD, com um múltiplo de lucro de 63, e tem um múltiplo de lucro de 30, quase igual ao de Nvidia.
+Claim the 24/7 Wall St.  Rate →
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-chip-134300878.html)
+The bull case is the Navitas 2. 0 pivot.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/articles/3-under-radar-chip-stocks-110026805.html)
 
 ---
 
-## 2. S&P 500 notches record-high close as rate-hike worries ease
+## 2. 5 big analyst AI moves: Bullish on memory names; Apple and Cisco downgraded By Investing.com
 
-**Fonte:** reuters.com  
+**Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Mercados de Ações
+**Tags:** AI, Market
 
-O S&P 500 atingiu um novo recorde de fechamento, enquanto as preocupações com a alta de juros diminuem. A robusta performance de várias setores contribuiu para o aumento dos preços das ações. A Nasdaq, que havia caído mais de 10% abaixo de seus recordes históricos, recuperou-se após a divulgação de resultados sólidos de empresas de hiperscalers de IA e tecnologia.
+By Fawad Razaqz. 
 
-[Ler noticia completa](https://www.reuters.com/business/retail-consumer/wall-st-futures-tick-higher-oil-retreats-ahead-inflation-data-2026-08-13)
+Aug 14, 2026
+
+Image 23
+
+Image 24
+
+The AI Compute Boom Isn’t Peaking — It’s Just Getting Started
+
+By Ivana Delevs. 
+
+Aug 15, 2026
+
+Image 25
+
+Image 26
+
+Hedge Fund at Home: How AI Is Rewiring Retail Trading and Testing Its Limits
+
+By Charles-Henr.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-bullish-on-memory-names-apple-and-cisco-downgraded-4861817)
 
 ---
 
-## 3. AI Money Moves Put These Five Stocks In Spotlight Last Week: NVDA, INTC, ORCL, AMD, SNDK
+## 3. 4 Nuclear Stocks Riding the AI Power Boom Into 2027 and Beyond
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
+**Tags:** AI, Market
 
-A semana passada viu uma explosão de atividade relacionada à inteligência artificial (IA) nos mercados de tecnologia, com fabricantes de chips aumentando sua capacidade, empresas levantando bilhões para financiar infraestrutura e empresas de memória redesenhando suas estratégias. A Nvidia expandiu o papel de Wall Street no financiamento de infraestrutura de IA, enquanto a Intel, a AMD e a SanDisk se prepararam para a demanda crescente.
+## Constellation Energy dominates
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ai-money-moves-put-five-014819017.html)
+On the opposite end of the risk spectrum is Constellation Energy (NASDAQ: CEG), which is already the largest owner and operator of nuclear generation in the U. S.  The company has long-term power purchase agreements in place with hyperscalers such as Meta and Microsoft.
+
+[Ler noticia completa](https://finance.yahoo.com/energy/articles/4-nuclear-stocks-riding-ai-162500400.html)
 
 ---
 
-## 4. At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl
+## 4. Is Alphabet signaling a shift in its AI strategy?
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Mercado de Ações
+**Tags:** AI, Market
 
-A indústria de tecnologia, liderada pelo desenvolvimento de inteligência artificial (IA), continua a impulsionar o mercado de ações, com a S&P 500 prevendo um crescimento de 32% nos lucros no segundo trimestre, em comparação com 23% esperado no início da temporada de resultados. A seção de tecnologia da S&P 500, que inclui fabricantes de chips como a Nvidia e a Broadcom, está em ritmo para relatar um crescimento de 71% nos lucros no segundo trimestre.
+-0. 06%
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html)
+GOOGL
 
----
+345. 90
 
-## 5. Applied Digital Corporation (APLD)
+-0.
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 7.0/10  
-**Tags:** AI, Tecnologia, Mercado de Ações
-
-A Applied Digital Corporation (APLD) experimentou um aumento de 5% recentemente devido a fortes resultados de peers de IA e crescimento de receita de mais de 400% ano a ano. No entanto, riscos significativos persistem, incluindo altos níveis de dívida e concentração de clientes, o que levou a cautela entre analistas.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/APLD)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/is-alphabet-signaling-a-shift-in-its-ai-strategy-4861790)
 
 ---
 
-## 6. Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over
+## 5. AI spending is surging, but profit gains remain elusive, Goldman Sachs says (XLK:NYSEARCA)
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, NVIDIA
+**Tags:** AI, Market
 
-De acordo com uma previsão, as ações de três empresas de Inteligência Artificial (IA) podem subir mais de 30% até o final de 2026. A Nvidia, em particular, pode se beneficiar de sua liderança no mercado de computação para IA e da lançamento de sua nova arquitetura de chip, Vera Rubin. As ações de Sandisk e Micron também podem se beneficiar de uma escassez de suprimentos de chips de memória.
+## Investing Groups
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/prediction-3-artificial-intelligence-ai-120500736.html)
+## Portfolios
+
+## Find & Compare
+
+## Subscriptions
+
+# AI spending is surging, but profit gains remain elusive, Goldman Sachs says
+
+Money Exchange Currency Graph Stock Chart Stock Market Digital FUI
+
+Just\_Super
+
+Corporate spending on artificial intelligence is accelerating sharply, but the technology has yet to produce a meaningful improvement in earnings for most companies, according to Goldman Sachs strategist Ben Snider. 
+
+Only 2% of S&P 500 (SP500) companies quantified AI’s
+
+## Quick Insights
+
+### How is AI spending impacting S&P 500 company earnings. 
+
+### Why are investors favoring AI infrastructure stocks over AI adopters.
+
+[Ler noticia completa](https://seekingalpha.com/news/4633598-ai-spending-is-surging-but-profit-gains-remain-elusive-goldman-sachs-says)
 
 ---
 
-## 7. Cerebras slumps as mixed quarterly results test AI growth narrative
+## 6. Morgan Stanley flags four catalysts for SpaceX stock through year-end
 
-**Fonte:** reuters.com  
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+108. 72
+
++0. 14
+
++0.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/morgan-stanley-flags-four-catalysts-for-spacex-stock-through-yearend-4861777)
+
+---
+
+## 7. Exclusive | DeepMind’s Hassabis Pitched AI-Oversight Body Before Shake-Up
+
+**Fonte:** wsj.com  
 **Sentimento:** 🔴 BEARISH  
-**Relevancia:** 4.0/10  
-**Tags:** AI, Cerebras, Tecnologia
-
-A Cerebras apresentou resultados mistos em seu segundo relatório financeiro como empresa pública, com sua receita de hardware, incluindo chips de IA, caindo para $54,1 milhões em comparação com $70,3 milhões no ano anterior. A empresa também apresentou uma margem bruta ajustada menor, de 40,6% em comparação com 46,5% no trimestre anterior. Apesar disso, a receita da empresa de nuvem quase quadruplicou para $126 milhões.
-
-[Ler noticia completa](https://www.reuters.com/business/cerebras-slumps-mixed-quarterly-results-test-ai-growth-narrative-2026-08-13)
-
----
-
-## 8. Kulicke and Soffa, AMD, Intel, and Nvidia Shares Are Soaring, What You Need To Know
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
-**Tags:** AI, Semiconductor, NASDAQ
+**Tags:** AI, Market
 
-As ações da Kulicke and Soffa, AMD, Intel e Nvidia estão subindo após uma série de relatórios de lucro positivos e previsões otimistas da indústria, indicando uma demanda robusta e sustentada por tecnologia de inteligência artificial. A expansão da capacidade de fabricação de chips na China e o impulso para a auto-suficiência tecnológica levaram a preocupações sobre pressão de preços e perda de participação de mercado para fabricantes estabelecidos. No entanto, as ações dessas empresas estão subindo, o que pode ser um sinal de que a demanda por tecnologia de IA está forte.
+### Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/kulicke-soffa-amd-intel-nvidia-194100344.html)
+### Japan to Buy Nvidia Chips to Power Its AI Push
 
----
+### Oil Prices Drop After Iran Cleared to Sell Crude in Dollars [. ] Hassabis, who co-founded Google DeepMind and is considered a pioneer in the field of machine learning, has been spending increasing amounts of his time advancing the idea of an organization that would codify safety guardrails and best practices for developing artificial general intelligence, or AGI, these people said.  In discussions with peers, he has likened the proposed entity to the International Atomic Energy Agency, a nongovernmental watchdog that promotes cooperation on nuclear energy.
 
-## 9. Stripe will reportedly acquire AI gateway startup OpenRouter ...
-
-**Fonte:** techcrunch.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 8.0/10  
-**Tags:** AI, Startups, Fintech
-
-Stripe está em negociações para adquirir a startup de gateway de IA OpenRouter por mais de 7 bilhões de dólares. A empresa não confirmou a notícia, mas a Bloomberg afirmou que as discussões levaram a um acordo. A OpenRouter é uma startup que desenvolve tecnologia de gateway de IA.
-
-[Ler noticia completa](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b)
-
----
-
-## 10. Stripe Nears Deal to Buy AI Firm OpenRouter for Over $7 Billion
-
-**Fonte:** bloomberg.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Tecnologia, Finanças
-
-Stripe está perto de fechar um acordo para adquirir a empresa de inteligência artificial OpenRouter por mais de 7 bilhões de dólares. A compra visa dar à Stripe uma posição mais forte no setor de inteligência artificial em crescimento rápido. A OpenRouter ajuda as empresas a mudar entre modelos de inteligência artificial e oferece acesso a centenas de modelos, com o objetivo de matching desenvolvedores com as opções mais eficientes e acessíveis.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
+[Ler noticia completa](https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71)
 
 ---
