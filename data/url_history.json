@@ -1,44 +1,4 @@
 {
-  "https://seekingalpha.com/article/4933045-im-bullish-on-ai-but-not-every-ai-stock": {
-    "hash": "c880f5b42c6be7eba95604fb1a63868d",
-    "visto_em": "2026-08-09"
-  },
-  "https://www.google.com/goto?url=CAESmgEB7keqTXt0M-TmSwg7SjWEzCTiC7YNp1o1ERR9yVOqka5sA-Q9HW8eLvgZ7rr8yrC4SLfqBOffH31H6gXxImjT6J1EAa_ewoylsIPwzHTx2GD64p5B2iazYr07JnulSHcsrq2kLsagKFcivXhQXVUqM6mKJgQJOh7HY1UBpOUu_7jJll9KXg-YB7pmOvy1w43fuqJgT0X8gBXY": {
-    "hash": "b508ddcfa309936c649dfc26c1188ab7",
-    "visto_em": "2026-08-09"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-growth-174200038.html": {
-    "hash": "c8e0cf90da64cbfa16a84e7cfb614261",
-    "visto_em": "2026-08-09"
-  },
-  "https://finance.yahoo.com/real-estate/articles/everyones-chasing-ai-data-center-142000779.html": {
-    "hash": "01ffed0e5f15282e9889a2bd5cb1c27d",
-    "visto_em": "2026-08-09"
-  },
-  "https://finance.yahoo.com/technology/articles/intel-really-able-beat-tsmc-044653110.html": {
-    "hash": "6448796028170fd1627cd18d80137aa6",
-    "visto_em": "2026-08-09"
-  },
-  "https://br.investing.com/news/stock-market-news/alta-de-34-no-mes-acao-de-materiais-selecionada-por-ia-dispara-22-apos-resultados-solidos-2030641": {
-    "hash": "666a8cde2774f5f62f019cc2e4130d49",
-    "visto_em": "2026-08-09"
-  },
-  "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html": {
-    "hash": "eafb72fe6e407e904f65cf7dcaf76e27",
-    "visto_em": "2026-08-09"
-  },
-  "https://www.investing.com/equities/iguatemi-unt": {
-    "hash": "d5383fcf8684eb74e275280b77f074ed",
-    "visto_em": "2026-08-09"
-  },
-  "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide": {
-    "hash": "c67e667e1465efea5ce7384c618ebfd3",
-    "visto_em": "2026-08-09"
-  },
-  "https://za.investing.com/news/company-news/us-foods-q2-2026-slides-record-ebitda-aidriven-growth-93CH-4413894": {
-    "hash": "d41e4ee6573fc0b46c7077304d3ec9e4",
-    "visto_em": "2026-08-09"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/earnings-beats-ease-concerns-over-070820398.html": {
     "hash": "59d66a75f2fcf08b279c1b050529e00e",
     "visto_em": "2026-08-10"
@@ -502,5 +462,45 @@
   "https://finance.yahoo.com/markets/stocks/articles/applied-materials-forecast-gets-tepid-202405583.html": {
     "hash": "bcd667223810a8a9825bc016863b875d",
     "visto_em": "2026-08-16"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-chip-134300878.html": {
+    "hash": "913c5313f444bd15a270d0135a68afd2",
+    "visto_em": "2026-08-17"
+  },
+  "https://www.reuters.com/business/retail-consumer/wall-st-futures-tick-higher-oil-retreats-ahead-inflation-data-2026-08-13": {
+    "hash": "d6c4b0636d50109bfb0ff6192e794d65",
+    "visto_em": "2026-08-17"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/ai-money-moves-put-five-014819017.html": {
+    "hash": "533d7269f9dda571fc12cd12ee0f2640",
+    "visto_em": "2026-08-17"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html": {
+    "hash": "5656dce8060befeebaf0dc841e2b3060",
+    "visto_em": "2026-08-17"
+  },
+  "https://finance.yahoo.com/quote/APLD": {
+    "hash": "a83d2ff42ccf278aaf239d00de92b0ff",
+    "visto_em": "2026-08-17"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/prediction-3-artificial-intelligence-ai-120500736.html": {
+    "hash": "235711c9a71d43ac8e0d3d45a12450c8",
+    "visto_em": "2026-08-17"
+  },
+  "https://www.reuters.com/business/cerebras-slumps-mixed-quarterly-results-test-ai-growth-narrative-2026-08-13": {
+    "hash": "a91d355367578766ace1d7ba9a284b6c",
+    "visto_em": "2026-08-17"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/kulicke-soffa-amd-intel-nvidia-194100344.html": {
+    "hash": "c41daed829b958b7f747b79d709d79d1",
+    "visto_em": "2026-08-17"
+  },
+  "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b": {
+    "hash": "f246d3f151417bd6809310d60454d049",
+    "visto_em": "2026-08-17"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion": {
+    "hash": "3fc1692648b4d6bad6ce5c8218fed2c3",
+    "visto_em": "2026-08-17"
   }
 }
