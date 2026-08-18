@@ -1,11 +1,137 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-17",
-    "total_noticias": 103,
-    "gerado_em": "2026-08-17T10:31:09.312781"
+    "data": "2026-08-18",
+    "total_noticias": 97,
+    "gerado_em": "2026-08-18T03:41:11.819260"
   },
   "noticias": [
+    {
+      "titulo": "S&P 500, Nasdaq futures rise on tech boost",
+      "url": "https://www.reuters.com/business/nasdaq-futures-gain-tech-stocks-climb-2026-08-17",
+      "fonte": "reuters.com",
+      "data": "2026-08-17",
+      "resumo": "Tech stocks, particularly chipmakers, have come ​under pressure in recent months as investors grew concerned about the payoff from companies' heavy AI investments.  ⁠A solid second-quarter earnings season also helped push the tech-heavy Nasdaq (. IXIC), opens new tab closer to record highs.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Semiconductors Stock Performance - Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/semiconductors",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-17",
+      "resumo": "| Name | Last Price | 1Y Target Est.  | Market Weight | Market Cap | Day Change % | YTD Return | Avg.  Analyst Rating |\n ---  ---  ---  --- |\n| NVDA  NVIDIA Corporation | 226.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Here’s What Jim Cramer Is Saying About Semis in August",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-saying-semis-august-120036665.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-15",
+      "resumo": "## NVIDIA: Still the Center of Gravity\n\nNVIDIA (NASDAQ:NVDA) delivered $81. 61 billion in Q1 FY2027 revenue, up 85. 2% year over year, with Data Center alone at $75.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Big investors hunt for tomorrow's AI winners as capex angst fades",
+      "url": "https://www.reuters.com/business/big-investors-hunt-tomorrows-ai-winners-capex-angst-fades-2026-08-17",
+      "fonte": "reuters.com",
+      "data": "2026-08-17",
+      "resumo": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - The rally in AI-linked stocks that marked the latest earnings season has shifted the focus of the AI investment story from whether Big Tech's spending spree will pay off to ​the kind of companies that will deliver returns over the longer term, investors say. \n\nResults Microsoft(MSFT. O), opens new tab and Amazon(AMZN.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says",
+      "url": "https://www.reuters.com/legal/transactional/alibaba-sell-lingxi-games-more-than-2-billion-deal-source-says-2026-08-17",
+      "fonte": "reuters.com",
+      "data": "2026-08-17",
+      "resumo": "Suggested Topics:\n   Artificial Intelligence\n   Mergers & Acquisitions\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n\n   \n\n## Read Next / Editor's Picks\n\n   11 mins agoWorld categoryEXCLUSIVE  US to tell partners they must pick sides in AI race with China , opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day.  Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.  [.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Hapvida (HAPV3) despenca mais de 30% e Embraer (EMBJ3) destoa de cautela local; veja os destaques do Ibovespa na semana – Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-33-lils",
+      "fonte": "moneytimes.com.br",
+      "data": "2026-08-15",
+      "resumo": "### Veja as maiores quedas da semana:\n\n|  |  |  |\n --- \n| CÓDIGO | NOME | VARIAÇÃO SEMANAL |\n| HAPV3 | Hapvida ON | -37,51% |\n| BRKM5 | Braskem PN | -17,00% |\n| RADL3 | RD Saúde ON | -13,30% |\n| CEAB3 | C&A Modas ON | -12,85% |\n| AZZA3 | Azzas 2154 | -12,58% |\n| USIM5 | Usiminas PNA | -11,61% |\n| SBSP3 | Sabesp ON | -11,53% |\n| RENT3 | Localiza ON | -11,40% |\n| MGLU3 | Magazine Luiza ON | -11,14% |\n| CSMG3 | Copasa ON | -9,90% |\n\nFonte: B3\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCompartilhar\n\nWhatsAppTwitterLinkedinFacebookTelegram\n\nLiliane de Lima\n\nPor  Liliane de Lima\n\nRepórter [. ] |  |  |  |\n --- \n| CÓDIGO | NOME | VARIAÇÃO SEMANAL |\n| EMBJ3 | Embraer ON | 7,03% |\n| MRVE3 | MRV ON | 6,73% |\n| UGPA3 | Ultrapar ON | 3,16% |\n| PETR4 | Petrobras PN | 2,99% |\n| RECV3 | PetroReconcavo ON | 2,74% |\n| PETR3 | Petrobras ON | 2,50% |\n| SANB11 | Santander Brasil units | 2,25% |\n| PRIO3 | PRIO ON | 2,05% |\n| MBRF3 | MBRF ON | 1,80% |\n| CMIN3 | CSN Mineração ON | 1,65% |\n\nFonte: B3\n\nJá a ponta negativa do Ibovespa foi liderada por Hapvida (HAPV3) com a reação negativa também ao balanço do segundo trimestre (2T26). \n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nNo período, a companhia registrou lucro líquido ajustado de R$ 12,5 milhões, tombo de 95,8% ante o resultado registrado um ano antes.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nebius' 366% Revenue Growth And Other Top AI Stocks ...",
+      "url": "https://seekingalpha.com/article/4936951-nebius-366-percent-revenue-growth-and-other-top-ai-stocks-with-short-squeeze-potential",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-17",
+      "resumo": "Hand holding magnifying glass analyzing digital financial stock chart.  Data analysis, investment research, trading strategy, and financial market concept on blue background.  business stock market.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Ibovespa deve ficar atrás de pares emergentes em 2026 — e risco político está por trás disso, diz consultoria – Money Times",
+      "url": "https://www.moneytimes.com.br/ibovespa-deve-ficar-atras-de-pares-emergentes-em-2026-e-risco-politico-esta-por-tras-disso-diz-consultoria-apsa",
+      "fonte": "moneytimes.com.br",
+      "data": "2026-08-16",
+      "resumo": "Além disso, a consultoria considera que a retomada da alta das ações globais de tecnologia provavelmente contribuiu para a baixa dos ativos brasileiros, com investidores voltando a direcionar recursos para o setor de inteligência artificial. \n\n## O que ainda pode favorecer o Brasil\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nA Capital Economics vê como um fator positivo para os ativos brasileiros a possibilidade de mais cortes de juros pelo Banco Central (BC) do que atualmente precificado pelo mercado, em cenário de continuidade do processo desinflacionário..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
+      "url": "https://www.reuters.com/legal/government/institutional-investors-reveal-cautious-approach-tech-favorites-us-quarterly-13f-2026-08-14",
+      "fonte": "reuters.com",
+      "data": "2026-08-14",
+      "resumo": "During the second quarter, AI-related stocks ranging from ​memory chips to data centers \"moved from (being) a fundamental growth story into a highly leveraged momentum trade,\" said Bruno Schneller, managing partner at multi-family office Erlen ​Capital Management, which invests in ⁠hedge funds. \n\nThe July selloff in many of these names, Schneller added, \"was less a rejection of the long-term AI thesis and more a classic crowded-trade unwind amplified by leverage and inadequate risk controls. \"\n\nDespite the spike in crude oil prices during the second quarter, institutional investors in aggregate showed little affection for the sector, with 40.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "3 Under-the-Radar Chip Stocks Wall Street Is Sleeping On in August",
       "url": "https://finance.yahoo.com/technology/articles/3-under-radar-chip-stocks-110026805.html",
@@ -817,21 +943,6 @@
       "tokens_usados": 81
     },
     {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.19%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-019-4850239",
-      "fonte": "investing.com",
-      "data": "2026-08-10",
-      "resumo": "As ações brasileiras fecharam em baixa no final do dia, com o Bovespa caindo 0.19%. As piores desempenhadoras da sessão foram Cosan SA Industria e Comercio, Grupo Vamos SA e YDUQS Participacoes SA, que caíram 5.99%, 5.52% e 5.28%, respectivamente.",
-      "sentimento": "bearish",
-      "tags": [
-        "Bovespa",
-        "Brasil",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 51
-    },
-    {
       "titulo": "Azure, Foundries, and Accelerators: Grading the AI ...",
       "url": "https://finance.yahoo.com/technology/ai/articles/azure-foundries-accelerators-grading-ai-170031235.html",
       "fonte": "finance.yahoo.com",
@@ -907,22 +1018,6 @@
       "tokens_usados": 71
     },
     {
-      "titulo": "Cotações em Tempo Real: Bolsa de Valores, Ações, Criptomoedas, FIIs – Money Times",
-      "url": "https://www.moneytimes.com.br/cotacoes",
-      "fonte": "moneytimes.com.br",
-      "data": "2026-08-10",
-      "resumo": "O B3 lançou o índice Small Cap Smart Rebal B3, que visa oferecer uma opção de investimento para os pequenos negócios. Além disso, a XP Asset destaca os ETFs como um produto ideal para investidores, devido à sua flexibilidade e diversificação. A Itaú é considerada a ação mais recomendada para ter na carteira em agosto, segundo 14 analistas.",
-      "sentimento": "bullish",
-      "tags": [
-        "B3",
-        "ETFs",
-        "Investimentos",
-        "Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 68
-    },
-    {
       "titulo": "Itaúsa posts record recurring net income of R$8.8 billion in 1H26, up 12%",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ita-sa-posts-record-recurring-140000466.html",
       "fonte": "finance.yahoo.com",
@@ -951,21 +1046,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 68
-    },
-    {
-      "titulo": "Patria Investments Limited (PAX) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/PAX",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-10",
-      "resumo": "Patria Investments Limited é uma empresa de investimentos em mercados privados que opera em várias áreas, incluindo private equity, venture capital e asset management. A empresa busca investir em setores diversos, como agribusiness, saúde, logística e tecnologia, com foco em América Latina, Europa e Estados Unidos. A empresa busca investir entre $38,48 milhões e $72,14 milhões por transação e busca uma participação majoritária ou minoritária em suas empresas de investimento.",
-      "sentimento": "neutral",
-      "tags": [
-        "Private Equity",
-        "Venture Capital",
-        "Asset Management"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 82
     },
     {
       "titulo": "TSM Taiwan Semiconductor Manufacturing Company ...",
@@ -1103,21 +1183,6 @@
       ],
       "score_relevancia": 9.0,
       "tokens_usados": 67
-    },
-    {
-      "titulo": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-jpmorgan-oppenheimer-name-3-205320683.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-10",
-      "resumo": "Analistas da BofA, JPMorgan e Oppenheimer nomeiam suas 3 ações favoritas em IA, incluindo a Lam Research, que tem um alvo de preço de $400. A empresa de equipamentos de semicondutores superou as expectativas do quarto trimestre e os analistas esperam que a expansão de chips AI beneficie a empresa. Além disso, a Amazon e a Palantir Technologies também foram nomeadas como ações favoritas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 73
     },
     {
       "titulo": "SK Hynix Stock Jumps 5.5% as AI Memory Rally Reignites",
@@ -1315,21 +1380,6 @@
       "tokens_usados": 62
     },
     {
-      "titulo": "Investing In The AI Panic Rally With AIQ (NASDAQ:AIQ) | Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4933961-investing-in-the-ai-panic-rally-with-aiq",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-10",
-      "resumo": "O autor analisa a tendência do mercado de inteligência artificial (IA) e sugere que a onda de compra está entrando em uma fase mais discriminatória. Ele recomenda investir em ações de empresas como AIQ (NASDAQ:AIQ), que está relacionada ao setor de IA. O autor também destaca a importância de estar preparado para as flutuações do mercado e aproveitar as oportunidades que elas oferecem.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "NASDAQ",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 72
-    },
-    {
       "titulo": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
       "url": "https://finance.yahoo.com/markets/stocks/articles/12-nasdaq-stocks-doubled-2026-052500188.html",
       "fonte": "finance.yahoo.com",
@@ -1358,21 +1408,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 86
-    },
-    {
-      "titulo": "Nvidia and Wall Street giants ink $500B AI infrastructure mega-deal",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-and-wall-street-giants-plan-500b-ai-funding-deal-ft-reports-4849933",
-      "fonte": "investing.com",
-      "data": "2026-08-10",
-      "resumo": "A Nvidia está em negociações para criar um pacote de financiamento de infraestrutura de IA de US$ 500 bilhões em parceria com alguns dos principais bancos de investimento da Wall Street. Embora o escopo seja monumental, as ações da empresa caíram cerca de 3,1% nas negociações ativas de segunda-feira.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Nvidia",
-        "Wall Street"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 59
     },
     {
       "titulo": "Itaúsa 1H26 slides: record results, 22% profit growth despite headwinds",
@@ -1418,142 +1453,6 @@
       ],
       "score_relevancia": 8.0,
       "tokens_usados": 87
-    },
-    {
-      "titulo": "We told you first: these AI-picked stocks are up +48% and +28% already By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/we-told-you-first-these-aipicked-stocks-are-up-48-and-28-already-4847758",
-      "fonte": "investing.com",
-      "data": "2026-08-10",
-      "resumo": "A empresa Diodes (NASDAQGS:DIOD) alcançou um aumento de 27,76% em agosto, enquanto a Himax (NASDAQGS:HIMX) e a Insight Enterprises (NASDAQGS:NSIT) também apresentaram ganhos significativos, de 16,51% e 15,81%, respectivamente. Esses resultados são atribuídos à demanda acelerada por tecnologia de IA e à eficiência operacional. Além disso, a Insight Enterprises aumentou sua previsão de lucro anual devido ao aumento da demanda por infraestrutura de nuvem e tecnologia de IA pronta.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semicondutores",
-        "NASDAQ"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 78
-    },
-    {
-      "titulo": "Corporate earnings soared in Q2, with AI as the 'growth engine': Chart of the Day",
-      "url": "https://finance.yahoo.com/markets/article/corporate-earnings-soared-in-q2-with-ai-as-the-growth-engine-chart-of-the-day-173507179.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-10",
-      "resumo": "A segunda quarta-feira viu um crescimento amplo das receitas, com 10 dos 11 setores em ritmo de crescimento positivo ano a ano, de acordo com a BofA. No entanto, o setor de IA permaneceu como o principal motor de crescimento do índice. As empresas de IA registraram um crescimento de 28% na média, enquanto as empresas não relacionadas à IA registraram um crescimento de apenas 12%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 134
-    },
-    {
-      "titulo": "The “Set It & Forget It” Stocks I'd Want to Own",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/set-forget-stocks-d-want-170014127.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-10",
-      "resumo": "A reportagem destaca a oferta de ações gratuitas de até $3.000 para contas do SoFi Active Invest. Além disso, a Equinix é apresentada como uma das empresas que podem gerar renda passiva significativa. A empresa opera o maior pé-direito neutro de interconexão do mundo e tem uma história de crescimento de dividendos.",
-      "sentimento": "bullish",
-      "tags": [
-        "Equinix",
-        "NASDAQ",
-        "Dividendos",
-        "Renda Passiva"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 63
-    },
-    {
-      "titulo": "DDOG Q2 Deep Dive: Market Reacts Negatively Despite Accelerating Core Growth and AI Momentum",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ddog-q2-deep-dive-market-010922675.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-10",
-      "resumo": "A Datadog relatou um crescimento acelerado em produtos de observabilidade e segurança de IA, mas o mercado reagiu negativamente após o anúncio de resultados financeiros. A empresa espera uma adoção sustentada desses produtos e uma resposta positiva dos clientes às novas funcionalidades de embalagem e gestão de custos. A Datadog está focada em conquistar grandes clientes e expandir sua presença no setor federal.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Datadog",
-        "NASDAQ"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 106
-    },
-    {
-      "titulo": "TSMC Revenue Surges as AI Chip Demand Hold",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-surges-ai-chip-130445040.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-10",
-      "resumo": "A TSMC, uma empresa de semicondutores, registrou uma receita de NT$467,58 bilhões em julho, o que representa um aumento de 44,7% em relação ao mesmo período do ano anterior. Isso é visto como um sinal positivo para a demanda de chips de inteligência artificial (IA). A empresa é fundamental para a produção de chips de IA para empresas como a Nvidia e a Google.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "TAIWAN"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 73
-    },
-    {
-      "titulo": "NVIDIA Corporation (NVDA)",
-      "url": "https://finance.yahoo.com/quote/NVDA",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-10",
-      "resumo": "A NVIDIA Corporation (NVDA) está sendo acompanhada em seu desempenho financeiro, com um preço atual de $217.55 e uma variação de -2,86% em relação ao fechamento anterior. A empresa é líder no setor de semicondutores e tecnologia, com uma capitalização de mercado de $5,269 trilhões. Além disso, a empresa tem uma série de metas de preço e recomendações de analistas, incluindo uma meta de preço média de $302,83 e uma recomendação de \"Strong Buy\" de alguns analistas.",
-      "sentimento": "bullish",
-      "tags": [
-        "Semicondutores",
-        "Tecnologia",
-        "NVIDIA"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 86
-    },
-    {
-      "titulo": "TSMC sees 45% sales surge as AI demand stays strong - CNBC",
-      "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-10",
-      "resumo": "A TSMC, a maior fabricante de chips do mundo, relatou uma grande aumento nas vendas em julho, com um crescimento de 44,7% em comparação com o mesmo período do ano passado. A demanda por chips relacionados à inteligência artificial (IA) continua forte, o que é um sinal positivo para o setor. A empresa espera um aumento de 40% na receita em dólares americanos para o ano de 2026.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "TAIWAN"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 77
-    },
-    {
-      "titulo": "SoundHound AI, Inc. (SOUN)",
-      "url": "https://finance.yahoo.com/quote/SOUN",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-10",
-      "resumo": "A SoundHound AI, Inc. (SOUN) relatou um recorde de receita de $61,9 milhões no 2º trimestre, com um crescimento de 45% em relação ao mesmo período do ano anterior. A empresa também aumentou sua previsão de receita para 2026, para $230-260 milhões. No entanto, a empresa ainda enfrenta perdas contínuas e uma valorização premium, o que pode representar riscos para os investidores.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Software",
-        "NASDAQ"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 71
-    },
-    {
-      "titulo": "Chip equipment stocks rise after Taiwan Semiconductor revenue ...",
-      "url": "https://finance.yahoo.com/markets/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-10",
-      "resumo": "A TSMC, a maior fabricante de chips do mundo, relatou um aumento de 37% em sua receita anualizada de janeiro a julho de 2026, totalizando cerca de 89,11 bilhões de dólares. Isso levou a uma alta nos preços das ações de empresas como a ASML, que fabrica equipamentos para a produção de chips. A demanda por semicondutores, especialmente para inteligência artificial, está impulsionando a expansão da TSMC.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 76
     }
   ]
 }

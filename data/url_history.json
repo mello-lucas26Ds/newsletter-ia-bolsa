@@ -1,64 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/earnings-beats-ease-concerns-over-070820398.html": {
-    "hash": "59d66a75f2fcf08b279c1b050529e00e",
-    "visto_em": "2026-08-10"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-piled-nvidia-072500018.html": {
-    "hash": "d71ad8b535f3443f23c61b1625b53f9d",
-    "visto_em": "2026-08-10"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/amds-beat-raise-q2-earnings-113002308.html": {
-    "hash": "728d4550be604d600b14faed15cbbd8f",
-    "visto_em": "2026-08-10"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-taiwan-semiconductor-195000867.html": {
-    "hash": "85b2a9a82f6cbacb6c29a715d463ecd7",
-    "visto_em": "2026-08-10"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-navitas-semiconductor-heres-230101107.html": {
-    "hash": "ab61371c8fe9e354e42300553b0e362b",
-    "visto_em": "2026-08-10"
-  },
-  "https://seekingalpha.com/article/4932064-palantir-this-rally-is-a-gift-sell-it": {
-    "hash": "d06b1f3fe415daaaf82cdc39424f48ed",
-    "visto_em": "2026-08-10"
-  },
-  "https://www.bloomberg.com/news/articles/2026-08-07/worst-ever-brazil-market-outage-puts-b3-s-near-monopoly-in-focus": {
-    "hash": "588503ca53c51bc986d00bb28bb83143",
-    "visto_em": "2026-08-10"
-  },
-  "https://www.cnbc.com/2026/08/05/cramer-markets-biggest-opportunities-room-for-multiple-winners.html": {
-    "hash": "8e2b59718d36966af4f57bcc6315c67a",
-    "visto_em": "2026-08-10"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/palantir-surges-10-uipath-rises-181234941.html": {
-    "hash": "7e0c7eeb0d7d3033440f21043bf671ed",
-    "visto_em": "2026-08-10"
-  },
-  "https://seekingalpha.com/article/4932374-nvidia-upside-is-starting-to-fade": {
-    "hash": "c450ce9c3e203a704a1af7950e1732be",
-    "visto_em": "2026-08-10"
-  },
-  "https://m.economictimes.com/markets/stocks/news/ai-trade-gets-crowded-as-india-stages-a-comeback-what-fund-flows-reveal/articleshow/133062811.cms": {
-    "hash": "d17c035ea1d7d7a98f0e2401c389b3b2",
-    "visto_em": "2026-08-10"
-  },
-  "https://www.google.com/goto?url=CAESYAHuR6pN8qzkLm_1s7swAOQih1VPVzGpRuxmSqVXMdndyHB2h49geATLqCmCfqgRcARayTxDXcTOQTei1_ulLi4zhMKsgMsr63zy-iFa6z9bykWDQLFbqrpWpt4zSwgJ0Q%3D%3D": {
-    "hash": "46debd9557c9108f8670ab07c9d8c1cc",
-    "visto_em": "2026-08-10"
-  },
-  "https://seekingalpha.com/article/4931704-celestica-strong-earnings-growth-still-leaves-room-for-upside": {
-    "hash": "8d604892c957f2f37c4e9c16ebe88e87",
-    "visto_em": "2026-08-10"
-  },
-  "https://www.reuters.com/business/us-stock-market-could-ride-earnings-strength-more-gains-after-sp-500-hits-record-2026-08-05": {
-    "hash": "013e039a26570a78d48bbf6ada2cbf7a",
-    "visto_em": "2026-08-10"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/ai-chips-amd-advances-ai-113923975.html": {
-    "hash": "39106b7859cac4ef8e3311b2da3e5639",
-    "visto_em": "2026-08-10"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/atlassian-soars-34-twilio-leaps-145426222.html": {
     "hash": "45696ce3e250e896b1182137004bbd12",
     "visto_em": "2026-08-11"
@@ -530,5 +470,41 @@
   "https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71": {
     "hash": "e25f09de1049c0b7cf1e870ce0462259",
     "visto_em": "2026-08-17"
+  },
+  "https://www.reuters.com/business/nasdaq-futures-gain-tech-stocks-climb-2026-08-17": {
+    "hash": "abc42bdf7dd03499ef661d8cb9f3c208",
+    "visto_em": "2026-08-18"
+  },
+  "https://finance.yahoo.com/sectors/technology/semiconductors": {
+    "hash": "e74a910848c333a8e1eb3097c33455ca",
+    "visto_em": "2026-08-18"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-saying-semis-august-120036665.html": {
+    "hash": "7c66e1d669731429823807fd4794f172",
+    "visto_em": "2026-08-18"
+  },
+  "https://www.reuters.com/business/big-investors-hunt-tomorrows-ai-winners-capex-angst-fades-2026-08-17": {
+    "hash": "9b80ee6fca564e4cf377eaaa5d250917",
+    "visto_em": "2026-08-18"
+  },
+  "https://www.reuters.com/legal/transactional/alibaba-sell-lingxi-games-more-than-2-billion-deal-source-says-2026-08-17": {
+    "hash": "884e4ded24e2a3dae936e2f1bfd89e6a",
+    "visto_em": "2026-08-18"
+  },
+  "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-33-lils": {
+    "hash": "993cd2a78cbf296bab0b38816fa53cbb",
+    "visto_em": "2026-08-18"
+  },
+  "https://seekingalpha.com/article/4936951-nebius-366-percent-revenue-growth-and-other-top-ai-stocks-with-short-squeeze-potential": {
+    "hash": "47421e8821a26329cac68866439fa87a",
+    "visto_em": "2026-08-18"
+  },
+  "https://www.moneytimes.com.br/ibovespa-deve-ficar-atras-de-pares-emergentes-em-2026-e-risco-politico-esta-por-tras-disso-diz-consultoria-apsa": {
+    "hash": "b4e88f05ae98ad8e761de85d7ff14258",
+    "visto_em": "2026-08-18"
+  },
+  "https://www.reuters.com/legal/government/institutional-investors-reveal-cautious-approach-tech-favorites-us-quarterly-13f-2026-08-14": {
+    "hash": "f4e793c6957b7074b87df0968c455353",
+    "visto_em": "2026-08-18"
   }
 }
