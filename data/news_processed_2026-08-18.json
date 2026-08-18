@@ -2,16 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-18",
-    "total_noticias": 9,
-    "gerado_em": "2026-08-18T03:41:11.817677"
+    "total_noticias": 4,
+    "gerado_em": "2026-08-18T10:27:26.431646"
   },
   "noticias": [
     {
-      "titulo": "S&P 500, Nasdaq futures rise on tech boost",
-      "url": "https://www.reuters.com/business/nasdaq-futures-gain-tech-stocks-climb-2026-08-17",
-      "fonte": "reuters.com",
+      "titulo": "Analysis-Big investors hunt for tomorrow’s AI winners as capex angst fades",
+      "url": "https://www.investing.com/news/stock-market-news/analysisbig-investors-hunt-for-tomorrows-ai-winners-as-capex-angst-fades-4862135",
+      "fonte": "investing.com",
       "data": "2026-08-17",
-      "resumo": "Tech stocks, particularly chipmakers, have come ​under pressure in recent months as investors grew concerned about the payoff from companies' heavy AI investments.  ⁠A solid second-quarter earnings season also helped push the tech-heavy Nasdaq (. IXIC), opens new tab closer to record highs.",
+      "resumo": "META-0. 86%\n\nSOX-0. 31%\n\nCRWV-0.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -21,11 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Semiconductors Stock Performance - Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/semiconductors",
+      "titulo": "Marvell Stock Surges 6.1% as AI Memory Rally Spreads",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-surges-6-1-201639862.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-08-17",
-      "resumo": "| Name | Last Price | 1Y Target Est.  | Market Weight | Market Cap | Day Change % | YTD Return | Avg.  Analyst Rating |\n ---  ---  ---  --- |\n| NVDA  NVIDIA Corporation | 226.",
+      "resumo": "Selected editionUS English\n\n, a semiconductor company focused on data infrastructure, jumped approximately 6. 1% to $235. 53 Monday morning as investors continued rotating into artificial-intelligence infrastructure names.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -35,95 +35,25 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Here’s What Jim Cramer Is Saying About Semis in August",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-saying-semis-august-120036665.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-15",
-      "resumo": "## NVIDIA: Still the Center of Gravity\n\nNVIDIA (NASDAQ:NVDA) delivered $81. 61 billion in Q1 FY2027 revenue, up 85. 2% year over year, with Data Center alone at $75.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Big investors hunt for tomorrow's AI winners as capex angst fades",
-      "url": "https://www.reuters.com/business/big-investors-hunt-tomorrows-ai-winners-capex-angst-fades-2026-08-17",
-      "fonte": "reuters.com",
-      "data": "2026-08-17",
-      "resumo": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - The rally in AI-linked stocks that marked the latest earnings season has shifted the focus of the AI investment story from whether Big Tech's spending spree will pay off to ​the kind of companies that will deliver returns over the longer term, investors say. \n\nResults Microsoft(MSFT. O), opens new tab and Amazon(AMZN.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says",
-      "url": "https://www.reuters.com/legal/transactional/alibaba-sell-lingxi-games-more-than-2-billion-deal-source-says-2026-08-17",
-      "fonte": "reuters.com",
-      "data": "2026-08-17",
-      "resumo": "Suggested Topics:\n   Artificial Intelligence\n   Mergers & Acquisitions\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n\n   \n\n## Read Next / Editor's Picks\n\n   11 mins agoWorld categoryEXCLUSIVE  US to tell partners they must pick sides in AI race with China , opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day.  Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.  [.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Hapvida (HAPV3) despenca mais de 30% e Embraer (EMBJ3) destoa de cautela local; veja os destaques do Ibovespa na semana – Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-33-lils",
-      "fonte": "moneytimes.com.br",
-      "data": "2026-08-15",
-      "resumo": "### Veja as maiores quedas da semana:\n\n|  |  |  |\n --- \n| CÓDIGO | NOME | VARIAÇÃO SEMANAL |\n| HAPV3 | Hapvida ON | -37,51% |\n| BRKM5 | Braskem PN | -17,00% |\n| RADL3 | RD Saúde ON | -13,30% |\n| CEAB3 | C&A Modas ON | -12,85% |\n| AZZA3 | Azzas 2154 | -12,58% |\n| USIM5 | Usiminas PNA | -11,61% |\n| SBSP3 | Sabesp ON | -11,53% |\n| RENT3 | Localiza ON | -11,40% |\n| MGLU3 | Magazine Luiza ON | -11,14% |\n| CSMG3 | Copasa ON | -9,90% |\n\nFonte: B3\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCompartilhar\n\nWhatsAppTwitterLinkedinFacebookTelegram\n\nLiliane de Lima\n\nPor  Liliane de Lima\n\nRepórter [. ] |  |  |  |\n --- \n| CÓDIGO | NOME | VARIAÇÃO SEMANAL |\n| EMBJ3 | Embraer ON | 7,03% |\n| MRVE3 | MRV ON | 6,73% |\n| UGPA3 | Ultrapar ON | 3,16% |\n| PETR4 | Petrobras PN | 2,99% |\n| RECV3 | PetroReconcavo ON | 2,74% |\n| PETR3 | Petrobras ON | 2,50% |\n| SANB11 | Santander Brasil units | 2,25% |\n| PRIO3 | PRIO ON | 2,05% |\n| MBRF3 | MBRF ON | 1,80% |\n| CMIN3 | CSN Mineração ON | 1,65% |\n\nFonte: B3\n\nJá a ponta negativa do Ibovespa foi liderada por Hapvida (HAPV3) com a reação negativa também ao balanço do segundo trimestre (2T26). \n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nNo período, a companhia registrou lucro líquido ajustado de R$ 12,5 milhões, tombo de 95,8% ante o resultado registrado um ano antes.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nebius' 366% Revenue Growth And Other Top AI Stocks ...",
-      "url": "https://seekingalpha.com/article/4936951-nebius-366-percent-revenue-growth-and-other-top-ai-stocks-with-short-squeeze-potential",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-17",
-      "resumo": "Hand holding magnifying glass analyzing digital financial stock chart.  Data analysis, investment research, trading strategy, and financial market concept on blue background.  business stock market.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Ibovespa deve ficar atrás de pares emergentes em 2026 — e risco político está por trás disso, diz consultoria – Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-deve-ficar-atras-de-pares-emergentes-em-2026-e-risco-politico-esta-por-tras-disso-diz-consultoria-apsa",
-      "fonte": "moneytimes.com.br",
-      "data": "2026-08-16",
-      "resumo": "Além disso, a consultoria considera que a retomada da alta das ações globais de tecnologia provavelmente contribuiu para a baixa dos ativos brasileiros, com investidores voltando a direcionar recursos para o setor de inteligência artificial. \n\n## O que ainda pode favorecer o Brasil\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nA Capital Economics vê como um fator positivo para os ativos brasileiros a possibilidade de mais cortes de juros pelo Banco Central (BC) do que atualmente precificado pelo mercado, em cenário de continuidade do processo desinflacionário..",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
-      "url": "https://www.reuters.com/legal/government/institutional-investors-reveal-cautious-approach-tech-favorites-us-quarterly-13f-2026-08-14",
+      "titulo": "Wall St Week Ahead With Fed mum on next move ...",
+      "url": "https://www.reuters.com/legal/transactional/wall-st-week-ahead-with-fed-mum-next-move-investors-look-earnings-keep-stocks-2026-08-14",
       "fonte": "reuters.com",
       "data": "2026-08-14",
-      "resumo": "During the second quarter, AI-related stocks ranging from ​memory chips to data centers \"moved from (being) a fundamental growth story into a highly leveraged momentum trade,\" said Bruno Schneller, managing partner at multi-family office Erlen ​Capital Management, which invests in ⁠hedge funds. \n\nThe July selloff in many of these names, Schneller added, \"was less a rejection of the long-term AI thesis and more a classic crowded-trade unwind amplified by leverage and inadequate risk controls. \"\n\nDespite the spike in crude oil prices during the second quarter, institutional investors in aggregate showed little affection for the sector, with 40.",
+      "resumo": "## 'EARNINGS TRUMP ⁠ALL OTHER PROBLEMS'\n\nFor Chris Grisanti, chief market strategist at MAI Capital Management, hyperscaler spending plans are among the most important developments to watch.  Recent earnings reports, he said, have increasingly clarified which companies stand to benefit most from the AI boom. \n\nBig Tech's AI ​spending is set to rise past $700 billion this year from $400 billion in 2025, and the scale of those investments has ​fueled questions about whether ⁠hyperscalers can generate sufficient returns to justify the massive capital outlay.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue",
+      "url": "https://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-17",
+      "resumo": "Nvidia's stock is showing signs of life ahead of earnings next week.  The move is justified and should have more room to go.  Shares of Nvidia on Monday closed around $225 a share for the second session in a row — a closing level that previously hadn't been since mid-May.",
       "sentimento": "bullish",
       "tags": [
         "AI",

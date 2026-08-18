@@ -2,10 +2,66 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-18",
-    "total_noticias": 97,
-    "gerado_em": "2026-08-18T03:41:11.819260"
+    "total_noticias": 101,
+    "gerado_em": "2026-08-18T10:27:26.432715"
   },
   "noticias": [
+    {
+      "titulo": "Analysis-Big investors hunt for tomorrow’s AI winners as capex angst fades",
+      "url": "https://www.investing.com/news/stock-market-news/analysisbig-investors-hunt-for-tomorrows-ai-winners-as-capex-angst-fades-4862135",
+      "fonte": "investing.com",
+      "data": "2026-08-17",
+      "resumo": "META-0. 86%\n\nSOX-0. 31%\n\nCRWV-0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Marvell Stock Surges 6.1% as AI Memory Rally Spreads",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-surges-6-1-201639862.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-17",
+      "resumo": "Selected editionUS English\n\n, a semiconductor company focused on data infrastructure, jumped approximately 6. 1% to $235. 53 Monday morning as investors continued rotating into artificial-intelligence infrastructure names.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall St Week Ahead With Fed mum on next move ...",
+      "url": "https://www.reuters.com/legal/transactional/wall-st-week-ahead-with-fed-mum-next-move-investors-look-earnings-keep-stocks-2026-08-14",
+      "fonte": "reuters.com",
+      "data": "2026-08-14",
+      "resumo": "## 'EARNINGS TRUMP ⁠ALL OTHER PROBLEMS'\n\nFor Chris Grisanti, chief market strategist at MAI Capital Management, hyperscaler spending plans are among the most important developments to watch.  Recent earnings reports, he said, have increasingly clarified which companies stand to benefit most from the AI boom. \n\nBig Tech's AI ​spending is set to rise past $700 billion this year from $400 billion in 2025, and the scale of those investments has ​fueled questions about whether ⁠hyperscalers can generate sufficient returns to justify the massive capital outlay.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue",
+      "url": "https://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-17",
+      "resumo": "Nvidia's stock is showing signs of life ahead of earnings next week.  The move is justified and should have more room to go.  Shares of Nvidia on Monday closed around $225 a share for the second session in a row — a closing level that previously hadn't been since mid-May.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "S&P 500, Nasdaq futures rise on tech boost",
       "url": "https://www.reuters.com/business/nasdaq-futures-gain-tech-stocks-climb-2026-08-17",
