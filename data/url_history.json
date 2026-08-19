@@ -1,76 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/atlassian-soars-34-twilio-leaps-145426222.html": {
-    "hash": "45696ce3e250e896b1182137004bbd12",
-    "visto_em": "2026-08-11"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-surges-ai-chip-130445040.html": {
-    "hash": "1627d5964f6f5de367ac5c579cb52c10",
-    "visto_em": "2026-08-11"
-  },
-  "https://finance.yahoo.com/quote/NVDA": {
-    "hash": "ee12bce2ec26425a5bcb510637221575",
-    "visto_em": "2026-08-11"
-  },
-  "https://www.investing.com/news/stock-market-news/earnings-beats-ease-concerns-over-record-us-stock-rally-4847712": {
-    "hash": "f197743aa25135cc8d576a86c63bd6e3",
-    "visto_em": "2026-08-11"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-173-4847393": {
-    "hash": "113d2bca3c344e6ecb88476a6c8f770e",
-    "visto_em": "2026-08-11"
-  },
-  "https://br.investing.com/news/stock-market-news/ibovespa-sobe-na-abertura-com-itau-entre-suportes-apos-balanco-2027485": {
-    "hash": "b7ed83848fa2719169e5dc65b56dac80",
-    "visto_em": "2026-08-11"
-  },
-  "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html": {
-    "hash": "fc103d5a03a58595f2b4933030d51fba",
-    "visto_em": "2026-08-11"
-  },
-  "https://finance.yahoo.com/quote/SOUN": {
-    "hash": "2df3c873f2ff8fd68c42b982ffae1c18",
-    "visto_em": "2026-08-11"
-  },
-  "https://finance.yahoo.com/real-estate/articles/realty-income-corp-o-q2-050448385.html": {
-    "hash": "2c6753837ec182e03f4af57e1bea7c3a",
-    "visto_em": "2026-08-11"
-  },
-  "https://finance.yahoo.com/markets/article/chip-equipment-stocks-rise-after-taiwan-semiconductor-revenue-surges-45-133813616.html": {
-    "hash": "86dc98af1f7628396c1c5d1e849044eb",
-    "visto_em": "2026-08-11"
-  },
-  "https://www.investing.com/news/stock-market-news/we-told-you-first-these-aipicked-stocks-are-up-48-and-28-already-4847758": {
-    "hash": "c46680f0f3aa282eb168cc18960421a3",
-    "visto_em": "2026-08-11"
-  },
-  "https://finance.yahoo.com/markets/article/corporate-earnings-soared-in-q2-with-ai-as-the-growth-engine-chart-of-the-day-173507179.html": {
-    "hash": "71b2c0b10a93dddd363800b51a40438e",
-    "visto_em": "2026-08-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/much-invested-50-retire-dividends-103126428.html": {
-    "hash": "ef11417ece37f3a2d0687e9c9aadf9b2",
-    "visto_em": "2026-08-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/set-forget-stocks-d-want-170014127.html": {
-    "hash": "5761eb72aa6fb30e821419cb1a29f34d",
-    "visto_em": "2026-08-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ddog-q2-deep-dive-market-010922675.html": {
-    "hash": "a884a695033362ebef759e879cca4cd7",
-    "visto_em": "2026-08-11"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/innodata-q2-earnings-call-focuses-140000234.html": {
-    "hash": "d36acd76d956f7d860fdbe923b77cffc",
-    "visto_em": "2026-08-11"
-  },
-  "https://www.reuters.com/business/media-telecom/spacex-quarterly-revenue-surges-debut-results-strong-growth-its-starlink-2026-08-04": {
-    "hash": "4f862a3fa5f38e937cc84ffc92e6d9fb",
-    "visto_em": "2026-08-11"
-  },
-  "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html": {
-    "hash": "fb30771c7746240b653e69c9c51c3f74",
-    "visto_em": "2026-08-11"
-  },
   "https://finance.yahoo.com/technology/ai/articles/riot-platforms-soars-17-9-130537358.html": {
     "hash": "a3ac8fc02538539eb54f56eecc76f260",
     "visto_em": "2026-08-12"
@@ -522,5 +450,29 @@
   "https://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html": {
     "hash": "c5cf40c2fc06b99ef294a5811e9f6077",
     "visto_em": "2026-08-18"
+  },
+  "https://www.reuters.com/commentary/reuters-open-interest/even-market-clouds-clear-ai-investment-anxiety-still-gnaws-2026-08-18": {
+    "hash": "4ffb5f6bf98fea9c311e5f75b11da522",
+    "visto_em": "2026-08-19"
+  },
+  "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-wall-st-slips-on-iran-tensions-oil-surge-4864158": {
+    "hash": "67b8d01cf689250f2cb2c8575a730a6c",
+    "visto_em": "2026-08-19"
+  },
+  "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18082026": {
+    "hash": "61bfdd2d368c4a93e8c7c9188d6d971d",
+    "visto_em": "2026-08-19"
+  },
+  "https://seekingalpha.com/article/4937856-applied-digital-increasingly-profitable-ai-growth-in-2026-rating-upgrade": {
+    "hash": "3da3518e577025d2713a2a19980f1c1f",
+    "visto_em": "2026-08-19"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-18/mark-cuban-backed-physical-ai-startup-nears-500-million-spac-deal": {
+    "hash": "b8b6ee818e3f9540b207a6c410172bf5",
+    "visto_em": "2026-08-19"
+  },
+  "https://seekingalpha.com/article/4937210-blackstone-stock-wealth-compounder-riding-ai-infrastructure-boom": {
+    "hash": "287f7255f2d1993e2561a5d884a76187",
+    "visto_em": "2026-08-19"
   }
 }

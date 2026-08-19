@@ -1,11 +1,95 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-18",
-    "total_noticias": 101,
-    "gerado_em": "2026-08-18T10:27:26.432715"
+    "data": "2026-08-19",
+    "total_noticias": 88,
+    "gerado_em": "2026-08-19T03:42:46.487330"
   },
   "noticias": [
+    {
+      "titulo": "Even as market clouds clear, AI investment anxiety still ...",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/even-market-clouds-clear-ai-investment-anxiety-still-gnaws-2026-08-18",
+      "fonte": "reuters.com",
+      "data": "2026-08-18",
+      "resumo": "In terms of headline profits, earnings projections and corporate investment, the numbers ​keep ringing the bell.  U. S.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq falls over 1% as tech stocks take a beating from soaring yields, rising oil",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-wall-st-slips-on-iran-tensions-oil-surge-4864158",
+      "fonte": "investing.com",
+      "data": "2026-08-18",
+      "resumo": "Expect a Fed Pivot After Friday’s Job Market Gut Check\n\nBy Louis Navell. \n\nAug 15, 2026\n\nImage 25\n\nImage 26\n\nThe AI Compute Boom Isn’t Peaking — It’s Just Getting Started\n\nBy Ivana Delevs. \n\nAug 15, 2026\n\nMore News\n\nMarket Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Ibovespa tem virada no final e chega a 11 sessões no negativo; dólar volta a subir",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18082026",
+      "fonte": "infomoney.com.br",
+      "data": "2026-08-18",
+      "resumo": "A Velaura AI foi avaliada em mais de US$1 bilhão nesta terça-feira, após levantar US$110 milhões em uma rodada de financiamento série A, com investidores apoiando a tecnologia de projeto de chips da startup voltada à redução de consumo de energia e custos operacionais em data centers de inteligência artificial.  A rodada de financiamento foi liderada pela Seligman Ventures, com a participação do novo investidor Capricorn Investment Group.  Os investidores já existentes — Samsung Catalyst Fund, StepStone Group e Maverick Silicon — também participaram.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Applied Digital: Increasingly Profitable AI Growth In 2026 (Rating Upgrade) (NASDAQ:APLD)",
+      "url": "https://seekingalpha.com/article/4937856-applied-digital-increasingly-profitable-ai-growth-in-2026-rating-upgrade",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-18",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Applied Digital: Increasingly Profitable AI Growth In 2026 (Rating Upgrade)\n\n## Summary\n\nFuturistic AI Data Center Interior \n\nimaginima/iStock via Getty Images\n\nFuturistic AI Data Center Interior\n\nimaginima/iStock via Getty Images\n\nApplied Digital Corporation (APLD) published higher-than-expected earnings for its fourth quarter, which proved that the AI infrastructure company is a major winner of the current CapEx boom in the data center market.  Applied Digital\n\nThis article was written by.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/mark-cuban-backed-physical-ai-startup-nears-500-million-spac-deal",
+      "fonte": "bloomberg.com",
+      "data": "2026-08-18",
+      "resumo": "Fort Robotics Inc.  will combine with Newbury Street II Acquisition Corp.  to create what it calls “the first publicly traded company dedicated principally to safe and scalable deployment of physical AI,” according to a statement reviewed by Bloomberg News.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Blackstone: A Wealth Compounder Riding The AI Infrastructure Boom (NYSE:BX)",
+      "url": "https://seekingalpha.com/article/4937210-blackstone-stock-wealth-compounder-riding-ai-infrastructure-boom",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-17",
+      "resumo": "Image 1\n\nGen Alpha\n\nInvesting Group\n\nFollow\n\n## Summary\n\n   Blackstone is rated 'Buy' for its diversified growth, robust AUM expansion, and leadership in AI infrastructure investments. \n   BX posted 20% YoY growth in fee-related earnings per share, driven by double-digit segment gains and 11% total AUM growth to $1. 35 trillion.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Analysis-Big investors hunt for tomorrow’s AI winners as capex angst fades",
       "url": "https://www.investing.com/news/stock-market-news/analysisbig-investors-hunt-for-tomorrows-ai-winners-as-capex-angst-fades-4862135",
@@ -816,21 +900,6 @@
       "tokens_usados": 74
     },
     {
-      "titulo": "Broadcom Inc. (AVGO)",
-      "url": "https://finance.yahoo.com/quote/AVGO",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-11",
-      "resumo": "A lista apresenta ações de empresas de semicondutores, incluindo NVIDIA, Taiwan Semiconductor Manufacturing Company, QUALCOMM e outras. As ações de NVIDIA e Taiwan Semiconductor Manufacturing Company apresentam variações negativas, enquanto QUALCOMM apresenta uma variação positiva.",
-      "sentimento": "bearish",
-      "tags": [
-        "Semicondutores",
-        "NVIDIA",
-        "Tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 44
-    },
-    {
       "titulo": "META_TITLE_QUOTE",
       "url": "https://finance.yahoo.com/quote/NBIS",
       "fonte": "finance.yahoo.com",
@@ -860,21 +929,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 83
-    },
-    {
-      "titulo": "Keel Infrastructure: Beware Delta-Of-Ruin Profile (NASDAQ:KEEL) | Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4934615-keel-infrastructure-stock-beware-delta-of-ruin-profile",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-11",
-      "resumo": "O artigo destaca que a Keel Infrastructure Corp. (KEEL) não é ideal para investimentos a longo prazo, devido ao seu perfil de investimento \"delta de ruína\". A empresa tenta pressionar os hyperscalers para obter recursos escassos, o que pode ser arriscado.",
-      "sentimento": "bearish",
-      "tags": [
-        "KEEL",
-        "NASDAQ",
-        "DataCenters"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 50
     },
     {
       "titulo": "Corning Incorporated: Well-Positioned AI Infrastructure Play",
@@ -952,36 +1006,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 117
-    },
-    {
-      "titulo": "Earnings call transcript: CoreWeave tops Q2 2026 estimates, shares jump 13.5%",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-coreweave-tops-q2-2026-estimates-shares-jump-135-93CH-4852937",
-      "fonte": "investing.com",
-      "data": "2026-08-11",
-      "resumo": "A CoreWeave anunciou resultados financeiros superiores às expectativas para o 2º trimestre de 2026, com uma alta de 13,5% nas ações. A empresa destaca a demanda crescente por infraestrutura de nuvem para inteligência artificial (IA) e a sua capacidade de atender a essa demanda com sua plataforma. A CoreWeave também menciona a introdução de novas capacidades em sua plataforma de IA e a adoção de seus serviços de desenvolvimento de IA por uma ampla gama de clientes.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Cloud Computing",
-        "Tecnologia"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 87
-    },
-    {
-      "titulo": "Fastly Stock Is Rising Today: What's Driving It, and Are AI- ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fastly-stock-rising-today-driving-191705298.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-11",
-      "resumo": "Ações de empresas de nuvem e inteligência artificial estão sendo impulsionadas por uma onda de otimismo no setor. A Fastly e a Datadog estão subindo 21% e 9%, respectivamente, enquanto a CoreWeave está caindo 2% devido a previsões de resultados e vendas de ações por parte de executivos. A Oracle e a Net também estão subindo, refletindo a tendência do setor.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Cloud Computing",
-        "ETF"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 71
     },
     {
       "titulo": "5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday",
@@ -1102,38 +1126,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 68
-    },
-    {
-      "titulo": "TSM Taiwan Semiconductor Manufacturing Company ...",
-      "url": "https://seekingalpha.com/symbol/TSM",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-11",
-      "resumo": "A notícia não apresenta informações específicas sobre a empresa Taiwan Semiconductor Manufacturing Company (TSM). No entanto, há uma lista de executores de negócios e funcionários da empresa que realizaram compras de ações em 10 de agosto de 2026. A lista inclui nomes como Y. Mii, C. C. Wei, Y. L. Wang, Chun-Hsien Lee e outros, com detalhes sobre as compras realizadas.",
-      "sentimento": "neutral",
-      "tags": [
-        "TSM",
-        "Taiwan Semiconductor Manufacturing Company",
-        "IA",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
-    },
-    {
-      "titulo": "TSMC Stock Holds Flat Despite 44.7% July Sales Surge",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-holds-flat-despite-155910769.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-11",
-      "resumo": "A TSMC registrou um aumento de 44,7% nas vendas em julho, mas o preço da ação permaneceu estável. A empresa já aumentou a expectativa de crescimento de receita para mais de 40% em termos de dólares americanos, com aceleradores de IA, fabricação de ponta e embalagem avançada contribuindo para o crescimento. A empresa agora precisa manter a execução e cumprir as expectativas de crescimento.",
-      "sentimento": "neutral",
-      "tags": [
-        "TSMC",
-        "AI",
-        "Semicondutores",
-        "Tecnologia"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 74
     },
     {
       "titulo": "Nebius Group shares jump as AI cloud growth fuels investor optimism",
@@ -1271,36 +1263,6 @@
       "tokens_usados": 74
     },
     {
-      "titulo": "TSMC July 2026 revenue jumps 44.7% on AI chip demand",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-july-2026-revenue-jumps-110802277.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-11",
-      "resumo": "A TSMC anunciou uma alta de 44,7% em sua receita de julho de 2026, de NT$467,58 bilhões (US$14,5 bilhões), refletindo um aumento na demanda por chips usados em aplicações de inteligência artificial. Isso coloca a empresa à frente de sua própria previsão de receita para o ano. A TSMC também aumentou sua projeção de gastos em capital para entre US$60 bilhões e US$64 bilhões para o ano.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "TSMC"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 76
-    },
-    {
-      "titulo": "Palantir: Doubling Down On The Same Mistakes (NASDAQ:PLTR)",
-      "url": "https://seekingalpha.com/article/4934296-palantir-doubling-down-on-the-same-mistakes",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-11",
-      "resumo": "A Palantir Technologies apresentou um trimestre mais uma vez impressionante, com receitas quase dobradas em relação ao ano anterior para US$ 1,9 bilhão, graças a um movimento forte de negócios. A empresa de software de inteligência artificial para empresas está aproveitando uma mudança de volta à soberania da IA, onde os clientes estão usando AIP para proteger dados e sistemas proprietários de laboratórios de IA rebeldes. Apesar de fundamentos robustos e demanda impulsionada pela IA, a ação da empresa está se recuperando de um valor semelhante ao de 2025, quando um valor semelhante levou a uma queda de 50%. O valor da PLTR retornou a múltiplos de pico, agora negociando em 53x 2026 de vendas e quase 100x fluxo de caixa livre, sugerindo uma saída em níveis anteriores acima de US$ 200.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 163
-    },
-    {
       "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo Finance",
       "url": "https://www.google.com/goto?url=CAESXQHuR6pN4xJ9bLuXQUG6zIDCOLhifZFwnflmjLLcccPkAjKGs2cgAsagWVgOCzwGR24Shqoxl_sFwTefU40Me3YQyYQZR8W4kN7q2_1TzEQwhL-ItFFpsE-ejn9urg%3D%3D",
       "fonte": "google.com",
@@ -1314,21 +1276,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 67
-    },
-    {
-      "titulo": "Nvidia Chip Boom Is Spreading: 6 Stocks to Watch - Intel (NASDAQ:INTC), Broadcom (NASDAQ:AVGO), Advanced",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/61122617/nvidia-chip-boom-spreading-six-stocks-to-watch",
-      "fonte": "benzinga.com",
-      "data": "2026-08-11",
-      "resumo": "A JPMorgan prevê que a onda de chips de computação, memória e rede vai continuar, criando oportunidades de investimento em várias empresas do setor semicondutor. A Nvidia pode ter iniciado a onda de chips de IA, mas a JPMorgan vê espaço para o resto da indústria se recuperar e crescer.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 59
     },
     {
       "titulo": "Investing News - Investment Articles - Investing Research",
@@ -1346,66 +1293,6 @@
       "tokens_usados": 67
     },
     {
-      "titulo": "Earnings call transcript: Lumentum tops Q4 2026 forecasts as AI demand lifts outlook",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-lumentum-tops-q4-2026-forecasts-as-ai-demand-lifts-outlook-93CH-4852933",
-      "fonte": "investing.com",
-      "data": "2026-08-11",
-      "resumo": "A Lumentum Holdings superou as previsões de receita e lucro do quarto trimestre, graças à alta demanda por componentes ópticos usados em centros de dados de inteligência artificial. A empresa relatou lucros ajustados de $3,23 por ação em receita de $1,01 bilhão, superando as estimativas dos analistas. As ações da empresa subiram 1,51% em negociação após horas, após fechar a sessão regular em $820,19.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Inteligência Artificial",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
-    },
-    {
-      "titulo": "Cybersecurity Stocks Surge, With Palo Alto Networks and CrowdStrike Leading the Charge",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cybersecurity-stocks-surge-palo-alto-202524523.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-11",
-      "resumo": "Ações de segurança cibernética experimentaram um aumento significativo na segunda-feira, apesar de uma queda nos mercados mais amplos. Analistas destacaram a inovação de inteligência artificial como um motor de crescimento no setor de segurança cibernética. Palo Alto Networks e CrowdStrike foram os maiores ganhadores da S&P 500 na segunda-feira, com suas ações subindo 6% e 5%, respectivamente, e estabelecendo novos recordes de fechamento.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Segurança Cibernética",
-        "Mercados Financeiros"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 74
-    },
-    {
-      "titulo": "Nvidia's Big Deal Expands The AI Horizon Once Again (Rating Upgrade)",
-      "url": "https://seekingalpha.com/article/4934882-nvidia-big-deal-expands-the-ai-horizon-once-again-rating-upgrade",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-11",
-      "resumo": "A Nvidia Corporation expandiu mais uma vez o horizonte da inteligência artificial com um grande negócio, merecendo uma atualização de rating. A empresa está se destacando como uma das principais opções para investidores que buscam aproveitar o crescimento da infraestrutura de inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Nvidia",
-        "Inteligência Artificial"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 53
-    },
-    {
-      "titulo": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
-      "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-11",
-      "resumo": "A CoreWeave anunciou um aumento de 14% em suas ações após o relatório de segunda-feira, onde a empresa informou que sua receita dobrou devido à demanda acelerada por infraestrutura de inteligência artificial. A empresa também anunciou um acordo de vários anos com a Anthropic e um compromisso de $6 bilhões da empresa de trading quantitativo Jane Street. A concorrência está crescendo, com a SpaceX começando a vender capacidade de processamento excedente e a Meta considerando lançar uma empresa de nuvem.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Cloud Computing",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 90
-    },
-    {
       "titulo": "META Meta Platforms, Inc.",
       "url": "https://finance.yahoo.com/quote/META",
       "fonte": "finance.yahoo.com",
@@ -1419,96 +1306,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 94
-    },
-    {
-      "titulo": "Riot Platforms Soars 17% on $9.1B Anthropic Data Center ...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-soars-17-9-130537358.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-11",
-      "resumo": "A Riot Platforms teve um aumento de 17% após anúncio de um contrato de $9.1B com a Anthropic para construir um centro de dados. Outros operadores de infraestrutura de AI e HPC também tiveram um aumento modesto, mas a resposta foi limitada e não reflete uma reavaliação do setor como um todo.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Data Center",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 62
-    },
-    {
-      "titulo": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/12-nasdaq-stocks-doubled-2026-052500188.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-11",
-      "resumo": "A lista de 12 ações da Nasdaq que dobraram em 2026 não inclui as 7 ações consideradas \"Magnificência Sete\", que são líderes no setor de tecnologia. Embora os estrategistas de Wall Street tenham defendido a compra dessas ações, a tendência de investimento mudou, com capital sendo direcionado para empresas que fornecem infraestrutura física para a IA.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "Nasdaq"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 108
-    },
-    {
-      "titulo": "Is Realty Income Stock Worth Holding After Its Q2 Earnings Results?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/realty-income-stock-worth-holding-152200256.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-11",
-      "resumo": "A Realty Income está expandindo suas operações em diferentes setores, incluindo propriedades industriais, Europa, capital privado e centros de dados. A empresa tem um programa de $6 bilhões para investir em centros de dados de alta escala em parceria com a Cloud Capital, que pode envolver até $1,4 bilhão de ações da Realty Income ao longo do tempo. A diversificação da empresa pode apoiar o crescimento a longo prazo, mas também aumenta o risco de execução.",
-      "sentimento": "neutral",
-      "tags": [
-        "REIT",
-        "Propriedades Imobiliárias",
-        "Diversificação"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 86
-    },
-    {
-      "titulo": "Itaúsa 1H26 slides: record results, 22% profit growth despite headwinds",
-      "url": "https://www.investing.com/news/company-news/itausa-1h26-slides-record-results-22-profit-growth-despite-headwinds-93CH-4852198",
-      "fonte": "investing.com",
-      "data": "2026-08-11",
-      "resumo": "A Itaúsa apresentou resultados recordados no primeiro semestre de 2026, com crescimento de 22% em lucro, apesar de desafios econômicos. A dívida líquida caiu 99% em relação a junho de 2025, e a taxa de retorno dos acionistas atingiu 39% nos últimos 12 meses. A empresa também destacou dividendos de 9,8% no primeiro semestre, um dos maiores da Bolsa de Valores do Brasil.",
-      "sentimento": "bullish",
-      "tags": [
-        "Itaúsa",
-        "Bovespa",
-        "Dividendos"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 72
-    },
-    {
-      "titulo": "Business Deals, Mergers and Acquisitions",
-      "url": "https://www.wsj.com/business/deals",
-      "fonte": "wsj.com",
-      "data": "2026-08-11",
-      "resumo": "A WSJ relata várias notícias de negócios, incluindo aquisições e financiamentos de empresas de tecnologia, como Nvidia, Visa e Teledyne Technologies. Além disso, há notícias de negócios em setores como real estate e segurança de fraude.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Negócios"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 45
-    },
-    {
-      "titulo": "Itaúsa 1H26 slides: record results, 39% shareholder return",
-      "url": "https://www.investing.com/news/company-news/itausa-1h26-slides-record-results-39-shareholder-return-93CH-4852195",
-      "fonte": "investing.com",
-      "data": "2026-08-11",
-      "resumo": "O Itaúsa apresentou resultados recordados no primeiro semestre de 2026, com um retorno de 39% para os acionistas. A empresa registrou um lucro líquido de R$ 9,6 bilhões, com R$ 8,8 bilhões provenientes de resultados recorrentes e R$ 857 milhões de itens não recorrentes.",
-      "sentimento": "bullish",
-      "tags": [
-        "Bovespa",
-        "Itaúsa",
-        "Finanças"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 87
     }
   ]
 }
