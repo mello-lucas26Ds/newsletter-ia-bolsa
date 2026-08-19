@@ -1,138 +1,53 @@
 # Newsletter IA Bolsa — 2026-08-19
 
-**Gerado em:** 19/08/2026 03:42
-**Total:** 6 noticias
+**Gerado em:** 19/08/2026 10:27
+**Total:** 3 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Even as market clouds clear, AI investment anxiety still ...
+## 1. Is market heading towards a big AI crash like the dot-com crisis? Here's what European Central Bank predic
 
-**Fonte:** reuters.com  
+**Fonte:** m.economictimes.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-In terms of headline profits, earnings projections and corporate investment, the numbers ​keep ringing the bell.  U. S.
+AI warnings  
+  
+Since last year, stock markets around the world saw an increasing frenzy around AI, with hyperscalers increasing their investments in the technology.  The increased optimism sparked a sharp rally in the AI stocks, before things began to go down.  Analysts soon began sounding the alarm over the massive AI spending and rising debt of the tech giants, questioning if they will actually bear fruit in the future.
 
-[Ler noticia completa](https://www.reuters.com/commentary/reuters-open-interest/even-market-clouds-clear-ai-investment-anxiety-still-gnaws-2026-08-18)
-
----
-
-## 2. Nasdaq falls over 1% as tech stocks take a beating from soaring yields, rising oil
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Expect a Fed Pivot After Friday’s Job Market Gut Check
-
-By Louis Navell. 
-
-Aug 15, 2026
-
-Image 25
-
-Image 26
-
-The AI Compute Boom Isn’t Peaking — It’s Just Getting Started
-
-By Ivana Delevs. 
-
-Aug 15, 2026
-
-More News
-
-Market Movers
-
-Most Active Gainers %Losers %
-
-| Name | Last | Chg.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-wall-st-slips-on-iran-tensions-oil-surge-4864158)
+[Ler noticia completa](https://m.economictimes.com/markets/us-stocks/wall-street-guide/is-market-heading-towards-a-big-ai-crash-like-the-dot-com-crisis-heres-what-european-central-bank-predicts/articleshow/133316314.cms)
 
 ---
 
-## 3. Ibovespa tem virada no final e chega a 11 sessões no negativo; dólar volta a subir
+## 2. BofA Sends Bullish Message For Taiwan Semiconductor Stock Fans
 
-**Fonte:** infomoney.com.br  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-A Velaura AI foi avaliada em mais de US$1 bilhão nesta terça-feira, após levantar US$110 milhões em uma rodada de financiamento série A, com investidores apoiando a tecnologia de projeto de chips da startup voltada à redução de consumo de energia e custos operacionais em data centers de inteligência artificial.  A rodada de financiamento foi liderada pela Seligman Ventures, com a participação do novo investidor Capricorn Investment Group.  Os investidores já existentes — Samsung Catalyst Fund, StepStone Group e Maverick Silicon — também participaram.
-
-[Ler noticia completa](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18082026)
-
----
-
-## 4. Applied Digital: Increasingly Profitable AI Growth In 2026 (Rating Upgrade) (NASDAQ:APLD)
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Investing Groups
-
-## Portfolios
-
-## Find & Compare
-
-# Applied Digital: Increasingly Profitable AI Growth In 2026 (Rating Upgrade)
-
-## Summary
-
-Futuristic AI Data Center Interior 
-
-imaginima/iStock via Getty Images
-
-Futuristic AI Data Center Interior
-
-imaginima/iStock via Getty Images
-
-Applied Digital Corporation (APLD) published higher-than-expected earnings for its fourth quarter, which proved that the AI infrastructure company is a major winner of the current CapEx boom in the data center market.  Applied Digital
-
-This article was written by.
-
-[Ler noticia completa](https://seekingalpha.com/article/4937856-applied-digital-increasingly-profitable-ai-growth-in-2026-rating-upgrade)
-
----
-
-## 5. Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal
-
-**Fonte:** bloomberg.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Fort Robotics Inc.  will combine with Newbury Street II Acquisition Corp.  to create what it calls “the first publicly traded company dedicated principally to safe and scalable deployment of physical AI,” according to a statement reviewed by Bloomberg News.
+Top losers 
+       KLAR Klarna Group plc 15. 06-4. 45(-22.
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-08-18/mark-cuban-backed-physical-ai-startup-nears-500-million-spac-deal)
+[Ler noticia completa](https://finance.yahoo.com/technology/articles/bofa-sends-bullish-message-taiwan-204702561.html)
 
 ---
 
-## 6. Blackstone: A Wealth Compounder Riding The AI Infrastructure Boom (NYSE:BX)
+## 3. Mizuho reitera classificação da Applied Materials com base na força da IA Por Investing.com
 
-**Fonte:** seekingalpha.com  
+**Fonte:** br.investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Image 1
+Essa notícia foi traduzida com a ajuda de inteligência artificial.  Para mais informação, veja nossos Termos de Uso. 
 
-Gen Alpha
+## Últimos comentários
 
-Investing Group
+| Nome | Último | Var.
 
-Follow
-
-## Summary
-
-   Blackstone is rated 'Buy' for its diversified growth, robust AUM expansion, and leadership in AI infrastructure investments. 
-   BX posted 20% YoY growth in fee-related earnings per share, driven by double-digit segment gains and 11% total AUM growth to $1. 35 trillion.
-
-[Ler noticia completa](https://seekingalpha.com/article/4937210-blackstone-stock-wealth-compounder-riding-ai-infrastructure-boom)
+[Ler noticia completa](https://br.investing.com/news/analyst-ratings/mizuho-reitera-classificacao-da-applied-materials-com-base-na-forca-da-ia-93CH-2039474)
 
 ---

@@ -2,10 +2,52 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-19",
-    "total_noticias": 88,
-    "gerado_em": "2026-08-19T03:42:46.487330"
+    "total_noticias": 91,
+    "gerado_em": "2026-08-19T10:27:32.992392"
   },
   "noticias": [
+    {
+      "titulo": "Is market heading towards a big AI crash like the dot-com crisis? Here's what European Central Bank predic",
+      "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/is-market-heading-towards-a-big-ai-crash-like-the-dot-com-crisis-heres-what-european-central-bank-predicts/articleshow/133316314.cms",
+      "fonte": "m.economictimes.com",
+      "data": "2026-08-18",
+      "resumo": "AI warnings  \n  \nSince last year, stock markets around the world saw an increasing frenzy around AI, with hyperscalers increasing their investments in the technology.  The increased optimism sparked a sharp rally in the AI stocks, before things began to go down.  Analysts soon began sounding the alarm over the massive AI spending and rising debt of the tech giants, questioning if they will actually bear fruit in the future.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "BofA Sends Bullish Message For Taiwan Semiconductor Stock Fans",
+      "url": "https://finance.yahoo.com/technology/articles/bofa-sends-bullish-message-taiwan-204702561.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-18",
+      "resumo": "Top losers \n       KLAR Klarna Group plc 15. 06-4. 45(-22.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Mizuho reitera classificação da Applied Materials com base na força da IA Por Investing.com",
+      "url": "https://br.investing.com/news/analyst-ratings/mizuho-reitera-classificacao-da-applied-materials-com-base-na-forca-da-ia-93CH-2039474",
+      "fonte": "br.investing.com",
+      "data": "2026-08-14",
+      "resumo": "Essa notícia foi traduzida com a ajuda de inteligência artificial.  Para mais informação, veja nossos Termos de Uso. \n\n## Últimos comentários\n\n| Nome | Último | Var.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Even as market clouds clear, AI investment anxiety still ...",
       "url": "https://www.reuters.com/commentary/reuters-open-interest/even-market-clouds-clear-ai-investment-anxiety-still-gnaws-2026-08-18",
