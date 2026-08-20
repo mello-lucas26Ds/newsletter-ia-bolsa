@@ -1,150 +1,92 @@
 # Newsletter IA Bolsa — 2026-08-20
 
-**Gerado em:** 20/08/2026 03:42
-**Total:** 6 noticias
+**Gerado em:** 20/08/2026 10:29
+**Total:** 5 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. NVIDIA Corporation (NVDA) Stock Price, News, Quote & ...
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Industry Semiconductors
-
-### Company Insights
-
-### Research Reports
-
-View More 
-
-View More
-
-### People Also Watch
-
-TSLA  Tesla, Inc. 
-
-335. 26 -1.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/NVDA)
-
----
-
-## 2. This Stock Has Become Too Important to the AI Revolution ...
+## 1. Cathie Wood buys $22.3 million of surging semiconductor stock
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Third, gross margins remain at 75%, and management plans to return roughly 50% of free cash flow to shareholders.  Analyst consensus target of $302. 83, with 58 buy ratings, backstops the bull path.
+Three months ago, Nvidia reported results that continued to support its growth thesis. 
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stock-become-too-important-ai-170037670.html)
+For the fiscal first quarter ended April 26, Nvidia reported non-GAAP earnings of $1. 87 per share, beating Wall Street's estimates of $1.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-22-3-183300380.html)
 
 ---
 
-## 3. Famous Billionaires Were Rushing to Buy Taiwan Semiconductor (TSM). Here’s Why
+## 2. Netflix, Salesforce, and Adobe Rally as Investors Rotate Out of Semiconductors and Into Beaten Down Stocks
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Most active 
-       INTC Intel Corporation 95. 87-7. 62(-7.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/famous-billionaires-were-rushing-buy-183916148.html)
-
----
-
-## 4. SpaceX Attempted to Acquire AI Coding Startup Cognition
-
-**Fonte:** bloomberg.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Starship Launch
+The cleanest way to see what is happening inside technology today is to line up two ETFs.  The iShares Expanded Tech-Software ETF (IGV) is up 0. 6%, while the iShares Semiconductor ETF (SOXX) is down about 5.
 
-Chaos at SpaceXAI
-
-Tesla Merger Speculation
-
-Back Forward
-
-Technology
-
-AI
-
-# SpaceX Attempted to Acquire AI Coding Startup Cognition
-
-Image 1: The Cognition AI Inc.  logo on a smartphone. 
-
-The Cognition AI Inc.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/netflix-salesforce-adobe-rally-investors-204646133.html)
 
 ---
 
-## 5. SpaceX Completes Its $60 Billion Cursor Acquisition
+## 3. JPMorgan Raises S&P 500 Target to 8000 as Earnings ...
 
-**Fonte:** bloomberg.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Starship Launch
+These enormous investment programmes remain a central driver of demand across semiconductors, networking equipment, power infrastructure, cooling systems and other parts of the AI supply chain. 
 
-Chaos at SpaceXAI
+## AWS, Azure and Google Cloud show powerful demand
 
-Tesla Merger Speculation
+Cloud growth rates provided some of the clearest evidence that AI investment is translating into stronger customer demand. 
 
-Back Forward
+AWS revenue growth accelerated to 37% year over year, while Microsoft's Azure expanded 43%.
 
-Technology
-
-# SpaceX Completes $60 Billion Acquisition of AI Startup Cursor
-
-Image 1: The Cursor app on a laptop. 
-
-The Cursor app on a laptop. 
-
-Photographer: Gabby Jones/Bloomberg
-
-Gift this article
-
-Add us on Google
-
-Contact us: Provide news feedback or report an error
-
-Confidential tip.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/jpmorgan-raises-p-500-target-134100944.html)
 
 ---
 
-## 6. Grupo Multi anuncia provisão de R$20 mi para perdas com Casas Bahia
+## 4. These stocks will benefit most from AI productivity gains: per Goldman
 
-**Fonte:** br.investing.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-| Nome | Último | Var.  % | Vol.  |  |
+the Russell 1000.  "The recent acceleration in enterprise AI spending suggests that the earnings impact of AI adoption should become clearer in coming quarters," Ben Snider, chief U. S.
+
+[Ler noticia completa](https://www.cnbc.com/2026/08/17/these-stocks-will-benefit-most-from-ai-productivity-gains-per-goldman.html)
+
+---
+
+## 5. Baidu shares at near 1-year low as weak earnings expose limits of AI growth push
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+By David Wagner
+
+Aug 18, 2026
+
+More News
+
+Market Movers
+
+Most Active Gainers %Losers %
+
+| Name | Last | Chg.  % | Vol.  |  |
  ---  --- 
-| Moderna BDR | 39,60 | +137,55% | 527,26mil |  |
-| Azevedo & Travassos ON | 5,82 | +22,27% | 1,20M |  |
-| BioNTech BDR | 35,97 | +18,95% | 15,53mil |  |
-| Sequoia ON | 0,07 | +16,67% | 282,50mil |  |
-| Estee Lauder Companies BDR | 21,30 | +16,27% | 1,67mil |  |
-| Paranapanema ON | 0,17 | +13,33% | 13,04M |  |
-| Oncoclinicas ON | 1,24 | +12,73% | 29,86M |  |
+| MRNA | 175.
 
-| Nome | Último | Var.
-
-[Ler noticia completa](https://br.investing.com/news/stock-market-news/grupo-multi-anuncia-provisao-de-r20-mi-para-perdas-com-casas-bahia-2043728)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/baidu-shares-hit-near-1year-low-as-weak-earnings-expose-limits-of-ai-growth-push-4866379)
 
 ---

@@ -2,10 +2,80 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-20",
-    "total_noticias": 72,
-    "gerado_em": "2026-08-20T03:42:51.304869"
+    "total_noticias": 77,
+    "gerado_em": "2026-08-20T10:29:06.289326"
   },
   "noticias": [
+    {
+      "titulo": "Cathie Wood buys $22.3 million of surging semiconductor stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-22-3-183300380.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-19",
+      "resumo": "Three months ago, Nvidia reported results that continued to support its growth thesis. \n\nFor the fiscal first quarter ended April 26, Nvidia reported non-GAAP earnings of $1. 87 per share, beating Wall Street's estimates of $1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Netflix, Salesforce, and Adobe Rally as Investors Rotate Out of Semiconductors and Into Beaten Down Stocks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-salesforce-adobe-rally-investors-204646133.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-19",
+      "resumo": "The cleanest way to see what is happening inside technology today is to line up two ETFs.  The iShares Expanded Tech-Software ETF (IGV) is up 0. 6%, while the iShares Semiconductor ETF (SOXX) is down about 5.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "JPMorgan Raises S&P 500 Target to 8000 as Earnings ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-raises-p-500-target-134100944.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-17",
+      "resumo": "These enormous investment programmes remain a central driver of demand across semiconductors, networking equipment, power infrastructure, cooling systems and other parts of the AI supply chain. \n\n## AWS, Azure and Google Cloud show powerful demand\n\nCloud growth rates provided some of the clearest evidence that AI investment is translating into stronger customer demand. \n\nAWS revenue growth accelerated to 37% year over year, while Microsoft's Azure expanded 43%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "These stocks will benefit most from AI productivity gains: per Goldman",
+      "url": "https://www.cnbc.com/2026/08/17/these-stocks-will-benefit-most-from-ai-productivity-gains-per-goldman.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-17",
+      "resumo": "the Russell 1000.  \"The recent acceleration in enterprise AI spending suggests that the earnings impact of AI adoption should become clearer in coming quarters,\" Ben Snider, chief U. S.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Baidu shares at near 1-year low as weak earnings expose limits of AI growth push",
+      "url": "https://www.investing.com/news/stock-market-news/baidu-shares-hit-near-1year-low-as-weak-earnings-expose-limits-of-ai-growth-push-4866379",
+      "fonte": "investing.com",
+      "data": "2026-08-19",
+      "resumo": "By David Wagner\n\nAug 18, 2026\n\nMore News\n\nMarket Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MRNA | 175.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & ...",
       "url": "https://finance.yahoo.com/quote/NVDA",
