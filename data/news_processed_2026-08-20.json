@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-08-20",
+    "total_noticias": 6,
+    "gerado_em": "2026-08-20T03:42:51.303441"
+  },
+  "noticias": [
+    {
+      "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & ...",
+      "url": "https://finance.yahoo.com/quote/NVDA",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-19",
+      "resumo": "Industry Semiconductors\n\n### Company Insights\n\n### Research Reports\n\nView More \n\nView More\n\n### People Also Watch\n\nTSLA  Tesla, Inc. \n\n335. 26 -1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "This Stock Has Become Too Important to the AI Revolution ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-become-too-important-ai-170037670.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-19",
+      "resumo": "Third, gross margins remain at 75%, and management plans to return roughly 50% of free cash flow to shareholders.  Analyst consensus target of $302. 83, with 58 buy ratings, backstops the bull path.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Famous Billionaires Were Rushing to Buy Taiwan Semiconductor (TSM). Here’s Why",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/famous-billionaires-were-rushing-buy-183916148.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-18",
+      "resumo": "Most active \n       INTC Intel Corporation 95. 87-7. 62(-7.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
+      "fonte": "bloomberg.com",
+      "data": "2026-08-19",
+      "resumo": "Starship Launch\n\nChaos at SpaceXAI\n\nTesla Merger Speculation\n\nBack Forward\n\nTechnology\n\nAI\n\n# SpaceX Attempted to Acquire AI Coding Startup Cognition\n\nImage 1: The Cognition AI Inc.  logo on a smartphone. \n\nThe Cognition AI Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "SpaceX Completes Its $60 Billion Cursor Acquisition",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition",
+      "fonte": "bloomberg.com",
+      "data": "2026-08-14",
+      "resumo": "Starship Launch\n\nChaos at SpaceXAI\n\nTesla Merger Speculation\n\nBack Forward\n\nTechnology\n\n# SpaceX Completes $60 Billion Acquisition of AI Startup Cursor\n\nImage 1: The Cursor app on a laptop. \n\nThe Cursor app on a laptop. \n\nPhotographer: Gabby Jones/Bloomberg\n\nGift this article\n\nAdd us on Google\n\nContact us: Provide news feedback or report an error\n\nConfidential tip.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Grupo Multi anuncia provisão de R$20 mi para perdas com Casas Bahia",
+      "url": "https://br.investing.com/news/stock-market-news/grupo-multi-anuncia-provisao-de-r20-mi-para-perdas-com-casas-bahia-2043728",
+      "fonte": "br.investing.com",
+      "data": "2026-08-19",
+      "resumo": "| Nome | Último | Var.  % | Vol.  |  |\n ---  --- \n| Moderna BDR | 39,60 | +137,55% | 527,26mil |  |\n| Azevedo & Travassos ON | 5,82 | +22,27% | 1,20M |  |\n| BioNTech BDR | 35,97 | +18,95% | 15,53mil |  |\n| Sequoia ON | 0,07 | +16,67% | 282,50mil |  |\n| Estee Lauder Companies BDR | 21,30 | +16,27% | 1,67mil |  |\n| Paranapanema ON | 0,17 | +13,33% | 13,04M |  |\n| Oncoclinicas ON | 1,24 | +12,73% | 29,86M |  |\n\n| Nome | Último | Var.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
