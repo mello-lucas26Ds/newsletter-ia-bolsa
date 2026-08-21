@@ -1,11 +1,137 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-20",
-    "total_noticias": 77,
-    "gerado_em": "2026-08-20T10:29:06.289326"
+    "data": "2026-08-21",
+    "total_noticias": 70,
+    "gerado_em": "2026-08-21T03:47:20.575115"
   },
   "noticias": [
+    {
+      "titulo": "Advanced Micro Devices, Inc. (AMD) Stock Price, News ...",
+      "url": "https://finance.yahoo.com/quote/AMD",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-20",
+      "resumo": "18. 89\n Enterprise Value/EBITDA\n\n  72. 80\n\n### Financial Highlights\n\n#### Profitability and Income Statement\n\n Profit Margin\n\n  15.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Alibaba Posts Weaker Earnings Amid Heavy AI Investments",
+      "url": "https://www.wsj.com/business/earnings/alibaba-posts-weaker-earnings-amid-heavy-ai-investments-0429baaa",
+      "fonte": "wsj.com",
+      "data": "2026-08-20",
+      "resumo": "The Hangzhou-based company said Thursday that net profit dropped 76% to 10. 54 billion yuan, equivalent to $1. 57 billion, while revenue grew about 8.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Datavault AI (DVLT) Could Be 88% Undervalued On Second Quarter 2026 Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/datavault-ai-dvlt-could-88-032329163.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-20",
+      "resumo": "See our latest analysis for Datavault AI. \n\nDatavault AI's latest report comes after a volatile stretch, with the share price down 23. 40% over the last day and the year to date share price return falling 70.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Alibaba Tops Chinese Tech Stocks This Quarter on AI Resurgence",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-tops-chinese-tech-stocks-013849635.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-20",
+      "resumo": "A key difference is that Tencent is focusing its AI strategy on its social media and content businesses while Alibaba spends heavily across its generative model, cloud and chip operations.  Alibaba has also started to see accelerating cloud growth.  It's even starting to steal back the spotlight from upstart model makers like Z.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The 10 Most Popular AI ETFs of 2026",
+      "url": "https://finance.yahoo.com/markets/options/articles/10-most-popular-ai-etfs-002440472.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-20",
+      "resumo": "You can quibble over whether QQQM counts as an AI ETF, but the Nasdaq-100 has always been a tech proxy, and the tech theme in vogue right now is AI.    \n  \nQQQM is the cheaper, buy-and-hold-oriented version of the more famous QQQ, tracking the same 100 largest non-financial Nasdaq companies.  The fund is dominated by massive tech companies, most of which are heavily involved in AI, including Nvidia, Microsoft, Alphabet, Amazon, Micron, and Broadcom.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Baidu shares at near 1-year low as weak earnings expose limits of AI growth push",
+      "url": "https://za.investing.com/news/stock-market-news/baidu-shares-at-near-1year-low-as-weak-earnings-expose-limits-of-ai-growth-push-4434732",
+      "fonte": "za.investing.com",
+      "data": "2026-08-19",
+      "resumo": "Best Brazilian Stocks\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nItalian Market Elite\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nAlpha Germany Select\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nTASI Superstars\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nKorean Market Leaders\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMexican Bargains\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\n Comments\n\n  \n\nPost\n\nComment Guidelines\n\nCalendars [. ] aaaa aaaaa aaaa a\n\nUnlock Strategy\n\nDominate the Dow\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nTech Titans\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMid-Cap Movers\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nTop Value Stocks\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBest of Buffett\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMexican Stock Exchange Leaders\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBest Brazilian Stocks\n\nStocks in this strategy.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Trades 30.87% Above GF Value as Chip Capacity Tightens",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-trades-30-87-above-220612599.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-20",
+      "resumo": "3.  Most funded\n   4.  Options \n      1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Realty Income: Data Center Vertical A Major Catalyst Now (NYSE:O) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4938358-realty-income-data-center-vertical-a-major-catalyst-now",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-19",
+      "resumo": "This article was written by\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of O, WPC either through stock ownership, options, or other derivatives.  I wrote this article myself, and it expresses my own opinions.  I am not receiving compensation for it (other than from Seeking Alpha).",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "2 Semiconductor Stocks Worth Your Attention and 1 We Brush Off",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-worth-attention-101402594.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-20",
+      "resumo": "## Stocks We Like Even More\n\nONE MORE THING: Top 5 Growth Stocks.  The biggest stock winners almost always had one thing in common before they ran.  Revenue growing like crazy.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Cathie Wood buys $22.3 million of surging semiconductor stock",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-22-3-183300380.html",
@@ -553,20 +679,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Exclusive | DeepMind’s Hassabis Pitched AI-Oversight Body Before Shake-Up",
-      "url": "https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71",
-      "fonte": "wsj.com",
-      "data": "2026-08-13",
-      "resumo": "### Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI\n\n### Japan to Buy Nvidia Chips to Power Its AI Push\n\n### Oil Prices Drop After Iran Cleared to Sell Crude in Dollars [. ] Hassabis, who co-founded Google DeepMind and is considered a pioneer in the field of machine learning, has been spending increasing amounts of his time advancing the idea of an organization that would codify safety guardrails and best practices for developing artificial general intelligence, or AGI, these people said.  In discussions with peers, he has likened the proposed entity to the International Atomic Energy Agency, a nongovernmental watchdog that promotes cooperation on nuclear energy.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom",
       "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-chip-134300878.html",
       "fonte": "finance.yahoo.com",
@@ -580,21 +692,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 89
-    },
-    {
-      "titulo": "S&P 500 notches record-high close as rate-hike worries ease",
-      "url": "https://www.reuters.com/business/retail-consumer/wall-st-futures-tick-higher-oil-retreats-ahead-inflation-data-2026-08-13",
-      "fonte": "reuters.com",
-      "data": "2026-08-13",
-      "resumo": "O S&P 500 atingiu um novo recorde de fechamento, enquanto as preocupações com a alta de juros diminuem. A robusta performance de várias setores contribuiu para o aumento dos preços das ações. A Nasdaq, que havia caído mais de 10% abaixo de seus recordes históricos, recuperou-se após a divulgação de resultados sólidos de empresas de hiperscalers de IA e tecnologia.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 71
     },
     {
       "titulo": "AI Money Moves Put These Five Stocks In Spotlight Last Week: NVDA, INTC, ORCL, AMD, SNDK",
@@ -655,21 +752,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 79
-    },
-    {
-      "titulo": "Cerebras slumps as mixed quarterly results test AI growth narrative",
-      "url": "https://www.reuters.com/business/cerebras-slumps-mixed-quarterly-results-test-ai-growth-narrative-2026-08-13",
-      "fonte": "reuters.com",
-      "data": "2026-08-13",
-      "resumo": "A Cerebras apresentou resultados mistos em seu segundo relatório financeiro como empresa pública, com sua receita de hardware, incluindo chips de IA, caindo para $54,1 milhões em comparação com $70,3 milhões no ano anterior. A empresa também apresentou uma margem bruta ajustada menor, de 40,6% em comparação com 46,5% no trimestre anterior. Apesar disso, a receita da empresa de nuvem quase quadruplicou para $126 milhões.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Cerebras",
-        "Tecnologia"
-      ],
-      "score_relevancia": 4.0,
-      "tokens_usados": 74
     },
     {
       "titulo": "Kulicke and Soffa, AMD, Intel, and Nvidia Shares Are Soaring, What You Need To Know",
@@ -794,21 +876,6 @@
       "tokens_usados": 74
     },
     {
-      "titulo": "The AI Trade Gets a Boost Ahead of Earnings Seasons' Final Boss",
-      "url": "https://www.businessinsider.com/ai-infrastructure-trade-gets-a-boost-coreweave-nebius-nvidia-earnings-2026-8",
-      "fonte": "businessinsider.com",
-      "data": "2026-08-13",
-      "resumo": "Após alguns relatórios de lucro positivos, a tendência de investimento em tecnologia de inteligência artificial (IA) está recebendo um impulso. Empresas como CoreWeave e Nebius relataram crescimento significativo de receita e backlog de pedidos, levando a um aumento de suas ações. Especialistas acreditam que a demanda por tecnologia de IA está crescendo rapidamente e que a preocupação é com a capacidade de suprimento, em vez de demanda.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercados"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 76
-    },
-    {
       "titulo": "5 AI Stocks with Strong Growth to Buy on the Rebound",
       "url": "https://www.benzinga.com/opinion/26/08/61224022/5-ai-stocks-with-strong-growth-to-buy-on-the-rebound",
       "fonte": "benzinga.com",
@@ -839,21 +906,6 @@
       "tokens_usados": 139
     },
     {
-      "titulo": "Sandisk apresenta metas financeiras até o ano fiscal de 2030",
-      "url": "https://br.investing.com/news/company-news/sandisk-apresenta-metas-financeiras-ate-o-ano-fiscal-de-2030-93CH-2038489",
-      "fonte": "br.investing.com",
-      "data": "2026-08-13",
-      "resumo": "A Sandisk apresentou metas financeiras até o ano fiscal de 2030, mas não há informações específicas sobre o conteúdo dessas metas. A notícia não está relacionada à Sandisk, mas sim apresenta uma lista de ações em destaque e notícias financeiras.",
-      "sentimento": "neutral",
-      "tags": [
-        "tecnologia",
-        "finance",
-        "mercado_acao"
-      ],
-      "score_relevancia": 2.0,
-      "tokens_usados": 49
-    },
-    {
       "titulo": "Cathie Wood picks up $44.7 million in shares of two highly watched tech stocks. Is it too late to follow along?",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-picks-44-7-115500302.html",
       "fonte": "finance.yahoo.com",
@@ -869,21 +921,6 @@
       "tokens_usados": 66
     },
     {
-      "titulo": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
-      "url": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-13",
-      "resumo": "A Kospi da Coreia do Sul entrou em um mercado de ações de alta em apenas mais de um mês, graças a uma recuperação acelerada impulsionada pela revivência global do comércio de inteligência artificial. A Kospi subiu mais de 4% no início da negociação, levando sua recuperação desde o baixo histórico de 30 de julho a cerca de 23%. Investidores estão voltando a apoiar ações de hardware de tecnologia, pois as últimas divulgações de lucros de gigantes tecnológicos apontam para um gasto contínuo em inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Coreia do Sul"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 97
-    },
-    {
       "titulo": "Mad Money’s Jim Cramer Says These 6 AI Stocks are Primed to Surge",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mad-money-jim-cramer-says-192419592.html",
       "fonte": "finance.yahoo.com",
@@ -897,36 +934,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 63
-    },
-    {
-      "titulo": "Intuit: Strong Fundamentals Amid AI Fears Make The Stock Attractive (NASDAQ:INTU)",
-      "url": "https://seekingalpha.com/article/4935926-intuit-strong-fundamentals-amid-ai-fears-make-the-stock-attractive",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-13",
-      "resumo": "A Intuit está se preparando para sua relatórios de Q4, após um ano de queda no preço da ação. A empresa está trabalhando para se tornar uma empresa \"ampliada por IA\" em vez de ser \"desafiada pela IA\". A gestão precisa provar que a IA aumenta o valor dos clientes para transformar o maior risco em uma força.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "NASDAQ",
-        "Finance"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 67
-    },
-    {
-      "titulo": "Google lança modelo de IA Gemini 3.7 Flash para tarefas de programação",
-      "url": "https://br.investing.com/news/stock-market-news/google-lanca-modelo-de-ia-gemini-37-flash-para-tarefas-de-programacao-93CH-2038612",
-      "fonte": "br.investing.com",
-      "data": "2026-08-13",
-      "resumo": "A Google lançou o modelo de IA Gemini 3.7 Flash para tarefas de programação, mas não há informações específicas sobre como isso afetará as ações de empresas relacionadas à tecnologia e inteligência artificial. No entanto, as ações de empresas como Estrela PN, Grupo Multi ON e Azevedo & Travassos ON apresentaram aumentos significativos, enquanto ações como Hapvida ON e OSX Brasil ON apresentaram quedas.",
-      "sentimento": "bullish",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Inteligência Artificial"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
     },
     {
       "titulo": "Eventually, Free Cash Flow Will Matter Again",
@@ -1003,127 +1010,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 55
-    },
-    {
-      "titulo": "Corning Incorporated: Well-Positioned AI Infrastructure Play",
-      "url": "https://seekingalpha.com/article/4935796-corning-stock-well-positioned-ai-infrastructure-play",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-13",
-      "resumo": "A Corning Incorporated (GLW) é uma empresa bem posicionada para aproveitar a infraestrutura de inteligência artificial (IA). Com a narrativa de IA otimista fortalecida, a empresa é vista como uma oportunidade atraente para investidores. A Corning está bem posicionada para aproveitar o crescimento da demanda por soluções de IA e tecnologia de dados.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Infraestrutura"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 62
-    },
-    {
-      "titulo": "Dan Ives Says CoreWeave, Cisco Earnings ‘Pieces of the Puzzle’ for AI Trade: ‘Get the Popcorn Out’",
-      "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-coreweave-cisco-165357370.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-13",
-      "resumo": "O analista Dan Ives considera as divulgações de resultados de CoreWeave e Cisco como \"peças do quebra-cabeça\" para a tendência de investimento em inteligência artificial. Ele afirma que a tendência de investimento em AI está apenas começando e que os resultados dessas empresas podem mostrar a tendência de crescimento antes dos resultados de NVIDIA, que são esperados para o final do mês.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Inteligência Artificial",
-        "NASDAQ"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 72
-    },
-    {
-      "titulo": "Big Tech's AI Revenue Is Surging, But Suppliers Will Still ...",
-      "url": "https://seekingalpha.com/article/4936192-big-tech-ai-revenue-is-surging-but-suppliers-will-still-be-the-bigger-winners",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-13",
-      "resumo": "A receita de AI das grandes tecnologias está crescendo, mas os fornecedores ainda serão os maiores ganhadores. As empresas como Microsoft, Alphabet e Amazon estão registrando um aumento significativo em suas receitas de nuvem, mas os fornecedores de tecnologia de AI ainda têm espaço para crescer.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "BigTech"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 55
-    },
-    {
-      "titulo": "META_TITLE_QUOTE",
-      "url": "https://finance.yahoo.com/quote/CRWV",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-13",
-      "resumo": "A CoreWeave (CRWV) está expandindo sua capacidade de negociação com inteligência artificial (IA) com um novo acordo significativo, refletindo uma demanda robusta. Analistas prevêem que a receita do empresa mais que dobrará em relação ao ano anterior, destacando o potencial de crescimento da empresa apesar da volatilidade recente no preço da ação.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Software",
-        "Infraestrutura",
-        "Negociação"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 117
-    },
-    {
-      "titulo": "5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-semiconductor-stocks-jim-cramer-171441263.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-13",
-      "resumo": "As ações de cinco empresas de semicondutores, incluindo Qualcomm (QCOM), Lam Research (LRCX), NVIDIA (NVDA), AMD (AMD) e ASML, estão em destaque devido a suas realizações financeiras recentes e perspectivas futuras. A NVIDIA guiou uma receita de $91 bilhões para o próximo trimestre, enquanto a AMD registrou uma receita de $11,536 bilhões no segundo trimestre de 2026, com um crescimento de 50,1% em relação ao mesmo período do ano anterior.",
-      "sentimento": "bullish",
-      "tags": [
-        "Semicondutores",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 81
-    },
-    {
-      "titulo": "Azure, Foundries, and Accelerators: Grading the AI ...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/azure-foundries-accelerators-grading-ai-170031235.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-13",
-      "resumo": "A 24/7 Wall St. avaliou as principais empresas envolvidas no desenvolvimento de tecnologia de inteligência artificial, destacando Microsoft, TSMC e AMD. A TSMC foi considerada a melhor opção, com uma melhoria de 77% na receita líquida no último trimestre e uma margem bruta de 67,7%. Já a AMD foi considerada cara, com um P/E de 124 após uma alta de 119% no ano até agora.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
-    },
-    {
-      "titulo": "Micron Technology's (MU) Competitive Edge in a Rapidly ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-competitive-edge-143850791.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-13",
-      "resumo": "A Aron Capital destaca a Micron Technology (MU) como líder no mercado de memória e armazenamento, com um potencial de crescimento impulsionado pela demanda por AI. A empresa beneficia de uma vantagem competitiva devido à escassez de memória e capacidade de investimento excepcionalmente alto. A Micron Technology é uma das 40 ações mais populares entre os fundos de hedge em 2026.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Micron Technology",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 71
-    },
-    {
-      "titulo": "META_TITLE_QUOTE",
-      "url": "https://finance.yahoo.com/quote/VALE",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-13",
-      "resumo": "Vale S.A. é uma empresa de mineração de outros metais e minerais, com sede no Brasil. A empresa apresentou retornos significativos nos últimos anos, incluindo um aumento de 9,31% no ano até agora e 52,63% nos últimos 12 meses. A empresa é líder em mineração de ferro e níquel e também é envolvida em pesquisas e atividades de comércio.",
-      "sentimento": "bullish",
-      "tags": [
-        "Mineração",
-        "Metais",
-        "Brasil"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 68
     }
   ]
 }
