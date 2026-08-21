@@ -2,16 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-21",
-    "total_noticias": 9,
-    "gerado_em": "2026-08-21T03:47:20.573169"
+    "total_noticias": 4,
+    "gerado_em": "2026-08-21T10:29:00.073842"
   },
   "noticias": [
     {
-      "titulo": "Advanced Micro Devices, Inc. (AMD) Stock Price, News ...",
-      "url": "https://finance.yahoo.com/quote/AMD",
+      "titulo": "This Stock Is Riding an AI Wave That Shows No Signs ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/stock-riding-ai-wave-shows-130020996.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-08-20",
-      "resumo": "18. 89\n Enterprise Value/EBITDA\n\n  72. 80\n\n### Financial Highlights\n\n#### Profitability and Income Statement\n\n Profit Margin\n\n  15.",
+      "resumo": "Insider activity has skewed to net selling across 122 recent transactions.  Bulls counter that inventory build reflects genuine 2nm pull-through and that Arizona capacity materially reduces geopolitical discount over time. \n\nTSM price scenario\n\nTSM Price Scenario — 24/7 Wall St.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -21,67 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Alibaba Posts Weaker Earnings Amid Heavy AI Investments",
-      "url": "https://www.wsj.com/business/earnings/alibaba-posts-weaker-earnings-amid-heavy-ai-investments-0429baaa",
-      "fonte": "wsj.com",
-      "data": "2026-08-20",
-      "resumo": "The Hangzhou-based company said Thursday that net profit dropped 76% to 10. 54 billion yuan, equivalent to $1. 57 billion, while revenue grew about 8.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Datavault AI (DVLT) Could Be 88% Undervalued On Second Quarter 2026 Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/datavault-ai-dvlt-could-88-032329163.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "See our latest analysis for Datavault AI. \n\nDatavault AI's latest report comes after a volatile stretch, with the share price down 23. 40% over the last day and the year to date share price return falling 70.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Alibaba Tops Chinese Tech Stocks This Quarter on AI Resurgence",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-tops-chinese-tech-stocks-013849635.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "A key difference is that Tencent is focusing its AI strategy on its social media and content businesses while Alibaba spends heavily across its generative model, cloud and chip operations.  Alibaba has also started to see accelerating cloud growth.  It's even starting to steal back the spotlight from upstart model makers like Z.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The 10 Most Popular AI ETFs of 2026",
-      "url": "https://finance.yahoo.com/markets/options/articles/10-most-popular-ai-etfs-002440472.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "You can quibble over whether QQQM counts as an AI ETF, but the Nasdaq-100 has always been a tech proxy, and the tech theme in vogue right now is AI.    \n  \nQQQM is the cheaper, buy-and-hold-oriented version of the more famous QQQ, tracking the same 100 largest non-financial Nasdaq companies.  The fund is dominated by massive tech companies, most of which are heavily involved in AI, including Nvidia, Microsoft, Alphabet, Amazon, Micron, and Broadcom.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Baidu shares at near 1-year low as weak earnings expose limits of AI growth push",
-      "url": "https://za.investing.com/news/stock-market-news/baidu-shares-at-near-1year-low-as-weak-earnings-expose-limits-of-ai-growth-push-4434732",
-      "fonte": "za.investing.com",
+      "titulo": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors. - MarketWatch",
+      "url": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1",
+      "fonte": "marketwatch.com",
       "data": "2026-08-19",
-      "resumo": "Best Brazilian Stocks\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nItalian Market Elite\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nAlpha Germany Select\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nTASI Superstars\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nKorean Market Leaders\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMexican Bargains\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\n Comments\n\n  \n\nPost\n\nComment Guidelines\n\nCalendars [. ] aaaa aaaaa aaaa a\n\nUnlock Strategy\n\nDominate the Dow\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nTech Titans\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMid-Cap Movers\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nTop Value Stocks\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBest of Buffett\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMexican Stock Exchange Leaders\n\nStocks in this strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBest Brazilian Stocks\n\nStocks in this strategy.",
+      "resumo": "MarketWatch Logo\n\nServiceNow’s stock leads a software rally.  Here’s what’s energizing investors. \n\n(4 min)\n\n## \n\n### Account Settings\n\n## Tech Stocks\n\n# ServiceNow’s stock leads a software rally.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -91,26 +35,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TSMC Trades 30.87% Above GF Value as Chip Capacity Tightens",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-trades-30-87-above-220612599.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "3.  Most funded\n   4.  Options \n      1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Realty Income: Data Center Vertical A Major Catalyst Now (NYSE:O) | Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4938358-realty-income-data-center-vertical-a-major-catalyst-now",
+      "titulo": "Palantir: Why I'm Not Buying This Rally (NASDAQ:PLTR) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4938263-palantir-why-im-not-buying-this-rally",
       "fonte": "seekingalpha.com",
       "data": "2026-08-19",
-      "resumo": "This article was written by\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of O, WPC either through stock ownership, options, or other derivatives.  I wrote this article myself, and it expresses my own opinions.  I am not receiving compensation for it (other than from Seeking Alpha).",
-      "sentimento": "neutral",
+      "resumo": "Bohdan Kucheriavyi\n\n10. 53K Followers\n\n## Summary\n\n Palantir Technologies Inc.  delivered robust Q2 results, accelerating growth for the twelfth consecutive quarter and raising guidance across all key metrics.",
+      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -119,11 +49,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "2 Semiconductor Stocks Worth Your Attention and 1 We Brush Off",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-worth-attention-101402594.html",
+      "titulo": "Alibaba Stock Near Fair Value as Investors Await AI Growth Update",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-stock-near-fair-value-204631622.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "## Stocks We Like Even More\n\nONE MORE THING: Top 5 Growth Stocks.  The biggest stock winners almost always had one thing in common before they ran.  Revenue growing like crazy.",
+      "data": "2026-08-18",
+      "resumo": "Alibaba Stock Near Fair Value as Investors Await AI Growth Update · us. finance. gurufocus\n\n \n\nThe valuation picture also shows a market that is already pricing in improvement: Alibaba traded at $124.",
       "sentimento": "bullish",
       "tags": [
         "AI",
