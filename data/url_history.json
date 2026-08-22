@@ -1,56 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/5-semiconductor-stocks-jim-cramer-171441263.html": {
-    "hash": "ab4099b4048dc42d107fb7bcf11fb505",
-    "visto_em": "2026-08-14"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-019-4850239": {
-    "hash": "c47c2003ca7de9022184afe180a783b8",
-    "visto_em": "2026-08-14"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/azure-foundries-accelerators-grading-ai-170031235.html": {
-    "hash": "ac44fa29a1d510fcec161e8db90b90b7",
-    "visto_em": "2026-08-14"
-  },
-  "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-inflation-data-5deef0c8": {
-    "hash": "ca288ba8c616c4bc4aa089464082362d",
-    "visto_em": "2026-08-14"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-boom-paying-off-research-212000326.html": {
-    "hash": "b5f313a1f2981eb299a10042fce8ba8a",
-    "visto_em": "2026-08-14"
-  },
-  "https://seekingalpha.com/news/4629661-ai-investment-will-fuel-more-equity-issuance-but-buybacks-will-cushion-effects-goldman-sachs": {
-    "hash": "501676a1e94e80c14426d357c75b535e",
-    "visto_em": "2026-08-14"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/ai-popular-topic-investment-banks-205101264.html": {
-    "hash": "d0f75ece773b7cc0e7ca53233a423414",
-    "visto_em": "2026-08-14"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-competitive-edge-143850791.html": {
-    "hash": "80349f7f11f22bb94fa3b861f3f549fd",
-    "visto_em": "2026-08-14"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-coreweave-cisco-165357370.html": {
-    "hash": "a1449da1fe5ecc61cc831fec87e49cea",
-    "visto_em": "2026-08-14"
-  },
-  "https://seekingalpha.com/article/4936192-big-tech-ai-revenue-is-surging-but-suppliers-will-still-be-the-bigger-winners": {
-    "hash": "47206e1388f3a8b1d937734f4684da33",
-    "visto_em": "2026-08-14"
-  },
-  "https://finance.yahoo.com/quote/CRWV": {
-    "hash": "8cf06e6bcc3f52a92d42b1a6c5101f09",
-    "visto_em": "2026-08-14"
-  },
-  "https://www.investing.com/news/transcripts/earnings-call-transcript-coreweave-tops-q2-2026-estimates-shares-jump-135-93CH-4852937": {
-    "hash": "d87a286fd0e0b8c633b3a6d723c82ce5",
-    "visto_em": "2026-08-14"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/fastly-stock-rising-today-driving-191705298.html": {
-    "hash": "7f73b605bd108062a00bf82a6b4a0e88",
-    "visto_em": "2026-08-14"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/two-stocks-quietly-beating-nvidia-112714362.html": {
     "hash": "1c7a1e4e42d7209ca413f4d5341bb1f1",
     "visto_em": "2026-08-15"
@@ -426,5 +374,21 @@
   "https://finance.yahoo.com/markets/stocks/articles/alibaba-stock-near-fair-value-204631622.html": {
     "hash": "638ee001088674f0abfdb3bdbc0ba7f7",
     "visto_em": "2026-08-21"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html": {
+    "hash": "f408e994635fa7d82ff142b73236ca88",
+    "visto_em": "2026-08-22"
+  },
+  "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af": {
+    "hash": "249729b412d0674bcc5154232fa6a5f7",
+    "visto_em": "2026-08-22"
+  },
+  "https://www.marketwatch.com/investing/stock/tsm": {
+    "hash": "d659dab6d8dde4d9cbd2e66460c8741d",
+    "visto_em": "2026-08-22"
+  },
+  "https://za.investing.com/news/transcripts/earnings-call-transcript-iph-h2-2026-profit-rises-as-stock-falls-78-93CH-4436698": {
+    "hash": "8ea77d4fd4af4cc4671d4ecc1d720e8d",
+    "visto_em": "2026-08-22"
   }
 }

@@ -1,11 +1,67 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-21",
-    "total_noticias": 74,
-    "gerado_em": "2026-08-21T10:29:00.089795"
+    "data": "2026-08-22",
+    "total_noticias": 61,
+    "gerado_em": "2026-08-22T03:38:47.732674"
   },
   "noticias": [
+    {
+      "titulo": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-21",
+      "resumo": ". \n\nGuruFocus. com\n\n# TSMC Rises Ahead of Nvidia's Critical AI Demand Test\n\nKhac Phu Nguyen\n\n1 min read\n\n TSM\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back.",
+      "url": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af",
+      "fonte": "marketwatch.com",
+      "data": "2026-08-18",
+      "resumo": "Nasdaq 26331. 09 0. 16%\n\nVIX 14.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote (U.S. ...",
+      "url": "https://www.marketwatch.com/investing/stock/tsm",
+      "fonte": "marketwatch.com",
+      "data": "2026-08-20",
+      "resumo": "## Competitors\n\n| Name | Chg % | Market Cap |\n --- \n| NVIDIA Corp.  | -0. 99% | $5.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Earnings call transcript: IPH H2 2026 profit rises as stock falls 7.8%",
+      "url": "https://za.investing.com/news/transcripts/earnings-call-transcript-iph-h2-2026-profit-rises-as-stock-falls-78-93CH-4436698",
+      "fonte": "za.investing.com",
+      "data": "2026-08-20",
+      "resumo": "AI to enhance client service, improve visibility across IP portfolios, and support stronger collaboration across our network.  Meanwhile, we maintain strong governance standards surrounding the use of AI across the business, including human accountability over decision-making.  On slide 24.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "This Stock Is Riding an AI Wave That Shows No Signs ...",
       "url": "https://finance.yahoo.com/technology/ai/articles/stock-riding-ai-wave-shows-130020996.html",
@@ -315,20 +371,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "SpaceX Completes Its $60 Billion Cursor Acquisition",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition",
-      "fonte": "bloomberg.com",
-      "data": "2026-08-14",
-      "resumo": "Starship Launch\n\nChaos at SpaceXAI\n\nTesla Merger Speculation\n\nBack Forward\n\nTechnology\n\n# SpaceX Completes $60 Billion Acquisition of AI Startup Cursor\n\nImage 1: The Cursor app on a laptop. \n\nThe Cursor app on a laptop. \n\nPhotographer: Gabby Jones/Bloomberg\n\nGift this article\n\nAdd us on Google\n\nContact us: Provide news feedback or report an error\n\nConfidential tip.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Grupo Multi anuncia provisão de R$20 mi para perdas com Casas Bahia",
       "url": "https://br.investing.com/news/stock-market-news/grupo-multi-anuncia-provisao-de-r20-mi-para-perdas-com-casas-bahia-2043728",
       "fonte": "br.investing.com",
@@ -363,20 +405,6 @@
       "data": "2026-08-18",
       "resumo": "Top losers \n       KLAR Klarna Group plc 15. 06-4. 45(-22.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Mizuho reitera classificação da Applied Materials com base na força da IA Por Investing.com",
-      "url": "https://br.investing.com/news/analyst-ratings/mizuho-reitera-classificacao-da-applied-materials-com-base-na-forca-da-ia-93CH-2039474",
-      "fonte": "br.investing.com",
-      "data": "2026-08-14",
-      "resumo": "Essa notícia foi traduzida com a ajuda de inteligência artificial.  Para mais informação, veja nossos Termos de Uso. \n\n## Últimos comentários\n\n| Nome | Último | Var.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -489,20 +517,6 @@
       "data": "2026-08-17",
       "resumo": "Selected editionUS English\n\n, a semiconductor company focused on data infrastructure, jumped approximately 6. 1% to $235. 53 Monday morning as investors continued rotating into artificial-intelligence infrastructure names.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Wall St Week Ahead With Fed mum on next move ...",
-      "url": "https://www.reuters.com/legal/transactional/wall-st-week-ahead-with-fed-mum-next-move-investors-look-earnings-keep-stocks-2026-08-14",
-      "fonte": "reuters.com",
-      "data": "2026-08-14",
-      "resumo": "## 'EARNINGS TRUMP ⁠ALL OTHER PROBLEMS'\n\nFor Chris Grisanti, chief market strategist at MAI Capital Management, hyperscaler spending plans are among the most important developments to watch.  Recent earnings reports, he said, have increasingly clarified which companies stand to benefit most from the AI boom. \n\nBig Tech's AI ​spending is set to rise past $700 billion this year from $400 billion in 2025, and the scale of those investments has ​fueled questions about whether ⁠hyperscalers can generate sufficient returns to justify the massive capital outlay.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -637,20 +651,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
-      "url": "https://www.reuters.com/legal/government/institutional-investors-reveal-cautious-approach-tech-favorites-us-quarterly-13f-2026-08-14",
-      "fonte": "reuters.com",
-      "data": "2026-08-14",
-      "resumo": "During the second quarter, AI-related stocks ranging from ​memory chips to data centers \"moved from (being) a fundamental growth story into a highly leveraged momentum trade,\" said Bruno Schneller, managing partner at multi-family office Erlen ​Capital Management, which invests in ⁠hedge funds. \n\nThe July selloff in many of these names, Schneller added, \"was less a rejection of the long-term AI thesis and more a classic crowded-trade unwind amplified by leverage and inadequate risk controls. \"\n\nDespite the spike in crude oil prices during the second quarter, institutional investors in aggregate showed little affection for the sector, with 40.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "3 Under-the-Radar Chip Stocks Wall Street Is Sleeping On in August",
       "url": "https://finance.yahoo.com/technology/articles/3-under-radar-chip-stocks-110026805.html",
       "fonte": "finance.yahoo.com",
@@ -670,20 +670,6 @@
       "fonte": "investing.com",
       "data": "2026-08-16",
       "resumo": "By Fawad Razaqz. \n\nAug 14, 2026\n\nImage 23\n\nImage 24\n\nThe AI Compute Boom Isn’t Peaking — It’s Just Getting Started\n\nBy Ivana Delevs. \n\nAug 15, 2026\n\nImage 25\n\nImage 26\n\nHedge Fund at Home: How AI Is Rewiring Retail Trading and Testing Its Limits\n\nBy Charles-Henr.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "4 Nuclear Stocks Riding the AI Power Boom Into 2027 and Beyond",
-      "url": "https://finance.yahoo.com/energy/articles/4-nuclear-stocks-riding-ai-162500400.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-14",
-      "resumo": "## Constellation Energy dominates\n\nOn the opposite end of the risk spectrum is Constellation Energy (NASDAQ: CEG), which is already the largest owner and operator of nuclear generation in the U. S.  The company has long-term power purchase agreements in place with hyperscalers such as Meta and Microsoft.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -855,67 +841,6 @@
       "tokens_usados": 81
     },
     {
-      "titulo": "Nvidia's Next-Gen Feynman AI Platform Is Ramping Up, Forcing TSMC to Race Ahead: Report - NVIDIA (NASDAQ: - Benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/08/61201714/nvidias-next-gen-feynman-ai-platform-is-ramping-up-forcing-tsmc-to-race-ahead-report",
-      "fonte": "benzinga.com",
-      "data": "2026-08-14",
-      "resumo": "A Nvidia está prestes a lançar sua plataforma de IA Feynman, o que está forçando a TSMC a acelerar seus planos. O analista da Bank of America, Vivek Arya, mantém a Nvidia como uma das suas escolhas de investimento e prevê que a empresa ultrapasse os $95 bilhões em receita no segundo trimestre.",
-      "sentimento": "bullish",
-      "tags": [
-        "[NVIDIA",
-        "TSMC",
-        "IA",
-        "Tecnologia]"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 63
-    },
-    {
-      "titulo": "What's next for Meta Platforms after this quarter's AI-driven ...",
-      "url": "https://seekingalpha.com/news/4631725-whats-next-for-meta-platforms-after-this-quarters-ai-driven-selloff",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-14",
-      "resumo": "Após o relatório de resultados misto do Meta Platforms no 2º trimestre de 2026, as ações da empresa caíram apesar de uma alta de 28% na receita anual. As investidas agressivas na infraestrutura de IA aumentaram os gastos em 55%, resultando em uma queda de 90% na liquidez livre de caixa e uma queda de 13% nos lucros.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Meta Platforms",
-        "NASDAQ"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "Intel's Best Growth in 15 Years: 25% Revenue Surge and ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-best-growth-15-years-140030886.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-14",
-      "resumo": "A Intel registrou um aumento de 25% nas receitas, o melhor desempenho em 15 anos, impulsionado pelo crescimento de IA e Data Center. A empresa foi avaliada com uma nota de COMPRA e um alvo de preço de $108. A participação de NVIDIA no valor de $5 bilhões na Intel valida a estratégia de IA da empresa.",
-      "sentimento": "bullish",
-      "tags": [
-        "Intel",
-        "IA",
-        "Tecnologia"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 66
-    },
-    {
-      "titulo": "Applied Materials Forecast Gets Tepid Reaction After Stock Rally",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-forecast-gets-tepid-202405583.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-14",
-      "resumo": "A Applied Materials divulgou uma previsão que superou as expectativas dos analistas, mas a reação dos investidores foi fria, após uma corrida ao preço da ação que mais que dobrou. A empresa, líder nos EUA na fabricação de equipamentos de chips, enfrenta pressão para manter os altos padrões de desempenho.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 59
-    },
-    {
       "titulo": "AMD, Intel and NVIDIA All Rally as Super Micro's Blowout ...",
       "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html",
       "fonte": "finance.yahoo.com",
@@ -932,21 +857,6 @@
       "tokens_usados": 74
     },
     {
-      "titulo": "5 AI Stocks with Strong Growth to Buy on the Rebound",
-      "url": "https://www.benzinga.com/opinion/26/08/61224022/5-ai-stocks-with-strong-growth-to-buy-on-the-rebound",
-      "fonte": "benzinga.com",
-      "data": "2026-08-14",
-      "resumo": "Cinco ações de inteligência artificial com crescimento forte para comprar na recuperação. A Marvell Technology Inc. é uma das empresas que destacam-se, com um score de crescimento de 99,81 pontos. A empresa tem suas mãos em camadas de interconexão após uma infusão de capital em março de 2025, graças a um investimento de $2 bilhões da NVIDIA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 9.0,
-      "tokens_usados": 66
-    },
-    {
       "titulo": "IA não causa “apocalipse” no mercado de trabalho dos EUA, mas alguns sinais já surgem",
       "url": "https://www.infomoney.com.br/economia/ia-nao-causa-apocalipse-no-mercado-de-trabalho-dos-eua-mas-alguns-sinais-ja-surgem",
       "fonte": "infomoney.com.br",
@@ -960,112 +870,6 @@
       ],
       "score_relevancia": 6.0,
       "tokens_usados": 139
-    },
-    {
-      "titulo": "Cathie Wood picks up $44.7 million in shares of two highly watched tech stocks. Is it too late to follow along?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-picks-44-7-115500302.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-14",
-      "resumo": "A investidora Cathie Wood adquiriu US$ 44,7 milhões em ações de duas empresas de tecnologia altamente monitoradas, TSMC e SpaceX. A compra foi financiada em parte pela venda de ações de Amazon, Alphabet e Shopify. A TSMC é a maior fabricante de chips sob encomenda do mundo e fornece chips para gigantes de IA como a Nvidia.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 66
-    },
-    {
-      "titulo": "Mad Money’s Jim Cramer Says These 6 AI Stocks are Primed to Surge",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mad-money-jim-cramer-says-192419592.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-14",
-      "resumo": "Jim Cramer, do Mad Money, diz que seis ações de inteligência artificial estão prontas para surpreender. As ações de AI Data Center, que haviam caído em junho, recuperaram força na semana passada, com Nebius liderando com um ganho de 34,14%. Cramer afirma que a confiança foi restaurada após uma série de desenvolvimentos recentes.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Inteligência Artificial",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 63
-    },
-    {
-      "titulo": "Eventually, Free Cash Flow Will Matter Again",
-      "url": "https://seekingalpha.com/article/4936803-eventually-free-cash-flow-will-matter-again",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-14",
-      "resumo": "Apesar de empresas de tecnologia como Meta, Alphabet e Oracle apresentarem crescimento impressionante em receita e lucro, sua cash flow livre está deteriorando rapidamente. A captação de capital, litígios e investimentos em infraestrutura estão afetando negativamente o fluxo de caixa dessas empresas. O mercado está apostando na rentabilidade futura de investimentos em IA, mas a divergência entre lucro e cash flow livre levanta dúvidas sobre a possibilidade de um ciclo boom-bust.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 82
-    },
-    {
-      "titulo": "Lucro da Vibra quase quadriplica no 2° tri Por Reuters",
-      "url": "https://br.investing.com/news/stock-market-news/lucro-da-vibra-quase-quadriplica-no-2-tri-2040100",
-      "fonte": "br.investing.com",
-      "data": "2026-08-14",
-      "resumo": "A Vibra anunciou um lucro líquido quase quatro vezes maior no 2° trimestre, superando as expectativas de analistas que previam um lucro líquido de R$2,1 bilhões. A empresa também apresentou um Ebitda de R$3,4 bilhões e uma receita líquida de R$55,4 bilhões.",
-      "sentimento": "bullish",
-      "tags": [
-        "tecnologia",
-        "mercado de ações",
-        "lucro"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 53
-    },
-    {
-      "titulo": "Braskem reverte prejuízo e tem lucro de R$3,33 bi no 2º tri",
-      "url": "https://br.investing.com/news/stock-market-news/braskem-reverte-prejuizo-e-tem-lucro-de-r333-bi-no-2o-tri-2039307",
-      "fonte": "br.investing.com",
-      "data": "2026-08-14",
-      "resumo": "A Braskem apresentou lucro de R$3,33 bilhões no 2º trimestre de 2023, revertendo o prejuízo do período anterior. A empresa destacou a melhoria da demanda por petroquímicos e a redução de custos como fatores importantes para o resultado positivo.",
-      "sentimento": "bullish",
-      "tags": [
-        "Petroquímica",
-        "Petróleo",
-        "Economia Brasileira"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 49
-    },
-    {
-      "titulo": "Two Stocks Are Quietly Beating Nvidia, and Wall Street Wants Them 30% Higher",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/two-stocks-quietly-beating-nvidia-112714362.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-14",
-      "resumo": "A Taiwan Semiconductor (TSM) está superando a Nvidia em termos de desempenho, com um retorno de 154% desde agosto de 2024, contra 79% da Nvidia. A TSMC é considerada uma \"Strong Buy\" pelos analistas, com cerca de 27% de potencial de aumento. Além disso, a Ciena (CIEN) também tem superado a Nvidia em 16 ocasiões no último ano.",
-      "sentimento": "bullish",
-      "tags": [
-        "TSMC",
-        "Nvidia",
-        "Ciena",
-        "Semicondutores"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 68
-    },
-    {
-      "titulo": "META_TITLE_QUOTE",
-      "url": "https://finance.yahoo.com/quote/NBIS",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-14",
-      "resumo": "A Nebius Group está programada para divulgar os resultados do 2º trimestre em 12 de agosto, após um crescimento explosivo no 1º trimestre. No entanto, o investidor Michael Burry levantou preocupações ao curto a ação, citando riscos relacionados a compromissos financeiros pesados em infraestrutura de IA.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Finance"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 55
     }
   ]
 }
