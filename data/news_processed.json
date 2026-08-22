@@ -2,10 +2,80 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-22",
-    "total_noticias": 61,
-    "gerado_em": "2026-08-22T03:38:47.732674"
+    "total_noticias": 66,
+    "gerado_em": "2026-08-22T10:22:00.343085"
   },
   "noticias": [
+    {
+      "titulo": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-21",
+      "resumo": "The 44% annual long-term earnings growth Nvidia is estimated to deliver (as per YCharts) can take its earnings per share to $29. 53 after five years (using its fiscal 2026 earnings of $4. 77 per share as the base).",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test ...",
+      "url": "https://www.reuters.com/business/wall-st-week-ahead-nvidia-earnings-jackson-hole-test-pillars-stock-rally-2026-08-21",
+      "fonte": "reuters.com",
+      "data": "2026-08-21",
+      "resumo": "NEW YORK, Aug 21 (Reuters) - Nvidia's earnings report and the Federal Reserve's Jackson Hole ​symposium will test the assumptions behind this year's stock market rally, offering clues on whether the AI-driven surge in equities can withstand rising uncertainty ‌over growth and interest rates. \n\nGlobal bond yields surged this week, sending the 30-year Treasury yield to its highest level since 2007, pressuring stocks and raising concerns about borrowing costs for households and companies investing heavily in AI infrastructure. \n\nThe Reuters Daily Briefing newsletter provides all the news you need to start your day.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cotações",
+      "url": "https://www.moneytimes.com.br/cotacoes",
+      "fonte": "moneytimes.com.br",
+      "data": "2026-08-19",
+      "resumo": "| igbr3 | IGB ELETRONICA S. AL |\n| igsn3 | IGSN3 |\n| igta3 | IGUATEMI EMPRESA DE SHOPPING CENTERS S. A |\n| igti11 | IGUATEMI S.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia in Talks With Chip Startup Rebellions for Potential Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal",
+      "fonte": "bloomberg.com",
+      "data": "2026-08-21",
+      "resumo": "Photographer: SeongJoon Cho/Bloomberg\n\nGift this article\n\nAdd us on Google\n\nContact us: Provide news feedback or report an error\n\nConfidential tip.  Send a tip to our reporters\n\nSite feedback: Take our Survey\n\nBy Yoolim Lee\n\nAugust 21, 2026 at 7:45 AM UTC\n\nSave\n\nTranslate\n\nNvidia Corp.  is in early discussions with the Korean AI chip designer Rebellions about possible collaborations, including a technical partnership, an investment or perhaps even an acquisition, according to people familiar with the matter.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia mulls potential deal with Korean AI chip startup ...",
+      "url": "https://seekingalpha.com/news/4635779-nvidia-mulls-potential-deal-with-korean-ai-chip-startup-rebellions",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-21",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Nvidia mulls potential deal with Korean AI chip startup Rebellions: report\n\nNVIDIA Headquarters\n\nJHVEPhoto\n\nNvidia (NVDA) is in early discussions with the South Korean AI chip designer Rebellions about possible collaborations, including a technical partnership, an investment, or maybe even an acquisition, Bloomberg News reported, citing people with knowledge of the matter. \n\nThis week, Nvidia's\n\n### Recommended For You\n\n### More Trending News.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
       "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html",
