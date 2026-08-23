@@ -1,11 +1,123 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-22",
-    "total_noticias": 66,
-    "gerado_em": "2026-08-22T10:22:00.343085"
+    "data": "2026-08-23",
+    "total_noticias": 67,
+    "gerado_em": "2026-08-23T03:47:25.770636"
   },
   "noticias": [
+    {
+      "titulo": "3 Semiconductor Stocks to Buy Before August Ends",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-buy-august-110033279.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-22",
+      "resumo": "The bull case has not softened.  In Q1 fiscal 2027, NVIDIA delivered non-GAAP EPS of $1. 87 against a $1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "These 3 AI stocks are bought by both hedge funds and mutual funds",
+      "url": "https://www.investing.com/news/stock-market-news/these-3-ai-stocks-are-bought-by-both-hedge-funds-and-mutual-funds-4872330",
+      "fonte": "investing.com",
+      "data": "2026-08-22",
+      "resumo": "By Aurelien Blo. \n\nAug 20, 2026\n\nImage 22\n\nImage 23\n\nModerna’s Skyrocketing Rally Puts These 7 Biotech Stocks in Focus\n\nBy David Wagner\n\nAug 20, 2026\n\nImage 24\n\nImage 25\n\nNasdaq 100 Pullbacks May Create New Entry Points Across These Tech Names\n\nBy The Caesar\n\nAug 21, 2026\n\nImage 26\n\nImage 27\n\nNormal Interest Rates: What the Debt Panic Gets Wrong\n\nBy Lance Robert. \n\nAug 22, 2026\n\nMore News\n\nMarket Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Salesforce Rallies Into Earnings as Agentforce Tops $1 Billion",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-rallies-earnings-agentforce-tops-162243189.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-22",
+      "resumo": "Enterprise software business Salesforce Inc.  (CRM, Financials) is scheduled to report profits on Aug.  26, and its shares are up nearly 5% in the past five days.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Bets Send Industrials Soaring, But a Slowdow May Be Coming",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/-ai-renaissance-in-old-economy-stocks-starting-to-get-stretched",
+      "fonte": "bloomberg.com",
+      "data": "2026-08-21",
+      "resumo": "Confidential tip.  Send a tip to our reporters\n\nSite feedback: Take our Survey\n\nBy Joel Leon\n\nAugust 21, 2026 at 12:09 PM UTC\n\nSave\n\nTranslate\n\n## Takeaways by Bloomberg AI\n\nA brisk rally in industrial stocks this year has defied higher oil prices, rising bond yields and restrictive trade policies, as investors bet on big gains from the artificial intelligence boom.  Now signs are emerging the optimism may have gone too far.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Governo lança ofensiva de R$2,3 bi em infraestrutura para IA e busca equilibrar laços com China e EUA Por Reuters",
+      "url": "https://br.investing.com/news/stock-market-news/governo-lanca-ofensiva-de-r23-bi-em-infraestrutura-para-ia-e-busca-equilibrar-lacos-com-china-e-eua-2045919",
+      "fonte": "br.investing.com",
+      "data": "2026-08-21",
+      "resumo": "(Reportagem de Marcela AyresEdição de Pedro Fonseca)\n\nGoverno lança ofensiva de R$2,3 bi em infraestrutura para IA e busca equilibrar laços com China e EUA\n\nVisualizar todos os comentários (2)2\n\n## Últimos comentários\n\nPouco importa China ou USA.  A prioridade é Brasil.  Quem lambe bolas de americano é gaDinho Lesa Pátria.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The $10T AI Question: Can revenue match unprecedented capex? (AIQ:NASDAQ)",
+      "url": "https://seekingalpha.com/news/4635934-the-10t-ai-question-can-revenue-match-unprecedented-capex",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-21",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# The $10T AI Question: Can revenue match unprecedented capex. \n\nCollaborative Fusion: AI and Human Redefine Reality with Word AI Inside Abstract Sphere. \n\nNilang Kachare/iStock via Getty Images\n\nThe artificial intelligence sector (AIQ) (AIEQ) may need to generate $10T in annual revenue to justify the immense capital expenditure flooding into data centers, according to recent analysis by BCA Research Chief Economist Peter Berezin.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Commits Higher CapEx in 2026 While Raising Dividend Payouts",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-commits-higher-capex-2026-154100814.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-22",
+      "resumo": "Zacks Investment Research\n\nZacks Investment Research\n\n \n\nImage Source: Zacks Investment Research\n\nTSM currently trades at a forward, five-year Price/Sales (P/S) of 10. 90X compared with its historical median of 8. 12X and the industry average of 10.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Workday lança equipe de pesquisa em IA e programa de bolsas de doutorado",
+      "url": "https://br.investing.com/news/company-news/workday-lanca-equipe-de-pesquisa-em-ia-e-programa-de-bolsas-de-doutorado-93CH-2044392",
+      "fonte": "br.investing.com",
+      "data": "2026-08-19",
+      "resumo": "Petrobras PN\n           Vale ON\n           Usiminas PNA\n           Gerdau PN\n           Cemig PN\n           BRF ON\n           Itaúsa PN\n           Axia Energia Prf\n           Weg ON\n           Banco Pan PN\n           Nubank BDR\n           Prio ON\n           Méliuz ON\n           Banco do Brasil ON\n           Bradesco PN\n           Tesla BDR\n           Amazon. com BDR\n           Apple BDR\n           Alphabet A BDR\n           Nvidia BDR\n           XP BDR\n           SpaceX\n\n       ETFs\n\n           Principais ETFs\n           ETFs Mundiais\n           ETFs Brasil\n           ETFs de Bitcoin\n           ETFs de Criptomoedas na B3 [. ] Exibir mais\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
       "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html",
@@ -637,20 +749,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Here’s What Jim Cramer Is Saying About Semis in August",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-saying-semis-august-120036665.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-15",
-      "resumo": "## NVIDIA: Still the Center of Gravity\n\nNVIDIA (NASDAQ:NVDA) delivered $81. 61 billion in Q1 FY2027 revenue, up 85. 2% year over year, with Data Center alone at $75.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Big investors hunt for tomorrow's AI winners as capex angst fades",
       "url": "https://www.reuters.com/business/big-investors-hunt-tomorrows-ai-winners-capex-angst-fades-2026-08-17",
       "fonte": "reuters.com",
@@ -671,20 +769,6 @@
       "data": "2026-08-17",
       "resumo": "Suggested Topics:\n   Artificial Intelligence\n   Mergers & Acquisitions\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n\n   \n\n## Read Next / Editor's Picks\n\n   11 mins agoWorld categoryEXCLUSIVE  US to tell partners they must pick sides in AI race with China , opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day.  Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.  [.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Hapvida (HAPV3) despenca mais de 30% e Embraer (EMBJ3) destoa de cautela local; veja os destaques do Ibovespa na semana – Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-33-lils",
-      "fonte": "moneytimes.com.br",
-      "data": "2026-08-15",
-      "resumo": "### Veja as maiores quedas da semana:\n\n|  |  |  |\n --- \n| CÓDIGO | NOME | VARIAÇÃO SEMANAL |\n| HAPV3 | Hapvida ON | -37,51% |\n| BRKM5 | Braskem PN | -17,00% |\n| RADL3 | RD Saúde ON | -13,30% |\n| CEAB3 | C&A Modas ON | -12,85% |\n| AZZA3 | Azzas 2154 | -12,58% |\n| USIM5 | Usiminas PNA | -11,61% |\n| SBSP3 | Sabesp ON | -11,53% |\n| RENT3 | Localiza ON | -11,40% |\n| MGLU3 | Magazine Luiza ON | -11,14% |\n| CSMG3 | Copasa ON | -9,90% |\n\nFonte: B3\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCompartilhar\n\nWhatsAppTwitterLinkedinFacebookTelegram\n\nLiliane de Lima\n\nPor  Liliane de Lima\n\nRepórter [. ] |  |  |  |\n --- \n| CÓDIGO | NOME | VARIAÇÃO SEMANAL |\n| EMBJ3 | Embraer ON | 7,03% |\n| MRVE3 | MRV ON | 6,73% |\n| UGPA3 | Ultrapar ON | 3,16% |\n| PETR4 | Petrobras PN | 2,99% |\n| RECV3 | PetroReconcavo ON | 2,74% |\n| PETR3 | Petrobras ON | 2,50% |\n| SANB11 | Santander Brasil units | 2,25% |\n| PRIO3 | PRIO ON | 2,05% |\n| MBRF3 | MBRF ON | 1,80% |\n| CMIN3 | CSN Mineração ON | 1,65% |\n\nFonte: B3\n\nJá a ponta negativa do Ibovespa foi liderada por Hapvida (HAPV3) com a reação negativa também ao balanço do segundo trimestre (2T26). \n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nNo período, a companhia registrou lucro líquido ajustado de R$ 12,5 milhões, tombo de 95,8% ante o resultado registrado um ano antes.",
-      "sentimento": "bearish",
       "tags": [
         "AI",
         "Market"
@@ -749,39 +833,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Is Alphabet signaling a shift in its AI strategy?",
-      "url": "https://www.investing.com/news/stock-market-news/is-alphabet-signaling-a-shift-in-its-ai-strategy-4861790",
-      "fonte": "investing.com",
-      "data": "2026-08-15",
-      "resumo": "-0. 06%\n\nGOOGL\n\n345. 90\n\n-0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "AI spending is surging, but profit gains remain elusive, Goldman Sachs says (XLK:NYSEARCA)",
       "url": "https://seekingalpha.com/news/4633598-ai-spending-is-surging-but-profit-gains-remain-elusive-goldman-sachs-says",
       "fonte": "seekingalpha.com",
       "data": "2026-08-16",
       "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n## Subscriptions\n\n# AI spending is surging, but profit gains remain elusive, Goldman Sachs says\n\nMoney Exchange Currency Graph Stock Chart Stock Market Digital FUI\n\nJust\\_Super\n\nCorporate spending on artificial intelligence is accelerating sharply, but the technology has yet to produce a meaningful improvement in earnings for most companies, according to Goldman Sachs strategist Ben Snider. \n\nOnly 2% of S&P 500 (SP500) companies quantified AI’s\n\n## Quick Insights\n\n### How is AI spending impacting S&P 500 company earnings. \n\n### Why are investors favoring AI infrastructure stocks over AI adopters.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Morgan Stanley flags four catalysts for SpaceX stock through year-end",
-      "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-flags-four-catalysts-for-spacex-stock-through-yearend-4861777",
-      "fonte": "investing.com",
-      "data": "2026-08-15",
-      "resumo": "108. 72\n\n+0. 14\n\n+0.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -866,21 +922,6 @@
       "tokens_usados": 79
     },
     {
-      "titulo": "Kulicke and Soffa, AMD, Intel, and Nvidia Shares Are Soaring, What You Need To Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kulicke-soffa-amd-intel-nvidia-194100344.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-15",
-      "resumo": "As ações da Kulicke and Soffa, AMD, Intel e Nvidia estão subindo após uma série de relatórios de lucro positivos e previsões otimistas da indústria, indicando uma demanda robusta e sustentada por tecnologia de inteligência artificial. A expansão da capacidade de fabricação de chips na China e o impulso para a auto-suficiência tecnológica levaram a preocupações sobre pressão de preços e perda de participação de mercado para fabricantes estabelecidos. No entanto, as ações dessas empresas estão subindo, o que pode ser um sinal de que a demanda por tecnologia de IA está forte.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 102
-    },
-    {
       "titulo": "Stripe will reportedly acquire AI gateway startup OpenRouter ...",
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
       "fonte": "techcrunch.com",
@@ -909,37 +950,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 81
-    },
-    {
-      "titulo": "AMD, Intel and NVIDIA All Rally as Super Micro's Blowout ...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-15",
-      "resumo": "A notícia relata que as ações de AMD, Intel e NVIDIA estão em alta devido aos resultados excepcionais da Super Micro Computer, que reforçam a demanda por infraestrutura de inteligência artificial. A Intel pode se beneficiar como fornecedora de CPUs para sistemas de servidores de AI, enquanto a AMD se estabelece como um concorrente credível à NVIDIA em silicon de data center de AI.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Intel",
-        "NVIDIA",
-        "AMD"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 74
-    },
-    {
-      "titulo": "IA não causa “apocalipse” no mercado de trabalho dos EUA, mas alguns sinais já surgem",
-      "url": "https://www.infomoney.com.br/economia/ia-nao-causa-apocalipse-no-mercado-de-trabalho-dos-eua-mas-alguns-sinais-ja-surgem",
-      "fonte": "infomoney.com.br",
-      "data": "2026-08-15",
-      "resumo": "A inteligência artificial (IA) não está causando um \"apocalipse\" no mercado de trabalho dos EUA, mas alguns sinais de ajuste já começam a surgir, especialmente para profissionais em início de carreira. No entanto, a IA também está impulsionando contratações em setores ligados à infraestrutura tecnológica. O banco destaca que os profissionais em início de carreira podem estar funcionando como a \"linha de frente\" dos ajustes promovidos pela adoção da IA.",
-      "sentimento": "neutral",
-      "tags": [
-        "IA",
-        "Tecnologia",
-        "Mercado de Trabalho"
-      ],
-      "score_relevancia": 6.0,
-      "tokens_usados": 139
     }
   ]
 }

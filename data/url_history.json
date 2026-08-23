@@ -1,64 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/two-stocks-quietly-beating-nvidia-112714362.html": {
-    "hash": "1c7a1e4e42d7209ca413f4d5341bb1f1",
-    "visto_em": "2026-08-15"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/robotics-stocks-rally-unitree-8000x-183206760.html": {
-    "hash": "28d55653d00067eba2b5d86cce4ca244",
-    "visto_em": "2026-08-15"
-  },
-  "https://seekingalpha.com/article/4935408-palantir-stock-otherworldly-q2-earnings-a-long-term-ai-investment": {
-    "hash": "e81722dc1ee508268db49978ff07a260",
-    "visto_em": "2026-08-15"
-  },
-  "https://finance.yahoo.com/quote/AVGO": {
-    "hash": "b65b58fbcf7634119157cb68dcaf5814",
-    "visto_em": "2026-08-15"
-  },
-  "https://finance.yahoo.com/quote/NBIS": {
-    "hash": "e7585c51b4a271503fccd2755080a268",
-    "visto_em": "2026-08-15"
-  },
-  "https://www.infomoney.com.br/mercados/sell-off-na-b3-comprar-acoes-exportadoras-ou-apostar-na-queda-dos-juros-o-que-fazer-agora": {
-    "hash": "53267eb9c3b39990a13a49ff3252a200",
-    "visto_em": "2026-08-15"
-  },
-  "https://seekingalpha.com/article/4934615-keel-infrastructure-stock-beware-delta-of-ruin-profile": {
-    "hash": "a835bc049908223d3c15724686581549",
-    "visto_em": "2026-08-15"
-  },
-  "https://seekingalpha.com/article/4935796-corning-stock-well-positioned-ai-infrastructure-play": {
-    "hash": "36f302210763e6927268023acad39481",
-    "visto_em": "2026-08-15"
-  },
-  "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html": {
-    "hash": "8aedf7697d3596d500d9df2f2bf52560",
-    "visto_em": "2026-08-15"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/mad-money-jim-cramer-says-192419592.html": {
-    "hash": "1d524c25505d4a8499632106b47bd0e2",
-    "visto_em": "2026-08-15"
-  },
-  "https://seekingalpha.com/article/4935926-intuit-strong-fundamentals-amid-ai-fears-make-the-stock-attractive": {
-    "hash": "d0559ab63688c17216663b7c101c2668",
-    "visto_em": "2026-08-15"
-  },
-  "https://br.investing.com/news/stock-market-news/google-lanca-modelo-de-ia-gemini-37-flash-para-tarefas-de-programacao-93CH-2038612": {
-    "hash": "936389669917459be4f37d23e3a1d5cd",
-    "visto_em": "2026-08-15"
-  },
-  "https://seekingalpha.com/article/4936803-eventually-free-cash-flow-will-matter-again": {
-    "hash": "41c943d1895a74365338e2b6fe8475a1",
-    "visto_em": "2026-08-15"
-  },
-  "https://br.investing.com/news/stock-market-news/lucro-da-vibra-quase-quadriplica-no-2-tri-2040100": {
-    "hash": "4a3f96494d86dc33072324c5d0eddb1a",
-    "visto_em": "2026-08-15"
-  },
-  "https://br.investing.com/news/stock-market-news/braskem-reverte-prejuizo-e-tem-lucro-de-r333-bi-no-2o-tri-2039307": {
-    "hash": "4a3f96494d86dc33072324c5d0eddb1a",
-    "visto_em": "2026-08-15"
-  },
   "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html": {
     "hash": "282170b9a6a22cc86ad4078c8dfae9a8",
     "visto_em": "2026-08-16"
@@ -410,5 +350,37 @@
   "https://seekingalpha.com/news/4635779-nvidia-mulls-potential-deal-with-korean-ai-chip-startup-rebellions": {
     "hash": "34c9e3179f37aaed1229f3003a185019",
     "visto_em": "2026-08-22"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-buy-august-110033279.html": {
+    "hash": "1599b90e9967e3b863f9bb685c0d1bec",
+    "visto_em": "2026-08-23"
+  },
+  "https://www.investing.com/news/stock-market-news/these-3-ai-stocks-are-bought-by-both-hedge-funds-and-mutual-funds-4872330": {
+    "hash": "1ffadd69d21fc36962a5423e2f29151f",
+    "visto_em": "2026-08-23"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/salesforce-rallies-earnings-agentforce-tops-162243189.html": {
+    "hash": "db46b08fe921387d34ab7c4854a79675",
+    "visto_em": "2026-08-23"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-21/-ai-renaissance-in-old-economy-stocks-starting-to-get-stretched": {
+    "hash": "c31e95503c5cb5d2d26204921777801c",
+    "visto_em": "2026-08-23"
+  },
+  "https://br.investing.com/news/stock-market-news/governo-lanca-ofensiva-de-r23-bi-em-infraestrutura-para-ia-e-busca-equilibrar-lacos-com-china-e-eua-2045919": {
+    "hash": "d7dea8b5a8c4269e3c1df0642b498516",
+    "visto_em": "2026-08-23"
+  },
+  "https://seekingalpha.com/news/4635934-the-10t-ai-question-can-revenue-match-unprecedented-capex": {
+    "hash": "1725b6a0d3424ec1ddb3173621ce1da7",
+    "visto_em": "2026-08-23"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-commits-higher-capex-2026-154100814.html": {
+    "hash": "e08c925a0bcec708a55d1b5bd8f984ee",
+    "visto_em": "2026-08-23"
+  },
+  "https://br.investing.com/news/company-news/workday-lanca-equipe-de-pesquisa-em-ia-e-programa-de-bolsas-de-doutorado-93CH-2044392": {
+    "hash": "2e1e15921a7916d5474f8cac57051804",
+    "visto_em": "2026-08-23"
   }
 }
