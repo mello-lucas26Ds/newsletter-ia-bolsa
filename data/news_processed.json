@@ -2,10 +2,108 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-23",
-    "total_noticias": 67,
-    "gerado_em": "2026-08-23T03:47:25.770636"
+    "total_noticias": 74,
+    "gerado_em": "2026-08-23T10:22:26.118497"
   },
   "noticias": [
+    {
+      "titulo": "3 Infrastructure Stocks Built Around the Backbone of the Economy",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-infrastructure-stocks-built-around-120000618.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-18",
+      "resumo": "## Crown Castle Could Benefit From Growing Data Center Demand\n\nCrown Castle (NYSE: CCI) is another REIT to consider in the infrastructure trade. \n\nLike American Tower, Crown Castle reports that its tower business is benefiting from a growing data center tailwind.  The opportunity is that the market doesn't appear to have priced in that growth.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DigiCo Infrastructure REIT (DGT.XA)",
+      "url": "https://finance.yahoo.com/quote/DGT.XA",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-20",
+      "resumo": "DigiCo Infrastructure REIT (DGT) is a diversified owner, operator and developer of data centres, with a global portfolio and broad investment mandate across Stabilized, Value-add and Development opportunities.  DGT's portfolio consists of data center assets across key Australian and North American markets with 172MW of planned IT capacity, including 85MW of Contracted IT capacity.  DigiCo Infrastructure REIT was established on November 01, 2024.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "SoundHound AI (SOUN) Shareholders Are About To Vote On Its Merger Deal",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-soun-shareholders-vote-042918884.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-20",
+      "resumo": "### Does this news change the SoundHound AI Narrative. \n\nThe merger tracks closely with the existing Narrative that emphasizes enterprise agentic AI expansion, larger partnerships, and cost synergies from integrating acquisitions onto SoundHound AI's proprietary stack.  It also speaks directly to Narrative risks around heavy spending, execution on acquisitions, and the need to convert more of the combined business into sustainable margins.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Hut 8 Craters 11% Despite a $19.6B Beacon Point Backlog, TeraWulf Falls 5%, IREN Drops 3%: What’s Pressuring These AI Miner Stocks?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hut-8-craters-11-despite-161048777.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-22",
+      "resumo": "## Data Center Fund Barely Budges\n\nThe Global X ETF's muted move is the cleanest evidence that broader AI infrastructure demand isn't being repriced today.  It has advanced up 35% year to date through Thursday's close year to date through Thursday's close, so it has participated in the theme, yet Friday's drop is tiny relative to the miners.  Its portfolio leans toward established data center REITs and communications tower operators, with the top three positions each accounting for more than 9% of net assets.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI beyond chips: These other stocks also offer AI exposure",
+      "url": "https://www.investing.com/news/stock-market-news/ai-beyond-chips-these-other-stocks-also-offer-ai-exposure-93CH-4868683",
+      "fonte": "investing.com",
+      "data": "2026-08-20",
+      "resumo": "SBAC+0. 57%\n\nUNIT+4. 24%\n\nVRT-4.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History",
+      "url": "https://finance.yahoo.com/quote/EQIX",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-22",
+      "resumo": "Equinix, Inc.  shortens the path to boundless connectivity anywhere in the world.  Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Is Tempus AI Stock a Buy After Its 75% Rally? Here's What to Know as the Firm's Legal Chief Files a Trade",
+      "url": "https://currently.att.yahoo.com/att/tempus-ai-stock-buy-75-122525373.html",
+      "fonte": "currently.att.yahoo.com",
+      "data": "2026-08-22",
+      "resumo": "Skip to main\n\n Mail\n Sign up for MailFREE\n myAT&T\n\n  + Phones & devices\n  + AT&T Wireless\n  + myAT&T App\n  + AT&T Internet\n  + Get AT&T Support\n AT&T deals\n Games\n Ver en español\n\nAdvertisement\n\nAdvertisement\n\nReturn to Homepage\n\nMotley Fool\n\nMotley Fool\n\n# Is Tempus AI Stock a Buy After Its 75% Rally.  Here's What to Know as the Firm's Legal Chief Files a Trade\n\nJonathan Ponciano, The Motley Fool\n\n4 min read\n\nAndrew Polovin, the firm's EVP and chief legal officer, sold 30,075 shares of Tempus AI, Inc.  (NASDAQ:TEM) at $51.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "3 Semiconductor Stocks to Buy Before August Ends",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-buy-august-110033279.html",
