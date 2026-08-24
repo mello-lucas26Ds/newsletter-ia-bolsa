@@ -1,11 +1,67 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-23",
-    "total_noticias": 74,
-    "gerado_em": "2026-08-23T10:22:26.118497"
+    "data": "2026-08-24",
+    "total_noticias": 68,
+    "gerado_em": "2026-08-24T03:51:38.726431"
   },
   "noticias": [
+    {
+      "titulo": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-100-billion-arizona-expansion-190500179.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-23",
+      "resumo": "Motley Fool\n\n# TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy\n\nKeithen Drury, The Motley Fool\n\n4 min read\n\n TSM\n\n  +0. 71%\n NVDA\n\n  -0. 98%\n\nTaiwan Semiconductor Manufacturing (NYSE: TSM) made a major announcement as part of its second-quarter earnings report: It's increasing its investment in its Arizona production facilities by another $100 billion.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
+      "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98",
+      "fonte": "marketwatch.com",
+      "data": "2026-08-23",
+      "resumo": "But earnings results from the chip maker NVDA, which remains at the heart of the AI boom and has a market value of around $5 trillion, are still a closely watched macro event every three months.  Even amid concerns about about circular dealmaking within the AI industry and the sustainability of high data-center spending, analysts expect the company’s profits to make up an ever-greater share of the S&P 500 index’s SPX overall earnings this year. \n\nCopyright ©2026 MarketWatch, Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia's Q2 earnings to test resurgent AI trade",
+      "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-23",
+      "resumo": "Sign in    \n\n   \nTop gainers \n       SLS SELLAS Life Sciences Group, Inc.  15. 46+2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI, chip stocks largely mixed amid broader Wall Street gains",
+      "url": "https://seekingalpha.com/news/4635914-ai-chip-stocks-largely-mixed-amid-broader-wall-street-gains",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-21",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# AI, chip stocks largely mixed amid broader Wall Street gains\n\nDigital Intelligence - AI Icon Illuminated Against Financial Data and Binary Streams\n\nJ Studios\n\nShares of chip and AI-related companies were largely mixed on Friday, while the broader market was largely among gains. \n\nWall Street’s major indexes climbed as Treasury yields held steady and Bitcoin saw sharp swings.  The tech-focused Nasdaq Composite (\n\n## Quick Insights\n\n### How did AI and semiconductor stock prices perform recently.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "3 Infrastructure Stocks Built Around the Backbone of the Economy",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-infrastructure-stocks-built-around-120000618.html",
@@ -889,77 +945,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Ibovespa deve ficar atrás de pares emergentes em 2026 — e risco político está por trás disso, diz consultoria – Money Times",
-      "url": "https://www.moneytimes.com.br/ibovespa-deve-ficar-atras-de-pares-emergentes-em-2026-e-risco-politico-esta-por-tras-disso-diz-consultoria-apsa",
-      "fonte": "moneytimes.com.br",
-      "data": "2026-08-16",
-      "resumo": "Além disso, a consultoria considera que a retomada da alta das ações globais de tecnologia provavelmente contribuiu para a baixa dos ativos brasileiros, com investidores voltando a direcionar recursos para o setor de inteligência artificial. \n\n## O que ainda pode favorecer o Brasil\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nCONTINUA DEPOIS DA PUBLICIDADE\n\nA Capital Economics vê como um fator positivo para os ativos brasileiros a possibilidade de mais cortes de juros pelo Banco Central (BC) do que atualmente precificado pelo mercado, em cenário de continuidade do processo desinflacionário..",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 Under-the-Radar Chip Stocks Wall Street Is Sleeping On in August",
-      "url": "https://finance.yahoo.com/technology/articles/3-under-radar-chip-stocks-110026805.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-16",
-      "resumo": "Claim the 24/7 Wall St.  Rate →\n\nThe bull case is the Navitas 2. 0 pivot.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "5 big analyst AI moves: Bullish on memory names; Apple and Cisco downgraded By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-bullish-on-memory-names-apple-and-cisco-downgraded-4861817",
-      "fonte": "investing.com",
-      "data": "2026-08-16",
-      "resumo": "By Fawad Razaqz. \n\nAug 14, 2026\n\nImage 23\n\nImage 24\n\nThe AI Compute Boom Isn’t Peaking — It’s Just Getting Started\n\nBy Ivana Delevs. \n\nAug 15, 2026\n\nImage 25\n\nImage 26\n\nHedge Fund at Home: How AI Is Rewiring Retail Trading and Testing Its Limits\n\nBy Charles-Henr.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI spending is surging, but profit gains remain elusive, Goldman Sachs says (XLK:NYSEARCA)",
-      "url": "https://seekingalpha.com/news/4633598-ai-spending-is-surging-but-profit-gains-remain-elusive-goldman-sachs-says",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-16",
-      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n## Subscriptions\n\n# AI spending is surging, but profit gains remain elusive, Goldman Sachs says\n\nMoney Exchange Currency Graph Stock Chart Stock Market Digital FUI\n\nJust\\_Super\n\nCorporate spending on artificial intelligence is accelerating sharply, but the technology has yet to produce a meaningful improvement in earnings for most companies, according to Goldman Sachs strategist Ben Snider. \n\nOnly 2% of S&P 500 (SP500) companies quantified AI’s\n\n## Quick Insights\n\n### How is AI spending impacting S&P 500 company earnings. \n\n### Why are investors favoring AI infrastructure stocks over AI adopters.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom",
-      "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-chip-134300878.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-16",
-      "resumo": "A empresa Taiwan Semiconductor Manufacturing (TSMC) pode ser o grande vencedor do boom histórico de semicondutores e inteligência artificial. Com um preço de ação atual de cerca de $420, a empresa pode subir para $848, quase o dobro do preço atual, devido ao crescimento de suas receitas e lucros. A empresa é significativamente mais barata do que a AMD, com um múltiplo de lucro de 63, e tem um múltiplo de lucro de 30, quase igual ao de Nvidia.",
-      "sentimento": "bullish",
-      "tags": [
-        "Semicondutores",
-        "Inteligência Artificial",
-        "Tecnologia"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 89
-    },
-    {
       "titulo": "AI Money Moves Put These Five Stocks In Spotlight Last Week: NVDA, INTC, ORCL, AMD, SNDK",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-money-moves-put-five-014819017.html",
       "fonte": "finance.yahoo.com",
@@ -973,81 +958,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 74
-    },
-    {
-      "titulo": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-16",
-      "resumo": "A indústria de tecnologia, liderada pelo desenvolvimento de inteligência artificial (IA), continua a impulsionar o mercado de ações, com a S&P 500 prevendo um crescimento de 32% nos lucros no segundo trimestre, em comparação com 23% esperado no início da temporada de resultados. A seção de tecnologia da S&P 500, que inclui fabricantes de chips como a Nvidia e a Broadcom, está em ritmo para relatar um crescimento de 71% nos lucros no segundo trimestre.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 86
-    },
-    {
-      "titulo": "Applied Digital Corporation (APLD)",
-      "url": "https://finance.yahoo.com/quote/APLD",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-16",
-      "resumo": "A Applied Digital Corporation (APLD) experimentou um aumento de 5% recentemente devido a fortes resultados de peers de IA e crescimento de receita de mais de 400% ano a ano. No entanto, riscos significativos persistem, incluindo altos níveis de dívida e concentração de clientes, o que levou a cautela entre analistas.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Mercado de Ações"
-      ],
-      "score_relevancia": 7.0,
-      "tokens_usados": 62
-    },
-    {
-      "titulo": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-3-artificial-intelligence-ai-120500736.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-16",
-      "resumo": "De acordo com uma previsão, as ações de três empresas de Inteligência Artificial (IA) podem subir mais de 30% até o final de 2026. A Nvidia, em particular, pode se beneficiar de sua liderança no mercado de computação para IA e da lançamento de sua nova arquitetura de chip, Vera Rubin. As ações de Sandisk e Micron também podem se beneficiar de uma escassez de suprimentos de chips de memória.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NVIDIA"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 79
-    },
-    {
-      "titulo": "Stripe will reportedly acquire AI gateway startup OpenRouter ...",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
-      "fonte": "techcrunch.com",
-      "data": "2026-08-16",
-      "resumo": "Stripe está em negociações para adquirir a startup de gateway de IA OpenRouter por mais de 7 bilhões de dólares. A empresa não confirmou a notícia, mas a Bloomberg afirmou que as discussões levaram a um acordo. A OpenRouter é uma startup que desenvolve tecnologia de gateway de IA.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Startups",
-        "Fintech"
-      ],
-      "score_relevancia": 8.0,
-      "tokens_usados": 58
-    },
-    {
-      "titulo": "Stripe Nears Deal to Buy AI Firm OpenRouter for Over $7 Billion",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "fonte": "bloomberg.com",
-      "data": "2026-08-16",
-      "resumo": "Stripe está perto de fechar um acordo para adquirir a empresa de inteligência artificial OpenRouter por mais de 7 bilhões de dólares. A compra visa dar à Stripe uma posição mais forte no setor de inteligência artificial em crescimento rápido. A OpenRouter ajuda as empresas a mudar entre modelos de inteligência artificial e oferece acesso a centenas de modelos, com o objetivo de matching desenvolvedores com as opções mais eficientes e acessíveis.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Tecnologia",
-        "Finanças"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 81
     }
   ]
 }

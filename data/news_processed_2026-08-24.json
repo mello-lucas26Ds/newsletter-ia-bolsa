@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-08-24",
+    "total_noticias": 4,
+    "gerado_em": "2026-08-24T03:51:38.724860"
+  },
+  "noticias": [
+    {
+      "titulo": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-100-billion-arizona-expansion-190500179.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-23",
+      "resumo": "Motley Fool\n\n# TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy\n\nKeithen Drury, The Motley Fool\n\n4 min read\n\n TSM\n\n  +0. 71%\n NVDA\n\n  -0. 98%\n\nTaiwan Semiconductor Manufacturing (NYSE: TSM) made a major announcement as part of its second-quarter earnings report: It's increasing its investment in its Arizona production facilities by another $100 billion.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
+      "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98",
+      "fonte": "marketwatch.com",
+      "data": "2026-08-23",
+      "resumo": "But earnings results from the chip maker NVDA, which remains at the heart of the AI boom and has a market value of around $5 trillion, are still a closely watched macro event every three months.  Even amid concerns about about circular dealmaking within the AI industry and the sustainability of high data-center spending, analysts expect the company’s profits to make up an ever-greater share of the S&P 500 index’s SPX overall earnings this year. \n\nCopyright ©2026 MarketWatch, Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia's Q2 earnings to test resurgent AI trade",
+      "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-23",
+      "resumo": "Sign in    \n\n   \nTop gainers \n       SLS SELLAS Life Sciences Group, Inc.  15. 46+2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI, chip stocks largely mixed amid broader Wall Street gains",
+      "url": "https://seekingalpha.com/news/4635914-ai-chip-stocks-largely-mixed-amid-broader-wall-street-gains",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-21",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# AI, chip stocks largely mixed amid broader Wall Street gains\n\nDigital Intelligence - AI Icon Illuminated Against Financial Data and Binary Streams\n\nJ Studios\n\nShares of chip and AI-related companies were largely mixed on Friday, while the broader market was largely among gains. \n\nWall Street’s major indexes climbed as Treasury yields held steady and Bitcoin saw sharp swings.  The tech-focused Nasdaq Composite (\n\n## Quick Insights\n\n### How did AI and semiconductor stock prices perform recently.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

@@ -1,68 +1,4 @@
 {
-  "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html": {
-    "hash": "282170b9a6a22cc86ad4078c8dfae9a8",
-    "visto_em": "2026-08-16"
-  },
-  "https://www.businessinsider.com/ai-infrastructure-trade-gets-a-boost-coreweave-nebius-nvidia-earnings-2026-8": {
-    "hash": "1b203805de314cf8349dab1bc1e3be0c",
-    "visto_em": "2026-08-16"
-  },
-  "https://www.benzinga.com/opinion/26/08/61224022/5-ai-stocks-with-strong-growth-to-buy-on-the-rebound": {
-    "hash": "084aeaefc2c15923255f2054b94aae62",
-    "visto_em": "2026-08-16"
-  },
-  "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html": {
-    "hash": "a1bb93bdf0991b8648b42cd688630724",
-    "visto_em": "2026-08-16"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-faces-revenue-uncertainty-2028-111631563.html": {
-    "hash": "a69764efa7901c0370014060aee9a766",
-    "visto_em": "2026-08-16"
-  },
-  "https://www.infomoney.com.br/economia/ia-nao-causa-apocalipse-no-mercado-de-trabalho-dos-eua-mas-alguns-sinais-ja-surgem": {
-    "hash": "337f234448916fb2e419cd9cb6ba499a",
-    "visto_em": "2026-08-16"
-  },
-  "https://br.investing.com/news/company-news/sandisk-apresenta-metas-financeiras-ate-o-ano-fiscal-de-2030-93CH-2038489": {
-    "hash": "805b9e250ef9f4f43ef02f7c00e26568",
-    "visto_em": "2026-08-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-picks-44-7-115500302.html": {
-    "hash": "a2616fc65cb20542fb87d6039cb9e186",
-    "visto_em": "2026-08-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-133846677.html": {
-    "hash": "0aa12302fc70815201844df08d6e356c",
-    "visto_em": "2026-08-16"
-  },
-  "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html": {
-    "hash": "e078cb2ea904c62cd9fd1fc2ad4136f8",
-    "visto_em": "2026-08-16"
-  },
-  "https://www.benzinga.com/markets/tech/26/08/61201714/nvidias-next-gen-feynman-ai-platform-is-ramping-up-forcing-tsmc-to-race-ahead-report": {
-    "hash": "2d228e9ac30ce645addd1a9c28bba76b",
-    "visto_em": "2026-08-16"
-  },
-  "https://seekingalpha.com/news/4631725-whats-next-for-meta-platforms-after-this-quarters-ai-driven-selloff": {
-    "hash": "01e97256f1914e3d790ff966831e7002",
-    "visto_em": "2026-08-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/intel-best-growth-15-years-140030886.html": {
-    "hash": "f4323d42cff222612915ef9b66eaac87",
-    "visto_em": "2026-08-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/did-jd-com-618-push-101243092.html": {
-    "hash": "8348cf832af6745f13e5bfc00a848619",
-    "visto_em": "2026-08-16"
-  },
-  "https://seekingalpha.com/news/4631405-markets-still-underpricing-ai-s-hit-to-earnings-apollo-says": {
-    "hash": "a0174194b72c139f5f091c675afc27cc",
-    "visto_em": "2026-08-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/applied-materials-forecast-gets-tepid-202405583.html": {
-    "hash": "bcd667223810a8a9825bc016863b875d",
-    "visto_em": "2026-08-16"
-  },
   "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-chip-134300878.html": {
     "hash": "913c5313f444bd15a270d0135a68afd2",
     "visto_em": "2026-08-17"
@@ -410,5 +346,21 @@
   "https://currently.att.yahoo.com/att/tempus-ai-stock-buy-75-122525373.html": {
     "hash": "e0cfe41145994bce428765299e3c2d71",
     "visto_em": "2026-08-23"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmcs-100-billion-arizona-expansion-190500179.html": {
+    "hash": "a7b75be2ce43a96d123af52ac2b0ae46",
+    "visto_em": "2026-08-24"
+  },
+  "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98": {
+    "hash": "f09796ae7bd6bd39de67f1655dd83a23",
+    "visto_em": "2026-08-24"
+  },
+  "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html": {
+    "hash": "f7c370cbfe7eb1a4ee9676ddd0b579b1",
+    "visto_em": "2026-08-24"
+  },
+  "https://seekingalpha.com/news/4635914-ai-chip-stocks-largely-mixed-amid-broader-wall-street-gains": {
+    "hash": "03cab0879d6cfd161cff76082306e843",
+    "visto_em": "2026-08-24"
   }
 }
