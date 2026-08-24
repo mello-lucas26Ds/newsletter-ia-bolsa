@@ -2,10 +2,66 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-24",
-    "total_noticias": 68,
-    "gerado_em": "2026-08-24T03:51:38.726431"
+    "total_noticias": 72,
+    "gerado_em": "2026-08-24T10:36:21.673239"
   },
   "noticias": [
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.85%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-185-4872111",
+      "fonte": "investing.com",
+      "data": "2026-08-21",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MRVL | 237.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.09%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-009-4863934",
+      "fonte": "investing.com",
+      "data": "2026-08-17",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MRVL | 237.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.06%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-006-4870479",
+      "fonte": "investing.com",
+      "data": "2026-08-20",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MRNA | 133.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.90%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-090-4868195",
+      "fonte": "investing.com",
+      "data": "2026-08-19",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| TSLA | 362.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a ...",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-100-billion-arizona-expansion-190500179.html",
