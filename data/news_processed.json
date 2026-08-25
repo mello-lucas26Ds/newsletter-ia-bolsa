@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-25",
-    "total_noticias": 69,
-    "gerado_em": "2026-08-25T03:45:02.656057"
+    "total_noticias": 79,
+    "gerado_em": "2026-08-25T10:31:47.973058"
   },
   "noticias": [
+    {
+      "titulo": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-ahead-nvidia-144350563.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-24",
+      "resumo": "Chip stocks are leading a narrow de-risking Monday morning, with the iShares Semiconductor ETF (NASDAQ:SOXX) down 4% to $501. 17 while the iShares U. S.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Non-Tech Thriving Nasdaq Stocks Enabling Its Northward Move in 2026",
+      "url": "https://ca.finance.yahoo.com/news/3-non-tech-thriving-nasdaq-120800875.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-08-24",
+      "resumo": "BTSGU\n\n  0. 00%\n ROKU\n\n  +0. 57%\n IBKR\n\n  -0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
+      "url": "https://ca.finance.yahoo.com/news/tsmc-rises-ahead-nvidias-critical-193930535.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-08-21",
+      "resumo": "-0. 98%\n AAPL\n\n  -0. 63%\n TSM\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "US Stock Market: AI-fuelled tech rally raises concerns over growing market concentration - The Economic Times",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/us-stock-market-ai-fuelled-tech-rally-raises-concerns-over-growing-market-concentration/articleshow/131496003.cms",
+      "fonte": "m.economictimes.com",
+      "data": "2026-08-21",
+      "resumo": "The strong performance of technology stocks has reinforced the market's dependence on a relatively small group of companies.  Market strategists warn that any disruption to the AI growth narrative or a slowdown in earnings momentum could have an outsized impact on broader equity indexes.   \n  \nThe rally has not been limited to semiconductor manufacturers.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia earnings on tap: watch these Asian chip stocks for exposure By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-earnings-on-tap-watch-these-asian-chip-stocks-for-exposure-93CH-4874452",
+      "fonte": "investing.com",
+      "data": "2026-08-25",
+      "resumo": "## The Foundry That Builds It All\n\nTaiwan Semiconductor (TSM) is the most direct Nvidia proxy in Asia — it manufactures every Blackwell and Hopper chip Nvidia sells.  Trading at $410. 12 (–2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "C3.ai, Inc. (AI) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/c3-ai-inc-ai-registers-215002066.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-24",
+      "resumo": "Investors will be eagerly watching for the performance of C3. ai, Inc.  in its upcoming earnings disclosure.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Software-as-a-Service (SaaS) Stocks with Big Upside from AI",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-software-saas-stocks-big-113500577.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-22",
+      "resumo": "## GitLab\n\nTurning to a much smaller SaaS company, GitLab (NASDAQ: GTLB) has all the ingredients to see its stock surge higher.  The stock is cheap, trading at an attractive price-to-sales multiple of just 5. 5 times based on fiscal 2028 (ending January 2028) analyst estimates, amid investor concerns about the impact of AI on its DevSecOps (development, security, and operations) platform.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "S&P, Nasdaq futures slip as markets await Iran sanctions ...",
+      "url": "https://www.reuters.com/business/sp-nasdaq-futures-slip-markets-await-iran-sanctions-nvidia-results-2026-08-24",
+      "fonte": "reuters.com",
+      "data": "2026-08-24",
+      "resumo": "The surge in yields hammered growth-oriented ⁠technology stocks, leaving the S&P 500 Information Technology sector (. SPLRCT), opens new tab down more than 3% for the week. \n\nThese stocks remained on edge heading into ​this week as investors turned their attention to the quarterly results of Nvidia, the world's most valuable company, due on Wednesday.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Ibov Smart Low Vol B3 Analysis and Opinion",
+      "url": "https://in.investing.com/indices/ibov-smart-low-vol-b3-opinion",
+      "fonte": "in.investing.com",
+      "data": "2026-08-24",
+      "resumo": "The latest analysis and reports for the Ibov Smart Low Vol B3 Index.  Stocks Picked by AI Undervalued Stocks.  B3 Currency in BRL Follow Trade 25,966.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Stocks To Watch As Business Spending Stays Strong in 2026",
+      "url": "https://uk.finance.yahoo.com/news/ai-stocks-watch-business-spending-061735549.html",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "Market Cap: CA$636. 3 million\n\nQuantum eMotion gives you direct exposure to one of the more niche but important parts of the AI story, keeping AI models and cloud data secure as attacks become more sophisticated and quantum computers move closer to real world use.  Products such as eShield-Q and Sentry-Q are built for AI data centers, yet the company still reports very small revenue and widening losses, with Q2 2026 revenue at roughly CA$1,000 and a Q2 loss of CA$4.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Citi expects Nvidia stock to trade higher post earnings - Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/citi-expects-nvidia-stock-to-trade-higher-post-earnings-4872442",

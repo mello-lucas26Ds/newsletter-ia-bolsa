@@ -3,85 +3,15 @@
     "versao": "1.0",
     "data": "2026-08-25",
     "total_noticias": 10,
-    "gerado_em": "2026-08-25T03:45:02.654908"
+    "gerado_em": "2026-08-25T10:31:47.971448"
   },
   "noticias": [
     {
-      "titulo": "Citi expects Nvidia stock to trade higher post earnings - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/citi-expects-nvidia-stock-to-trade-higher-post-earnings-4872442",
-      "fonte": "investing.com",
-      "data": "2026-08-23",
-      "resumo": "More News\n\nMarket Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| TSLA | 362.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The 2 Events That Will Define the Stock, Bond Markets This Week - Business Insider",
-      "url": "https://www.businessinsider.com/stock-market-outlook-nvidia-q2-earnings-jackson-hole-fed-rates-2026-8",
-      "fonte": "businessinsider.com",
+      "titulo": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-ahead-nvidia-144350563.html",
+      "fonte": "finance.yahoo.com",
       "data": "2026-08-24",
-      "resumo": "Monetization of AI products from hyperscalers like Microsoft and Amazon has also been a positive development for the AI trade in recent weeks. \n\nSo, if Nvidia says that it sees no slowdown in spending from its customers, it could spark fresh optimism for investors. \n\n\"Nvidia earnings will put the AI investment story back at the center of the equity market,\" said Daniela Hathorne, a Senior Market Analyst at Capital.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Hugging Face has been fielding M&A interest for a deal worth at least $13 billion - Business Insider",
-      "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-      "fonte": "businessinsider.com",
-      "data": "2026-08-23",
-      "resumo": "Subscribe \n\nLog in\n\nExclusive\n\n# Hugging Face has been fielding M&A interest for a deal worth at least $13 billion\n\nBy   Katie Roof \n\nYou're currently following this author.  Want to unfollow.  Unsubscribe via the link in your email.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Here’s Why Nvidia Stock Is Down Today—Again - Forbes",
-      "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/24/nvidia-stock-tumbles-another-2-pacing-for-seventh-straight-drop-ahead-of-earnings/",
-      "fonte": "forbes.com",
-      "data": "2026-08-24",
-      "resumo": "Over the weekend, Bloomberg first reported Nvidia told its biggest customers it would be hiking prices as much as 15% next year for servers with its AI chips due to rising memory costs. \n\nIt also comes amid a broader slide in semiconductor stocks, with AMD, TSMC and Broadcom all falling on Monday, and the Philadelphia Semiconductor Index sliding 2. 7%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Alibaba stock slumps in Hong Kong after $10.2 billion share placement to fund AI - Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/alibaba-set-open-down-8-hong-kong-after-102-billion-share-placement-plan-2026-08-24/",
-      "fonte": "reuters.com",
-      "data": "2026-08-24",
-      "resumo": "Advertisement · Scroll to continue\n\nAlibaba ‌intends ⁠to use proceeds to fund AI development, including the expansion of related infrastructure. \n\nThe share placement comes a week after Alibaba reported quarterly earnings in which it said it had already spent nearly half of its three-year capital expenditure ​plan.  It brought forward ​its projected ⁠payback on AI investment to two and a half years from three due to surging demand for AI services.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "US Futures Edge Lower With AI Spending in Focus: Markets Wrap - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
-      "fonte": "bloomberg.com",
-      "data": "2026-08-24",
-      "resumo": "Markets\n\n# Asian Stocks Dip With AI in Focus, Oil Declines: Markets Wrap\n\nContact us:\n\nProvide news feedback or report an error\n\nConfidential tip. \n\nSend a tip to our reporters\n\nSite feedback:\n\nTake our Survey\n\nBy Anand Krishnamoorthy\n\nUpdated on\n\nAsian stocks edged lower, with the artificial intelligence theme in early focus during a week set to be shaped by earnings from chip bellwether Nvidia Corp.  and the Federal Reserve’s annual gathering.",
+      "resumo": "Chip stocks are leading a narrow de-risking Monday morning, with the iShares Semiconductor ETF (NASDAQ:SOXX) down 4% to $501. 17 while the iShares U. S.",
       "sentimento": "bearish",
       "tags": [
         "AI",
@@ -91,39 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Here's what the charts say about Nvidia's stock heading into earnings - CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html",
-      "fonte": "cnbc.com",
+      "titulo": "3 Non-Tech Thriving Nasdaq Stocks Enabling Its Northward Move in 2026",
+      "url": "https://ca.finance.yahoo.com/news/3-non-tech-thriving-nasdaq-120800875.html",
+      "fonte": "ca.finance.yahoo.com",
       "data": "2026-08-24",
-      "resumo": "stock.  Given that we are currently above it, we are looking for this level to act as support, meaning we would expect buyers to step in here and soak up the excess supply, resulting in a bottoming of the stock and a rebound to the upside.  However, should that support not materialize, we're likely looking for a move below the $200 level — to around the $195 region.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "CCTV Script 24/08/26 - CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/cctv-script-24/08/26.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-24",
-      "resumo": "Additionally, the market is also closely watching the massive financing being raised by the U. S.  private sector for AI infrastructure construction.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI trade In focus, Iran sanctions loom - What’s moving markets - Investing.com",
-      "url": "https://www.investing.com/news/economy-news/ai-trade-in-focus-iran-sanctions-loom--whats-moving-markets-4872721",
-      "fonte": "investing.com",
-      "data": "2026-08-24",
-      "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NVDA | 214.",
+      "resumo": "BTSGU\n\n  0. 00%\n ROKU\n\n  +0. 57%\n IBKR\n\n  -0.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -133,11 +35,109 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Exclusive: Anthropic's $2 Trillion Valuation Faces a Reality Check—SPCX Offers a Warning, Wall Street Veteran Says - Benzinga",
-      "url": "https://www.benzinga.com/markets/ipos/26/08/61372677/exclusive-anthropics-2-trillion-valuation-faces-a-reality-check-spcx-offers-a-warning-wall-street-veteran-says",
-      "fonte": "benzinga.com",
-      "data": "2026-08-23",
-      "resumo": "Ahn argues that the key risk for future IPOs is not the lock-up expiration, but the “first earnings report,” when companies must face the scrutiny of public-market investors rather than private investors who already have conviction.  This distinction provides a useful framework for assessing whether Anthropic’s lofty private-market valuation can withstand the far tougher test of public-market scrutiny. \n\n## $2 Trillion Valuation is Mostly Enterprise Workflows\n\nThe $2 trillion valuation is primarily a bet on the broader AI category, rather than Claude’s technological advantage alone, stated Dr Ahn.",
+      "titulo": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
+      "url": "https://ca.finance.yahoo.com/news/tsmc-rises-ahead-nvidias-critical-193930535.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-08-21",
+      "resumo": "-0. 98%\n AAPL\n\n  -0. 63%\n TSM\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "US Stock Market: AI-fuelled tech rally raises concerns over growing market concentration - The Economic Times",
+      "url": "https://m.economictimes.com/markets/us-stocks/news/us-stock-market-ai-fuelled-tech-rally-raises-concerns-over-growing-market-concentration/articleshow/131496003.cms",
+      "fonte": "m.economictimes.com",
+      "data": "2026-08-21",
+      "resumo": "The strong performance of technology stocks has reinforced the market's dependence on a relatively small group of companies.  Market strategists warn that any disruption to the AI growth narrative or a slowdown in earnings momentum could have an outsized impact on broader equity indexes.   \n  \nThe rally has not been limited to semiconductor manufacturers.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia earnings on tap: watch these Asian chip stocks for exposure By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-earnings-on-tap-watch-these-asian-chip-stocks-for-exposure-93CH-4874452",
+      "fonte": "investing.com",
+      "data": "2026-08-25",
+      "resumo": "## The Foundry That Builds It All\n\nTaiwan Semiconductor (TSM) is the most direct Nvidia proxy in Asia — it manufactures every Blackwell and Hopper chip Nvidia sells.  Trading at $410. 12 (–2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "C3.ai, Inc. (AI) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/c3-ai-inc-ai-registers-215002066.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-24",
+      "resumo": "Investors will be eagerly watching for the performance of C3. ai, Inc.  in its upcoming earnings disclosure.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Software-as-a-Service (SaaS) Stocks with Big Upside from AI",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-software-saas-stocks-big-113500577.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-22",
+      "resumo": "## GitLab\n\nTurning to a much smaller SaaS company, GitLab (NASDAQ: GTLB) has all the ingredients to see its stock surge higher.  The stock is cheap, trading at an attractive price-to-sales multiple of just 5. 5 times based on fiscal 2028 (ending January 2028) analyst estimates, amid investor concerns about the impact of AI on its DevSecOps (development, security, and operations) platform.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "S&P, Nasdaq futures slip as markets await Iran sanctions ...",
+      "url": "https://www.reuters.com/business/sp-nasdaq-futures-slip-markets-await-iran-sanctions-nvidia-results-2026-08-24",
+      "fonte": "reuters.com",
+      "data": "2026-08-24",
+      "resumo": "The surge in yields hammered growth-oriented ⁠technology stocks, leaving the S&P 500 Information Technology sector (. SPLRCT), opens new tab down more than 3% for the week. \n\nThese stocks remained on edge heading into ​this week as investors turned their attention to the quarterly results of Nvidia, the world's most valuable company, due on Wednesday.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Ibov Smart Low Vol B3 Analysis and Opinion",
+      "url": "https://in.investing.com/indices/ibov-smart-low-vol-b3-opinion",
+      "fonte": "in.investing.com",
+      "data": "2026-08-24",
+      "resumo": "The latest analysis and reports for the Ibov Smart Low Vol B3 Index.  Stocks Picked by AI Undervalued Stocks.  B3 Currency in BRL Follow Trade 25,966.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Stocks To Watch As Business Spending Stays Strong in 2026",
+      "url": "https://uk.finance.yahoo.com/news/ai-stocks-watch-business-spending-061735549.html",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "Market Cap: CA$636. 3 million\n\nQuantum eMotion gives you direct exposure to one of the more niche but important parts of the AI story, keeping AI models and cloud data secure as attacks become more sophisticated and quantum computers move closer to real world use.  Products such as eShield-Q and Sentry-Q are built for AI data centers, yet the company still reports very small revenue and widening losses, with Q2 2026 revenue at roughly CA$1,000 and a Q2 loss of CA$4.",
       "sentimento": "neutral",
       "tags": [
         "AI",
