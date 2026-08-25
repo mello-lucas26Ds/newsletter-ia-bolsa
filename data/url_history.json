@@ -1,72 +1,4 @@
 {
-  "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-chip-134300878.html": {
-    "hash": "913c5313f444bd15a270d0135a68afd2",
-    "visto_em": "2026-08-17"
-  },
-  "https://www.reuters.com/business/retail-consumer/wall-st-futures-tick-higher-oil-retreats-ahead-inflation-data-2026-08-13": {
-    "hash": "d6c4b0636d50109bfb0ff6192e794d65",
-    "visto_em": "2026-08-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-money-moves-put-five-014819017.html": {
-    "hash": "533d7269f9dda571fc12cd12ee0f2640",
-    "visto_em": "2026-08-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html": {
-    "hash": "5656dce8060befeebaf0dc841e2b3060",
-    "visto_em": "2026-08-17"
-  },
-  "https://finance.yahoo.com/quote/APLD": {
-    "hash": "a83d2ff42ccf278aaf239d00de92b0ff",
-    "visto_em": "2026-08-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/prediction-3-artificial-intelligence-ai-120500736.html": {
-    "hash": "235711c9a71d43ac8e0d3d45a12450c8",
-    "visto_em": "2026-08-17"
-  },
-  "https://www.reuters.com/business/cerebras-slumps-mixed-quarterly-results-test-ai-growth-narrative-2026-08-13": {
-    "hash": "a91d355367578766ace1d7ba9a284b6c",
-    "visto_em": "2026-08-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/kulicke-soffa-amd-intel-nvidia-194100344.html": {
-    "hash": "c41daed829b958b7f747b79d709d79d1",
-    "visto_em": "2026-08-17"
-  },
-  "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b": {
-    "hash": "f246d3f151417bd6809310d60454d049",
-    "visto_em": "2026-08-17"
-  },
-  "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion": {
-    "hash": "3fc1692648b4d6bad6ce5c8218fed2c3",
-    "visto_em": "2026-08-17"
-  },
-  "https://finance.yahoo.com/technology/articles/3-under-radar-chip-stocks-110026805.html": {
-    "hash": "ce075d9a800d19090a51c13f48d7fc31",
-    "visto_em": "2026-08-17"
-  },
-  "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-bullish-on-memory-names-apple-and-cisco-downgraded-4861817": {
-    "hash": "12222932f29aaff6b994a5b064003285",
-    "visto_em": "2026-08-17"
-  },
-  "https://finance.yahoo.com/energy/articles/4-nuclear-stocks-riding-ai-162500400.html": {
-    "hash": "714a9d33d558c2a48b84563f3f36a0f4",
-    "visto_em": "2026-08-17"
-  },
-  "https://www.investing.com/news/stock-market-news/is-alphabet-signaling-a-shift-in-its-ai-strategy-4861790": {
-    "hash": "6ba89d3bc3891aa26cbc7d5bcc8b148f",
-    "visto_em": "2026-08-17"
-  },
-  "https://seekingalpha.com/news/4633598-ai-spending-is-surging-but-profit-gains-remain-elusive-goldman-sachs-says": {
-    "hash": "bc60fc8409d623aacf8aa668a929bb01",
-    "visto_em": "2026-08-17"
-  },
-  "https://www.investing.com/news/stock-market-news/morgan-stanley-flags-four-catalysts-for-spacex-stock-through-yearend-4861777": {
-    "hash": "1803e518564cf3c7cc63058134d80a1e",
-    "visto_em": "2026-08-17"
-  },
-  "https://www.wsj.com/tech/ai/deepminds-hassabis-pitched-ai-oversight-body-before-shake-up-e25b3f71": {
-    "hash": "e25f09de1049c0b7cf1e870ce0462259",
-    "visto_em": "2026-08-17"
-  },
   "https://www.reuters.com/business/nasdaq-futures-gain-tech-stocks-climb-2026-08-17": {
     "hash": "abc42bdf7dd03499ef661d8cb9f3c208",
     "visto_em": "2026-08-18"
@@ -378,5 +310,45 @@
   "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-090-4868195": {
     "hash": "6ca244801308f7af3bc6cf56ac2b7392",
     "visto_em": "2026-08-24"
+  },
+  "https://www.investing.com/news/stock-market-news/citi-expects-nvidia-stock-to-trade-higher-post-earnings-4872442": {
+    "hash": "667b2147b36b36e55a63b4ebe85ee398",
+    "visto_em": "2026-08-25"
+  },
+  "https://www.businessinsider.com/stock-market-outlook-nvidia-q2-earnings-jackson-hole-fed-rates-2026-8": {
+    "hash": "219cd568d591a7a889a8ab0cd55c7494",
+    "visto_em": "2026-08-25"
+  },
+  "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8": {
+    "hash": "5c47359b0571d2712c0380b6e0d647f3",
+    "visto_em": "2026-08-25"
+  },
+  "https://www.forbes.com/sites/zacharyfolk/2026/08/24/nvidia-stock-tumbles-another-2-pacing-for-seventh-straight-drop-ahead-of-earnings/": {
+    "hash": "c382bbcb5869e02d9341c7922d492786",
+    "visto_em": "2026-08-25"
+  },
+  "https://www.reuters.com/business/retail-consumer/alibaba-set-open-down-8-hong-kong-after-102-billion-share-placement-plan-2026-08-24/": {
+    "hash": "b98e5f589f36b8a3362d27c73515bb47",
+    "visto_em": "2026-08-25"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates": {
+    "hash": "ad169baf87d6c4e0c8459030d8f33dd3",
+    "visto_em": "2026-08-25"
+  },
+  "https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html": {
+    "hash": "ce3e978e9afd33ac56524b6ed8b4f80f",
+    "visto_em": "2026-08-25"
+  },
+  "https://www.cnbc.com/2026/08/24/cctv-script-24/08/26.html": {
+    "hash": "837f1f59c922ff143843f951d825a1d4",
+    "visto_em": "2026-08-25"
+  },
+  "https://www.investing.com/news/economy-news/ai-trade-in-focus-iran-sanctions-loom--whats-moving-markets-4872721": {
+    "hash": "aa3cc668c4652d1615e9d045e38156c2",
+    "visto_em": "2026-08-25"
+  },
+  "https://www.benzinga.com/markets/ipos/26/08/61372677/exclusive-anthropics-2-trillion-valuation-faces-a-reality-check-spcx-offers-a-warning-wall-street-veteran-says": {
+    "hash": "21abec86f83f226fa29c69b0c592eacf",
+    "visto_em": "2026-08-25"
   }
 }

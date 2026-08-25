@@ -1,17 +1,17 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-24",
-    "total_noticias": 72,
-    "gerado_em": "2026-08-24T10:36:21.673239"
+    "data": "2026-08-25",
+    "total_noticias": 69,
+    "gerado_em": "2026-08-25T03:45:02.656057"
   },
   "noticias": [
     {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.85%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-185-4872111",
+      "titulo": "Citi expects Nvidia stock to trade higher post earnings - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/citi-expects-nvidia-stock-to-trade-higher-post-earnings-4872442",
       "fonte": "investing.com",
-      "data": "2026-08-21",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MRVL | 237.",
+      "data": "2026-08-23",
+      "resumo": "More News\n\nMarket Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| TSLA | 362.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -21,10 +21,136 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.09%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-009-4863934",
+      "titulo": "The 2 Events That Will Define the Stock, Bond Markets This Week - Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-outlook-nvidia-q2-earnings-jackson-hole-fed-rates-2026-8",
+      "fonte": "businessinsider.com",
+      "data": "2026-08-24",
+      "resumo": "Monetization of AI products from hyperscalers like Microsoft and Amazon has also been a positive development for the AI trade in recent weeks. \n\nSo, if Nvidia says that it sees no slowdown in spending from its customers, it could spark fresh optimism for investors. \n\n\"Nvidia earnings will put the AI investment story back at the center of the equity market,\" said Daniela Hathorne, a Senior Market Analyst at Capital.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Hugging Face has been fielding M&A interest for a deal worth at least $13 billion - Business Insider",
+      "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
+      "fonte": "businessinsider.com",
+      "data": "2026-08-23",
+      "resumo": "Subscribe \n\nLog in\n\nExclusive\n\n# Hugging Face has been fielding M&A interest for a deal worth at least $13 billion\n\nBy   Katie Roof \n\nYou're currently following this author.  Want to unfollow.  Unsubscribe via the link in your email.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Here’s Why Nvidia Stock Is Down Today—Again - Forbes",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/24/nvidia-stock-tumbles-another-2-pacing-for-seventh-straight-drop-ahead-of-earnings/",
+      "fonte": "forbes.com",
+      "data": "2026-08-24",
+      "resumo": "Over the weekend, Bloomberg first reported Nvidia told its biggest customers it would be hiking prices as much as 15% next year for servers with its AI chips due to rising memory costs. \n\nIt also comes amid a broader slide in semiconductor stocks, with AMD, TSMC and Broadcom all falling on Monday, and the Philadelphia Semiconductor Index sliding 2. 7%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Alibaba stock slumps in Hong Kong after $10.2 billion share placement to fund AI - Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/alibaba-set-open-down-8-hong-kong-after-102-billion-share-placement-plan-2026-08-24/",
+      "fonte": "reuters.com",
+      "data": "2026-08-24",
+      "resumo": "Advertisement · Scroll to continue\n\nAlibaba ‌intends ⁠to use proceeds to fund AI development, including the expansion of related infrastructure. \n\nThe share placement comes a week after Alibaba reported quarterly earnings in which it said it had already spent nearly half of its three-year capital expenditure ​plan.  It brought forward ​its projected ⁠payback on AI investment to two and a half years from three due to surging demand for AI services.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "US Futures Edge Lower With AI Spending in Focus: Markets Wrap - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+      "fonte": "bloomberg.com",
+      "data": "2026-08-24",
+      "resumo": "Markets\n\n# Asian Stocks Dip With AI in Focus, Oil Declines: Markets Wrap\n\nContact us:\n\nProvide news feedback or report an error\n\nConfidential tip. \n\nSend a tip to our reporters\n\nSite feedback:\n\nTake our Survey\n\nBy Anand Krishnamoorthy\n\nUpdated on\n\nAsian stocks edged lower, with the artificial intelligence theme in early focus during a week set to be shaped by earnings from chip bellwether Nvidia Corp.  and the Federal Reserve’s annual gathering.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Here's what the charts say about Nvidia's stock heading into earnings - CNBC",
+      "url": "https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-24",
+      "resumo": "stock.  Given that we are currently above it, we are looking for this level to act as support, meaning we would expect buyers to step in here and soak up the excess supply, resulting in a bottoming of the stock and a rebound to the upside.  However, should that support not materialize, we're likely looking for a move below the $200 level — to around the $195 region.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "CCTV Script 24/08/26 - CNBC",
+      "url": "https://www.cnbc.com/2026/08/24/cctv-script-24/08/26.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-24",
+      "resumo": "Additionally, the market is also closely watching the massive financing being raised by the U. S.  private sector for AI infrastructure construction.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI trade In focus, Iran sanctions loom - What’s moving markets - Investing.com",
+      "url": "https://www.investing.com/news/economy-news/ai-trade-in-focus-iran-sanctions-loom--whats-moving-markets-4872721",
       "fonte": "investing.com",
-      "data": "2026-08-17",
+      "data": "2026-08-24",
+      "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NVDA | 214.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Exclusive: Anthropic's $2 Trillion Valuation Faces a Reality Check—SPCX Offers a Warning, Wall Street Veteran Says - Benzinga",
+      "url": "https://www.benzinga.com/markets/ipos/26/08/61372677/exclusive-anthropics-2-trillion-valuation-faces-a-reality-check-spcx-offers-a-warning-wall-street-veteran-says",
+      "fonte": "benzinga.com",
+      "data": "2026-08-23",
+      "resumo": "Ahn argues that the key risk for future IPOs is not the lock-up expiration, but the “first earnings report,” when companies must face the scrutiny of public-market investors rather than private investors who already have conviction.  This distinction provides a useful framework for assessing whether Anthropic’s lofty private-market valuation can withstand the far tougher test of public-market scrutiny. \n\n## $2 Trillion Valuation is Mostly Enterprise Workflows\n\nThe $2 trillion valuation is primarily a bet on the broader AI category, rather than Claude’s technological advantage alone, stated Dr Ahn.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.85%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-185-4872111",
+      "fonte": "investing.com",
+      "data": "2026-08-21",
       "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MRVL | 237.",
       "sentimento": "bullish",
       "tags": [
@@ -665,34 +791,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "JPMorgan Raises S&P 500 Target to 8000 as Earnings ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-raises-p-500-target-134100944.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-17",
-      "resumo": "These enormous investment programmes remain a central driver of demand across semiconductors, networking equipment, power infrastructure, cooling systems and other parts of the AI supply chain. \n\n## AWS, Azure and Google Cloud show powerful demand\n\nCloud growth rates provided some of the clearest evidence that AI investment is translating into stronger customer demand. \n\nAWS revenue growth accelerated to 37% year over year, while Microsoft's Azure expanded 43%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "These stocks will benefit most from AI productivity gains: per Goldman",
-      "url": "https://www.cnbc.com/2026/08/17/these-stocks-will-benefit-most-from-ai-productivity-gains-per-goldman.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-17",
-      "resumo": "the Russell 1000.  \"The recent acceleration in enterprise AI spending suggests that the earnings impact of AI adoption should become clearer in coming quarters,\" Ben Snider, chief U. S.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Baidu shares at near 1-year low as weak earnings expose limits of AI growth push",
       "url": "https://www.investing.com/news/stock-market-news/baidu-shares-hit-near-1year-low-as-weak-earnings-expose-limits-of-ai-growth-push-4866379",
       "fonte": "investing.com",
@@ -873,147 +971,6 @@
       ],
       "score_relevancia": 5.0,
       "tokens_usados": 0
-    },
-    {
-      "titulo": "Blackstone: A Wealth Compounder Riding The AI Infrastructure Boom (NYSE:BX)",
-      "url": "https://seekingalpha.com/article/4937210-blackstone-stock-wealth-compounder-riding-ai-infrastructure-boom",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-17",
-      "resumo": "Image 1\n\nGen Alpha\n\nInvesting Group\n\nFollow\n\n## Summary\n\n   Blackstone is rated 'Buy' for its diversified growth, robust AUM expansion, and leadership in AI infrastructure investments. \n   BX posted 20% YoY growth in fee-related earnings per share, driven by double-digit segment gains and 11% total AUM growth to $1. 35 trillion.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Analysis-Big investors hunt for tomorrow’s AI winners as capex angst fades",
-      "url": "https://www.investing.com/news/stock-market-news/analysisbig-investors-hunt-for-tomorrows-ai-winners-as-capex-angst-fades-4862135",
-      "fonte": "investing.com",
-      "data": "2026-08-17",
-      "resumo": "META-0. 86%\n\nSOX-0. 31%\n\nCRWV-0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Marvell Stock Surges 6.1% as AI Memory Rally Spreads",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-surges-6-1-201639862.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-17",
-      "resumo": "Selected editionUS English\n\n, a semiconductor company focused on data infrastructure, jumped approximately 6. 1% to $235. 53 Monday morning as investors continued rotating into artificial-intelligence infrastructure names.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia's stock has started to come alive. Here's 3 reasons why it can continue",
-      "url": "https://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-17",
-      "resumo": "Nvidia's stock is showing signs of life ahead of earnings next week.  The move is justified and should have more room to go.  Shares of Nvidia on Monday closed around $225 a share for the second session in a row — a closing level that previously hadn't been since mid-May.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "S&P 500, Nasdaq futures rise on tech boost",
-      "url": "https://www.reuters.com/business/nasdaq-futures-gain-tech-stocks-climb-2026-08-17",
-      "fonte": "reuters.com",
-      "data": "2026-08-17",
-      "resumo": "Tech stocks, particularly chipmakers, have come ​under pressure in recent months as investors grew concerned about the payoff from companies' heavy AI investments.  ⁠A solid second-quarter earnings season also helped push the tech-heavy Nasdaq (. IXIC), opens new tab closer to record highs.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Semiconductors Stock Performance - Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/semiconductors",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-17",
-      "resumo": "| Name | Last Price | 1Y Target Est.  | Market Weight | Market Cap | Day Change % | YTD Return | Avg.  Analyst Rating |\n ---  ---  ---  --- |\n| NVDA  NVIDIA Corporation | 226.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Big investors hunt for tomorrow's AI winners as capex angst fades",
-      "url": "https://www.reuters.com/business/big-investors-hunt-tomorrows-ai-winners-capex-angst-fades-2026-08-17",
-      "fonte": "reuters.com",
-      "data": "2026-08-17",
-      "resumo": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - The rally in AI-linked stocks that marked the latest earnings season has shifted the focus of the AI investment story from whether Big Tech's spending spree will pay off to ​the kind of companies that will deliver returns over the longer term, investors say. \n\nResults Microsoft(MSFT. O), opens new tab and Amazon(AMZN.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Alibaba to sell Lingxi Games in more than $2 billion deal, source says",
-      "url": "https://www.reuters.com/legal/transactional/alibaba-sell-lingxi-games-more-than-2-billion-deal-source-says-2026-08-17",
-      "fonte": "reuters.com",
-      "data": "2026-08-17",
-      "resumo": "Suggested Topics:\n   Artificial Intelligence\n   Mergers & Acquisitions\n\n    \n    \n    \n    \n    \n\nPurchase Licensing Rights\n\n\n   \n\n## Read Next / Editor's Picks\n\n   11 mins agoWorld categoryEXCLUSIVE  US to tell partners they must pick sides in AI race with China , opens new tab\n\n### Stay Informed\n\n   Download the App (iOS), opens new tab\n   Download the App (Android), opens new tab\n   Newsletters\n   Subscribe\n\n### Information you can trust\n\nReuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day.  Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.  [.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nebius' 366% Revenue Growth And Other Top AI Stocks ...",
-      "url": "https://seekingalpha.com/article/4936951-nebius-366-percent-revenue-growth-and-other-top-ai-stocks-with-short-squeeze-potential",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-17",
-      "resumo": "Hand holding magnifying glass analyzing digital financial stock chart.  Data analysis, investment research, trading strategy, and financial market concept on blue background.  business stock market.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Money Moves Put These Five Stocks In Spotlight Last Week: NVDA, INTC, ORCL, AMD, SNDK",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-money-moves-put-five-014819017.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-17",
-      "resumo": "A semana passada viu uma explosão de atividade relacionada à inteligência artificial (IA) nos mercados de tecnologia, com fabricantes de chips aumentando sua capacidade, empresas levantando bilhões para financiar infraestrutura e empresas de memória redesenhando suas estratégias. A Nvidia expandiu o papel de Wall Street no financiamento de infraestrutura de IA, enquanto a Intel, a AMD e a SanDisk se prepararam para a demanda crescente.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Semiconductor",
-        "NASDAQ"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 74
     }
   ]
 }
