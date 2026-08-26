@@ -2,72 +2,30 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-26",
-    "total_noticias": 10,
-    "gerado_em": "2026-08-26T03:51:30.501334"
+    "total_noticias": 8,
+    "gerado_em": "2026-08-26T10:34:36.611447"
   },
   "noticias": [
     {
       "titulo": "TSMC Jumps Before Nvidia Tests Its Capacity Bet",
-      "url": "https://ca.finance.yahoo.com/news/tsmc-jumps-nvidia-tests-capacity-195825384.html",
+      "url": "https://finance.yahoo.com/technology/articles/tsmc-jumps-nvidia-tests-capacity-195825384.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "The growth is ripping.  TSMC's July revenue rocketed 44. 7% to NT$467.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited ...",
+      "url": "https://ca.finance.yahoo.com/quote/2330.TW/news",
       "fonte": "ca.finance.yahoo.com",
-      "data": "2026-08-25",
-      "resumo": "1 min read\n\n TSM\n\n  +1. 78%\n NVDA\n\n  +2. 19%\n TSM\n\n  +1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Why Rezolve AI Stock Rocketed Higher Today",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-stock-rocketed-201626723.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-25",
-      "resumo": "Motley Fool\n\n# Why Rezolve AI Stock Rocketed Higher Today\n\nJoe Tenebruso, The Motley Fool\n\n3 min read\n\n RZLV\n\n  +21. 81%\n GOOG\n\n  -0. 36%\n NVDA\n\n  +2.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Prediction: This Artificial Intelligence (AI) Stock Will Go ...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/prediction-artificial-intelligence-ai-stock-165000943.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-25",
-      "resumo": "+1. 33%\n GOOG\n\n  +0. 83%\n META\n\n  +1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Watch the SOX Flip as AI Stocks Face a Major Volatility ...",
-      "url": "https://www.investing.com/analysis/watch-the-sox-flip-as-ai-stocks-face-a-major-volatility-warning-200686507",
-      "fonte": "investing.com",
-      "data": "2026-08-25",
-      "resumo": "Tomorrow’s Nvidia (NVDA) earnings report is strong.  We get upward momentum in the AI trade through September.  We chop around again in October ahead of the midterms and Q3 reporting season.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Box earnings on deck: Can AI push justify recent stock gains?",
-      "url": "https://uk.investing.com/news/stock-market-news/box-earnings-on-deck-can-ai-push-justify-recent-stock-gains-93CH-4846428",
-      "fonte": "uk.investing.com",
-      "data": "2026-08-25",
-      "resumo": "Analysts expect earnings of 40 cents a share on revenue of $319. 3 million, representing year-over-year growth of 21% and 9% respectively..",
+      "data": "2026-08-26",
+      "resumo": "Euronews • 1 mo ago\n\n  2330. TW\n\n  +0. 63% NVDAAAPL\n Morning Bid: Damp Squib\n\n  ### Morning Bid: Damp Squib\n\n  Reuters • 1 mo ago\n\n  2330.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -77,12 +35,54 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Ives: Nvidia Earnings Could Be the Next Big Catalyst for AI Stocks",
-      "url": "https://finance.yahoo.com/video/ives-nvidia-earnings-could-next-145451629.html",
+      "titulo": "Anthropic claims $30T AI market (just 12x the entire tech sector combined) By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-claims-30t-ai-market-just-12x-the-entire-tech-sector-combined-4875750",
+      "fonte": "investing.com",
+      "data": "2026-08-25",
+      "resumo": "Amazon (NASDAQ: AMZN) and Alphabet (NASDAQ: GOOGL), both major Anthropic backers, are the most direct publicly traded expressions of that growth story: their cloud infrastructure arms supply the compute underpinning Claude’s commercial scale, meaning Anthropic’s revenue trajectory feeds directly into AWS and Google Cloud utilization rates. \n\n## Latest comments\n\nJoin our investing challenges and compete for rewards while you learn. \n\n| Name | Last | Chg.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq 100 Futures Gain as Nvidia, AI Shares Rebound ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/tech-rally-helps-lift-us-futures-ahead-of-nvidia-earnings",
+      "fonte": "bloomberg.com",
+      "data": "2026-08-25",
+      "resumo": "Stock Movers Podcast\n\nBack Forward\n\nTechnology\n\n# Tech Rally Helps Lift US Futures Ahead of Nvidia Earnings\n\nImage 1: Traders work on the floor of the&nbsp;New York Stock Exchange. \n\nTraders work on the floor of the New York Stock Exchange. \n\nPhotographer: Michael Nagle/Bloomberg\n\nGift this article\n\nAdd us on Google\n\nContact us: Provide news feedback or report an error\n\nConfidential tip.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.55%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-155-4875925",
+      "fonte": "investing.com",
+      "data": "2026-08-25",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| ALB | 133.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Stocks For Retail Investors Looking Beyond The Obvious Picks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-retail-investors-looking-021722361.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-08-25",
-      "resumo": "Bloomberg\n\n# Ives: Nvidia Earnings Could Be the Next Big Catalyst for AI Stocks\n\nBloomberg\n\n NVDA\n\n  -2. 12%\n\nNvidia's earnings report on Wednesday will likely serve as another reminder of the company's commanding lead.  Analysts estimate that revenue nearly doubled last quarter from a year earlier to $92 billion.",
-      "sentimento": "bullish",
+      "data": "2026-08-26",
+      "resumo": "AdvancedAdvT provides a focused way into the AI and ChatGPT theme through its AI based healthcare intelligence and automation tools that target clinical quality, compliance and accreditation, which sit on top of a wider portfolio of business and workforce software.  The company reports sales of £53. 4 million with net income of £4.",
+      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -91,53 +91,25 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "US stock futures rise on tech rebound before Nvidia ...",
-      "url": "https://www.reuters.com/business/us-stock-futures-rise-tech-rebound-before-nvidia-inflation-tests-2026-08-25",
-      "fonte": "reuters.com",
-      "data": "2026-08-25",
-      "resumo": "Investors are bracing for a slew of catalysts this week, with Nvidia's quarterly report scheduled for release after markets ‌close on ⁠Wednesday and personal consumption expenditures data due before the open. \n\nThe AI chip giant is expected to show AI-driven demand remains robust.  Any signs of slowing growth could reignite concerns over stretched valuations and how far the AI-fueled rally can run.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.51%",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-051-5569573",
+      "titulo": "Ibov Smart Low Vol B3 News Today",
+      "url": "https://in.investing.com/indices/ibov-smart-low-vol-b3-news",
       "fonte": "in.investing.com",
-      "data": "2026-08-24",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Misquita Engineering | 55.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Morning Bid: Waiting on Nvidia for next leg of AI rally",
-      "url": "https://finance.yahoo.com/technology/ai/articles/morning-bid-waiting-nvidia-next-044130117.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-25",
-      "resumo": "Reuters\n\n# Morning Bid: Waiting on Nvidia for next leg of AI rally\n\nReuters\n\n2 min read\n\n NVDA\n\n  -2. 91%\n BABA\n\n  -0. 73%\n\nAug 25 (Reuters) - A look at the day ahead in European and global markets from Rae Wee\n\nIt's been a muted start to the session in ‌Asia on Tuesday, with stocks drifting ahead of Nvidia's earnings this week, ‌where expectations are running sky high for the artificial intelligence darling to deliver stellar results.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Global X Artificial Intelligence & Technology ETF (AIQ) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/AIQ/latest-news",
-      "fonte": "finance.yahoo.com",
       "data": "2026-08-22",
-      "resumo": "NasdaqGM - Nasdaq Real Time Price • USD \n\n# Global X Artificial Intelligence & Technology ETF (AIQ)\n\n62. 59  -0. 85  (-1.",
+      "resumo": "Find the latest Ibov Smart Low Vol B3 news today, Picked by AI Undervalued Stocks.  Currency in BRL Follow Trade 25,781. 61 +375.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.90%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-090-5564333",
+      "fonte": "in.investing.com",
+      "data": "2026-08-19",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Suyog Gurbaxani Funicular Ropeways | 84.",
       "sentimento": "bullish",
       "tags": [
         "AI",

@@ -378,5 +378,37 @@
   "https://finance.yahoo.com/quote/AIQ/latest-news": {
     "hash": "f2a3ce250526aa6a0ddb1d6c30e2a0be",
     "visto_em": "2026-08-26"
+  },
+  "https://finance.yahoo.com/technology/articles/tsmc-jumps-nvidia-tests-capacity-195825384.html": {
+    "hash": "844ae2e9da7fb6808e2f18bc2aaaac7c",
+    "visto_em": "2026-08-26"
+  },
+  "https://ca.finance.yahoo.com/quote/2330.TW/news": {
+    "hash": "310ebb82bd3ce706f0008e55dcaf15ed",
+    "visto_em": "2026-08-26"
+  },
+  "https://www.investing.com/news/stock-market-news/anthropic-claims-30t-ai-market-just-12x-the-entire-tech-sector-combined-4875750": {
+    "hash": "b6f8ee88fd5aaed2f4491bd1451ee8c1",
+    "visto_em": "2026-08-26"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/tech-rally-helps-lift-us-futures-ahead-of-nvidia-earnings": {
+    "hash": "4b341baddc71384c0615e577d326d41b",
+    "visto_em": "2026-08-26"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-155-4875925": {
+    "hash": "562ff198f8aaf5d359362eb93a8ac4c1",
+    "visto_em": "2026-08-26"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/ai-stocks-retail-investors-looking-021722361.html": {
+    "hash": "1797d388b3787b3f5cff29fdd4681b30",
+    "visto_em": "2026-08-26"
+  },
+  "https://in.investing.com/indices/ibov-smart-low-vol-b3-news": {
+    "hash": "b020586faa53750ba848fdeee7a7f3fd",
+    "visto_em": "2026-08-26"
+  },
+  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-090-5564333": {
+    "hash": "841714ff8a90c19e33f10ebe07b8c51d",
+    "visto_em": "2026-08-26"
   }
 }
