@@ -1,56 +1,4 @@
 {
-  "https://www.reuters.com/business/nasdaq-futures-gain-tech-stocks-climb-2026-08-17": {
-    "hash": "abc42bdf7dd03499ef661d8cb9f3c208",
-    "visto_em": "2026-08-18"
-  },
-  "https://finance.yahoo.com/sectors/technology/semiconductors": {
-    "hash": "e74a910848c333a8e1eb3097c33455ca",
-    "visto_em": "2026-08-18"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-saying-semis-august-120036665.html": {
-    "hash": "7c66e1d669731429823807fd4794f172",
-    "visto_em": "2026-08-18"
-  },
-  "https://www.reuters.com/business/big-investors-hunt-tomorrows-ai-winners-capex-angst-fades-2026-08-17": {
-    "hash": "9b80ee6fca564e4cf377eaaa5d250917",
-    "visto_em": "2026-08-18"
-  },
-  "https://www.reuters.com/legal/transactional/alibaba-sell-lingxi-games-more-than-2-billion-deal-source-says-2026-08-17": {
-    "hash": "884e4ded24e2a3dae936e2f1bfd89e6a",
-    "visto_em": "2026-08-18"
-  },
-  "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-33-lils": {
-    "hash": "993cd2a78cbf296bab0b38816fa53cbb",
-    "visto_em": "2026-08-18"
-  },
-  "https://seekingalpha.com/article/4936951-nebius-366-percent-revenue-growth-and-other-top-ai-stocks-with-short-squeeze-potential": {
-    "hash": "47421e8821a26329cac68866439fa87a",
-    "visto_em": "2026-08-18"
-  },
-  "https://www.moneytimes.com.br/ibovespa-deve-ficar-atras-de-pares-emergentes-em-2026-e-risco-politico-esta-por-tras-disso-diz-consultoria-apsa": {
-    "hash": "b4e88f05ae98ad8e761de85d7ff14258",
-    "visto_em": "2026-08-18"
-  },
-  "https://www.reuters.com/legal/government/institutional-investors-reveal-cautious-approach-tech-favorites-us-quarterly-13f-2026-08-14": {
-    "hash": "f4e793c6957b7074b87df0968c455353",
-    "visto_em": "2026-08-18"
-  },
-  "https://www.investing.com/news/stock-market-news/analysisbig-investors-hunt-for-tomorrows-ai-winners-as-capex-angst-fades-4862135": {
-    "hash": "5202350921df5fcec0ee4e7444c4e383",
-    "visto_em": "2026-08-18"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-surges-6-1-201639862.html": {
-    "hash": "6a82f86e526e7706195794b3e2b5a15d",
-    "visto_em": "2026-08-18"
-  },
-  "https://www.reuters.com/legal/transactional/wall-st-week-ahead-with-fed-mum-next-move-investors-look-earnings-keep-stocks-2026-08-14": {
-    "hash": "eabe4d4dc4a04ecea2d4c464938dc2a1",
-    "visto_em": "2026-08-18"
-  },
-  "https://www.cnbc.com/2026/08/17/nvidias-stock-has-started-to-come-alive-heres-3-reasons-why-it-can-continue-.html": {
-    "hash": "c5cf40c2fc06b99ef294a5811e9f6077",
-    "visto_em": "2026-08-18"
-  },
   "https://www.reuters.com/commentary/reuters-open-interest/even-market-clouds-clear-ai-investment-anxiety-still-gnaws-2026-08-18": {
     "hash": "4ffb5f6bf98fea9c311e5f75b11da522",
     "visto_em": "2026-08-19"
@@ -390,5 +338,45 @@
   "https://uk.finance.yahoo.com/news/ai-stocks-watch-business-spending-061735549.html": {
     "hash": "ac893dbd81ebd8c1fb1e6b7ca4b20e93",
     "visto_em": "2026-08-25"
+  },
+  "https://ca.finance.yahoo.com/news/tsmc-jumps-nvidia-tests-capacity-195825384.html": {
+    "hash": "1be36839815edf6d239e069d4eef1449",
+    "visto_em": "2026-08-26"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-stock-rocketed-201626723.html": {
+    "hash": "c719154091326f2c2b42ceed030c1368",
+    "visto_em": "2026-08-26"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/prediction-artificial-intelligence-ai-stock-165000943.html": {
+    "hash": "f2eff84a36c9ec2dfef4af9e021cefc9",
+    "visto_em": "2026-08-26"
+  },
+  "https://www.investing.com/analysis/watch-the-sox-flip-as-ai-stocks-face-a-major-volatility-warning-200686507": {
+    "hash": "96d62d9b6ecd18dcd60c689dc4764260",
+    "visto_em": "2026-08-26"
+  },
+  "https://uk.investing.com/news/stock-market-news/box-earnings-on-deck-can-ai-push-justify-recent-stock-gains-93CH-4846428": {
+    "hash": "8a579a1899911f9e48be3473441807d6",
+    "visto_em": "2026-08-26"
+  },
+  "https://finance.yahoo.com/video/ives-nvidia-earnings-could-next-145451629.html": {
+    "hash": "aa0a6ab2d1e08a6567d14697efb021d2",
+    "visto_em": "2026-08-26"
+  },
+  "https://www.reuters.com/business/us-stock-futures-rise-tech-rebound-before-nvidia-inflation-tests-2026-08-25": {
+    "hash": "5c1d18819d72b110697065eb580408c6",
+    "visto_em": "2026-08-26"
+  },
+  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-051-5569573": {
+    "hash": "6c9d8903a6657d1148e35e62cef568a2",
+    "visto_em": "2026-08-26"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/morning-bid-waiting-nvidia-next-044130117.html": {
+    "hash": "8ce2165de2a862ce44a6566436c54fe3",
+    "visto_em": "2026-08-26"
+  },
+  "https://finance.yahoo.com/quote/AIQ/latest-news": {
+    "hash": "f2a3ce250526aa6a0ddb1d6c30e2a0be",
+    "visto_em": "2026-08-26"
   }
 }

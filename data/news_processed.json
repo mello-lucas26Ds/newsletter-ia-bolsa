@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-25",
-    "total_noticias": 79,
-    "gerado_em": "2026-08-25T10:31:47.973058"
+    "data": "2026-08-26",
+    "total_noticias": 78,
+    "gerado_em": "2026-08-26T03:51:30.502638"
   },
   "noticias": [
+    {
+      "titulo": "TSMC Jumps Before Nvidia Tests Its Capacity Bet",
+      "url": "https://ca.finance.yahoo.com/news/tsmc-jumps-nvidia-tests-capacity-195825384.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "1 min read\n\n TSM\n\n  +1. 78%\n NVDA\n\n  +2. 19%\n TSM\n\n  +1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Why Rezolve AI Stock Rocketed Higher Today",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-stock-rocketed-201626723.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "Motley Fool\n\n# Why Rezolve AI Stock Rocketed Higher Today\n\nJoe Tenebruso, The Motley Fool\n\n3 min read\n\n RZLV\n\n  +21. 81%\n GOOG\n\n  -0. 36%\n NVDA\n\n  +2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Prediction: This Artificial Intelligence (AI) Stock Will Go ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/prediction-artificial-intelligence-ai-stock-165000943.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "+1. 33%\n GOOG\n\n  +0. 83%\n META\n\n  +1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Watch the SOX Flip as AI Stocks Face a Major Volatility ...",
+      "url": "https://www.investing.com/analysis/watch-the-sox-flip-as-ai-stocks-face-a-major-volatility-warning-200686507",
+      "fonte": "investing.com",
+      "data": "2026-08-25",
+      "resumo": "Tomorrow’s Nvidia (NVDA) earnings report is strong.  We get upward momentum in the AI trade through September.  We chop around again in October ahead of the midterms and Q3 reporting season.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Box earnings on deck: Can AI push justify recent stock gains?",
+      "url": "https://uk.investing.com/news/stock-market-news/box-earnings-on-deck-can-ai-push-justify-recent-stock-gains-93CH-4846428",
+      "fonte": "uk.investing.com",
+      "data": "2026-08-25",
+      "resumo": "Analysts expect earnings of 40 cents a share on revenue of $319. 3 million, representing year-over-year growth of 21% and 9% respectively..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Ives: Nvidia Earnings Could Be the Next Big Catalyst for AI Stocks",
+      "url": "https://finance.yahoo.com/video/ives-nvidia-earnings-could-next-145451629.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "Bloomberg\n\n# Ives: Nvidia Earnings Could Be the Next Big Catalyst for AI Stocks\n\nBloomberg\n\n NVDA\n\n  -2. 12%\n\nNvidia's earnings report on Wednesday will likely serve as another reminder of the company's commanding lead.  Analysts estimate that revenue nearly doubled last quarter from a year earlier to $92 billion.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "US stock futures rise on tech rebound before Nvidia ...",
+      "url": "https://www.reuters.com/business/us-stock-futures-rise-tech-rebound-before-nvidia-inflation-tests-2026-08-25",
+      "fonte": "reuters.com",
+      "data": "2026-08-25",
+      "resumo": "Investors are bracing for a slew of catalysts this week, with Nvidia's quarterly report scheduled for release after markets ‌close on ⁠Wednesday and personal consumption expenditures data due before the open. \n\nThe AI chip giant is expected to show AI-driven demand remains robust.  Any signs of slowing growth could reignite concerns over stretched valuations and how far the AI-fueled rally can run.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.51%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-051-5569573",
+      "fonte": "in.investing.com",
+      "data": "2026-08-24",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Misquita Engineering | 55.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Morning Bid: Waiting on Nvidia for next leg of AI rally",
+      "url": "https://finance.yahoo.com/technology/ai/articles/morning-bid-waiting-nvidia-next-044130117.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "Reuters\n\n# Morning Bid: Waiting on Nvidia for next leg of AI rally\n\nReuters\n\n2 min read\n\n NVDA\n\n  -2. 91%\n BABA\n\n  -0. 73%\n\nAug 25 (Reuters) - A look at the day ahead in European and global markets from Rae Wee\n\nIt's been a muted start to the session in ‌Asia on Tuesday, with stocks drifting ahead of Nvidia's earnings this week, ‌where expectations are running sky high for the artificial intelligence darling to deliver stellar results.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global X Artificial Intelligence & Technology ETF (AIQ) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/AIQ/latest-news",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-22",
+      "resumo": "NasdaqGM - Nasdaq Real Time Price • USD \n\n# Global X Artificial Intelligence & Technology ETF (AIQ)\n\n62. 59  -0. 85  (-1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings",
       "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-ahead-nvidia-144350563.html",
@@ -385,20 +525,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "3 Infrastructure Stocks Built Around the Backbone of the Economy",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-infrastructure-stocks-built-around-120000618.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-18",
-      "resumo": "## Crown Castle Could Benefit From Growing Data Center Demand\n\nCrown Castle (NYSE: CCI) is another REIT to consider in the infrastructure trade. \n\nLike American Tower, Crown Castle reports that its tower business is benefiting from a growing data center tailwind.  The opportunity is that the market doesn't appear to have priced in that growth.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "DigiCo Infrastructure REIT (DGT.XA)",
       "url": "https://finance.yahoo.com/quote/DGT.XA",
       "fonte": "finance.yahoo.com",
@@ -679,20 +805,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back.",
-      "url": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af",
-      "fonte": "marketwatch.com",
-      "data": "2026-08-18",
-      "resumo": "Nasdaq 26331. 09 0. 16%\n\nVIX 14.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote (U.S. ...",
       "url": "https://www.marketwatch.com/investing/stock/tsm",
       "fonte": "marketwatch.com",
@@ -754,20 +866,6 @@
       "fonte": "seekingalpha.com",
       "data": "2026-08-19",
       "resumo": "Bohdan Kucheriavyi\n\n10. 53K Followers\n\n## Summary\n\n Palantir Technologies Inc.  delivered robust Q2 results, accelerating growth for the twelfth consecutive quarter and raising guidance across all key metrics.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Alibaba Stock Near Fair Value as Investors Await AI Growth Update",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-stock-near-fair-value-204631622.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-18",
-      "resumo": "Alibaba Stock Near Fair Value as Investors Await AI Growth Update · us. finance. gurufocus\n\n \n\nThe valuation picture also shows a market that is already pricing in improvement: Alibaba traded at $124.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -973,20 +1071,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Famous Billionaires Were Rushing to Buy Taiwan Semiconductor (TSM). Here’s Why",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/famous-billionaires-were-rushing-buy-183916148.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-18",
-      "resumo": "Most active \n       INTC Intel Corporation 95. 87-7. 62(-7.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
       "url": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
       "fonte": "bloomberg.com",
@@ -1006,104 +1090,6 @@
       "fonte": "br.investing.com",
       "data": "2026-08-19",
       "resumo": "| Nome | Último | Var.  % | Vol.  |  |\n ---  --- \n| Moderna BDR | 39,60 | +137,55% | 527,26mil |  |\n| Azevedo & Travassos ON | 5,82 | +22,27% | 1,20M |  |\n| BioNTech BDR | 35,97 | +18,95% | 15,53mil |  |\n| Sequoia ON | 0,07 | +16,67% | 282,50mil |  |\n| Estee Lauder Companies BDR | 21,30 | +16,27% | 1,67mil |  |\n| Paranapanema ON | 0,17 | +13,33% | 13,04M |  |\n| Oncoclinicas ON | 1,24 | +12,73% | 29,86M |  |\n\n| Nome | Último | Var.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Is market heading towards a big AI crash like the dot-com crisis? Here's what European Central Bank predic",
-      "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/is-market-heading-towards-a-big-ai-crash-like-the-dot-com-crisis-heres-what-european-central-bank-predicts/articleshow/133316314.cms",
-      "fonte": "m.economictimes.com",
-      "data": "2026-08-18",
-      "resumo": "AI warnings  \n  \nSince last year, stock markets around the world saw an increasing frenzy around AI, with hyperscalers increasing their investments in the technology.  The increased optimism sparked a sharp rally in the AI stocks, before things began to go down.  Analysts soon began sounding the alarm over the massive AI spending and rising debt of the tech giants, questioning if they will actually bear fruit in the future.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "BofA Sends Bullish Message For Taiwan Semiconductor Stock Fans",
-      "url": "https://finance.yahoo.com/technology/articles/bofa-sends-bullish-message-taiwan-204702561.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-18",
-      "resumo": "Top losers \n       KLAR Klarna Group plc 15. 06-4. 45(-22.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Even as market clouds clear, AI investment anxiety still ...",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/even-market-clouds-clear-ai-investment-anxiety-still-gnaws-2026-08-18",
-      "fonte": "reuters.com",
-      "data": "2026-08-18",
-      "resumo": "In terms of headline profits, earnings projections and corporate investment, the numbers ​keep ringing the bell.  U. S.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq falls over 1% as tech stocks take a beating from soaring yields, rising oil",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-wall-st-slips-on-iran-tensions-oil-surge-4864158",
-      "fonte": "investing.com",
-      "data": "2026-08-18",
-      "resumo": "Expect a Fed Pivot After Friday’s Job Market Gut Check\n\nBy Louis Navell. \n\nAug 15, 2026\n\nImage 25\n\nImage 26\n\nThe AI Compute Boom Isn’t Peaking — It’s Just Getting Started\n\nBy Ivana Delevs. \n\nAug 15, 2026\n\nMore News\n\nMarket Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Ibovespa tem virada no final e chega a 11 sessões no negativo; dólar volta a subir",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18082026",
-      "fonte": "infomoney.com.br",
-      "data": "2026-08-18",
-      "resumo": "A Velaura AI foi avaliada em mais de US$1 bilhão nesta terça-feira, após levantar US$110 milhões em uma rodada de financiamento série A, com investidores apoiando a tecnologia de projeto de chips da startup voltada à redução de consumo de energia e custos operacionais em data centers de inteligência artificial.  A rodada de financiamento foi liderada pela Seligman Ventures, com a participação do novo investidor Capricorn Investment Group.  Os investidores já existentes — Samsung Catalyst Fund, StepStone Group e Maverick Silicon — também participaram.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Applied Digital: Increasingly Profitable AI Growth In 2026 (Rating Upgrade) (NASDAQ:APLD)",
-      "url": "https://seekingalpha.com/article/4937856-applied-digital-increasingly-profitable-ai-growth-in-2026-rating-upgrade",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-18",
-      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Applied Digital: Increasingly Profitable AI Growth In 2026 (Rating Upgrade)\n\n## Summary\n\nFuturistic AI Data Center Interior \n\nimaginima/iStock via Getty Images\n\nFuturistic AI Data Center Interior\n\nimaginima/iStock via Getty Images\n\nApplied Digital Corporation (APLD) published higher-than-expected earnings for its fourth quarter, which proved that the AI infrastructure company is a major winner of the current CapEx boom in the data center market.  Applied Digital\n\nThis article was written by.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Mark Cuban-Backed ‘Physical AI’ Startup Nears $500 Million SPAC Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/mark-cuban-backed-physical-ai-startup-nears-500-million-spac-deal",
-      "fonte": "bloomberg.com",
-      "data": "2026-08-18",
-      "resumo": "Fort Robotics Inc.  will combine with Newbury Street II Acquisition Corp.  to create what it calls “the first publicly traded company dedicated principally to safe and scalable deployment of physical AI,” according to a statement reviewed by Bloomberg News.",
       "sentimento": "neutral",
       "tags": [
         "AI",
