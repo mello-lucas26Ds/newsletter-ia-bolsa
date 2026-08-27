@@ -1,40 +1,4 @@
 {
-  "https://www.reuters.com/commentary/reuters-open-interest/even-market-clouds-clear-ai-investment-anxiety-still-gnaws-2026-08-18": {
-    "hash": "4ffb5f6bf98fea9c311e5f75b11da522",
-    "visto_em": "2026-08-19"
-  },
-  "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-wall-st-slips-on-iran-tensions-oil-surge-4864158": {
-    "hash": "67b8d01cf689250f2cb2c8575a730a6c",
-    "visto_em": "2026-08-19"
-  },
-  "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18082026": {
-    "hash": "61bfdd2d368c4a93e8c7c9188d6d971d",
-    "visto_em": "2026-08-19"
-  },
-  "https://seekingalpha.com/article/4937856-applied-digital-increasingly-profitable-ai-growth-in-2026-rating-upgrade": {
-    "hash": "3da3518e577025d2713a2a19980f1c1f",
-    "visto_em": "2026-08-19"
-  },
-  "https://www.bloomberg.com/news/articles/2026-08-18/mark-cuban-backed-physical-ai-startup-nears-500-million-spac-deal": {
-    "hash": "b8b6ee818e3f9540b207a6c410172bf5",
-    "visto_em": "2026-08-19"
-  },
-  "https://seekingalpha.com/article/4937210-blackstone-stock-wealth-compounder-riding-ai-infrastructure-boom": {
-    "hash": "287f7255f2d1993e2561a5d884a76187",
-    "visto_em": "2026-08-19"
-  },
-  "https://m.economictimes.com/markets/us-stocks/wall-street-guide/is-market-heading-towards-a-big-ai-crash-like-the-dot-com-crisis-heres-what-european-central-bank-predicts/articleshow/133316314.cms": {
-    "hash": "8724130118f32edeb71105bf5087285b",
-    "visto_em": "2026-08-19"
-  },
-  "https://finance.yahoo.com/technology/articles/bofa-sends-bullish-message-taiwan-204702561.html": {
-    "hash": "d39a38ce90c3c8547b1c2530fa96d23b",
-    "visto_em": "2026-08-19"
-  },
-  "https://br.investing.com/news/analyst-ratings/mizuho-reitera-classificacao-da-applied-materials-com-base-na-forca-da-ia-93CH-2039474": {
-    "hash": "ff74cf0ba325e08448f01a9307699840",
-    "visto_em": "2026-08-19"
-  },
   "https://finance.yahoo.com/quote/NVDA": {
     "hash": "c24d7b9cbf005e400758f4b33d9fc54d",
     "visto_em": "2026-08-20"
@@ -410,5 +374,45 @@
   "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-090-5564333": {
     "hash": "841714ff8a90c19e33f10ebe07b8c51d",
     "visto_em": "2026-08-26"
+  },
+  "https://www.reuters.com/business/nasdaq-futures-take-lead-after-nvidia-forecast-refuels-ai-trade-2026-08-27": {
+    "hash": "a10f4fae5f680694e936943fbe67d5af",
+    "visto_em": "2026-08-27"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-soar-aug-074301218.html": {
+    "hash": "09f3fc2e136feab568f84721835e8f57",
+    "visto_em": "2026-08-27"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/calm-storm-3-semiconductor-giants-115840805.html": {
+    "hash": "eb97ed9f46bfe6bc8bc0652a571f0e93",
+    "visto_em": "2026-08-27"
+  },
+  "https://www.investing.com/equities/taiwan-semicond.manufacturing-co": {
+    "hash": "57ec4a237fcaa212306cdd8e15a64cc3",
+    "visto_em": "2026-08-27"
+  },
+  "https://currently.att.yahoo.com/att/2-artificial-intelligence-ai-stocks-112600201.html": {
+    "hash": "8710e32fa10572b5e6390eeab8b9f890",
+    "visto_em": "2026-08-27"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html": {
+    "hash": "356be823f59782f781e28ef9b49db3d3",
+    "visto_em": "2026-08-27"
+  },
+  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-185-5567832": {
+    "hash": "7dff00551b548a20e79ca09dd8167bc7",
+    "visto_em": "2026-08-27"
+  },
+  "https://m.economictimes.com/tech/artificial-intelligence/indian-companies-step-up-acquisitions-for-ai-technology-and-talent-crisil/articleshow/133536711.cms": {
+    "hash": "06ef41bab8639e107de85273212644a8",
+    "visto_em": "2026-08-27"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/3-reasons-ai-stocks-primed-155400848.html": {
+    "hash": "cfc4ed52a74c13370efac0b982b7e2a0",
+    "visto_em": "2026-08-27"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/ai-stocks-watch-business-spending-061735549.html": {
+    "hash": "f63fb54b1dd219fa67768bd5cbf59dc9",
+    "visto_em": "2026-08-27"
   }
 }

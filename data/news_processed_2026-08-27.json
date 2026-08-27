@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-08-27",
+    "total_noticias": 10,
+    "gerado_em": "2026-08-27T13:42:17.719737"
+  },
+  "noticias": [
+    {
+      "titulo": "Nasdaq futures take lead after Nvidia forecast refuels AI trade",
+      "url": "https://www.reuters.com/business/nasdaq-futures-take-lead-after-nvidia-forecast-refuels-ai-trade-2026-08-27",
+      "fonte": "reuters.com",
+      "data": "2026-08-27",
+      "resumo": "Global tech stocks saw renewed investor interest, with South Korea's KOSPI (. KS11), opens new tab closing 1. 5% higher.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Prediction: TSMC Stock Will Soar After Aug. 26 Thanks to Nvidia’s Historic Quarter",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-soar-aug-074301218.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "However, TSMC can outperform market expectations.  The AI chip market's revenue is poised for a major jump by 2030, which should help TSMC sustain its robust growth, as it is the world's leading foundry.  Not surprisingly, there has been a sharp jump in TSMC's long-term earnings growth expectations.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Semiconductor Giants Share 1 Chart Pattern",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/calm-storm-3-semiconductor-giants-115840805.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-26",
+      "resumo": "| Stock | Close (Aug.  25) | 1-day | 52-week range | Market cap | Avg.  analyst target |\n ---  ---  --- |\n| NVDA | $213.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Stock Price Today | NYSE: TSM Live",
+      "url": "https://www.investing.com/equities/taiwan-semicond.manufacturing-co",
+      "fonte": "investing.com",
+      "data": "2026-08-26",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| META | 583.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "2 Artificial Intelligence (AI) Stocks That Can Skyrocket Up to 484%, According to Select Wall Street Analysts",
+      "url": "https://currently.att.yahoo.com/att/2-artificial-intelligence-ai-stocks-112600201.html",
+      "fonte": "currently.att.yahoo.com",
+      "data": "2026-08-26",
+      "resumo": "Mail\n\nSign up for MailFREE\n\nmyAT&T\n\nAT&T deals\n\nGames\n\nVer en español\n\n. \n\nMotley Fool\nMotley Fool\n\n# 2 Artificial Intelligence (AI) Stocks That Can Skyrocket Up to 484%, According to Select Wall Street Analysts\n\nNo trend has captured the attention or capital of investors quite like the rise of artificial intelligence (AI).  Empowering software and systems with the tools to make autonomous, split-second decisions is a technology that PwC analysts foresee adding $15.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia, Salesforce earnings boost tech",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "As of 4:14:36 AM EDT.  Market Open. \n\nES=F YM=F NQ=F \n\nNvidia stock rose 6% in premarket trading on Thursday as the company reported an earnings beat and signaled that it sees strong AI demand throughout next year, easing concerns that the AI chip king wouldn't be able to sustain its torrid pace of growth.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 1.85%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-185-5567832",
+      "fonte": "in.investing.com",
+      "data": "2026-08-21",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Misquita Engineering | 55.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Indian companies step up acquisitions for AI, technology and talent: Crisil - The Economic Times",
+      "url": "https://m.economictimes.com/tech/artificial-intelligence/indian-companies-step-up-acquisitions-for-ai-technology-and-talent-crisil/articleshow/133536711.cms",
+      "fonte": "m.economictimes.com",
+      "data": "2026-08-26",
+      "resumo": "Indian companies across sectors such as artificial intelligence, enterprise technology, pharmaceuticals and consumer businesses are increasingly turning to acquisitions to gain technology, talent and intellectual property capabilities as merger and acquisition activity broadens across India Inc, according to Crisil Ratings.   \n  \nThe ratings agency said mergers and acquisitions are evolving from an occasional growth option into a core strategic tool for companies seeking to scale faster, enter new markets and acquire capabilities that would take longer to build internally.  [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Reasons AI Stocks are Primed for a Rebound",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-ai-stocks-primed-155400848.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "## NVIDIA Earnings Loom\n\nZacks Rank #2 (Buy) stock NVIDIA (NVDA) is the largest company in the world and the most important in the leading artificial intelligence industry.  Wednesday, NVIDIA will report earnings after the market close.  In recent quarters, NVIDIA has released earnings growth that is unprecedented for a company of its size.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Stocks To Watch As Business Spending Stays Strong in ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-watch-business-spending-061735549.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "Market Cap: CA$4. 9 billion\n\nKinaxis provides direct exposure to AI in the real economy because Maestro uses AI agents and explainable, LLM like models to run demand planning, inventory and control tower workflows for global manufacturers and logistics groups.  Earnings recently grew sharply, with net margins at 14.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
