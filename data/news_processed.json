@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-27",
-    "total_noticias": 81,
-    "gerado_em": "2026-08-27T13:42:17.721582"
+    "total_noticias": 91,
+    "gerado_em": "2026-08-27T20:09:51.823542"
   },
   "noticias": [
+    {
+      "titulo": "Why is Taiwan Semiconductor stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-stock-rallying-today-93CH-4879812",
+      "fonte": "investing.com",
+      "data": "2026-08-27",
+      "resumo": "The broader market provided a supportive backdrop, with the Nasdaq climbing 1. 2% and the S&P 500 adding 0. 6% during the session, as Nvidia’s results lifted sentiment across the technology sector.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Semiconductors Stock Performance",
+      "url": "https://finance.yahoo.com/sectors/technology/semiconductors",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "| Name | Last Price | 1Y Target Est.  | Market Weight | Market Cap | Day Change % | YTD Return | Avg.  Analyst Rating |\n ---  ---  ---  --- |\n| NVDA  NVIDIA Corporation | 209.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks gain after Nvidia tops Q2 expectations",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-tech-stocks-gain-after-nvidia-tops-q2-expectations-125406169.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "1.    News • 32 minutes ago Tech stocks powered a rally in the S&P 500 and Nasdaq as Nvidia earnings revived AI optimism\n2.    News • 2 hours ago Kansas City Federal Reserve President Jeff Schmid said in an interview Wednesday on the eve of the central bank's annual economic summit in Jackson Hole, Wyo.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq jumps as Nvidia revenue outlook lifts chip stocks",
+      "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-26",
+      "resumo": "Outside of Nvidia and its fellow chip stocks, Salesforce rallied 21% after revenue came in ahead of Wall Street's forecast for the second quarter.  Software stocks such as Adobe and Autodesk climbed around 6% each. \n\nWithin cybersecurity, Okta soared more than 27% and CrowdStrike gained 18% after surpassing analyst expectations and raising their outlooks as the companies see booming demand due to agentic AI.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks lifted by Nvidia but caution dominates ahead of ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-chip-firms-lifted-nvidia-024234685.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "The firm has led an eye-watering rally by tech firms over the past year and in October became the first to hit a market capitalisation of $5 trillion owing to scorching demand for its chips. \n\nHowever, the investors have been growing increasingly worried about when the vast sums of cash being pumped into the AI sector will see a meaningful return, if ever. \n\nThat saw a painful selloff in July that wiped trillions off valuations.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Can AI Help You Beat the Stock Market? The Answer May Surprise You",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-help-beat-stock-market-152310707.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-26",
+      "resumo": "|  |  |  |\n --- \n| ETF | YTD | 1-Year |\n| S&P 500 | 12. 68% | 18. 34% |\n| Qraft AI-Enhanced U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DTCR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-26",
+      "resumo": "The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Software earnings show AI as a revenue driver ...",
+      "url": "https://www.investing.com/news/stock-market-news/software-earnings-show-ai-as-a-revenue-driver-with-salesforce-and-crowdstrike-leading-gains-93CH-4879994",
+      "fonte": "investing.com",
+      "data": "2026-08-27",
+      "resumo": "TSLA\n\n355. 52\n\n+9. 70\n\n+2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "ELECTRA AI and Iron Horse Acquisition II Announce Technical Collaboration with MinTech on AI-Powered Battery Energy Storage System (BESS) Risk Prediction",
+      "url": "https://finance.yahoo.com/technology/ai/articles/electra-ai-iron-horse-acquisition-120000429.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "About Iron Horse Acquisition II Corp. \n\nIron Horse Acquisition II Corp.  (Nasdaq: IRHO) (www.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Data Center Stocks Powering the AI Buildout",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-data-center-stocks-powering-110028373.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-23",
+      "resumo": "Analyst sentiment sits at 81% bullish, 0% bearish, with a 1. 82% dividend yield and forward P/E of 61.  The caveat: raised capex guidance of $5 billion to $6 billion in 2026 and $5 billion to $7 billion annually through 2029 pressures near-term free cash flow, and neocloud competition is a real overhang.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq futures take lead after Nvidia forecast refuels AI trade",
       "url": "https://www.reuters.com/business/nasdaq-futures-take-lead-after-nvidia-forecast-refuels-ai-trade-2026-08-27",
