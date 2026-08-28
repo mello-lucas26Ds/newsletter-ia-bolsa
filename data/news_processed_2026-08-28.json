@@ -2,58 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-28",
-    "total_noticias": 5,
-    "gerado_em": "2026-08-28T14:51:36.384418"
+    "total_noticias": 6,
+    "gerado_em": "2026-08-28T21:06:52.622794"
   },
   "noticias": [
     {
-      "titulo": "Tech stocks rally as Nvidia fuels bets on AI trade",
-      "url": "https://sg.finance.yahoo.com/news/tech-stocks-rally-nvidia-fuels-150542915.html",
-      "fonte": "sg.finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "+1. 43%\n CRWD\n\n  +20. 50%\n ^GSPC\n\n  +0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq off to strong start as Nvidia sparks tech rally",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-spotlight-ahead-thursdays-wall-124900933.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "Nvidia was the standout, with shares climbing 7. 5% after the chip giant forecast third-quarter revenue above Wall Street expectations, extending its remarkable run of growth driven by seemingly insatiable demand for AI chips. \n\nSalesforce was also surging, up more than 20% after delivering a strong fiscal second-quarter earnings beat and raising its full-year guidance.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Chipmakers are outshining Big Tech in the AI rally",
-      "url": "https://sg.finance.yahoo.com/news/ai-rally-disguising-massive-slump-174239329.html",
-      "fonte": "sg.finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "+8. 74%\n ^IXIC\n\n  +1. 57%\n INTC\n\n  +4.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Co Ltd (TSMC34)",
-      "url": "https://www.investing.com/equities/taiwan-semiconductor-drc",
+      "titulo": "DTCR Stock Price | Global X Data Center & Digital Infrastructure ETF - Investing.com",
+      "url": "https://www.investing.com/etfs/vpn",
       "fonte": "investing.com",
-      "data": "2026-08-25",
-      "resumo": "+0. 21%\n\nUS 10Y T-Note Futures\n\n108. 88\n\n+0.",
+      "data": "2026-08-28",
+      "resumo": "Global X Funds - Global X Data Center & Digital Infrastructure ETF is an exchange traded fund launched and managed by Global X Management Company LLC.  It invests in the public equity markets of global region.  The fund invests in stocks of companies operating across data center REITs and digital infrastructure companies including companies in the fields of data centers, cellular towers, and/or digital infrastructure hardware, information technology, software and services, IT services, internet services and infrastructure, co-location/data centers sectors.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -63,11 +21,67 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Volato Group Signs Definitive Agreement for $500 Million AI Infrastructure Merger with Alignment Engine",
-      "url": "https://finance.yahoo.com/technology/ai/articles/volato-group-signs-definitive-agreement-120000971.html",
+      "titulo": "TSMC's July Surge Raises the Bar for Nvidia's Foundry",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-surge-raises-bar-190325583.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-08-26",
-      "resumo": "and maintain customers for our offerings and the risk that anticipated or projected demand for our offerings is less than expected, the possibility that the acquisition does not yield the benefits expected or desired, our ability to integrate and effectively manage and grow the combined company following the transaction if the transaction is completed; the impact of any future U. S.  action on tariffs and U.",
+      "resumo": "But the stock price already demands excellence.  At $415. 66, the shares trade 30.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSFA.F) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/TSFA.F",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-28",
+      "resumo": "MTE. F\n\nMicron Technology, Inc. \n\n804.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Seeking Clues to C3.ai (AI) Q1 Earnings? A Peek Into Wall Street Projections for Key Metrics",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seeking-clues-c3-ai-ai-131503319.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-28",
+      "resumo": "Zacks\n\n# Seeking Clues to C3. ai (AI) Q1 Earnings.  A Peek Into Wall Street Projections for Key Metrics\n\nSeeking Clues to C3.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Surge Digital conclui mudança de nome e consolidação de ações 7 por 1 Por Investing.com",
+      "url": "https://br.investing.com/news/company-news/surge-digital-conclui-mudanca-de-nome-e-consolidacao-de-acoes-7-por-1-93CH-2050178",
+      "fonte": "br.investing.com",
+      "data": "2026-08-26",
+      "resumo": "Essa notícia foi traduzida com a ajuda de inteligência artificial.  Para mais informação, veja nossos Termos de Uso. \n\n## Últimos comentários\n\nParticipe dos nossos desafios de investimento e concorra a prêmios, enquanto aprende.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "10 Software Stocks to Watch as Salesforce Soars Following Earnings Report | Investing.com",
+      "url": "https://www.investing.com/analysis/10-software-stocks-to-watch-as-salesforce-soars-following-earnings-report-200686645",
+      "fonte": "investing.com",
+      "data": "2026-08-26",
+      "resumo": "ProPicks AI: AI-managed stock picks every month, with several picks that have already taken off this month and in the long term. \n Warren AI: Investing. com’s AI tool provides real-time market insights, advanced chart analysis, and personalized trading data to help traders make quick, data-driven decisions.",
       "sentimento": "neutral",
       "tags": [
         "AI",

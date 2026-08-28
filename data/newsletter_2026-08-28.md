@@ -1,92 +1,98 @@
 # Newsletter IA Bolsa — 2026-08-28
 
-**Gerado em:** 28/08/2026 14:51
-**Total:** 5 noticias
+**Gerado em:** 28/08/2026 21:06
+**Total:** 6 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Tech stocks rally as Nvidia fuels bets on AI trade
-
-**Fonte:** sg.finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-+1. 43%
- CRWD
-
-  +20. 50%
- ^GSPC
-
-  +0.
-
-[Ler noticia completa](https://sg.finance.yahoo.com/news/tech-stocks-rally-nvidia-fuels-150542915.html)
-
----
-
-## 2. Nasdaq off to strong start as Nvidia sparks tech rally
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Nvidia was the standout, with shares climbing 7. 5% after the chip giant forecast third-quarter revenue above Wall Street expectations, extending its remarkable run of growth driven by seemingly insatiable demand for AI chips. 
-
-Salesforce was also surging, up more than 20% after delivering a strong fiscal second-quarter earnings beat and raising its full-year guidance.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nasdaq-spotlight-ahead-thursdays-wall-124900933.html)
-
----
-
-## 3. Chipmakers are outshining Big Tech in the AI rally
-
-**Fonte:** sg.finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-+8. 74%
- ^IXIC
-
-  +1. 57%
- INTC
-
-  +4.
-
-[Ler noticia completa](https://sg.finance.yahoo.com/news/ai-rally-disguising-massive-slump-174239329.html)
-
----
-
-## 4. Taiwan Semiconductor Manufacturing Co Ltd (TSMC34)
+## 1. DTCR Stock Price | Global X Data Center & Digital Infrastructure ETF - Investing.com
 
 **Fonte:** investing.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-+0. 21%
+Global X Funds - Global X Data Center & Digital Infrastructure ETF is an exchange traded fund launched and managed by Global X Management Company LLC.  It invests in the public equity markets of global region.  The fund invests in stocks of companies operating across data center REITs and digital infrastructure companies including companies in the fields of data centers, cellular towers, and/or digital infrastructure hardware, information technology, software and services, IT services, internet services and infrastructure, co-location/data centers sectors.
 
-US 10Y T-Note Futures
-
-108. 88
-
-+0.
-
-[Ler noticia completa](https://www.investing.com/equities/taiwan-semiconductor-drc)
+[Ler noticia completa](https://www.investing.com/etfs/vpn)
 
 ---
 
-## 5. Volato Group Signs Definitive Agreement for $500 Million AI Infrastructure Merger with Alignment Engine
+## 2. TSMC's July Surge Raises the Bar for Nvidia's Foundry
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+But the stock price already demands excellence.  At $415. 66, the shares trade 30.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-surge-raises-bar-190325583.html)
+
+---
+
+## 3. Taiwan Semiconductor Manufacturing Company Limited (TSFA.F) Stock Price, News, Quote & History - Yahoo Finance
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-and maintain customers for our offerings and the risk that anticipated or projected demand for our offerings is less than expected, the possibility that the acquisition does not yield the benefits expected or desired, our ability to integrate and effectively manage and grow the combined company following the transaction if the transaction is completed; the impact of any future U. S.  action on tariffs and U.
+MTE. F
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/volato-group-signs-definitive-agreement-120000971.html)
+Micron Technology, Inc. 
+
+804.
+
+[Ler noticia completa](https://finance.yahoo.com/quote/TSFA.F)
+
+---
+
+## 4. Seeking Clues to C3.ai (AI) Q1 Earnings? A Peek Into Wall Street Projections for Key Metrics
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Zacks
+
+# Seeking Clues to C3. ai (AI) Q1 Earnings.  A Peek Into Wall Street Projections for Key Metrics
+
+Seeking Clues to C3.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/seeking-clues-c3-ai-ai-131503319.html)
+
+---
+
+## 5. Surge Digital conclui mudança de nome e consolidação de ações 7 por 1 Por Investing.com
+
+**Fonte:** br.investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Essa notícia foi traduzida com a ajuda de inteligência artificial.  Para mais informação, veja nossos Termos de Uso. 
+
+## Últimos comentários
+
+Participe dos nossos desafios de investimento e concorra a prêmios, enquanto aprende.
+
+[Ler noticia completa](https://br.investing.com/news/company-news/surge-digital-conclui-mudanca-de-nome-e-consolidacao-de-acoes-7-por-1-93CH-2050178)
+
+---
+
+## 6. 10 Software Stocks to Watch as Salesforce Soars Following Earnings Report | Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+ProPicks AI: AI-managed stock picks every month, with several picks that have already taken off this month and in the long term. 
+ Warren AI: Investing. com’s AI tool provides real-time market insights, advanced chart analysis, and personalized trading data to help traders make quick, data-driven decisions.
+
+[Ler noticia completa](https://www.investing.com/analysis/10-software-stocks-to-watch-as-salesforce-soars-following-earnings-report-200686645)
 
 ---
