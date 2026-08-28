@@ -1,11 +1,81 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-27",
-    "total_noticias": 91,
-    "gerado_em": "2026-08-27T20:09:51.823542"
+    "data": "2026-08-28",
+    "total_noticias": 82,
+    "gerado_em": "2026-08-28T14:51:36.386114"
   },
   "noticias": [
+    {
+      "titulo": "Tech stocks rally as Nvidia fuels bets on AI trade",
+      "url": "https://sg.finance.yahoo.com/news/tech-stocks-rally-nvidia-fuels-150542915.html",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "+1. 43%\n CRWD\n\n  +20. 50%\n ^GSPC\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq off to strong start as Nvidia sparks tech rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-spotlight-ahead-thursdays-wall-124900933.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "Nvidia was the standout, with shares climbing 7. 5% after the chip giant forecast third-quarter revenue above Wall Street expectations, extending its remarkable run of growth driven by seemingly insatiable demand for AI chips. \n\nSalesforce was also surging, up more than 20% after delivering a strong fiscal second-quarter earnings beat and raising its full-year guidance.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Chipmakers are outshining Big Tech in the AI rally",
+      "url": "https://sg.finance.yahoo.com/news/ai-rally-disguising-massive-slump-174239329.html",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "+8. 74%\n ^IXIC\n\n  +1. 57%\n INTC\n\n  +4.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Co Ltd (TSMC34)",
+      "url": "https://www.investing.com/equities/taiwan-semiconductor-drc",
+      "fonte": "investing.com",
+      "data": "2026-08-25",
+      "resumo": "+0. 21%\n\nUS 10Y T-Note Futures\n\n108. 88\n\n+0.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Volato Group Signs Definitive Agreement for $500 Million AI Infrastructure Merger with Alignment Engine",
+      "url": "https://finance.yahoo.com/technology/ai/articles/volato-group-signs-definitive-agreement-120000971.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-26",
+      "resumo": "and maintain customers for our offerings and the risk that anticipated or projected demand for our offerings is less than expected, the possibility that the acquisition does not yield the benefits expected or desired, our ability to integrate and effectively manage and grow the combined company following the transaction if the transaction is completed; the impact of any future U. S.  action on tariffs and U.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Why is Taiwan Semiconductor stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-stock-rallying-today-93CH-4879812",
@@ -819,20 +889,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.06%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-006-4870479",
-      "fonte": "investing.com",
-      "data": "2026-08-20",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MRNA | 133.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a ...",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-100-billion-arizona-expansion-190500179.html",
       "fonte": "finance.yahoo.com",
@@ -889,54 +945,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "DigiCo Infrastructure REIT (DGT.XA)",
-      "url": "https://finance.yahoo.com/quote/DGT.XA",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "DigiCo Infrastructure REIT (DGT) is a diversified owner, operator and developer of data centres, with a global portfolio and broad investment mandate across Stabilized, Value-add and Development opportunities.  DGT's portfolio consists of data center assets across key Australian and North American markets with 172MW of planned IT capacity, including 85MW of Contracted IT capacity.  DigiCo Infrastructure REIT was established on November 01, 2024.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "SoundHound AI (SOUN) Shareholders Are About To Vote On Its Merger Deal",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-soun-shareholders-vote-042918884.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "### Does this news change the SoundHound AI Narrative. \n\nThe merger tracks closely with the existing Narrative that emphasizes enterprise agentic AI expansion, larger partnerships, and cost synergies from integrating acquisitions onto SoundHound AI's proprietary stack.  It also speaks directly to Narrative risks around heavy spending, execution on acquisitions, and the need to convert more of the combined business into sustainable margins.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Hut 8 Craters 11% Despite a $19.6B Beacon Point Backlog, TeraWulf Falls 5%, IREN Drops 3%: What’s Pressuring These AI Miner Stocks?",
       "url": "https://finance.yahoo.com/markets/stocks/articles/hut-8-craters-11-despite-161048777.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-08-22",
       "resumo": "## Data Center Fund Barely Budges\n\nThe Global X ETF's muted move is the cleanest evidence that broader AI infrastructure demand isn't being repriced today.  It has advanced up 35% year to date through Thursday's close year to date through Thursday's close, so it has participated in the theme, yet Friday's drop is tiny relative to the miners.  Its portfolio leans toward established data center REITs and communications tower operators, with the top three positions each accounting for more than 9% of net assets.",
       "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI beyond chips: These other stocks also offer AI exposure",
-      "url": "https://www.investing.com/news/stock-market-news/ai-beyond-chips-these-other-stocks-also-offer-ai-exposure-93CH-4868683",
-      "fonte": "investing.com",
-      "data": "2026-08-20",
-      "resumo": "SBAC+0. 57%\n\nUNIT+4. 24%\n\nVRT-4.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -1132,146 +1146,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-08-21",
       "resumo": ". \n\nGuruFocus. com\n\n# TSMC Rises Ahead of Nvidia's Critical AI Demand Test\n\nKhac Phu Nguyen\n\n1 min read\n\n TSM\n\n  +0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote (U.S. ...",
-      "url": "https://www.marketwatch.com/investing/stock/tsm",
-      "fonte": "marketwatch.com",
-      "data": "2026-08-20",
-      "resumo": "## Competitors\n\n| Name | Chg % | Market Cap |\n --- \n| NVIDIA Corp.  | -0. 99% | $5.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Earnings call transcript: IPH H2 2026 profit rises as stock falls 7.8%",
-      "url": "https://za.investing.com/news/transcripts/earnings-call-transcript-iph-h2-2026-profit-rises-as-stock-falls-78-93CH-4436698",
-      "fonte": "za.investing.com",
-      "data": "2026-08-20",
-      "resumo": "AI to enhance client service, improve visibility across IP portfolios, and support stronger collaboration across our network.  Meanwhile, we maintain strong governance standards surrounding the use of AI across the business, including human accountability over decision-making.  On slide 24.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "This Stock Is Riding an AI Wave That Shows No Signs ...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/stock-riding-ai-wave-shows-130020996.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "Insider activity has skewed to net selling across 122 recent transactions.  Bulls counter that inventory build reflects genuine 2nm pull-through and that Arizona capacity materially reduces geopolitical discount over time. \n\nTSM price scenario\n\nTSM Price Scenario — 24/7 Wall St.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Advanced Micro Devices, Inc. (AMD) Stock Price, News ...",
-      "url": "https://finance.yahoo.com/quote/AMD",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "18. 89\n Enterprise Value/EBITDA\n\n  72. 80\n\n### Financial Highlights\n\n#### Profitability and Income Statement\n\n Profit Margin\n\n  15.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Alibaba Posts Weaker Earnings Amid Heavy AI Investments",
-      "url": "https://www.wsj.com/business/earnings/alibaba-posts-weaker-earnings-amid-heavy-ai-investments-0429baaa",
-      "fonte": "wsj.com",
-      "data": "2026-08-20",
-      "resumo": "The Hangzhou-based company said Thursday that net profit dropped 76% to 10. 54 billion yuan, equivalent to $1. 57 billion, while revenue grew about 8.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Datavault AI (DVLT) Could Be 88% Undervalued On Second Quarter 2026 Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/datavault-ai-dvlt-could-88-032329163.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "See our latest analysis for Datavault AI. \n\nDatavault AI's latest report comes after a volatile stretch, with the share price down 23. 40% over the last day and the year to date share price return falling 70.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Alibaba Tops Chinese Tech Stocks This Quarter on AI Resurgence",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-tops-chinese-tech-stocks-013849635.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "A key difference is that Tencent is focusing its AI strategy on its social media and content businesses while Alibaba spends heavily across its generative model, cloud and chip operations.  Alibaba has also started to see accelerating cloud growth.  It's even starting to steal back the spotlight from upstart model makers like Z.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The 10 Most Popular AI ETFs of 2026",
-      "url": "https://finance.yahoo.com/markets/options/articles/10-most-popular-ai-etfs-002440472.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "You can quibble over whether QQQM counts as an AI ETF, but the Nasdaq-100 has always been a tech proxy, and the tech theme in vogue right now is AI.    \n  \nQQQM is the cheaper, buy-and-hold-oriented version of the more famous QQQ, tracking the same 100 largest non-financial Nasdaq companies.  The fund is dominated by massive tech companies, most of which are heavily involved in AI, including Nvidia, Microsoft, Alphabet, Amazon, Micron, and Broadcom.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Trades 30.87% Above GF Value as Chip Capacity Tightens",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-trades-30-87-above-220612599.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "3.  Most funded\n   4.  Options \n      1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "2 Semiconductor Stocks Worth Your Attention and 1 We Brush Off",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-worth-attention-101402594.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-20",
-      "resumo": "## Stocks We Like Even More\n\nONE MORE THING: Top 5 Growth Stocks.  The biggest stock winners almost always had one thing in common before they ran.  Revenue growing like crazy.",
       "sentimento": "bullish",
       "tags": [
         "AI",

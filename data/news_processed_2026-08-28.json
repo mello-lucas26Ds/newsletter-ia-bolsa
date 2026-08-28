@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-08-28",
+    "total_noticias": 5,
+    "gerado_em": "2026-08-28T14:51:36.384418"
+  },
+  "noticias": [
+    {
+      "titulo": "Tech stocks rally as Nvidia fuels bets on AI trade",
+      "url": "https://sg.finance.yahoo.com/news/tech-stocks-rally-nvidia-fuels-150542915.html",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "+1. 43%\n CRWD\n\n  +20. 50%\n ^GSPC\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq off to strong start as Nvidia sparks tech rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-spotlight-ahead-thursdays-wall-124900933.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "Nvidia was the standout, with shares climbing 7. 5% after the chip giant forecast third-quarter revenue above Wall Street expectations, extending its remarkable run of growth driven by seemingly insatiable demand for AI chips. \n\nSalesforce was also surging, up more than 20% after delivering a strong fiscal second-quarter earnings beat and raising its full-year guidance.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Chipmakers are outshining Big Tech in the AI rally",
+      "url": "https://sg.finance.yahoo.com/news/ai-rally-disguising-massive-slump-174239329.html",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "+8. 74%\n ^IXIC\n\n  +1. 57%\n INTC\n\n  +4.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Co Ltd (TSMC34)",
+      "url": "https://www.investing.com/equities/taiwan-semiconductor-drc",
+      "fonte": "investing.com",
+      "data": "2026-08-25",
+      "resumo": "+0. 21%\n\nUS 10Y T-Note Futures\n\n108. 88\n\n+0.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Volato Group Signs Definitive Agreement for $500 Million AI Infrastructure Merger with Alignment Engine",
+      "url": "https://finance.yahoo.com/technology/ai/articles/volato-group-signs-definitive-agreement-120000971.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-26",
+      "resumo": "and maintain customers for our offerings and the risk that anticipated or projected demand for our offerings is less than expected, the possibility that the acquisition does not yield the benefits expected or desired, our ability to integrate and effectively manage and grow the combined company following the transaction if the transaction is completed; the impact of any future U. S.  action on tariffs and U.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
