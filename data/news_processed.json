@@ -2,10 +2,66 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-29",
-    "total_noticias": 80,
-    "gerado_em": "2026-08-29T09:41:40.736729"
+    "total_noticias": 84,
+    "gerado_em": "2026-08-29T14:56:50.102282"
   },
   "noticias": [
+    {
+      "titulo": "Appian, Atlassian, Bandwidth, C3.ai, and Dynatrace Shares Are Soaring, What You Need To Know",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/appian-atlassian-bandwidth-c3-ai-045707959.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-28",
+      "resumo": "Similarly, Okta reported that its new AI-focused identity offerings drove approximately 30% of new bookings during the quarter and increased average contract values by roughly 40% when included in deals.  The broader rally, highlighted by a 20% surge in Salesforce, underscores growing market confidence that established enterprise software vendors are well-positioned to capture massive economic value from the ongoing deployment of AI technologies. \n\nThe stock market overreacts to news, and big price drops can present good opportunities to buy high-quality stocks.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.30%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-030-5576311",
+      "fonte": "in.investing.com",
+      "data": "2026-08-28",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Wonder Electricals | 99.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The Boom Daily: The AI Boom Meets Earnings, Export Controls and the Bond Market | Investing.com",
+      "url": "https://www.investing.com/analysis/the-boom-daily-the-ai-boom-meets-earnings-export-controls-and-the-bond-market-200686384",
+      "fonte": "investing.com",
+      "data": "2026-08-24",
+      "resumo": "That matters because Nvidia (NASDAQ:NVDA) reports on Wednesday and has effectively become the quarterly earnings report for the entire AI capital-expenditure cycle.  Nvidia can confirm that the orders are still coming, while Asian suppliers reveal whether that demand is flowing through the wider ecosystem with margins intact.  The hurdle is no longer merely strong growth.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.01%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-001-5572850",
+      "fonte": "in.investing.com",
+      "data": "2026-08-26",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| D S Kulkarni Developers Ltd | 9.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Cybersecurity Stocks Rally on Twin Earnings Beats: Okta Spikes 22%, CrowdStrike Jumps 13%",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-twin-earnings-133439422.html",
