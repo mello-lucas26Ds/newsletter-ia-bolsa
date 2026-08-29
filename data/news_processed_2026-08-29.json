@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-08-29",
+    "total_noticias": 5,
+    "gerado_em": "2026-08-29T09:41:40.734909"
+  },
+  "noticias": [
+    {
+      "titulo": "Cybersecurity Stocks Rally on Twin Earnings Beats: Okta Spikes 22%, CrowdStrike Jumps 13%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-twin-earnings-133439422.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "Peers Palo Alto Networks (NASDAQ:PANW) and Fortinet (NASDAQ:FTNT) are riding the read-through as the platform trade in cybersecurity gets fresh validation.  Palo Alto Networks stock is up 5% to $356. 17, and Fortinet stock is up 1% to $159.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq leads Wall St after Nvidia quells AI fears",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-leads-wall-st-nvidia-133355523.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "Reuters\n\n# Nasdaq leads Wall St after Nvidia quells AI fears\n\nReuters\n\n NVDA\n\n  +7. 20%\n ^DJI\n\n  +0. 07%\n ^GSPC\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.30%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-030-4881807",
+      "fonte": "investing.com",
+      "data": "2026-08-28",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| PYPL | 53.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Salesforce Earnings Shock: Is It Time for Software Stocks to Make a Return? | Investing.com",
+      "url": "https://www.investing.com/analysis/salesforce-earnings-shock-is-it-time-for-software-stocks-to-make-a-return-200686753",
+      "fonte": "investing.com",
+      "data": "2026-08-28",
+      "resumo": "## AI Is Becoming Revenue, Security and Governance\n\nThe earnings evidence is also broadening.  CrowdStrike reported Q2 revenue of $1. 47 billion, up 26%, while record net-new ARR reached $333 million, up 51%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Still Headlines, But New Stock Market Stories Emerge From Q2 Earnings",
+      "url": "https://seekingalpha.com/article/4940802-ai-still-headlines-new-stock-market-stories-emerge-from-q2-earnings",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-27",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# AI Still Headlines, But New Stock Market Stories Emerge From Q2 Earnings\n\n## Summary\n\nAI automatically trading bot, Software that analyzes market data and executes trades automatically, Using artificial intelligence algorithms, Trading and business investment concept.  3d rendering \n\nGetty Images\n\nAI automatically trading bot, Software that analyzes market data and executes trades automatically, Using artificial intelligence algorithms, Trading and business investment concept.  3d rendering\n\nGetty Images\n\nOriginally published on Aug.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

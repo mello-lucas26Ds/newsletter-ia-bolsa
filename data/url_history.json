@@ -1,56 +1,4 @@
 {
-  "https://finance.yahoo.com/quote/AMD": {
-    "hash": "1bae192308dd5783ce96bcfd0c620d81",
-    "visto_em": "2026-08-21"
-  },
-  "https://www.wsj.com/business/earnings/alibaba-posts-weaker-earnings-amid-heavy-ai-investments-0429baaa": {
-    "hash": "1954dd78106612a64fb52e822798e20f",
-    "visto_em": "2026-08-21"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/datavault-ai-dvlt-could-88-032329163.html": {
-    "hash": "6596349a39f5b0de71e202da772c9b5c",
-    "visto_em": "2026-08-21"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/alibaba-tops-chinese-tech-stocks-013849635.html": {
-    "hash": "a20ea9145b519ca0594855911045f226",
-    "visto_em": "2026-08-21"
-  },
-  "https://finance.yahoo.com/markets/options/articles/10-most-popular-ai-etfs-002440472.html": {
-    "hash": "45c72a1ea34211ec839c0ea6a8b2ebd6",
-    "visto_em": "2026-08-21"
-  },
-  "https://za.investing.com/news/stock-market-news/baidu-shares-at-near-1year-low-as-weak-earnings-expose-limits-of-ai-growth-push-4434732": {
-    "hash": "459ea46521761e63254368514648379e",
-    "visto_em": "2026-08-21"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-trades-30-87-above-220612599.html": {
-    "hash": "fbaece23dace31d1d310b1236303dd6d",
-    "visto_em": "2026-08-21"
-  },
-  "https://seekingalpha.com/article/4938358-realty-income-data-center-vertical-a-major-catalyst-now": {
-    "hash": "0443adc604d41e7534f009f1a85785d7",
-    "visto_em": "2026-08-21"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-worth-attention-101402594.html": {
-    "hash": "e1c0a287afecf904f5a21953d444770f",
-    "visto_em": "2026-08-21"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/stock-riding-ai-wave-shows-130020996.html": {
-    "hash": "39d1068aaad7d9ff7d20c08cb6d22cf9",
-    "visto_em": "2026-08-21"
-  },
-  "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1": {
-    "hash": "7aafab8f5918d60c16d9595f96702436",
-    "visto_em": "2026-08-21"
-  },
-  "https://seekingalpha.com/article/4938263-palantir-why-im-not-buying-this-rally": {
-    "hash": "be84e2afa0bb9c778def9d5a07f757f9",
-    "visto_em": "2026-08-21"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/alibaba-stock-near-fair-value-204631622.html": {
-    "hash": "638ee001088674f0abfdb3bdbc0ba7f7",
-    "visto_em": "2026-08-21"
-  },
   "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html": {
     "hash": "f408e994635fa7d82ff142b73236ca88",
     "visto_em": "2026-08-22"
@@ -454,5 +402,25 @@
   "https://www.investing.com/analysis/10-software-stocks-to-watch-as-salesforce-soars-following-earnings-report-200686645": {
     "hash": "78a5fdbd9215f1553cab985f5927580f",
     "visto_em": "2026-08-28"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-twin-earnings-133439422.html": {
+    "hash": "709150a33d1f2faa0f22c40c58802b25",
+    "visto_em": "2026-08-29"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-leads-wall-st-nvidia-133355523.html": {
+    "hash": "f2aa3a66c97088c0c27734f3c59c2fb7",
+    "visto_em": "2026-08-29"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-030-4881807": {
+    "hash": "b4e7779c947f53f0aa31ee0935e25a9a",
+    "visto_em": "2026-08-29"
+  },
+  "https://www.investing.com/analysis/salesforce-earnings-shock-is-it-time-for-software-stocks-to-make-a-return-200686753": {
+    "hash": "8ee38a4affaad3cfc185690ab00e8029",
+    "visto_em": "2026-08-29"
+  },
+  "https://seekingalpha.com/article/4940802-ai-still-headlines-new-stock-market-stories-emerge-from-q2-earnings": {
+    "hash": "f1f6e770339d729b59236ebed2ae39c0",
+    "visto_em": "2026-08-29"
   }
 }

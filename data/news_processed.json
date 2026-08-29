@@ -1,11 +1,81 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-28",
-    "total_noticias": 88,
-    "gerado_em": "2026-08-28T21:06:52.624534"
+    "data": "2026-08-29",
+    "total_noticias": 80,
+    "gerado_em": "2026-08-29T09:41:40.736729"
   },
   "noticias": [
+    {
+      "titulo": "Cybersecurity Stocks Rally on Twin Earnings Beats: Okta Spikes 22%, CrowdStrike Jumps 13%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-twin-earnings-133439422.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "Peers Palo Alto Networks (NASDAQ:PANW) and Fortinet (NASDAQ:FTNT) are riding the read-through as the platform trade in cybersecurity gets fresh validation.  Palo Alto Networks stock is up 5% to $356. 17, and Fortinet stock is up 1% to $159.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq leads Wall St after Nvidia quells AI fears",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-leads-wall-st-nvidia-133355523.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "Reuters\n\n# Nasdaq leads Wall St after Nvidia quells AI fears\n\nReuters\n\n NVDA\n\n  +7. 20%\n ^DJI\n\n  +0. 07%\n ^GSPC\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.30%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-030-4881807",
+      "fonte": "investing.com",
+      "data": "2026-08-28",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| PYPL | 53.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Salesforce Earnings Shock: Is It Time for Software Stocks to Make a Return? | Investing.com",
+      "url": "https://www.investing.com/analysis/salesforce-earnings-shock-is-it-time-for-software-stocks-to-make-a-return-200686753",
+      "fonte": "investing.com",
+      "data": "2026-08-28",
+      "resumo": "## AI Is Becoming Revenue, Security and Governance\n\nThe earnings evidence is also broadening.  CrowdStrike reported Q2 revenue of $1. 47 billion, up 26%, while record net-new ARR reached $333 million, up 51%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Still Headlines, But New Stock Market Stories Emerge From Q2 Earnings",
+      "url": "https://seekingalpha.com/article/4940802-ai-still-headlines-new-stock-market-stories-emerge-from-q2-earnings",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-27",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# AI Still Headlines, But New Stock Market Stories Emerge From Q2 Earnings\n\n## Summary\n\nAI automatically trading bot, Software that analyzes market data and executes trades automatically, Using artificial intelligence algorithms, Trading and business investment concept.  3d rendering \n\nGetty Images\n\nAI automatically trading bot, Software that analyzes market data and executes trades automatically, Using artificial intelligence algorithms, Trading and business investment concept.  3d rendering\n\nGetty Images\n\nOriginally published on Aug.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "DTCR Stock Price | Global X Data Center & Digital Infrastructure ETF - Investing.com",
       "url": "https://www.investing.com/etfs/vpn",
@@ -385,20 +455,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil shares higher at close of trade; Bovespa up 1.85%",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-185-5567832",
-      "fonte": "in.investing.com",
-      "data": "2026-08-21",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Misquita Engineering | 55.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Indian companies step up acquisitions for AI, technology and talent: Crisil - The Economic Times",
       "url": "https://m.economictimes.com/tech/artificial-intelligence/indian-companies-step-up-acquisitions-for-ai-technology-and-talent-crisil/articleshow/133536711.cms",
       "fonte": "m.economictimes.com",
@@ -707,34 +763,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
-      "url": "https://ca.finance.yahoo.com/news/tsmc-rises-ahead-nvidias-critical-193930535.html",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-08-21",
-      "resumo": "-0. 98%\n AAPL\n\n  -0. 63%\n TSM\n\n  +0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "US Stock Market: AI-fuelled tech rally raises concerns over growing market concentration - The Economic Times",
-      "url": "https://m.economictimes.com/markets/us-stocks/news/us-stock-market-ai-fuelled-tech-rally-raises-concerns-over-growing-market-concentration/articleshow/131496003.cms",
-      "fonte": "m.economictimes.com",
-      "data": "2026-08-21",
-      "resumo": "The strong performance of technology stocks has reinforced the market's dependence on a relatively small group of companies.  Market strategists warn that any disruption to the AI growth narrative or a slowdown in earnings momentum could have an outsized impact on broader equity indexes.   \n  \nThe rally has not been limited to semiconductor manufacturers.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nvidia earnings on tap: watch these Asian chip stocks for exposure By Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/nvidia-earnings-on-tap-watch-these-asian-chip-stocks-for-exposure-93CH-4874452",
       "fonte": "investing.com",
@@ -959,20 +987,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.85%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-185-4872111",
-      "fonte": "investing.com",
-      "data": "2026-08-21",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MRVL | 237.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a ...",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-100-billion-arizona-expansion-190500179.html",
       "fonte": "finance.yahoo.com",
@@ -1006,20 +1020,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-08-23",
       "resumo": "Sign in    \n\n   \nTop gainers \n       SLS SELLAS Life Sciences Group, Inc.  15. 46+2.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI, chip stocks largely mixed amid broader Wall Street gains",
-      "url": "https://seekingalpha.com/news/4635914-ai-chip-stocks-largely-mixed-amid-broader-wall-street-gains",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-21",
-      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# AI, chip stocks largely mixed amid broader Wall Street gains\n\nDigital Intelligence - AI Icon Illuminated Against Financial Data and Binary Streams\n\nJ Studios\n\nShares of chip and AI-related companies were largely mixed on Friday, while the broader market was largely among gains. \n\nWall Street’s major indexes climbed as Treasury yields held steady and Bitcoin saw sharp swings.  The tech-focused Nasdaq Composite (\n\n## Quick Insights\n\n### How did AI and semiconductor stock prices perform recently.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1113,123 +1113,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI Bets Send Industrials Soaring, But a Slowdow May Be Coming",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/-ai-renaissance-in-old-economy-stocks-starting-to-get-stretched",
-      "fonte": "bloomberg.com",
-      "data": "2026-08-21",
-      "resumo": "Confidential tip.  Send a tip to our reporters\n\nSite feedback: Take our Survey\n\nBy Joel Leon\n\nAugust 21, 2026 at 12:09 PM UTC\n\nSave\n\nTranslate\n\n## Takeaways by Bloomberg AI\n\nA brisk rally in industrial stocks this year has defied higher oil prices, rising bond yields and restrictive trade policies, as investors bet on big gains from the artificial intelligence boom.  Now signs are emerging the optimism may have gone too far.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Governo lança ofensiva de R$2,3 bi em infraestrutura para IA e busca equilibrar laços com China e EUA Por Reuters",
-      "url": "https://br.investing.com/news/stock-market-news/governo-lanca-ofensiva-de-r23-bi-em-infraestrutura-para-ia-e-busca-equilibrar-lacos-com-china-e-eua-2045919",
-      "fonte": "br.investing.com",
-      "data": "2026-08-21",
-      "resumo": "(Reportagem de Marcela AyresEdição de Pedro Fonseca)\n\nGoverno lança ofensiva de R$2,3 bi em infraestrutura para IA e busca equilibrar laços com China e EUA\n\nVisualizar todos os comentários (2)2\n\n## Últimos comentários\n\nPouco importa China ou USA.  A prioridade é Brasil.  Quem lambe bolas de americano é gaDinho Lesa Pátria.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The $10T AI Question: Can revenue match unprecedented capex? (AIQ:NASDAQ)",
-      "url": "https://seekingalpha.com/news/4635934-the-10t-ai-question-can-revenue-match-unprecedented-capex",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-21",
-      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# The $10T AI Question: Can revenue match unprecedented capex. \n\nCollaborative Fusion: AI and Human Redefine Reality with Word AI Inside Abstract Sphere. \n\nNilang Kachare/iStock via Getty Images\n\nThe artificial intelligence sector (AIQ) (AIEQ) may need to generate $10T in annual revenue to justify the immense capital expenditure flooding into data centers, according to recent analysis by BCA Research Chief Economist Peter Berezin.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "TSMC Commits Higher CapEx in 2026 While Raising Dividend Payouts",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-commits-higher-capex-2026-154100814.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-08-22",
       "resumo": "Zacks Investment Research\n\nZacks Investment Research\n\n \n\nImage Source: Zacks Investment Research\n\nTSM currently trades at a forward, five-year Price/Sales (P/S) of 10. 90X compared with its historical median of 8. 12X and the industry average of 10.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-21",
-      "resumo": "The 44% annual long-term earnings growth Nvidia is estimated to deliver (as per YCharts) can take its earnings per share to $29. 53 after five years (using its fiscal 2026 earnings of $4. 77 per share as the base).",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Wall St Week Ahead Nvidia earnings, Jackson Hole to test ...",
-      "url": "https://www.reuters.com/business/wall-st-week-ahead-nvidia-earnings-jackson-hole-test-pillars-stock-rally-2026-08-21",
-      "fonte": "reuters.com",
-      "data": "2026-08-21",
-      "resumo": "NEW YORK, Aug 21 (Reuters) - Nvidia's earnings report and the Federal Reserve's Jackson Hole ​symposium will test the assumptions behind this year's stock market rally, offering clues on whether the AI-driven surge in equities can withstand rising uncertainty ‌over growth and interest rates. \n\nGlobal bond yields surged this week, sending the 30-year Treasury yield to its highest level since 2007, pressuring stocks and raising concerns about borrowing costs for households and companies investing heavily in AI infrastructure. \n\nThe Reuters Daily Briefing newsletter provides all the news you need to start your day.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia in Talks With Chip Startup Rebellions for Potential Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal",
-      "fonte": "bloomberg.com",
-      "data": "2026-08-21",
-      "resumo": "Photographer: SeongJoon Cho/Bloomberg\n\nGift this article\n\nAdd us on Google\n\nContact us: Provide news feedback or report an error\n\nConfidential tip.  Send a tip to our reporters\n\nSite feedback: Take our Survey\n\nBy Yoolim Lee\n\nAugust 21, 2026 at 7:45 AM UTC\n\nSave\n\nTranslate\n\nNvidia Corp.  is in early discussions with the Korean AI chip designer Rebellions about possible collaborations, including a technical partnership, an investment or perhaps even an acquisition, according to people familiar with the matter.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia mulls potential deal with Korean AI chip startup ...",
-      "url": "https://seekingalpha.com/news/4635779-nvidia-mulls-potential-deal-with-korean-ai-chip-startup-rebellions",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-21",
-      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Nvidia mulls potential deal with Korean AI chip startup Rebellions: report\n\nNVIDIA Headquarters\n\nJHVEPhoto\n\nNvidia (NVDA) is in early discussions with the South Korean AI chip designer Rebellions about possible collaborations, including a technical partnership, an investment, or maybe even an acquisition, Bloomberg News reported, citing people with knowledge of the matter. \n\nThis week, Nvidia's\n\n### Recommended For You\n\n### More Trending News.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-21",
-      "resumo": ". \n\nGuruFocus. com\n\n# TSMC Rises Ahead of Nvidia's Critical AI Demand Test\n\nKhac Phu Nguyen\n\n1 min read\n\n TSM\n\n  +0.",
       "sentimento": "bullish",
       "tags": [
         "AI",
