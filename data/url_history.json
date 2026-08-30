@@ -1,40 +1,4 @@
 {
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html": {
-    "hash": "f408e994635fa7d82ff142b73236ca88",
-    "visto_em": "2026-08-22"
-  },
-  "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af": {
-    "hash": "249729b412d0674bcc5154232fa6a5f7",
-    "visto_em": "2026-08-22"
-  },
-  "https://www.marketwatch.com/investing/stock/tsm": {
-    "hash": "d659dab6d8dde4d9cbd2e66460c8741d",
-    "visto_em": "2026-08-22"
-  },
-  "https://za.investing.com/news/transcripts/earnings-call-transcript-iph-h2-2026-profit-rises-as-stock-falls-78-93CH-4436698": {
-    "hash": "8ea77d4fd4af4cc4671d4ecc1d720e8d",
-    "visto_em": "2026-08-22"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html": {
-    "hash": "98ba5ed67a1b8b3764f3fec265d8910d",
-    "visto_em": "2026-08-22"
-  },
-  "https://www.reuters.com/business/wall-st-week-ahead-nvidia-earnings-jackson-hole-test-pillars-stock-rally-2026-08-21": {
-    "hash": "92a8735848b4aa7c733d87246914dbf4",
-    "visto_em": "2026-08-22"
-  },
-  "https://www.moneytimes.com.br/cotacoes": {
-    "hash": "9425029b1600860e68e9757856f2b389",
-    "visto_em": "2026-08-22"
-  },
-  "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal": {
-    "hash": "43138920376f5181a9c87aad9c15f495",
-    "visto_em": "2026-08-22"
-  },
-  "https://seekingalpha.com/news/4635779-nvidia-mulls-potential-deal-with-korean-ai-chip-startup-rebellions": {
-    "hash": "34c9e3179f37aaed1229f3003a185019",
-    "visto_em": "2026-08-22"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-buy-august-110033279.html": {
     "hash": "1599b90e9967e3b863f9bb685c0d1bec",
     "visto_em": "2026-08-23"
@@ -438,5 +402,21 @@
   "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-001-5572850": {
     "hash": "6c5ea7f1d225bda9932bbda77d1a7df7",
     "visto_em": "2026-08-29"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-nvidia-earnings-boost-140031535.html": {
+    "hash": "c153a29f8b03fd96d5272ec296a4244d",
+    "visto_em": "2026-08-30"
+  },
+  "https://www.investing.com/indices/bovespa": {
+    "hash": "34a96a13c75cb70b6ea89d2b4780f043",
+    "visto_em": "2026-08-30"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/stronger-analyst-focus-earnings-power-201323308.html": {
+    "hash": "4c7879869d8334dee7f93734fe763ca2",
+    "visto_em": "2026-08-30"
+  },
+  "https://finance.yahoo.com/real-estate/articles/digital-realty-trust-dlr-wins-101002674.html": {
+    "hash": "38113e3f8c684b70dd076a8278993bff",
+    "visto_em": "2026-08-30"
   }
 }

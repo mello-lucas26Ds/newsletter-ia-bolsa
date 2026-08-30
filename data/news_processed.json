@@ -1,11 +1,67 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-29",
-    "total_noticias": 84,
-    "gerado_em": "2026-08-29T14:56:50.102282"
+    "data": "2026-08-30",
+    "total_noticias": 78,
+    "gerado_em": "2026-08-30T08:53:20.909054"
   },
   "noticias": [
+    {
+      "titulo": "Stocks Rally as Nvidia Earnings Boost AI Optimism",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-nvidia-earnings-boost-140031535.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "Stock indices are moving higher today, with the S&P 500 and Nasdaq 100postign 1-week highs.   Stellar earnings from Nvidia are powering technology stocks higher today.  Nvidia is up more than +6%, leading chipmakers and AI-infrastructure stocks higher after issuing a revenue growth forecast for fiscal 2028 far above expectations.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bovespa Index Today (IBOV) - Investing.com",
+      "url": "https://www.investing.com/indices/bovespa",
+      "fonte": "investing.com",
+      "data": "2026-08-28",
+      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| BRKM5  BRASKEM PNA | 4. 35+0. 13+3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Should Stronger Analyst Focus On Earnings Power In Astera Labs’ AI Story (ALAB) Require Action From Investors?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stronger-analyst-focus-earnings-power-201323308.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-29",
+      "resumo": "The recent Q2 2026 earnings report, with US$392. 4 million in sales and US$153. 09 million in net income, is the most relevant backdrop to this sentiment shift.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Trust (DLR) Wins 50MW Singapore Low Carbon Data Center Project",
+      "url": "https://finance.yahoo.com/real-estate/articles/digital-realty-trust-dlr-wins-101002674.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-25",
+      "resumo": "For more ideas in this area, explore a wider set of AI focused infrastructure stocks through 55 AI infrastructure stocks. \n\nNYSE:DLR Earnings & Revenue Growth as at Aug 2026\n\nNYSE:DLR Earnings & Revenue Growth as at Aug 2026\n\n \n\nDigital Realty Trust is a US based specialized REIT with a reported market cap of about $72. 0b that focuses on core real estate strategies tied to digital infrastructure.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Appian, Atlassian, Bandwidth, C3.ai, and Dynatrace Shares Are Soaring, What You Need To Know",
       "url": "https://finance.yahoo.com/markets/stocks/articles/appian-atlassian-bandwidth-c3-ai-045707959.html",
@@ -637,20 +693,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Ibov Smart Low Vol B3 News Today",
-      "url": "https://in.investing.com/indices/ibov-smart-low-vol-b3-news",
-      "fonte": "in.investing.com",
-      "data": "2026-08-22",
-      "resumo": "Find the latest Ibov Smart Low Vol B3 news today, Picked by AI Undervalued Stocks.  Currency in BRL Follow Trade 25,781. 61 +375.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "TSMC Jumps Before Nvidia Tests Its Capacity Bet",
       "url": "https://ca.finance.yahoo.com/news/tsmc-jumps-nvidia-tests-capacity-195825384.html",
       "fonte": "ca.finance.yahoo.com",
@@ -777,20 +819,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Global X Artificial Intelligence & Technology ETF (AIQ) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/AIQ/latest-news",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-22",
-      "resumo": "NasdaqGM - Nasdaq Real Time Price • USD \n\n# Global X Artificial Intelligence & Technology ETF (AIQ)\n\n62. 59  -0. 85  (-1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings",
       "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-ahead-nvidia-144350563.html",
       "fonte": "finance.yahoo.com",
@@ -839,20 +867,6 @@
       "data": "2026-08-24",
       "resumo": "Investors will be eagerly watching for the performance of C3. ai, Inc.  in its upcoming earnings disclosure.",
       "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 Software-as-a-Service (SaaS) Stocks with Big Upside from AI",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-software-saas-stocks-big-113500577.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-22",
-      "resumo": "## GitLab\n\nTurning to a much smaller SaaS company, GitLab (NASDAQ: GTLB) has all the ingredients to see its stock surge higher.  The stock is cheap, trading at an attractive price-to-sales multiple of just 5. 5 times based on fiscal 2028 (ending January 2028) analyst estimates, amid investor concerns about the impact of AI on its DevSecOps (development, security, and operations) platform.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -1076,104 +1090,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-08-23",
       "resumo": "Sign in    \n\n   \nTop gainers \n       SLS SELLAS Life Sciences Group, Inc.  15. 46+2.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Hut 8 Craters 11% Despite a $19.6B Beacon Point Backlog, TeraWulf Falls 5%, IREN Drops 3%: What’s Pressuring These AI Miner Stocks?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hut-8-craters-11-despite-161048777.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-22",
-      "resumo": "## Data Center Fund Barely Budges\n\nThe Global X ETF's muted move is the cleanest evidence that broader AI infrastructure demand isn't being repriced today.  It has advanced up 35% year to date through Thursday's close year to date through Thursday's close, so it has participated in the theme, yet Friday's drop is tiny relative to the miners.  Its portfolio leans toward established data center REITs and communications tower operators, with the top three positions each accounting for more than 9% of net assets.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History",
-      "url": "https://finance.yahoo.com/quote/EQIX",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-22",
-      "resumo": "Equinix, Inc.  shortens the path to boundless connectivity anywhere in the world.  Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Is Tempus AI Stock a Buy After Its 75% Rally? Here's What to Know as the Firm's Legal Chief Files a Trade",
-      "url": "https://currently.att.yahoo.com/att/tempus-ai-stock-buy-75-122525373.html",
-      "fonte": "currently.att.yahoo.com",
-      "data": "2026-08-22",
-      "resumo": "Skip to main\n\n Mail\n Sign up for MailFREE\n myAT&T\n\n  + Phones & devices\n  + AT&T Wireless\n  + myAT&T App\n  + AT&T Internet\n  + Get AT&T Support\n AT&T deals\n Games\n Ver en español\n\nAdvertisement\n\nAdvertisement\n\nReturn to Homepage\n\nMotley Fool\n\nMotley Fool\n\n# Is Tempus AI Stock a Buy After Its 75% Rally.  Here's What to Know as the Firm's Legal Chief Files a Trade\n\nJonathan Ponciano, The Motley Fool\n\n4 min read\n\nAndrew Polovin, the firm's EVP and chief legal officer, sold 30,075 shares of Tempus AI, Inc.  (NASDAQ:TEM) at $51.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 Semiconductor Stocks to Buy Before August Ends",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-buy-august-110033279.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-22",
-      "resumo": "The bull case has not softened.  In Q1 fiscal 2027, NVIDIA delivered non-GAAP EPS of $1. 87 against a $1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "These 3 AI stocks are bought by both hedge funds and mutual funds",
-      "url": "https://www.investing.com/news/stock-market-news/these-3-ai-stocks-are-bought-by-both-hedge-funds-and-mutual-funds-4872330",
-      "fonte": "investing.com",
-      "data": "2026-08-22",
-      "resumo": "By Aurelien Blo. \n\nAug 20, 2026\n\nImage 22\n\nImage 23\n\nModerna’s Skyrocketing Rally Puts These 7 Biotech Stocks in Focus\n\nBy David Wagner\n\nAug 20, 2026\n\nImage 24\n\nImage 25\n\nNasdaq 100 Pullbacks May Create New Entry Points Across These Tech Names\n\nBy The Caesar\n\nAug 21, 2026\n\nImage 26\n\nImage 27\n\nNormal Interest Rates: What the Debt Panic Gets Wrong\n\nBy Lance Robert. \n\nAug 22, 2026\n\nMore News\n\nMarket Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Salesforce Rallies Into Earnings as Agentforce Tops $1 Billion",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-rallies-earnings-agentforce-tops-162243189.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-22",
-      "resumo": "Enterprise software business Salesforce Inc.  (CRM, Financials) is scheduled to report profits on Aug.  26, and its shares are up nearly 5% in the past five days.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Commits Higher CapEx in 2026 While Raising Dividend Payouts",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-commits-higher-capex-2026-154100814.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-22",
-      "resumo": "Zacks Investment Research\n\nZacks Investment Research\n\n \n\nImage Source: Zacks Investment Research\n\nTSM currently trades at a forward, five-year Price/Sales (P/S) of 10. 90X compared with its historical median of 8. 12X and the industry average of 10.",
       "sentimento": "bullish",
       "tags": [
         "AI",
