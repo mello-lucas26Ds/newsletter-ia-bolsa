@@ -2,58 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-30",
-    "total_noticias": 4,
-    "gerado_em": "2026-08-30T08:53:20.907440"
+    "total_noticias": 1,
+    "gerado_em": "2026-08-30T14:41:47.394854"
   },
   "noticias": [
     {
-      "titulo": "Stocks Rally as Nvidia Earnings Boost AI Optimism",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-nvidia-earnings-boost-140031535.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "Stock indices are moving higher today, with the S&P 500 and Nasdaq 100postign 1-week highs.   Stellar earnings from Nvidia are powering technology stocks higher today.  Nvidia is up more than +6%, leading chipmakers and AI-infrastructure stocks higher after issuing a revenue growth forecast for fiscal 2028 far above expectations.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Bovespa Index Today (IBOV) - Investing.com",
-      "url": "https://www.investing.com/indices/bovespa",
+      "titulo": "Brazil Stock Market - Investing.com",
+      "url": "https://www.investing.com/equities/brazil",
       "fonte": "investing.com",
       "data": "2026-08-28",
-      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| BRKM5  BRASKEM PNA | 4. 35+0. 13+3.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Should Stronger Analyst Focus On Earnings Power In Astera Labs’ AI Story (ALAB) Require Action From Investors?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stronger-analyst-focus-earnings-power-201323308.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-29",
-      "resumo": "The recent Q2 2026 earnings report, with US$392. 4 million in sales and US$153. 09 million in net income, is the most relevant backdrop to this sentiment shift.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Digital Realty Trust (DLR) Wins 50MW Singapore Low Carbon Data Center Project",
-      "url": "https://finance.yahoo.com/real-estate/articles/digital-realty-trust-dlr-wins-101002674.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-25",
-      "resumo": "For more ideas in this area, explore a wider set of AI focused infrastructure stocks through 55 AI infrastructure stocks. \n\nNYSE:DLR Earnings & Revenue Growth as at Aug 2026\n\nNYSE:DLR Earnings & Revenue Growth as at Aug 2026\n\n \n\nDigital Realty Trust is a US based specialized REIT with a reported market cap of about $72. 0b that focuses on core real estate strategies tied to digital infrastructure.",
+      "resumo": "|  | B3 SA Brasil Bolsa Balcao | 16. 04 | 16. 11 | 15.",
       "sentimento": "neutral",
       "tags": [
         "AI",

@@ -2,10 +2,24 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-30",
-    "total_noticias": 78,
-    "gerado_em": "2026-08-30T08:53:20.909054"
+    "total_noticias": 79,
+    "gerado_em": "2026-08-30T14:41:47.396362"
   },
   "noticias": [
+    {
+      "titulo": "Brazil Stock Market - Investing.com",
+      "url": "https://www.investing.com/equities/brazil",
+      "fonte": "investing.com",
+      "data": "2026-08-28",
+      "resumo": "|  | B3 SA Brasil Bolsa Balcao | 16. 04 | 16. 11 | 15.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Stocks Rally as Nvidia Earnings Boost AI Optimism",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-nvidia-earnings-boost-140031535.html",
