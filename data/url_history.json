@@ -1,64 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-buy-august-110033279.html": {
-    "hash": "1599b90e9967e3b863f9bb685c0d1bec",
-    "visto_em": "2026-08-23"
-  },
-  "https://www.investing.com/news/stock-market-news/these-3-ai-stocks-are-bought-by-both-hedge-funds-and-mutual-funds-4872330": {
-    "hash": "1ffadd69d21fc36962a5423e2f29151f",
-    "visto_em": "2026-08-23"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/salesforce-rallies-earnings-agentforce-tops-162243189.html": {
-    "hash": "db46b08fe921387d34ab7c4854a79675",
-    "visto_em": "2026-08-23"
-  },
-  "https://www.bloomberg.com/news/articles/2026-08-21/-ai-renaissance-in-old-economy-stocks-starting-to-get-stretched": {
-    "hash": "c31e95503c5cb5d2d26204921777801c",
-    "visto_em": "2026-08-23"
-  },
-  "https://br.investing.com/news/stock-market-news/governo-lanca-ofensiva-de-r23-bi-em-infraestrutura-para-ia-e-busca-equilibrar-lacos-com-china-e-eua-2045919": {
-    "hash": "d7dea8b5a8c4269e3c1df0642b498516",
-    "visto_em": "2026-08-23"
-  },
-  "https://seekingalpha.com/news/4635934-the-10t-ai-question-can-revenue-match-unprecedented-capex": {
-    "hash": "1725b6a0d3424ec1ddb3173621ce1da7",
-    "visto_em": "2026-08-23"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-commits-higher-capex-2026-154100814.html": {
-    "hash": "e08c925a0bcec708a55d1b5bd8f984ee",
-    "visto_em": "2026-08-23"
-  },
-  "https://br.investing.com/news/company-news/workday-lanca-equipe-de-pesquisa-em-ia-e-programa-de-bolsas-de-doutorado-93CH-2044392": {
-    "hash": "2e1e15921a7916d5474f8cac57051804",
-    "visto_em": "2026-08-23"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/3-infrastructure-stocks-built-around-120000618.html": {
-    "hash": "b24d95b3c15466cc643ada20fb3cded4",
-    "visto_em": "2026-08-23"
-  },
-  "https://finance.yahoo.com/quote/DGT.XA": {
-    "hash": "207f3e5f7045f6cf303548776e665768",
-    "visto_em": "2026-08-23"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-soun-shareholders-vote-042918884.html": {
-    "hash": "04b3204b126dfc030aee80d5f82d075d",
-    "visto_em": "2026-08-23"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/hut-8-craters-11-despite-161048777.html": {
-    "hash": "41021468424ade2c56b5c062e23a90cf",
-    "visto_em": "2026-08-23"
-  },
-  "https://www.investing.com/news/stock-market-news/ai-beyond-chips-these-other-stocks-also-offer-ai-exposure-93CH-4868683": {
-    "hash": "5a99891dd203c743b94123baf7fc9593",
-    "visto_em": "2026-08-23"
-  },
-  "https://finance.yahoo.com/quote/EQIX": {
-    "hash": "eca03f41b8134ab5c978233933fb7c49",
-    "visto_em": "2026-08-23"
-  },
-  "https://currently.att.yahoo.com/att/tempus-ai-stock-buy-75-122525373.html": {
-    "hash": "e0cfe41145994bce428765299e3c2d71",
-    "visto_em": "2026-08-23"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/tsmcs-100-billion-arizona-expansion-190500179.html": {
     "hash": "a7b75be2ce43a96d123af52ac2b0ae46",
     "visto_em": "2026-08-24"
@@ -422,5 +362,25 @@
   "https://www.investing.com/equities/brazil": {
     "hash": "ef6159bdb329f7e5e4470d85ad549902",
     "visto_em": "2026-08-30"
+  },
+  "https://www.marketwatch.com/investing/stock/tsm": {
+    "hash": "b0023e03a609823fc9b8be19a6fd1eab",
+    "visto_em": "2026-08-31"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/astera-labs-stock-2-ai-043127920.html": {
+    "hash": "b0e885e097752842bc1e8514ecb6be1c",
+    "visto_em": "2026-08-31"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-adrs-jump-2-nvidia-170617812.html": {
+    "hash": "24e736b9737356e34d38897e8fd19576",
+    "visto_em": "2026-08-31"
+  },
+  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-031-5574891": {
+    "hash": "7e6a487a3846d665e008443d24a36993",
+    "visto_em": "2026-08-31"
+  },
+  "https://www.marketwatch.com/investing/stock/dlr": {
+    "hash": "263a1a06782c5418fcc09aef49302c37",
+    "visto_em": "2026-08-31"
   }
 }

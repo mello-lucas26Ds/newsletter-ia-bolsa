@@ -1,11 +1,81 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-30",
-    "total_noticias": 79,
-    "gerado_em": "2026-08-30T14:41:47.396362"
+    "data": "2026-08-31",
+    "total_noticias": 77,
+    "gerado_em": "2026-08-31T09:17:09.555622"
   },
   "noticias": [
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock ...",
+      "url": "https://www.marketwatch.com/investing/stock/tsm",
+      "fonte": "marketwatch.com",
+      "data": "2026-08-28",
+      "resumo": "### Overview\n\n## TSM Overview\n\n## Key Data\n\n## Performance\n\n|  |  |\n --- |\n| 5 Day |  1. 80% |\n| 1 Month |  2. 81% |\n| 3 Month |  -4.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Astera Labs Stock And 2 AI Data Center Picks From Founder Led Companies",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-stock-2-ai-043127920.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-31",
+      "resumo": "20.    News • 3 days ago The Nasdaq led markets higher as Nvidia renewed AI optimism and software stocks roared back\n21.    News • 3 days ago Nvidia is banking on some of the AI labs it does business with becoming the largest tech companies in history\n22.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC ADRs Jump 2% as Nvidia Extends the Foundry Runway",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-adrs-jump-2-nvidia-170617812.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-27",
+      "resumo": "Now comes the expensive part.  At $425. 97, TSMC trades 34.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.31%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-031-5574891",
+      "fonte": "in.investing.com",
+      "data": "2026-08-27",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Wonder Electricals | 99.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DLR Stock Price | Digital Realty Trust Inc. Stock Quote (U.S.: NYSE) | MarketWatch",
+      "url": "https://www.marketwatch.com/investing/stock/dlr",
+      "fonte": "marketwatch.com",
+      "data": "2026-08-28",
+      "resumo": "Read full story\n\n### Real Estate Data Center Backlash Will Help These REITs, Wall Street Says\n\n### Keel Infrastructure Shares Rise After Naming New President\n\n### Digital Realty to Buy Stakes in Northern Virginia Data Centers From Blackstone for $3. 5B\n\nRead full story\n\n### Real Estate The AI Bet That Investors Still Love\n\nRead full story\n\n### Real Estate 3 REITs to Buy Now: Picks From a Standout Real Estate Portfolio Manager\n\nRead full story\n\n### Opinion The AI boom is over — here’s your bubble survival guide\n\nRead full story\n\n### Real Estate Digital Realty’s Strong Quarter Merits a New Look at Data-Center REIT\n\nRead full story\n\n### Japan NTT’s Data-Center Arm Plans Multibillion-Dollar Push on AI Demand\n\nRead full story [. ] Read full story\n\n### Palantir Falls Again As Microsoft Data Center Move Spooks AI Stocks\n\nRead full story\n\n### Real Estate REITs Are Staging a Comeback.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Brazil Stock Market - Investing.com",
       "url": "https://www.investing.com/equities/brazil",
@@ -483,20 +553,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "3 Data Center Stocks Powering the AI Buildout",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-data-center-stocks-powering-110028373.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-23",
-      "resumo": "Analyst sentiment sits at 81% bullish, 0% bearish, with a 1. 82% dividend yield and forward P/E of 61.  The caveat: raised capex guidance of $5 billion to $6 billion in 2026 and $5 billion to $7 billion annually through 2029 pressures near-term free cash flow, and neocloud competition is a real overhang.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nasdaq futures take lead after Nvidia forecast refuels AI trade",
       "url": "https://www.reuters.com/business/nasdaq-futures-take-lead-after-nvidia-forecast-refuels-ai-trade-2026-08-27",
       "fonte": "reuters.com",
@@ -931,39 +987,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Citi expects Nvidia stock to trade higher post earnings - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/citi-expects-nvidia-stock-to-trade-higher-post-earnings-4872442",
-      "fonte": "investing.com",
-      "data": "2026-08-23",
-      "resumo": "More News\n\nMarket Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| TSLA | 362.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "The 2 Events That Will Define the Stock, Bond Markets This Week - Business Insider",
       "url": "https://www.businessinsider.com/stock-market-outlook-nvidia-q2-earnings-jackson-hole-fed-rates-2026-8",
       "fonte": "businessinsider.com",
       "data": "2026-08-24",
       "resumo": "Monetization of AI products from hyperscalers like Microsoft and Amazon has also been a positive development for the AI trade in recent weeks. \n\nSo, if Nvidia says that it sees no slowdown in spending from its customers, it could spark fresh optimism for investors. \n\n\"Nvidia earnings will put the AI investment story back at the center of the equity market,\" said Daniela Hathorne, a Senior Market Analyst at Capital.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Hugging Face has been fielding M&A interest for a deal worth at least $13 billion - Business Insider",
-      "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
-      "fonte": "businessinsider.com",
-      "data": "2026-08-23",
-      "resumo": "Subscribe \n\nLog in\n\nExclusive\n\n# Hugging Face has been fielding M&A interest for a deal worth at least $13 billion\n\nBy   Katie Roof \n\nYou're currently following this author.  Want to unfollow.  Unsubscribe via the link in your email.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1048,62 +1076,6 @@
       "fonte": "investing.com",
       "data": "2026-08-24",
       "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NVDA | 214.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Exclusive: Anthropic's $2 Trillion Valuation Faces a Reality Check—SPCX Offers a Warning, Wall Street Veteran Says - Benzinga",
-      "url": "https://www.benzinga.com/markets/ipos/26/08/61372677/exclusive-anthropics-2-trillion-valuation-faces-a-reality-check-spcx-offers-a-warning-wall-street-veteran-says",
-      "fonte": "benzinga.com",
-      "data": "2026-08-23",
-      "resumo": "Ahn argues that the key risk for future IPOs is not the lock-up expiration, but the “first earnings report,” when companies must face the scrutiny of public-market investors rather than private investors who already have conviction.  This distinction provides a useful framework for assessing whether Anthropic’s lofty private-market valuation can withstand the far tougher test of public-market scrutiny. \n\n## $2 Trillion Valuation is Mostly Enterprise Workflows\n\nThe $2 trillion valuation is primarily a bet on the broader AI category, rather than Claude’s technological advantage alone, stated Dr Ahn.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC's $100 Billion Arizona Expansion Shows The Stock Is a ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-100-billion-arizona-expansion-190500179.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-23",
-      "resumo": "Motley Fool\n\n# TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy\n\nKeithen Drury, The Motley Fool\n\n4 min read\n\n TSM\n\n  +0. 71%\n NVDA\n\n  -0. 98%\n\nTaiwan Semiconductor Manufacturing (NYSE: TSM) made a major announcement as part of its second-quarter earnings report: It's increasing its investment in its Arizona production facilities by another $100 billion.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
-      "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98",
-      "fonte": "marketwatch.com",
-      "data": "2026-08-23",
-      "resumo": "But earnings results from the chip maker NVDA, which remains at the heart of the AI boom and has a market value of around $5 trillion, are still a closely watched macro event every three months.  Even amid concerns about about circular dealmaking within the AI industry and the sustainability of high data-center spending, analysts expect the company’s profits to make up an ever-greater share of the S&P 500 index’s SPX overall earnings this year. \n\nCopyright ©2026 MarketWatch, Inc.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia's Q2 earnings to test resurgent AI trade",
-      "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-23",
-      "resumo": "Sign in    \n\n   \nTop gainers \n       SLS SELLAS Life Sciences Group, Inc.  15. 46+2.",
       "sentimento": "bullish",
       "tags": [
         "AI",
