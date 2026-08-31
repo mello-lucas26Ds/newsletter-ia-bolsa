@@ -2,73 +2,17 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-31",
-    "total_noticias": 5,
-    "gerado_em": "2026-08-31T09:17:09.554066"
+    "total_noticias": 1,
+    "gerado_em": "2026-08-31T17:24:30.521274"
   },
   "noticias": [
     {
-      "titulo": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock ...",
-      "url": "https://www.marketwatch.com/investing/stock/tsm",
+      "titulo": "Stock Market on Aug. 27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on tap - MarketWatch",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-beat-expectations-earnings-jackson-hole-marvell-results?eafs_enabled=false",
       "fonte": "marketwatch.com",
-      "data": "2026-08-28",
-      "resumo": "### Overview\n\n## TSM Overview\n\n## Key Data\n\n## Performance\n\n|  |  |\n --- |\n| 5 Day |  1. 80% |\n| 1 Month |  2. 81% |\n| 3 Month |  -4.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Astera Labs Stock And 2 AI Data Center Picks From Founder Led Companies",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-stock-2-ai-043127920.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-31",
-      "resumo": "20.    News • 3 days ago The Nasdaq led markets higher as Nvidia renewed AI optimism and software stocks roared back\n21.    News • 3 days ago Nvidia is banking on some of the AI labs it does business with becoming the largest tech companies in history\n22.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC ADRs Jump 2% as Nvidia Extends the Foundry Runway",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-adrs-jump-2-nvidia-170617812.html",
-      "fonte": "finance.yahoo.com",
       "data": "2026-08-27",
-      "resumo": "Now comes the expensive part.  At $425. 97, TSMC trades 34.",
+      "resumo": "## \n\n### Account Settings\n\nAug.  27, 2026 at 6:02pm ET\n\n# Stock Market on Aug.  27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on tap\n\n## The S&P 500, Nasdaq and Dow closed higher Thursday as tech rallied after earnings reports from Nvidia and Salesforce.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.31%",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-031-5574891",
-      "fonte": "in.investing.com",
-      "data": "2026-08-27",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Wonder Electricals | 99.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "DLR Stock Price | Digital Realty Trust Inc. Stock Quote (U.S.: NYSE) | MarketWatch",
-      "url": "https://www.marketwatch.com/investing/stock/dlr",
-      "fonte": "marketwatch.com",
-      "data": "2026-08-28",
-      "resumo": "Read full story\n\n### Real Estate Data Center Backlash Will Help These REITs, Wall Street Says\n\n### Keel Infrastructure Shares Rise After Naming New President\n\n### Digital Realty to Buy Stakes in Northern Virginia Data Centers From Blackstone for $3. 5B\n\nRead full story\n\n### Real Estate The AI Bet That Investors Still Love\n\nRead full story\n\n### Real Estate 3 REITs to Buy Now: Picks From a Standout Real Estate Portfolio Manager\n\nRead full story\n\n### Opinion The AI boom is over — here’s your bubble survival guide\n\nRead full story\n\n### Real Estate Digital Realty’s Strong Quarter Merits a New Look at Data-Center REIT\n\nRead full story\n\n### Japan NTT’s Data-Center Arm Plans Multibillion-Dollar Push on AI Demand\n\nRead full story [. ] Read full story\n\n### Palantir Falls Again As Microsoft Data Center Move Spooks AI Stocks\n\nRead full story\n\n### Real Estate REITs Are Staging a Comeback.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"

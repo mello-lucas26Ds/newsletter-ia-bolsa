@@ -2,10 +2,24 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-08-31",
-    "total_noticias": 77,
-    "gerado_em": "2026-08-31T09:17:09.555622"
+    "total_noticias": 78,
+    "gerado_em": "2026-08-31T17:24:30.522739"
   },
   "noticias": [
+    {
+      "titulo": "Stock Market on Aug. 27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on tap - MarketWatch",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-beat-expectations-earnings-jackson-hole-marvell-results?eafs_enabled=false",
+      "fonte": "marketwatch.com",
+      "data": "2026-08-27",
+      "resumo": "## \n\n### Account Settings\n\nAug.  27, 2026 at 6:02pm ET\n\n# Stock Market on Aug.  27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on tap\n\n## The S&P 500, Nasdaq and Dow closed higher Thursday as tech rallied after earnings reports from Nvidia and Salesforce.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock ...",
       "url": "https://www.marketwatch.com/investing/stock/tsm",
