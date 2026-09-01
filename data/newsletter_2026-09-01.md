@@ -1,194 +1,164 @@
 # Newsletter IA Bolsa — 2026-09-01
 
-**Gerado em:** 01/09/2026 08:15
-**Total:** 10 noticias
+**Gerado em:** 01/09/2026 14:32
+**Total:** 8 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & ...
+## 1. S&P 500, Nasdaq futures slip after tech rally; Warsh's ...
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Raising to BUY on booking momentum and pricing power.  Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers..
+Advertisement · Scroll to continue
 
-[Ler noticia completa](https://finance.yahoo.com/quote/DLR)
+In the market, chip stocks pulled back after ​a rally in the previous session, sparked by bellwether Nvidia's blockbuster forecast that indicated the AI-driven rally had room to ‌run. 
+
+Still, ⁠the gains have put Wall Street's main indexes on track for a rise to cap off an eventful week.  If gains hold through close, the indexes could claw back ground lost last week after surging bond yields hammered stocks.
+
+[Ler noticia completa](https://www.reuters.com/business/sp-500-nasdaq-futures-slip-after-tech-rally-warshs-speech-awaited-2026-08-28)
 
 ---
 
-## 2. Software Stocks & ETFs: Is the AI Sell-Off Over?
+## 2. Brazil stocks higher at close of trade; Bovespa up 0.01% By Investing.com
 
-**Fonte:** ca.finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-CrowdStrike (CRWD) : Free Stock Analysis Report
+#### Popular Searches
 
-Palantir Technologies Inc.  (PLTR) : Free Stock Analysis Report
+##### Please try another search
 
-Palo Alto Networks, Inc.  (PANW) : Free Stock Analysis Report
+Nvidia Q2 revenue more than doubles, CEO Huang says AI at its ’inflection point’
 
-Invesco AI and Next Gen Software ETF (IGPT): ETF Research Reports
+Oil dips in volatile session amid Mideast diplomacy hopes, Russia-Ukraine tensions
 
-This article originally published on Zacks Investment Research (zacks.
+Wall Street sees muted session amid mixed PCE data, caution ahead of Nvidia test
 
-[Ler noticia completa](https://ca.finance.yahoo.com/news/software-stocks-etfs-ai-sell-205000363.html)
++13% post-market, this AI-picked software giant crushed results and is now up +42%
+
+# Brazil stocks higher at close of trade; Bovespa up 0. 01%
+
+&copy; Reuters Brazil stocks higher at close of trade; Bovespa up 0. 01%
+
+© Reuters Brazil stocks higher at close of trade; Bovespa up 0.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-001-4877885)
 
 ---
 
-## 3. Sector Update: Tech Stocks Edge Lower Monday Afternoon
+## 3. Digital Realty Trust (DLR) Wins Singapore Data Center Slot, Is It Still 14% Undervalued?
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-49.    News • 7 days ago Tech stocks led the S&P 500 and Nasdaq lower after the opening bell [. ] 25.
+Spot potential peers to Digital Realty Trust in AI infrastructure by scanning our handpicked 55 AI infrastructure stocks that is positioned to support data hungry workloads across the next wave of computing. 
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-edge-lower-174108486.html)
+Digital Realty Trust now combines a large global data center footprint with fresh AI linked growth in Singapore.  The real tension for you as an investor is whether the current US$192.
 
----
-
-## 4. AIOS Tech: The AI Story Is Ahead Of The Business
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-AIOS Tech Inc.  is transitioning from legacy operations to an AI and technology-services platform centered on its YD Network acquisition..
-
-[Ler noticia completa](https://seekingalpha.com/article/4941992-aios-tech-the-ai-story-is-ahead-of-the-business-sell)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/digital-realty-trust-dlr-wins-043728170.html)
 
 ---
 
-## 5. Open-weight AI companies are the Valley's hottest ...
+## 4. Bovespa Brazil 50 Stocks List & Companies
 
-**Fonte:** techcrunch.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-AI
-
-# Open-weight AI companies are the Valley’s hottest acquisition targets
-
-Tim Fernholz
-
-Everyone’s waiting for Nvidia to confirm this week’s most interesting tech deal: A reported $13 billion acquisition of Hugging Face, a platform for sharing open weight AI models and benchmarks. 
-
-Now best known as the target for a team of reward-hacking OpenAI agents, Hugging Face is at the center of the ecosystem of developers building and deploying LLMs that aren’t owned by frontier labs.  Think of it as a kind of GitHub for the AI era.
-
-[Ler noticia completa](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets)
-
----
-
-## 6. Realty Income Stock: Stay For The 5% Yield, Wait For The AI Benefits To Pay Off (NYSE:O) | Seeking Alpha
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Investing Groups
-
-## Portfolios
-
-## Find & Compare
-
-# Realty Income: Stay For The 5% Yield, Wait For The AI Benefits To Pay Off
-
-## Summary
-
-REIT.  Real estate investment trust.  Financial Market.
-
-[Ler noticia completa](https://seekingalpha.com/article/4939432-realty-income-stay-for-5-percent-yield-wait-for-ai-benefits-to-pay-off)
-
----
-
-## 7. Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-So, regardless of whether AMD or Nvidia likes to work with TSMC, they're forced to because it's the only one with the production capacity available to meet the supply demands of these companies.  Taiwan Semiconductor has remained a key partner for many companies. 
-
-Due to Taiwan Semiconductor's neutral position, as long as there is increased spending on AI over the next few years, it's in the driver's seat to capitalize.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-semiconductor-173500352.html)
-
----
-
-## 8. Tech Stocks Rally as Nvidia Fuels Bets on AI Trade: Markets Wrap
-
-**Fonte:** bloomberg.com  
+**Fonte:** in.investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-### For Customers
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| McNally Bharat Engg Co Ltd | 223.
 
-### Support
-
-Americas+1 212 318 2000
-
-EMEA+44 20 7330 7500
-
-Asia Pacific+65 6212 1000
-
-US Stocks:
-
-# Tech Stocks Rally as Nvidia Fuels Bets on AI Trade: Markets Wrap
-
-A blockbuster outlook from Nvidia Corp.  spurred gains in technology stocks, bolstering confidence in the artificial-intelligence trade that has powered the bull market. 
-
-The nearly 9% surge in the giant chipmaker was the biggest since April 2025, adding $442 billion to its market value.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-08-26/nasdaq-futures-rise-on-bullish-nvidia-sales-growth-markets-wrap)
+[Ler noticia completa](https://in.investing.com/indices/brazil-index-50-components)
 
 ---
 
-## 9. Cathie Wood Drops $124 Million on AI Stocks, Dumps AMD
+## 5. EXCLUSIVE: Anthropic in talks with chip start up MatX to speed up chip design, sources say
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** reuters.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-GuruFocus. com
+Skip to main content
 
-# Cathie Wood Drops $124 Million on AI Stocks, Dumps AMD
+Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv
 
-Moz Farooque ACCA
+ - Anthropic discussed buying artificial intelligence chip startup MatX for roughly $7 billion, seeking to ​accelerate efforts to develop custom hardware for its fast-growing AI business, two people briefed ‌on the matter told Reuters. 
 
-2 min read
+The merger talks, which a third person said have evolved into a discussion about a partnership, underscore the AI lab’s ambition to secure the resources and talent needed to build its own chips.  The ​goal is to help Anthropic accelerate its in-house chip development.
 
- NVDA
-
-  +1. 48%
- AMD
-
-  +1.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/cathie-wood-drops-124-million-014651640.html)
+[Ler noticia completa](https://www.reuters.com/business/finance/anthropic-planned-then-abandoned-7-billion-purchase-matx-sources-say-2026-08-27)
 
 ---
 
-## 10. AI-Powered Wealth Management Solution Market 2026-2030 Report Now Available — Profiles Addepar, Envestnet, InvestCloud, AWS, Temenos, and 20 Other Key Vendors
+## 6. Nvidia agrees to buy Hugging Face for $12.9 billion, report ...
 
-**Fonte:** ca.finance.yahoo.com  
+**Fonte:** cnbc.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+thumbnail
+
+April Roach@/in/april-roach-901033140/@April\_\_Roach
+
+WATCH LIVE
+
+Key Points
+
+ Nvidia agreed to buy Hugging Face for $12. 9 billion, The Information has reported. 
+ Neither Nvidia nor Hugging Face immediately responded to CNBC requests for comment.
+
+[Ler noticia completa](https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html)
+
+---
+
+## 7. Brazil shares higher at close of trade; Bovespa up 0.30% By Investing.com
+
+**Fonte:** uk.investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The report identifies the growing demand for personalized investment advisory services as one of the primary factors supporting market expansion.  Investors increasingly expect financial guidance that reflects their individual circumstances, investment objectives, liquidity requirements and tolerance for risk.  In response, wealth management firms are adopting AI-based technologies that can support portfolio personalization, automate selected workflows and provide advisers with timely, actionable intelligence.
+#### Popular Searches
 
-[Ler noticia completa](https://ca.finance.yahoo.com/news/ai-powered-wealth-management-solution-080800839.html)
+##### Please try another search
+
+London stocks fall post-holiday as global bond rout and Middle East strikes weigh
+
+THIRTY OVER +30%: A new list of AI picks for September is coming in a few HOURS
+
+The Warsh pivot markets didn’t expect
+
+BofA Names Top European Software Stocks for 2026
+
+# Brazil shares higher at close of trade; Bovespa up 0. 30%
+
+&copy; Reuters.   Brazil shares higher at close of trade; Bovespa up 0.
+
+[Ler noticia completa](https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-030-4852073)
+
+---
+
+## 8. Nvidia’s Quarter Dwarfed TSMC’s Year and AI Demand Could Still Surprise | Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The numbers themselves are already extraordinary.  Nvidia reported quarterly revenue of $96. 2 billion, up 106% year on year.
+
+[Ler noticia completa](https://www.investing.com/analysis/nvidias-quarter-was-bigger-than-tsmcs-entire-year--investors-may-still-be-under-200686647)
 
 ---

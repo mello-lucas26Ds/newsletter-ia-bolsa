@@ -2,10 +2,122 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-01",
-    "total_noticias": 74,
-    "gerado_em": "2026-09-01T08:15:53.236721"
+    "total_noticias": 82,
+    "gerado_em": "2026-09-01T14:32:28.750028"
   },
   "noticias": [
+    {
+      "titulo": "S&P 500, Nasdaq futures slip after tech rally; Warsh's ...",
+      "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slip-after-tech-rally-warshs-speech-awaited-2026-08-28",
+      "fonte": "reuters.com",
+      "data": "2026-08-28",
+      "resumo": "Advertisement · Scroll to continue\n\nIn the market, chip stocks pulled back after ​a rally in the previous session, sparked by bellwether Nvidia's blockbuster forecast that indicated the AI-driven rally had room to ‌run. \n\nStill, ⁠the gains have put Wall Street's main indexes on track for a rise to cap off an eventful week.  If gains hold through close, the indexes could claw back ground lost last week after surging bond yields hammered stocks.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.01% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-001-4877885",
+      "fonte": "investing.com",
+      "data": "2026-08-26",
+      "resumo": "#### Popular Searches\n\n##### Please try another search\n\nNvidia Q2 revenue more than doubles, CEO Huang says AI at its ’inflection point’\n\nOil dips in volatile session amid Mideast diplomacy hopes, Russia-Ukraine tensions\n\nWall Street sees muted session amid mixed PCE data, caution ahead of Nvidia test\n\n+13% post-market, this AI-picked software giant crushed results and is now up +42%\n\n# Brazil stocks higher at close of trade; Bovespa up 0. 01%\n\n&copy; Reuters Brazil stocks higher at close of trade; Bovespa up 0. 01%\n\n© Reuters Brazil stocks higher at close of trade; Bovespa up 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Trust (DLR) Wins Singapore Data Center Slot, Is It Still 14% Undervalued?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/digital-realty-trust-dlr-wins-043728170.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-26",
+      "resumo": "Spot potential peers to Digital Realty Trust in AI infrastructure by scanning our handpicked 55 AI infrastructure stocks that is positioned to support data hungry workloads across the next wave of computing. \n\nDigital Realty Trust now combines a large global data center footprint with fresh AI linked growth in Singapore.  The real tension for you as an investor is whether the current US$192.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bovespa Brazil 50 Stocks List & Companies",
+      "url": "https://in.investing.com/indices/brazil-index-50-components",
+      "fonte": "in.investing.com",
+      "data": "2026-08-31",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| McNally Bharat Engg Co Ltd | 223.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "EXCLUSIVE: Anthropic in talks with chip start up MatX to speed up chip design, sources say",
+      "url": "https://www.reuters.com/business/finance/anthropic-planned-then-abandoned-7-billion-purchase-matx-sources-say-2026-08-27",
+      "fonte": "reuters.com",
+      "data": "2026-08-27",
+      "resumo": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Anthropic discussed buying artificial intelligence chip startup MatX for roughly $7 billion, seeking to ​accelerate efforts to develop custom hardware for its fast-growing AI business, two people briefed ‌on the matter told Reuters. \n\nThe merger talks, which a third person said have evolved into a discussion about a partnership, underscore the AI lab’s ambition to secure the resources and talent needed to build its own chips.  The ​goal is to help Anthropic accelerate its in-house chip development.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia agrees to buy Hugging Face for $12.9 billion, report ...",
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
+      "fonte": "cnbc.com",
+      "data": "2026-08-27",
+      "resumo": "thumbnail\n\nApril Roach@/in/april-roach-901033140/@April\\_\\_Roach\n\nWATCH LIVE\n\nKey Points\n\n Nvidia agreed to buy Hugging Face for $12. 9 billion, The Information has reported. \n Neither Nvidia nor Hugging Face immediately responded to CNBC requests for comment.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.30% By Investing.com",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-030-4852073",
+      "fonte": "uk.investing.com",
+      "data": "2026-08-28",
+      "resumo": "#### Popular Searches\n\n##### Please try another search\n\nLondon stocks fall post-holiday as global bond rout and Middle East strikes weigh\n\nTHIRTY OVER +30%: A new list of AI picks for September is coming in a few HOURS\n\nThe Warsh pivot markets didn’t expect\n\nBofA Names Top European Software Stocks for 2026\n\n# Brazil shares higher at close of trade; Bovespa up 0. 30%\n\n&copy; Reuters.   Brazil shares higher at close of trade; Bovespa up 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia’s Quarter Dwarfed TSMC’s Year and AI Demand Could Still Surprise | Investing.com",
+      "url": "https://www.investing.com/analysis/nvidias-quarter-was-bigger-than-tsmcs-entire-year--investors-may-still-be-under-200686647",
+      "fonte": "investing.com",
+      "data": "2026-08-27",
+      "resumo": "The numbers themselves are already extraordinary.  Nvidia reported quarterly revenue of $96. 2 billion, up 106% year on year.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & ...",
       "url": "https://finance.yahoo.com/quote/DLR",
