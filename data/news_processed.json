@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-08-31",
-    "total_noticias": 78,
-    "gerado_em": "2026-08-31T17:24:30.522739"
+    "data": "2026-09-01",
+    "total_noticias": 74,
+    "gerado_em": "2026-09-01T08:15:53.236721"
   },
   "noticias": [
+    {
+      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & ...",
+      "url": "https://finance.yahoo.com/quote/DLR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-29",
+      "resumo": "Raising to BUY on booking momentum and pricing power.  Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Software Stocks & ETFs: Is the AI Sell-Off Over?",
+      "url": "https://ca.finance.yahoo.com/news/software-stocks-etfs-ai-sell-205000363.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-08-31",
+      "resumo": "CrowdStrike (CRWD) : Free Stock Analysis Report\n\nPalantir Technologies Inc.  (PLTR) : Free Stock Analysis Report\n\nPalo Alto Networks, Inc.  (PANW) : Free Stock Analysis Report\n\nInvesco AI and Next Gen Software ETF (IGPT): ETF Research Reports\n\nThis article originally published on Zacks Investment Research (zacks.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Sector Update: Tech Stocks Edge Lower Monday Afternoon",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-edge-lower-174108486.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-31",
+      "resumo": "49.    News • 7 days ago Tech stocks led the S&P 500 and Nasdaq lower after the opening bell [. ] 25.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AIOS Tech: The AI Story Is Ahead Of The Business",
+      "url": "https://seekingalpha.com/article/4941992-aios-tech-the-ai-story-is-ahead-of-the-business-sell",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-01",
+      "resumo": "AIOS Tech Inc.  is transitioning from legacy operations to an AI and technology-services platform centered on its YD Network acquisition..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Open-weight AI companies are the Valley's hottest ...",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
+      "fonte": "techcrunch.com",
+      "data": "2026-08-28",
+      "resumo": "AI\n\n# Open-weight AI companies are the Valley’s hottest acquisition targets\n\nTim Fernholz\n\nEveryone’s waiting for Nvidia to confirm this week’s most interesting tech deal: A reported $13 billion acquisition of Hugging Face, a platform for sharing open weight AI models and benchmarks. \n\nNow best known as the target for a team of reward-hacking OpenAI agents, Hugging Face is at the center of the ecosystem of developers building and deploying LLMs that aren’t owned by frontier labs.  Think of it as a kind of GitHub for the AI era.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Realty Income Stock: Stay For The 5% Yield, Wait For The AI Benefits To Pay Off (NYSE:O) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939432-realty-income-stay-for-5-percent-yield-wait-for-ai-benefits-to-pay-off",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-25",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Realty Income: Stay For The 5% Yield, Wait For The AI Benefits To Pay Off\n\n## Summary\n\nREIT.  Real estate investment trust.  Financial Market.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-semiconductor-173500352.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-30",
+      "resumo": "So, regardless of whether AMD or Nvidia likes to work with TSMC, they're forced to because it's the only one with the production capacity available to meet the supply demands of these companies.  Taiwan Semiconductor has remained a key partner for many companies. \n\nDue to Taiwan Semiconductor's neutral position, as long as there is increased spending on AI over the next few years, it's in the driver's seat to capitalize.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech Stocks Rally as Nvidia Fuels Bets on AI Trade: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/nasdaq-futures-rise-on-bullish-nvidia-sales-growth-markets-wrap",
+      "fonte": "bloomberg.com",
+      "data": "2026-08-27",
+      "resumo": "### For Customers\n\n### Support\n\nAmericas+1 212 318 2000\n\nEMEA+44 20 7330 7500\n\nAsia Pacific+65 6212 1000\n\nUS Stocks:\n\n# Tech Stocks Rally as Nvidia Fuels Bets on AI Trade: Markets Wrap\n\nA blockbuster outlook from Nvidia Corp.  spurred gains in technology stocks, bolstering confidence in the artificial-intelligence trade that has powered the bull market. \n\nThe nearly 9% surge in the giant chipmaker was the biggest since April 2025, adding $442 billion to its market value.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cathie Wood Drops $124 Million on AI Stocks, Dumps AMD",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-drops-124-million-014651640.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-01",
+      "resumo": "GuruFocus. com\n\n# Cathie Wood Drops $124 Million on AI Stocks, Dumps AMD\n\nMoz Farooque ACCA\n\n2 min read\n\n NVDA\n\n  +1. 48%\n AMD\n\n  +1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI-Powered Wealth Management Solution Market 2026-2030 Report Now Available — Profiles Addepar, Envestnet, InvestCloud, AWS, Temenos, and 20 Other Key Vendors",
+      "url": "https://ca.finance.yahoo.com/news/ai-powered-wealth-management-solution-080800839.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-08-28",
+      "resumo": "The report identifies the growing demand for personalized investment advisory services as one of the primary factors supporting market expansion.  Investors increasingly expect financial guidance that reflects their individual circumstances, investment objectives, liquidity requirements and tolerance for risk.  In response, wealth management firms are adopting AI-based technologies that can support portfolio personalization, automate selected workflows and provide advisers with timely, actionable intelligence.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Stock Market on Aug. 27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on tap - MarketWatch",
       "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-beat-expectations-earnings-jackson-hole-marvell-results?eafs_enabled=false",
@@ -180,20 +320,6 @@
       "fonte": "in.investing.com",
       "data": "2026-08-28",
       "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Wonder Electricals | 99.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The Boom Daily: The AI Boom Meets Earnings, Export Controls and the Bond Market | Investing.com",
-      "url": "https://www.investing.com/analysis/the-boom-daily-the-ai-boom-meets-earnings-export-controls-and-the-bond-market-200686384",
-      "fonte": "investing.com",
-      "data": "2026-08-24",
-      "resumo": "That matters because Nvidia (NASDAQ:NVDA) reports on Wednesday and has effectively become the quarterly earnings report for the entire AI capital-expenditure cycle.  Nvidia can confirm that the orders are still coming, while Asian suppliers reveal whether that demand is flowing through the wider ecosystem with margins intact.  The hurdle is no longer merely strong growth.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -875,53 +1001,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.51%",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-051-5569573",
-      "fonte": "in.investing.com",
-      "data": "2026-08-24",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Misquita Engineering | 55.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Morning Bid: Waiting on Nvidia for next leg of AI rally",
       "url": "https://finance.yahoo.com/technology/ai/articles/morning-bid-waiting-nvidia-next-044130117.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-08-25",
       "resumo": "Reuters\n\n# Morning Bid: Waiting on Nvidia for next leg of AI rally\n\nReuters\n\n2 min read\n\n NVDA\n\n  -2. 91%\n BABA\n\n  -0. 73%\n\nAug 25 (Reuters) - A look at the day ahead in European and global markets from Rae Wee\n\nIt's been a muted start to the session in ‌Asia on Tuesday, with stocks drifting ahead of Nvidia's earnings this week, ‌where expectations are running sky high for the artificial intelligence darling to deliver stellar results.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-ahead-nvidia-144350563.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-24",
-      "resumo": "Chip stocks are leading a narrow de-risking Monday morning, with the iShares Semiconductor ETF (NASDAQ:SOXX) down 4% to $501. 17 while the iShares U. S.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 Non-Tech Thriving Nasdaq Stocks Enabling Its Northward Move in 2026",
-      "url": "https://ca.finance.yahoo.com/news/3-non-tech-thriving-nasdaq-120800875.html",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-08-24",
-      "resumo": "BTSGU\n\n  0. 00%\n ROKU\n\n  +0. 57%\n IBKR\n\n  -0.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -945,152 +1029,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "C3.ai, Inc. (AI) Registers a Bigger Fall Than the Market: Important Facts to Note",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/c3-ai-inc-ai-registers-215002066.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-24",
-      "resumo": "Investors will be eagerly watching for the performance of C3. ai, Inc.  in its upcoming earnings disclosure.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "S&P, Nasdaq futures slip as markets await Iran sanctions ...",
-      "url": "https://www.reuters.com/business/sp-nasdaq-futures-slip-markets-await-iran-sanctions-nvidia-results-2026-08-24",
-      "fonte": "reuters.com",
-      "data": "2026-08-24",
-      "resumo": "The surge in yields hammered growth-oriented ⁠technology stocks, leaving the S&P 500 Information Technology sector (. SPLRCT), opens new tab down more than 3% for the week. \n\nThese stocks remained on edge heading into ​this week as investors turned their attention to the quarterly results of Nvidia, the world's most valuable company, due on Wednesday.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Ibov Smart Low Vol B3 Analysis and Opinion",
-      "url": "https://in.investing.com/indices/ibov-smart-low-vol-b3-opinion",
-      "fonte": "in.investing.com",
-      "data": "2026-08-24",
-      "resumo": "The latest analysis and reports for the Ibov Smart Low Vol B3 Index.  Stocks Picked by AI Undervalued Stocks.  B3 Currency in BRL Follow Trade 25,966.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "AI Stocks To Watch As Business Spending Stays Strong in 2026",
       "url": "https://uk.finance.yahoo.com/news/ai-stocks-watch-business-spending-061735549.html",
       "fonte": "uk.finance.yahoo.com",
       "data": "2026-08-25",
       "resumo": "Market Cap: CA$636. 3 million\n\nQuantum eMotion gives you direct exposure to one of the more niche but important parts of the AI story, keeping AI models and cloud data secure as attacks become more sophisticated and quantum computers move closer to real world use.  Products such as eShield-Q and Sentry-Q are built for AI data centers, yet the company still reports very small revenue and widening losses, with Q2 2026 revenue at roughly CA$1,000 and a Q2 loss of CA$4.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The 2 Events That Will Define the Stock, Bond Markets This Week - Business Insider",
-      "url": "https://www.businessinsider.com/stock-market-outlook-nvidia-q2-earnings-jackson-hole-fed-rates-2026-8",
-      "fonte": "businessinsider.com",
-      "data": "2026-08-24",
-      "resumo": "Monetization of AI products from hyperscalers like Microsoft and Amazon has also been a positive development for the AI trade in recent weeks. \n\nSo, if Nvidia says that it sees no slowdown in spending from its customers, it could spark fresh optimism for investors. \n\n\"Nvidia earnings will put the AI investment story back at the center of the equity market,\" said Daniela Hathorne, a Senior Market Analyst at Capital.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Here’s Why Nvidia Stock Is Down Today—Again - Forbes",
-      "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/24/nvidia-stock-tumbles-another-2-pacing-for-seventh-straight-drop-ahead-of-earnings/",
-      "fonte": "forbes.com",
-      "data": "2026-08-24",
-      "resumo": "Over the weekend, Bloomberg first reported Nvidia told its biggest customers it would be hiking prices as much as 15% next year for servers with its AI chips due to rising memory costs. \n\nIt also comes amid a broader slide in semiconductor stocks, with AMD, TSMC and Broadcom all falling on Monday, and the Philadelphia Semiconductor Index sliding 2. 7%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Alibaba stock slumps in Hong Kong after $10.2 billion share placement to fund AI - Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/alibaba-set-open-down-8-hong-kong-after-102-billion-share-placement-plan-2026-08-24/",
-      "fonte": "reuters.com",
-      "data": "2026-08-24",
-      "resumo": "Advertisement · Scroll to continue\n\nAlibaba ‌intends ⁠to use proceeds to fund AI development, including the expansion of related infrastructure. \n\nThe share placement comes a week after Alibaba reported quarterly earnings in which it said it had already spent nearly half of its three-year capital expenditure ​plan.  It brought forward ​its projected ⁠payback on AI investment to two and a half years from three due to surging demand for AI services.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "US Futures Edge Lower With AI Spending in Focus: Markets Wrap - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
-      "fonte": "bloomberg.com",
-      "data": "2026-08-24",
-      "resumo": "Markets\n\n# Asian Stocks Dip With AI in Focus, Oil Declines: Markets Wrap\n\nContact us:\n\nProvide news feedback or report an error\n\nConfidential tip. \n\nSend a tip to our reporters\n\nSite feedback:\n\nTake our Survey\n\nBy Anand Krishnamoorthy\n\nUpdated on\n\nAsian stocks edged lower, with the artificial intelligence theme in early focus during a week set to be shaped by earnings from chip bellwether Nvidia Corp.  and the Federal Reserve’s annual gathering.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Here's what the charts say about Nvidia's stock heading into earnings - CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-24",
-      "resumo": "stock.  Given that we are currently above it, we are looking for this level to act as support, meaning we would expect buyers to step in here and soak up the excess supply, resulting in a bottoming of the stock and a rebound to the upside.  However, should that support not materialize, we're likely looking for a move below the $200 level — to around the $195 region.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "CCTV Script 24/08/26 - CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/cctv-script-24/08/26.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-24",
-      "resumo": "Additionally, the market is also closely watching the massive financing being raised by the U. S.  private sector for AI infrastructure construction.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI trade In focus, Iran sanctions loom - What’s moving markets - Investing.com",
-      "url": "https://www.investing.com/news/economy-news/ai-trade-in-focus-iran-sanctions-loom--whats-moving-markets-4872721",
-      "fonte": "investing.com",
-      "data": "2026-08-24",
-      "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NVDA | 214.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"

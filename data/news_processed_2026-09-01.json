@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-01",
+    "total_noticias": 10,
+    "gerado_em": "2026-09-01T08:15:53.235032"
+  },
+  "noticias": [
+    {
+      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & ...",
+      "url": "https://finance.yahoo.com/quote/DLR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-29",
+      "resumo": "Raising to BUY on booking momentum and pricing power.  Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Software Stocks & ETFs: Is the AI Sell-Off Over?",
+      "url": "https://ca.finance.yahoo.com/news/software-stocks-etfs-ai-sell-205000363.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-08-31",
+      "resumo": "CrowdStrike (CRWD) : Free Stock Analysis Report\n\nPalantir Technologies Inc.  (PLTR) : Free Stock Analysis Report\n\nPalo Alto Networks, Inc.  (PANW) : Free Stock Analysis Report\n\nInvesco AI and Next Gen Software ETF (IGPT): ETF Research Reports\n\nThis article originally published on Zacks Investment Research (zacks.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Sector Update: Tech Stocks Edge Lower Monday Afternoon",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-edge-lower-174108486.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-31",
+      "resumo": "49.    News • 7 days ago Tech stocks led the S&P 500 and Nasdaq lower after the opening bell [. ] 25.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AIOS Tech: The AI Story Is Ahead Of The Business",
+      "url": "https://seekingalpha.com/article/4941992-aios-tech-the-ai-story-is-ahead-of-the-business-sell",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-01",
+      "resumo": "AIOS Tech Inc.  is transitioning from legacy operations to an AI and technology-services platform centered on its YD Network acquisition..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Open-weight AI companies are the Valley's hottest ...",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
+      "fonte": "techcrunch.com",
+      "data": "2026-08-28",
+      "resumo": "AI\n\n# Open-weight AI companies are the Valley’s hottest acquisition targets\n\nTim Fernholz\n\nEveryone’s waiting for Nvidia to confirm this week’s most interesting tech deal: A reported $13 billion acquisition of Hugging Face, a platform for sharing open weight AI models and benchmarks. \n\nNow best known as the target for a team of reward-hacking OpenAI agents, Hugging Face is at the center of the ecosystem of developers building and deploying LLMs that aren’t owned by frontier labs.  Think of it as a kind of GitHub for the AI era.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Realty Income Stock: Stay For The 5% Yield, Wait For The AI Benefits To Pay Off (NYSE:O) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4939432-realty-income-stay-for-5-percent-yield-wait-for-ai-benefits-to-pay-off",
+      "fonte": "seekingalpha.com",
+      "data": "2026-08-25",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Realty Income: Stay For The 5% Yield, Wait For The AI Benefits To Pay Off\n\n## Summary\n\nREIT.  Real estate investment trust.  Financial Market.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-semiconductor-173500352.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-30",
+      "resumo": "So, regardless of whether AMD or Nvidia likes to work with TSMC, they're forced to because it's the only one with the production capacity available to meet the supply demands of these companies.  Taiwan Semiconductor has remained a key partner for many companies. \n\nDue to Taiwan Semiconductor's neutral position, as long as there is increased spending on AI over the next few years, it's in the driver's seat to capitalize.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech Stocks Rally as Nvidia Fuels Bets on AI Trade: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/nasdaq-futures-rise-on-bullish-nvidia-sales-growth-markets-wrap",
+      "fonte": "bloomberg.com",
+      "data": "2026-08-27",
+      "resumo": "### For Customers\n\n### Support\n\nAmericas+1 212 318 2000\n\nEMEA+44 20 7330 7500\n\nAsia Pacific+65 6212 1000\n\nUS Stocks:\n\n# Tech Stocks Rally as Nvidia Fuels Bets on AI Trade: Markets Wrap\n\nA blockbuster outlook from Nvidia Corp.  spurred gains in technology stocks, bolstering confidence in the artificial-intelligence trade that has powered the bull market. \n\nThe nearly 9% surge in the giant chipmaker was the biggest since April 2025, adding $442 billion to its market value.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cathie Wood Drops $124 Million on AI Stocks, Dumps AMD",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-drops-124-million-014651640.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-01",
+      "resumo": "GuruFocus. com\n\n# Cathie Wood Drops $124 Million on AI Stocks, Dumps AMD\n\nMoz Farooque ACCA\n\n2 min read\n\n NVDA\n\n  +1. 48%\n AMD\n\n  +1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI-Powered Wealth Management Solution Market 2026-2030 Report Now Available — Profiles Addepar, Envestnet, InvestCloud, AWS, Temenos, and 20 Other Key Vendors",
+      "url": "https://ca.finance.yahoo.com/news/ai-powered-wealth-management-solution-080800839.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-08-28",
+      "resumo": "The report identifies the growing demand for personalized investment advisory services as one of the primary factors supporting market expansion.  Investors increasingly expect financial guidance that reflects their individual circumstances, investment objectives, liquidity requirements and tolerance for risk.  In response, wealth management firms are adopting AI-based technologies that can support portfolio personalization, automate selected workflows and provide advisers with timely, actionable intelligence.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
