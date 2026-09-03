@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-03",
-    "total_noticias": 73,
-    "gerado_em": "2026-09-03T07:44:01.452387"
+    "total_noticias": 83,
+    "gerado_em": "2026-09-03T14:10:05.960524"
   },
   "noticias": [
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (2330.TW) stock price, news, quote and history - Yahoo Finance",
+      "url": "https://uk.finance.yahoo.com/quote/2330.TW/latest-news",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-09-02",
+      "resumo": "Euronews • 1 mo ago\n\n  2330. TW\n\n  +0. 21% NVDAAAPL\n Wall Street holds steady as TSMC earnings strengthen AI outlook ahead of key US data: Dow Jones, S&P, Nasdaq, Wall Street\n\n  ### Wall Street holds steady as TSMC earnings strengthen AI outlook ahead of key US data: Dow Jones, S&P, Nasdaq, Wall Street\n\n  ADVFN UK • 1 mo ago\n\n  2330.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC's Global Expansion Pressures Margins Amid AI-Driven Growth",
+      "url": "https://finance.yahoo.com/technology/articles/tsmcs-global-expansion-pressures-margins-143600133.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-02",
+      "resumo": "Most active \n       PCG PG&E Corporation 12. 95-1. 12(-7.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook - MarketWatch",
+      "url": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace",
+      "fonte": "marketwatch.com",
+      "data": "2026-09-02",
+      "resumo": "DELL\n\n  +7. 69%\n NVDA\n\n  +3. 56%\n SPCX\n\n  -1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Blackstone Digital Infrastructure: A Blank-Check Dud (NYSE:BXDC) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4942320-blackstone-digital-infrastructure-a-blank-check-dud",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-02",
+      "resumo": "Investing Group Leader\n\n## Summary\n\n Blackstone Digital Infrastructure Trust is structurally positioned for subpar shareholder returns, with high upfront and ongoing expenses eroding potential gains. \n BXDC's blank check REIT structure and generic data center acquisition strategy yield a projected 4. 9%–5.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Applied Digital Sinks 7%, IREN Tumbles 13% as Data Center Selloff Broadens Past One Name",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-sinks-7-iren-164315661.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-28",
+      "resumo": "## Pure Plays Sink, Data Center Fund Barely Moves\n\nThe pure plays are down 7% to 12%, and the Global X Data Center & Digital Infrastructure ETF is down only 1%.  The fund is a narrowly concentrated thematic product rather than a diversified fund, yet its data center REITs and semiconductor suppliers such as Equinix, Digital Realty Trust, and Micron Technology are absorbing today's damage while the pure plays take the hit.  [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Jim Cramer says investors aren't ditching tech — they just want cheaper stocks - cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/02/cramer-says-investors-arent-ditching-tech-they-want-cheaper-stocks.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-02",
+      "resumo": "\"The buyers aren't fleeing from the data center or tech in general, they're just fearful of high multiple tech stocks, .  because they have to be perfect,\" he said. \n\nCramer pointed to MongoDB, which trades at roughly 52 times expected earnings over the next 12 months.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Jim Cramer says investors aren't ditching tech — they just want cheaper stocks - CNBC",
+      "url": "https://www.cnbc.com/amp/2026/09/02/cramer-says-investors-arent-ditching-tech-they-want-cheaper-stocks.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-02",
+      "resumo": "\"The buyers aren't fleeing from the data center or tech in general, they're just fearful of high multiple tech stocks, .  because they have to be perfect,\" he said. \n\nCramer pointed to MongoDB, which trades at roughly 52 times expected earnings over the next 12 months.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "+54%, +52%, +40%: grandes destaques de balanços selecionados por IA seguem subindo Por Investing.com",
+      "url": "https://br.investing.com/news/stock-market-news/54-52-40-as-acoes-escolhidas-por-ia-continuam-disparando-apos-resultados-2051766",
+      "fonte": "br.investing.com",
+      "data": "2026-08-28",
+      "resumo": "#### Pesquisas populares\n\n##### Por favor, tente outra busca\n\n+54%, +52%, +40%: grandes destaques de balanços selecionados por IA seguem subindo\n\nIbovespa e dólar hoje aguardam Warsh em Jackson Hole de olho no petróleo\n\nDiscurso de Kevin Warsh em Jackson Hole será uma correção de rumo ou um desvio. \n\nGoverno Trump abandona MOU com Irã e deixa negociações no Estreito de Ormuz em colapso\n\n# +54%, +52%, +40%: grandes destaques de balanços selecionados por IA seguem subindo\n\n&copy; Reuters\n\n© Reuters\n\nInvesting. com — As ações de tecnologia dispararam após os resultados trimestrais impressionantes da Nvidia reacenderem o entusiasmo pelo setor de inteligência artificial, impulsionando o S&P 500 Tech em +3,4% como único setor vencedor do mercado no dia e elevando o NASDAQ em +1,6%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks today: Uber cuts 3,300 roles, implements stricter remote ...",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-02",
+      "resumo": "Forbes reports:\n\n  > The iconic wearable camera manufacturer GoPro announced a $285 million merger deal with a company that produces optical equipment for AI infrastructure on Tuesday, while also announcing a new effort to diversify its business to also produce optical and imaging technology for AI infrastructure and national security purposes. \n  >\n  > GoPro said it was planning to merge with Starman Optical, a privately held company owned by Starman Holdings that produces optical transceivers—devices that turn data into light for high-speed communication. \n  >\n  > The $285 million deal will pay GoPro shareholders $1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Self-Driving Firm PlusAI to Go Public Via Yorkville SPAC ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-02/self-driving-firm-plusai-to-go-public-via-yorkville-spac-merger",
+      "fonte": "bloomberg.com",
+      "data": "2026-09-02",
+      "resumo": "### For Customers\n\n### Support\n\nAmericas+1 212 318 2000\n\nEMEA+44 20 7330 7500\n\nAsia Pacific+65 6212 1000\n\n# Self-Driving Firm PlusAI to Go Public Via Yorkville SPAC Merger\n\nPlus’s Autonomous Truck Powered by PlusDrive\n\nPlus Automation Inc. , an artificial-intelligence company developing self-driving technology for trucks, is set to go public through a business combination with a special purpose acquisition company backed by funds managed by Yorkville Advisors Global. \n\nThe transaction values Santa Clara, California-based PlusAI at $800 million on an equity basis before the merger with the SPAC, Texas Ventures Acquisition III Corp.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Global X Cloud Computing ETF (CLOU) Competitor Stock Analysis",
       "url": "https://seekingalpha.com/symbol/CLOU/related-analysis?page=13",
