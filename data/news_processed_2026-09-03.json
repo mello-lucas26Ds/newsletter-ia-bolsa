@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-03",
+    "total_noticias": 10,
+    "gerado_em": "2026-09-03T07:44:01.450619"
+  },
+  "noticias": [
+    {
+      "titulo": "Global X Cloud Computing ETF (CLOU) Competitor Stock Analysis",
+      "url": "https://seekingalpha.com/symbol/CLOU/related-analysis?page=13",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-02",
+      "resumo": "Global X Cloud Computing ETF $27. 92-0. 90 (-3.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Here's the biggest thing keeping AI stock investors up at night",
+      "url": "https://finance.yahoo.com/markets/stocks/article/heres-the-biggest-thing-keeping-ai-stock-investors-up-at-night-095513638.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-02",
+      "resumo": "Nvidia said after reporting its fiscal second quarter earnings that it sees 70% revenue growth for fiscal year 2028.  This was above analyst forecasts for 45% growth.  The sales gain would be larger — think greater than 100% — if not for memory chip shortages, said Huang.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited ...",
+      "url": "https://finance.yahoo.com/quote/TSM/analysis",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-02",
+      "resumo": "### Growth Estimates\n\n| Symbol | Current Qtr.  | Next Qtr.  | Current Year | Next Year |\n ---  --- \n| TSM | 52.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bet on These 3 AI ETFs to Beat the September Curse",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bet-3-ai-etfs-beat-132600941.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-02",
+      "resumo": "27.    News • 5 days ago The new Fed chairman is set to deliver his keynote address Friday as some central bank officials warn rates are too low\n28.    News • 5 days ago The Nasdaq led markets higher as Nvidia renewed AI optimism and software stocks roared back\n29.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "How AI Speculation Is Fueling the Small-Cap Stock Rally - WSJ",
+      "url": "https://www.wsj.com/podcasts/take-on-the-week/how-ai-speculation-is-fueling-the-small-cap-stock-rally/ad6d9625-41f9-4059-ac69-3b498ffe32cf",
+      "fonte": "wsj.com",
+      "data": "2026-08-30",
+      "resumo": "last week the AI rally kind of resumed, a lot of chip stocks rallied along with Nvidia.  huge outperformance in the biotech sector over the last 12 months..",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 AI Stocks Up 500% or More in the Past Year That Could Have More Room to Run",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-500-more-045000366.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-03",
+      "resumo": "Like Sandisk, Micron stock is also cheap, trading at a forward P/E of 6, and it, too, has locked in longer-term contracts.  If this supercycle lasts into 2030 and beyond, the stock could have plenty of upside from here. \n\n## 3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing (TSM) Stock Looks Stretched ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-stock-070946891.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-29",
+      "resumo": "Most active \n       NVDA NVIDIA Corporation 217. 55-10. 43(-4.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History",
+      "url": "https://finance.yahoo.com/quote/NVDA",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-01",
+      "resumo": "Enterprise Value/Revenue\n\n   Enterprise Value/EBITDA\n\n### Financial Highlights\n\n#### Profitability and Income Statement\n\n   Profit Margin\n\n63. 66%\n\n   Return on Assets (ttm)\n\n53. 57%\n\n   Return on Equity (ttm)\n\n117.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "How Equinix has found a niche in the multitrillion-dollar AI data center boom",
+      "url": "https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-02",
+      "resumo": "Equinix's stock price is up 33% this year, beating all of megacap tech and lifting the company's market cap to $100 billion.  It's by far the most valuable data center real estate investment trust (REIT), ahead of Digital Realty, which has a market cap of $68 billion. \n\nhide content\n\nEquinix vs.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "What Could Palo Alto Networks (PANW) Gain From Its ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-palo-alto-networks-panw-052111463.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-02",
+      "resumo": "Simply Wall St. \n\n# What Could Palo Alto Networks (PANW) Gain From Its Latest AI Security Acquisition. \n\nBailey Pemberton\n\n3 min read\n\n PANW\n\n  -5.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
