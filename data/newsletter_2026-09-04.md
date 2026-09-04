@@ -1,184 +1,156 @@
 # Newsletter IA Bolsa — 2026-09-04
 
-**Gerado em:** 04/09/2026 07:40
+**Gerado em:** 04/09/2026 14:01
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Cathie Wood Cuts AMD After a 120% Rally. Is the AI Trade Getting Crowded? - Microsoft (NASDAQ:MSFT), Pala - Benzinga
+## 1. Nvidia's $3.5B MediaTek bet reveals its plan for tackling Big Tech's ...
 
-**Fonte:** benzinga.com  
-**Sentimento:** 🟢 BULLISH  
+**Fonte:** techcrunch.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The broader AI trade, meanwhile, remained firmly in focus.  AI-focused ETFs rallied sharply Thursday after Nvidia’s earnings fueled fresh optimism around the AI boom.  The Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) gained 2.
+Last week, Nvidia announced a similar partnership with Amazon Web Services, albeit without the direct investment.  AWS will deploy an additional 2 million Nvidia GPUs across its infrastructure, and also integrate NVLink Fusion. 
 
-[Ler noticia completa](https://www.benzinga.com/etfs/sector-etfs/26/08/61499522/cathie-wood-trims-amd-after-a-120-rally-is-the-ai-trade-getting-too-crowded)
+With the Nvidia partnership, MediaTek can continue to build custom chips designed by cloud companies or AI labs tailored to their workloads, leveraging Nvidia’s “proven scale-up and scale-out technology stack and ecosystem” and “rack-scale architecture.
+
+[Ler noticia completa](https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout)
 
 ---
 
-## 2. Snowflake's AI-Fueled Beat Sparks Software Rally: Will Others Follow?
+## 2. Not Nvidia. Not Palantir. This AI Stock Could Have the Most Upside.
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-tools are now driving growth across Snowflake's core platform, not just its standalone AI products, calling it a compounding "flywheel effect" for the business. 
+But there's a catch: Just because AI isn't a bubble doesn't mean that valuations will never get ahead of themselves.  Indeed, we've already seen several corrections across the AI sector in recent years, though they ultimately proved short-lived.  Buying many of the most popular AI stocks at their previous peaks still proved to be a winning long-term investment.
 
-Shares hit their highest level since December 2021, adding roughly $25 billion in market value in the move.  The stock has now climbed 39% for the year, more than triple the S&P 500's 12% gain over the same stretch.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/snowflakes-ai-fueled-beat-sparks-012402886.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/not-nvidia-not-palantir-ai-112000354.html)
 
 ---
 
-## 3. Brazil stocks higher at close of trade; Bovespa up 3.05%
+## 3. 4 Stocks to Buy Now to Ride the AI Data Center Spending Boom
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+27.    News • 5 days ago Investors want one thing from the new Fed chair's Jackson Hole debut Friday: A clear strategy for bringing inflation down
+28.    News • 5 days ago The new Fed chairman is set to deliver his keynote address Friday as some central bank officials warn rates are too low
+29.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/4-stocks-buy-now-ride-135200954.html)
+
+---
+
+## 4. 3 Top AI Stocks With Revenue Growth Over 26% - Yahoo Finance
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+39.    News • 6 days ago Nvidia is banking on some of the AI labs it does business with becoming the largest tech companies in history
+40.    News • 7 days ago Iran and Oman announce progress toward a "permanent navigational corridor and future administration.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/3-top-ai-stocks-revenue-161835070.html)
+
+---
+
+## 5. Taiwan Semiconductor Manufacturing Company Limited ...
+
+**Fonte:** nz.finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+GuruFocus. com • 6 days ago
+
+  NVDAINTCMU
+ Nvidia Breaks Ranks With Chip Stocks as Correlation Hits Just 0. 03
+
+  ### Nvidia Breaks Ranks With Chip Stocks as Correlation Hits Just 0.
+
+[Ler noticia completa](https://nz.finance.yahoo.com/quote/2330.TW/news)
+
+---
+
+## 6. C3.ai Inc Stock Price Today | NYSE: AI Live
+
+**Fonte:** investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+### What Is the C3. ai Market Cap. 
+
+As of today, C3.
+
+[Ler noticia completa](https://www.investing.com/equities/c3-ai-inc)
+
+---
+
+## 7. A Once-in-a-Lifetime Investment Opportunity: The 3 Best Stocks to Take Advantage of the AI Build-Out
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+5.  Savings Goal Calculator
+      6.  Social Security Calculator
+8.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/once-lifetime-investment-opportunity-3-105000124.html)
+
+---
+
+## 8. C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+1.  My Portfolio
+2.  1.
+
+[Ler noticia completa](https://finance.yahoo.com/quote/AI)
+
+---
+
+## 9. Adobe acquires Indian market intelligence startup Rilo - TechCrunch
+
+**Fonte:** techcrunch.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Ivan Mehta
+
+Adobe has acquired India-based marketing intelligence startup Rilo in a deal involving licensing and team acquisition, TechCrunch learned and the company confirmed.  This is Adobe’s second acquisition from India after it bought video platform Rephrase. ai in 2023.
+
+[Ler noticia completa](https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo)
+
+---
+
+## 10. Three Australian stocks with strong data center exposure
 
 **Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-| Name | Last | Chg.  % | Vol.  |  |
- ---  --- 
-| PANW | 328.
+## The Growth Premium: Nextdc
 
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-305-4886742)
+Nextdc (NXT) is Australia’s only pure-play data center REIT-style operator, running facilities across Australia and the Asia-Pacific.  It commands a A$10. 5B market cap — 7x larger than the other two combined — and delivers the fastest revenue growth at 16.
 
----
-
-## 4. David Tepper Exited SanDisk During Historic Rally - SanDisk (NASDAQ:SNDK) - Benzinga
-
-**Fonte:** benzinga.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Read Next
-
-EXCLUSIVE: SanDisk Is the AI Stock to Avoid After Its Stunning 30X Rally, Expert SaysTech
-
-##### EXCLUSIVE: SanDisk Is the AI Stock to Avoid After Its Stunning 30X Rally, Expert Says
-
-SanDisk's AI-fueled rally has been extraordinary, but GraniteShares CEO Will Rhind says expectations may now leave little room for error. 
-
-2 min read
-
-Read this article
-
-Photo Courtesy: TK Kurikawa on Shutterstock. com
-
-Market News and Data brought to you by Benzinga APIs
-
-© 2026 Benzinga.
-
-[Ler noticia completa](https://www.benzinga.com/markets/equities/26/09/61576298/tepper-sandisk-exit)
-
----
-
-## 5. Global X Data Center & Digital Infrastructure ETF (VPN) Stock Price, News, Quote & History - Yahoo Finance
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/VPN)
-
----
-
-## 6. Jobs report, Broadcom results pose next hurdles for stock market rally By Reuters
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-| Name | Last | Chg.  % | Vol.  |  |
- ---  --- 
-| NVDA | 228.
-
-[Ler noticia completa](https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854)
-
----
-
-## 7. Bond market may be pricing AI productivity gains as yields rise: JPMorgan Private Bank
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-"We believe that a peak in earnings is already priced in, and we don't think ​that earnings have yet peaked.  The opportunity for investors is that if some of these companies realize the sales that analysts have already forecasted, they could appreciate materially if the market is still willing to pay the same trailing-twelve-month earnings in 2028. "
-
-Advertisement · Scroll to continue
-
-The AI investment boom is ​also fueling a borrowing spree among hyperscalers, adding to competition for funds at the long end of the bond ​market as they ramp up spending on data centers and other infrastructure.
-
-[Ler noticia completa](https://www.reuters.com/world/bond-market-may-be-pricing-ai-productivity-gains-yields-rise-jpmorgan-private-2026-08-28)
-
----
-
-## 8. Nvidia to acquire AI platform Hugging Face in landmark ...
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-### Deepening an Open-Weight Partnership
-
-Nvidia is already the single largest contributor of open models and data on Hugging Face, having published more than 500 open-weight models and 250 datasets on the site.  The acquisition strengthens both companies' shared commitment to open-weight models—a framework vital for lowering barriers to entry, driving enterprise innovation, and distributing AI capabilities globally. 
-
-Hugging Face co-founders Clem Delangue, Julien Chaumond, and Thomas Wolf will continue to lead their team to scale the platform globally.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/nvidia-acquire-ai-platform-hugging-124357614.html)
-
----
-
-## 9. Here's what Nvidia's $13 billion Hugging Face deal means for the ...
-
-**Fonte:** marketwatch.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-MarketWatch Logo
-
-Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI
-
-## 
-
-### Account Settings
-
-## Tech Stocks
-
-# Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI
-
-## The acquisition will give Nvidia access to ‘one of the most important parcels of real estate in the AI market’ and promote open-source technology
-
-Nvidia on Thursday announced a deal to buy Hugging Face, a repository for open-source artificial-intelligence models that has been growing in stature in recent years. 
-
-Nvidia NVDA will pay roughly $11. 9 billion to Hugging Face shareholders and $1.
-
-[Ler noticia completa](https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1)
-
----
-
-## 10. Company Announcement - Markets data
-
-**Fonte:** markets.ft.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-SANTA CLARA, Calif.  & NEW YORK--(BUSINESS WIRE)--Sep.  3, 2026--
-Plus Automation, Inc.
-
-[Ler noticia completa](https://markets.ft.com/data/announce/detail?dockey=600-202609030600BIZWIRE_USPRX____20260903_BW685150-1)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/three-australian-stocks-with-strong-data-center-exposure-93CH-4883470)
 
 ---
