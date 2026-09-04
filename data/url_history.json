@@ -1,84 +1,4 @@
 {
-  "https://www.reuters.com/business/nasdaq-futures-take-lead-after-nvidia-forecast-refuels-ai-trade-2026-08-27": {
-    "hash": "a10f4fae5f680694e936943fbe67d5af",
-    "visto_em": "2026-08-27"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-soar-aug-074301218.html": {
-    "hash": "09f3fc2e136feab568f84721835e8f57",
-    "visto_em": "2026-08-27"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/calm-storm-3-semiconductor-giants-115840805.html": {
-    "hash": "eb97ed9f46bfe6bc8bc0652a571f0e93",
-    "visto_em": "2026-08-27"
-  },
-  "https://www.investing.com/equities/taiwan-semicond.manufacturing-co": {
-    "hash": "57ec4a237fcaa212306cdd8e15a64cc3",
-    "visto_em": "2026-08-27"
-  },
-  "https://currently.att.yahoo.com/att/2-artificial-intelligence-ai-stocks-112600201.html": {
-    "hash": "8710e32fa10572b5e6390eeab8b9f890",
-    "visto_em": "2026-08-27"
-  },
-  "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html": {
-    "hash": "356be823f59782f781e28ef9b49db3d3",
-    "visto_em": "2026-08-27"
-  },
-  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-185-5567832": {
-    "hash": "7dff00551b548a20e79ca09dd8167bc7",
-    "visto_em": "2026-08-27"
-  },
-  "https://m.economictimes.com/tech/artificial-intelligence/indian-companies-step-up-acquisitions-for-ai-technology-and-talent-crisil/articleshow/133536711.cms": {
-    "hash": "06ef41bab8639e107de85273212644a8",
-    "visto_em": "2026-08-27"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/3-reasons-ai-stocks-primed-155400848.html": {
-    "hash": "cfc4ed52a74c13370efac0b982b7e2a0",
-    "visto_em": "2026-08-27"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/ai-stocks-watch-business-spending-061735549.html": {
-    "hash": "f63fb54b1dd219fa67768bd5cbf59dc9",
-    "visto_em": "2026-08-27"
-  },
-  "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-stock-rallying-today-93CH-4879812": {
-    "hash": "92d05c1a04cffe03e2802966b77b9df9",
-    "visto_em": "2026-08-27"
-  },
-  "https://finance.yahoo.com/sectors/technology/semiconductors": {
-    "hash": "ceb631ce21add052e8af2609a1c53ec1",
-    "visto_em": "2026-08-27"
-  },
-  "https://finance.yahoo.com/technology/live/tech-stocks-today-tech-stocks-gain-after-nvidia-tops-q2-expectations-125406169.html": {
-    "hash": "76bb99b675739533f2227c3130672195",
-    "visto_em": "2026-08-27"
-  },
-  "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html": {
-    "hash": "c0abd1101a8e96db8686aa88f55317de",
-    "visto_em": "2026-08-27"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/asian-chip-firms-lifted-nvidia-024234685.html": {
-    "hash": "5972a4882d32824cb2c7297603069ffd",
-    "visto_em": "2026-08-27"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-help-beat-stock-market-152310707.html": {
-    "hash": "80b696991e03db02e45e79339a546987",
-    "visto_em": "2026-08-27"
-  },
-  "https://finance.yahoo.com/quote/DTCR": {
-    "hash": "53a1bdaae9389aa097cdeac98b47d45a",
-    "visto_em": "2026-08-27"
-  },
-  "https://www.investing.com/news/stock-market-news/software-earnings-show-ai-as-a-revenue-driver-with-salesforce-and-crowdstrike-leading-gains-93CH-4879994": {
-    "hash": "a0a90cae27ab2d2f72551f8176fe083d",
-    "visto_em": "2026-08-27"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/electra-ai-iron-horse-acquisition-120000429.html": {
-    "hash": "7eeee6e4a4f041e93024f9ea2b34d2ca",
-    "visto_em": "2026-08-27"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-data-center-stocks-powering-110028373.html": {
-    "hash": "5b0bb64f2ec4de197c33e020540d61e8",
-    "visto_em": "2026-08-27"
-  },
   "https://sg.finance.yahoo.com/news/tech-stocks-rally-nvidia-fuels-150542915.html": {
     "hash": "48096d7b8646f6a2ed65ff67af90ecd7",
     "visto_em": "2026-08-28"
@@ -426,5 +346,45 @@
   "https://www.bloomberg.com/news/articles/2026-09-02/self-driving-firm-plusai-to-go-public-via-yorkville-spac-merger": {
     "hash": "a3a91f63e1b56fee53be1532e90132ca",
     "visto_em": "2026-09-03"
+  },
+  "https://www.benzinga.com/etfs/sector-etfs/26/08/61499522/cathie-wood-trims-amd-after-a-120-rally-is-the-ai-trade-getting-too-crowded": {
+    "hash": "8b48c5a27bdd26f71da50a78e391abd9",
+    "visto_em": "2026-09-04"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/snowflakes-ai-fueled-beat-sparks-012402886.html": {
+    "hash": "b21772aa53f953632c200827557be545",
+    "visto_em": "2026-09-04"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-305-4886742": {
+    "hash": "59b485fd01a832ae0baef271e25bcc38",
+    "visto_em": "2026-09-04"
+  },
+  "https://www.benzinga.com/markets/equities/26/09/61576298/tepper-sandisk-exit": {
+    "hash": "92d05013525e95f9677ef6b24322f363",
+    "visto_em": "2026-09-04"
+  },
+  "https://finance.yahoo.com/quote/VPN": {
+    "hash": "53a1bdaae9389aa097cdeac98b47d45a",
+    "visto_em": "2026-09-04"
+  },
+  "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854": {
+    "hash": "38e2337f8810bbc57864be3348157e3e",
+    "visto_em": "2026-09-04"
+  },
+  "https://www.reuters.com/world/bond-market-may-be-pricing-ai-productivity-gains-yields-rise-jpmorgan-private-2026-08-28": {
+    "hash": "3f2629f81db94f5fd47a4534d1d0ca29",
+    "visto_em": "2026-09-04"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/nvidia-acquire-ai-platform-hugging-124357614.html": {
+    "hash": "0391c47763be0fca2e7c96b1a84ce4b1",
+    "visto_em": "2026-09-04"
+  },
+  "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1": {
+    "hash": "a9caf22fc3b0b57405804e1560d41f3a",
+    "visto_em": "2026-09-04"
+  },
+  "https://markets.ft.com/data/announce/detail?dockey=600-202609030600BIZWIRE_USPRX____20260903_BW685150-1": {
+    "hash": "cccc5a59326b5796bab9b4874d87c028",
+    "visto_em": "2026-09-04"
   }
 }

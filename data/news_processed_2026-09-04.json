@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-04",
+    "total_noticias": 10,
+    "gerado_em": "2026-09-04T07:40:53.392718"
+  },
+  "noticias": [
+    {
+      "titulo": "Cathie Wood Cuts AMD After a 120% Rally. Is the AI Trade Getting Crowded? - Microsoft (NASDAQ:MSFT), Pala - Benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/08/61499522/cathie-wood-trims-amd-after-a-120-rally-is-the-ai-trade-getting-too-crowded",
+      "fonte": "benzinga.com",
+      "data": "2026-08-28",
+      "resumo": "The broader AI trade, meanwhile, remained firmly in focus.  AI-focused ETFs rallied sharply Thursday after Nvidia’s earnings fueled fresh optimism around the AI boom.  The Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) gained 2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Snowflake's AI-Fueled Beat Sparks Software Rally: Will Others Follow?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/snowflakes-ai-fueled-beat-sparks-012402886.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-04",
+      "resumo": "tools are now driving growth across Snowflake's core platform, not just its standalone AI products, calling it a compounding \"flywheel effect\" for the business. \n\nShares hit their highest level since December 2021, adding roughly $25 billion in market value in the move.  The stock has now climbed 39% for the year, more than triple the S&P 500's 12% gain over the same stretch.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 3.05%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-305-4886742",
+      "fonte": "investing.com",
+      "data": "2026-09-02",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| PANW | 328.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "David Tepper Exited SanDisk During Historic Rally - SanDisk (NASDAQ:SNDK) - Benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61576298/tepper-sandisk-exit",
+      "fonte": "benzinga.com",
+      "data": "2026-09-02",
+      "resumo": "Read Next\n\nEXCLUSIVE: SanDisk Is the AI Stock to Avoid After Its Stunning 30X Rally, Expert SaysTech\n\n##### EXCLUSIVE: SanDisk Is the AI Stock to Avoid After Its Stunning 30X Rally, Expert Says\n\nSanDisk's AI-fueled rally has been extraordinary, but GraniteShares CEO Will Rhind says expectations may now leave little room for error. \n\n2 min read\n\nRead this article\n\nPhoto Courtesy: TK Kurikawa on Shutterstock. com\n\nMarket News and Data brought to you by Benzinga APIs\n\n© 2026 Benzinga.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global X Data Center & Digital Infrastructure ETF (VPN) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/VPN",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-03",
+      "resumo": "The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Jobs report, Broadcom results pose next hurdles for stock market rally By Reuters",
+      "url": "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854",
+      "fonte": "investing.com",
+      "data": "2026-08-29",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NVDA | 228.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bond market may be pricing AI productivity gains as yields rise: JPMorgan Private Bank",
+      "url": "https://www.reuters.com/world/bond-market-may-be-pricing-ai-productivity-gains-yields-rise-jpmorgan-private-2026-08-28",
+      "fonte": "reuters.com",
+      "data": "2026-08-28",
+      "resumo": "\"We believe that a peak in earnings is already priced in, and we don't think ​that earnings have yet peaked.  The opportunity for investors is that if some of these companies realize the sales that analysts have already forecasted, they could appreciate materially if the market is still willing to pay the same trailing-twelve-month earnings in 2028. \"\n\nAdvertisement · Scroll to continue\n\nThe AI investment boom is ​also fueling a borrowing spree among hyperscalers, adding to competition for funds at the long end of the bond ​market as they ramp up spending on data centers and other infrastructure.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia to acquire AI platform Hugging Face in landmark ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-acquire-ai-platform-hugging-124357614.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-03",
+      "resumo": "### Deepening an Open-Weight Partnership\n\nNvidia is already the single largest contributor of open models and data on Hugging Face, having published more than 500 open-weight models and 250 datasets on the site.  The acquisition strengthens both companies' shared commitment to open-weight models—a framework vital for lowering barriers to entry, driving enterprise innovation, and distributing AI capabilities globally. \n\nHugging Face co-founders Clem Delangue, Julien Chaumond, and Thomas Wolf will continue to lead their team to scale the platform globally.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Here's what Nvidia's $13 billion Hugging Face deal means for the ...",
+      "url": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1",
+      "fonte": "marketwatch.com",
+      "data": "2026-09-03",
+      "resumo": "MarketWatch Logo\n\nHere’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI\n\n## \n\n### Account Settings\n\n## Tech Stocks\n\n# Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI\n\n## The acquisition will give Nvidia access to ‘one of the most important parcels of real estate in the AI market’ and promote open-source technology\n\nNvidia on Thursday announced a deal to buy Hugging Face, a repository for open-source artificial-intelligence models that has been growing in stature in recent years. \n\nNvidia NVDA will pay roughly $11. 9 billion to Hugging Face shareholders and $1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Company Announcement - Markets data",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202609030600BIZWIRE_USPRX____20260903_BW685150-1",
+      "fonte": "markets.ft.com",
+      "data": "2026-09-03",
+      "resumo": "SANTA CLARA, Calif.  & NEW YORK--(BUSINESS WIRE)--Sep.  3, 2026--\nPlus Automation, Inc.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

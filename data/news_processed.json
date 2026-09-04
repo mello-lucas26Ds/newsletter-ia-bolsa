@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-03",
-    "total_noticias": 83,
-    "gerado_em": "2026-09-03T14:10:05.960524"
+    "data": "2026-09-04",
+    "total_noticias": 71,
+    "gerado_em": "2026-09-04T07:40:53.394476"
   },
   "noticias": [
+    {
+      "titulo": "Cathie Wood Cuts AMD After a 120% Rally. Is the AI Trade Getting Crowded? - Microsoft (NASDAQ:MSFT), Pala - Benzinga",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/08/61499522/cathie-wood-trims-amd-after-a-120-rally-is-the-ai-trade-getting-too-crowded",
+      "fonte": "benzinga.com",
+      "data": "2026-08-28",
+      "resumo": "The broader AI trade, meanwhile, remained firmly in focus.  AI-focused ETFs rallied sharply Thursday after Nvidia’s earnings fueled fresh optimism around the AI boom.  The Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) gained 2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Snowflake's AI-Fueled Beat Sparks Software Rally: Will Others Follow?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/snowflakes-ai-fueled-beat-sparks-012402886.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-04",
+      "resumo": "tools are now driving growth across Snowflake's core platform, not just its standalone AI products, calling it a compounding \"flywheel effect\" for the business. \n\nShares hit their highest level since December 2021, adding roughly $25 billion in market value in the move.  The stock has now climbed 39% for the year, more than triple the S&P 500's 12% gain over the same stretch.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 3.05%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-305-4886742",
+      "fonte": "investing.com",
+      "data": "2026-09-02",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| PANW | 328.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "David Tepper Exited SanDisk During Historic Rally - SanDisk (NASDAQ:SNDK) - Benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/09/61576298/tepper-sandisk-exit",
+      "fonte": "benzinga.com",
+      "data": "2026-09-02",
+      "resumo": "Read Next\n\nEXCLUSIVE: SanDisk Is the AI Stock to Avoid After Its Stunning 30X Rally, Expert SaysTech\n\n##### EXCLUSIVE: SanDisk Is the AI Stock to Avoid After Its Stunning 30X Rally, Expert Says\n\nSanDisk's AI-fueled rally has been extraordinary, but GraniteShares CEO Will Rhind says expectations may now leave little room for error. \n\n2 min read\n\nRead this article\n\nPhoto Courtesy: TK Kurikawa on Shutterstock. com\n\nMarket News and Data brought to you by Benzinga APIs\n\n© 2026 Benzinga.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global X Data Center & Digital Infrastructure ETF (VPN) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/VPN",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-03",
+      "resumo": "The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Jobs report, Broadcom results pose next hurdles for stock market rally By Reuters",
+      "url": "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854",
+      "fonte": "investing.com",
+      "data": "2026-08-29",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NVDA | 228.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bond market may be pricing AI productivity gains as yields rise: JPMorgan Private Bank",
+      "url": "https://www.reuters.com/world/bond-market-may-be-pricing-ai-productivity-gains-yields-rise-jpmorgan-private-2026-08-28",
+      "fonte": "reuters.com",
+      "data": "2026-08-28",
+      "resumo": "\"We believe that a peak in earnings is already priced in, and we don't think ​that earnings have yet peaked.  The opportunity for investors is that if some of these companies realize the sales that analysts have already forecasted, they could appreciate materially if the market is still willing to pay the same trailing-twelve-month earnings in 2028. \"\n\nAdvertisement · Scroll to continue\n\nThe AI investment boom is ​also fueling a borrowing spree among hyperscalers, adding to competition for funds at the long end of the bond ​market as they ramp up spending on data centers and other infrastructure.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia to acquire AI platform Hugging Face in landmark ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-acquire-ai-platform-hugging-124357614.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-03",
+      "resumo": "### Deepening an Open-Weight Partnership\n\nNvidia is already the single largest contributor of open models and data on Hugging Face, having published more than 500 open-weight models and 250 datasets on the site.  The acquisition strengthens both companies' shared commitment to open-weight models—a framework vital for lowering barriers to entry, driving enterprise innovation, and distributing AI capabilities globally. \n\nHugging Face co-founders Clem Delangue, Julien Chaumond, and Thomas Wolf will continue to lead their team to scale the platform globally.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Here's what Nvidia's $13 billion Hugging Face deal means for the ...",
+      "url": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1",
+      "fonte": "marketwatch.com",
+      "data": "2026-09-03",
+      "resumo": "MarketWatch Logo\n\nHere’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI\n\n## \n\n### Account Settings\n\n## Tech Stocks\n\n# Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI\n\n## The acquisition will give Nvidia access to ‘one of the most important parcels of real estate in the AI market’ and promote open-source technology\n\nNvidia on Thursday announced a deal to buy Hugging Face, a repository for open-source artificial-intelligence models that has been growing in stature in recent years. \n\nNvidia NVDA will pay roughly $11. 9 billion to Hugging Face shareholders and $1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Company Announcement - Markets data",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202609030600BIZWIRE_USPRX____20260903_BW685150-1",
+      "fonte": "markets.ft.com",
+      "data": "2026-09-03",
+      "resumo": "SANTA CLARA, Calif.  & NEW YORK--(BUSINESS WIRE)--Sep.  3, 2026--\nPlus Automation, Inc.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Taiwan Semiconductor Manufacturing Company Limited (2330.TW) stock price, news, quote and history - Yahoo Finance",
       "url": "https://uk.finance.yahoo.com/quote/2330.TW/latest-news",
@@ -441,20 +581,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Investing.com - Quotazioni, Borsa, Economia e Finanza",
-      "url": "https://it.investing.com",
-      "fonte": "it.investing.com",
-      "data": "2026-08-27",
-      "resumo": "# Investing. com - Il Principale Portale Finanziario\n\n#### Ricerche più popolari\n\n##### Per Favore, prova con una nuova ricerca\n\nI dati, gli strumenti e le idee di investimento basate sull'IA su cui i trader seri fanno affidamento — prima di fare la loro mossa. \n\n## Notizie\n\n## Notizie\n\nCATL scende ai minimi da 6 mesi dopo la sospensione dello stabilimento in Ungheria per esposizione al nichel\nHonda punta a tagli da 9 miliardi per fronteggiare i rivali cinesi\nLa strategia AI di Microsoft sta pagando, secondo BofA\nUSA e Iran si scambiano attacchi, tensioni sullo Stretto di Hormuz\n\n## Mercati [.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha",
       "url": "https://seekingalpha.com/market-outlook",
       "fonte": "seekingalpha.com",
@@ -567,53 +693,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "EXCLUSIVE: Anthropic in talks with chip start up MatX to speed up chip design, sources say",
-      "url": "https://www.reuters.com/business/finance/anthropic-planned-then-abandoned-7-billion-purchase-matx-sources-say-2026-08-27",
-      "fonte": "reuters.com",
-      "data": "2026-08-27",
-      "resumo": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Anthropic discussed buying artificial intelligence chip startup MatX for roughly $7 billion, seeking to ​accelerate efforts to develop custom hardware for its fast-growing AI business, two people briefed ‌on the matter told Reuters. \n\nThe merger talks, which a third person said have evolved into a discussion about a partnership, underscore the AI lab’s ambition to secure the resources and talent needed to build its own chips.  The ​goal is to help Anthropic accelerate its in-house chip development.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia agrees to buy Hugging Face for $12.9 billion, report ...",
-      "url": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
-      "fonte": "cnbc.com",
-      "data": "2026-08-27",
-      "resumo": "thumbnail\n\nApril Roach@/in/april-roach-901033140/@April\\_\\_Roach\n\nWATCH LIVE\n\nKey Points\n\n Nvidia agreed to buy Hugging Face for $12. 9 billion, The Information has reported. \n Neither Nvidia nor Hugging Face immediately responded to CNBC requests for comment.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Brazil shares higher at close of trade; Bovespa up 0.30% By Investing.com",
       "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-030-4852073",
       "fonte": "uk.investing.com",
       "data": "2026-08-28",
       "resumo": "#### Popular Searches\n\n##### Please try another search\n\nLondon stocks fall post-holiday as global bond rout and Middle East strikes weigh\n\nTHIRTY OVER +30%: A new list of AI picks for September is coming in a few HOURS\n\nThe Warsh pivot markets didn’t expect\n\nBofA Names Top European Software Stocks for 2026\n\n# Brazil shares higher at close of trade; Bovespa up 0. 30%\n\n&copy; Reuters.   Brazil shares higher at close of trade; Bovespa up 0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia’s Quarter Dwarfed TSMC’s Year and AI Demand Could Still Surprise | Investing.com",
-      "url": "https://www.investing.com/analysis/nvidias-quarter-was-bigger-than-tsmcs-entire-year--investors-may-still-be-under-200686647",
-      "fonte": "investing.com",
-      "data": "2026-08-27",
-      "resumo": "The numbers themselves are already extraordinary.  Nvidia reported quarterly revenue of $96. 2 billion, up 106% year on year.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -707,20 +791,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Tech Stocks Rally as Nvidia Fuels Bets on AI Trade: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/nasdaq-futures-rise-on-bullish-nvidia-sales-growth-markets-wrap",
-      "fonte": "bloomberg.com",
-      "data": "2026-08-27",
-      "resumo": "### For Customers\n\n### Support\n\nAmericas+1 212 318 2000\n\nEMEA+44 20 7330 7500\n\nAsia Pacific+65 6212 1000\n\nUS Stocks:\n\n# Tech Stocks Rally as Nvidia Fuels Bets on AI Trade: Markets Wrap\n\nA blockbuster outlook from Nvidia Corp.  spurred gains in technology stocks, bolstering confidence in the artificial-intelligence trade that has powered the bull market. \n\nThe nearly 9% surge in the giant chipmaker was the biggest since April 2025, adding $442 billion to its market value.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Cathie Wood Drops $124 Million on AI Stocks, Dumps AMD",
       "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-drops-124-million-014651640.html",
       "fonte": "finance.yahoo.com",
@@ -740,20 +810,6 @@
       "fonte": "ca.finance.yahoo.com",
       "data": "2026-08-28",
       "resumo": "The report identifies the growing demand for personalized investment advisory services as one of the primary factors supporting market expansion.  Investors increasingly expect financial guidance that reflects their individual circumstances, investment objectives, liquidity requirements and tolerance for risk.  In response, wealth management firms are adopting AI-based technologies that can support portfolio personalization, automate selected workflows and provide advisers with timely, actionable intelligence.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock Market on Aug. 27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on tap - MarketWatch",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-beat-expectations-earnings-jackson-hole-marvell-results?eafs_enabled=false",
-      "fonte": "marketwatch.com",
-      "data": "2026-08-27",
-      "resumo": "## \n\n### Account Settings\n\nAug.  27, 2026 at 6:02pm ET\n\n# Stock Market on Aug.  27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on tap\n\n## The S&P 500, Nasdaq and Dow closed higher Thursday as tech rallied after earnings reports from Nvidia and Salesforce.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -791,34 +847,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TSMC ADRs Jump 2% as Nvidia Extends the Foundry Runway",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-adrs-jump-2-nvidia-170617812.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "Now comes the expensive part.  At $425. 97, TSMC trades 34.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.31%",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-031-5574891",
-      "fonte": "in.investing.com",
-      "data": "2026-08-27",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Wonder Electricals | 99.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "DLR Stock Price | Digital Realty Trust Inc. Stock Quote (U.S.: NYSE) | MarketWatch",
       "url": "https://www.marketwatch.com/investing/stock/dlr",
       "fonte": "marketwatch.com",
@@ -839,20 +867,6 @@
       "data": "2026-08-28",
       "resumo": "|  | B3 SA Brasil Bolsa Balcao | 16. 04 | 16. 11 | 15.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stocks Rally as Nvidia Earnings Boost AI Optimism",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-nvidia-earnings-boost-140031535.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "Stock indices are moving higher today, with the S&P 500 and Nasdaq 100postign 1-week highs.   Stellar earnings from Nvidia are powering technology stocks higher today.  Nvidia is up more than +6%, leading chipmakers and AI-infrastructure stocks higher after issuing a revenue growth forecast for fiscal 2028 far above expectations.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -917,34 +931,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Cybersecurity Stocks Rally on Twin Earnings Beats: Okta Spikes 22%, CrowdStrike Jumps 13%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-twin-earnings-133439422.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "Peers Palo Alto Networks (NASDAQ:PANW) and Fortinet (NASDAQ:FTNT) are riding the read-through as the platform trade in cybersecurity gets fresh validation.  Palo Alto Networks stock is up 5% to $356. 17, and Fortinet stock is up 1% to $159.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq leads Wall St after Nvidia quells AI fears",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-leads-wall-st-nvidia-133355523.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "Reuters\n\n# Nasdaq leads Wall St after Nvidia quells AI fears\n\nReuters\n\n NVDA\n\n  +7. 20%\n ^DJI\n\n  +0. 07%\n ^GSPC\n\n  +0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.30%",
       "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-030-4881807",
       "fonte": "investing.com",
@@ -964,20 +950,6 @@
       "fonte": "investing.com",
       "data": "2026-08-28",
       "resumo": "## AI Is Becoming Revenue, Security and Governance\n\nThe earnings evidence is also broadening.  CrowdStrike reported Q2 revenue of $1. 47 billion, up 26%, while record net-new ARR reached $333 million, up 51%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Still Headlines, But New Stock Market Stories Emerge From Q2 Earnings",
-      "url": "https://seekingalpha.com/article/4940802-ai-still-headlines-new-stock-market-stories-emerge-from-q2-earnings",
-      "fonte": "seekingalpha.com",
-      "data": "2026-08-27",
-      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# AI Still Headlines, But New Stock Market Stories Emerge From Q2 Earnings\n\n## Summary\n\nAI automatically trading bot, Software that analyzes market data and executes trades automatically, Using artificial intelligence algorithms, Trading and business investment concept.  3d rendering \n\nGetty Images\n\nAI automatically trading bot, Software that analyzes market data and executes trades automatically, Using artificial intelligence algorithms, Trading and business investment concept.  3d rendering\n\nGetty Images\n\nOriginally published on Aug.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1020,146 +992,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-08-28",
       "resumo": "Zacks\n\n# Seeking Clues to C3. ai (AI) Q1 Earnings.  A Peek Into Wall Street Projections for Key Metrics\n\nSeeking Clues to C3.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Tech stocks rally as Nvidia fuels bets on AI trade",
-      "url": "https://sg.finance.yahoo.com/news/tech-stocks-rally-nvidia-fuels-150542915.html",
-      "fonte": "sg.finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "+1. 43%\n CRWD\n\n  +20. 50%\n ^GSPC\n\n  +0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq off to strong start as Nvidia sparks tech rally",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-spotlight-ahead-thursdays-wall-124900933.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "Nvidia was the standout, with shares climbing 7. 5% after the chip giant forecast third-quarter revenue above Wall Street expectations, extending its remarkable run of growth driven by seemingly insatiable demand for AI chips. \n\nSalesforce was also surging, up more than 20% after delivering a strong fiscal second-quarter earnings beat and raising its full-year guidance.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Chipmakers are outshining Big Tech in the AI rally",
-      "url": "https://sg.finance.yahoo.com/news/ai-rally-disguising-massive-slump-174239329.html",
-      "fonte": "sg.finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "+8. 74%\n ^IXIC\n\n  +1. 57%\n INTC\n\n  +4.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Why is Taiwan Semiconductor stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-stock-rallying-today-93CH-4879812",
-      "fonte": "investing.com",
-      "data": "2026-08-27",
-      "resumo": "The broader market provided a supportive backdrop, with the Nasdaq climbing 1. 2% and the S&P 500 adding 0. 6% during the session, as Nvidia’s results lifted sentiment across the technology sector.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Semiconductors Stock Performance",
-      "url": "https://finance.yahoo.com/sectors/technology/semiconductors",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "| Name | Last Price | 1Y Target Est.  | Market Weight | Market Cap | Day Change % | YTD Return | Avg.  Analyst Rating |\n ---  ---  ---  --- |\n| NVDA  NVIDIA Corporation | 209.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Tech stocks gain after Nvidia tops Q2 expectations",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-tech-stocks-gain-after-nvidia-tops-q2-expectations-125406169.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "1.    News • 32 minutes ago Tech stocks powered a rally in the S&P 500 and Nasdaq as Nvidia earnings revived AI optimism\n2.    News • 2 hours ago Kansas City Federal Reserve President Jeff Schmid said in an interview Wednesday on the eve of the central bank's annual economic summit in Jackson Hole, Wyo.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Tech stocks lifted by Nvidia but caution dominates ahead of ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-chip-firms-lifted-nvidia-024234685.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "The firm has led an eye-watering rally by tech firms over the past year and in October became the first to hit a market capitalisation of $5 trillion owing to scorching demand for its chips. \n\nHowever, the investors have been growing increasingly worried about when the vast sums of cash being pumped into the AI sector will see a meaningful return, if ever. \n\nThat saw a painful selloff in July that wiped trillions off valuations.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Software earnings show AI as a revenue driver ...",
-      "url": "https://www.investing.com/news/stock-market-news/software-earnings-show-ai-as-a-revenue-driver-with-salesforce-and-crowdstrike-leading-gains-93CH-4879994",
-      "fonte": "investing.com",
-      "data": "2026-08-27",
-      "resumo": "TSLA\n\n355. 52\n\n+9. 70\n\n+2.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq futures take lead after Nvidia forecast refuels AI trade",
-      "url": "https://www.reuters.com/business/nasdaq-futures-take-lead-after-nvidia-forecast-refuels-ai-trade-2026-08-27",
-      "fonte": "reuters.com",
-      "data": "2026-08-27",
-      "resumo": "Global tech stocks saw renewed investor interest, with South Korea's KOSPI (. KS11), opens new tab closing 1. 5% higher.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia, Salesforce earnings boost tech",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-27",
-      "resumo": "As of 4:14:36 AM EDT.  Market Open. \n\nES=F YM=F NQ=F \n\nNvidia stock rose 6% in premarket trading on Thursday as the company reported an earnings beat and signaled that it sees strong AI demand throughout next year, easing concerns that the AI chip king wouldn't be able to sustain its torrid pace of growth.",
       "sentimento": "bearish",
       "tags": [
         "AI",
