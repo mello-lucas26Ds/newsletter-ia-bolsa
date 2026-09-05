@@ -1,48 +1,4 @@
 {
-  "https://sg.finance.yahoo.com/news/tech-stocks-rally-nvidia-fuels-150542915.html": {
-    "hash": "48096d7b8646f6a2ed65ff67af90ecd7",
-    "visto_em": "2026-08-28"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-spotlight-ahead-thursdays-wall-124900933.html": {
-    "hash": "9679fcffb6d61fcab08729d7d35adb5c",
-    "visto_em": "2026-08-28"
-  },
-  "https://sg.finance.yahoo.com/news/ai-rally-disguising-massive-slump-174239329.html": {
-    "hash": "bf7317791d7e62b37d2c3cc466beb0ad",
-    "visto_em": "2026-08-28"
-  },
-  "https://www.investing.com/equities/taiwan-semiconductor-drc": {
-    "hash": "e5ac98bc7e088d27db1048d40a4c742a",
-    "visto_em": "2026-08-28"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/volato-group-signs-definitive-agreement-120000971.html": {
-    "hash": "5465bafb843eaeb9d73f07a2743a5fc4",
-    "visto_em": "2026-08-28"
-  },
-  "https://www.investing.com/etfs/vpn": {
-    "hash": "2dc59e5ef024a01a277f334b2013ef81",
-    "visto_em": "2026-08-28"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmcs-july-surge-raises-bar-190325583.html": {
-    "hash": "f493620620e5b9e0cc6b2ee0fffaf079",
-    "visto_em": "2026-08-28"
-  },
-  "https://finance.yahoo.com/quote/TSFA.F": {
-    "hash": "3184c0d161f6ae7f90eabb7eaf1d129d",
-    "visto_em": "2026-08-28"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/seeking-clues-c3-ai-ai-131503319.html": {
-    "hash": "a901fbda30d6fe242000e7b2bfecc287",
-    "visto_em": "2026-08-28"
-  },
-  "https://br.investing.com/news/company-news/surge-digital-conclui-mudanca-de-nome-e-consolidacao-de-acoes-7-por-1-93CH-2050178": {
-    "hash": "ccdc9547b364f1b085efb44e3992d336",
-    "visto_em": "2026-08-28"
-  },
-  "https://www.investing.com/analysis/10-software-stocks-to-watch-as-salesforce-soars-following-earnings-report-200686645": {
-    "hash": "78a5fdbd9215f1553cab985f5927580f",
-    "visto_em": "2026-08-28"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-twin-earnings-133439422.html": {
     "hash": "709150a33d1f2faa0f22c40c58802b25",
     "visto_em": "2026-08-29"
@@ -426,5 +382,45 @@
   "https://www.investing.com/news/stock-market-news/three-australian-stocks-with-strong-data-center-exposure-93CH-4883470": {
     "hash": "4905b98c5f1e03cc079248e319772c9d",
     "visto_em": "2026-09-04"
+  },
+  "https://ca.finance.yahoo.com/quote/TSM/profile": {
+    "hash": "a4412e99407568a780e2f1792f9fc734",
+    "visto_em": "2026-09-05"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/pwc-palantir-expand-strategic-alliance-120000394.html": {
+    "hash": "eb57c8f46d558ea1144ceb73e0d9cf1f",
+    "visto_em": "2026-09-05"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/opinion-tsmc-better-buy-magnificent-032000765.html": {
+    "hash": "9fa26434a9e98d513b7c800aa8457761",
+    "visto_em": "2026-09-05"
+  },
+  "https://www.businessinsider.com/snowflake-stock-earnings-ai-trade-software-saas-tech-pltr-snow-2026-9": {
+    "hash": "983877ca869ed5f9946dfd705f987d34",
+    "visto_em": "2026-09-05"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-increases-despite-market-214503083.html": {
+    "hash": "093ab7f60ecca00300e33d5c2ea58c41",
+    "visto_em": "2026-09-05"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/palantir-stock-jumps-expanded-pwc-212850892.html": {
+    "hash": "f935c8d367f6e25c2e15cbc8c885707d",
+    "visto_em": "2026-09-05"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-global-bond-131516395.html": {
+    "hash": "c9d0304db374c537f1698c866b32afa0",
+    "visto_em": "2026-09-05"
+  },
+  "https://www.benzinga.com/markets/tech/26/09/61540924/whats-going-on-with-broadcom-stock-tuesday-9": {
+    "hash": "ce240a849a611baa21287b25c9e58614",
+    "visto_em": "2026-09-05"
+  },
+  "https://markets.businessinsider.com/news/stocks/statement-edgemode-confirms-that-the-current-review-process-with-blackberry-aif-and-black-ai-group-will-be-extended-for-up-to-six-months-1036522703": {
+    "hash": "8d1f5aeb73b582f3b3686499ece9b0ee",
+    "visto_em": "2026-09-05"
+  },
+  "https://seekingalpha.com/market-news/m-a": {
+    "hash": "968f42c4fff3a255c872b622680a6cb7",
+    "visto_em": "2026-09-05"
   }
 }

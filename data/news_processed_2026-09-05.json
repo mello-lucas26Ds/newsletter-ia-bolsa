@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-05",
+    "total_noticias": 10,
+    "gerado_em": "2026-09-05T07:22:17.636865"
+  },
+  "noticias": [
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Company Profile & Facts - Yahoo Finance",
+      "url": "https://ca.finance.yahoo.com/quote/TSM/profile",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-09-03",
+      "resumo": "6-K: Corporate Changes & Voting Matters\n\nSee Full Filing\n\nJune 25, 2026 at 12:00 a. m.  UTC\n\n6-K: Corporate Changes & Voting Matters\n\nSee Full Filing\n\n###\n\n### Related Tickers\n\nMU  Micron Technology, Inc.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "PwC and Palantir Expand Strategic Alliance to Help Organizations Scale Enterprise AI",
+      "url": "https://finance.yahoo.com/technology/ai/articles/pwc-palantir-expand-strategic-alliance-120000394.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-03",
+      "resumo": "Transforming M&A through an AI-native deals platform\n\nPwC and Palantir are introducing the industry's first AI-native deals IT platform enabled by Palantir Foundry and Palantir's AI Platform (AIP) to help organizations execute mergers, acquisitions and divestitures with greater speed and confidence.  The platform is designed to help organizations execute deals up to 50% faster while reducing one-time transaction costs up to 45%.  By accelerating integration and separation activities, organizations can unlock synergies sooner, divest or spin off businesses faster and ultimately drive greater deal value and stronger shareholder returns.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Opinion: TSMC Is a Better Buy Than Any of the \"Magnificent Seven ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/opinion-tsmc-better-buy-magnificent-032000765.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-04",
+      "resumo": "Nvidia (NASDAQ: NVDA) is once again leading the way, and there's a lot to love about Jensen Huang's company.  The most recent earnings report showed revenue of $96. 2 billion, up a whopping 106% from a year ago.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Snowflake stock soars 26% after it gives investors another reason to get excited about the AI boom - Business Insider",
+      "url": "https://www.businessinsider.com/snowflake-stock-earnings-ai-trade-software-saas-tech-pltr-snow-2026-9",
+      "fonte": "businessinsider.com",
+      "data": "2026-09-03",
+      "resumo": "Why: The surge on Thursday follows a strong Q2 earnings report.  Snowflake's results came in above Wall Street's estimates on key metrics, with product revenue reaching $1. 49 billion, a 37% year-over-year increase, while the company also raised revenue guidance for the current quarter and the fiscal year.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC (TSM) Increases Despite Market Slip: Here's What You Need ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-increases-despite-market-214503083.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-04",
+      "resumo": "Learn more\n\nTSMC (TSM) closed at $428. 91 in the latest trading session, marking a +2. 85% move from the prior day.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Palantir Stock Jumps on Expanded PwC AI Deal",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-stock-jumps-expanded-pwc-212850892.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-04",
+      "resumo": "GuruFocus. com\n\n# Palantir Stock Jumps on Expanded PwC AI Deal\n\nNauman Khan\n\n1 min read\n\n PLTR\n\n  +7. 71%\n\nThis article first appeared on GuruFocus.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-global-bond-131516395.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-01",
+      "resumo": "The contrast holds up across the rest of the roster.  NVIDIA stock is up 19% year to date, Broadcom stock is up 7%, the iShares Semiconductor ETF is up 70%, and the Invesco QQQ Trust is up 17%.  Broadcom's much smaller advance leaves it less momentum to unwind, which fits its shallower move this morning.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "What's Going On With Broadcom Stock Tuesday? - Broadcom (NASDAQ:AVGO) - Benzinga",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61540924/whats-going-on-with-broadcom-stock-tuesday-9",
+      "fonte": "benzinga.com",
+      "data": "2026-09-01",
+      "resumo": "Trending\n\nThe company said enterprises can choose from different processors, servers and AI models rather than relying on a single supplier.  Customers can run more than 150 open-source and commercial AI models, including offerings from Alphabet Inc.  (NASDAQ:GOOGL) Google, NVIDIA Corp.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Statement: EdgeMode confirms that the current review process with BlackBerry AIF and BLACK AI Group will be extended for up to six months | Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/statement-edgemode-confirms-that-the-current-review-process-with-blackberry-aif-and-black-ai-group-will-be-extended-for-up-to-six-months-1036522703",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-09-04",
+      "resumo": "The parties remain aligned around the opportunities within the AI infrastructure sector and will use this additional period to complete their strategic, corporate, and commercial review, while EdgeMode undertakes the internal corporate, financial, and strategic work required to support any potential future transaction. \n\nPotential structures may include a merger, acquisition, investment, strategic partnership, economic participation, or another form of transaction.  No specific transaction is guaranteed.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Latest Merger & Acquisition (M&A) News - Seeking Alpha",
+      "url": "https://seekingalpha.com/market-news/m-a",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-03",
+      "resumo": "# Latest Mergers & Acquisition News\n\n M&A\n AI Tech\n All News\n Biotech\n Budget & Regulation\n Buybacks\n Commodities\n Consumer\n Cryptocurrency\n Debt/Share Issuance\n Dividends - Funds\n Dividends - Stocks\n Earnings\n Earnings Calls Insights\n Electric Vehicles\n Energy\n Financials\n Global Macro\n Gold\n Graphical News\n Guidance\n Healthcare\n Interest Rates\n IPOs\n Jobs & Employment\n Magnificent 7\n Market Pulse\n MLPs\n Notable Calls\n Nuclear Power\n On The Move\n Politics\n Quizzes\n REITs\n SPACs\n Spotlight\n Tariffs\n Tech\n Top News\n Trending News\n U. S.  Economy\n War & Defense\n Weight Loss\n\n## News\n\n### PayPal pauses sale of venture capital portfolio arm - Axios Pro\n\nPYPL -3.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
