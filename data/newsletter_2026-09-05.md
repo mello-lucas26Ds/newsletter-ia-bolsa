@@ -1,95 +1,29 @@
 # Newsletter IA Bolsa — 2026-09-05
 
-**Gerado em:** 05/09/2026 07:22
+**Gerado em:** 05/09/2026 13:15
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Taiwan Semiconductor Manufacturing Company Limited (TSM) Company Profile & Facts - Yahoo Finance
-
-**Fonte:** ca.finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-6-K: Corporate Changes & Voting Matters
-
-See Full Filing
-
-June 25, 2026 at 12:00 a. m.  UTC
-
-6-K: Corporate Changes & Voting Matters
-
-See Full Filing
-
-###
-
-### Related Tickers
-
-MU  Micron Technology, Inc.
-
-[Ler noticia completa](https://ca.finance.yahoo.com/quote/TSM/profile)
-
----
-
-## 2. PwC and Palantir Expand Strategic Alliance to Help Organizations Scale Enterprise AI
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Transforming M&A through an AI-native deals platform
-
-PwC and Palantir are introducing the industry's first AI-native deals IT platform enabled by Palantir Foundry and Palantir's AI Platform (AIP) to help organizations execute mergers, acquisitions and divestitures with greater speed and confidence.  The platform is designed to help organizations execute deals up to 50% faster while reducing one-time transaction costs up to 45%.  By accelerating integration and separation activities, organizations can unlock synergies sooner, divest or spin off businesses faster and ultimately drive greater deal value and stronger shareholder returns.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/pwc-palantir-expand-strategic-alliance-120000394.html)
-
----
-
-## 3. Opinion: TSMC Is a Better Buy Than Any of the "Magnificent Seven ...
+## 1. Stock Market Today, Sept. 2: Dell Helps Stocks Edge Higher Despite Geopolitical Tensions
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Nvidia (NASDAQ: NVDA) is once again leading the way, and there's a lot to love about Jensen Huang's company.  The most recent earnings report showed revenue of $96. 2 billion, up a whopping 106% from a year ago.
+Investors also monitored Snowflake (NYSE:SNOW) and Broadcom (NASDAQ:AVGO)as the technology firms prepared to report quarterly results after hours, following a significant year-to-date rally. 
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/opinion-tsmc-better-buy-magnificent-032000765.html)
+## What this means for investors
 
----
+Perhaps the biggest news item today in the stock market came from Dell Technologies, which rose 16% after reporting blowout earnings.  Sales and adjusted EPS rose 58% and 203% in the quarter, while its AI-Optimized Server business doubled its revenue.
 
-## 4. Snowflake stock soars 26% after it gives investors another reason to get excited about the AI boom - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Why: The surge on Thursday follows a strong Q2 earnings report.  Snowflake's results came in above Wall Street's estimates on key metrics, with product revenue reaching $1. 49 billion, a 37% year-over-year increase, while the company also raised revenue guidance for the current quarter and the fiscal year.
-
-[Ler noticia completa](https://www.businessinsider.com/snowflake-stock-earnings-ai-trade-software-saas-tech-pltr-snow-2026-9)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-2-213113460.html)
 
 ---
 
-## 5. TSMC (TSM) Increases Despite Market Slip: Here's What You Need ...
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Learn more
-
-TSMC (TSM) closed at $428. 91 in the latest trading session, marking a +2. 85% move from the prior day.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-increases-despite-market-214503083.html)
-
----
-
-## 6. Palantir Stock Jumps on Expanded PwC AI Deal
+## 2. Micron, SanDisk Lead Memory Chip Stocks Rally ...
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
@@ -98,124 +32,159 @@ TSMC (TSM) closed at $428. 91 in the latest trading session, marking a +2. 85% m
 
 GuruFocus. com
 
-# Palantir Stock Jumps on Expanded PwC AI Deal
+# Micron, SanDisk Lead Memory Chip Stocks Rally on Strong AI Demand
 
 Nauman Khan
 
 1 min read
 
- PLTR
+ SNDK
 
-  +7. 71%
+  +10. 43%
+ MU
 
-This article first appeared on GuruFocus.
+  +4.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/palantir-stock-jumps-expanded-pwc-212850892.html)
+[Ler noticia completa](https://finance.yahoo.com/technology/articles/micron-sandisk-lead-memory-chip-174447419.html)
 
 ---
 
-## 7. Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip
+## 3. C3.ai, Inc. (AI) Reports Q1 Loss, Beats Revenue Estimates
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Ahead of this earnings release, the estimate revisions trend for C3. ai was mixed.  While the magnitude and direction of estimate revisions could change following the company's just-released earnings report, the current status translates into a Zacks Rank #3 (Hold) for the stock.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/c3-ai-inc-ai-reports-212503403.html)
+
+---
+
+## 4. Blue Owl Plans Creating Publicly Traded Data Center REIT
+
+**Fonte:** bloomberg.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+### For Customers
+
+### Support
+
+Americas+1 212 318 2000
+
+EMEA+44 20 7330 7500
+
+Asia Pacific+65 6212 1000
+
+US Stocks:
+
+# Blue Owl Plans Creating Publicly Traded Data Center REIT
+
+Blue Owl offices in New York. 
+
+Blue Owl offices in New York. 
+
+Blue Owl Capital is seeking to create a real estate investment trust for data centers and take it public, according to people familiar with the matter, as more companies tap the market to fund building out artificial intelligence infrastructure.
+
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-09-04/blue-owl-is-said-to-plan-public-company-for-data-center-roll-up)
+
+---
+
+## 5. Snowflake stock skyrockets on AI-driven Q2 revenue jump
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Snowflake reported adjusted earnings per share of $0. 62 for its fiscal 2027 second quarter. 
+
+### (SNOW )
+
+Go deeper with AlphaSpace
+
+305.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/article/snowflake-stock-skyrockets-on-ai-driven-q2-revenue-jump-130537300.html)
+
+---
+
+## 6. TSMC's 67.7% Margin Now Needs Twice the Cleaning Chemistry
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The contrast holds up across the rest of the roster.  NVIDIA stock is up 19% year to date, Broadcom stock is up 7%, the iShares Semiconductor ETF is up 70%, and the Invesco QQQ Trust is up 17%.  Broadcom's much smaller advance leaves it less momentum to unwind, which fits its shallower move this morning.
+TSMC's 67. 7% Margin Now Needs Twice the Cleaning Chemistry ·us. finance.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-global-bond-131516395.html)
+[Ler noticia completa](https://finance.yahoo.com/technology/articles/tsmcs-67-7-margin-now-122025578.html)
 
 ---
 
-## 8. What's Going On With Broadcom Stock Tuesday? - Broadcom (NASDAQ:AVGO) - Benzinga
+## 7. Taiwan Semiconductor Manufacturing Company (TSM) Limited Continues to Deliver Stellar Financial Results
 
-**Fonte:** benzinga.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Trending
+> "Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is the world's largest contract chipmaker and the leading manufacturer of advanced logic semiconductors used in modern AI accelerators.  Shares rose 41. 6% during the quarter as the company continues to report stellar financial results underpinned by AI demand with revenue growth of 35% year-on-year and EPS growth of 58%, with 66% gross margins and 58% operating margins.
 
-The company said enterprises can choose from different processors, servers and AI models rather than relying on a single supplier.  Customers can run more than 150 open-source and commercial AI models, including offerings from Alphabet Inc.  (NASDAQ:GOOGL) Google, NVIDIA Corp.
-
-[Ler noticia completa](https://www.benzinga.com/markets/tech/26/09/61540924/whats-going-on-with-broadcom-stock-tuesday-9)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-131831930.html)
 
 ---
 
-## 9. Statement: EdgeMode confirms that the current review process with BlackBerry AIF and BLACK AI Group will be extended for up to six months | Markets Insider
+## 8. Jim Cramer Says “Someone Must Know Something” About Broadcom Inc. (NASDAQ:AVGO)’s Post-Earnings Share Dip
 
-**Fonte:** markets.businessinsider.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The parties remain aligned around the opportunities within the AI infrastructure sector and will use this additional period to complete their strategic, corporate, and commercial review, while EdgeMode undertakes the internal corporate, financial, and strategic work required to support any potential future transaction. 
+Unlike Broadcom Inc.  (NASDAQ:AVGO), Snowflake Inc.  (NYSE:SNOW)'s shares soared by a strong 21% the day after the firm reported its Q2FY27 earnings.
 
-Potential structures may include a merger, acquisition, investment, strategic partnership, economic participation, or another form of transaction.  No specific transaction is guaranteed.
-
-[Ler noticia completa](https://markets.businessinsider.com/news/stocks/statement-edgemode-confirms-that-the-current-review-process-with-blackberry-aif-and-black-ai-group-will-be-extended-for-up-to-six-months-1036522703)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-someone-must-225141015.html)
 
 ---
 
-## 10. Latest Merger & Acquisition (M&A) News - Seeking Alpha
+## 9. Nvidia Fiscal Q2: The AI Giant Answers To Losing Market Share
 
 **Fonte:** seekingalpha.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-# Latest Mergers & Acquisition News
+AI stock market graph trading analysis investment financial, stock exchange financial forex graph stock market graph chart business crisis crash grow up profits win up trend server digital 
 
- M&A
- AI Tech
- All News
- Biotech
- Budget & Regulation
- Buybacks
- Commodities
- Consumer
- Cryptocurrency
- Debt/Share Issuance
- Dividends - Funds
- Dividends - Stocks
- Earnings
- Earnings Calls Insights
- Electric Vehicles
- Energy
- Financials
- Global Macro
- Gold
- Graphical News
- Guidance
- Healthcare
- Interest Rates
- IPOs
- Jobs & Employment
- Magnificent 7
- Market Pulse
- MLPs
- Notable Calls
- Nuclear Power
- On The Move
- Politics
- Quizzes
- REITs
- SPACs
- Spotlight
- Tariffs
- Tech
- Top News
- Trending News
- U. S.  Economy
- War & Defense
- Weight Loss
+panida wijitpanya/iStock via Getty Images
 
-## News
+Nvidia Corporation (NVDA) reported another impeccable quarter, yet the more important story came from the earnings call.  As the Tech Insider Network has covered in the past, Nvidia’s share of the AI
 
-### PayPal pauses sale of venture capital portfolio arm - Axios Pro
+This article was written by
 
-PYPL -3.
+Beth Kindig
 
-[Ler noticia completa](https://seekingalpha.com/market-news/m-a)
+20. 96K Followers [.
+
+[Ler noticia completa](https://seekingalpha.com/article/4942528-nvidia-fiscal-q2-the-ai-giant-answers-to-losing-market-share)
+
+---
+
+## 10. Sam Altman Sees “Unsustainable Silliness” in AI Compute Spending. These Are the Stocks Traders Are Watching.
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+OpenAI CEO Sam Altman said "I am seeing the first signs of what feels to me like unsustainable silliness of random new neoclouds popping up, people claiming that they're going to build gigantic amounts of compute next year that I think they don't have the revenue to support or a buyer. " The comment, reported by Benzinga from Altman's appearance on the Sources podcast, has become the reference point traders are using this week to reassess the publicly traded AI compute buildout. 
+
+, Nebius Group (NASDAQ:NBIS), IREN (NASDAQ:IREN), Hut 8 (NASDAQ:HUT), Bitdeer Technologies (NASDAQ:BTDR) and Cipher Mining (NASDAQ:CIFR).
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/sam-altman-sees-unsustainable-silliness-153539590.html)
 
 ---
