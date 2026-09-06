@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-06",
+    "total_noticias": 10,
+    "gerado_em": "2026-09-06T07:34:52.830933"
+  },
+  "noticias": [
+    {
+      "titulo": "WDC Stock's Big Rally: Buy, Sell, or Hold After a 70% 6-Month Surge?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wdc-stocks-big-rally-buy-144500359.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-04",
+      "resumo": "43.    News • Aug 27, 2026 The Nasdaq led markets higher as Nvidia renewed AI optimism and software stocks roared back\n44.    News • Aug 27, 2026 Nvidia is banking on some of the AI labs it does business with becoming the largest tech companies in history\n45.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "SanDisk (SNDK) Soars on S&P 100 Inclusion; Hedge Fund Ownership More-Than-Doubles",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-soars-p-100-021124605.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-05",
+      "resumo": "47.    News • Aug 27, 2026 Nvidia is banking on some of the AI labs it does business with becoming the largest tech companies in history\n48.    News • Aug 27, 2026 Iran and Oman announce progress toward a \"permanent navigational corridor and future administration.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AAPL Apple Inc.",
+      "url": "https://finance.yahoo.com/quote/AAPL",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-04",
+      "resumo": "13.    News • 2 days ago Investors want one thing from the new Fed chair's Jackson Hole debut Friday: A clear strategy for bringing inflation down\n14.    News • 2 days ago The new Fed chairman is set to deliver his keynote address Friday as some central bank officials warn rates are too low\n15.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia stock moves closer to all-time high",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-moves-closer-to-all-time-high-193309793.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-05",
+      "resumo": "AlphaSpace \n\n Markets\n Analysis\n News\n My Portfolio\n Earnings Hub\n Options\n\nA pro-grade research workspace with advanced charts, company data and real-time news.  Now part of Yahoo Finance Gold.   Learn more\n\nGet Finance Plus\n\n# Nvidia stock moves closer to all-time high\n\nInes Ferré  · Senior Business Reporter\n\n1 min read\n\n NVDA\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Alphabet: AI Pivot Creates A New Frontier For Growth",
+      "url": "https://seekingalpha.com/article/4942985-alphabet-ai-pivot-creates-a-new-frontier-for-growth",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-04",
+      "resumo": "Passage Research\n\n6. 14K Followers\n\n## Summary\n\n Alphabet is initiated at Buy with a $432 price target, representing a 26% upside driven by accelerating Search, Gemini, and GCP momentum. \n GOOGL's $200B capex surge is expected to yield 20%+ ROIC, with substantial earnings leverage as AI investments monetize over the next several years.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Ibovespa abre em queda após dado de emprego nos EUA Por Reuters",
+      "url": "https://br.investing.com/news/stock-market-news/ibovespa-abre-em-queda-apos-dado-de-emprego-nos-eua-2057579",
+      "fonte": "br.investing.com",
+      "data": "2026-09-04",
+      "resumo": "| Nome | Último | Var.  % | Vol.  |  |\n ---  --- \n| FII Grupo RCFA | 0,90 | +1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Broadcom: Buy The AI Reset After Q3 Earnings",
+      "url": "https://seekingalpha.com/article/4943084-broadcom-buy-the-ai-reset-after-q3-earnings",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-04",
+      "resumo": "I’m a retail investor based in Sydney with three years of experience focusing on achieving financial independence through strategic investments in AI-driven companies.  Although I don’t come from a traditional finance background, I’ve developed a strong passion for understanding how artificial intelligence is transforming the global economy.  Over the past few years, I’ve become increasingly fascinated by the possibilities of AI—how it’s reshaping industries, driving innovation, and creating new investment frontiers.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Zscaler's Q4 earnings reflect AI-driven demand as ARR pops up 25% | Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4640124-zscalers-q4-earnings-reflect-ai-driven-demand-as-arr-pops-up-25",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-03",
+      "resumo": "Home page Seeking Alpha - Power to Investors\n\nSearch for Symbols, analysts, keywords\n\n# Zscaler's Q4 earnings reflect AI-driven demand as ARR pops up 25%\n\nSep 03, 2026, 4:25 PM ETZscaler, Inc.  (ZS) StockBy: Brandon Evans, SA News Editor\n\nMichael Vi/iStock Editorial via Getty Images\n\nZscaler (ZS) released its fourth-quarter fiscal 2027 earnings report post-market on Thursday, which featured a 25% year-over-year increase to annual recurring revenue. \n\n\"We delivered a strong fourth quarter, with revenue and ARR both growing 25% year over year, net new ARR growing 24%, and\n\nTo ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "SailPoint integra dados de identidade ao SIEM da CrowdStrike Por Investing.com",
+      "url": "https://br.investing.com/news/company-news/sailpoint-integra-dados-de-identidade-ao-siem-da-crowdstrike-93CH-2053248",
+      "fonte": "br.investing.com",
+      "data": "2026-08-31",
+      "resumo": "| Nome | Último | Var.  % | Vol.  |  |\n ---  --- \n| Casas Bahia ON | 0,63 | +57,50% | 24,44M |  |\n| Azevedo & Travassos ON | 5,32 | +29,44% | 1,65M |  |\n| GoPro BDR | 3,65 | +17,74% | 31,88mil |  |\n| CEG ON | 34,98 | +16,60% | 200,00 |  |\n| Fiagro High | 14,00 | +15,61% | 139,00 |  |\n| SJ AU Logistica FII | 1,80 | +14,65% | 266,00 |  |\n| GeoPark BDR | 57,70 | +12,92% | 106,00 |  |\n\n| Nome | Último | Var.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC's $269 Billion Expansion Puts Its 67.7% Margin in Focus",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-269-billion-expansion-puts-170918317.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-01",
+      "resumo": "2.  Most shorted\n      3.  Most active penny stocks\n      4.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

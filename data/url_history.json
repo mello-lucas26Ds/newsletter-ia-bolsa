@@ -1,40 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-twin-earnings-133439422.html": {
-    "hash": "709150a33d1f2faa0f22c40c58802b25",
-    "visto_em": "2026-08-29"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-leads-wall-st-nvidia-133355523.html": {
-    "hash": "f2aa3a66c97088c0c27734f3c59c2fb7",
-    "visto_em": "2026-08-29"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-030-4881807": {
-    "hash": "b4e7779c947f53f0aa31ee0935e25a9a",
-    "visto_em": "2026-08-29"
-  },
-  "https://www.investing.com/analysis/salesforce-earnings-shock-is-it-time-for-software-stocks-to-make-a-return-200686753": {
-    "hash": "8ee38a4affaad3cfc185690ab00e8029",
-    "visto_em": "2026-08-29"
-  },
-  "https://seekingalpha.com/article/4940802-ai-still-headlines-new-stock-market-stories-emerge-from-q2-earnings": {
-    "hash": "f1f6e770339d729b59236ebed2ae39c0",
-    "visto_em": "2026-08-29"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/appian-atlassian-bandwidth-c3-ai-045707959.html": {
-    "hash": "a554f67248cb757b4f7ab5bbc7bda894",
-    "visto_em": "2026-08-29"
-  },
-  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-030-5576311": {
-    "hash": "fa7fc88102a59d534b70cc39fae2a50c",
-    "visto_em": "2026-08-29"
-  },
-  "https://www.investing.com/analysis/the-boom-daily-the-ai-boom-meets-earnings-export-controls-and-the-bond-market-200686384": {
-    "hash": "820b919240d4bad261e853004e500993",
-    "visto_em": "2026-08-29"
-  },
-  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-001-5572850": {
-    "hash": "6c5ea7f1d225bda9932bbda77d1a7df7",
-    "visto_em": "2026-08-29"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-nvidia-earnings-boost-140031535.html": {
     "hash": "c153a29f8b03fd96d5272ec296a4244d",
     "visto_em": "2026-08-30"
@@ -462,5 +426,45 @@
   "https://finance.yahoo.com/markets/stocks/articles/sam-altman-sees-unsustainable-silliness-153539590.html": {
     "hash": "f1d67da3bdc977ad11c554dc01baa587",
     "visto_em": "2026-09-05"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/wdc-stocks-big-rally-buy-144500359.html": {
+    "hash": "b14dfb1a36a48ebdc65b34f8fbd16b5e",
+    "visto_em": "2026-09-06"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-soars-p-100-021124605.html": {
+    "hash": "58b6d9b64f35d92a67ab065cafbb9ca1",
+    "visto_em": "2026-09-06"
+  },
+  "https://finance.yahoo.com/quote/AAPL": {
+    "hash": "27aebf8351c4e3b0fc1ad83d2da260ea",
+    "visto_em": "2026-09-06"
+  },
+  "https://finance.yahoo.com/markets/article/nvidia-stock-moves-closer-to-all-time-high-193309793.html": {
+    "hash": "cc0ae7c6d176bef1ceca2d5a6d4849ec",
+    "visto_em": "2026-09-06"
+  },
+  "https://seekingalpha.com/article/4942985-alphabet-ai-pivot-creates-a-new-frontier-for-growth": {
+    "hash": "408b6bad8d34e2f49a785becac6e1fa5",
+    "visto_em": "2026-09-06"
+  },
+  "https://br.investing.com/news/stock-market-news/ibovespa-abre-em-queda-apos-dado-de-emprego-nos-eua-2057579": {
+    "hash": "8da2c948f3e417e4ab9306eec0095322",
+    "visto_em": "2026-09-06"
+  },
+  "https://seekingalpha.com/article/4943084-broadcom-buy-the-ai-reset-after-q3-earnings": {
+    "hash": "6bc05d9607a495078ed6649e83e298d8",
+    "visto_em": "2026-09-06"
+  },
+  "https://seekingalpha.com/news/4640124-zscalers-q4-earnings-reflect-ai-driven-demand-as-arr-pops-up-25": {
+    "hash": "4df34452c4b389557566b8bca1f8f702",
+    "visto_em": "2026-09-06"
+  },
+  "https://br.investing.com/news/company-news/sailpoint-integra-dados-de-identidade-ao-siem-da-crowdstrike-93CH-2053248": {
+    "hash": "1819dae21d8c5c8174eb26ac8e15bd6d",
+    "visto_em": "2026-09-06"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmcs-269-billion-expansion-puts-170918317.html": {
+    "hash": "2b0d3c46ddb193ac95c9827f3d287477",
+    "visto_em": "2026-09-06"
   }
 }
