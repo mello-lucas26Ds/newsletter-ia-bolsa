@@ -1,198 +1,102 @@
 # Newsletter IA Bolsa — 2026-09-06
 
-**Gerado em:** 06/09/2026 07:34
-**Total:** 10 noticias
+**Gerado em:** 06/09/2026 13:25
+**Total:** 6 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. WDC Stock's Big Rally: Buy, Sell, or Hold After a 70% 6-Month Surge?
+## 1. The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Professional ownership broadened before Friday's rally.  Insider Monkey counted 128 hedge funds holding Sandisk Corporation (NASDAQ:SNDK) at June 30, up from 114 at March 31.  Leopold Aschenbrenner's Situational Awareness LP disclosed 2,495,344 shares, about 119% more than the 1,140,119 shares reported in Q1.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html)
+
+---
+
+## 2. Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-43.    News • Aug 27, 2026 The Nasdaq led markets higher as Nvidia renewed AI optimism and software stocks roared back
-44.    News • Aug 27, 2026 Nvidia is banking on some of the AI labs it does business with becoming the largest tech companies in history
-45.
+Sector action on Thursday, Sept 3. 
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/wdc-stocks-big-rally-buy-144500359.html)
+ 
+
+Tech stocks (XLK) rose as shares of Snowflake (SNOW) soared following a blowout quarter.  Chipmaker Broadcom (AVGO) stock, however, dropped following strong quarterly results, but its revenue forecast missed Wall Street estimates.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/article/stocks-edge-up-as-nvidia-leads-tech-higher-following-hugging-face-deal-announcement-alphacheck-140448366.html)
 
 ---
 
-## 2. SanDisk (SNDK) Soars on S&P 100 Inclusion; Hedge Fund Ownership More-Than-Doubles
+## 3. Brazil stocks lower at close of trade; Bovespa down 0.02% By Investing.com
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
+**Fonte:** investing.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-47.    News • Aug 27, 2026 Nvidia is banking on some of the AI labs it does business with becoming the largest tech companies in history
-48.    News • Aug 27, 2026 Iran and Oman announce progress toward a "permanent navigational corridor and future administration.
+#### Popular Searches
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-soars-p-100-021124605.html)
+##### Please try another search
+
+U. S.  stocks close lower on increased Fed rate hike bets, end mixed for the week
+
+U.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-002-4890004)
 
 ---
 
-## 3. AAPL Apple Inc.
+## 4. GoPro Is Now An AI Company—Sending Stock 40% Higher
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
+**Fonte:** forbes.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-13.    News • 2 days ago Investors want one thing from the new Fed chair's Jackson Hole debut Friday: A clear strategy for bringing inflation down
-14.    News • 2 days ago The new Fed chairman is set to deliver his keynote address Friday as some central bank officials warn rates are too low
-15.
+The iconic wearable camera manufacturer GoPro announced a $285 million merger deal with a company that produces optical equipment for AI infrastructure on.
 
-[Ler noticia completa](https://finance.yahoo.com/quote/AAPL)
+[Ler noticia completa](https://www.forbes.com/sites/zacharyfolk/2026/09/01/gopro-becomes-the-next-company-announcing-ai-pivot-with-285-million-merger-deal)
 
 ---
 
-## 4. Nvidia stock moves closer to all-time high
+## 5. Micron and Western Digital Shares Skyrocket, What You Need To Know
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-AlphaSpace 
+The previous big move we wrote about was 11 days ago when the stock dropped 5. 5% on the news that investors trimmed chip exposure to reduce portfolio risk ahead of Nvidia's highly anticipated earnings report.  Semiconductor shares experienced widespread selling pressure as traders locked in profits ahead of Nvidia's second-quarter fiscal 2027 financial release.
 
- Markets
- Analysis
- News
- My Portfolio
- Earnings Hub
- Options
-
-A pro-grade research workspace with advanced charts, company data and real-time news.  Now part of Yahoo Finance Gold.   Learn more
-
-Get Finance Plus
-
-# Nvidia stock moves closer to all-time high
-
-Ines Ferré  · Senior Business Reporter
-
-1 min read
-
- NVDA
-
-  +0.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/article/nvidia-stock-moves-closer-to-all-time-high-193309793.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/micron-western-digital-shares-skyrocket-022210546.html)
 
 ---
 
-## 5. Alphabet: AI Pivot Creates A New Frontier For Growth
+## 6. Vertiv: Filter Out The Noise, This Is A Golden Opportunity
 
 **Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Passage Research
+Bay Area Ideas
 
-6. 14K Followers
+5. 69K Followers
 
 ## Summary
 
- Alphabet is initiated at Buy with a $432 price target, representing a 26% upside driven by accelerating Search, Gemini, and GCP momentum. 
- GOOGL's $200B capex surge is expected to yield 20%+ ROIC, with substantial earnings leverage as AI investments monetize over the next several years.
+ After a significant pullback, Vertiv remains a buy due to robust AI infrastructure tailwinds and strategic capacity expansion. 
+ Q2 revenue growth decelerated due to temporary supply chain issues, but margin expansion and EPS outperformance signal core business strength.
 
-[Ler noticia completa](https://seekingalpha.com/article/4942985-alphabet-ai-pivot-creates-a-new-frontier-for-growth)
-
----
-
-## 6. Ibovespa abre em queda após dado de emprego nos EUA Por Reuters
-
-**Fonte:** br.investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-| Nome | Último | Var.  % | Vol.  |  |
- ---  --- 
-| FII Grupo RCFA | 0,90 | +1.
-
-[Ler noticia completa](https://br.investing.com/news/stock-market-news/ibovespa-abre-em-queda-apos-dado-de-emprego-nos-eua-2057579)
-
----
-
-## 7. Broadcom: Buy The AI Reset After Q3 Earnings
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-I’m a retail investor based in Sydney with three years of experience focusing on achieving financial independence through strategic investments in AI-driven companies.  Although I don’t come from a traditional finance background, I’ve developed a strong passion for understanding how artificial intelligence is transforming the global economy.  Over the past few years, I’ve become increasingly fascinated by the possibilities of AI—how it’s reshaping industries, driving innovation, and creating new investment frontiers.
-
-[Ler noticia completa](https://seekingalpha.com/article/4943084-broadcom-buy-the-ai-reset-after-q3-earnings)
-
----
-
-## 8. Zscaler's Q4 earnings reflect AI-driven demand as ARR pops up 25% | Seeking Alpha
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Home page Seeking Alpha - Power to Investors
-
-Search for Symbols, analysts, keywords
-
-# Zscaler's Q4 earnings reflect AI-driven demand as ARR pops up 25%
-
-Sep 03, 2026, 4:25 PM ETZscaler, Inc.  (ZS) StockBy: Brandon Evans, SA News Editor
-
-Michael Vi/iStock Editorial via Getty Images
-
-Zscaler (ZS) released its fourth-quarter fiscal 2027 earnings report post-market on Thursday, which featured a 25% year-over-year increase to annual recurring revenue. 
-
-"We delivered a strong fourth quarter, with revenue and ARR both growing 25% year over year, net new ARR growing 24%, and
-
-To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.
-
-[Ler noticia completa](https://seekingalpha.com/news/4640124-zscalers-q4-earnings-reflect-ai-driven-demand-as-arr-pops-up-25)
-
----
-
-## 9. SailPoint integra dados de identidade ao SIEM da CrowdStrike Por Investing.com
-
-**Fonte:** br.investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-| Nome | Último | Var.  % | Vol.  |  |
- ---  --- 
-| Casas Bahia ON | 0,63 | +57,50% | 24,44M |  |
-| Azevedo & Travassos ON | 5,32 | +29,44% | 1,65M |  |
-| GoPro BDR | 3,65 | +17,74% | 31,88mil |  |
-| CEG ON | 34,98 | +16,60% | 200,00 |  |
-| Fiagro High | 14,00 | +15,61% | 139,00 |  |
-| SJ AU Logistica FII | 1,80 | +14,65% | 266,00 |  |
-| GeoPark BDR | 57,70 | +12,92% | 106,00 |  |
-
-| Nome | Último | Var.
-
-[Ler noticia completa](https://br.investing.com/news/company-news/sailpoint-integra-dados-de-identidade-ao-siem-da-crowdstrike-93CH-2053248)
-
----
-
-## 10. TSMC's $269 Billion Expansion Puts Its 67.7% Margin in Focus
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-2.  Most shorted
-      3.  Most active penny stocks
-      4.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmcs-269-billion-expansion-puts-170918317.html)
+[Ler noticia completa](https://seekingalpha.com/article/4942715-vertiv-filter-out-the-noise-this-is-a-golden-opportunity)
 
 ---

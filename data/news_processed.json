@@ -2,10 +2,94 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-06",
-    "total_noticias": 84,
-    "gerado_em": "2026-09-06T07:34:52.832620"
+    "total_noticias": 90,
+    "gerado_em": "2026-09-06T13:25:00.708642"
   },
   "noticias": [
+    {
+      "titulo": "The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-05",
+      "resumo": "Professional ownership broadened before Friday's rally.  Insider Monkey counted 128 hedge funds holding Sandisk Corporation (NASDAQ:SNDK) at June 30, up from 114 at March 31.  Leopold Aschenbrenner's Situational Awareness LP disclosed 2,495,344 shares, about 119% more than the 1,140,119 shares reported in Q1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck",
+      "url": "https://finance.yahoo.com/markets/article/stocks-edge-up-as-nvidia-leads-tech-higher-following-hugging-face-deal-announcement-alphacheck-140448366.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-03",
+      "resumo": "Sector action on Thursday, Sept 3. \n\n \n\nTech stocks (XLK) rose as shares of Snowflake (SNOW) soared following a blowout quarter.  Chipmaker Broadcom (AVGO) stock, however, dropped following strong quarterly results, but its revenue forecast missed Wall Street estimates.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.02% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-002-4890004",
+      "fonte": "investing.com",
+      "data": "2026-09-04",
+      "resumo": "#### Popular Searches\n\n##### Please try another search\n\nU. S.  stocks close lower on increased Fed rate hike bets, end mixed for the week\n\nU.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "GoPro Is Now An AI Company—Sending Stock 40% Higher",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/09/01/gopro-becomes-the-next-company-announcing-ai-pivot-with-285-million-merger-deal",
+      "fonte": "forbes.com",
+      "data": "2026-09-02",
+      "resumo": "The iconic wearable camera manufacturer GoPro announced a $285 million merger deal with a company that produces optical equipment for AI infrastructure on.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Micron and Western Digital Shares Skyrocket, What You Need To Know",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-western-digital-shares-skyrocket-022210546.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-05",
+      "resumo": "The previous big move we wrote about was 11 days ago when the stock dropped 5. 5% on the news that investors trimmed chip exposure to reduce portfolio risk ahead of Nvidia's highly anticipated earnings report.  Semiconductor shares experienced widespread selling pressure as traders locked in profits ahead of Nvidia's second-quarter fiscal 2027 financial release.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Vertiv: Filter Out The Noise, This Is A Golden Opportunity",
+      "url": "https://seekingalpha.com/article/4942715-vertiv-filter-out-the-noise-this-is-a-golden-opportunity",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-03",
+      "resumo": "Bay Area Ideas\n\n5. 69K Followers\n\n## Summary\n\n After a significant pullback, Vertiv remains a buy due to robust AI infrastructure tailwinds and strategic capacity expansion. \n Q2 revenue growth decelerated due to temporary supply chain issues, but margin expansion and EPS outperformance signal core business strength.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "WDC Stock's Big Rally: Buy, Sell, or Hold After a 70% 6-Month Surge?",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wdc-stocks-big-rally-buy-144500359.html",
