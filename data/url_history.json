@@ -1,24 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-nvidia-earnings-boost-140031535.html": {
-    "hash": "c153a29f8b03fd96d5272ec296a4244d",
-    "visto_em": "2026-08-30"
-  },
-  "https://www.investing.com/indices/bovespa": {
-    "hash": "34a96a13c75cb70b6ea89d2b4780f043",
-    "visto_em": "2026-08-30"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stronger-analyst-focus-earnings-power-201323308.html": {
-    "hash": "4c7879869d8334dee7f93734fe763ca2",
-    "visto_em": "2026-08-30"
-  },
-  "https://finance.yahoo.com/real-estate/articles/digital-realty-trust-dlr-wins-101002674.html": {
-    "hash": "38113e3f8c684b70dd076a8278993bff",
-    "visto_em": "2026-08-30"
-  },
-  "https://www.investing.com/equities/brazil": {
-    "hash": "ef6159bdb329f7e5e4470d85ad549902",
-    "visto_em": "2026-08-30"
-  },
   "https://www.marketwatch.com/investing/stock/tsm": {
     "hash": "b0023e03a609823fc9b8be19a6fd1eab",
     "visto_em": "2026-08-31"
@@ -490,5 +470,45 @@
   "https://seekingalpha.com/article/4942715-vertiv-filter-out-the-noise-this-is-a-golden-opportunity": {
     "hash": "190a3b27608a8c06ed4dd44e5aa61223",
     "visto_em": "2026-09-06"
+  },
+  "https://www.investing.com/indices/bovespa": {
+    "hash": "34a96a13c75cb70b6ea89d2b4780f043",
+    "visto_em": "2026-09-07"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-surges-7-memory-190725560.html": {
+    "hash": "ff458e5f1b3582beb769264fbd5a6a94",
+    "visto_em": "2026-09-07"
+  },
+  "https://www.businessinsider.com/nvidia-ai-tech-stock-portfolio-equity-investments-spacex-intel-coreweave-2026-9": {
+    "hash": "e75aaca2362eb1eb9ec594c84c830767",
+    "visto_em": "2026-09-07"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-trade-133015485.html": {
+    "hash": "db75cba34e8567974e556af2053cfdf6",
+    "visto_em": "2026-09-07"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/artisan-trimmed-amd-amd-ai-131922170.html": {
+    "hash": "ed23fec655b2ae1e23398f43cd70b95e",
+    "visto_em": "2026-09-07"
+  },
+  "https://finance.yahoo.com/markets/article/these-ai-numbers-are-getting-crazy-123000121.html": {
+    "hash": "3bb005b38492e14c7f8ad162466d1597",
+    "visto_em": "2026-09-07"
+  },
+  "https://finance.yahoo.com/quote/EQIX": {
+    "hash": "eca03f41b8134ab5c978233933fb7c49",
+    "visto_em": "2026-09-07"
+  },
+  "https://www.marketwatch.com/story/nvidia-takes-back-control-of-the-ai-trade-as-big-tech-nears-record-highs-c0dfed9d": {
+    "hash": "4cd5f51030b1c0ca55aaf069c1feb844",
+    "visto_em": "2026-09-07"
+  },
+  "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-iphone-launch-to-be-negative-for-apple-stock-4890227": {
+    "hash": "4b9961b2a422b50e502649379d73e885",
+    "visto_em": "2026-09-07"
+  },
+  "https://www.investing.com/equities/totvs-on-ej-nm": {
+    "hash": "7be35df829ae1c8fa4ca702f07e10458",
+    "visto_em": "2026-09-07"
   }
 }

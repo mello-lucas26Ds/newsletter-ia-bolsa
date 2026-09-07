@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-07",
+    "total_noticias": 10,
+    "gerado_em": "2026-09-07T07:52:37.835744"
+  },
+  "noticias": [
+    {
+      "titulo": "Bovespa Index Today (IBOV) - Investing.com",
+      "url": "https://www.investing.com/indices/bovespa",
+      "fonte": "investing.com",
+      "data": "2026-09-04",
+      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| BRKM5  BRASKEM PNA | 4. 35+0. 13+3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "SK Hynix Surges 7% as Memory Bid Widens Beyond NAND; Seagate Rallies 5%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-surges-7-memory-190725560.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-05",
+      "resumo": "luchschenF / Shutterstock. com\n\n \n\nSK Hynix (NASDAQ:SKHY) stock is rallying 7% to $174. 38, providing a clean read on the high-bandwidth memory and DRAM curve tied to AI accelerators.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia Built $99 Billion Equity Portfolio in 2 Years Through ...",
+      "url": "https://www.businessinsider.com/nvidia-ai-tech-stock-portfolio-equity-investments-spacex-intel-coreweave-2026-9",
+      "fonte": "businessinsider.com",
+      "data": "2026-09-04",
+      "resumo": "The AI chipmaker, led by CEO Jensen Huang, held $99 billion in equity investments as of July 26, according to its latest earnings report. \n\nThat included roughly $48 billion in publicly traded stocks and other marketable securities, $48 billion in shares of private companies and other non-marketable securities, and $3 billion in equity-method investments. \n\nIts equity portfolio surged 14-fold in a year from about $7 billion last summer, and 45-fold from $2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Goldman Sachs Says the AI Trade Is Barely Started. The Stocks That Got You Here Will Not Take You There",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-trade-133015485.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-05",
+      "resumo": "24/7 Wall St. \n\n# Goldman Sachs Says the AI Trade Is Barely Started.  The Stocks That Got You Here Will Not Take You There\n\nOmor Ibne Ehsan\n\n6 min read\n\n PLTR\n\n  -3.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Artisan Trimmed AMD (AMD) After Its AI-Driven Surge",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/artisan-trimmed-amd-amd-ai-131922170.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-03",
+      "resumo": "Artisan Partners, an investment management company, released its second-quarter 2026 investor commentary for the \"Artisan Global Opportunities Strategy\".  The letter can bedownloaded here.  Global equities rebounded sharply during the quarter, with the MSCI ACWI Index returning 15.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "These AI numbers are getting crazy",
+      "url": "https://finance.yahoo.com/markets/article/these-ai-numbers-are-getting-crazy-123000121.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-06",
+      "resumo": "After hours: September 4 at 7:59:59 PM EDT\n\nAVGO HPE DELL \n\nThe upbeat AI message from Broadcom wasn't too different from what investors heard from Dell (DELL) and Nvidia (NVDA) recently. \n\nDell served up a revenue outlook that was $25 billion above estimates.  Nvidia said its sales may grow 70% in its next fiscal year.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/EQIX",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-08-31",
+      "resumo": "Equinix, Inc.  shortens the path to boundless connectivity anywhere in the world.  Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia takes back control of the AI trade as Big Tech nears record highs",
+      "url": "https://www.marketwatch.com/story/nvidia-takes-back-control-of-the-ai-trade-as-big-tech-nears-record-highs-c0dfed9d",
+      "fonte": "marketwatch.com",
+      "data": "2026-09-03",
+      "resumo": "Shares of Nvidia have outperformed a major semiconductor index over the past three months.  Photo: MarketWatch illustration/iStockphoto\n\n### Referenced Symbols\n\n   NVDA +0. 84% \n   MAGS -1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "5 big analyst AI moves: iPhone launch to be negative for Apple stock",
+      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-iphone-launch-to-be-negative-for-apple-stock-4890227",
+      "fonte": "investing.com",
+      "data": "2026-09-06",
+      "resumo": "Third-quarter results were in line with expectations, with revenue up 33% quarter-on-quarter to $29. 6 billion.  Gross profit margin slipped 2 percentage points to 75.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TOTVS ON Stock Price Today | BVMF: TOTS3 Live - Investing.com",
+      "url": "https://www.investing.com/equities/totvs-on-ej-nm",
+      "fonte": "investing.com",
+      "data": "2026-09-02",
+      "resumo": "Image 48 Image 49 \n\nBrazil stocks lower at close of trade; Bovespa down 0. 23%\nInvesting. com – Brazil stocks were lower after the close on Wednesday, as losses in the Consumption, Financials and Electric Power.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
