@@ -2,10 +2,52 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-07",
-    "total_noticias": 98,
-    "gerado_em": "2026-09-07T07:52:37.837556"
+    "total_noticias": 101,
+    "gerado_em": "2026-09-07T15:31:18.956847"
   },
   "noticias": [
+    {
+      "titulo": "SoundHound AI Completes Acquisition of LivePerson, Creating a World-Leading Omnichannel Conversational AI Powerhouse",
+      "url": "https://finance.yahoo.com/technology/ai/articles/soundhound-ai-completes-acquisition-liveperson-132600164.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-04",
+      "resumo": "\"This merger represents a defining moment for the new agentic AI era.  Together, we are delivering the most complete AI platform to the most comprehensive enterprise customer base in the industry,\" said Keyvan Mohajer, CEO and Co-Founder of SoundHound AI.  \"Now global brands have a single, unified engine to power intelligent customer interactions — scaling SoundHound's reach to serve every enterprise, on every channel, at an unprecedented level.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductors-market-value-225101856.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-06",
+      "resumo": "I'm not assuming investors pay more for each dollar of TSMC's earnings than they do today, either.  If the stock's price-to-earnings multiple simply holds steady, the share price should track earnings growth over time.  In other words, earnings compounding at about 14% a year through 2028 could arguably get the company there on its own.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "S&P Global conclui aquisição da datacenterHawk Por Investing.com",
+      "url": "https://br.investing.com/news/company-news/sp-global-conclui-aquisicao-da-datacenterhawk-93CH-2054483",
+      "fonte": "br.investing.com",
+      "data": "2026-09-01",
+      "resumo": "| Nome | Último | Var.  % | Vol.  |  |\n ---  --- \n| Petrobras PN | 46,87 | +4,11% | 49,63M |  |\n| Vale ON | 78,30 | +0,58% | 15,74M |  |\n| Itaú Unibanco PN | 39,88 | +0,96% | 27,00M |  |\n| B3 ON | 16,62 | +2,47% | 55,21M |  |\n| Bradesco PN | 17,40 | +1,22% | 45,87M |  |\n| BTG Pactual Unit | 55,97 | +2,30% | 14,18M |  |\n| Ambev ON | 15,17 | +0,93% | 49,27M |  |\n\n| Nome | Último | Var.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Bovespa Index Today (IBOV) - Investing.com",
       "url": "https://www.investing.com/indices/bovespa",
