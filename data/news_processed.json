@@ -2,10 +2,38 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-08",
-    "total_noticias": 102,
-    "gerado_em": "2026-09-08T07:47:48.195543"
+    "total_noticias": 104,
+    "gerado_em": "2026-09-08T14:10:00.615589"
   },
   "noticias": [
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company (TSM) Raises ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-142602670.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-07",
+      "resumo": "Most active \n       NVDA NVIDIA Corporation 230. 36+1. 91(+0.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Earnings Week Ahead: ORCL, ADBE, KR, GME, CHWY, and more",
+      "url": "https://seekingalpha.com/news/4640508-earnings-week-ahead-orcl-adbe-kr-gme-chwy-and-more",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-06",
+      "resumo": "## Quick Insights\n\n Investors are watching if Oracle can convert its large AI-driven backlog into reported revenue and accelerate growth while addressing capital intensity concerns. \n The focus is on Adobe's ability to maintain strong AI-driven annualized recurring revenue growth, successful AI monetization, and meet elevated expectations despite a leadership transition. \n Investors are looking for evidence that Kroger's investments in e-commerce and productivity will lead to stronger comparable sales, improved margins, and reach its annual guidance.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html",
