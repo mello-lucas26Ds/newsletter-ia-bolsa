@@ -1,11 +1,137 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-07",
-    "total_noticias": 101,
-    "gerado_em": "2026-09-07T15:31:18.956847"
+    "data": "2026-09-08",
+    "total_noticias": 102,
+    "gerado_em": "2026-09-08T07:47:48.195543"
   },
   "noticias": [
+    {
+      "titulo": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-07",
+      "resumo": "paced gains across technology stocks in August, with shares rising 51% as investors responded to strong second-quarter results and an upbeat full-year outlook. \n\nSalesforce (NYSE:CRM) followed with a 39. 95% advance, while Super Micro Computer (NASDAQ:SMCI) climbed 31.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Palantir Stock Could Make a Dramatic Move Over the Next Year (Hint: It Implies a Big Move)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-could-dramatic-move-134300329.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-07",
+      "resumo": "Motley Fool\n\n# Palantir Stock Could Make a Dramatic Move Over the Next Year (Hint: It Implies a Big Move)\n\nHarsh Chauhan, The Motley Fool\n\n4 min read\n\n PLTR\n\n  -4. 49%\n NVDA\n\n  +0. 84%\n\nPalantir Technologies (NASDAQ: PLTR) has made a parabolic move on the stock market lately, with shares of the company jumping 39% since Aug.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Buy These 5 Semiconductor Stocks as Sales Skyrocket on Solid AI ...",
+      "url": "https://finance.yahoo.com/technology/articles/buy-5-semiconductor-stocks-sales-123600819.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-07",
+      "resumo": "Most active \n       NVDA NVIDIA Corporation 230. 36+1. 91(+0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "What to Invest in for the Next 5 Years: My Prediction Is Boring, and That's the Point",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-next-5-years-prediction-162800328.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-07",
+      "resumo": "## Nvidia and Broadcom offered multiyear forecasts\n\nAI investors should carefully monitor Nvidia and Broadcom (NASDAQ: AVGO) when assessing how far the AI rally can go.  This has been true for years.  While I have been bullish about AI stocks for years, their recent results have increased my resolve.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Rises Nearly 3% as $265 Billion Becomes Taiwan's ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-rises-nearly-3-265-213735953.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-07",
+      "resumo": "Most active \n       NVDA NVIDIA Corporation 230. 36+1. 91(+0.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "After Nvidia's Blowout, The AI Trade's Next Leg Is One Layer Down (NYSEARCA:SPY)",
+      "url": "https://seekingalpha.com/article/4943573-after-nvidias-blowout-the-ai-trades-next-leg-is-one-layer-down",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-07",
+      "resumo": "corporate earnings, and financial statement analysis, aiming to provide actionable ideas for investors seeking to outperform the market.  [. ] The Alpha Analyst\n\n5.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Payrolls Put The Fed Back To Work",
+      "url": "https://seekingalpha.com/article/4943532-payrolls-put-fed-back-to-work",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-07",
+      "resumo": "REIT newsflow remained active as Blue Owl reportedly explored a data center REIT IPO, AHR and LTC expanded senior housing exposure, and dividend increases reached 67 versus 8 cuts. \n iREIT®+HOYA Capital members get exclusive access to our real-world portfolio.  See all our investments here » [.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Os dados dos EUA permitirão que o Fed mantenha a paciência?",
+      "url": "https://br.investing.com/news/economy-news/os-dados-dos-eua-permitirao-que-o-fed-mantenha-a-paciencia-2054229",
+      "fonte": "br.investing.com",
+      "data": "2026-09-01",
+      "resumo": "Exibir mais\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500. \n\nMelhores Ações Brasileiras\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nEmpresas Sólidas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nAções Defensivas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nAções Baratas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nTitãs da Tecnologia\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nVença o S&P 500 [. ] Petrobras PN\n           Vale ON\n           Usiminas PNA\n           Gerdau PN\n           Cemig PN\n           BRF ON\n           Itaúsa PN\n           Axia Energia Prf\n           Weg ON\n           Banco Pan PN\n           Nubank BDR\n           Prio ON\n           Méliuz ON\n           Banco do Brasil ON\n           Bradesco PN\n           Tesla BDR\n           Amazon.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Presidente do parlamento do Irã ameaça atacar empresas de energia dos EUA",
+      "url": "https://br.investing.com/news/economy-news/presidente-do-parlamento-do-ira-ameaca-atacar-empresas-de-energia-dos-eua-2058319",
+      "fonte": "br.investing.com",
+      "data": "2026-09-07",
+      "resumo": "Exibir mais\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500. \n\nMelhores Ações Brasileiras\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nEmpresas Sólidas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nAções Defensivas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nAções Baratas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nTitãs da Tecnologia\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nVença o S&P 500 [. ] Petrobras PN\n           Vale ON\n           Usiminas PNA\n           Gerdau PN\n           Cemig PN\n           BRF ON\n           Itaúsa PN\n           Axia Energia Prf\n           Weg ON\n           Banco Pan PN\n           Nubank BDR\n           Prio ON\n           Méliuz ON\n           Banco do Brasil ON\n           Bradesco PN\n           Tesla BDR\n           Amazon.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "SoundHound AI Completes Acquisition of LivePerson, Creating a World-Leading Omnichannel Conversational AI Powerhouse",
       "url": "https://finance.yahoo.com/technology/ai/articles/soundhound-ai-completes-acquisition-liveperson-132600164.html",
@@ -125,20 +251,6 @@
       "data": "2026-09-06",
       "resumo": "After hours: September 4 at 7:59:59 PM EDT\n\nAVGO HPE DELL \n\nThe upbeat AI message from Broadcom wasn't too different from what investors heard from Dell (DELL) and Nvidia (NVDA) recently. \n\nDell served up a revenue outlook that was $25 billion above estimates.  Nvidia said its sales may grow 70% in its next fiscal year.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/EQIX",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-31",
-      "resumo": "Equinix, Inc.  shortens the path to boundless connectivity anywhere in the world.  Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -377,20 +489,6 @@
       "data": "2026-09-03",
       "resumo": "Home page Seeking Alpha - Power to Investors\n\nSearch for Symbols, analysts, keywords\n\n# Zscaler's Q4 earnings reflect AI-driven demand as ARR pops up 25%\n\nSep 03, 2026, 4:25 PM ETZscaler, Inc.  (ZS) StockBy: Brandon Evans, SA News Editor\n\nMichael Vi/iStock Editorial via Getty Images\n\nZscaler (ZS) released its fourth-quarter fiscal 2027 earnings report post-market on Thursday, which featured a 25% year-over-year increase to annual recurring revenue. \n\n\"We delivered a strong fourth quarter, with revenue and ARR both growing 25% year over year, net new ARR growing 24%, and\n\nTo ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "SailPoint integra dados de identidade ao SIEM da CrowdStrike Por Investing.com",
-      "url": "https://br.investing.com/news/company-news/sailpoint-integra-dados-de-identidade-ao-siem-da-crowdstrike-93CH-2053248",
-      "fonte": "br.investing.com",
-      "data": "2026-08-31",
-      "resumo": "| Nome | Último | Var.  % | Vol.  |  |\n ---  --- \n| Casas Bahia ON | 0,63 | +57,50% | 24,44M |  |\n| Azevedo & Travassos ON | 5,32 | +29,44% | 1,65M |  |\n| GoPro BDR | 3,65 | +17,74% | 31,88mil |  |\n| CEG ON | 34,98 | +16,60% | 200,00 |  |\n| Fiagro High | 14,00 | +15,61% | 139,00 |  |\n| SJ AU Logistica FII | 1,80 | +14,65% | 266,00 |  |\n| GeoPark BDR | 57,70 | +12,92% | 106,00 |  |\n\n| Nome | Último | Var.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -685,20 +783,6 @@
       "data": "2026-09-03",
       "resumo": "# Latest Mergers & Acquisition News\n\n M&A\n AI Tech\n All News\n Biotech\n Budget & Regulation\n Buybacks\n Commodities\n Consumer\n Cryptocurrency\n Debt/Share Issuance\n Dividends - Funds\n Dividends - Stocks\n Earnings\n Earnings Calls Insights\n Electric Vehicles\n Energy\n Financials\n Global Macro\n Gold\n Graphical News\n Guidance\n Healthcare\n Interest Rates\n IPOs\n Jobs & Employment\n Magnificent 7\n Market Pulse\n MLPs\n Notable Calls\n Nuclear Power\n On The Move\n Politics\n Quizzes\n REITs\n SPACs\n Spotlight\n Tariffs\n Tech\n Top News\n Trending News\n U. S.  Economy\n War & Defense\n Weight Loss\n\n## News\n\n### PayPal pauses sale of venture capital portfolio arm - Axios Pro\n\nPYPL -3.",
       "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia's $3.5B MediaTek bet reveals its plan for tackling Big Tech's ...",
-      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
-      "fonte": "techcrunch.com",
-      "data": "2026-08-31",
-      "resumo": "Last week, Nvidia announced a similar partnership with Amazon Web Services, albeit without the direct investment.  AWS will deploy an additional 2 million Nvidia GPUs across its infrastructure, and also integrate NVLink Fusion. \n\nWith the Nvidia partnership, MediaTek can continue to build custom chips designed by cloud companies or AI labs tailored to their workloads, leveraging Nvidia’s “proven scale-up and scale-out technology stack and ecosystem” and “rack-scale architecture.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -1225,20 +1309,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "After a +187% return: A new list of AI picks for September is ...",
-      "url": "https://www.investing.com/news/stock-market-news/after-a-187-return-a-new-list-of-ai-picks-for-september-is-coming-very-soon-4882140",
-      "fonte": "investing.com",
-      "data": "2026-08-31",
-      "resumo": "How Investor Psychology Could Be Sabotaging Your Returns\n\nBy Lance Robert. \n\nAug 29, 2026\n\nImage 21\n\nImage 22\n\nAI Productivity: The Next Innovation Boom Has Yet to Arrive\n\nBy Michael Lebo. \n\nAug 29, 2026\n\nImage 23\n\nImage 24\n\nPoint of Control Trading: 4 Ways to Find Better Trades\n\nBy Kathy Lien\n\nAug 29, 2026\n\nMore News\n\nMarket Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Ibovespa chega à 10ª alta seguida, com Petrobras, Vale e ...",
       "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01092026",
       "fonte": "infomoney.com.br",
@@ -1337,48 +1407,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Bovespa Brazil 50 Stocks List & Companies",
-      "url": "https://in.investing.com/indices/brazil-index-50-components",
-      "fonte": "in.investing.com",
-      "data": "2026-08-31",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| McNally Bharat Engg Co Ltd | 223.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Software Stocks & ETFs: Is the AI Sell-Off Over?",
-      "url": "https://ca.finance.yahoo.com/news/software-stocks-etfs-ai-sell-205000363.html",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-08-31",
-      "resumo": "CrowdStrike (CRWD) : Free Stock Analysis Report\n\nPalantir Technologies Inc.  (PLTR) : Free Stock Analysis Report\n\nPalo Alto Networks, Inc.  (PANW) : Free Stock Analysis Report\n\nInvesco AI and Next Gen Software ETF (IGPT): ETF Research Reports\n\nThis article originally published on Zacks Investment Research (zacks.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Sector Update: Tech Stocks Edge Lower Monday Afternoon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-edge-lower-174108486.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-31",
-      "resumo": "49.    News • 7 days ago Tech stocks led the S&P 500 and Nasdaq lower after the opening bell [. ] 25.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "AIOS Tech: The AI Story Is Ahead Of The Business",
       "url": "https://seekingalpha.com/article/4941992-aios-tech-the-ai-story-is-ahead-of-the-business-sell",
       "fonte": "seekingalpha.com",
@@ -1399,20 +1427,6 @@
       "data": "2026-09-01",
       "resumo": "GuruFocus. com\n\n# Cathie Wood Drops $124 Million on AI Stocks, Dumps AMD\n\nMoz Farooque ACCA\n\n2 min read\n\n NVDA\n\n  +1. 48%\n AMD\n\n  +1.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Astera Labs Stock And 2 AI Data Center Picks From Founder Led Companies",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-stock-2-ai-043127920.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-08-31",
-      "resumo": "20.    News • 3 days ago The Nasdaq led markets higher as Nvidia renewed AI optimism and software stocks roared back\n21.    News • 3 days ago Nvidia is banking on some of the AI labs it does business with becoming the largest tech companies in history\n22.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"

@@ -1,28 +1,4 @@
 {
-  "https://www.marketwatch.com/investing/stock/tsm": {
-    "hash": "b0023e03a609823fc9b8be19a6fd1eab",
-    "visto_em": "2026-08-31"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/astera-labs-stock-2-ai-043127920.html": {
-    "hash": "b0e885e097752842bc1e8514ecb6be1c",
-    "visto_em": "2026-08-31"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-adrs-jump-2-nvidia-170617812.html": {
-    "hash": "24e736b9737356e34d38897e8fd19576",
-    "visto_em": "2026-08-31"
-  },
-  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-031-5574891": {
-    "hash": "7e6a487a3846d665e008443d24a36993",
-    "visto_em": "2026-08-31"
-  },
-  "https://www.marketwatch.com/investing/stock/dlr": {
-    "hash": "263a1a06782c5418fcc09aef49302c37",
-    "visto_em": "2026-08-31"
-  },
-  "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-beat-expectations-earnings-jackson-hole-marvell-results?eafs_enabled=false": {
-    "hash": "a8c25e7d350cb011ef71811f8877a1ec",
-    "visto_em": "2026-08-31"
-  },
   "https://finance.yahoo.com/quote/DLR": {
     "hash": "7936d4bed0b34fd44f241f95b68b7db4",
     "visto_em": "2026-09-01"
@@ -522,5 +498,41 @@
   "https://br.investing.com/news/company-news/sp-global-conclui-aquisicao-da-datacenterhawk-93CH-2054483": {
     "hash": "5e4acb566f44d6a26ee89082d7cee7bd",
     "visto_em": "2026-09-07"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html": {
+    "hash": "20730cf2d10e228e77b7cfedce9329af",
+    "visto_em": "2026-09-08"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-could-dramatic-move-134300329.html": {
+    "hash": "aa7e4e4fcf3dd2c23865bbd3f9bae63d",
+    "visto_em": "2026-09-08"
+  },
+  "https://finance.yahoo.com/technology/articles/buy-5-semiconductor-stocks-sales-123600819.html": {
+    "hash": "43a81e85f65652b0f250e3ce4eeabb5d",
+    "visto_em": "2026-09-08"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/invest-next-5-years-prediction-162800328.html": {
+    "hash": "a5f490e9f9707fdae40b24539076a696",
+    "visto_em": "2026-09-08"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-rises-nearly-3-265-213735953.html": {
+    "hash": "43a81e85f65652b0f250e3ce4eeabb5d",
+    "visto_em": "2026-09-08"
+  },
+  "https://seekingalpha.com/article/4943573-after-nvidias-blowout-the-ai-trades-next-leg-is-one-layer-down": {
+    "hash": "e80322164210caa29c5cf0ebc84fbd2a",
+    "visto_em": "2026-09-08"
+  },
+  "https://seekingalpha.com/article/4943532-payrolls-put-fed-back-to-work": {
+    "hash": "e79364ee53d1202d9bee6fa69bc92610",
+    "visto_em": "2026-09-08"
+  },
+  "https://br.investing.com/news/economy-news/os-dados-dos-eua-permitirao-que-o-fed-mantenha-a-paciencia-2054229": {
+    "hash": "4a3f96494d86dc33072324c5d0eddb1a",
+    "visto_em": "2026-09-08"
+  },
+  "https://br.investing.com/news/economy-news/presidente-do-parlamento-do-ira-ameaca-atacar-empresas-de-energia-dos-eua-2058319": {
+    "hash": "4a3f96494d86dc33072324c5d0eddb1a",
+    "visto_em": "2026-09-08"
   }
 }
