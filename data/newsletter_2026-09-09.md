@@ -1,208 +1,180 @@
 # Newsletter IA Bolsa — 2026-09-09
 
-**Gerado em:** 09/09/2026 07:50
+**Gerado em:** 09/09/2026 14:11
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. AI infrastructure stocks rally on deal announcements from Qualcomm, Corning - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Corning and Qualcomm rallied on Tuesday and brought a host of AI-related stocks along with them, as a pair of infrastructure deals lifted Wall Street's confidence that data center spending will remain strong. 
-
-Chipmakers Intel and Advanced Micro Devices gained 9% and 6% respectively, while Hewlett Packard Enterprise climbed 8% and photonics company Coherent added 7%. 
-
-All of those companies have been massive winners for investors this year, with HPE and AMD more than doubling in value and Intel almost tripling, as the artificial infrastructure buildout expands to companies beyond Nvidia.
-
-[Ler noticia completa](https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html)
-
----
-
-## 2. Equinix Is Doubling Down on AI Data Centers. How to Play EQIX Stock Here
+## 1. KIC Realty Announces Merger with AI Technology Company Brewpilot
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## About Equinix Stock
-
-When it comes to the infrastructure behind today's digital economy, Equinix is one of the biggest names to know.  Headquartered in Redwood City, California, the company operates data centers around the world where businesses house their critical IT infrastructure and connect directly with cloud providers, networks, content providers, and other digital services.  Equinix operates as a real estate investment trust (REIT), generating revenue primarily from data center colocation, interconnection, and related digital infrastructure services.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/equinix-doubling-down-ai-data-183002468.html)
-
----
-
-## 3. These dividend stocks could catch a tailwind from data center ...
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-"Amid political and community push-back, while new projects could see delay, it could be a positive for existing projects/DC [data center] REITs which have pricing power driven by continuously expanding compute demand," Mizuho analyst Vikram Malhotra said in a Sept.  1 note. 
-
-Data center REITs make up 13% of the total U.
-
-[Ler noticia completa](https://www.cnbc.com/2026/09/08/these-dividend-stocks-could-catch-a-tailwind-from-data-center-pushback.html)
-
----
-
-## 4. Top Wall Street analysts like these 3 stocks for the long haul - cnbc.com
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Semiconductor giant Nvidia (NVDA) reported stellar fiscal second-quarter results and reassured investors about continued strength in AI-driven demand for its chips.  Moreover, Nvidia's FY28 revenue growth outlook of 70% was well above the Street's expectations. 
-
-Reacting to the Q2 print, Morgan Stanley analyst Joseph Moore reiterated a buy rating on NVDA and increased his price target to $300 from $288.
-
-[Ler noticia completa](https://www.cnbc.com/2026/09/07/top-wall-street-analysts-like-these-3-stocks-for-the-long-haul.html)
-
----
-
-## 5. Santoli: One key tech ETF may signal whether this bull market can keep marching on - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-And the growing, rational unease with the pace and sustainability of the AI-investment supercycle found little tangible support throughout earnings season, with the "spenders" upping capex projections and the "vendors" raising guidance, all the way through Dell and Broadcom last week. 
-
-Higher yields not all bad. 
-
-Of course, both these dynamics – solid economic growth and unceasing AI capex intentions – are feeding what remains a key anxiety and preoccupation of investors: Rising bond yields.
-
-[Ler noticia completa](https://www.cnbc.com/2026/09/08/santoli-one-key-tech-etf-may-signal-whether-this-bull-market-can-keep-marching-on.html)
-
----
-
-## 6. 6 Data Center Stocks, REITs And ETFs To Buy Now - Forbes
-
-**Fonte:** forbes.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-REIT $99. 7 billion 1. 99% Price (9/2/26): $337.
+"KIC already has something most technology companies spend years trying to build: a live brokerage with real agents, real transactions and real day to day feedback.  That's a rare foundation to build AI products on.  Our focus is shipping tools that take real work off agents' plates: software that does the job, not another dashboard to manage.
 
-[Ler noticia completa](https://www.forbes.com/sites/investor-hub/article/best-data-center-stocks-reits-etfs-buy-now)
+[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/kic-realty-announces-merger-ai-150100179.html)
 
 ---
 
-## 7. Cramer says these 2 stocks are big winners from OpenAI's new model release - CNBC
+## 2. Broadcom: Recent Earnings Confirm Why It's The AI Stock I Trust The Least (NASDAQ:AVGO) - Seeking Alpha
+
+**Fonte:** seekingalpha.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Cavenagh Research
+
+9. 95K Followers
+
+## Summary
+
+ Broadcom earns a Sell rating at ~$393 due to AI-driven growth masking deteriorating revenue quality and rising margin risk. 
+ AI semiconductor revenue is booming, but customer concentration, lower-margin custom silicon, and aggressive commercial terms are compressing gross margins.
+
+[Ler noticia completa](https://seekingalpha.com/article/4943682-broadcom-stock-recent-earnings-confirm-why-its-the-ai-stock-i-trust-least)
+
+---
+
+## 3. Cegid and Silae Join Forces to Create a European Leader in AI-Driven Business Technology
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+By combining forces, the two companies will be able to scale up their investment in research and development even further -- at a critical time in the technology industry given the emergence of AI -- and assemble one of the largest developer teams in Europe (1,400 strong) to build tomorrow's leading-edge products for business customers. 
+
+In connection with the planned merger, Christian Pedersen has been appointed CEO of Cegid and in that role will lead the integration of Cegid and Silae's activities, spearhead deployment of the joint offering, and serve as CEO of the combined group.  Pedersen joins Cegid from IFS, a leading global provider of AI software.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/articles/cegid-silae-join-forces-create-103200443.html)
+
+---
+
+## 4. This data center stock is up over 1000% in the last five years. Trader Mike Khouw sees more gains - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+In this article
+
+The great Jim Cramer is often found of saying, "It doesn't matter where a stock has been, only where it's going. " It's fantastic advice, and worth remembering when looking at shares of Vertiv Holdings.  [.
+
+[Ler noticia completa](https://www.cnbc.com/2026/09/08/this-data-center-stock-is-up-over-1000percent-in-the-last-five-years-trader-mike-khouw-sees-more-gains.html)
+
+---
+
+## 5. Stocks making the biggest moves premarket: Peloton Interactive, Roivant Sciences, Boston Scientific & more - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-computing power and data centers have made investors quite sensitive to the AI lab's perceived standing in the artificial intelligence race — the belief is that OpenAI needs to stay at the frontier in order to pay all its future bills.  "The launch of Astra shows OpenAI is so back," wrote Ben Reitzes of Melius Research, in a note to clients Tuesday.  "Astra is worth dwelling on not only because it was trained on Nvidia Blackwells, but because it should start to dawn on people that OpenAI's repositioning around coding and enterprise has clearly improved its chances for a successful IPO in 2027.
+— Shares slid more than 4% after a Morgan Stanley downgrade to underweight from equal weight.  "PTON is facing structural headwinds in fitness," Morgan Stanley said.  Boston Scientific — The medical device maker slipped more than 2% after the company said a recent cyberattack likely impacted sales and profit targets for 2026.
 
-[Ler noticia completa](https://www.cnbc.com/2026/09/08/cramer-says-these-2-stocks-are-big-winners-from-openais-new-model-release-.html)
+[Ler noticia completa](https://www.cnbc.com/2026/09/08/stocks-making-the-biggest-moves-premarket-pton-roiv-bsx.html)
 
 ---
 
-## 8. MSFT34 - Microsoft BDR | Cotação Hoje - Investing.com
+## 6. SK hynix Vs. Micron: 'This Time Is Different' (NASDAQ:SKHY) - Seeking Alpha
 
-**Fonte:** br.investing.com  
-**Sentimento:** 🟢 BULLISH  
+**Fonte:** seekingalpha.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-| Nome | Último | Potencial Alta | Preço-Justo |
- ---  --- |
-| A Aaaaaaaaaa | 17,19 | +62,04% | 27,85 |
-| Aaaaa Aa | 4,62 | +56,54% | 7,23 |
-| Aaaaaa Aa Aaaaaaaa | 14,44 | +49,49% | 21,59 |
-| Aaa Aaaa | 3,52 | +47,78% | 5,20 |
-| Aaaaaa Aaaaaaaaaaaa | 10,85 | +46,40% | 15,88 |
-| Aaaaaaaaaa Aa A Aa | 3,86 | +45,21% | 5,61 |
-| Aaaaa Aaaaa Aaaa | 20,63 | +44,39% | 29,79 |
-Ver lista completa
+main thing I look for in my shorts, is the exact opposite: deteriorating fundamentals, margin compression, shrinking TAM and valuation disconnect.  I also manage a long term, long-only portfolio.  There, dividend growth, cash generation, sensible valuation and MOAT defensibility are the main focus.
 
-Anúncio
-
-ProPicks IA
-
-Seleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500. 
-
-Melhores Ações Brasileiras
-
-Ações nesta estratégia
-
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-Desbloquear estratégia
-
-Empresas Sólidas do Brasil
-
-Ações nesta estratégia
-
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-Desbloquear estratégia
-
-Ações Defensivas do Brasil [. ] Petrobras PN
-           Vale ON
-           Usiminas PNA
-           Gerdau PN
-           Cemig PN
-           BRF ON
-           Itaúsa PN
-           Axia Energia Prf
-           Weg ON
-           Banco Pan PN
-           Nubank BDR
-           Prio ON
-           Méliuz ON
-           Banco do Brasil ON
-           Bradesco PN
-           Tesla BDR
-           Amazon.
-
-[Ler noticia completa](https://br.investing.com/equities/microsoft-corp-bdr)
+[Ler noticia completa](https://seekingalpha.com/article/4943973-sk-hynix-vs-micron-this-time-is-different)
 
 ---
 
-## 9. Three pieces of advice HSBC has for AI investors - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-rising, HSBC noted.  "We are seeing signs that most of the selling pressure has now subsided," the bank said, adding that this should help reduce volatility, lower the cost of equity and support valuations throughout the sector.  Tech stocks have been seeing heightened volatility in recent months, with South Korea's semiconductor-heavy market whipsawing between steep losses and record gains.
-
-[Ler noticia completa](https://www.cnbc.com/2026/09/09/three-pieces-of-advice-hsbc-has-for-ai-investors.html)
-
----
-
-## 10. NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?
+## 7. Adobe Inc. (ADBE) Acquires Rilo to Accelerate Agentic AI — What It Means for Investors
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The Helios platform has already garnered multiple large deals from big tech companies.  Anthropic plans to deploy up to 2 gigawatts of MI450-series GPUs using the AMD Helios rack-scale platform, with the first gigawatt beginning in the first half of 2027.  Microsoft plans to deploy Helios at scale on Azure.
+Insider Monkey
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/nvidias-hugging-face-buyout-further-130200882.html)
+# Adobe Inc.  (ADBE) Acquires Rilo to Accelerate Agentic AI — What It Means for Investors
+
+Neha Gupta
+
+4 min read
+
+ ADBE
+
+  -6. 73%
+
+Adobe Inc.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/adobe-inc-adbe-acquires-rilo-150728839.html)
+
+---
+
+## 8. Anthropic ends talks on potential $6bn acquisition of Decart AI
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Verdict
+
+# Anthropic ends talks on potential $6bn acquisition of Decart AI
+
+Anwesha Pattanaik
+
+2 min read
+
+Anthropic has decided not to proceed with the acquisition of frontier AI lab Decart AI, reported Bloomberg, citing people familiar with the matter. 
+
+The potential deal, which would have valued Decart AI at around $6bn, was reportedly under discussion last month, but has not moved forward. 
+
+Individuals with knowledge of the negotiations said Anthropic had conducted due diligence on Decart AI before ultimately walking away.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/anthropic-ends-talks-potential-6bn-113759986.html)
+
+---
+
+## 9. The yen is surging. Here's how it could hit portfolios around the world - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+"When investors have to sell in a hurry to cover a currency bet gone wrong, they sell whatever they hold, and that can mean stocks, bonds and funds that ordinary savers are invested in too, often through their pension or their workplace retirement plan," said Nigel Green, CEO of deVere Group, a financial advisory firm, on Tuesday. 
+
+That is how a sharp move in the yen can ripple into the portfolios of investors who have never traded the currency. 
+
+1.
+
+[Ler noticia completa](https://www.businessinsider.com/dollar-yen-usd-jpy-japan-carry-trade-unwind-portfolio-impact-2026-9)
+
+---
+
+## 10. AI Startup Cognition Raises $2 Billion at a $48 Billion Value - Bloomberg.com
+
+**Fonte:** bloomberg.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+HomeBTV+Market DataOpinionAudioOriginalsMagazineEvents
+
+Subscribe now for unlimited access to Bloomberg. com and the Bloomberg app
+
+Global news that uncovers a new tomorrow.  Cancel anytime.
+
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value)
 
 ---
