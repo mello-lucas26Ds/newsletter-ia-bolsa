@@ -1,76 +1,4 @@
 {
-  "https://finance.yahoo.com/quote/DLR": {
-    "hash": "7936d4bed0b34fd44f241f95b68b7db4",
-    "visto_em": "2026-09-01"
-  },
-  "https://ca.finance.yahoo.com/news/software-stocks-etfs-ai-sell-205000363.html": {
-    "hash": "ad038acc8478988df90f93eedc70a9bb",
-    "visto_em": "2026-09-01"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-edge-lower-174108486.html": {
-    "hash": "4096a9d700ba8f700c80528a3310ab33",
-    "visto_em": "2026-09-01"
-  },
-  "https://seekingalpha.com/article/4941992-aios-tech-the-ai-story-is-ahead-of-the-business-sell": {
-    "hash": "abde37ed5990ff940bcd4c3e3a41777f",
-    "visto_em": "2026-09-01"
-  },
-  "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets": {
-    "hash": "49a48040d7a0e5901cfbe2b339bb631a",
-    "visto_em": "2026-09-01"
-  },
-  "https://seekingalpha.com/article/4939432-realty-income-stay-for-5-percent-yield-wait-for-ai-benefits-to-pay-off": {
-    "hash": "06f02cc06b188ca8d6ffc4ac0a242a7d",
-    "visto_em": "2026-09-01"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-amd-semiconductor-173500352.html": {
-    "hash": "11e7641d1471f5867f0147c7b23add99",
-    "visto_em": "2026-09-01"
-  },
-  "https://www.bloomberg.com/news/articles/2026-08-26/nasdaq-futures-rise-on-bullish-nvidia-sales-growth-markets-wrap": {
-    "hash": "ddfe81d957fccba57fecbc594ae408e8",
-    "visto_em": "2026-09-01"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/cathie-wood-drops-124-million-014651640.html": {
-    "hash": "a2053afe5be668de472787e002dd9b80",
-    "visto_em": "2026-09-01"
-  },
-  "https://ca.finance.yahoo.com/news/ai-powered-wealth-management-solution-080800839.html": {
-    "hash": "d2738a63f3a984ce98e5d06cfc15cdf9",
-    "visto_em": "2026-09-01"
-  },
-  "https://www.reuters.com/business/sp-500-nasdaq-futures-slip-after-tech-rally-warshs-speech-awaited-2026-08-28": {
-    "hash": "9a46f9bb365db57ea662d40e6e30e763",
-    "visto_em": "2026-09-01"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-001-4877885": {
-    "hash": "3767bb6d803100cd969ea703e19a6204",
-    "visto_em": "2026-09-01"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/digital-realty-trust-dlr-wins-043728170.html": {
-    "hash": "944a8c060ca89617749c98b45a770a45",
-    "visto_em": "2026-09-01"
-  },
-  "https://in.investing.com/indices/brazil-index-50-components": {
-    "hash": "6a7b48edaabb97ae0cfb3b14dcafdf4b",
-    "visto_em": "2026-09-01"
-  },
-  "https://www.reuters.com/business/finance/anthropic-planned-then-abandoned-7-billion-purchase-matx-sources-say-2026-08-27": {
-    "hash": "ebe7bcb4302c3615a4d9dea2ed09778d",
-    "visto_em": "2026-09-01"
-  },
-  "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html": {
-    "hash": "b26bc775ec584f36a441c09bdae29056",
-    "visto_em": "2026-09-01"
-  },
-  "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-030-4852073": {
-    "hash": "131c83fe8ff2756ecef22d7d98a8274d",
-    "visto_em": "2026-09-01"
-  },
-  "https://www.investing.com/analysis/nvidias-quarter-was-bigger-than-tsmcs-entire-year--investors-may-still-be-under-200686647": {
-    "hash": "9c7079e50add6564c9fc6a18d688235d",
-    "visto_em": "2026-09-01"
-  },
   "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01092026": {
     "hash": "d97615fa65141cb38028885e78cbd4b3",
     "visto_em": "2026-09-02"
@@ -542,5 +470,45 @@
   "https://seekingalpha.com/news/4640508-earnings-week-ahead-orcl-adbe-kr-gme-chwy-and-more": {
     "hash": "8c8f7b4e275c1c5df7415ea12f6ff4a5",
     "visto_em": "2026-09-08"
+  },
+  "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html": {
+    "hash": "fbe38b75914d115b642092fdbd10513a",
+    "visto_em": "2026-09-09"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/equinix-doubling-down-ai-data-183002468.html": {
+    "hash": "d10f9c93f79bab38ed696145b6c9cb95",
+    "visto_em": "2026-09-09"
+  },
+  "https://www.cnbc.com/2026/09/08/these-dividend-stocks-could-catch-a-tailwind-from-data-center-pushback.html": {
+    "hash": "bd3f94beceb4d75b3f0eb4c03f4a3e98",
+    "visto_em": "2026-09-09"
+  },
+  "https://www.cnbc.com/2026/09/07/top-wall-street-analysts-like-these-3-stocks-for-the-long-haul.html": {
+    "hash": "98d29dfa810e9c8e85e826a602009579",
+    "visto_em": "2026-09-09"
+  },
+  "https://www.cnbc.com/2026/09/08/santoli-one-key-tech-etf-may-signal-whether-this-bull-market-can-keep-marching-on.html": {
+    "hash": "021ca98d593d33225cd91dcd5b8d7f53",
+    "visto_em": "2026-09-09"
+  },
+  "https://www.forbes.com/sites/investor-hub/article/best-data-center-stocks-reits-etfs-buy-now": {
+    "hash": "db98ec1fa8f048a5405175a729ac23ee",
+    "visto_em": "2026-09-09"
+  },
+  "https://www.cnbc.com/2026/09/08/cramer-says-these-2-stocks-are-big-winners-from-openais-new-model-release-.html": {
+    "hash": "d8e94adc67f453606ff260f1df03f909",
+    "visto_em": "2026-09-09"
+  },
+  "https://br.investing.com/equities/microsoft-corp-bdr": {
+    "hash": "2bbfaae7e16059a73e012a68d054ffc4",
+    "visto_em": "2026-09-09"
+  },
+  "https://www.cnbc.com/2026/09/09/three-pieces-of-advice-hsbc-has-for-ai-investors.html": {
+    "hash": "df5fa66dccf6bddf462bc8c662abe40f",
+    "visto_em": "2026-09-09"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/nvidias-hugging-face-buyout-further-130200882.html": {
+    "hash": "04ceab9d2b54e333213bf34d68806d65",
+    "visto_em": "2026-09-09"
   }
 }

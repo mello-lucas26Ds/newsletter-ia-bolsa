@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-08",
-    "total_noticias": 104,
-    "gerado_em": "2026-09-08T14:10:00.615589"
+    "data": "2026-09-09",
+    "total_noticias": 95,
+    "gerado_em": "2026-09-09T07:50:56.331297"
   },
   "noticias": [
+    {
+      "titulo": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning - CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-08",
+      "resumo": "Corning and Qualcomm rallied on Tuesday and brought a host of AI-related stocks along with them, as a pair of infrastructure deals lifted Wall Street's confidence that data center spending will remain strong. \n\nChipmakers Intel and Advanced Micro Devices gained 9% and 6% respectively, while Hewlett Packard Enterprise climbed 8% and photonics company Coherent added 7%. \n\nAll of those companies have been massive winners for investors this year, with HPE and AMD more than doubling in value and Intel almost tripling, as the artificial infrastructure buildout expands to companies beyond Nvidia.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Equinix Is Doubling Down on AI Data Centers. How to Play EQIX Stock Here",
+      "url": "https://finance.yahoo.com/technology/ai/articles/equinix-doubling-down-ai-data-183002468.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-06",
+      "resumo": "## About Equinix Stock\n\nWhen it comes to the infrastructure behind today's digital economy, Equinix is one of the biggest names to know.  Headquartered in Redwood City, California, the company operates data centers around the world where businesses house their critical IT infrastructure and connect directly with cloud providers, networks, content providers, and other digital services.  Equinix operates as a real estate investment trust (REIT), generating revenue primarily from data center colocation, interconnection, and related digital infrastructure services.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "These dividend stocks could catch a tailwind from data center ...",
+      "url": "https://www.cnbc.com/2026/09/08/these-dividend-stocks-could-catch-a-tailwind-from-data-center-pushback.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-08",
+      "resumo": "\"Amid political and community push-back, while new projects could see delay, it could be a positive for existing projects/DC [data center] REITs which have pricing power driven by continuously expanding compute demand,\" Mizuho analyst Vikram Malhotra said in a Sept.  1 note. \n\nData center REITs make up 13% of the total U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Top Wall Street analysts like these 3 stocks for the long haul - cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/07/top-wall-street-analysts-like-these-3-stocks-for-the-long-haul.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-07",
+      "resumo": "Semiconductor giant Nvidia (NVDA) reported stellar fiscal second-quarter results and reassured investors about continued strength in AI-driven demand for its chips.  Moreover, Nvidia's FY28 revenue growth outlook of 70% was well above the Street's expectations. \n\nReacting to the Q2 print, Morgan Stanley analyst Joseph Moore reiterated a buy rating on NVDA and increased his price target to $300 from $288.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Santoli: One key tech ETF may signal whether this bull market can keep marching on - CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/santoli-one-key-tech-etf-may-signal-whether-this-bull-market-can-keep-marching-on.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-08",
+      "resumo": "And the growing, rational unease with the pace and sustainability of the AI-investment supercycle found little tangible support throughout earnings season, with the \"spenders\" upping capex projections and the \"vendors\" raising guidance, all the way through Dell and Broadcom last week. \n\nHigher yields not all bad. \n\nOf course, both these dynamics – solid economic growth and unceasing AI capex intentions – are feeding what remains a key anxiety and preoccupation of investors: Rising bond yields.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "6 Data Center Stocks, REITs And ETFs To Buy Now - Forbes",
+      "url": "https://www.forbes.com/sites/investor-hub/article/best-data-center-stocks-reits-etfs-buy-now",
+      "fonte": "forbes.com",
+      "data": "2026-09-07",
+      "resumo": "REIT $99. 7 billion 1. 99% Price (9/2/26): $337.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cramer says these 2 stocks are big winners from OpenAI's new model release - CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/cramer-says-these-2-stocks-are-big-winners-from-openais-new-model-release-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-08",
+      "resumo": "computing power and data centers have made investors quite sensitive to the AI lab's perceived standing in the artificial intelligence race — the belief is that OpenAI needs to stay at the frontier in order to pay all its future bills.  \"The launch of Astra shows OpenAI is so back,\" wrote Ben Reitzes of Melius Research, in a note to clients Tuesday.  \"Astra is worth dwelling on not only because it was trained on Nvidia Blackwells, but because it should start to dawn on people that OpenAI's repositioning around coding and enterprise has clearly improved its chances for a successful IPO in 2027.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "MSFT34 - Microsoft BDR | Cotação Hoje - Investing.com",
+      "url": "https://br.investing.com/equities/microsoft-corp-bdr",
+      "fonte": "br.investing.com",
+      "data": "2026-09-08",
+      "resumo": "| Nome | Último | Potencial Alta | Preço-Justo |\n ---  --- |\n| A Aaaaaaaaaa | 17,19 | +62,04% | 27,85 |\n| Aaaaa Aa | 4,62 | +56,54% | 7,23 |\n| Aaaaaa Aa Aaaaaaaa | 14,44 | +49,49% | 21,59 |\n| Aaa Aaaa | 3,52 | +47,78% | 5,20 |\n| Aaaaaa Aaaaaaaaaaaa | 10,85 | +46,40% | 15,88 |\n| Aaaaaaaaaa Aa A Aa | 3,86 | +45,21% | 5,61 |\n| Aaaaa Aaaaa Aaaa | 20,63 | +44,39% | 29,79 |\nVer lista completa\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500. \n\nMelhores Ações Brasileiras\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nEmpresas Sólidas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nAções Defensivas do Brasil [. ] Petrobras PN\n           Vale ON\n           Usiminas PNA\n           Gerdau PN\n           Cemig PN\n           BRF ON\n           Itaúsa PN\n           Axia Energia Prf\n           Weg ON\n           Banco Pan PN\n           Nubank BDR\n           Prio ON\n           Méliuz ON\n           Banco do Brasil ON\n           Bradesco PN\n           Tesla BDR\n           Amazon.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Three pieces of advice HSBC has for AI investors - CNBC",
+      "url": "https://www.cnbc.com/2026/09/09/three-pieces-of-advice-hsbc-has-for-ai-investors.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-09",
+      "resumo": "rising, HSBC noted.  \"We are seeing signs that most of the selling pressure has now subsided,\" the bank said, adding that this should help reduce volatility, lower the cost of equity and support valuations throughout the sector.  Tech stocks have been seeing heightened volatility in recent months, with South Korea's semiconductor-heavy market whipsawing between steep losses and record gains.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-hugging-face-buyout-further-130200882.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-07",
+      "resumo": "The Helios platform has already garnered multiple large deals from big tech companies.  Anthropic plans to deploy up to 2 gigawatts of MI450-series GPUs using the AMD Helios rack-scale platform, with the first gigawatt beginning in the first half of 2027.  Microsoft plans to deploy Helios at scale on Azure.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Taiwan Semiconductor Manufacturing Company (TSM) Raises ...",
       "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-142602670.html",
@@ -133,20 +273,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Os dados dos EUA permitirão que o Fed mantenha a paciência?",
-      "url": "https://br.investing.com/news/economy-news/os-dados-dos-eua-permitirao-que-o-fed-mantenha-a-paciencia-2054229",
-      "fonte": "br.investing.com",
-      "data": "2026-09-01",
-      "resumo": "Exibir mais\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500. \n\nMelhores Ações Brasileiras\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nEmpresas Sólidas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nAções Defensivas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nAções Baratas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nTitãs da Tecnologia\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nVença o S&P 500 [. ] Petrobras PN\n           Vale ON\n           Usiminas PNA\n           Gerdau PN\n           Cemig PN\n           BRF ON\n           Itaúsa PN\n           Axia Energia Prf\n           Weg ON\n           Banco Pan PN\n           Nubank BDR\n           Prio ON\n           Méliuz ON\n           Banco do Brasil ON\n           Bradesco PN\n           Tesla BDR\n           Amazon.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Presidente do parlamento do Irã ameaça atacar empresas de energia dos EUA",
       "url": "https://br.investing.com/news/economy-news/presidente-do-parlamento-do-ira-ameaca-atacar-empresas-de-energia-dos-eua-2058319",
       "fonte": "br.investing.com",
@@ -180,20 +306,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-09-06",
       "resumo": "I'm not assuming investors pay more for each dollar of TSMC's earnings than they do today, either.  If the stock's price-to-earnings multiple simply holds steady, the share price should track earnings growth over time.  In other words, earnings compounding at about 14% a year through 2028 could arguably get the company there on its own.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "S&P Global conclui aquisição da datacenterHawk Por Investing.com",
-      "url": "https://br.investing.com/news/company-news/sp-global-conclui-aquisicao-da-datacenterhawk-93CH-2054483",
-      "fonte": "br.investing.com",
-      "data": "2026-09-01",
-      "resumo": "| Nome | Último | Var.  % | Vol.  |  |\n ---  --- \n| Petrobras PN | 46,87 | +4,11% | 49,63M |  |\n| Vale ON | 78,30 | +0,58% | 15,74M |  |\n| Itaú Unibanco PN | 39,88 | +0,96% | 27,00M |  |\n| B3 ON | 16,62 | +2,47% | 55,21M |  |\n| Bradesco PN | 17,40 | +1,22% | 45,87M |  |\n| BTG Pactual Unit | 55,97 | +2,30% | 14,18M |  |\n| Ambev ON | 15,17 | +0,93% | 49,27M |  |\n\n| Nome | Último | Var.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -525,20 +637,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TSMC's $269 Billion Expansion Puts Its 67.7% Margin in Focus",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-269-billion-expansion-puts-170918317.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-01",
-      "resumo": "2.  Most shorted\n      3.  Most active penny stocks\n      4.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Stock Market Today, Sept. 2: Dell Helps Stocks Edge Higher Despite Geopolitical Tensions",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-2-213113460.html",
       "fonte": "finance.yahoo.com",
@@ -615,20 +713,6 @@
       "data": "2026-09-04",
       "resumo": "TSMC's 67. 7% Margin Now Needs Twice the Cleaning Chemistry ·us. finance.",
       "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Company (TSM) Limited Continues to Deliver Stellar Financial Results",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-131831930.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-01",
-      "resumo": "> \"Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is the world's largest contract chipmaker and the leading manufacturer of advanced logic semiconductors used in modern AI accelerators.  Shares rose 41. 6% during the quarter as the company continues to report stellar financial results underpinned by AI demand with revenue growth of 35% year-on-year and EPS growth of 58%, with 66% gross margins and 58% operating margins.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -754,34 +838,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-09-04",
       "resumo": "GuruFocus. com\n\n# Palantir Stock Jumps on Expanded PwC AI Deal\n\nNauman Khan\n\n1 min read\n\n PLTR\n\n  +7. 71%\n\nThis article first appeared on GuruFocus.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-global-bond-131516395.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-01",
-      "resumo": "The contrast holds up across the rest of the roster.  NVIDIA stock is up 19% year to date, Broadcom stock is up 7%, the iShares Semiconductor ETF is up 70%, and the Invesco QQQ Trust is up 17%.  Broadcom's much smaller advance leaves it less momentum to unwind, which fits its shallower move this morning.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "What's Going On With Broadcom Stock Tuesday? - Broadcom (NASDAQ:AVGO) - Benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/09/61540924/whats-going-on-with-broadcom-stock-tuesday-9",
-      "fonte": "benzinga.com",
-      "data": "2026-09-01",
-      "resumo": "Trending\n\nThe company said enterprises can choose from different processors, servers and AI models rather than relying on a single supplier.  Customers can run more than 150 open-source and commercial AI models, including offerings from Alphabet Inc.  (NASDAQ:GOOGL) Google, NVIDIA Corp.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -923,20 +979,6 @@
       "data": "2026-09-02",
       "resumo": "Ivan Mehta\n\nAdobe has acquired India-based marketing intelligence startup Rilo in a deal involving licensing and team acquisition, TechCrunch learned and the company confirmed.  This is Adobe’s second acquisition from India after it bought video platform Rephrase. ai in 2023.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Three Australian stocks with strong data center exposure",
-      "url": "https://www.investing.com/news/stock-market-news/three-australian-stocks-with-strong-data-center-exposure-93CH-4883470",
-      "fonte": "investing.com",
-      "data": "2026-09-01",
-      "resumo": "## The Growth Premium: Nextdc\n\nNextdc (NXT) is Australia’s only pure-play data center REIT-style operator, running facilities across Australia and the Asia-Pacific.  It commands a A$10. 5B market cap — 7x larger than the other two combined — and delivers the fastest revenue growth at 16.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -1225,20 +1267,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History",
-      "url": "https://finance.yahoo.com/quote/NVDA",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-01",
-      "resumo": "Enterprise Value/Revenue\n\n   Enterprise Value/EBITDA\n\n### Financial Highlights\n\n#### Profitability and Income Statement\n\n   Profit Margin\n\n63. 66%\n\n   Return on Assets (ttm)\n\n53. 57%\n\n   Return on Equity (ttm)\n\n117.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "How Equinix has found a niche in the multitrillion-dollar AI data center boom",
       "url": "https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html",
       "fonte": "cnbc.com",
@@ -1258,90 +1286,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-09-02",
       "resumo": "Simply Wall St. \n\n# What Could Palo Alto Networks (PANW) Gain From Its Latest AI Security Acquisition. \n\nBailey Pemberton\n\n3 min read\n\n PANW\n\n  -5.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Sprinklr earnings ahead as AI investments meet growth challenge By Investing.com",
-      "url": "https://www.investing.com/news/earnings/sprinklr-earnings-ahead-as-ai-investments-meet-growth-challenge-93CH-4884186",
-      "fonte": "investing.com",
-      "data": "2026-09-01",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 933.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Happiest Minds Technologies announces merger with ITC Infotech to create a scaled, AI First Global Technology Services Enterprise with US$ 1 billion Revenue by FY28",
-      "url": "https://finance.yahoo.com/technology/ai/articles/happiest-minds-technologies-announces-merger-130000537.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-01",
-      "resumo": "Joseph Anantharaju, co-chairman & CEO, Happiest Minds, said, \"The merger of Happiest Minds and ITC Infotech brings together complementary strengths towards creating a future-ready technology services organization.  Combining our expertise across AI, digital, cloud, data, cybersecurity, product engineering, and enterprise platforms with those of ITC Infotech in enterprise transformation, SAP, engineering services, Product Lifecycle Management (PLM) will enable us to deliver greater value to customers across geos and accelerate growth in high-demand industry groups.  Beyond the strategic fit, this partnership is anchored in shared values, customer focus, and a commitment to innovation.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Gitlab in the spotlight as earnings test AI product momentum By Investing.com",
-      "url": "https://www.investing.com/news/earnings/gitlab-in-the-spotlight-as-earnings-test-ai-product-momentum-93CH-4884190",
-      "fonte": "investing.com",
-      "data": "2026-09-01",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MRNA | 147.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.30%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-130-4884591",
-      "fonte": "investing.com",
-      "data": "2026-09-01",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| AXON | 518.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "MongoDB set to report earnings as AI workload bets mount",
-      "url": "https://www.investing.com/news/earnings/mongodb-set-to-report-earnings-as-ai-workload-bets-mount-93CH-4884195",
-      "fonte": "investing.com",
-      "data": "2026-09-01",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MRNA | 154.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Ibovespa chega à 10ª alta seguida, com Petrobras, Vale e ...",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01092026",
-      "fonte": "infomoney.com.br",
-      "data": "2026-09-01",
-      "resumo": "## Maiores baixas, altas e mais negociadas de ontem\n\nMaiores baixas\n\n|  |  |  |\n --- \n|  | Dia (%) | Valor (R$) |\n| EMBJ3 | -1,82 | 93,49 |\n| BEEF3 | -1,55 | 3,82 |\n| SUZB3 | -1,50 | 45,30 |\n| SANB11 | -1,50 | 29,56 |\n| CMIN3 | -1,33 | 5,92 |\n\nMaiores altas\n\n|  |  |  |\n --- \n|  | Dia (%) | Valor (R$) |\n| MRVE3 | 6,17 | 5,51 |\n| CYRE3 | 5,52 | 24,29 |\n| FLRY3 | 4,29 | 19,68 |\n| PETR3 | 4,23 | 50,29 |\n| MGLU3 | 4,11 | 4,81 |\n\nMais negociadas\n\n|  |  |  |\n --- \n|  | Negócios | Dia (%) |\n| PETR4 | 55. 854 | 3,38 |\n| BBAS3 | 53. 580 | 2,83 |\n| ITUB4 | 34.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1379,81 +1323,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Ibovespa Futuro ronda estabilidade com temores de ...",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-ronda-estabilidade-com-temores-de-inflacao-e-pib-no-radar",
-      "fonte": "infomoney.com.br",
-      "data": "2026-09-01",
-      "resumo": "IM Trader\nXPI\nRico\nClear\n\n# Ibovespa Futuro ronda estabilidade com temores de inflação e PIB no radar\n\n01/09/2026 09h12 \n•\nAtualizado 3 horas atrás\n\nPublicidade\n\nO Ibovespa Futuro opera perto da estabilidade nesta terça-feira (1º), com investidores repercutindo a divulgação do PIB brasileiro, as projeções do Orçamento de 2027 e a retomada das negociações comerciais entre Brasil e Estados Unidos sobre tarifas.  Às 9h12 (horário de Brasília), o contrato com vencimento em outubro avançava 0,06%, aos 180. 140 pontos.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock Market News - Bond Market - Currencies Markets",
-      "url": "https://www.marketwatch.com/markets",
-      "fonte": "marketwatch.com",
-      "data": "2026-09-01",
-      "resumo": "AAPL 2. 61%AMZN-1. 87%\n\n   DJIA ## Dow Jones Global ## Dow Jones Industrial Average ### 52,766.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Venture Capital News",
       "url": "https://techcrunch.com/category/venture",
       "fonte": "techcrunch.com",
       "data": "2026-09-02",
       "resumo": "+ Rebecca Bellan\n Accel \n\n  Venture\n\n  ### Accel closes oversubscribed $550M India fund within weeks, 19 months after its last\n\n  + Jagmeet Singh\n Rafal Modrzewski, CEO and Co-Founder of ICEYE \n\n  Venture\n\n  ### What’s Scaleup Europe, the $5. 7B fund that just backed satellite company ICEYE. \n\n  + Anna Heim\n  \n\n  Venture\n\n  ### This former notorious red-light district is now one of the world’s top AI hubs\n\n  + Dominic-Madori Davis\n\nEvent Logo\n\nOctober 13 – 15\n\nSan Francisco\n\nDon’t miss out.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Sununu: High Jet Fuel Prices Are Crushing Airline Industry",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-01/sununu-jet-fuel-prices-are-crushing-airline-industry-video",
-      "fonte": "bloomberg.com",
-      "data": "2026-09-01",
-      "resumo": "Dyson Unveils AI-Powered Toothbrush With Built-In Camera\n\nDuration:1:46\n\n### Dyson Unveils AI-Powered Toothbrush With Built-In Camera\n\n#### Technology\n\nPartners Group CEO Rejects Redemption Concerns\n\nDuration:12:46\n\n### Partners Group CEO Rejects Redemption Concerns\n\nShein Shares Plunge in HK Debut After Rocky Road to IPO\n\nDuration:2:11\n\n### Shein Shares Plunge in HK Debut After Rocky Road to IPO.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AIOS Tech: The AI Story Is Ahead Of The Business",
-      "url": "https://seekingalpha.com/article/4941992-aios-tech-the-ai-story-is-ahead-of-the-business-sell",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-01",
-      "resumo": "AIOS Tech Inc.  is transitioning from legacy operations to an AI and technology-services platform centered on its YD Network acquisition..",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Cathie Wood Drops $124 Million on AI Stocks, Dumps AMD",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-drops-124-million-014651640.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-01",
-      "resumo": "GuruFocus. com\n\n# Cathie Wood Drops $124 Million on AI Stocks, Dumps AMD\n\nMoz Farooque ACCA\n\n2 min read\n\n NVDA\n\n  +1. 48%\n AMD\n\n  +1.",
       "sentimento": "neutral",
       "tags": [
         "AI",
