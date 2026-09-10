@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-10",
-    "total_noticias": 88,
-    "gerado_em": "2026-09-10T07:51:00.802412"
+    "total_noticias": 98,
+    "gerado_em": "2026-09-10T14:05:17.408343"
   },
   "noticias": [
+    {
+      "titulo": "Top AI Stocks (September 2026) - Investing.com",
+      "url": "https://www.investing.com/academy/stock-picks/top-ai-stocks",
+      "fonte": "investing.com",
+      "data": "2026-09-04",
+      "resumo": "## Best AI Stocks\n\n| Company Name | Revenue Growth – 12 Months | Gross Profit Margin (%) | R&D Expenses ($) – 12 months | Price-to-Sales (P/S) Growth Ratio |\n ---  --- \n| Palantir Technologies Inc.  (PLTR) | 67. 7% | 84.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.93%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-093-4894503",
+      "fonte": "investing.com",
+      "data": "2026-09-09",
+      "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| META | 653.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.01% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-001-4888535",
+      "fonte": "investing.com",
+      "data": "2026-09-03",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NVDA | 225.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 1.20%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-120-5585272",
+      "fonte": "in.investing.com",
+      "data": "2026-09-08",
+      "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Reliance Industries | 1,290.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "How big a risk are rates to the AI boom? By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/how-big-a-risk-are-rates-to-the-ai-boom-4893142",
+      "fonte": "investing.com",
+      "data": "2026-09-09",
+      "resumo": "## Latest comments\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NVDA | 225.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Silver Lake merges Cegid and Silae in 10 billion euro bet on AI-era software - CNBC",
+      "url": "https://www.cnbc.com/2026/09/09/silver-lake-merges-cegid-silae-ai-software-deal.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-09",
+      "resumo": "Private equity fund Silver Lake plans to merge two of its software firms, as the sector grapples with AI disruption. \n\nFrench firms Cegid, which sells business management software, and Silae, a payroll and HR platform, would combine in a deal that would bring together payroll, accounting, e-invoicing, digital finance and payments data, and create a 1,400-person developer team to invest in AI. \n\nThe deal has an enterprise value of more than 10 billion euros ($11.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The AI investment boom won't last forever, Goldman Sachs chief ...",
+      "url": "https://finance.yahoo.com/markets/article/the-ai-investment-boom-wont-last-forever-goldman-sachs-chief-economist-jan-hatzius-warns-122546159.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-10",
+      "resumo": "Global investment in AI infrastructure will hit a record $31. 6 trillion through to 2050, according to baseline projections in PwC's new Global Data Centre.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DeepSeek IPO: Everything You Need to Know About the Chinese AI ...",
+      "url": "https://www.investing.com/analysis/deepseek-ipo-everything-you-need-to-know-about-the-chinese-ai-firm-200687422",
+      "fonte": "investing.com",
+      "data": "2026-09-10",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 1,027.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Retail Investors Hand Control of Stock Portfolios to AI - WSJ",
+      "url": "https://www.wsj.com/politics/policy/retail-investors-hand-control-of-stock-portfolios-to-ai-5e7f3f25",
+      "fonte": "wsj.com",
+      "data": "2026-09-06",
+      "resumo": "This is an edition of the What’s News newsletter, which helps you catch up on the headlines and understand the news, free in your inbox daily.  If you’re not subscribed, sign up here. \n\n#### 1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "BRASILAGRO ON Stock Price Today | BVMF: AGRO3 Live - Investing.com",
+      "url": "https://www.investing.com/equities/brasilagro-on-nm",
+      "fonte": "investing.com",
+      "data": "2026-09-04",
+      "resumo": "#### Popular Searches\n\n##### Please try another search\n\n# BrasilAgro - Co ON NM (AGRO3)\n\n|  |\n\n|  | Symbol |  | Exchange |  | Currency |\n ---  ---  --- |\n|  | AGRO3 | · | B3 | · | BRL | Delayed |\n|  | LND | · | NYSE | · | USD | Real-time |\n\nunlock\nunlock\nunlock\nunlock\nunlock\nunlock\nunlock\nunlock\nunlock\nunlock\npro icon\n\n## BrasilAgro - Co ON NM News & Analysis\n\nIntroduction & Market Context\nBrasilAgro (BVMF:AGRO3) presented its fiscal 2026 results on September 4, 2026, marking the. \n\nBrasilAgro – Brazilian Agricultural Real Estate Co (B3:AGRO3, NYSE:LND) reported a net loss of R$76. 1 million for the nine months.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Blue Owl (OWL) Stock Still Looks Fully Priced On Data Center REIT Plans",
       "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-owl-stock-still-001350079.html",
