@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-10",
+    "total_noticias": 10,
+    "gerado_em": "2026-09-10T07:51:00.800300"
+  },
+  "noticias": [
+    {
+      "titulo": "Blue Owl (OWL) Stock Still Looks Fully Priced On Data Center REIT Plans",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-owl-stock-still-001350079.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-06",
+      "resumo": "Over the past 1 year, Blue Owl Capital has declined 28. 7%, which puts recent shareholder returns well behind many investors' expectations for an alternative asset manager linked to high growth themes like data centers and AI infrastructure. \n Plans to seed a publicly traded data center REIT with about US$6.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Looking Beyond Semiconductors? These 8 Tech Stocks Offer Up to ...",
+      "url": "https://www.investing.com/analysis/looking-beyond-semiconductors-these-8-tech-stocks-offer-up-to-60-upside-200681783",
+      "fonte": "investing.com",
+      "data": "2026-09-06",
+      "resumo": "According to InvestingPro Fair Value estimates, Intel carries downside potential of 44. 5%, followed by Astera Labs at 41. 3%, Marvell at 38%, KLA Corp at 36.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "This Could Be the AI Stock That Keeps Surprising Wall Street",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-ai-stock-keeps-surprising-163015159.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-08",
+      "resumo": "## Why Bulls See a Path to $213\n\nOur bull case one-year price target is $213. 34, implying 23. 94% upside.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Blue Owl Plans $6.5B Seed for Data Center REIT",
+      "url": "https://finance.yahoo.com/real-estate/articles/blue-owl-plans-6-5b-085202300.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-08",
+      "resumo": "Deliberations remain ongoing, and the details of both the REIT and potential IPO could change.  Blue Owl declined to comment on the report. \n\nBlue Owl shares rose as much as 1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Blue Owl Plans Creating Publicly Traded Data Center REIT",
+      "url": "https://finance.yahoo.com/real-estate/articles/blue-owl-plans-creating-publicly-170600578.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-04",
+      "resumo": "A flood of spending on AI infrastructure is drawing numerous data center companies backed by large investment firms into the IPO market.  Blackstone Digital Infrastructure Trust Inc. , which raised $2 billion in its May debut, was structured as a blind pool, with investors buying shares in the REIT without knowing what assets it would hold.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 AI Optical Networking Stocks Positioned for the Data Center Buildout",
+      "url": "https://www.investing.com/analysis/3-ai-optical-networking-stocks-positioned-for-the-data-center-buildout-200687381",
+      "fonte": "investing.com",
+      "data": "2026-09-09",
+      "resumo": "Nathan Reiff\n\nAI-driven networking companies have been waiting for a sign to either continue to pull back or reinvigorate a bull run, but Ciena Corp. ’s Q3 earnings report may invite more questions than answers.  Despite strong earnings and revenue, coupled with continued robust demand for AI and optical networking, shares fell after the report.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Data Center REIT Plan and Tech Financing Expansion Could Be A Game Changer For Blue Owl Capital (OWL)",
+      "url": "https://finance.yahoo.com/real-estate/articles/data-center-reit-plan-tech-221252341.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-06",
+      "resumo": "Sasha Jovanovic\n\n4 min read\n\n OWL\n\n  -0. 76%\n OTF\n\n  -0. 44%\n\n Blue Owl Capital recently outlined plans to launch a data center real estate investment trust (REIT) seeded with about US$6.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Company Earnings Calendar - Yahoo Finance",
+      "url": "https://finance.yahoo.com/calendar/earnings",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-06",
+      "resumo": "Business Wire • 1d ago\n Prediction: Oracle's $638 Billion Cloud Infrastructure Backlog Could Make It One of the Best-Performing AI Stocks Through 2028\n\n  ### Prediction: Oracle's $638 Billion Cloud Infrastructure Backlog Could Make It One of the Best-Performing AI Stocks Through 2028\n\n  Motley Fool • 1d ago\n Care Management Solutions Market Report Now Available — Forecasts Market Growth from $22. 56B (2026) to $42. 62B by 2031, Profiling Optum, Epic Systems, Oracle, Philips, Veradigm, and 20 Other Key Players to $42.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "A 2-Story Market: AI Optimism and Iran Fear Power US Stocks | Investing.com",
+      "url": "https://www.investing.com/analysis/a-2story-market-ai-optimism-and-iran-fear-power-us-stocks-200687370",
+      "fonte": "investing.com",
+      "data": "2026-09-09",
+      "resumo": "Meanwhile, tech stocks continue to benefit from “AI-driven earnings durability,” in the words of Venu Krishna, head of equity strategy at Barclays.  A “standout earnings season” led by technology prompted the investment bank to raise its year-end S&P 500 target to 7,950 from 7,800, a forecast that, if correct, equates to a 3. 6% rally by December 31 from yesterday’s close.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high - CNBC",
+      "url": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-10",
+      "resumo": "In this article\n\nTaiwan Semiconductor Manufacturing Co.  reported record monthly revenue for August on Thursday, as demand for chips used in artificial intelligence applications remained strong. \n\nThe world's largest contract chipmaker posted revenue of $514.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
