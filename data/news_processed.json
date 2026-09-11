@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-10",
-    "total_noticias": 98,
-    "gerado_em": "2026-09-10T14:05:17.408343"
+    "data": "2026-09-11",
+    "total_noticias": 89,
+    "gerado_em": "2026-09-11T07:45:11.534499"
   },
   "noticias": [
+    {
+      "titulo": "13/15 holdings gain as AI strategy pulls ahead of the S&P 500",
+      "url": "https://www.investing.com/news/stock-market-news/ipo-datvietvac-hon-1700-nha-dau-tu-dang-ky-mua-vuot-luong-co-phieu-chao-ban-4894963",
+      "fonte": "investing.com",
+      "data": "2026-09-10",
+      "resumo": "The portfolio’s biggest winner is Arm Holdings (NASDAQ:ARM), up 12. 52% this month to $264. 23, followed closely by Marvell Technology (NASDAQ:MRVL), up 11.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Is Moving Into Everyday Business — These 5 Stocks Sit Squarely in the Path of the Surge",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-moving-everyday-business-5-165250986.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-07",
+      "resumo": "## 2.  Broadcom (NASDAQ: AVGO)\n\nBroadcom (NASDAQ:AVGO) is the custom silicon and AI networking counterweight to NVIDIA.  Q3 FY26 revenue was $29.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "These AI-stock strategies keep beating the market By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/77-35-29-these-aistock-strategies-keep-beating-the-market-4895227",
+      "fonte": "investing.com",
+      "data": "2026-09-10",
+      "resumo": "Energy Elite:+76. 93% YTD (_+34. 47% vs.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "4 AI Stocks Are Joining the S&P 500: Buy, Hold, or Pass?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/4-ai-stocks-joining-p-150300778.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-09",
+      "resumo": "NAND supply remains constrained as the big three memory makers continue to put most of their efforts and resources into DRAM (dynamic random access memory) and specifically high bandwidth memory (HBM).  At the same time, demand for flash continues to soar from the need for massive solid-state drives (SSDs) that store training data. \n\nSandisk has started to lock up customers with long-term deals for the first time ever, and AI seems to have potentially brought with it a structural shift where the typical boom-bust cycles are no longer the norm.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Oracle maintains its capex forecast and reports cloud growth, sending shares up 7% - Business Insider",
+      "url": "https://www.businessinsider.com/oracle-q1-2027-earnings-maintains-capex-forecast-reports-cloud-growth-2026-9",
+      "fonte": "businessinsider.com",
+      "data": "2026-09-10",
+      "resumo": "Oracle reported $55. 7 billion in capex, including new data centers, in its 2026 fiscal year. \n\nOracle has developed several financing models, including supplier financing arrangements, customer prepayments, and \"bring your own hardware\" deals in which customers purchase hardware while Oracle provides the cloud infrastructure and operations.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Major Market Top Sign: Insiders Are Cashing Out - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4944500-major-market-top-sign-insiders-are-cashing-out",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-09",
+      "resumo": "Bret Jensen\n\nInvesting Group Leader\n\n## Summary\n\n AI-driven IPO and capital markets activity in 2026 mirrors the late-stage exuberance of the 1999 Internet Boom and 2021 SPAC surge. \n CoreWeave kicked off the recent IPO wave, raising $1. 5B despite $860M in FY2024 losses; shares have since declined 40%, and CDS prices have surged.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "An AI stock market crash would spark a US recession and hammer the world economy, Fitch warns - Business Insider",
+      "url": "https://www.businessinsider.com/ai-stock-crash-us-recession-global-stagnation-fitch-ratings-2026-9",
+      "fonte": "businessinsider.com",
+      "data": "2026-09-10",
+      "resumo": "\"A severe AI-related equity price shock — that could possibly result from a major re-evaluation of the ability of AI investments to generate returns — would likely entail a US recession,\" a team of analysts led by Alex Muscatelli, a director at the firm, wrote. \n\nIn the recession scenario, the firm estimated that GDP could contract as much as 1. 5% in the second quarter of next year.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Our top 3 stocks that bucked the market’s recent pullback — plus, a look at the bottom 3 - CNBC",
+      "url": "https://www.cnbc.com/2026/09/10/our-top-3-stocks-that-bucked-the-markets-recent-pullback-plus-a-look-at-the-bottom-3.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-10",
+      "resumo": "to handle emerging AI threats , underscoring the long-term opportunity.  But after the stock's strong run, investors used the earnings report to take profits.  We were glad we trimmed our position ahead of the print.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "'Once-in-a-lifetime’ shift is making 60/40 portfolios less relevant, says BlackRock exec. Here’s the mix it favors - CNBC",
+      "url": "https://www.cnbc.com/2026/09/10/blackrock-60-40-portfolio-private-markets.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-10",
+      "resumo": "a core part of private markets exposure for investors.  \"We look at AI as an amazing once in a lifetime opportunity for our clients including institutional and wealth,\" he said, adding that AI has evolved from a micro theme a few years ago to a macro theme today, which has implications across regions, sectors, and asset classes.  BlackRock sees AI through the lens of three phases.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Here’s a rapid-fire update on our 33-stock portfolio, including Cramer’s 6 favorites to buy - CNBC",
+      "url": "https://www.cnbc.com/2026/09/10/a-rapid-fire-update-on-our-33-stock-portfolio-including-6-to-buy-now.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-10",
+      "resumo": "it attracts more technology analyst coverage rather than being viewed primarily through a chemicals lens.  Amazon : Of the hyperscalers, Amazon has the most going for it outside the data center thanks to its fast-growing cloud business and dominant retail operation.  Amazon could be the first hyperscaler to show investors substantial profits from AI.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Top AI Stocks (September 2026) - Investing.com",
       "url": "https://www.investing.com/academy/stock-picks/top-ai-stocks",
@@ -27,20 +167,6 @@
       "data": "2026-09-09",
       "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| META | 653.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.01% By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-001-4888535",
-      "fonte": "investing.com",
-      "data": "2026-09-03",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NVDA | 225.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -791,39 +917,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Artisan Trimmed AMD (AMD) After Its AI-Driven Surge",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/artisan-trimmed-amd-amd-ai-131922170.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-03",
-      "resumo": "Artisan Partners, an investment management company, released its second-quarter 2026 investor commentary for the \"Artisan Global Opportunities Strategy\".  The letter can bedownloaded here.  Global equities rebounded sharply during the quarter, with the MSCI ACWI Index returning 15.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "These AI numbers are getting crazy",
       "url": "https://finance.yahoo.com/markets/article/these-ai-numbers-are-getting-crazy-123000121.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-09-06",
       "resumo": "After hours: September 4 at 7:59:59 PM EDT\n\nAVGO HPE DELL \n\nThe upbeat AI message from Broadcom wasn't too different from what investors heard from Dell (DELL) and Nvidia (NVDA) recently. \n\nDell served up a revenue outlook that was $25 billion above estimates.  Nvidia said its sales may grow 70% in its next fiscal year.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia takes back control of the AI trade as Big Tech nears record highs",
-      "url": "https://www.marketwatch.com/story/nvidia-takes-back-control-of-the-ai-trade-as-big-tech-nears-record-highs-c0dfed9d",
-      "fonte": "marketwatch.com",
-      "data": "2026-09-03",
-      "resumo": "Shares of Nvidia have outperformed a major semiconductor index over the past three months.  Photo: MarketWatch illustration/iStockphoto\n\n### Referenced Symbols\n\n   NVDA +0. 84% \n   MAGS -1.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -861,20 +959,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck",
-      "url": "https://finance.yahoo.com/markets/article/stocks-edge-up-as-nvidia-leads-tech-higher-following-hugging-face-deal-announcement-alphacheck-140448366.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-03",
-      "resumo": "Sector action on Thursday, Sept 3. \n\n \n\nTech stocks (XLK) rose as shares of Snowflake (SNOW) soared following a blowout quarter.  Chipmaker Broadcom (AVGO) stock, however, dropped following strong quarterly results, but its revenue forecast missed Wall Street estimates.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.02% By Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-002-4890004",
       "fonte": "investing.com",
@@ -895,20 +979,6 @@
       "data": "2026-09-05",
       "resumo": "The previous big move we wrote about was 11 days ago when the stock dropped 5. 5% on the news that investors trimmed chip exposure to reduce portfolio risk ahead of Nvidia's highly anticipated earnings report.  Semiconductor shares experienced widespread selling pressure as traders locked in profits ahead of Nvidia's second-quarter fiscal 2027 financial release.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Vertiv: Filter Out The Noise, This Is A Golden Opportunity",
-      "url": "https://seekingalpha.com/article/4942715-vertiv-filter-out-the-noise-this-is-a-golden-opportunity",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-03",
-      "resumo": "Bay Area Ideas\n\n5. 69K Followers\n\n## Summary\n\n After a significant pullback, Vertiv remains a buy due to robust AI infrastructure tailwinds and strategic capacity expansion. \n Q2 revenue growth decelerated due to temporary supply chain issues, but margin expansion and EPS outperformance signal core business strength.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -1015,34 +1085,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Zscaler's Q4 earnings reflect AI-driven demand as ARR pops up 25% | Seeking Alpha",
-      "url": "https://seekingalpha.com/news/4640124-zscalers-q4-earnings-reflect-ai-driven-demand-as-arr-pops-up-25",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-03",
-      "resumo": "Home page Seeking Alpha - Power to Investors\n\nSearch for Symbols, analysts, keywords\n\n# Zscaler's Q4 earnings reflect AI-driven demand as ARR pops up 25%\n\nSep 03, 2026, 4:25 PM ETZscaler, Inc.  (ZS) StockBy: Brandon Evans, SA News Editor\n\nMichael Vi/iStock Editorial via Getty Images\n\nZscaler (ZS) released its fourth-quarter fiscal 2027 earnings report post-market on Thursday, which featured a 25% year-over-year increase to annual recurring revenue. \n\n\"We delivered a strong fourth quarter, with revenue and ARR both growing 25% year over year, net new ARR growing 24%, and\n\nTo ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock Market Today, Sept. 2: Dell Helps Stocks Edge Higher Despite Geopolitical Tensions",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-2-213113460.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-03",
-      "resumo": "Investors also monitored Snowflake (NYSE:SNOW) and Broadcom (NASDAQ:AVGO)as the technology firms prepared to report quarterly results after hours, following a significant year-to-date rally. \n\n## What this means for investors\n\nPerhaps the biggest news item today in the stock market came from Dell Technologies, which rose 16% after reporting blowout earnings.  Sales and adjusted EPS rose 58% and 203% in the quarter, while its AI-Optimized Server business doubled its revenue.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Micron, SanDisk Lead Memory Chip Stocks Rally ...",
       "url": "https://finance.yahoo.com/technology/articles/micron-sandisk-lead-memory-chip-174447419.html",
       "fonte": "finance.yahoo.com",
@@ -1063,20 +1105,6 @@
       "data": "2026-09-04",
       "resumo": "### For Customers\n\n### Support\n\nAmericas+1 212 318 2000\n\nEMEA+44 20 7330 7500\n\nAsia Pacific+65 6212 1000\n\nUS Stocks:\n\n# Blue Owl Plans Creating Publicly Traded Data Center REIT\n\nBlue Owl offices in New York. \n\nBlue Owl offices in New York. \n\nBlue Owl Capital is seeking to create a real estate investment trust for data centers and take it public, according to people familiar with the matter, as more companies tap the market to fund building out artificial intelligence infrastructure.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Snowflake stock skyrockets on AI-driven Q2 revenue jump",
-      "url": "https://finance.yahoo.com/markets/stocks/article/snowflake-stock-skyrockets-on-ai-driven-q2-revenue-jump-130537300.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-03",
-      "resumo": "Snowflake reported adjusted earnings per share of $0. 62 for its fiscal 2027 second quarter. \n\n### (SNOW )\n\nGo deeper with AlphaSpace\n\n305.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -1127,53 +1155,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Company Profile & Facts - Yahoo Finance",
-      "url": "https://ca.finance.yahoo.com/quote/TSM/profile",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-09-03",
-      "resumo": "6-K: Corporate Changes & Voting Matters\n\nSee Full Filing\n\nJune 25, 2026 at 12:00 a. m.  UTC\n\n6-K: Corporate Changes & Voting Matters\n\nSee Full Filing\n\n###\n\n### Related Tickers\n\nMU  Micron Technology, Inc.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "PwC and Palantir Expand Strategic Alliance to Help Organizations Scale Enterprise AI",
-      "url": "https://finance.yahoo.com/technology/ai/articles/pwc-palantir-expand-strategic-alliance-120000394.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-03",
-      "resumo": "Transforming M&A through an AI-native deals platform\n\nPwC and Palantir are introducing the industry's first AI-native deals IT platform enabled by Palantir Foundry and Palantir's AI Platform (AIP) to help organizations execute mergers, acquisitions and divestitures with greater speed and confidence.  The platform is designed to help organizations execute deals up to 50% faster while reducing one-time transaction costs up to 45%.  By accelerating integration and separation activities, organizations can unlock synergies sooner, divest or spin off businesses faster and ultimately drive greater deal value and stronger shareholder returns.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Opinion: TSMC Is a Better Buy Than Any of the \"Magnificent Seven ...",
       "url": "https://finance.yahoo.com/markets/stocks/articles/opinion-tsmc-better-buy-magnificent-032000765.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-09-04",
       "resumo": "Nvidia (NASDAQ: NVDA) is once again leading the way, and there's a lot to love about Jensen Huang's company.  The most recent earnings report showed revenue of $96. 2 billion, up a whopping 106% from a year ago.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Snowflake stock soars 26% after it gives investors another reason to get excited about the AI boom - Business Insider",
-      "url": "https://www.businessinsider.com/snowflake-stock-earnings-ai-trade-software-saas-tech-pltr-snow-2026-9",
-      "fonte": "businessinsider.com",
-      "data": "2026-09-03",
-      "resumo": "Why: The surge on Thursday follows a strong Q2 earnings report.  Snowflake's results came in above Wall Street's estimates on key metrics, with product revenue reaching $1. 49 billion, a 37% year-over-year increase, while the company also raised revenue guidance for the current quarter and the fiscal year.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1225,53 +1211,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Latest Merger & Acquisition (M&A) News - Seeking Alpha",
-      "url": "https://seekingalpha.com/market-news/m-a",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-03",
-      "resumo": "# Latest Mergers & Acquisition News\n\n M&A\n AI Tech\n All News\n Biotech\n Budget & Regulation\n Buybacks\n Commodities\n Consumer\n Cryptocurrency\n Debt/Share Issuance\n Dividends - Funds\n Dividends - Stocks\n Earnings\n Earnings Calls Insights\n Electric Vehicles\n Energy\n Financials\n Global Macro\n Gold\n Graphical News\n Guidance\n Healthcare\n Interest Rates\n IPOs\n Jobs & Employment\n Magnificent 7\n Market Pulse\n MLPs\n Notable Calls\n Nuclear Power\n On The Move\n Politics\n Quizzes\n REITs\n SPACs\n Spotlight\n Tariffs\n Tech\n Top News\n Trending News\n U. S.  Economy\n War & Defense\n Weight Loss\n\n## News\n\n### PayPal pauses sale of venture capital portfolio arm - Axios Pro\n\nPYPL -3.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Not Nvidia. Not Palantir. This AI Stock Could Have the Most Upside.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/not-nvidia-not-palantir-ai-112000354.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-09-04",
       "resumo": "But there's a catch: Just because AI isn't a bubble doesn't mean that valuations will never get ahead of themselves.  Indeed, we've already seen several corrections across the AI sector in recent years, though they ultimately proved short-lived.  Buying many of the most popular AI stocks at their previous peaks still proved to be a winning long-term investment.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 Top AI Stocks With Revenue Growth Over 26% - Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-top-ai-stocks-revenue-161835070.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-03",
-      "resumo": "39.    News • 6 days ago Nvidia is banking on some of the AI labs it does business with becoming the largest tech companies in history\n40.    News • 7 days ago Iran and Oman announce progress toward a \"permanent navigational corridor and future administration.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "A Once-in-a-Lifetime Investment Opportunity: The 3 Best Stocks to Take Advantage of the AI Build-Out",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/once-lifetime-investment-opportunity-3-105000124.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-03",
-      "resumo": "5.  Savings Goal Calculator\n      6.  Social Security Calculator\n8.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1300,76 +1244,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-09-04",
       "resumo": "tools are now driving growth across Snowflake's core platform, not just its standalone AI products, calling it a compounding \"flywheel effect\" for the business. \n\nShares hit their highest level since December 2021, adding roughly $25 billion in market value in the move.  The stock has now climbed 39% for the year, more than triple the S&P 500's 12% gain over the same stretch.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Global X Data Center & Digital Infrastructure ETF (VPN) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/VPN",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-03",
-      "resumo": "The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia to acquire AI platform Hugging Face in landmark ...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-acquire-ai-platform-hugging-124357614.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-03",
-      "resumo": "### Deepening an Open-Weight Partnership\n\nNvidia is already the single largest contributor of open models and data on Hugging Face, having published more than 500 open-weight models and 250 datasets on the site.  The acquisition strengthens both companies' shared commitment to open-weight models—a framework vital for lowering barriers to entry, driving enterprise innovation, and distributing AI capabilities globally. \n\nHugging Face co-founders Clem Delangue, Julien Chaumond, and Thomas Wolf will continue to lead their team to scale the platform globally.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Here's what Nvidia's $13 billion Hugging Face deal means for the ...",
-      "url": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1",
-      "fonte": "marketwatch.com",
-      "data": "2026-09-03",
-      "resumo": "MarketWatch Logo\n\nHere’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI\n\n## \n\n### Account Settings\n\n## Tech Stocks\n\n# Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI\n\n## The acquisition will give Nvidia access to ‘one of the most important parcels of real estate in the AI market’ and promote open-source technology\n\nNvidia on Thursday announced a deal to buy Hugging Face, a repository for open-source artificial-intelligence models that has been growing in stature in recent years. \n\nNvidia NVDA will pay roughly $11. 9 billion to Hugging Face shareholders and $1.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Company Announcement - Markets data",
-      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202609030600BIZWIRE_USPRX____20260903_BW685150-1",
-      "fonte": "markets.ft.com",
-      "data": "2026-09-03",
-      "resumo": "SANTA CLARA, Calif.  & NEW YORK--(BUSINESS WIRE)--Sep.  3, 2026--\nPlus Automation, Inc.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 AI Stocks Up 500% or More in the Past Year That Could Have More Room to Run",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-500-more-045000366.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-03",
-      "resumo": "Like Sandisk, Micron stock is also cheap, trading at a forward P/E of 6, and it, too, has locked in longer-term contracts.  If this supercycle lasts into 2030 and beyond, the stock could have plenty of upside from here. \n\n## 3.",
       "sentimento": "bullish",
       "tags": [
         "AI",
