@@ -1,152 +1,215 @@
 # Newsletter IA Bolsa — 2026-09-11
 
-**Gerado em:** 11/09/2026 07:45
+**Gerado em:** 11/09/2026 14:05
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. 13/15 holdings gain as AI strategy pulls ahead of the S&P 500
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The portfolio’s biggest winner is Arm Holdings (NASDAQ:ARM), up 12. 52% this month to $264. 23, followed closely by Marvell Technology (NASDAQ:MRVL), up 11.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/ipo-datvietvac-hon-1700-nha-dau-tu-dang-ky-mua-vuot-luong-co-phieu-chao-ban-4894963)
-
----
-
-## 2. AI Is Moving Into Everyday Business — These 5 Stocks Sit Squarely in the Path of the Surge
+## 1. Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is Attracting Investor Attention: Here is What You Should Know
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-## 2.  Broadcom (NASDAQ: AVGO)
+We essentially look at how sell-side analysts covering the stock are revising their earnings estimates to reflect the impact of the latest business trends.  And if earnings estimates go up for a company, the fair value for its stock goes up.  A higher fair value than the current market price drives investors' interest in buying the stock, leading to its price moving higher.
 
-Broadcom (NASDAQ:AVGO) is the custom silicon and AI networking counterweight to NVIDIA.  Q3 FY26 revenue was $29.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ai-moving-everyday-business-5-165250986.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-130006363.html)
 
 ---
 
-## 3. These AI-stock strategies keep beating the market By Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Energy Elite:+76. 93% YTD (_+34. 47% vs.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/77-35-29-these-aistock-strategies-keep-beating-the-market-4895227)
-
----
-
-## 4. 4 AI Stocks Are Joining the S&P 500: Buy, Hold, or Pass?
+## 2. TSMC (TSM) Registers a Bigger Fall Than the Market: Important Facts to Note
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-NAND supply remains constrained as the big three memory makers continue to put most of their efforts and resources into DRAM (dynamic random access memory) and specifically high bandwidth memory (HBM).  At the same time, demand for flash continues to soar from the need for massive solid-state drives (SSDs) that store training data. 
-
-Sandisk has started to lock up customers with long-term deals for the first time ever, and AI seems to have potentially brought with it a structural shift where the typical boom-bust cycles are no longer the norm.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/4-ai-stocks-joining-p-150300778.html)
-
----
-
-## 5. Oracle maintains its capex forecast and reports cloud growth, sending shares up 7% - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Oracle reported $55. 7 billion in capex, including new data centers, in its 2026 fiscal year. 
-
-Oracle has developed several financing models, including supplier financing arrangements, customer prepayments, and "bring your own hardware" deals in which customers purchase hardware while Oracle provides the cloud infrastructure and operations.
-
-[Ler noticia completa](https://www.businessinsider.com/oracle-q1-2027-earnings-maintains-capex-forecast-reports-cloud-growth-2026-9)
-
----
-
-## 6. Major Market Top Sign: Insiders Are Cashing Out - Seeking Alpha
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Bret Jensen
-
-Investing Group Leader
-
-## Summary
-
- AI-driven IPO and capital markets activity in 2026 mirrors the late-stage exuberance of the 1999 Internet Boom and 2021 SPAC surge. 
- CoreWeave kicked off the recent IPO wave, raising $1. 5B despite $860M in FY2024 losses; shares have since declined 40%, and CDS prices have surged.
-
-[Ler noticia completa](https://seekingalpha.com/article/4944500-major-market-top-sign-insiders-are-cashing-out)
-
----
-
-## 7. An AI stock market crash would spark a US recession and hammer the world economy, Fitch warns - Business Insider
-
-**Fonte:** businessinsider.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-"A severe AI-related equity price shock — that could possibly result from a major re-evaluation of the ability of AI investments to generate returns — would likely entail a US recession," a team of analysts led by Alex Muscatelli, a director at the firm, wrote. 
+Investors will be eagerly watching for the performance of TSMC in its upcoming earnings disclosure.  The company's upcoming EPS is projected at $4. 45, signifying a 52.
 
-In the recession scenario, the firm estimated that GDP could contract as much as 1. 5% in the second quarter of next year.
-
-[Ler noticia completa](https://www.businessinsider.com/ai-stock-crash-us-recession-global-stagnation-fitch-ratings-2026-9)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-registers-bigger-fall-214505555.html)
 
 ---
 
-## 8. Our top 3 stocks that bucked the market’s recent pullback — plus, a look at the bottom 3 - CNBC
+## 3. TSMC Revenue Rises 53% as AI Chip Demand Outstrips Supply
+
+**Fonte:** ca.finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+1 / 1
+
+## TSMC Revenue Rises 53% as AI Chip Demand Outstrips Supply
+
+Debby Wu
+
+2 min read
+
+ TSM
+
+  -0. 83%
+ NVDA
+
+  -0. 91%
+ AAPL
+
+  -0.
+
+[Ler noticia completa](https://ca.finance.yahoo.com/news/tsmc-revenue-rises-53-ai-053524398.html)
+
+---
+
+## 4. TSMC August Revenue Rises 53.3% to T$514.8 Billion
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+## Advanced Chip Processes Support Revenue Growth
+
+According to the supplied information, August's revenue growth was supported primarily by sales from TSMC's most advanced chipmaking processes. 
+
+Demand for these manufacturing technologies has increased in recent years alongside demand for advanced artificial intelligence processors. 
+
+The increase in demand has constrained TSMC's overall production capacity, according to the supplied information.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-august-revenue-rises-53-102300997.html)
+
+---
+
+## 5. TSMC Stock Slips Despite 53% August Revenue Growth
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+slipped 0. 40% premarket after reporting August revenue of NT$514. 8 billion ($16.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-slips-despite-53-122227013.html)
+
+---
+
+## 6. AI is losing its stranglehold on the U.S. stock market. Here's why - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+"Throughout the summer single-name implied volatility raced ahead of S&P 500 implied volatility as traders discounted macro issues and focused on name-specific stories, particularly in the AI space," Scott Nations, president at Nations Indexes, said in an email.  "That trend is reversing as resurgent inflation—fueled by higher oil prices — the Fed's response at its September 16th meeting, and other political and geopolitical concerns dominate thinking. "  
+Crude oil futures are back above $100 for the first time since May and energy stocks in the S&P 500 Index made fresh highs Thursday as the State Street Energy Select Sector SPDR ETF (XLE) extended its lead over technology stocks as the best-performing sector of the year, now up 43 percent.
+
+[Ler noticia completa](https://www.cnbc.com/2026/09/10/ai-is-losing-its-stranglehold-on-the-us-stock-market-heres-why.html)
+
+---
+
+## 7. Investors worried AI would disrupt this travel giant. Here's why the stock be primed for a turnaround - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-to handle emerging AI threats , underscoring the long-term opportunity.  But after the stock's strong run, investors used the earnings report to take profits.  We were glad we trimmed our position ahead of the print.
+Share
 
-[Ler noticia completa](https://www.cnbc.com/2026/09/10/our-top-3-stocks-that-bucked-the-markets-recent-pullback-plus-a-look-at-the-bottom-3.html)
+# Investors worried AI would disrupt this travel giant.  Here's why the stock be primed for a turnaround
+
+Isabella Gao, equity analyst and correspondent at CNBC, breaks down why this travel stock could be a beneficiary of the AI boom, rather than a victim..
+
+[Ler noticia completa](https://www.cnbc.com/video/2026/09/09/investors-worried-ai-would-disrupt-this-travel-giant-heres-why-the-stock-be-primed-for-a-turnaround.html)
 
 ---
 
-## 9. 'Once-in-a-lifetime’ shift is making 60/40 portfolios less relevant, says BlackRock exec. Here’s the mix it favors - CNBC
+## 8. Oracle jumps 6% after reporting 30% revenue growth fueled by AI cloud demand - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-a core part of private markets exposure for investors.  "We look at AI as an amazing once in a lifetime opportunity for our clients including institutional and wealth," he said, adding that AI has evolved from a micro theme a few years ago to a macro theme today, which has implications across regions, sectors, and asset classes.  BlackRock sees AI through the lens of three phases.
+Oracle's shares jumped in premarket trading on Friday after it reported 30% revenue growth in its fiscal first quarter, fueled by strong demand for its cloud services and rapid data center expansion. 
 
-[Ler noticia completa](https://www.cnbc.com/2026/09/10/blackrock-60-40-portfolio-private-markets.html)
+The enterprise software giant said total first-quarter revenue grew to $19. 35 billion, beating LSEG consensus estimates of $19.
+
+[Ler noticia completa](https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html)
 
 ---
 
-## 10. Here’s a rapid-fire update on our 33-stock portfolio, including Cramer’s 6 favorites to buy - CNBC
+## 9. China AI developer Z.AI launches $5 billion Hong Kong share, convertible bond sales, term sheet shows - Reuters
 
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
+**Fonte:** reuters.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-it attracts more technology analyst coverage rather than being viewed primarily through a chemicals lens.  Amazon : Of the hyperscalers, Amazon has the most going for it outside the data center thanks to its fast-growing cloud business and dominant retail operation.  Amazon could be the first hyperscaler to show investors substantial profits from AI.
+Skip to main content
 
-[Ler noticia completa](https://www.cnbc.com/2026/09/10/a-rapid-fire-update-on-our-33-stock-portfolio-including-6-to-buy-now.html)
+Report AdImage 2
+
+Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv
+
+ letters and robot hand miniature
+
+AI (Artificial Intelligence) letters and robot hand miniature in this illustration created on June 23, 2023.  REUTERS/Dado Ruvic Purchase Licensing Rights, opens new tab
+
+   Summary
+   Companies
+
+   Z. AI offers $2 billion in new Hong Kong-listed shares, sheet shows
+   Company also markets $3 billion of ​convertible bonds, sheet shows
+   Proceeds target computing capacity, expansion and acquisitions, sheet shows [.
+
+[Ler noticia completa](https://www.reuters.com/world/asia-pacific/china-ai-developer-zai-launches-5-billion-hong-kong-share-convertible-bond-sales-2026-09-11/)
+
+---
+
+## 10. AI self improvement raises fears of losing human control - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+watch now
+watch now
+VIDEO
+10:20
+Navigating the risk of a market correction: The Investment Committee weighs in
+watch now
+watch now
+VIDEO
+05:31
+'Let’s knock down those tariffs,' says Canada's Conservative Leader Pierre Poilievre
+27 min ago
+watch now
+watch now
+VIDEO
+46:55
+Cohere CEO Aidan Gomez says China is closing the AI gap
+watch now
+watch now
+VIDEO
+06:49
+'Agent states' are the new apex predators, says Crowdstrike CEO George Kurtz
+watch now
+watch now
+VIDEO
+05:20
+Expect minimal churn with latest Apple price increases, says Yorkville Ives' Dan Ives
+watch now
+watch now
+VIDEO
+10:20
+Navigating the risk of a market correction: The Investment Committee weighs in
+Load More [. ] Skip Navigation
+Markets
+Pre-Markets
+U. S.
+
+[Ler noticia completa](https://www.cnbc.com/video/2026/09/10/ai-self-improvement-raises-fears-of-losing-human-control.html)
 
 ---

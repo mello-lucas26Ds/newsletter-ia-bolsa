@@ -3,57 +3,15 @@
     "versao": "1.0",
     "data": "2026-09-11",
     "total_noticias": 10,
-    "gerado_em": "2026-09-11T07:45:11.532487"
+    "gerado_em": "2026-09-11T14:05:01.047946"
   },
   "noticias": [
     {
-      "titulo": "13/15 holdings gain as AI strategy pulls ahead of the S&P 500",
-      "url": "https://www.investing.com/news/stock-market-news/ipo-datvietvac-hon-1700-nha-dau-tu-dang-ky-mua-vuot-luong-co-phieu-chao-ban-4894963",
-      "fonte": "investing.com",
-      "data": "2026-09-10",
-      "resumo": "The portfolio’s biggest winner is Arm Holdings (NASDAQ:ARM), up 12. 52% this month to $264. 23, followed closely by Marvell Technology (NASDAQ:MRVL), up 11.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Is Moving Into Everyday Business — These 5 Stocks Sit Squarely in the Path of the Surge",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-moving-everyday-business-5-165250986.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-07",
-      "resumo": "## 2.  Broadcom (NASDAQ: AVGO)\n\nBroadcom (NASDAQ:AVGO) is the custom silicon and AI networking counterweight to NVIDIA.  Q3 FY26 revenue was $29.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "These AI-stock strategies keep beating the market By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/77-35-29-these-aistock-strategies-keep-beating-the-market-4895227",
-      "fonte": "investing.com",
-      "data": "2026-09-10",
-      "resumo": "Energy Elite:+76. 93% YTD (_+34. 47% vs.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "4 AI Stocks Are Joining the S&P 500: Buy, Hold, or Pass?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-ai-stocks-joining-p-150300778.html",
+      "titulo": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is Attracting Investor Attention: Here is What You Should Know",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-130006363.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-09-09",
-      "resumo": "NAND supply remains constrained as the big three memory makers continue to put most of their efforts and resources into DRAM (dynamic random access memory) and specifically high bandwidth memory (HBM).  At the same time, demand for flash continues to soar from the need for massive solid-state drives (SSDs) that store training data. \n\nSandisk has started to lock up customers with long-term deals for the first time ever, and AI seems to have potentially brought with it a structural shift where the typical boom-bust cycles are no longer the norm.",
+      "resumo": "We essentially look at how sell-side analysts covering the stock are revising their earnings estimates to reflect the impact of the latest business trends.  And if earnings estimates go up for a company, the fair value for its stock goes up.  A higher fair value than the current market price drives investors' interest in buying the stock, leading to its price moving higher.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -63,39 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Oracle maintains its capex forecast and reports cloud growth, sending shares up 7% - Business Insider",
-      "url": "https://www.businessinsider.com/oracle-q1-2027-earnings-maintains-capex-forecast-reports-cloud-growth-2026-9",
-      "fonte": "businessinsider.com",
+      "titulo": "TSMC (TSM) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-registers-bigger-fall-214505555.html",
+      "fonte": "finance.yahoo.com",
       "data": "2026-09-10",
-      "resumo": "Oracle reported $55. 7 billion in capex, including new data centers, in its 2026 fiscal year. \n\nOracle has developed several financing models, including supplier financing arrangements, customer prepayments, and \"bring your own hardware\" deals in which customers purchase hardware while Oracle provides the cloud infrastructure and operations.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Major Market Top Sign: Insiders Are Cashing Out - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4944500-major-market-top-sign-insiders-are-cashing-out",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-09",
-      "resumo": "Bret Jensen\n\nInvesting Group Leader\n\n## Summary\n\n AI-driven IPO and capital markets activity in 2026 mirrors the late-stage exuberance of the 1999 Internet Boom and 2021 SPAC surge. \n CoreWeave kicked off the recent IPO wave, raising $1. 5B despite $860M in FY2024 losses; shares have since declined 40%, and CDS prices have surged.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "An AI stock market crash would spark a US recession and hammer the world economy, Fitch warns - Business Insider",
-      "url": "https://www.businessinsider.com/ai-stock-crash-us-recession-global-stagnation-fitch-ratings-2026-9",
-      "fonte": "businessinsider.com",
-      "data": "2026-09-10",
-      "resumo": "\"A severe AI-related equity price shock — that could possibly result from a major re-evaluation of the ability of AI investments to generate returns — would likely entail a US recession,\" a team of analysts led by Alex Muscatelli, a director at the firm, wrote. \n\nIn the recession scenario, the firm estimated that GDP could contract as much as 1. 5% in the second quarter of next year.",
+      "resumo": "Investors will be eagerly watching for the performance of TSMC in its upcoming earnings disclosure.  The company's upcoming EPS is projected at $4. 45, signifying a 52.",
       "sentimento": "bearish",
       "tags": [
         "AI",
@@ -105,11 +35,67 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Our top 3 stocks that bucked the market’s recent pullback — plus, a look at the bottom 3 - CNBC",
-      "url": "https://www.cnbc.com/2026/09/10/our-top-3-stocks-that-bucked-the-markets-recent-pullback-plus-a-look-at-the-bottom-3.html",
+      "titulo": "TSMC Revenue Rises 53% as AI Chip Demand Outstrips Supply",
+      "url": "https://ca.finance.yahoo.com/news/tsmc-revenue-rises-53-ai-053524398.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-09-10",
+      "resumo": "1 / 1\n\n## TSMC Revenue Rises 53% as AI Chip Demand Outstrips Supply\n\nDebby Wu\n\n2 min read\n\n TSM\n\n  -0. 83%\n NVDA\n\n  -0. 91%\n AAPL\n\n  -0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC August Revenue Rises 53.3% to T$514.8 Billion",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-august-revenue-rises-53-102300997.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-10",
+      "resumo": "## Advanced Chip Processes Support Revenue Growth\n\nAccording to the supplied information, August's revenue growth was supported primarily by sales from TSMC's most advanced chipmaking processes. \n\nDemand for these manufacturing technologies has increased in recent years alongside demand for advanced artificial intelligence processors. \n\nThe increase in demand has constrained TSMC's overall production capacity, according to the supplied information.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Stock Slips Despite 53% August Revenue Growth",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-slips-despite-53-122227013.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-10",
+      "resumo": "slipped 0. 40% premarket after reporting August revenue of NT$514. 8 billion ($16.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI is losing its stranglehold on the U.S. stock market. Here's why - CNBC",
+      "url": "https://www.cnbc.com/2026/09/10/ai-is-losing-its-stranglehold-on-the-us-stock-market-heres-why.html",
       "fonte": "cnbc.com",
       "data": "2026-09-10",
-      "resumo": "to handle emerging AI threats , underscoring the long-term opportunity.  But after the stock's strong run, investors used the earnings report to take profits.  We were glad we trimmed our position ahead of the print.",
+      "resumo": "\"Throughout the summer single-name implied volatility raced ahead of S&P 500 implied volatility as traders discounted macro issues and focused on name-specific stories, particularly in the AI space,\" Scott Nations, president at Nations Indexes, said in an email.  \"That trend is reversing as resurgent inflation—fueled by higher oil prices — the Fed's response at its September 16th meeting, and other political and geopolitical concerns dominate thinking. \"  \nCrude oil futures are back above $100 for the first time since May and energy stocks in the S&P 500 Index made fresh highs Thursday as the State Street Energy Select Sector SPDR ETF (XLE) extended its lead over technology stocks as the best-performing sector of the year, now up 43 percent.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Investors worried AI would disrupt this travel giant. Here's why the stock be primed for a turnaround - CNBC",
+      "url": "https://www.cnbc.com/video/2026/09/09/investors-worried-ai-would-disrupt-this-travel-giant-heres-why-the-stock-be-primed-for-a-turnaround.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-09",
+      "resumo": "Share\n\n# Investors worried AI would disrupt this travel giant.  Here's why the stock be primed for a turnaround\n\nIsabella Gao, equity analyst and correspondent at CNBC, breaks down why this travel stock could be a beneficiary of the AI boom, rather than a victim..",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -119,11 +105,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "'Once-in-a-lifetime’ shift is making 60/40 portfolios less relevant, says BlackRock exec. Here’s the mix it favors - CNBC",
-      "url": "https://www.cnbc.com/2026/09/10/blackrock-60-40-portfolio-private-markets.html",
+      "titulo": "Oracle jumps 6% after reporting 30% revenue growth fueled by AI cloud demand - CNBC",
+      "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
       "fonte": "cnbc.com",
-      "data": "2026-09-10",
-      "resumo": "a core part of private markets exposure for investors.  \"We look at AI as an amazing once in a lifetime opportunity for our clients including institutional and wealth,\" he said, adding that AI has evolved from a micro theme a few years ago to a macro theme today, which has implications across regions, sectors, and asset classes.  BlackRock sees AI through the lens of three phases.",
+      "data": "2026-09-11",
+      "resumo": "Oracle's shares jumped in premarket trading on Friday after it reported 30% revenue growth in its fiscal first quarter, fueled by strong demand for its cloud services and rapid data center expansion. \n\nThe enterprise software giant said total first-quarter revenue grew to $19. 35 billion, beating LSEG consensus estimates of $19.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -133,12 +119,26 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Here’s a rapid-fire update on our 33-stock portfolio, including Cramer’s 6 favorites to buy - CNBC",
-      "url": "https://www.cnbc.com/2026/09/10/a-rapid-fire-update-on-our-33-stock-portfolio-including-6-to-buy-now.html",
+      "titulo": "China AI developer Z.AI launches $5 billion Hong Kong share, convertible bond sales, term sheet shows - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-ai-developer-zai-launches-5-billion-hong-kong-share-convertible-bond-sales-2026-09-11/",
+      "fonte": "reuters.com",
+      "data": "2026-09-11",
+      "resumo": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n letters and robot hand miniature\n\nAI (Artificial Intelligence) letters and robot hand miniature in this illustration created on June 23, 2023.  REUTERS/Dado Ruvic Purchase Licensing Rights, opens new tab\n\n   Summary\n   Companies\n\n   Z. AI offers $2 billion in new Hong Kong-listed shares, sheet shows\n   Company also markets $3 billion of ​convertible bonds, sheet shows\n   Proceeds target computing capacity, expansion and acquisitions, sheet shows [.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI self improvement raises fears of losing human control - CNBC",
+      "url": "https://www.cnbc.com/video/2026/09/10/ai-self-improvement-raises-fears-of-losing-human-control.html",
       "fonte": "cnbc.com",
       "data": "2026-09-10",
-      "resumo": "it attracts more technology analyst coverage rather than being viewed primarily through a chemicals lens.  Amazon : Of the hyperscalers, Amazon has the most going for it outside the data center thanks to its fast-growing cloud business and dominant retail operation.  Amazon could be the first hyperscaler to show investors substantial profits from AI.",
-      "sentimento": "bullish",
+      "resumo": "watch now\nwatch now\nVIDEO\n10:20\nNavigating the risk of a market correction: The Investment Committee weighs in\nwatch now\nwatch now\nVIDEO\n05:31\n'Let’s knock down those tariffs,' says Canada's Conservative Leader Pierre Poilievre\n27 min ago\nwatch now\nwatch now\nVIDEO\n46:55\nCohere CEO Aidan Gomez says China is closing the AI gap\nwatch now\nwatch now\nVIDEO\n06:49\n'Agent states' are the new apex predators, says Crowdstrike CEO George Kurtz\nwatch now\nwatch now\nVIDEO\n05:20\nExpect minimal churn with latest Apple price increases, says Yorkville Ives' Dan Ives\nwatch now\nwatch now\nVIDEO\n10:20\nNavigating the risk of a market correction: The Investment Committee weighs in\nLoad More [. ] Skip Navigation\nMarkets\nPre-Markets\nU. S.",
+      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
