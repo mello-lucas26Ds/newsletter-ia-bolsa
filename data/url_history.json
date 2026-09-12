@@ -1,84 +1,4 @@
 {
-  "https://www.benzinga.com/etfs/sector-etfs/26/08/61499522/cathie-wood-trims-amd-after-a-120-rally-is-the-ai-trade-getting-too-crowded": {
-    "hash": "8b48c5a27bdd26f71da50a78e391abd9",
-    "visto_em": "2026-09-04"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/snowflakes-ai-fueled-beat-sparks-012402886.html": {
-    "hash": "b21772aa53f953632c200827557be545",
-    "visto_em": "2026-09-04"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-305-4886742": {
-    "hash": "59b485fd01a832ae0baef271e25bcc38",
-    "visto_em": "2026-09-04"
-  },
-  "https://www.benzinga.com/markets/equities/26/09/61576298/tepper-sandisk-exit": {
-    "hash": "92d05013525e95f9677ef6b24322f363",
-    "visto_em": "2026-09-04"
-  },
-  "https://finance.yahoo.com/quote/VPN": {
-    "hash": "53a1bdaae9389aa097cdeac98b47d45a",
-    "visto_em": "2026-09-04"
-  },
-  "https://www.investing.com/news/economy-news/jobs-report-broadcom-results-pose-next-hurdles-for-stock-market-rally-4880854": {
-    "hash": "38e2337f8810bbc57864be3348157e3e",
-    "visto_em": "2026-09-04"
-  },
-  "https://www.reuters.com/world/bond-market-may-be-pricing-ai-productivity-gains-yields-rise-jpmorgan-private-2026-08-28": {
-    "hash": "3f2629f81db94f5fd47a4534d1d0ca29",
-    "visto_em": "2026-09-04"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/nvidia-acquire-ai-platform-hugging-124357614.html": {
-    "hash": "0391c47763be0fca2e7c96b1a84ce4b1",
-    "visto_em": "2026-09-04"
-  },
-  "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1": {
-    "hash": "a9caf22fc3b0b57405804e1560d41f3a",
-    "visto_em": "2026-09-04"
-  },
-  "https://markets.ft.com/data/announce/detail?dockey=600-202609030600BIZWIRE_USPRX____20260903_BW685150-1": {
-    "hash": "cccc5a59326b5796bab9b4874d87c028",
-    "visto_em": "2026-09-04"
-  },
-  "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout": {
-    "hash": "0224400cadd363100dfc4ee253af3011",
-    "visto_em": "2026-09-04"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/not-nvidia-not-palantir-ai-112000354.html": {
-    "hash": "49aa04bde66929508f902e50e03c6713",
-    "visto_em": "2026-09-04"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/4-stocks-buy-now-ride-135200954.html": {
-    "hash": "78e7472b47504e2f82179b0a87dce2e7",
-    "visto_em": "2026-09-04"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-top-ai-stocks-revenue-161835070.html": {
-    "hash": "e0edec6bbe516df1cdb545b134e3871d",
-    "visto_em": "2026-09-04"
-  },
-  "https://nz.finance.yahoo.com/quote/2330.TW/news": {
-    "hash": "741541a7f6064bfc48acc47d1c94f0e5",
-    "visto_em": "2026-09-04"
-  },
-  "https://www.investing.com/equities/c3-ai-inc": {
-    "hash": "0f74eb42f52ca2577de1e2fe0c9099e6",
-    "visto_em": "2026-09-04"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/once-lifetime-investment-opportunity-3-105000124.html": {
-    "hash": "d07fb41194e235fd197c987cd00b8d1c",
-    "visto_em": "2026-09-04"
-  },
-  "https://finance.yahoo.com/quote/AI": {
-    "hash": "4c3e51c671c67b354d54597463eca660",
-    "visto_em": "2026-09-04"
-  },
-  "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo": {
-    "hash": "99e01aa4173319decc40a52f17d3d4fa",
-    "visto_em": "2026-09-04"
-  },
-  "https://www.investing.com/news/stock-market-news/three-australian-stocks-with-strong-data-center-exposure-93CH-4883470": {
-    "hash": "4905b98c5f1e03cc079248e319772c9d",
-    "visto_em": "2026-09-04"
-  },
   "https://ca.finance.yahoo.com/quote/TSM/profile": {
     "hash": "a4412e99407568a780e2f1792f9fc734",
     "visto_em": "2026-09-05"
@@ -558,5 +478,45 @@
   "https://www.cnbc.com/video/2026/09/10/ai-self-improvement-raises-fears-of-losing-human-control.html": {
     "hash": "bc6e195a4bbeaf00defdd4767ebe6ef6",
     "visto_em": "2026-09-11"
+  },
+  "https://www.investing.com/equities/taiwan-semicond.manufacturing-co": {
+    "hash": "f3209f7fc30450494b32554c4e568c36",
+    "visto_em": "2026-09-12"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsm-just-posted-record-sales-225826905.html": {
+    "hash": "d3a947bc928fb5d2d57c3f38dc3fcace",
+    "visto_em": "2026-09-12"
+  },
+  "https://currently.att.yahoo.com/att/tsmc-just-delivered-fantastic-news-173001003.html": {
+    "hash": "5458e6bb1fcb60d402e97fa1c42ba5bc",
+    "visto_em": "2026-09-12"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-price-prediction-one-number-153054824.html": {
+    "hash": "1c0ba647dc9bccbe6461f074dae52847",
+    "visto_em": "2026-09-12"
+  },
+  "https://markets.businessinsider.com/news/stocks/sandisk-up-over-40percent-past-month--can-the-rally-last-15923991": {
+    "hash": "eff2c5828c230e51e3c34ab7fb2a102d",
+    "visto_em": "2026-09-12"
+  },
+  "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-oil-prices-fall-inflation-remains-sticky-alphacheck-140509850.html": {
+    "hash": "c64e7db998e806972b321bb89825daf3",
+    "visto_em": "2026-09-12"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tsm-record-sales-ai-chips-125702278.html": {
+    "hash": "fa3a908528050977dc4e74b9c43d2442",
+    "visto_em": "2026-09-12"
+  },
+  "https://br.investing.com/news/company-news/zenta-group-adquire-empresa-de-ia-zentoai-por-us-71-milhoes-93CH-2060672": {
+    "hash": "0ca537a92d486413e04735184a46691d",
+    "visto_em": "2026-09-12"
+  },
+  "https://finance.yahoo.com/energy/articles/3-ai-power-stocks-buy-120000043.html": {
+    "hash": "1282510fc4e55a12eb785964157e8d8e",
+    "visto_em": "2026-09-12"
+  },
+  "https://www.investing.com/analysis/palantir-and-nebius-are-building-a-sovereign-ai-stack-not-a-merger-of-equals-200687388": {
+    "hash": "10f4d69e4ff8f1dc2b117a301e882dfe",
+    "visto_em": "2026-09-12"
   }
 }
