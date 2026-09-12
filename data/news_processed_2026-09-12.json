@@ -3,29 +3,29 @@
     "versao": "1.0",
     "data": "2026-09-12",
     "total_noticias": 10,
-    "gerado_em": "2026-09-12T07:40:00.587263"
+    "gerado_em": "2026-09-12T13:22:26.869610"
   },
   "noticias": [
     {
-      "titulo": "Taiwan Semiconductor Stock Price Today | NYSE: TSM Live",
-      "url": "https://www.investing.com/equities/taiwan-semicond.manufacturing-co",
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.42%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-142-4896901",
+      "fonte": "investing.com",
+      "data": "2026-09-10",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| COO | 54.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.56%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-056-4898411",
       "fonte": "investing.com",
       "data": "2026-09-11",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 974.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSM Just Posted Record Sales. Nvidia May Be Both the Winner and the One Paying for It",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsm-just-posted-record-sales-225826905.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-11",
-      "resumo": "just delivered another hard-data point showing that the AI semiconductor boom remains very much alive. \n\nTSM reported September 10 that August revenue reached NT$514. 81 billion, up 53.",
+      "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| ORCL | 150.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -35,81 +35,25 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TSMC Just Delivered Fantastic News for Nvidia Shareholders",
-      "url": "https://currently.att.yahoo.com/att/tsmc-just-delivered-fantastic-news-173001003.html",
-      "fonte": "currently.att.yahoo.com",
-      "data": "2026-09-11",
-      "resumo": "Now, let's consider the positive news for Nvidia shareholders.  TSMC reported record revenue for August, driven by demand for AI chips.  Revenue of more than $16 billion represented an increase of 53% year-over-year and 10% from July.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Price Prediction: One Number Could Define the Stock’s Next Move",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-price-prediction-one-number-153054824.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-11",
-      "resumo": "Enter Your Email and See the Ten →\n\nThe freshest data point, and the one Barron's flagged this week, is the record August sales disclosure: August 2026 revenue surged 53. 3% year over year, and January-through-August revenue was up 39. 3%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "SanDisk Up Over 40% Past Month: Can the Rally Last? - September 8, 2026 - Zacks.com",
-      "url": "https://markets.businessinsider.com/news/stocks/sandisk-up-over-40percent-past-month--can-the-rally-last-15923991",
-      "fonte": "markets.businessinsider.com",
-      "data": "2026-09-08",
-      "resumo": "SNDK's bullish RSI leaves room for gains, but valuation risks remain. \n\nSanDisk (SNDK - Free Report) shares have been rallying hard, with the stock gaining over 16% over the past week and adding over 40% over the past month.  So far this year, the stock is up over 530% thanks to the strong demand for memory used in AI infrastructure.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Tech stocks rally as oil prices fall, inflation remains sticky",
-      "url": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-oil-prices-fall-inflation-remains-sticky-alphacheck-140509850.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-11",
-      "resumo": ", a benchmarket for long term borrowing and mortgages, continued to hover around 4. 9% as Brent crude futures (BZ=F) fell 3% to around $104 per barrel amid continued Iran-US tensions in the Middle East. \n\nTech stocks (XLK) gained more than 1% as Oracle (ORCL) popped 2% after the company said its quarterly AI cloud infrastructure revenue boomed.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsm-record-sales-ai-chips-125702278.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-11",
-      "resumo": "Oops, something went wrong\n\nSkip to navigationSkip to main contentSkip to right column\n\n# Yahoo Finance\n\n  \n   Image 2: ADBE-logo ADBE 248. 83 (-2. 37%)  \n   T TNON 5.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Zenta Group adquire empresa de IA ZentoAI por US$ 7,1 milhões Por Investing.com",
-      "url": "https://br.investing.com/news/company-news/zenta-group-adquire-empresa-de-ia-zentoai-por-us-71-milhoes-93CH-2060672",
-      "fonte": "br.investing.com",
+      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.93% By Investing.com",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-093-5587149",
+      "fonte": "in.investing.com",
       "data": "2026-09-09",
-      "resumo": "Essa notícia foi traduzida com a ajuda de inteligência artificial.  Para mais informação, veja nossos Termos de Uso. \n\n## Últimos comentários\n\nParticipe dos nossos desafios de investimento e concorra a prêmios, enquanto aprende.",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Moneyboxx Finance | 45.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.56%",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-056-4866812",
+      "fonte": "uk.investing.com",
+      "data": "2026-09-11",
+      "resumo": "At the close in Sao Paulo, the Bovespa lost 0. 56%.  Grupo Vamos SA (BVMF:VAMO3) shed 4.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -119,11 +63,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "3 AI Power Stocks to Buy Now for Growth, Value and Breakout Potential",
-      "url": "https://finance.yahoo.com/energy/articles/3-ai-power-stocks-buy-120000043.html",
-      "fonte": "finance.yahoo.com",
+      "titulo": "Jensen Huang Mocks Nvidia ‘Circular Financing’ Fears: ‘If That Is, Let’s Do More of That’ - Benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61740701/nvidia-circular-financing-jensen-huang",
+      "fonte": "benzinga.com",
       "data": "2026-09-11",
-      "resumo": "AI spending is fueling Wall Street and real-world economic growth, meaning investors must continue to buy and hold AI stocks. \n\nYet, buying technology stocks that are surefire long-term AI winners outside of a handful of stocks like Nvidia and Taiwan Semiconductor is no easy task considering how rapidly the technologies and their use cases are changing. \n\nWhat appears certain is that the AI spending spree is heating up.",
+      "resumo": "Ring the Bell\n\nA newsletter built for market enthusiasts by market enthusiasts.  Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes. \n\n Terms & Conditions\n Do Not Sell My Personal Data/Privacy Policy\n Disclaimer\n Service Status\n Sitemap\n\n© 2026Benzinga | All Rights Reserved\n\nby Daragh Thomas Benzinga Staff Writer\n\nNVDANVIDIA Corp\n\n$221.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -133,12 +77,68 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Palantir and Nebius Are Building a Sovereign AI Stack, Not a Merger ...",
-      "url": "https://www.investing.com/analysis/palantir-and-nebius-are-building-a-sovereign-ai-stack-not-a-merger-of-equals-200687388",
-      "fonte": "investing.com",
-      "data": "2026-09-09",
-      "resumo": "Anna Coulling\n\nThe September 8 announcement that Palantir has named Nebius its preferred sovereign AI infrastructure partner is one of those deals that looks modest on a press-release page and large once you follow the logic.  It is not an exclusive lock-in, it is not a co-sale of the two businesses, and it does not by itself crown anyone “the” market leader.  What it does is pair Palantir’s software layer with a purpose-built GPU cloud inside Palantir’s own security perimeter — and that combination matters for how enterprises will buy AI over the next few years.",
+      "titulo": "A popular hedge fund style is struggling in 2026. Here's why firms like Freestone Grove and Holocene have lost money. - Business Insider",
+      "url": "https://www.businessinsider.com/market-neutral-stockpickers-hedge-funds-freestone-holocene-performance-2026-9",
+      "fonte": "businessinsider.com",
+      "data": "2026-09-10",
+      "resumo": "\"AI has dominated the market narrative in 2026, and has driven an outsize share of equity L/S alpha in 2026,\" the report states. \n\nJump to [. ] The market has favored concentrated managers willing to make big bets on companies and trends they believe in, though some hedging is always required, as Situational Awareness's July implosion demonstrated.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot - CNBC",
+      "url": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-11",
+      "resumo": "In July, shares of chipmaker CXMT, which makes dynamic random-access memory (DRAM) chips, a key feature of some AI systems, soared nearly 466% in their debut on Shanghai's tech-heavy STAR Market, making CXMT the most valuable China-listed company.  [. ] Founded in 2018, Enflame is building AI processors as China looks to boost its efforts in model building amid major capability gains from domestic developers.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Google has a new edge in the AI race - Business Insider",
+      "url": "https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9",
+      "fonte": "businessinsider.com",
+      "data": "2026-09-11",
+      "resumo": "Google has been struggling to release an AI model that's widely viewed as competitive lately.  It has used talent deals — which are typically structured to avoid antitrust scrutiny compared to fully fledged acquisitions — to gain an edge.  For example, Google snapped up AI coding startup Windsurf's talent last year, with former CEO Varun Mohan now leading Google's agentic coding program Antigravity.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data - TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "fonte": "techcrunch.com",
+      "data": "2026-09-11",
+      "resumo": "Mecka AI was co-founded in 2024 by four entrepreneurs, including Canadians Josh Gao and Mogen Cheng, who previously built a restaurant fintech startup, and Jason Chong, who joined Coinbase after it acquired his crypto exchange.  Duy Nguyen, the only non-Canadian on the team, focuses on operations at Mecka. \n\nThe four co-founders don’t have backgrounds in robotics.",
       "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia On The Offensive (NASDAQ:NVDA) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4945618-nvidia-on-the-offensive",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-11",
+      "resumo": "Bill Gunderson\n\nInvesting Group Leader\n\n## Summary\n\n Nvidia Corporation stands out as the premier AI beneficiary, uniquely positioned to receive capex flows from the rest of the Magnificent 7. \n NVDA's financials are exceptional: sales grew 126%, 114%, and 65% over the last three fiscal years; EPS surged 288%, 131%, and 60%. \n My five-year target price for NVDA stock is $444.",
+      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"

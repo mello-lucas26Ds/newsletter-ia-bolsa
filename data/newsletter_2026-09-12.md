@@ -1,165 +1,175 @@
 # Newsletter IA Bolsa — 2026-09-12
 
-**Gerado em:** 12/09/2026 07:40
+**Gerado em:** 12/09/2026 13:22
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Taiwan Semiconductor Stock Price Today | NYSE: TSM Live
+## 1. Brazil stocks higher at close of trade; Bovespa up 1.42%
 
 **Fonte:** investing.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
 | Name | Last | Chg.  % | Vol.  |  |
  ---  --- 
-| MU | 974.
+| COO | 54.
 
-[Ler noticia completa](https://www.investing.com/equities/taiwan-semicond.manufacturing-co)
-
----
-
-## 2. TSM Just Posted Record Sales. Nvidia May Be Both the Winner and the One Paying for It
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-just delivered another hard-data point showing that the AI semiconductor boom remains very much alive. 
-
-TSM reported September 10 that August revenue reached NT$514. 81 billion, up 53.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsm-just-posted-record-sales-225826905.html)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-142-4896901)
 
 ---
 
-## 3. TSMC Just Delivered Fantastic News for Nvidia Shareholders
-
-**Fonte:** currently.att.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Now, let's consider the positive news for Nvidia shareholders.  TSMC reported record revenue for August, driven by demand for AI chips.  Revenue of more than $16 billion represented an increase of 53% year-over-year and 10% from July.
-
-[Ler noticia completa](https://currently.att.yahoo.com/att/tsmc-just-delivered-fantastic-news-173001003.html)
-
----
-
-## 4. TSMC Price Prediction: One Number Could Define the Stock’s Next Move
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Enter Your Email and See the Ten →
-
-The freshest data point, and the one Barron's flagged this week, is the record August sales disclosure: August 2026 revenue surged 53. 3% year over year, and January-through-August revenue was up 39. 3%.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-price-prediction-one-number-153054824.html)
-
----
-
-## 5. SanDisk Up Over 40% Past Month: Can the Rally Last? - September 8, 2026 - Zacks.com
-
-**Fonte:** markets.businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-SNDK's bullish RSI leaves room for gains, but valuation risks remain. 
-
-SanDisk (SNDK - Free Report) shares have been rallying hard, with the stock gaining over 16% over the past week and adding over 40% over the past month.  So far this year, the stock is up over 530% thanks to the strong demand for memory used in AI infrastructure.
-
-[Ler noticia completa](https://markets.businessinsider.com/news/stocks/sandisk-up-over-40percent-past-month--can-the-rally-last-15923991)
-
----
-
-## 6. Tech stocks rally as oil prices fall, inflation remains sticky
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-, a benchmarket for long term borrowing and mortgages, continued to hover around 4. 9% as Brent crude futures (BZ=F) fell 3% to around $104 per barrel amid continued Iran-US tensions in the Middle East. 
-
-Tech stocks (XLK) gained more than 1% as Oracle (ORCL) popped 2% after the company said its quarterly AI cloud infrastructure revenue boomed.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/article/tech-stocks-rally-as-oil-prices-fall-inflation-remains-sticky-alphacheck-140509850.html)
-
----
-
-## 7. TSM’s Record Sales Say AI Chips Are Booming. The Nvidia-AMD Fight Is Now About Who Keeps the Margin
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Oops, something went wrong
-
-Skip to navigationSkip to main contentSkip to right column
-
-# Yahoo Finance
-
-  
-   Image 2: ADBE-logo ADBE 248. 83 (-2. 37%)  
-   T TNON 5.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/tsm-record-sales-ai-chips-125702278.html)
-
----
-
-## 8. Zenta Group adquire empresa de IA ZentoAI por US$ 7,1 milhões Por Investing.com
-
-**Fonte:** br.investing.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Essa notícia foi traduzida com a ajuda de inteligência artificial.  Para mais informação, veja nossos Termos de Uso. 
-
-## Últimos comentários
-
-Participe dos nossos desafios de investimento e concorra a prêmios, enquanto aprende.
-
-[Ler noticia completa](https://br.investing.com/news/company-news/zenta-group-adquire-empresa-de-ia-zentoai-por-us-71-milhoes-93CH-2060672)
-
----
-
-## 9. 3 AI Power Stocks to Buy Now for Growth, Value and Breakout Potential
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-AI spending is fueling Wall Street and real-world economic growth, meaning investors must continue to buy and hold AI stocks. 
-
-Yet, buying technology stocks that are surefire long-term AI winners outside of a handful of stocks like Nvidia and Taiwan Semiconductor is no easy task considering how rapidly the technologies and their use cases are changing. 
-
-What appears certain is that the AI spending spree is heating up.
-
-[Ler noticia completa](https://finance.yahoo.com/energy/articles/3-ai-power-stocks-buy-120000043.html)
-
----
-
-## 10. Palantir and Nebius Are Building a Sovereign AI Stack, Not a Merger ...
+## 2. Brazil stocks lower at close of trade; Bovespa down 0.56%
 
 **Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Advertisement
+
+## Trending Stocks
+
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| ORCL | 150.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-056-4898411)
+
+---
+
+## 3. Brazil shares lower at close of trade; Bovespa down 0.93% By Investing.com
+
+**Fonte:** in.investing.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| Moneyboxx Finance | 45.
+
+[Ler noticia completa](https://in.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-093-5587149)
+
+---
+
+## 4. Brazil shares lower at close of trade; Bovespa down 0.56%
+
+**Fonte:** uk.investing.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Anna Coulling
+At the close in Sao Paulo, the Bovespa lost 0. 56%.  Grupo Vamos SA (BVMF:VAMO3) shed 4.
 
-The September 8 announcement that Palantir has named Nebius its preferred sovereign AI infrastructure partner is one of those deals that looks modest on a press-release page and large once you follow the logic.  It is not an exclusive lock-in, it is not a co-sale of the two businesses, and it does not by itself crown anyone “the” market leader.  What it does is pair Palantir’s software layer with a purpose-built GPU cloud inside Palantir’s own security perimeter — and that combination matters for how enterprises will buy AI over the next few years.
+[Ler noticia completa](https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-056-4866812)
 
-[Ler noticia completa](https://www.investing.com/analysis/palantir-and-nebius-are-building-a-sovereign-ai-stack-not-a-merger-of-equals-200687388)
+---
+
+## 5. Jensen Huang Mocks Nvidia ‘Circular Financing’ Fears: ‘If That Is, Let’s Do More of That’ - Benzinga
+
+**Fonte:** benzinga.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Ring the Bell
+
+A newsletter built for market enthusiasts by market enthusiasts.  Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes. 
+
+ Terms & Conditions
+ Do Not Sell My Personal Data/Privacy Policy
+ Disclaimer
+ Service Status
+ Sitemap
+
+© 2026Benzinga | All Rights Reserved
+
+by Daragh Thomas Benzinga Staff Writer
+
+NVDANVIDIA Corp
+
+$221.
+
+[Ler noticia completa](https://www.benzinga.com/markets/prediction-markets/26/09/61740701/nvidia-circular-financing-jensen-huang)
+
+---
+
+## 6. A popular hedge fund style is struggling in 2026. Here's why firms like Freestone Grove and Holocene have lost money. - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+"AI has dominated the market narrative in 2026, and has driven an outsize share of equity L/S alpha in 2026," the report states. 
+
+Jump to [. ] The market has favored concentrated managers willing to make big bets on companies and trends they believe in, though some hedging is always required, as Situational Awareness's July implosion demonstrated.
+
+[Ler noticia completa](https://www.businessinsider.com/market-neutral-stockpickers-hedge-funds-freestone-holocene-performance-2026-9)
+
+---
+
+## 7. Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+In July, shares of chipmaker CXMT, which makes dynamic random-access memory (DRAM) chips, a key feature of some AI systems, soared nearly 466% in their debut on Shanghai's tech-heavy STAR Market, making CXMT the most valuable China-listed company.  [. ] Founded in 2018, Enflame is building AI processors as China looks to boost its efforts in model building amid major capability gains from domestic developers.
+
+[Ler noticia completa](https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html)
+
+---
+
+## 8. Google has a new edge in the AI race - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Google has been struggling to release an AI model that's widely viewed as competitive lately.  It has used talent deals — which are typically structured to avoid antitrust scrutiny compared to fully fledged acquisitions — to gain an edge.  For example, Google snapped up AI coding startup Windsurf's talent last year, with former CEO Varun Mohan now leading Google's agentic coding program Antigravity.
+
+[Ler noticia completa](https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9)
+
+---
+
+## 9. Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data - TechCrunch
+
+**Fonte:** techcrunch.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Mecka AI was co-founded in 2024 by four entrepreneurs, including Canadians Josh Gao and Mogen Cheng, who previously built a restaurant fintech startup, and Jason Chong, who joined Coinbase after it acquired his crypto exchange.  Duy Nguyen, the only non-Canadian on the team, focuses on operations at Mecka. 
+
+The four co-founders don’t have backgrounds in robotics.
+
+[Ler noticia completa](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
+
+---
+
+## 10. Nvidia On The Offensive (NASDAQ:NVDA) - Seeking Alpha
+
+**Fonte:** seekingalpha.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Bill Gunderson
+
+Investing Group Leader
+
+## Summary
+
+ Nvidia Corporation stands out as the premier AI beneficiary, uniquely positioned to receive capex flows from the rest of the Magnificent 7. 
+ NVDA's financials are exceptional: sales grew 126%, 114%, and 65% over the last three fiscal years; EPS surged 288%, 131%, and 60%. 
+ My five-year target price for NVDA stock is $444.
+
+[Ler noticia completa](https://seekingalpha.com/article/4945618-nvidia-on-the-offensive)
 
 ---
