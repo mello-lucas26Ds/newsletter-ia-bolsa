@@ -1,153 +1,282 @@
 # Newsletter IA Bolsa — 2026-09-13
 
-**Gerado em:** 13/09/2026 07:58
+**Gerado em:** 13/09/2026 14:04
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish - CNBC
+## 1. Brazil shares higher at close of trade; Bovespa up 1.42%
+
+**Fonte:** uk.investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| PDD Holdings DRC | 78.
+
+[Ler noticia completa](https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-142-4865465)
+
+---
+
+## 2. Brazil shares lower at close of trade; Bovespa down 0.56%
+
+**Fonte:** in.investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| Sailani Tours N Travels | 8.
+
+[Ler noticia completa](https://in.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-056-5590599)
+
+---
+
+## 3. An economist who studies business cycles sees a recession and the Nasdaq crashing 70% by the 2027-end - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Zeberg's thesis lies on the fringes of Wall Street, where most forecasters are expecting the AI boom to last for at least several more years.  Still, more investors are turning a cautious eye toward the strength of the US economy, with concerns swirling around inflation as oil tops $100 a barrel again. 
+
+Jump to [.
+
+[Ler noticia completa](https://www.businessinsider.com/stock-market-crash-ai-bubble-recession-us-economy-outlook-2026-9)
+
+---
+
+## 4. Hard to Handle — the posthumous single that invited the world to party - Financial Times
+
+**Fonte:** ft.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Most Read
+
+       Why the AI race has its creators fearing human extinction
+       Anthropic says it stopped scientists potentially developing bioweapons with AI
+       UK economy unexpectedly grew 0. 4% in July boosted by AI surge
+       Big AI’s open-model problem
+       Hugging Face co-founder: What we learnt from OpenAI’s hack
+
+   Markets
+
+Sections 
+
+       Markets Home
+       Alphaville
+       Markets Data
+       Private markets
+       Equities
+       Bonds
+       Currencies
+       Commodities
+       Crypto
+       Monetary Policy Radar
+       Wealth Management
+       Moral Money
+       ETF Hub
+       Asset management
+
+Most Read [. ] Most Read
+
+       JPMorgan cut off Situational Awareness lending after AI losses
+       Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks
+       Houthis seize Red Sea islands in lightning offensive
+       Scott Bessent fails to break ‘fever’ in US bond market
+       Warsh under mounting pressure to raise rates as US inflation persists
+
+   Climate
+   Opinion
+
+Sections 
+
+       Opinion Home
+       Columnists
+       The FT View
+       The Big Read
+       Lex
+       Obituaries
+       Letters
+
+Most Read
+
+       Why Warsh is starting to bite back
+       Europe’s difficult choices on AI
+       The day that blew America and the world off course
+       Will Burnham grasp the urgent need to defend the UK.
+
+[Ler noticia completa](https://www.ft.com/content/cebd279a-837b-4ab4-94f3-6c534f7d628f)
+
+---
+
+## 5. School politics class: Republicans fear Trump has turned toxic on the campaign trail - Financial Times
+
+**Fonte:** ft.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Most Read
+
+       Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown
+       Why the AI race has its creators fearing human extinction
+       Larry Ellison to sell up to $7. 5bn worth of Oracle stock
+       Larry Ellison cancels $7. 5bn Oracle share sale
+       Anthropic says it stopped scientists potentially developing bioweapons with AI
+
+   Markets
+
+Sections 
+
+       Markets Home
+       Alphaville
+       Markets Data
+       Private markets
+       Equities
+       Bonds
+       Currencies
+       Commodities
+       Crypto
+       Monetary Policy Radar
+       Wealth Management
+       Moral Money
+       ETF Hub
+       Asset management
+
+Most Read [.
+
+[Ler noticia completa](https://www.ft.com/content/4a2a1f2a-c9ec-48a1-8119-9463aa12ae65?syn-25a6b1a6=1)
+
+---
+
+## 6. What jobs wipeout? Morgan Stanley says white-collar workers might benefit the most from AI - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Andrew Slimmon, head of applied equity advisors at Morgan Stanley Investment Management, told Business Insider earlier this year that he wasn't worried about the impact AI would have on employment.  He predicted that the market would rebound and become stronger, similar to how the dot-com boom of the early 2000s reshaped the labor force. 
+
+Now Berger and her team see a similar scenario taking shape as the evolution of AI transforms the economy in a way that benefits CHIC households, helps create more wealth, and ultimately fuels more consumer spending.
+
+[Ler noticia completa](https://www.businessinsider.com/ai-jobs-employment-wall-street-high-income-economy-morgan-stanley-2026-9)
+
+---
+
+## 7. Top Wall Street analysts recommend these 3 dividend stocks for higher returns - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-latest artificial intelligence releases are putting the stock's undemanding valuation in a new light.  The Muse Spark 1. 3 model — out on Sept.
+Furthermore, Smith expects Sempra Energy's Texas capex plan to stay in place despite the opposition to transmission and data centers, though delays to 765-kV projects are likely.  While a full recovery for SRE stock will need a clearer outcome from the Texas legislative session, Smith believes that the stock may already be an early opportunity for patient investors. 
 
-[Ler noticia completa](https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html)
+"We are early on the upgrade but see limited downside at current levels as the market is pricing in little transmission upside," said Smith.
 
----
-
-## 2. Futures Rise With Help From Oracle’s Beat and Cooler Oil Prices - Bloomberg.com
-
-**Fonte:** bloomberg.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Meantime, the tech trade got a fresh boost from Oracle’s faster-than-anticipated cloud computing growth.  Dell Technologies Inc.  shares soared after RBC Capital Markets started coverage on the company with an outperform rating, citing strong AI infrastructure demand.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-09-11/futures-rise-with-help-from-oracle-s-beat-and-cooler-oil-prices)
+[Ler noticia completa](https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html)
 
 ---
 
-## 3. How AI Is Fueling A New Generation Of Healthcare Startups - Forbes
-
-**Fonte:** forbes.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Advances in innovation also mean new drugs, therapies, and treatment options.  The doctor’s toolkit expands, while patients gain greater access to information and more opportunities to participate actively in managing their own health and care. 
-
-The convergence of digital technologies, AI, automation, and hardware innovation is enabling more healthcare solutions to be delivered at scale, often at lower cost.
-
-[Ler noticia completa](https://www.forbes.com/sites/jonathanreichental/2026/09/12/how-ai-is-fueling-a-new-generation-of-healthcare-startups/)
-
----
-
-## 4. It's About To Get Worse For Nvidia (NASDAQ:NVDA) - Seeking Alpha
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The Techie
-
-5. 41K Followers
-
-## Summary
-
- Nvidia Corporation delivered a strong Q2 '27, with revenue of $96. 22 billion and EPS of $2.
-
-[Ler noticia completa](https://seekingalpha.com/article/4945297-its-about-to-get-worse-for-nvidia)
-
----
-
-## 5. CPI report, Oracle earnings, Trump’s cash promises and more in Morning Squawk - CNBC
+## 8. Why data centers could be the next big market for catastrophe bonds - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Here's what to know:
+There appears to be "no signs of investor interest waning," Evans said, even as spreads move closer to historical averages. 
 
-Oracle shares are 7% higher before the bell after the software giant beat earnings expectations and reported that cloud infrastructure revenue more than doubled.  Overall revenue grew nearly 30% to $19. 35 billion, while cloud revenue jumped 62% to $11.
+Alongside natural disasters, lenders to data centers may also turn to the CAT bond market to offload risks associated with sabotage, war and cyberattacks, according to Hanni Ali, founder and CEO of Radix ILS, a Bermuda-based insurance-linked securities platform. 
 
-[Ler noticia completa](https://www.cnbc.com/2026/09/11/5-things-to-know-before-the-stock-market-opens.html)
+"I think the interesting thing with data center risk is that we've got an accumulation of physical infrastructure assets — and I'd caution that certainly with the ongoing war in the Middle East, we've also got to recognize that this represents critical infrastructure," Ali told CNBC by video call.
 
----
-
-## 6. Europe is still waiting for a trillion-dollar company. Here’s PitchBook’s frontrunner - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-a 2. 6x increase in 17 months, and growth of 30. 1% annually between June 2020 and June 2026.
-
-[Ler noticia completa](https://www.cnbc.com/2026/09/11/europe-first-trillion-dollar-company.html)
+[Ler noticia completa](https://www.cnbc.com/2026/09/12/ai-data-centers-catastrophe-bonds-insurance.html)
 
 ---
 
-## 7. Kimi-maker Moonshot AI targets $2 billion in annual revenue - TechCrunch
-
-**Fonte:** techcrunch.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Moonshot’s projected revenue is still dwarfed by that of OpenAI and Anthropic, which recent reports put at $40 billion and $65 billion respectively.  Because Moonshot’s model weights are freely available, the company has far lower margins than its closed-weight competitors.  The rising projections show there’s still money to be made from open-weight AI models, even if they’re not as lucrative as closed-weight frontier models.
-
-[Ler noticia completa](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/)
-
----
-
-## 8. EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say - Reuters
+## 9. US Senate negotiators consider requiring AI firms to mitigate known major risks - Reuters
 
 **Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The company has been trying to access more compute as its revenue has surged.  It is also working to gain greater control over its hardware costs by forming an in-house team to design custom ​chips tailored to Claude. 
+WASHINGTON, Sept 11 (Reuters) - U. S.  Senate negotiators are debating legislation that would put responsibility on tech companies to design safe AI products, according ‌to two Senate aides, and involve federal courts if the U.
 
-The listing, which is expected to complete before the U.
-
-[Ler noticia completa](https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/)
+[Ler noticia completa](https://www.reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11/)
 
 ---
 
-## 9. Why fears of AI self-improvement are causing ‘existential’ concerns at Anthropic and OpenAI - CNBC
+## 10. Anthropic CEO Says It’s Time to Slow AI Model Advances - Bloomberg.com
 
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
+**Fonte:** bloomberg.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Nvidia chipmaker TSMC saw August revenue surge over 53% to hit a record high on the back of huge demand for AI chips. 
+Skip to content
 
-Google said it would invest at least $15 billion into AI infrastructure in Finland, marking the tech giant's largest single investment in Europe. 
+Bloomberg the Company & Its Products The Company & its ProductsBloomberg Terminal Demo RequestBloomberg Anywhere Remote Login Bloomberg Anywhere LoginBloomberg Customer Support Customer Support
 
-Mistral hit a $24 billion valuation as Samsung led a $3.
+   ### Bloomberg
 
-[Ler noticia completa](https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html)
+Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world 
+### For Customers
 
----
+       Bloomberg Anywhere Remote Login
+       Software Updates
+       Manage Products and Account Information
 
-## 10. Leopold Aschenbrenner's Situational Awareness is active in options market, sources say - CNBC
+### Support
 
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
+Americas+1 212 318 2000
 
-His reentry to the public markets comes after the hedge fund's assets fell to about $10 billion following a peak above $45 billion to start July.  A rapid decline that month in AI-related stocks that Aschenbrenner was buying using leverage forced him to unwind his public equity positions to Ken Griffin's Citadel in a fire sale to stave off a collapse.  The hedge fund held onto stakes in private companies like Anthropic.
+EMEA+44 20 7330 7500
 
-[Ler noticia completa](https://www.cnbc.com/2026/09/11/leopold-aschenbrenners-situational-awareness-is-active-in-options-market-sources-say.html)
+Asia Pacific+65 6212 1000
+
+   ### Company [. ] ### Top Reads
+
+Image 7: DIMSUM_CMS_DO_NOT_USE_Untitled AI Is Hitting the Legal System From Every Side by Evan RatliffImage 8: SAP SE Chief Executive Officer Christian Klein Interview Europe’s Software Giant Fights to Stay Relevant in the AI Era by Christina KyriasoglouImage 9: Microsoft CEO Satya Nadella Delivers AI Tour Keynote Microsoft Plans Data Center Push to Triple Its Computing Power by Brody Ford and Matt DayImage 10 Where to Invest $10,000: South Korea, Luxury Goods and Water by Suzanne Woolley
+
+[](
+
+HomeBTV+Market DataOpinionAudioOriginalsMagazineEvents
+
+News
+
+MarketsEconomicsTechnologyPoliticsGreenCryptoAI
+
+Work & Life
+
+WealthPursuitsBusinessweekCityLabSportsEqualityManagement & Work
+
+Market Data
+
+StocksCommoditiesRates & BondsCurrenciesFuturesSectorsEconomic Calendar
+
+Explore [. ] Explore
+
+NewslettersExplainersPointed News QuizAlphadots GameThe Big TakeGraphicsSubmit a TipAbout Us
+
+Terms of ServiceDo Not Sell or Share My Personal InformationTrademarksPrivacy Policy
+
+CareersAdvertise
+
+Ad Choices
+
+Help©2026 Bloomberg L.
+
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
 
 ---

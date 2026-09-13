@@ -3,15 +3,113 @@
     "versao": "1.0",
     "data": "2026-09-13",
     "total_noticias": 10,
-    "gerado_em": "2026-09-13T07:58:38.579248"
+    "gerado_em": "2026-09-13T14:04:54.576905"
   },
   "noticias": [
     {
-      "titulo": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish - CNBC",
-      "url": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 1.42%",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-142-4865465",
+      "fonte": "uk.investing.com",
+      "data": "2026-09-10",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| PDD Holdings DRC | 78.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.56%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-056-5590599",
+      "fonte": "in.investing.com",
+      "data": "2026-09-11",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Sailani Tours N Travels | 8.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "An economist who studies business cycles sees a recession and the Nasdaq crashing 70% by the 2027-end - Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-crash-ai-bubble-recession-us-economy-outlook-2026-9",
+      "fonte": "businessinsider.com",
+      "data": "2026-09-12",
+      "resumo": "Zeberg's thesis lies on the fringes of Wall Street, where most forecasters are expecting the AI boom to last for at least several more years.  Still, more investors are turning a cautious eye toward the strength of the US economy, with concerns swirling around inflation as oil tops $100 a barrel again. \n\nJump to [.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Hard to Handle — the posthumous single that invited the world to party - Financial Times",
+      "url": "https://www.ft.com/content/cebd279a-837b-4ab4-94f3-6c534f7d628f",
+      "fonte": "ft.com",
+      "data": "2026-09-12",
+      "resumo": "Most Read\n\n       Why the AI race has its creators fearing human extinction\n       Anthropic says it stopped scientists potentially developing bioweapons with AI\n       UK economy unexpectedly grew 0. 4% in July boosted by AI surge\n       Big AI’s open-model problem\n       Hugging Face co-founder: What we learnt from OpenAI’s hack\n\n   Markets\n\nSections \n\n       Markets Home\n       Alphaville\n       Markets Data\n       Private markets\n       Equities\n       Bonds\n       Currencies\n       Commodities\n       Crypto\n       Monetary Policy Radar\n       Wealth Management\n       Moral Money\n       ETF Hub\n       Asset management\n\nMost Read [. ] Most Read\n\n       JPMorgan cut off Situational Awareness lending after AI losses\n       Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks\n       Houthis seize Red Sea islands in lightning offensive\n       Scott Bessent fails to break ‘fever’ in US bond market\n       Warsh under mounting pressure to raise rates as US inflation persists\n\n   Climate\n   Opinion\n\nSections \n\n       Opinion Home\n       Columnists\n       The FT View\n       The Big Read\n       Lex\n       Obituaries\n       Letters\n\nMost Read\n\n       Why Warsh is starting to bite back\n       Europe’s difficult choices on AI\n       The day that blew America and the world off course\n       Will Burnham grasp the urgent need to defend the UK.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "School politics class: Republicans fear Trump has turned toxic on the campaign trail - Financial Times",
+      "url": "https://www.ft.com/content/4a2a1f2a-c9ec-48a1-8119-9463aa12ae65?syn-25a6b1a6=1",
+      "fonte": "ft.com",
+      "data": "2026-09-12",
+      "resumo": "Most Read\n\n       Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown\n       Why the AI race has its creators fearing human extinction\n       Larry Ellison to sell up to $7. 5bn worth of Oracle stock\n       Larry Ellison cancels $7. 5bn Oracle share sale\n       Anthropic says it stopped scientists potentially developing bioweapons with AI\n\n   Markets\n\nSections \n\n       Markets Home\n       Alphaville\n       Markets Data\n       Private markets\n       Equities\n       Bonds\n       Currencies\n       Commodities\n       Crypto\n       Monetary Policy Radar\n       Wealth Management\n       Moral Money\n       ETF Hub\n       Asset management\n\nMost Read [.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "What jobs wipeout? Morgan Stanley says white-collar workers might benefit the most from AI - Business Insider",
+      "url": "https://www.businessinsider.com/ai-jobs-employment-wall-street-high-income-economy-morgan-stanley-2026-9",
+      "fonte": "businessinsider.com",
+      "data": "2026-09-13",
+      "resumo": "Andrew Slimmon, head of applied equity advisors at Morgan Stanley Investment Management, told Business Insider earlier this year that he wasn't worried about the impact AI would have on employment.  He predicted that the market would rebound and become stronger, similar to how the dot-com boom of the early 2000s reshaped the labor force. \n\nNow Berger and her team see a similar scenario taking shape as the evolution of AI transforms the economy in a way that benefits CHIC households, helps create more wealth, and ultimately fuels more consumer spending.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns - CNBC",
+      "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-13",
+      "resumo": "Furthermore, Smith expects Sempra Energy's Texas capex plan to stay in place despite the opposition to transmission and data centers, though delays to 765-kV projects are likely.  While a full recovery for SRE stock will need a clearer outcome from the Texas legislative session, Smith believes that the stock may already be an early opportunity for patient investors. \n\n\"We are early on the upgrade but see limited downside at current levels as the market is pricing in little transmission upside,\" said Smith.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Why data centers could be the next big market for catastrophe bonds - CNBC",
+      "url": "https://www.cnbc.com/2026/09/12/ai-data-centers-catastrophe-bonds-insurance.html",
       "fonte": "cnbc.com",
       "data": "2026-09-12",
-      "resumo": "latest artificial intelligence releases are putting the stock's undemanding valuation in a new light.  The Muse Spark 1. 3 model — out on Sept.",
+      "resumo": "There appears to be \"no signs of investor interest waning,\" Evans said, even as spreads move closer to historical averages. \n\nAlongside natural disasters, lenders to data centers may also turn to the CAT bond market to offload risks associated with sabotage, war and cyberattacks, according to Hanni Ali, founder and CEO of Radix ILS, a Bermuda-based insurance-linked securities platform. \n\n\"I think the interesting thing with data center risk is that we've got an accumulation of physical infrastructure assets — and I'd caution that certainly with the ongoing war in the Middle East, we've also got to recognize that this represents critical infrastructure,\" Ali told CNBC by video call.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -21,96 +119,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Futures Rise With Help From Oracle’s Beat and Cooler Oil Prices - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-11/futures-rise-with-help-from-oracle-s-beat-and-cooler-oil-prices",
-      "fonte": "bloomberg.com",
-      "data": "2026-09-11",
-      "resumo": "Meantime, the tech trade got a fresh boost from Oracle’s faster-than-anticipated cloud computing growth.  Dell Technologies Inc.  shares soared after RBC Capital Markets started coverage on the company with an outperform rating, citing strong AI infrastructure demand.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "How AI Is Fueling A New Generation Of Healthcare Startups - Forbes",
-      "url": "https://www.forbes.com/sites/jonathanreichental/2026/09/12/how-ai-is-fueling-a-new-generation-of-healthcare-startups/",
-      "fonte": "forbes.com",
-      "data": "2026-09-12",
-      "resumo": "Advances in innovation also mean new drugs, therapies, and treatment options.  The doctor’s toolkit expands, while patients gain greater access to information and more opportunities to participate actively in managing their own health and care. \n\nThe convergence of digital technologies, AI, automation, and hardware innovation is enabling more healthcare solutions to be delivered at scale, often at lower cost.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "It's About To Get Worse For Nvidia (NASDAQ:NVDA) - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4945297-its-about-to-get-worse-for-nvidia",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-11",
-      "resumo": "The Techie\n\n5. 41K Followers\n\n## Summary\n\n Nvidia Corporation delivered a strong Q2 '27, with revenue of $96. 22 billion and EPS of $2.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "CPI report, Oracle earnings, Trump’s cash promises and more in Morning Squawk - CNBC",
-      "url": "https://www.cnbc.com/2026/09/11/5-things-to-know-before-the-stock-market-opens.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-11",
-      "resumo": "Here's what to know:\n\nOracle shares are 7% higher before the bell after the software giant beat earnings expectations and reported that cloud infrastructure revenue more than doubled.  Overall revenue grew nearly 30% to $19. 35 billion, while cloud revenue jumped 62% to $11.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Europe is still waiting for a trillion-dollar company. Here’s PitchBook’s frontrunner - CNBC",
-      "url": "https://www.cnbc.com/2026/09/11/europe-first-trillion-dollar-company.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-11",
-      "resumo": "a 2. 6x increase in 17 months, and growth of 30. 1% annually between June 2020 and June 2026.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Kimi-maker Moonshot AI targets $2 billion in annual revenue - TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "fonte": "techcrunch.com",
-      "data": "2026-09-11",
-      "resumo": "Moonshot’s projected revenue is still dwarfed by that of OpenAI and Anthropic, which recent reports put at $40 billion and $65 billion respectively.  Because Moonshot’s model weights are freely available, the company has far lower margins than its closed-weight competitors.  The rising projections show there’s still money to be made from open-weight AI models, even if they’re not as lucrative as closed-weight frontier models.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say - Reuters",
-      "url": "https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/",
+      "titulo": "US Senate negotiators consider requiring AI firms to mitigate known major risks - Reuters",
+      "url": "https://www.reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11/",
       "fonte": "reuters.com",
       "data": "2026-09-11",
-      "resumo": "The company has been trying to access more compute as its revenue has surged.  It is also working to gain greater control over its hardware costs by forming an in-house team to design custom ​chips tailored to Claude. \n\nThe listing, which is expected to complete before the U.",
-      "sentimento": "bullish",
+      "resumo": "WASHINGTON, Sept 11 (Reuters) - U. S.  Senate negotiators are debating legislation that would put responsibility on tech companies to design safe AI products, according ‌to two Senate aides, and involve federal courts if the U.",
+      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -119,26 +133,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Why fears of AI self-improvement are causing ‘existential’ concerns at Anthropic and OpenAI - CNBC",
-      "url": "https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-11",
-      "resumo": "Nvidia chipmaker TSMC saw August revenue surge over 53% to hit a record high on the back of huge demand for AI chips. \n\nGoogle said it would invest at least $15 billion into AI infrastructure in Finland, marking the tech giant's largest single investment in Europe. \n\nMistral hit a $24 billion valuation as Samsung led a $3.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Leopold Aschenbrenner's Situational Awareness is active in options market, sources say - CNBC",
-      "url": "https://www.cnbc.com/2026/09/11/leopold-aschenbrenners-situational-awareness-is-active-in-options-market-sources-say.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-11",
-      "resumo": "His reentry to the public markets comes after the hedge fund's assets fell to about $10 billion following a peak above $45 billion to start July.  A rapid decline that month in AI-related stocks that Aschenbrenner was buying using leverage forced him to unwind his public equity positions to Ken Griffin's Citadel in a fire sale to stave off a collapse.  The hedge fund held onto stakes in private companies like Anthropic.",
-      "sentimento": "bullish",
+      "titulo": "Anthropic CEO Says It’s Time to Slow AI Model Advances - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "fonte": "bloomberg.com",
+      "data": "2026-09-12",
+      "resumo": "Skip to content\n\nBloomberg the Company & Its Products The Company & its ProductsBloomberg Terminal Demo RequestBloomberg Anywhere Remote Login Bloomberg Anywhere LoginBloomberg Customer Support Customer Support\n\n   ### Bloomberg\n\nConnecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world \n### For Customers\n\n       Bloomberg Anywhere Remote Login\n       Software Updates\n       Manage Products and Account Information\n\n### Support\n\nAmericas+1 212 318 2000\n\nEMEA+44 20 7330 7500\n\nAsia Pacific+65 6212 1000\n\n   ### Company [. ] ### Top Reads\n\nImage 7: DIMSUM_CMS_DO_NOT_USE_Untitled AI Is Hitting the Legal System From Every Side by Evan RatliffImage 8: SAP SE Chief Executive Officer Christian Klein Interview Europe’s Software Giant Fights to Stay Relevant in the AI Era by Christina KyriasoglouImage 9: Microsoft CEO Satya Nadella Delivers AI Tour Keynote Microsoft Plans Data Center Push to Triple Its Computing Power by Brody Ford and Matt DayImage 10 Where to Invest $10,000: South Korea, Luxury Goods and Water by Suzanne Woolley\n\n[](\n\nHomeBTV+Market DataOpinionAudioOriginalsMagazineEvents\n\nNews\n\nMarketsEconomicsTechnologyPoliticsGreenCryptoAI\n\nWork & Life\n\nWealthPursuitsBusinessweekCityLabSportsEqualityManagement & Work\n\nMarket Data\n\nStocksCommoditiesRates & BondsCurrenciesFuturesSectorsEconomic Calendar\n\nExplore [. ] Explore\n\nNewslettersExplainersPointed News QuizAlphadots GameThe Big TakeGraphicsSubmit a TipAbout Us\n\nTerms of ServiceDo Not Sell or Share My Personal InformationTrademarksPrivacy Policy\n\nCareersAdvertise\n\nAd Choices\n\nHelp©2026 Bloomberg L.",
+      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
