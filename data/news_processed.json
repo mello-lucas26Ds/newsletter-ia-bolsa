@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-12",
-    "total_noticias": 95,
-    "gerado_em": "2026-09-12T13:22:26.871457"
+    "data": "2026-09-13",
+    "total_noticias": 98,
+    "gerado_em": "2026-09-13T07:58:38.581218"
   },
   "noticias": [
+    {
+      "titulo": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish - CNBC",
+      "url": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-12",
+      "resumo": "latest artificial intelligence releases are putting the stock's undemanding valuation in a new light.  The Muse Spark 1. 3 model — out on Sept.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Futures Rise With Help From Oracle’s Beat and Cooler Oil Prices - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/futures-rise-with-help-from-oracle-s-beat-and-cooler-oil-prices",
+      "fonte": "bloomberg.com",
+      "data": "2026-09-11",
+      "resumo": "Meantime, the tech trade got a fresh boost from Oracle’s faster-than-anticipated cloud computing growth.  Dell Technologies Inc.  shares soared after RBC Capital Markets started coverage on the company with an outperform rating, citing strong AI infrastructure demand.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "How AI Is Fueling A New Generation Of Healthcare Startups - Forbes",
+      "url": "https://www.forbes.com/sites/jonathanreichental/2026/09/12/how-ai-is-fueling-a-new-generation-of-healthcare-startups/",
+      "fonte": "forbes.com",
+      "data": "2026-09-12",
+      "resumo": "Advances in innovation also mean new drugs, therapies, and treatment options.  The doctor’s toolkit expands, while patients gain greater access to information and more opportunities to participate actively in managing their own health and care. \n\nThe convergence of digital technologies, AI, automation, and hardware innovation is enabling more healthcare solutions to be delivered at scale, often at lower cost.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "It's About To Get Worse For Nvidia (NASDAQ:NVDA) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4945297-its-about-to-get-worse-for-nvidia",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-11",
+      "resumo": "The Techie\n\n5. 41K Followers\n\n## Summary\n\n Nvidia Corporation delivered a strong Q2 '27, with revenue of $96. 22 billion and EPS of $2.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "CPI report, Oracle earnings, Trump’s cash promises and more in Morning Squawk - CNBC",
+      "url": "https://www.cnbc.com/2026/09/11/5-things-to-know-before-the-stock-market-opens.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-11",
+      "resumo": "Here's what to know:\n\nOracle shares are 7% higher before the bell after the software giant beat earnings expectations and reported that cloud infrastructure revenue more than doubled.  Overall revenue grew nearly 30% to $19. 35 billion, while cloud revenue jumped 62% to $11.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Europe is still waiting for a trillion-dollar company. Here’s PitchBook’s frontrunner - CNBC",
+      "url": "https://www.cnbc.com/2026/09/11/europe-first-trillion-dollar-company.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-11",
+      "resumo": "a 2. 6x increase in 17 months, and growth of 30. 1% annually between June 2020 and June 2026.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Kimi-maker Moonshot AI targets $2 billion in annual revenue - TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "fonte": "techcrunch.com",
+      "data": "2026-09-11",
+      "resumo": "Moonshot’s projected revenue is still dwarfed by that of OpenAI and Anthropic, which recent reports put at $40 billion and $65 billion respectively.  Because Moonshot’s model weights are freely available, the company has far lower margins than its closed-weight competitors.  The rising projections show there’s still money to be made from open-weight AI models, even if they’re not as lucrative as closed-weight frontier models.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say - Reuters",
+      "url": "https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/",
+      "fonte": "reuters.com",
+      "data": "2026-09-11",
+      "resumo": "The company has been trying to access more compute as its revenue has surged.  It is also working to gain greater control over its hardware costs by forming an in-house team to design custom ​chips tailored to Claude. \n\nThe listing, which is expected to complete before the U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Why fears of AI self-improvement are causing ‘existential’ concerns at Anthropic and OpenAI - CNBC",
+      "url": "https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-11",
+      "resumo": "Nvidia chipmaker TSMC saw August revenue surge over 53% to hit a record high on the back of huge demand for AI chips. \n\nGoogle said it would invest at least $15 billion into AI infrastructure in Finland, marking the tech giant's largest single investment in Europe. \n\nMistral hit a $24 billion valuation as Samsung led a $3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Leopold Aschenbrenner's Situational Awareness is active in options market, sources say - CNBC",
+      "url": "https://www.cnbc.com/2026/09/11/leopold-aschenbrenners-situational-awareness-is-active-in-options-market-sources-say.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-11",
+      "resumo": "His reentry to the public markets comes after the hedge fund's assets fell to about $10 billion following a peak above $45 billion to start July.  A rapid decline that month in AI-related stocks that Aschenbrenner was buying using leverage forced him to unwind his public equity positions to Ken Griffin's Citadel in a fire sale to stave off a collapse.  The hedge fund held onto stakes in private companies like Anthropic.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.42%",
       "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-142-4896901",
@@ -875,20 +1015,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Adobe Inc. (ADBE) Acquires Rilo to Accelerate Agentic AI — What It Means for Investors",
-      "url": "https://finance.yahoo.com/technology/ai/articles/adobe-inc-adbe-acquires-rilo-150728839.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-05",
-      "resumo": "Insider Monkey\n\n# Adobe Inc.  (ADBE) Acquires Rilo to Accelerate Agentic AI — What It Means for Investors\n\nNeha Gupta\n\n4 min read\n\n ADBE\n\n  -6. 73%\n\nAdobe Inc.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Anthropic ends talks on potential $6bn acquisition of Decart AI",
       "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ends-talks-potential-6bn-113759986.html",
       "fonte": "finance.yahoo.com",
@@ -1225,34 +1351,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "SK Hynix Surges 7% as Memory Bid Widens Beyond NAND; Seagate Rallies 5%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-surges-7-memory-190725560.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-05",
-      "resumo": "luchschenF / Shutterstock. com\n\n \n\nSK Hynix (NASDAQ:SKHY) stock is rallying 7% to $174. 38, providing a clean read on the high-bandwidth memory and DRAM curve tied to AI accelerators.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Goldman Sachs Says the AI Trade Is Barely Started. The Stocks That Got You Here Will Not Take You There",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-trade-133015485.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-05",
-      "resumo": "24/7 Wall St. \n\n# Goldman Sachs Says the AI Trade Is Barely Started.  The Stocks That Got You Here Will Not Take You There\n\nOmor Ibne Ehsan\n\n6 min read\n\n PLTR\n\n  -3.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "These AI numbers are getting crazy",
       "url": "https://finance.yahoo.com/markets/article/these-ai-numbers-are-getting-crazy-123000121.html",
       "fonte": "finance.yahoo.com",
@@ -1272,62 +1370,6 @@
       "fonte": "investing.com",
       "data": "2026-09-06",
       "resumo": "Third-quarter results were in line with expectations, with revenue up 33% quarter-on-quarter to $29. 6 billion.  Gross profit margin slipped 2 percentage points to 75.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-05",
-      "resumo": "Professional ownership broadened before Friday's rally.  Insider Monkey counted 128 hedge funds holding Sandisk Corporation (NASDAQ:SNDK) at June 30, up from 114 at March 31.  Leopold Aschenbrenner's Situational Awareness LP disclosed 2,495,344 shares, about 119% more than the 1,140,119 shares reported in Q1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Micron and Western Digital Shares Skyrocket, What You Need To Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-western-digital-shares-skyrocket-022210546.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-05",
-      "resumo": "The previous big move we wrote about was 11 days ago when the stock dropped 5. 5% on the news that investors trimmed chip exposure to reduce portfolio risk ahead of Nvidia's highly anticipated earnings report.  Semiconductor shares experienced widespread selling pressure as traders locked in profits ahead of Nvidia's second-quarter fiscal 2027 financial release.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "SanDisk (SNDK) Soars on S&P 100 Inclusion; Hedge Fund Ownership More-Than-Doubles",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-soars-p-100-021124605.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-05",
-      "resumo": "47.    News • Aug 27, 2026 Nvidia is banking on some of the AI labs it does business with becoming the largest tech companies in history\n48.    News • Aug 27, 2026 Iran and Oman announce progress toward a \"permanent navigational corridor and future administration.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia stock moves closer to all-time high",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-moves-closer-to-all-time-high-193309793.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-05",
-      "resumo": "AlphaSpace \n\n Markets\n Analysis\n News\n My Portfolio\n Earnings Hub\n Options\n\nA pro-grade research workspace with advanced charts, company data and real-time news.  Now part of Yahoo Finance Gold.   Learn more\n\nGet Finance Plus\n\n# Nvidia stock moves closer to all-time high\n\nInes Ferré  · Senior Business Reporter\n\n1 min read\n\n NVDA\n\n  +0.",
       "sentimento": "bullish",
       "tags": [
         "AI",
