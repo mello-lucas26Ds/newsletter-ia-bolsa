@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-14",
-    "total_noticias": 108,
-    "gerado_em": "2026-09-14T08:31:06.338470"
+    "total_noticias": 118,
+    "gerado_em": "2026-09-14T16:10:48.200259"
   },
   "noticias": [
+    {
+      "titulo": "TSMC Revenue Jumps 53% in August, Signaling Strong AI Chip ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-jumps-53-august-145500427.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-11",
+      "resumo": "This dynamic helps explain why fabless semiconductor companies, including Advanced Micro Devices, Inc.  (NASDAQ: AMD) and NVIDIA Corporation (NASDAQ: NVDA), saw their stocks slip after recent industry news.  These firms are facing escalating costs for manufacturing, memory, and packaging.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant. - MarketWatch",
+      "url": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960",
+      "fonte": "marketwatch.com",
+      "data": "2026-09-14",
+      "resumo": "Artificial intelligence has been a driver for corporate earnings this year, but safety calls by leading large-language-model developers could put a crimp in that, warns Citigroup. Photo: Getty Images/iStockphoto\n\n### Referenced Symbols\n\n   SPX -0. 70% \n   QQQ -1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Revenue Rises 53% as AI Chip Demand Outstrips Supply",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-rises-53-ai-053524398.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-10",
+      "resumo": "The go-to chipmaker for Nvidia Corp.  and Apple Inc.  said recently that it can't catch up with demand even as it's building new factories at an unprecedented pace.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "BIS says global market AI momentum showing signs of vulnerability - Reuters",
+      "url": "https://www.reuters.com/markets/europe/global-markets-bis-pix-2026-09-14/",
+      "fonte": "reuters.com",
+      "data": "2026-09-14",
+      "resumo": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - The AI-linked rally that has seen world stock markets soar over the last two years is showing growing ​signs of vulnerability, global central bank umbrella body, the Bank for International Settlements, said on Monday. \n\nIn a new ‌report, the BIS said investors were becoming \"increasingly cautious\" about the profitability of future AI investments, especially as the leverage of major U. S.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stocks making the biggest moves premarket: Intel, Marvell, CrowdStrike & more - CNBC",
+      "url": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-premarket-intc-mrvl-crwd.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-14",
+      "resumo": "increased following the warnings from CEOs Elon Musk, Dario Amodei and Sam Altman that the technology was moving too fast.  Palo Alto Networks traded more than 4% higher, while CrowdStrike advanced 5. 4%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Broadcom: Buckle Up For What's Coming (NASDAQ:AVGO) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4945835-broadcom-buckle-up-for-whats-coming",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-13",
+      "resumo": "Bohdan Kucheriavyi\n\n10. 64K Followers\n\n## Summary\n\n Broadcom faces near-term pressure despite record results, as Q4 guidance disappointed and broader AI stock sentiment remains cautious. \n AVGO has secured supply to double AI semiconductor revenue in each of the next two years, with Anthropic and OpenAI driving major deployments.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks are tumbling as AI apocalypse fears go mainstream - Business Insider",
+      "url": "https://www.businessinsider.com/ai-warnings-spark-decline-in-tech-stocks-nvidia-slides-2026-9",
+      "fonte": "businessinsider.com",
+      "data": "2026-09-14",
+      "resumo": "Tech stocks slipped in premarket trading Monday after a weekend of increasingly dire warnings about AI. \n\nNvidia was down 3% in premarket trading, while SpaceX shares fell 0. 6% and Google was off 0.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Asian stocks slide as AI slowdown fears deepen, oil surge lifts rate risks - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-fall-as-ai-slowdown-fears-deepen-oil-surge-lifts-rate-risks-4898813",
+      "fonte": "investing.com",
+      "data": "2026-09-14",
+      "resumo": "aaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMid-Cap Movers\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMexican Stock Exchange Leaders\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBest Brazilian Stocks\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nItalian Market Elite\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nAlpha Germany Select\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nCalendars\n\nEconomic CalendarEarnings CalendarHoliday Calendar\n\nUS Economy [. ] View all comments (9)9\n\n## Latest comments\n\nAlexander Gundlach1 hour ago\n\ndepends, what ASIA STOCKS you mean. i also have asia stocks, but no AI Bubble stocks.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global AI stocks slip on concerns over risks - ft.com",
+      "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+      "fonte": "ft.com",
+      "data": "2026-09-14",
+      "resumo": "# Global AI stocks slip on concerns over risks\n\nSubscribe to unlock this article\n\n## Save 40% on Standard Digital\n\nwas MX$11988 now MX$7175 for your first year. \n\nSave now on essential digital access to trusted FT journalism on any device.  Savings based on annualised monthly price.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI stocks tumble on safety warnings. How to proceed — including 2 names on our shopping list - cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/14/ai-stocks-tumble-on-safety-warnings-how-to-proceed-including-2-names-on-our-shopping-list.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-14",
+      "resumo": "story is now over, we have to wait until we see the whites of their eyes before we take a stand.  Our buys will be concentrated in the ready-to-roll stocks after people understand that the data center story is not over.  We made plenty of sales in anticipation of this moment.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Hit $600 by the End of 2027",
       "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-manufacturing-stock-110500119.html",
