@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-13",
+    "data": "2026-09-14",
     "total_noticias": 108,
-    "gerado_em": "2026-09-13T14:04:54.578938"
+    "gerado_em": "2026-09-14T08:31:06.338470"
   },
   "noticias": [
+    {
+      "titulo": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Hit $600 by the End of 2027",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-manufacturing-stock-110500119.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-13",
+      "resumo": "Motley Fool\n\n# Prediction: Taiwan Semiconductor Manufacturing Stock Will Hit $600 by the End of 2027\n\nKeithen Drury, The Motley Fool\n\n3 min read\n\n TSM\n\n  +1. 22%\n NVDA\n\n  -0. 03%\n\nTaiwan Semiconductor Manufacturing (NYSE: TSM) has been one of the top artificial intelligence (AI) stocks to own.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Data Center Boom Accelerates: 3 Top AI Stocks Averaging 296% Forward EPS Growth - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4945580-data-center-boom-accelerates-3-top-ai-stocks-averaging-296-percent-forward-eps-growth",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-12",
+      "resumo": "Despite investor concerns over the durability of data center spending, the long-term growth outlook continues to strengthen, reinforcing the AI infrastructure investment case. \n PwC expects global data center capex to reach $31. 6T through 2050, with an increasing percentage tied to AI infrastructure.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "SKYX Signs Merger with Leading U.S. AI Smart Home Silicon Valley Backed Company Deako, Aiming to Lead the Smart Home, Builder & Hotel Markets with Their Combined Platform Technologies",
+      "url": "https://finance.yahoo.com/technology/ai/articles/skyx-signs-merger-leading-u-113100041.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-10",
+      "resumo": "MIAMI, Sept.  10, 2026 (GLOBE NEWSWIRE) -- SKYX Platforms Corp.  (NASDAQ: SKYX) (d/b/a SKYX Technologies) (the \"Company\" or \"SKYX\"), an award winning highly disruptive advanced safe-smart home and AI platform technology company with over 100 U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI stocks slide after major CEOs unite to urge slowdown - CNBC",
+      "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-14",
+      "resumo": "Global AI-related stocks fell on Monday after Anthropic CEO Dario Amodei called for a slowdown of the development of AI capabilities, with other major tech figures backing the proposal. \n\nIn Asia, South Korean heavyweights SK Hynix and Samsung Electronics closed down more than 6% and 4%, respectively.  Shares of SoftBank, one of the biggest investors in OpenAI, fell 10% in Japan.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-13",
+      "resumo": "The deal could also strengthen Salesforce Inc.  (NYSE:CRM)'s broader Data Cloud strategy.  Customer research generated through Listen Labs could potentially be incorporated into customer profiles and made available across sales, marketing, service, and other applications.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation - CNBC",
+      "url": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-14",
+      "resumo": "Altimeter Capital CEO Brad Gerstner, whose firm is an investor in Anthropic and OpenAI, said in a post on X on Saturday that bringing more \"transparency, scrutiny, accountability\" and participation to AI companies is \"crucial. \" He said Anthropic will likely forge ahead with its IPO. \n\n\"The market knows how to price risk - see SpaceX,\" Gerstner wrote.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Meta Buys Stilla.ai: What the Swedish AI Acquisition Means for ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-buys-stilla-ai-swedish-161847296.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-10",
+      "resumo": "This strategic acquisition directly boosts Meta's e-commerce capabilities across WhatsApp, Instagram, and Messenger.  By integrating Stilla's technology into Meta Business Agent, the tech conglomerate aims to streamline automated customer transactions, optimize merchant workflows, and drive monetization across its Family of Apps. \n\nThe deal arrives alongside the expansion of Meta's personal AI agent, Muse, designed to handle multi-app user tasks.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months - CNBC",
+      "url": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-14",
+      "resumo": "The company said proceeds from the fundraising will support the development of its next-generation AI models, including research and development, training and inference infrastructure, and commercialization. \n\nThe latest fundraising comes just two months after Z. ai raised about $4 billion through a share placement in July.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Insight Partners' Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic - techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+      "fonte": "techcrunch.com",
+      "data": "2026-09-13",
+      "resumo": "It varies enormously.  Wonderful [an enterprise AI agent platform] was created less than two years ago; we did two rounds and it’s now at a $5 billion valuation — a very fast double-down.  On the other hand, some 2021 investments went nowhere for three or four years before finding product-market fit.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "CA Technologies | CACI Stock Price, Company Overview & News - Forbes",
+      "url": "https://www.forbes.com/companies/ca-technologies/",
+      "fonte": "forbes.com",
+      "data": "2026-09-14",
+      "resumo": "The five highest performing cloud computing stocks year-to-date on the Cloud Computing Index are Qualys (NASDAQ: QYLS), Amazon (NASDAQ:AMZN), Workday (NYSE:WDAY), CA Technologies (NASDAQ: CA), and NetSuite (NYSE:N).  A $10K investment in Amazon shares made on January 2nd of this year is worth $15,631. 00 as of the market close on Friday December [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Brazil shares higher at close of trade; Bovespa up 1.42%",
       "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-142-4865465",
@@ -931,48 +1071,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Retail Investors Hand Control of Stock Portfolios to AI - WSJ",
-      "url": "https://www.wsj.com/politics/policy/retail-investors-hand-control-of-stock-portfolios-to-ai-5e7f3f25",
-      "fonte": "wsj.com",
-      "data": "2026-09-06",
-      "resumo": "This is an edition of the What’s News newsletter, which helps you catch up on the headlines and understand the news, free in your inbox daily.  If you’re not subscribed, sign up here. \n\n#### 1.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Blue Owl (OWL) Stock Still Looks Fully Priced On Data Center REIT Plans",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-owl-stock-still-001350079.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-06",
-      "resumo": "Over the past 1 year, Blue Owl Capital has declined 28. 7%, which puts recent shareholder returns well behind many investors' expectations for an alternative asset manager linked to high growth themes like data centers and AI infrastructure. \n Plans to seed a publicly traded data center REIT with about US$6.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Looking Beyond Semiconductors? These 8 Tech Stocks Offer Up to ...",
-      "url": "https://www.investing.com/analysis/looking-beyond-semiconductors-these-8-tech-stocks-offer-up-to-60-upside-200681783",
-      "fonte": "investing.com",
-      "data": "2026-09-06",
-      "resumo": "According to InvestingPro Fair Value estimates, Intel carries downside potential of 44. 5%, followed by Astera Labs at 41. 3%, Marvell at 38%, KLA Corp at 36.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "This Could Be the AI Stock That Keeps Surprising Wall Street",
       "url": "https://finance.yahoo.com/markets/stocks/articles/could-ai-stock-keeps-surprising-163015159.html",
       "fonte": "finance.yahoo.com",
@@ -1007,34 +1105,6 @@
       "data": "2026-09-09",
       "resumo": "Nathan Reiff\n\nAI-driven networking companies have been waiting for a sign to either continue to pull back or reinvigorate a bull run, but Ciena Corp. ’s Q3 earnings report may invite more questions than answers.  Despite strong earnings and revenue, coupled with continued robust demand for AI and optical networking, shares fell after the report.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Data Center REIT Plan and Tech Financing Expansion Could Be A Game Changer For Blue Owl Capital (OWL)",
-      "url": "https://finance.yahoo.com/real-estate/articles/data-center-reit-plan-tech-221252341.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-06",
-      "resumo": "Sasha Jovanovic\n\n4 min read\n\n OWL\n\n  -0. 76%\n OTF\n\n  -0. 44%\n\n Blue Owl Capital recently outlined plans to launch a data center real estate investment trust (REIT) seeded with about US$6.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Company Earnings Calendar - Yahoo Finance",
-      "url": "https://finance.yahoo.com/calendar/earnings",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-06",
-      "resumo": "Business Wire • 1d ago\n Prediction: Oracle's $638 Billion Cloud Infrastructure Backlog Could Make It One of the Best-Performing AI Stocks Through 2028\n\n  ### Prediction: Oracle's $638 Billion Cloud Infrastructure Backlog Could Make It One of the Best-Performing AI Stocks Through 2028\n\n  Motley Fool • 1d ago\n Care Management Solutions Market Report Now Available — Forecasts Market Growth from $22. 56B (2026) to $42. 62B by 2031, Profiling Optum, Epic Systems, Oracle, Philips, Veradigm, and 20 Other Key Players to $42.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -1211,20 +1281,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Equinix Is Doubling Down on AI Data Centers. How to Play EQIX Stock Here",
-      "url": "https://finance.yahoo.com/technology/ai/articles/equinix-doubling-down-ai-data-183002468.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-06",
-      "resumo": "## About Equinix Stock\n\nWhen it comes to the infrastructure behind today's digital economy, Equinix is one of the biggest names to know.  Headquartered in Redwood City, California, the company operates data centers around the world where businesses house their critical IT infrastructure and connect directly with cloud providers, networks, content providers, and other digital services.  Equinix operates as a real estate investment trust (REIT), generating revenue primarily from data center colocation, interconnection, and related digital infrastructure services.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "These dividend stocks could catch a tailwind from data center ...",
       "url": "https://www.cnbc.com/2026/09/08/these-dividend-stocks-could-catch-a-tailwind-from-data-center-pushback.html",
       "fonte": "cnbc.com",
@@ -1351,20 +1407,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Earnings Week Ahead: ORCL, ADBE, KR, GME, CHWY, and more",
-      "url": "https://seekingalpha.com/news/4640508-earnings-week-ahead-orcl-adbe-kr-gme-chwy-and-more",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-06",
-      "resumo": "## Quick Insights\n\n Investors are watching if Oracle can convert its large AI-driven backlog into reported revenue and accelerate growth while addressing capital intensity concerns. \n The focus is on Adobe's ability to maintain strong AI-driven annualized recurring revenue growth, successful AI monetization, and meet elevated expectations despite a leadership transition. \n Investors are looking for evidence that Kroger's investments in e-commerce and productivity will lead to stronger comparable sales, improved margins, and reach its annual guidance.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html",
       "fonte": "finance.yahoo.com",
@@ -1468,48 +1510,6 @@
       "fonte": "br.investing.com",
       "data": "2026-09-07",
       "resumo": "Exibir mais\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500. \n\nMelhores Ações Brasileiras\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nEmpresas Sólidas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nAções Defensivas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nAções Baratas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nTitãs da Tecnologia\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nVença o S&P 500 [. ] Petrobras PN\n           Vale ON\n           Usiminas PNA\n           Gerdau PN\n           Cemig PN\n           BRF ON\n           Itaúsa PN\n           Axia Energia Prf\n           Weg ON\n           Banco Pan PN\n           Nubank BDR\n           Prio ON\n           Méliuz ON\n           Banco do Brasil ON\n           Bradesco PN\n           Tesla BDR\n           Amazon.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductors-market-value-225101856.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-06",
-      "resumo": "I'm not assuming investors pay more for each dollar of TSMC's earnings than they do today, either.  If the stock's price-to-earnings multiple simply holds steady, the share price should track earnings growth over time.  In other words, earnings compounding at about 14% a year through 2028 could arguably get the company there on its own.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "These AI numbers are getting crazy",
-      "url": "https://finance.yahoo.com/markets/article/these-ai-numbers-are-getting-crazy-123000121.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-06",
-      "resumo": "After hours: September 4 at 7:59:59 PM EDT\n\nAVGO HPE DELL \n\nThe upbeat AI message from Broadcom wasn't too different from what investors heard from Dell (DELL) and Nvidia (NVDA) recently. \n\nDell served up a revenue outlook that was $25 billion above estimates.  Nvidia said its sales may grow 70% in its next fiscal year.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "5 big analyst AI moves: iPhone launch to be negative for Apple stock",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-iphone-launch-to-be-negative-for-apple-stock-4890227",
-      "fonte": "investing.com",
-      "data": "2026-09-06",
-      "resumo": "Third-quarter results were in line with expectations, with revenue up 33% quarter-on-quarter to $29. 6 billion.  Gross profit margin slipped 2 percentage points to 75.",
       "sentimento": "bullish",
       "tags": [
         "AI",

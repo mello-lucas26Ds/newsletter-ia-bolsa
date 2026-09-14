@@ -1,68 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/wdc-stocks-big-rally-buy-144500359.html": {
-    "hash": "b14dfb1a36a48ebdc65b34f8fbd16b5e",
-    "visto_em": "2026-09-06"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-soars-p-100-021124605.html": {
-    "hash": "58b6d9b64f35d92a67ab065cafbb9ca1",
-    "visto_em": "2026-09-06"
-  },
-  "https://finance.yahoo.com/quote/AAPL": {
-    "hash": "27aebf8351c4e3b0fc1ad83d2da260ea",
-    "visto_em": "2026-09-06"
-  },
-  "https://finance.yahoo.com/markets/article/nvidia-stock-moves-closer-to-all-time-high-193309793.html": {
-    "hash": "cc0ae7c6d176bef1ceca2d5a6d4849ec",
-    "visto_em": "2026-09-06"
-  },
-  "https://seekingalpha.com/article/4942985-alphabet-ai-pivot-creates-a-new-frontier-for-growth": {
-    "hash": "408b6bad8d34e2f49a785becac6e1fa5",
-    "visto_em": "2026-09-06"
-  },
-  "https://br.investing.com/news/stock-market-news/ibovespa-abre-em-queda-apos-dado-de-emprego-nos-eua-2057579": {
-    "hash": "8da2c948f3e417e4ab9306eec0095322",
-    "visto_em": "2026-09-06"
-  },
-  "https://seekingalpha.com/article/4943084-broadcom-buy-the-ai-reset-after-q3-earnings": {
-    "hash": "6bc05d9607a495078ed6649e83e298d8",
-    "visto_em": "2026-09-06"
-  },
-  "https://seekingalpha.com/news/4640124-zscalers-q4-earnings-reflect-ai-driven-demand-as-arr-pops-up-25": {
-    "hash": "4df34452c4b389557566b8bca1f8f702",
-    "visto_em": "2026-09-06"
-  },
-  "https://br.investing.com/news/company-news/sailpoint-integra-dados-de-identidade-ao-siem-da-crowdstrike-93CH-2053248": {
-    "hash": "1819dae21d8c5c8174eb26ac8e15bd6d",
-    "visto_em": "2026-09-06"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmcs-269-billion-expansion-puts-170918317.html": {
-    "hash": "2b0d3c46ddb193ac95c9827f3d287477",
-    "visto_em": "2026-09-06"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html": {
-    "hash": "4f0c62087124e2f81347f29de1de8089",
-    "visto_em": "2026-09-06"
-  },
-  "https://finance.yahoo.com/markets/article/stocks-edge-up-as-nvidia-leads-tech-higher-following-hugging-face-deal-announcement-alphacheck-140448366.html": {
-    "hash": "198ae1c609dc0a503e34636661cfbb98",
-    "visto_em": "2026-09-06"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-002-4890004": {
-    "hash": "e0ead73a395eb1c1cf691a656e320c0b",
-    "visto_em": "2026-09-06"
-  },
-  "https://www.forbes.com/sites/zacharyfolk/2026/09/01/gopro-becomes-the-next-company-announcing-ai-pivot-with-285-million-merger-deal": {
-    "hash": "deb0820c725956545cc7033ea6b04f09",
-    "visto_em": "2026-09-06"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/micron-western-digital-shares-skyrocket-022210546.html": {
-    "hash": "2ba04d8e648d8b2c831feb8c514e44fe",
-    "visto_em": "2026-09-06"
-  },
-  "https://seekingalpha.com/article/4942715-vertiv-filter-out-the-noise-this-is-a-golden-opportunity": {
-    "hash": "190a3b27608a8c06ed4dd44e5aa61223",
-    "visto_em": "2026-09-06"
-  },
   "https://www.investing.com/indices/bovespa": {
     "hash": "34a96a13c75cb70b6ea89d2b4780f043",
     "visto_em": "2026-09-07"
@@ -558,5 +494,45 @@
   "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models": {
     "hash": "b0a617832fcf43ceb2a7184e320383b4",
     "visto_em": "2026-09-13"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-manufacturing-stock-110500119.html": {
+    "hash": "1a5def1df556774f6ece1929fad6ddf1",
+    "visto_em": "2026-09-14"
+  },
+  "https://seekingalpha.com/article/4945580-data-center-boom-accelerates-3-top-ai-stocks-averaging-296-percent-forward-eps-growth": {
+    "hash": "c2b2f3e38a841034c66b0b372ce66407",
+    "visto_em": "2026-09-14"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/skyx-signs-merger-leading-u-113100041.html": {
+    "hash": "2a8440127299201353a113f5dde6fa9b",
+    "visto_em": "2026-09-14"
+  },
+  "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html": {
+    "hash": "70f93d8bf4f3a28c9f2811f1a71683f1",
+    "visto_em": "2026-09-14"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html": {
+    "hash": "1a6a39d5e4838e32c001966efd5e2578",
+    "visto_em": "2026-09-14"
+  },
+  "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html": {
+    "hash": "96510ae388dbb8f6e50a1ed6f2f7ff4c",
+    "visto_em": "2026-09-14"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/meta-buys-stilla-ai-swedish-161847296.html": {
+    "hash": "dd4bfa10ed6e4de7984a793ce94cae6b",
+    "visto_em": "2026-09-14"
+  },
+  "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html": {
+    "hash": "70b54a9fb9fcfe16223b82197f3e487b",
+    "visto_em": "2026-09-14"
+  },
+  "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/": {
+    "hash": "ee76c9646f1be4e7182ec12ff67faae4",
+    "visto_em": "2026-09-14"
+  },
+  "https://www.forbes.com/companies/ca-technologies/": {
+    "hash": "cd0a929b66a53d8dbf01cf108b4a5631",
+    "visto_em": "2026-09-14"
   }
 }
