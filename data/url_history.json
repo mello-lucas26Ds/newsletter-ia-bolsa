@@ -1,56 +1,4 @@
 {
-  "https://www.investing.com/indices/bovespa": {
-    "hash": "34a96a13c75cb70b6ea89d2b4780f043",
-    "visto_em": "2026-09-07"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-surges-7-memory-190725560.html": {
-    "hash": "ff458e5f1b3582beb769264fbd5a6a94",
-    "visto_em": "2026-09-07"
-  },
-  "https://www.businessinsider.com/nvidia-ai-tech-stock-portfolio-equity-investments-spacex-intel-coreweave-2026-9": {
-    "hash": "e75aaca2362eb1eb9ec594c84c830767",
-    "visto_em": "2026-09-07"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-trade-133015485.html": {
-    "hash": "db75cba34e8567974e556af2053cfdf6",
-    "visto_em": "2026-09-07"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/artisan-trimmed-amd-amd-ai-131922170.html": {
-    "hash": "ed23fec655b2ae1e23398f43cd70b95e",
-    "visto_em": "2026-09-07"
-  },
-  "https://finance.yahoo.com/markets/article/these-ai-numbers-are-getting-crazy-123000121.html": {
-    "hash": "3bb005b38492e14c7f8ad162466d1597",
-    "visto_em": "2026-09-07"
-  },
-  "https://finance.yahoo.com/quote/EQIX": {
-    "hash": "eca03f41b8134ab5c978233933fb7c49",
-    "visto_em": "2026-09-07"
-  },
-  "https://www.marketwatch.com/story/nvidia-takes-back-control-of-the-ai-trade-as-big-tech-nears-record-highs-c0dfed9d": {
-    "hash": "4cd5f51030b1c0ca55aaf069c1feb844",
-    "visto_em": "2026-09-07"
-  },
-  "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-iphone-launch-to-be-negative-for-apple-stock-4890227": {
-    "hash": "4b9961b2a422b50e502649379d73e885",
-    "visto_em": "2026-09-07"
-  },
-  "https://www.investing.com/equities/totvs-on-ej-nm": {
-    "hash": "7be35df829ae1c8fa4ca702f07e10458",
-    "visto_em": "2026-09-07"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/soundhound-ai-completes-acquisition-liveperson-132600164.html": {
-    "hash": "2513aa6d066cd3d378b7e77726f92148",
-    "visto_em": "2026-09-07"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductors-market-value-225101856.html": {
-    "hash": "f4fe4520b5661c2dc8afa7c00d4056a5",
-    "visto_em": "2026-09-07"
-  },
-  "https://br.investing.com/news/company-news/sp-global-conclui-aquisicao-da-datacenterhawk-93CH-2054483": {
-    "hash": "5e4acb566f44d6a26ee89082d7cee7bd",
-    "visto_em": "2026-09-07"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html": {
     "hash": "20730cf2d10e228e77b7cfedce9329af",
     "visto_em": "2026-09-08"
@@ -574,5 +522,41 @@
   "https://www.cnbc.com/2026/09/14/ai-stocks-tumble-on-safety-warnings-how-to-proceed-including-2-names-on-our-shopping-list.html": {
     "hash": "4896833d1f1c292b4f90042e63530966",
     "visto_em": "2026-09-14"
+  },
+  "https://finance.yahoo.com/real-estate/articles/reit-etfs-riding-high-ai-140900623.html": {
+    "hash": "c35ea95e3514feb6c9ed07e8968cae1c",
+    "visto_em": "2026-09-15"
+  },
+  "https://ca.finance.yahoo.com/quote/DLR": {
+    "hash": "191f52ab0ca9dcbec553b895e71660b6",
+    "visto_em": "2026-09-15"
+  },
+  "https://ca.finance.yahoo.com/quote/EQIX": {
+    "hash": "eca03f41b8134ab5c978233933fb7c49",
+    "visto_em": "2026-09-15"
+  },
+  "https://www.businessinsider.com/cybersecurity-stocks-ai-apocalypse-anthropic-openai-panw-crwd-ftnt-zs-2026-9": {
+    "hash": "49f9d5b3833f229ed4ae21233cbd587c",
+    "visto_em": "2026-09-15"
+  },
+  "https://www.forbes.com/sites/antoniopequenoiv/2026/09/14/crowdstrike-skyrockets-14-as-ai-fears-send-cybersecurity-stocks-surging/": {
+    "hash": "4473ea4b601c3ad412f87ade665c0066",
+    "visto_em": "2026-09-15"
+  },
+  "https://br.investing.com/news/company-news/intelligent-bio-solutions-submete-pedido-a-fda-para-teste-de-codeina-93CH-2060295": {
+    "hash": "17e004f5636c190f36503ce2263cc35d",
+    "visto_em": "2026-09-15"
+  },
+  "https://www.reuters.com/legal/transactional/investors-nervous-about-ai-spending-slowdown-after-industry-warnings-2026-09-15/": {
+    "hash": "35da90cdfcd7a74a175dca0cd5e46784",
+    "visto_em": "2026-09-15"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/iron-mountain-eyes-20-growth-110204566.html": {
+    "hash": "18fbb57568795ffc80999e7ebdc06649",
+    "visto_em": "2026-09-15"
+  },
+  "https://www.infomoney.com.br/business/microsoft-elabora-codigo-de-conduta-para-manter-sua-ia-sob-controle-humano": {
+    "hash": "a38e68e565540148a6c4f644fa37d184",
+    "visto_em": "2026-09-15"
   }
 }
