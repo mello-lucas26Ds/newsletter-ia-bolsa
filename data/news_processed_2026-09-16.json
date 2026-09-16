@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-16",
+    "total_noticias": 7,
+    "gerado_em": "2026-09-16T08:15:06.355068"
+  },
+  "noticias": [
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited ...",
+      "url": "https://finance.yahoo.com/quote/TSM",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-11",
+      "resumo": "TSM\n\nTaiwan Semiconductor Manufacturing Company Limited\n\n433. 24\n\n+1. 22%\n\nMkt Cap  2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks slide on AI slowdown talks - Reuters",
+      "url": "https://www.reuters.com/world/china/tech-stocks-slide-ai-slowdown-talks-2026-09-14/",
+      "fonte": "reuters.com",
+      "data": "2026-09-14",
+      "resumo": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Anthropic CEO Dario Amodei called on AI companies to slow the pace at which they develop the technology, the latest in a series of warnings highlighting growing concerns across the tech industry over the safety of AI. \n\nStocks from Asia to New York sank on the news, with tech-heavy equity markets including South Korea's KOSPI (. KS11), opens new tab closing down 3.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Qualcomm’s Data Center Bet Looks More Real After Amazon’s AI Deal",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-data-center-bet-looks-182500298.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-09",
+      "resumo": "## Optical Connectivity Makes the Deal Bigger Than Chips\n\nThe partnership extends beyond processing units into data center networking.  Qualcomm is providing Amazon Web Services with optical connectivity systems scaling up to 1. 6 Terabits per second.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bond yields are spiking, oil is up — but investors aren’t giving up on stocks - CNBC",
+      "url": "https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-16",
+      "resumo": "As stocks faced more volatility this week after leading AI voices warned the tech was moving too fast to be safe and safeguards were needed, Bank of America's latest Global Fund Manager Survey revealed on Tuesday that many market participants appear undeterred from pouring cash into the stock market. \n\nThe survey found that while the \"excess bullishness\" seen over the summer had faded, investors remained broadly optimistic about growth and earnings, with most expecting continued heavy spending on AI.  [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "What Happens To Big Tech Stocks If AI's Bet Doesn't Pay Off - Forbes",
+      "url": "https://www.forbes.com/sites/shivaramrajgopal/2026/09/15/what-happens-to-big-tech-stocks-if-ais-bet-doesnt-pay-off/",
+      "fonte": "forbes.com",
+      "data": "2026-09-15",
+      "resumo": "4.  Total earnings factor.  E = a × F + (1 − a) × (1 + g) = 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Is a 'SaaSpocalypse'-like sell-off coming for AI hardware stocks? Not so fast - CNBC",
+      "url": "https://www.cnbc.com/2026/09/14/is-a-saaspocalypse-like-sell-off-coming-for-ai-hardware-stocks-not-so-fast.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-14",
+      "resumo": "On Monday, at least, we're back in a market where Anthropic talks, and we all freak out.  The selling pressure hitting AI infrastructure stocks on Monday feels reminiscent of sell-offs in software stocks earlier this year, when investors feared that technological advances from Anthropic (and others) would disrupt their lucrative business models.  Now, the infrastructure stocks — chipmakers and all manner of data-center suppliers, including gas turbine makers and electrical equipment vendors — are tumbling on concerns that demand for their products will weaken in a world where AI model development is intentionally throttled back, as Anthropic CEO Dario Amodei called for this weekend due to safety concerns.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia and Palantir Team Up on AI Supply Chain Tech ... - Barron's",
+      "url": "https://www.marketwatch.com/story/nvidia-palantir-ai-supply-chain-partnership-stock-impact-69524fc9?mod=default_seemore",
+      "fonte": "marketwatch.com",
+      "data": "2026-09-10",
+      "resumo": "Nvidia shares were down 2. 2% in early trading and Palantir was slipping 2%.  The move was broadly in line with the wider technology sector which was being.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

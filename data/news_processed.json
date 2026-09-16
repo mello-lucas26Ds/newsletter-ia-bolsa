@@ -1,11 +1,109 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-15",
-    "total_noticias": 124,
-    "gerado_em": "2026-09-15T14:39:15.101042"
+    "data": "2026-09-16",
+    "total_noticias": 115,
+    "gerado_em": "2026-09-16T08:15:06.356914"
   },
   "noticias": [
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited ...",
+      "url": "https://finance.yahoo.com/quote/TSM",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-11",
+      "resumo": "TSM\n\nTaiwan Semiconductor Manufacturing Company Limited\n\n433. 24\n\n+1. 22%\n\nMkt Cap  2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks slide on AI slowdown talks - Reuters",
+      "url": "https://www.reuters.com/world/china/tech-stocks-slide-ai-slowdown-talks-2026-09-14/",
+      "fonte": "reuters.com",
+      "data": "2026-09-14",
+      "resumo": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Anthropic CEO Dario Amodei called on AI companies to slow the pace at which they develop the technology, the latest in a series of warnings highlighting growing concerns across the tech industry over the safety of AI. \n\nStocks from Asia to New York sank on the news, with tech-heavy equity markets including South Korea's KOSPI (. KS11), opens new tab closing down 3.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Qualcomm’s Data Center Bet Looks More Real After Amazon’s AI Deal",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-data-center-bet-looks-182500298.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-09",
+      "resumo": "## Optical Connectivity Makes the Deal Bigger Than Chips\n\nThe partnership extends beyond processing units into data center networking.  Qualcomm is providing Amazon Web Services with optical connectivity systems scaling up to 1. 6 Terabits per second.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bond yields are spiking, oil is up — but investors aren’t giving up on stocks - CNBC",
+      "url": "https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-16",
+      "resumo": "As stocks faced more volatility this week after leading AI voices warned the tech was moving too fast to be safe and safeguards were needed, Bank of America's latest Global Fund Manager Survey revealed on Tuesday that many market participants appear undeterred from pouring cash into the stock market. \n\nThe survey found that while the \"excess bullishness\" seen over the summer had faded, investors remained broadly optimistic about growth and earnings, with most expecting continued heavy spending on AI.  [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "What Happens To Big Tech Stocks If AI's Bet Doesn't Pay Off - Forbes",
+      "url": "https://www.forbes.com/sites/shivaramrajgopal/2026/09/15/what-happens-to-big-tech-stocks-if-ais-bet-doesnt-pay-off/",
+      "fonte": "forbes.com",
+      "data": "2026-09-15",
+      "resumo": "4.  Total earnings factor.  E = a × F + (1 − a) × (1 + g) = 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Is a 'SaaSpocalypse'-like sell-off coming for AI hardware stocks? Not so fast - CNBC",
+      "url": "https://www.cnbc.com/2026/09/14/is-a-saaspocalypse-like-sell-off-coming-for-ai-hardware-stocks-not-so-fast.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-14",
+      "resumo": "On Monday, at least, we're back in a market where Anthropic talks, and we all freak out.  The selling pressure hitting AI infrastructure stocks on Monday feels reminiscent of sell-offs in software stocks earlier this year, when investors feared that technological advances from Anthropic (and others) would disrupt their lucrative business models.  Now, the infrastructure stocks — chipmakers and all manner of data-center suppliers, including gas turbine makers and electrical equipment vendors — are tumbling on concerns that demand for their products will weaken in a world where AI model development is intentionally throttled back, as Anthropic CEO Dario Amodei called for this weekend due to safety concerns.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia and Palantir Team Up on AI Supply Chain Tech ... - Barron's",
+      "url": "https://www.marketwatch.com/story/nvidia-palantir-ai-supply-chain-partnership-stock-impact-69524fc9?mod=default_seemore",
+      "fonte": "marketwatch.com",
+      "data": "2026-09-10",
+      "resumo": "Nvidia shares were down 2. 2% in early trading and Palantir was slipping 2%.  The move was broadly in line with the wider technology sector which was being.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO - CNBC",
       "url": "https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html",
@@ -1029,20 +1127,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "SanDisk Up Over 40% Past Month: Can the Rally Last? - September 8, 2026 - Zacks.com",
-      "url": "https://markets.businessinsider.com/news/stocks/sandisk-up-over-40percent-past-month--can-the-rally-last-15923991",
-      "fonte": "markets.businessinsider.com",
-      "data": "2026-09-08",
-      "resumo": "SNDK's bullish RSI leaves room for gains, but valuation risks remain. \n\nSanDisk (SNDK - Free Report) shares have been rallying hard, with the stock gaining over 16% over the past week and adding over 40% over the past month.  So far this year, the stock is up over 530% thanks to the strong demand for memory used in AI infrastructure.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Tech stocks rally as oil prices fall, inflation remains sticky",
       "url": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-oil-prices-fall-inflation-remains-sticky-alphacheck-140509850.html",
       "fonte": "finance.yahoo.com",
@@ -1393,20 +1477,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil shares higher at close of trade; Bovespa up 1.20%",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-120-5585272",
-      "fonte": "in.investing.com",
-      "data": "2026-09-08",
-      "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Reliance Industries | 1,290.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "How big a risk are rates to the AI boom? By Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/how-big-a-risk-are-rates-to-the-ai-boom-4893142",
       "fonte": "investing.com",
@@ -1463,34 +1533,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "This Could Be the AI Stock That Keeps Surprising Wall Street",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-ai-stock-keeps-surprising-163015159.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-08",
-      "resumo": "## Why Bulls See a Path to $213\n\nOur bull case one-year price target is $213. 34, implying 23. 94% upside.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Blue Owl Plans $6.5B Seed for Data Center REIT",
-      "url": "https://finance.yahoo.com/real-estate/articles/blue-owl-plans-6-5b-085202300.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-08",
-      "resumo": "Deliberations remain ongoing, and the details of both the REIT and potential IPO could change.  Blue Owl declined to comment on the report. \n\nBlue Owl shares rose as much as 1.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "3 AI Optical Networking Stocks Positioned for the Data Center Buildout",
       "url": "https://www.investing.com/analysis/3-ai-optical-networking-stocks-positioned-for-the-data-center-buildout-200687381",
       "fonte": "investing.com",
@@ -1533,34 +1575,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "KIC Realty Announces Merger with AI Technology Company Brewpilot",
-      "url": "https://finance.yahoo.com/real-estate/articles/kic-realty-announces-merger-ai-150100179.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-08",
-      "resumo": "\"KIC already has something most technology companies spend years trying to build: a live brokerage with real agents, real transactions and real day to day feedback.  That's a rare foundation to build AI products on.  Our focus is shipping tools that take real work off agents' plates: software that does the job, not another dashboard to manage.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Broadcom: Recent Earnings Confirm Why It's The AI Stock I Trust The Least (NASDAQ:AVGO) - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4943682-broadcom-stock-recent-earnings-confirm-why-its-the-ai-stock-i-trust-least",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-08",
-      "resumo": "Cavenagh Research\n\n9. 95K Followers\n\n## Summary\n\n Broadcom earns a Sell rating at ~$393 due to AI-driven growth masking deteriorating revenue quality and rising margin risk. \n AI semiconductor revenue is booming, but customer concentration, lower-margin custom silicon, and aggressive commercial terms are compressing gross margins.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Cegid and Silae Join Forces to Create a European Leader in AI-Driven Business Technology",
       "url": "https://finance.yahoo.com/technology/articles/cegid-silae-join-forces-create-103200443.html",
       "fonte": "finance.yahoo.com",
@@ -1575,152 +1589,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "This data center stock is up over 1000% in the last five years. Trader Mike Khouw sees more gains - CNBC",
-      "url": "https://www.cnbc.com/2026/09/08/this-data-center-stock-is-up-over-1000percent-in-the-last-five-years-trader-mike-khouw-sees-more-gains.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-08",
-      "resumo": "In this article\n\nThe great Jim Cramer is often found of saying, \"It doesn't matter where a stock has been, only where it's going. \" It's fantastic advice, and worth remembering when looking at shares of Vertiv Holdings.  [.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stocks making the biggest moves premarket: Peloton Interactive, Roivant Sciences, Boston Scientific & more - CNBC",
-      "url": "https://www.cnbc.com/2026/09/08/stocks-making-the-biggest-moves-premarket-pton-roiv-bsx.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-08",
-      "resumo": "— Shares slid more than 4% after a Morgan Stanley downgrade to underweight from equal weight.  \"PTON is facing structural headwinds in fitness,\" Morgan Stanley said.  Boston Scientific — The medical device maker slipped more than 2% after the company said a recent cyberattack likely impacted sales and profit targets for 2026.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "SK hynix Vs. Micron: 'This Time Is Different' (NASDAQ:SKHY) - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4943973-sk-hynix-vs-micron-this-time-is-different",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-08",
-      "resumo": "main thing I look for in my shorts, is the exact opposite: deteriorating fundamentals, margin compression, shrinking TAM and valuation disconnect.  I also manage a long term, long-only portfolio.  There, dividend growth, cash generation, sensible valuation and MOAT defensibility are the main focus.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Anthropic ends talks on potential $6bn acquisition of Decart AI",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ends-talks-potential-6bn-113759986.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-08",
-      "resumo": "Verdict\n\n# Anthropic ends talks on potential $6bn acquisition of Decart AI\n\nAnwesha Pattanaik\n\n2 min read\n\nAnthropic has decided not to proceed with the acquisition of frontier AI lab Decart AI, reported Bloomberg, citing people familiar with the matter. \n\nThe potential deal, which would have valued Decart AI at around $6bn, was reportedly under discussion last month, but has not moved forward. \n\nIndividuals with knowledge of the negotiations said Anthropic had conducted due diligence on Decart AI before ultimately walking away.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "The yen is surging. Here's how it could hit portfolios around the world - Business Insider",
       "url": "https://www.businessinsider.com/dollar-yen-usd-jpy-japan-carry-trade-unwind-portfolio-impact-2026-9",
       "fonte": "businessinsider.com",
       "data": "2026-09-09",
       "resumo": "\"When investors have to sell in a hurry to cover a currency bet gone wrong, they sell whatever they hold, and that can mean stocks, bonds and funds that ordinary savers are invested in too, often through their pension or their workplace retirement plan,\" said Nigel Green, CEO of deVere Group, a financial advisory firm, on Tuesday. \n\nThat is how a sharp move in the yen can ripple into the portfolios of investors who have never traded the currency. \n\n1.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Startup Cognition Raises $2 Billion at a $48 Billion Value - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value",
-      "fonte": "bloomberg.com",
-      "data": "2026-09-08",
-      "resumo": "HomeBTV+Market DataOpinionAudioOriginalsMagazineEvents\n\nSubscribe now for unlimited access to Bloomberg. com and the Bloomberg app\n\nGlobal news that uncovers a new tomorrow.  Cancel anytime.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning - CNBC",
-      "url": "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-08",
-      "resumo": "Corning and Qualcomm rallied on Tuesday and brought a host of AI-related stocks along with them, as a pair of infrastructure deals lifted Wall Street's confidence that data center spending will remain strong. \n\nChipmakers Intel and Advanced Micro Devices gained 9% and 6% respectively, while Hewlett Packard Enterprise climbed 8% and photonics company Coherent added 7%. \n\nAll of those companies have been massive winners for investors this year, with HPE and AMD more than doubling in value and Intel almost tripling, as the artificial infrastructure buildout expands to companies beyond Nvidia.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "These dividend stocks could catch a tailwind from data center ...",
-      "url": "https://www.cnbc.com/2026/09/08/these-dividend-stocks-could-catch-a-tailwind-from-data-center-pushback.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-08",
-      "resumo": "\"Amid political and community push-back, while new projects could see delay, it could be a positive for existing projects/DC [data center] REITs which have pricing power driven by continuously expanding compute demand,\" Mizuho analyst Vikram Malhotra said in a Sept.  1 note. \n\nData center REITs make up 13% of the total U.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Santoli: One key tech ETF may signal whether this bull market can keep marching on - CNBC",
-      "url": "https://www.cnbc.com/2026/09/08/santoli-one-key-tech-etf-may-signal-whether-this-bull-market-can-keep-marching-on.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-08",
-      "resumo": "And the growing, rational unease with the pace and sustainability of the AI-investment supercycle found little tangible support throughout earnings season, with the \"spenders\" upping capex projections and the \"vendors\" raising guidance, all the way through Dell and Broadcom last week. \n\nHigher yields not all bad. \n\nOf course, both these dynamics – solid economic growth and unceasing AI capex intentions – are feeding what remains a key anxiety and preoccupation of investors: Rising bond yields.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Cramer says these 2 stocks are big winners from OpenAI's new model release - CNBC",
-      "url": "https://www.cnbc.com/2026/09/08/cramer-says-these-2-stocks-are-big-winners-from-openais-new-model-release-.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-08",
-      "resumo": "computing power and data centers have made investors quite sensitive to the AI lab's perceived standing in the artificial intelligence race — the belief is that OpenAI needs to stay at the frontier in order to pay all its future bills.  \"The launch of Astra shows OpenAI is so back,\" wrote Ben Reitzes of Melius Research, in a note to clients Tuesday.  \"Astra is worth dwelling on not only because it was trained on Nvidia Blackwells, but because it should start to dawn on people that OpenAI's repositioning around coding and enterprise has clearly improved its chances for a successful IPO in 2027.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "MSFT34 - Microsoft BDR | Cotação Hoje - Investing.com",
-      "url": "https://br.investing.com/equities/microsoft-corp-bdr",
-      "fonte": "br.investing.com",
-      "data": "2026-09-08",
-      "resumo": "| Nome | Último | Potencial Alta | Preço-Justo |\n ---  --- |\n| A Aaaaaaaaaa | 17,19 | +62,04% | 27,85 |\n| Aaaaa Aa | 4,62 | +56,54% | 7,23 |\n| Aaaaaa Aa Aaaaaaaa | 14,44 | +49,49% | 21,59 |\n| Aaa Aaaa | 3,52 | +47,78% | 5,20 |\n| Aaaaaa Aaaaaaaaaaaa | 10,85 | +46,40% | 15,88 |\n| Aaaaaaaaaa Aa A Aa | 3,86 | +45,21% | 5,61 |\n| Aaaaa Aaaaa Aaaa | 20,63 | +44,39% | 29,79 |\nVer lista completa\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500. \n\nMelhores Ações Brasileiras\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nEmpresas Sólidas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nAções Defensivas do Brasil [. ] Petrobras PN\n           Vale ON\n           Usiminas PNA\n           Gerdau PN\n           Cemig PN\n           BRF ON\n           Itaúsa PN\n           Axia Energia Prf\n           Weg ON\n           Banco Pan PN\n           Nubank BDR\n           Prio ON\n           Méliuz ON\n           Banco do Brasil ON\n           Bradesco PN\n           Tesla BDR\n           Amazon.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"

@@ -1,48 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html": {
-    "hash": "20730cf2d10e228e77b7cfedce9329af",
-    "visto_em": "2026-09-08"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-could-dramatic-move-134300329.html": {
-    "hash": "aa7e4e4fcf3dd2c23865bbd3f9bae63d",
-    "visto_em": "2026-09-08"
-  },
-  "https://finance.yahoo.com/technology/articles/buy-5-semiconductor-stocks-sales-123600819.html": {
-    "hash": "43a81e85f65652b0f250e3ce4eeabb5d",
-    "visto_em": "2026-09-08"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/invest-next-5-years-prediction-162800328.html": {
-    "hash": "a5f490e9f9707fdae40b24539076a696",
-    "visto_em": "2026-09-08"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-rises-nearly-3-265-213735953.html": {
-    "hash": "43a81e85f65652b0f250e3ce4eeabb5d",
-    "visto_em": "2026-09-08"
-  },
-  "https://seekingalpha.com/article/4943573-after-nvidias-blowout-the-ai-trades-next-leg-is-one-layer-down": {
-    "hash": "e80322164210caa29c5cf0ebc84fbd2a",
-    "visto_em": "2026-09-08"
-  },
-  "https://seekingalpha.com/article/4943532-payrolls-put-fed-back-to-work": {
-    "hash": "e79364ee53d1202d9bee6fa69bc92610",
-    "visto_em": "2026-09-08"
-  },
-  "https://br.investing.com/news/economy-news/os-dados-dos-eua-permitirao-que-o-fed-mantenha-a-paciencia-2054229": {
-    "hash": "4a3f96494d86dc33072324c5d0eddb1a",
-    "visto_em": "2026-09-08"
-  },
-  "https://br.investing.com/news/economy-news/presidente-do-parlamento-do-ira-ameaca-atacar-empresas-de-energia-dos-eua-2058319": {
-    "hash": "4a3f96494d86dc33072324c5d0eddb1a",
-    "visto_em": "2026-09-08"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-142602670.html": {
-    "hash": "ed06a7944180b71d36b86bc32c077627",
-    "visto_em": "2026-09-08"
-  },
-  "https://seekingalpha.com/news/4640508-earnings-week-ahead-orcl-adbe-kr-gme-chwy-and-more": {
-    "hash": "8c8f7b4e275c1c5df7415ea12f6ff4a5",
-    "visto_em": "2026-09-08"
-  },
   "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html": {
     "hash": "fbe38b75914d115b642092fdbd10513a",
     "visto_em": "2026-09-09"
@@ -598,5 +554,33 @@
   "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work": {
     "hash": "5b0e2ddc15ea0626e6e8f7321cbc9cfb",
     "visto_em": "2026-09-15"
+  },
+  "https://finance.yahoo.com/quote/TSM": {
+    "hash": "90f2fa6b4b9946b1755aeb085e73e588",
+    "visto_em": "2026-09-16"
+  },
+  "https://www.reuters.com/world/china/tech-stocks-slide-ai-slowdown-talks-2026-09-14/": {
+    "hash": "63a221f4247a4d079f0e2bed4a1f24f9",
+    "visto_em": "2026-09-16"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/qualcomm-data-center-bet-looks-182500298.html": {
+    "hash": "3851be3f9e08231caccda418cd048e2f",
+    "visto_em": "2026-09-16"
+  },
+  "https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html": {
+    "hash": "cc6ac4ac9a696223f4aa6301e99f3787",
+    "visto_em": "2026-09-16"
+  },
+  "https://www.forbes.com/sites/shivaramrajgopal/2026/09/15/what-happens-to-big-tech-stocks-if-ais-bet-doesnt-pay-off/": {
+    "hash": "4822a86b5887bc1cb69eed55e46a8fd8",
+    "visto_em": "2026-09-16"
+  },
+  "https://www.cnbc.com/2026/09/14/is-a-saaspocalypse-like-sell-off-coming-for-ai-hardware-stocks-not-so-fast.html": {
+    "hash": "59614e4ca39d99de2e5769df54e64e5e",
+    "visto_em": "2026-09-16"
+  },
+  "https://www.marketwatch.com/story/nvidia-palantir-ai-supply-chain-partnership-stock-impact-69524fc9?mod=default_seemore": {
+    "hash": "3ec812bf991da9caad5a2db63309cc10",
+    "visto_em": "2026-09-16"
   }
 }
