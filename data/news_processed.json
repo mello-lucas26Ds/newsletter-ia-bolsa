@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-16",
-    "total_noticias": 115,
-    "gerado_em": "2026-09-16T08:15:06.356914"
+    "total_noticias": 125,
+    "gerado_em": "2026-09-16T14:37:27.588625"
   },
   "noticias": [
+    {
+      "titulo": "TSMC Just Delivered Fantastic News for Nvidia Shareholders",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-just-delivered-fantastic-news-173001003.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-11",
+      "resumo": "Motley Fool\n\n# TSMC Just Delivered Fantastic News for Nvidia Shareholders\n\nAdria Cimino, The Motley Fool\n\n4 min read\n\n NVDA\n\n  -0. 03%\n TSM\n\n  +1. 22%\n\nNvidia (NASDAQ:NVDA) has delivered a winning performance in the artificial intelligence (AI) market, becoming the world's biggest AI chip designer and generating record earnings well into the billions of dollars.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Artificial Intelligence (AI) Stocks That Turned $10,000 Into More Than $100,000 in 5 Years (Hint: They've All Outperformed Nvidia)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-artificial-intelligence-ai-stocks-184017783.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-15",
+      "resumo": "Image source: Getty Images. \n\n## Dell Technologies\n\nA $10,000 investment in Dell would be worth approximately $119,000 today.  It's been a terrific rally for the tech stock, with a significant chunk of its gains coming within the past year, as the company has benefited from insatiable demand for AI servers.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI warnings knock Nasdaq futures, pressure tech stocks",
+      "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
+      "fonte": "reuters.com",
+      "data": "2026-09-14",
+      "resumo": "The declines reflect more cautious expectations after a frenzied race to develop increasingly capable AI models.  Billions of ​dollars poured into AI have powered a stratospheric rise in some technology and semiconductor stocks and have been critical to ​strong equity market gains over the past few years. \n\nAt 04:46 a.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Compared to Estimates, C3.ai (AI) Q1 Earnings: A Look at Key Metrics",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-c3-ai-ai-133003112.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-10",
+      "resumo": "Zacks\n\n# Compared to Estimates, C3. ai (AI) Q1 Earnings: A Look at Key Metrics\n\nCompared to Estimates, C3. ai (AI) Q1 Earnings: A Look at Key Metrics · Zacks\n\nZacks Equity Research\n\n2 min read\n\n AI\n\n  +1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Investors nervous about AI spending slowdown after industry warnings | Reuters",
+      "url": "https://www.reuters.com/legal/transactional/investors-nervous-about-ai-spending-slowdown-after-industry-warnings-2026-09-15",
+      "fonte": "reuters.com",
+      "data": "2026-09-15",
+      "resumo": "NEW YORK, Sept 15 (Reuters) - Investors are showing some nervousness over the stock market's AI-led rally after industry leaders called for reining in the pace of development — although some say guardrails ​could ultimately benefit the AI sector. \n\nRecent dire pronouncements about AI potentially endangering humanity were followed over the weekend by calls from AI leaders, including Anthropic CEO ‌Dario Amodei, to slow the rate of advancement and create more time to manage its risks. \n\nSign up here.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Market Wrap: AI Hits the Brakes | Investing.com",
+      "url": "https://www.investing.com/analysis/market-wrap-ai-hits-the-brakes-200687669",
+      "fonte": "investing.com",
+      "data": "2026-09-15",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NVDA | 210.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Is Keppel DC REIT (SGX:AJBU) Undervalued Or Are Data Centre Risks Now Priced In?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/keppel-dc-reit-sgx-ajbu-081201392.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-16",
+      "resumo": "Scan beyond Keppel DC REIT and compare it with a hand picked 60 AI infrastructure stocks that are also tied to the data and digital infrastructure theme. \n\nKeppel DC REIT now trades at S$2. 12 while the consensus target and intrinsic estimates sit higher.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 AI Stocks Poised to Outperform Micron and Sandisk as the Next Infrastructure Bottleneck Builds",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-poised-outperform-114500775.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-15",
+      "resumo": "This positioning has turned Vertiv into a critical bottleneck of AI infrastructure.  The company has a deep relationship with Nvidia and has become the industry standard for liquid cooling and thermal management in data centers. \n\nThat helps to explain why the growth stock rallied by more than 50% this year, and recent financial results imply that the gains can continue from current levels.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.54%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-054-4902560",
+      "fonte": "investing.com",
+      "data": "2026-09-15",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| AXON | 442.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks today: CEOs call for pacing AI, as Nvidia ...",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-15",
+      "resumo": "LIVE\n\nYahoo Finance\n\n# Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up\n\nDario Amodei, CEO and Co-Founder of Anthropic attends the 55th annual World Economic Forum (WEF) meeting in Davos, Switzerland, January 23, 2025.  REUTERS/Yves Herman · Yahoo Finance · REUTERS / Reuters\n\nDaniel Howley\n\nDaniel Howley  · Technology Editor\n\nUpdated 1 min read\n\n ^IXIC\n\n  -0. 78%\n NVDA\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Taiwan Semiconductor Manufacturing Company Limited ...",
       "url": "https://finance.yahoo.com/quote/TSM",

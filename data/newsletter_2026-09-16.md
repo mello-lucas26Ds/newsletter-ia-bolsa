@@ -1,118 +1,201 @@
 # Newsletter IA Bolsa — 2026-09-16
 
-**Gerado em:** 16/09/2026 08:15
-**Total:** 7 noticias
+**Gerado em:** 16/09/2026 14:37
+**Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Taiwan Semiconductor Manufacturing Company Limited ...
+## 1. TSMC Just Delivered Fantastic News for Nvidia Shareholders
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-TSM
+Motley Fool
 
-Taiwan Semiconductor Manufacturing Company Limited
+# TSMC Just Delivered Fantastic News for Nvidia Shareholders
 
-433. 24
+Adria Cimino, The Motley Fool
 
-+1. 22%
+4 min read
 
-Mkt Cap  2.
+ NVDA
 
-[Ler noticia completa](https://finance.yahoo.com/quote/TSM)
+  -0. 03%
+ TSM
+
+  +1. 22%
+
+Nvidia (NASDAQ:NVDA) has delivered a winning performance in the artificial intelligence (AI) market, becoming the world's biggest AI chip designer and generating record earnings well into the billions of dollars.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-just-delivered-fantastic-news-173001003.html)
 
 ---
 
-## 2. Tech stocks slide on AI slowdown talks - Reuters
+## 2. 3 Artificial Intelligence (AI) Stocks That Turned $10,000 Into More Than $100,000 in 5 Years (Hint: They've All Outperformed Nvidia)
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Image source: Getty Images. 
+
+## Dell Technologies
+
+A $10,000 investment in Dell would be worth approximately $119,000 today.  It's been a terrific rally for the tech stock, with a significant chunk of its gains coming within the past year, as the company has benefited from insatiable demand for AI servers.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/3-artificial-intelligence-ai-stocks-184017783.html)
+
+---
+
+## 3. AI warnings knock Nasdaq futures, pressure tech stocks
 
 **Fonte:** reuters.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Skip to main content
+The declines reflect more cautious expectations after a frenzied race to develop increasingly capable AI models.  Billions of ​dollars poured into AI have powered a stratospheric rise in some technology and semiconductor stocks and have been critical to ​strong equity market gains over the past few years. 
 
-Report AdImage 2
+At 04:46 a.
 
-Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv
-
- - Anthropic CEO Dario Amodei called on AI companies to slow the pace at which they develop the technology, the latest in a series of warnings highlighting growing concerns across the tech industry over the safety of AI. 
-
-Stocks from Asia to New York sank on the news, with tech-heavy equity markets including South Korea's KOSPI (. KS11), opens new tab closing down 3.
-
-[Ler noticia completa](https://www.reuters.com/world/china/tech-stocks-slide-ai-slowdown-talks-2026-09-14/)
+[Ler noticia completa](https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14)
 
 ---
 
-## 3. Qualcomm’s Data Center Bet Looks More Real After Amazon’s AI Deal
+## 4. Compared to Estimates, C3.ai (AI) Q1 Earnings: A Look at Key Metrics
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-## Optical Connectivity Makes the Deal Bigger Than Chips
+Zacks
 
-The partnership extends beyond processing units into data center networking.  Qualcomm is providing Amazon Web Services with optical connectivity systems scaling up to 1. 6 Terabits per second.
+# Compared to Estimates, C3. ai (AI) Q1 Earnings: A Look at Key Metrics
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/qualcomm-data-center-bet-looks-182500298.html)
+Compared to Estimates, C3. ai (AI) Q1 Earnings: A Look at Key Metrics · Zacks
+
+Zacks Equity Research
+
+2 min read
+
+ AI
+
+  +1.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/compared-estimates-c3-ai-ai-133003112.html)
 
 ---
 
-## 4. Bond yields are spiking, oil is up — but investors aren’t giving up on stocks - CNBC
+## 5. Investors nervous about AI spending slowdown after industry warnings | Reuters
 
-**Fonte:** cnbc.com  
+**Fonte:** reuters.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-As stocks faced more volatility this week after leading AI voices warned the tech was moving too fast to be safe and safeguards were needed, Bank of America's latest Global Fund Manager Survey revealed on Tuesday that many market participants appear undeterred from pouring cash into the stock market. 
+NEW YORK, Sept 15 (Reuters) - Investors are showing some nervousness over the stock market's AI-led rally after industry leaders called for reining in the pace of development — although some say guardrails ​could ultimately benefit the AI sector. 
 
-The survey found that while the "excess bullishness" seen over the summer had faded, investors remained broadly optimistic about growth and earnings, with most expecting continued heavy spending on AI.  [.
+Recent dire pronouncements about AI potentially endangering humanity were followed over the weekend by calls from AI leaders, including Anthropic CEO ‌Dario Amodei, to slow the rate of advancement and create more time to manage its risks. 
 
-[Ler noticia completa](https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html)
+Sign up here.
+
+[Ler noticia completa](https://www.reuters.com/legal/transactional/investors-nervous-about-ai-spending-slowdown-after-industry-warnings-2026-09-15)
 
 ---
 
-## 5. What Happens To Big Tech Stocks If AI's Bet Doesn't Pay Off - Forbes
+## 6. Market Wrap: AI Hits the Brakes | Investing.com
 
-**Fonte:** forbes.com  
+**Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-4.  Total earnings factor.  E = a × F + (1 − a) × (1 + g) = 0.
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| NVDA | 210.
 
-[Ler noticia completa](https://www.forbes.com/sites/shivaramrajgopal/2026/09/15/what-happens-to-big-tech-stocks-if-ais-bet-doesnt-pay-off/)
-
----
-
-## 6. Is a 'SaaSpocalypse'-like sell-off coming for AI hardware stocks? Not so fast - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-On Monday, at least, we're back in a market where Anthropic talks, and we all freak out.  The selling pressure hitting AI infrastructure stocks on Monday feels reminiscent of sell-offs in software stocks earlier this year, when investors feared that technological advances from Anthropic (and others) would disrupt their lucrative business models.  Now, the infrastructure stocks — chipmakers and all manner of data-center suppliers, including gas turbine makers and electrical equipment vendors — are tumbling on concerns that demand for their products will weaken in a world where AI model development is intentionally throttled back, as Anthropic CEO Dario Amodei called for this weekend due to safety concerns.
-
-[Ler noticia completa](https://www.cnbc.com/2026/09/14/is-a-saaspocalypse-like-sell-off-coming-for-ai-hardware-stocks-not-so-fast.html)
+[Ler noticia completa](https://www.investing.com/analysis/market-wrap-ai-hits-the-brakes-200687669)
 
 ---
 
-## 7. Nvidia and Palantir Team Up on AI Supply Chain Tech ... - Barron's
+## 7. Is Keppel DC REIT (SGX:AJBU) Undervalued Or Are Data Centre Risks Now Priced In?
 
-**Fonte:** marketwatch.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Nvidia shares were down 2. 2% in early trading and Palantir was slipping 2%.  The move was broadly in line with the wider technology sector which was being.
+Scan beyond Keppel DC REIT and compare it with a hand picked 60 AI infrastructure stocks that are also tied to the data and digital infrastructure theme. 
 
-[Ler noticia completa](https://www.marketwatch.com/story/nvidia-palantir-ai-supply-chain-partnership-stock-impact-69524fc9?mod=default_seemore)
+Keppel DC REIT now trades at S$2. 12 while the consensus target and intrinsic estimates sit higher.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/keppel-dc-reit-sgx-ajbu-081201392.html)
+
+---
+
+## 8. 3 AI Stocks Poised to Outperform Micron and Sandisk as the Next Infrastructure Bottleneck Builds
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+This positioning has turned Vertiv into a critical bottleneck of AI infrastructure.  The company has a deep relationship with Nvidia and has become the industry standard for liquid cooling and thermal management in data centers. 
+
+That helps to explain why the growth stock rallied by more than 50% this year, and recent financial results imply that the gains can continue from current levels.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-poised-outperform-114500775.html)
+
+---
+
+## 9. Brazil stocks higher at close of trade; Bovespa up 0.54%
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| AXON | 442.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-054-4902560)
+
+---
+
+## 10. Tech stocks today: CEOs call for pacing AI, as Nvidia ...
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+LIVE
+
+Yahoo Finance
+
+# Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up
+
+Dario Amodei, CEO and Co-Founder of Anthropic attends the 55th annual World Economic Forum (WEF) meeting in Davos, Switzerland, January 23, 2025.  REUTERS/Yves Herman · Yahoo Finance · REUTERS / Reuters
+
+Daniel Howley
+
+Daniel Howley  · Technology Editor
+
+Updated 1 min read
+
+ ^IXIC
+
+  -0. 78%
+ NVDA
+
+  +0.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/live/tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html)
 
 ---
