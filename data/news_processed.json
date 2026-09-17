@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-17",
-    "total_noticias": 117,
-    "gerado_em": "2026-09-17T08:21:35.275960"
+    "total_noticias": 127,
+    "gerado_em": "2026-09-17T14:42:36.045520"
   },
   "noticias": [
+    {
+      "titulo": "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-surge-ai-safety-150807132.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-14",
+      "resumo": "CrowdStrike (NASDAQ:CRWD) stock is up 12% to $232. 08, Zscaler (NASDAQ:ZS) stock is rising 12% to $183. 97, and Palo Alto Networks (NASDAQ:PANW) stock is jumping 11% to $366.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Here's How AI-Picked Stocks Performed Amid Market Uncertainty",
+      "url": "https://ca.investing.com/analysis/heres-how-aipicked-stocks-performed-amid-market-uncertainty-200627898",
+      "fonte": "ca.investing.com",
+      "data": "2026-09-17",
+      "resumo": "Some picks have delivered substantial gains, including Alphabet (NASDAQ:GOOGL), which rallied about 20% after WarrenAI identified it near a key technical.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks are tumbling as AI apocalypse fears go mainstream",
+      "url": "https://ca.finance.yahoo.com/news/tech-stocks-tumbling-ai-apocalypse-103016035.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-09-14",
+      "resumo": "The market reaction was particularly severe in Asia, where chipmakers and AI-infrastructure suppliers have been major beneficiaries of the AI boom. \n\nSoftBank, one of OpenAI's largest backers, closed down almost 11%.  South Korea's volatile and tech dominated Kospi index fell 3%, while Taiwan Semiconductor Manufacturing shares dropped 2%.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Here’s How AI-Picked Stocks Performed Amid Market Uncertainty | Investing.com",
+      "url": "https://www.investing.com/analysis/heres-how-aipicked-stocks-performed-amid-market-uncertainty-200687863",
+      "fonte": "investing.com",
+      "data": "2026-09-17",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 980.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Projeto de IA da Wah Fu Education aprovado para subsídios tecnológicos na China",
+      "url": "https://br.investing.com/news/company-news/projeto-de-ia-da-wah-fu-education-aprovado-para-subsidios-tecnologicos-na-china-93CH-2066352",
+      "fonte": "br.investing.com",
+      "data": "2026-09-15",
+      "resumo": "Petrobras PN\n           Vale ON\n           Usiminas PNA\n           Gerdau PN\n           Cemig PN\n           BRF ON\n           Itaúsa PN\n           Axia Energia Prf\n           Weg ON\n           Banco Pan PN\n           Nubank BDR\n           Prio ON\n           Méliuz ON\n           Banco do Brasil ON\n           Bradesco PN\n           Tesla BDR\n           Amazon. com BDR\n           Apple BDR\n           Alphabet A BDR\n           Nvidia BDR\n           XP BDR\n           SpaceX\n\n       ETFs\n\n           Principais ETFs\n           ETFs Mundiais\n           ETFs Brasil\n           ETFs de Bitcoin\n           ETFs de Criptomoedas na B3 [. ] Exibir mais\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI build-out propels tech firms to top of US investment ranking: Study",
+      "url": "https://ca.finance.yahoo.com/news/ai-build-propels-tech-firms-124926279.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-09-16",
+      "resumo": "-0. 61%\n META\n\n  +0. 46%\n MSFT\n\n  -1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "SPS Commerce lança ferramentas de IA para cadeia de suprimentos; MAX já está disponível",
+      "url": "https://br.investing.com/news/company-news/sps-commerce-lanca-ferramentas-de-ia-para-cadeia-de-suprimentos-max-ja-esta-disponivel-93CH-2066013",
+      "fonte": "br.investing.com",
+      "data": "2026-09-15",
+      "resumo": "Petrobras PN\n           Vale ON\n           Usiminas PNA\n           Gerdau PN\n           Cemig PN\n           BRF ON\n           Itaúsa PN\n           Axia Energia Prf\n           Weg ON\n           Banco Pan PN\n           Nubank BDR\n           Prio ON\n           Méliuz ON\n           Banco do Brasil ON\n           Bradesco PN\n           Tesla BDR\n           Amazon. com BDR\n           Apple BDR\n           Alphabet A BDR\n           Nvidia BDR\n           XP BDR\n           SpaceX\n\n       ETFs\n\n           Principais ETFs\n           ETFs Mundiais\n           ETFs Brasil\n           ETFs de Bitcoin\n           ETFs de Criptomoedas na B3 [. ] Exibir mais\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, Quote, News & Analysis | Seeking Alpha",
+      "url": "https://seekingalpha.com/symbol/TSM",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-10",
+      "resumo": "# TSM-Taiwan Semiconductor Manufacturing Company Limited Stock Price & Overview 247. 18K followers\n\nTaiwan Semiconductor Manufacturing Company Limited\n\n$413. 75-4.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Companies Struggle to Explain Their Own AI Investment Returns",
+      "url": "https://www.wsj.com/cio-journal/companies-struggle-to-explain-their-own-ai-investment-returns-0d95c3fe",
+      "fonte": "wsj.com",
+      "data": "2026-09-16",
+      "resumo": "“It’s hard to measure a lot of the ROI that happens,” said Arvind Jain, founder and chief executive of AI-powered enterprise search and work assistant platform Glean, speaking at the event on Tuesday. \n\nExecutives agreed that AI is delivering outsize value in some cases, but they found that in the majority of cases, it’s wasting more money than it’s worth.  Often companies have a hard time distinguishing which is which.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Datasea expande cooperação para desenvolver robôs de cuidado com idosos com IA Por Investing.com",
+      "url": "https://br.investing.com/news/company-news/datasea-expande-cooperacao-para-desenvolver-robos-de-cuidado-com-idosos-com-ia-93CH-2067236",
+      "fonte": "br.investing.com",
+      "data": "2026-09-16",
+      "resumo": "A Datasea Intelligent Technology Ltd.  é uma empresa de Tecnologia focada em inovação acústica de alta Tecnologia e soluções digitais multimodais baseadas em inteligência artificial. \n\nEssa notícia foi traduzida com a ajuda de inteligência artificial.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Realty Income Taps Private Capital, Europe and Data Centers for Growth",
       "url": "https://finance.yahoo.com/real-estate/articles/realty-income-taps-private-capital-220218428.html",

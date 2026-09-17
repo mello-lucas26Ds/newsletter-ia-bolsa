@@ -1,200 +1,225 @@
 # Newsletter IA Bolsa — 2026-09-17
 
-**Gerado em:** 17/09/2026 08:21
+**Gerado em:** 17/09/2026 14:42
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Realty Income Taps Private Capital, Europe and Data Centers for Growth
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-O
-
-  -0. 94%
-
-### Key Points
-
- Interested in Realty Income Corporation.  Here are five stocks we like better.
-
-[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/realty-income-taps-private-capital-220218428.html)
-
----
-
-## 2. Q2 Earnings Roundup: Nvidia (NASDAQ:NVDA) And The Rest Of ...
+## 1. Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-## Lattice Semiconductor (NASDAQ:LSCC)
+CrowdStrike (NASDAQ:CRWD) stock is up 12% to $232. 08, Zscaler (NASDAQ:ZS) stock is rising 12% to $183. 97, and Palo Alto Networks (NASDAQ:PANW) stock is jumping 11% to $366.
 
-A global leader in its category, Lattice Semiconductor (NASDAQ:LSCC) is a semiconductor designer specializing in customer-programmable chips that enhance CPU performance for intensive tasks such as machine learning. 
-
-Lattice Semiconductor reported revenues of $201. 1 million, up 62.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-nvidia-nasdaq-162052868.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-surge-ai-safety-150807132.html)
 
 ---
 
-## 3. Taiwan Semiconductor Is a No-Brainer Buy On Repeat And Not For The Reason You Think
+## 2. Here's How AI-Picked Stocks Performed Amid Market Uncertainty
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** ca.investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-24/7 Wall St. 
+Some picks have delivered substantial gains, including Alphabet (NASDAQ:GOOGL), which rallied about 20% after WarrenAI identified it near a key technical.
 
-# Taiwan Semiconductor Is a No-Brainer Buy On Repeat And Not For The Reason You Think
-
-Alex Sirois
-
-5 min read
-
- TSM
-
-  +1. 23%
- NVDA
-
-  +0.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-no-brainer-buy-144535856.html)
+[Ler noticia completa](https://ca.investing.com/analysis/heres-how-aipicked-stocks-performed-amid-market-uncertainty-200627898)
 
 ---
 
-## 4. Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Equinix, Inc.  Overview REIT - Specialty / Real Estate
-
-Equinix, Inc.  shortens the path to boundless connectivity anywhere in the world.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/EQIX)
-
----
-
-## 5. Second Quarter Earnings: A Rising AI Tide Lifts Many Sectors
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Investing Groups
-
-## Portfolios
-
-## Find & Compare
-
-# Second Quarter Earnings: A Rising AI Tide Lifts Many Sectors
-
-## Summary
-
-Abstract business graph of AI growth.  market growth, analysis, and future projections.  
-
-MF3d/iStock via Getty Images
-
-Abstract business graph of AI growth.
-
-[Ler noticia completa](https://seekingalpha.com/article/4945413-second-quarter-earnings-a-rising-ai-tide-lifts-many-sectors)
-
----
-
-## 6. Cohere, Aleph Alpha combine to target enterprise AI market
-
-**Fonte:** reuters.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Sept 16 (Reuters) - Canada's Cohere and Germany's ‌Aleph Alpha signed a definitive merger agreement on Wednesday, the AI companies said. 
-
-The combined business will operate as Cohere, with dual headquarters in Toronto and Berlin, while Aleph Alpha's Heidelberg office will focus on ​research.  Aleph Alpha co-chief Ilhan Scheer will become chief operating officer of Cohere.
-
-[Ler noticia completa](https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16)
-
----
-
-## 7. AI Trade Is Rotating From Memory To Interconnects, And ...
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Alpha Mantra
-
-527 Followers
-
-## Summary
-
- Corning is poised to benefit from the next AI infrastructure bottleneck: cluster-scale optical interconnectivity, driven by hyperscaler demand for high-density fiber. 
- GLW’s Springboard roadmap has delivered operating margins above 20% a year ahead of target, with Q2 2026 EPS up 30% YoY and robust free cash flow. 
- Multi-year, customer-funded supply agreements with Meta, NVIDIA, Verizon, and others de-risk capital allocation and secure revenue visibility through 2030.
-
-[Ler noticia completa](https://seekingalpha.com/article/4945944-ai-trade-memory-to-interconnects-and-corning-stock-best-way-to-play-it)
-
----
-
-## 8. Harbor AI Inflection Strategy ETF Q2 2026 Commentary (NYSEARCA:EPAI)
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Entering text into the input field will update the search result below
-
-## Quick Insights
-
- EPAI’s outperformance was primarily driven by robust gains in Information Technology and Industrials, with holdings like Applied Materials (+112%) and Flex (+147%) far exceeding benchmark returns. 
- EPAI targets secondary AI beneficiaries with durable competitive advantages, focusing on companies supporting AI infrastructure and adoption, rather than indiscriminate exposure to AI themes. 
- EPAI remains overweight Information Technology and Industrials, actively seeking companies poised to benefit from AI-driven capital investment, infrastructure buildout, and operational efficiency improvements.
-
-[Ler noticia completa](https://seekingalpha.com/article/4947341-harbor-ai-inflection-strategy-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy)
-
----
-
-## 9. Build data centres here or ‘rent’ from neighbours, AI minister says
+## 3. Tech stocks are tumbling as AI apocalypse fears go mainstream
 
 **Fonte:** ca.finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Christopher Reynolds
+The market reaction was particularly severe in Asia, where chipmakers and AI-infrastructure suppliers have been major beneficiaries of the AI boom. 
 
-6 min read
+SoftBank, one of OpenAI's largest backers, closed down almost 11%.  South Korea's volatile and tech dominated Kospi index fell 3%, while Taiwan Semiconductor Manufacturing shares dropped 2%.
 
- conference in Montreal on Wednesday, Sept.  16, 2026.  THE CANADIAN PRESS/Christinne Muschi
-
- 
-
-On Wednesday, Canadian research institute Mila and the German Research Center for Artificial Intelligence announced an agreement to cement AI ties between the two countries.
-
-[Ler noticia completa](https://ca.finance.yahoo.com/news/build-artificial-intelligence-rent-neighbours-170351279.html)
+[Ler noticia completa](https://ca.finance.yahoo.com/news/tech-stocks-tumbling-ai-apocalypse-103016035.html)
 
 ---
 
-## 10. U.S. stock futures drop amid surging yields, oil prices ahead of Fed meeting - Investing.com
+## 4. Here’s How AI-Picked Stocks Performed Amid Market Uncertainty | Investing.com
 
 **Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-At 09:31 ET (13:31 GMT), the benchmark S&P 500 was down 0. 2% to 7,604. 13 points, the tech-heavy NASDAQ Composite shed 0.
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| MU | 980.
 
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-slowing-ai-development-fed-anticipation-4900683)
+[Ler noticia completa](https://www.investing.com/analysis/heres-how-aipicked-stocks-performed-amid-market-uncertainty-200687863)
+
+---
+
+## 5. Projeto de IA da Wah Fu Education aprovado para subsídios tecnológicos na China
+
+**Fonte:** br.investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Petrobras PN
+           Vale ON
+           Usiminas PNA
+           Gerdau PN
+           Cemig PN
+           BRF ON
+           Itaúsa PN
+           Axia Energia Prf
+           Weg ON
+           Banco Pan PN
+           Nubank BDR
+           Prio ON
+           Méliuz ON
+           Banco do Brasil ON
+           Bradesco PN
+           Tesla BDR
+           Amazon. com BDR
+           Apple BDR
+           Alphabet A BDR
+           Nvidia BDR
+           XP BDR
+           SpaceX
+
+       ETFs
+
+           Principais ETFs
+           ETFs Mundiais
+           ETFs Brasil
+           ETFs de Bitcoin
+           ETFs de Criptomoedas na B3 [. ] Exibir mais
+
+Anúncio
+
+ProPicks IA
+
+Seleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500.
+
+[Ler noticia completa](https://br.investing.com/news/company-news/projeto-de-ia-da-wah-fu-education-aprovado-para-subsidios-tecnologicos-na-china-93CH-2066352)
+
+---
+
+## 6. AI build-out propels tech firms to top of US investment ranking: Study
+
+**Fonte:** ca.finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+-0. 61%
+ META
+
+  +0. 46%
+ MSFT
+
+  -1.
+
+[Ler noticia completa](https://ca.finance.yahoo.com/news/ai-build-propels-tech-firms-124926279.html)
+
+---
+
+## 7. SPS Commerce lança ferramentas de IA para cadeia de suprimentos; MAX já está disponível
+
+**Fonte:** br.investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Petrobras PN
+           Vale ON
+           Usiminas PNA
+           Gerdau PN
+           Cemig PN
+           BRF ON
+           Itaúsa PN
+           Axia Energia Prf
+           Weg ON
+           Banco Pan PN
+           Nubank BDR
+           Prio ON
+           Méliuz ON
+           Banco do Brasil ON
+           Bradesco PN
+           Tesla BDR
+           Amazon. com BDR
+           Apple BDR
+           Alphabet A BDR
+           Nvidia BDR
+           XP BDR
+           SpaceX
+
+       ETFs
+
+           Principais ETFs
+           ETFs Mundiais
+           ETFs Brasil
+           ETFs de Bitcoin
+           ETFs de Criptomoedas na B3 [. ] Exibir mais
+
+Anúncio
+
+ProPicks IA
+
+Seleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500.
+
+[Ler noticia completa](https://br.investing.com/news/company-news/sps-commerce-lanca-ferramentas-de-ia-para-cadeia-de-suprimentos-max-ja-esta-disponivel-93CH-2066013)
+
+---
+
+## 8. Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, Quote, News & Analysis | Seeking Alpha
+
+**Fonte:** seekingalpha.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+# TSM-Taiwan Semiconductor Manufacturing Company Limited Stock Price & Overview 247. 18K followers
+
+Taiwan Semiconductor Manufacturing Company Limited
+
+$413. 75-4.
+
+[Ler noticia completa](https://seekingalpha.com/symbol/TSM)
+
+---
+
+## 9. Companies Struggle to Explain Their Own AI Investment Returns
+
+**Fonte:** wsj.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+“It’s hard to measure a lot of the ROI that happens,” said Arvind Jain, founder and chief executive of AI-powered enterprise search and work assistant platform Glean, speaking at the event on Tuesday. 
+
+Executives agreed that AI is delivering outsize value in some cases, but they found that in the majority of cases, it’s wasting more money than it’s worth.  Often companies have a hard time distinguishing which is which.
+
+[Ler noticia completa](https://www.wsj.com/cio-journal/companies-struggle-to-explain-their-own-ai-investment-returns-0d95c3fe)
+
+---
+
+## 10. Datasea expande cooperação para desenvolver robôs de cuidado com idosos com IA Por Investing.com
+
+**Fonte:** br.investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+A Datasea Intelligent Technology Ltd.  é uma empresa de Tecnologia focada em inovação acústica de alta Tecnologia e soluções digitais multimodais baseadas em inteligência artificial. 
+
+Essa notícia foi traduzida com a ajuda de inteligência artificial.
+
+[Ler noticia completa](https://br.investing.com/news/company-news/datasea-expande-cooperacao-para-desenvolver-robos-de-cuidado-com-idosos-com-ia-93CH-2067236)
 
 ---
