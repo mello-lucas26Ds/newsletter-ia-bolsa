@@ -1,84 +1,4 @@
 {
-  "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html": {
-    "hash": "fbe38b75914d115b642092fdbd10513a",
-    "visto_em": "2026-09-09"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/equinix-doubling-down-ai-data-183002468.html": {
-    "hash": "d10f9c93f79bab38ed696145b6c9cb95",
-    "visto_em": "2026-09-09"
-  },
-  "https://www.cnbc.com/2026/09/08/these-dividend-stocks-could-catch-a-tailwind-from-data-center-pushback.html": {
-    "hash": "bd3f94beceb4d75b3f0eb4c03f4a3e98",
-    "visto_em": "2026-09-09"
-  },
-  "https://www.cnbc.com/2026/09/07/top-wall-street-analysts-like-these-3-stocks-for-the-long-haul.html": {
-    "hash": "98d29dfa810e9c8e85e826a602009579",
-    "visto_em": "2026-09-09"
-  },
-  "https://www.cnbc.com/2026/09/08/santoli-one-key-tech-etf-may-signal-whether-this-bull-market-can-keep-marching-on.html": {
-    "hash": "021ca98d593d33225cd91dcd5b8d7f53",
-    "visto_em": "2026-09-09"
-  },
-  "https://www.forbes.com/sites/investor-hub/article/best-data-center-stocks-reits-etfs-buy-now": {
-    "hash": "db98ec1fa8f048a5405175a729ac23ee",
-    "visto_em": "2026-09-09"
-  },
-  "https://www.cnbc.com/2026/09/08/cramer-says-these-2-stocks-are-big-winners-from-openais-new-model-release-.html": {
-    "hash": "d8e94adc67f453606ff260f1df03f909",
-    "visto_em": "2026-09-09"
-  },
-  "https://br.investing.com/equities/microsoft-corp-bdr": {
-    "hash": "2bbfaae7e16059a73e012a68d054ffc4",
-    "visto_em": "2026-09-09"
-  },
-  "https://www.cnbc.com/2026/09/09/three-pieces-of-advice-hsbc-has-for-ai-investors.html": {
-    "hash": "df5fa66dccf6bddf462bc8c662abe40f",
-    "visto_em": "2026-09-09"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/nvidias-hugging-face-buyout-further-130200882.html": {
-    "hash": "04ceab9d2b54e333213bf34d68806d65",
-    "visto_em": "2026-09-09"
-  },
-  "https://finance.yahoo.com/real-estate/articles/kic-realty-announces-merger-ai-150100179.html": {
-    "hash": "c4b79493183475f43600b0dfc81c9935",
-    "visto_em": "2026-09-09"
-  },
-  "https://seekingalpha.com/article/4943682-broadcom-stock-recent-earnings-confirm-why-its-the-ai-stock-i-trust-least": {
-    "hash": "240983bde3b82e9a2849d55f0ad3e1df",
-    "visto_em": "2026-09-09"
-  },
-  "https://finance.yahoo.com/technology/articles/cegid-silae-join-forces-create-103200443.html": {
-    "hash": "80f4098ca861cc025417d3ef428fff9a",
-    "visto_em": "2026-09-09"
-  },
-  "https://www.cnbc.com/2026/09/08/this-data-center-stock-is-up-over-1000percent-in-the-last-five-years-trader-mike-khouw-sees-more-gains.html": {
-    "hash": "87e50d78646e815cc4683c7f16ffa109",
-    "visto_em": "2026-09-09"
-  },
-  "https://www.cnbc.com/2026/09/08/stocks-making-the-biggest-moves-premarket-pton-roiv-bsx.html": {
-    "hash": "f2e995381521a2553029cd8b1b563ebc",
-    "visto_em": "2026-09-09"
-  },
-  "https://seekingalpha.com/article/4943973-sk-hynix-vs-micron-this-time-is-different": {
-    "hash": "fd65304ce52a87ce84eb36728baa47f9",
-    "visto_em": "2026-09-09"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/adobe-inc-adbe-acquires-rilo-150728839.html": {
-    "hash": "8099610b4d27377fca0aa83d8485c64a",
-    "visto_em": "2026-09-09"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/anthropic-ends-talks-potential-6bn-113759986.html": {
-    "hash": "534f89065130ba814a0ada03bbe14bd2",
-    "visto_em": "2026-09-09"
-  },
-  "https://www.businessinsider.com/dollar-yen-usd-jpy-japan-carry-trade-unwind-portfolio-impact-2026-9": {
-    "hash": "89d97d903c7672adfdd18253e6b2f3be",
-    "visto_em": "2026-09-09"
-  },
-  "https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value": {
-    "hash": "98676085fb69d286578f970261cead95",
-    "visto_em": "2026-09-09"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/blue-owl-owl-stock-still-001350079.html": {
     "hash": "78e19539cfb3cac972ad658e5a1d53db",
     "visto_em": "2026-09-10"
@@ -622,5 +542,45 @@
   "https://finance.yahoo.com/technology/live/tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html": {
     "hash": "2e93796fdf4ae469088ce5d5e6316d66",
     "visto_em": "2026-09-16"
+  },
+  "https://finance.yahoo.com/real-estate/articles/realty-income-taps-private-capital-220218428.html": {
+    "hash": "0af854b660b780d3a7ce6339eeae40f9",
+    "visto_em": "2026-09-17"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-nvidia-nasdaq-162052868.html": {
+    "hash": "21d4a893e515ffd75c1a5cb1e921377a",
+    "visto_em": "2026-09-17"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-no-brainer-buy-144535856.html": {
+    "hash": "b9f46e39ff5d7a99da24a23c5ae2b0de",
+    "visto_em": "2026-09-17"
+  },
+  "https://finance.yahoo.com/quote/EQIX": {
+    "hash": "428af45451dd46edf62496420bb9b67e",
+    "visto_em": "2026-09-17"
+  },
+  "https://seekingalpha.com/article/4945413-second-quarter-earnings-a-rising-ai-tide-lifts-many-sectors": {
+    "hash": "3d2c80ae57269a8263aaefb7ac695538",
+    "visto_em": "2026-09-17"
+  },
+  "https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16": {
+    "hash": "2ae7d135acae373a6363285721f2d863",
+    "visto_em": "2026-09-17"
+  },
+  "https://seekingalpha.com/article/4945944-ai-trade-memory-to-interconnects-and-corning-stock-best-way-to-play-it": {
+    "hash": "245a4f217292d93709993c18712b732d",
+    "visto_em": "2026-09-17"
+  },
+  "https://seekingalpha.com/article/4947341-harbor-ai-inflection-strategy-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy": {
+    "hash": "c70021b69de3474b4c12374bc17ba19c",
+    "visto_em": "2026-09-17"
+  },
+  "https://ca.finance.yahoo.com/news/build-artificial-intelligence-rent-neighbours-170351279.html": {
+    "hash": "5055befed099fce58fef20cf412534ae",
+    "visto_em": "2026-09-17"
+  },
+  "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-slowing-ai-development-fed-anticipation-4900683": {
+    "hash": "d353108833595da615b2d3e7eb23e7a1",
+    "visto_em": "2026-09-17"
   }
 }

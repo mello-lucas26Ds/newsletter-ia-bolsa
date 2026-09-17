@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-16",
-    "total_noticias": 125,
-    "gerado_em": "2026-09-16T14:37:27.588625"
+    "data": "2026-09-17",
+    "total_noticias": 117,
+    "gerado_em": "2026-09-17T08:21:35.275960"
   },
   "noticias": [
+    {
+      "titulo": "Realty Income Taps Private Capital, Europe and Data Centers for Growth",
+      "url": "https://finance.yahoo.com/real-estate/articles/realty-income-taps-private-capital-220218428.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-15",
+      "resumo": "O\n\n  -0. 94%\n\n### Key Points\n\n Interested in Realty Income Corporation.  Here are five stocks we like better.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Q2 Earnings Roundup: Nvidia (NASDAQ:NVDA) And The Rest Of ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-nvidia-nasdaq-162052868.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-16",
+      "resumo": "## Lattice Semiconductor (NASDAQ:LSCC)\n\nA global leader in its category, Lattice Semiconductor (NASDAQ:LSCC) is a semiconductor designer specializing in customer-programmable chips that enhance CPU performance for intensive tasks such as machine learning. \n\nLattice Semiconductor reported revenues of $201. 1 million, up 62.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Is a No-Brainer Buy On Repeat And Not For The Reason You Think",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-no-brainer-buy-144535856.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-16",
+      "resumo": "24/7 Wall St. \n\n# Taiwan Semiconductor Is a No-Brainer Buy On Repeat And Not For The Reason You Think\n\nAlex Sirois\n\n5 min read\n\n TSM\n\n  +1. 23%\n NVDA\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/EQIX",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-17",
+      "resumo": "## Equinix, Inc.  Overview REIT - Specialty / Real Estate\n\nEquinix, Inc.  shortens the path to boundless connectivity anywhere in the world.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Second Quarter Earnings: A Rising AI Tide Lifts Many Sectors",
+      "url": "https://seekingalpha.com/article/4945413-second-quarter-earnings-a-rising-ai-tide-lifts-many-sectors",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-11",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Second Quarter Earnings: A Rising AI Tide Lifts Many Sectors\n\n## Summary\n\nAbstract business graph of AI growth.  market growth, analysis, and future projections.  \n\nMF3d/iStock via Getty Images\n\nAbstract business graph of AI growth.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cohere, Aleph Alpha combine to target enterprise AI market",
+      "url": "https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16",
+      "fonte": "reuters.com",
+      "data": "2026-09-16",
+      "resumo": "Sept 16 (Reuters) - Canada's Cohere and Germany's ‌Aleph Alpha signed a definitive merger agreement on Wednesday, the AI companies said. \n\nThe combined business will operate as Cohere, with dual headquarters in Toronto and Berlin, while Aleph Alpha's Heidelberg office will focus on ​research.  Aleph Alpha co-chief Ilhan Scheer will become chief operating officer of Cohere.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Trade Is Rotating From Memory To Interconnects, And ...",
+      "url": "https://seekingalpha.com/article/4945944-ai-trade-memory-to-interconnects-and-corning-stock-best-way-to-play-it",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-14",
+      "resumo": "Alpha Mantra\n\n527 Followers\n\n## Summary\n\n Corning is poised to benefit from the next AI infrastructure bottleneck: cluster-scale optical interconnectivity, driven by hyperscaler demand for high-density fiber. \n GLW’s Springboard roadmap has delivered operating margins above 20% a year ahead of target, with Q2 2026 EPS up 30% YoY and robust free cash flow. \n Multi-year, customer-funded supply agreements with Meta, NVIDIA, Verizon, and others de-risk capital allocation and secure revenue visibility through 2030.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Harbor AI Inflection Strategy ETF Q2 2026 Commentary (NYSEARCA:EPAI)",
+      "url": "https://seekingalpha.com/article/4947341-harbor-ai-inflection-strategy-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-17",
+      "resumo": "Entering text into the input field will update the search result below\n\n## Quick Insights\n\n EPAI’s outperformance was primarily driven by robust gains in Information Technology and Industrials, with holdings like Applied Materials (+112%) and Flex (+147%) far exceeding benchmark returns. \n EPAI targets secondary AI beneficiaries with durable competitive advantages, focusing on companies supporting AI infrastructure and adoption, rather than indiscriminate exposure to AI themes. \n EPAI remains overweight Information Technology and Industrials, actively seeking companies poised to benefit from AI-driven capital investment, infrastructure buildout, and operational efficiency improvements.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Build data centres here or ‘rent’ from neighbours, AI minister says",
+      "url": "https://ca.finance.yahoo.com/news/build-artificial-intelligence-rent-neighbours-170351279.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-09-16",
+      "resumo": "Christopher Reynolds\n\n6 min read\n\n conference in Montreal on Wednesday, Sept.  16, 2026.  THE CANADIAN PRESS/Christinne Muschi\n\n \n\nOn Wednesday, Canadian research institute Mila and the German Research Center for Artificial Intelligence announced an agreement to cement AI ties between the two countries.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "U.S. stock futures drop amid surging yields, oil prices ahead of Fed meeting - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-slowing-ai-development-fed-anticipation-4900683",
+      "fonte": "investing.com",
+      "data": "2026-09-15",
+      "resumo": "At 09:31 ET (13:31 GMT), the benchmark S&P 500 was down 0. 2% to 7,604. 13 points, the tech-heavy NASDAQ Composite shed 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "TSMC Just Delivered Fantastic News for Nvidia Shareholders",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-just-delivered-fantastic-news-173001003.html",
@@ -167,20 +307,6 @@
       "data": "2026-09-14",
       "resumo": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Anthropic CEO Dario Amodei called on AI companies to slow the pace at which they develop the technology, the latest in a series of warnings highlighting growing concerns across the tech industry over the safety of AI. \n\nStocks from Asia to New York sank on the news, with tech-heavy equity markets including South Korea's KOSPI (. KS11), opens new tab closing down 3.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Qualcomm’s Data Center Bet Looks More Real After Amazon’s AI Deal",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-data-center-bet-looks-182500298.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-09",
-      "resumo": "## Optical Connectivity Makes the Deal Bigger Than Chips\n\nThe partnership extends beyond processing units into data center networking.  Qualcomm is providing Amazon Web Services with optical connectivity systems scaling up to 1. 6 Terabits per second.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -357,20 +483,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Analog Devices to buy Alif Semiconductor for $1.35 billion",
-      "url": "https://www.reuters.com/technology/analog-devices-buy-alif-semiconductor-135-billion-2026-09-09",
-      "fonte": "reuters.com",
-      "data": "2026-09-09",
-      "resumo": "Sept 9 (Reuters) - Analog Devices (ADI. O) will acquire privately held Alif Semiconductor for $1. 35 billion in ​cash, the companies said on Wednesday, ‌expanding ADI's on-device capabilities as AI applications increasingly move into physical systems.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
       "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work",
       "fonte": "techcrunch.com",
@@ -446,20 +558,6 @@
       "fonte": "forbes.com",
       "data": "2026-09-14",
       "resumo": "## Topline\n\nCrowdstrike shares popped to a new all-time high on Monday to headline a broader cybersecurity stock surge as leaders in the artificial intelligence space have urged a slowdown in development of the technology amid fears it could cause human extinction. \n\n## Key Facts\n\nCrowdstrike’s stock closed up 13. 8% to $235.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Intelligent Bio Solutions submete pedido à FDA para teste de codeína Por Investing.com",
-      "url": "https://br.investing.com/news/company-news/intelligent-bio-solutions-submete-pedido-a-fda-para-teste-de-codeina-93CH-2060295",
-      "fonte": "br.investing.com",
-      "data": "2026-09-09",
-      "resumo": "Ibovespa e dólar hoje: trade eleitoral, petróleo em alta e IPCA no radar\n\nIbovespa nos 188k com volume forte: Hora de realizar lucros ou surfar a alta hoje. \n+16%: Esta ação brasileira escolhida por nossa IA subiu 7% hoje, se destaca no mês\nTaxas dos DIs caem após nova pesquisa eleitoral indicar crescimento de Flávio\nCarol Stange\nBruno Mazzoni\nVagner Mayer\nRoberto Fernandes\nIgor Silva\n\nAche uma Corretora\n\nDownload\nApp store\nInvesting. com [.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1099,20 +1197,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.93% By Investing.com",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-093-5587149",
-      "fonte": "in.investing.com",
-      "data": "2026-09-09",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Moneyboxx Finance | 45.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Brazil shares lower at close of trade; Bovespa down 0.56%",
       "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-056-4866812",
       "fonte": "uk.investing.com",
@@ -1295,53 +1379,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Zenta Group adquire empresa de IA ZentoAI por US$ 7,1 milhões Por Investing.com",
-      "url": "https://br.investing.com/news/company-news/zenta-group-adquire-empresa-de-ia-zentoai-por-us-71-milhoes-93CH-2060672",
-      "fonte": "br.investing.com",
-      "data": "2026-09-09",
-      "resumo": "Essa notícia foi traduzida com a ajuda de inteligência artificial.  Para mais informação, veja nossos Termos de Uso. \n\n## Últimos comentários\n\nParticipe dos nossos desafios de investimento e concorra a prêmios, enquanto aprende.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "3 AI Power Stocks to Buy Now for Growth, Value and Breakout Potential",
       "url": "https://finance.yahoo.com/energy/articles/3-ai-power-stocks-buy-120000043.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-09-11",
       "resumo": "AI spending is fueling Wall Street and real-world economic growth, meaning investors must continue to buy and hold AI stocks. \n\nYet, buying technology stocks that are surefire long-term AI winners outside of a handful of stocks like Nvidia and Taiwan Semiconductor is no easy task considering how rapidly the technologies and their use cases are changing. \n\nWhat appears certain is that the AI spending spree is heating up.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Palantir and Nebius Are Building a Sovereign AI Stack, Not a Merger ...",
-      "url": "https://www.investing.com/analysis/palantir-and-nebius-are-building-a-sovereign-ai-stack-not-a-merger-of-equals-200687388",
-      "fonte": "investing.com",
-      "data": "2026-09-09",
-      "resumo": "Anna Coulling\n\nThe September 8 announcement that Palantir has named Nebius its preferred sovereign AI infrastructure partner is one of those deals that looks modest on a press-release page and large once you follow the logic.  It is not an exclusive lock-in, it is not a co-sale of the two businesses, and it does not by itself crown anyone “the” market leader.  What it does is pair Palantir’s software layer with a purpose-built GPU cloud inside Palantir’s own security perimeter — and that combination matters for how enterprises will buy AI over the next few years.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is Attracting Investor Attention: Here is What You Should Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-130006363.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-09",
-      "resumo": "We essentially look at how sell-side analysts covering the stock are revising their earnings estimates to reflect the impact of the latest business trends.  And if earnings estimates go up for a company, the fair value for its stock goes up.  A higher fair value than the current market price drives investors' interest in buying the stock, leading to its price moving higher.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1421,20 +1463,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Investors worried AI would disrupt this travel giant. Here's why the stock be primed for a turnaround - CNBC",
-      "url": "https://www.cnbc.com/video/2026/09/09/investors-worried-ai-would-disrupt-this-travel-giant-heres-why-the-stock-be-primed-for-a-turnaround.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-09",
-      "resumo": "Share\n\n# Investors worried AI would disrupt this travel giant.  Here's why the stock be primed for a turnaround\n\nIsabella Gao, equity analyst and correspondent at CNBC, breaks down why this travel stock could be a beneficiary of the AI boom, rather than a victim..",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Oracle jumps 6% after reporting 30% revenue growth fueled by AI cloud demand - CNBC",
       "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
       "fonte": "cnbc.com",
@@ -1505,39 +1533,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "4 AI Stocks Are Joining the S&P 500: Buy, Hold, or Pass?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-ai-stocks-joining-p-150300778.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-09",
-      "resumo": "NAND supply remains constrained as the big three memory makers continue to put most of their efforts and resources into DRAM (dynamic random access memory) and specifically high bandwidth memory (HBM).  At the same time, demand for flash continues to soar from the need for massive solid-state drives (SSDs) that store training data. \n\nSandisk has started to lock up customers with long-term deals for the first time ever, and AI seems to have potentially brought with it a structural shift where the typical boom-bust cycles are no longer the norm.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Oracle maintains its capex forecast and reports cloud growth, sending shares up 7% - Business Insider",
       "url": "https://www.businessinsider.com/oracle-q1-2027-earnings-maintains-capex-forecast-reports-cloud-growth-2026-9",
       "fonte": "businessinsider.com",
       "data": "2026-09-10",
       "resumo": "Oracle reported $55. 7 billion in capex, including new data centers, in its 2026 fiscal year. \n\nOracle has developed several financing models, including supplier financing arrangements, customer prepayments, and \"bring your own hardware\" deals in which customers purchase hardware while Oracle provides the cloud infrastructure and operations.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Major Market Top Sign: Insiders Are Cashing Out - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4944500-major-market-top-sign-insiders-are-cashing-out",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-09",
-      "resumo": "Bret Jensen\n\nInvesting Group Leader\n\n## Summary\n\n AI-driven IPO and capital markets activity in 2026 mirrors the late-stage exuberance of the 1999 Internet Boom and 2021 SPAC surge. \n CoreWeave kicked off the recent IPO wave, raising $1. 5B despite $860M in FY2024 losses; shares have since declined 40%, and CDS prices have surged.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -1603,48 +1603,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.93%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-093-4894503",
-      "fonte": "investing.com",
-      "data": "2026-09-09",
-      "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| META | 653.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "How big a risk are rates to the AI boom? By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/how-big-a-risk-are-rates-to-the-ai-boom-4893142",
-      "fonte": "investing.com",
-      "data": "2026-09-09",
-      "resumo": "## Latest comments\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NVDA | 225.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Silver Lake merges Cegid and Silae in 10 billion euro bet on AI-era software - CNBC",
-      "url": "https://www.cnbc.com/2026/09/09/silver-lake-merges-cegid-silae-ai-software-deal.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-09",
-      "resumo": "Private equity fund Silver Lake plans to merge two of its software firms, as the sector grapples with AI disruption. \n\nFrench firms Cegid, which sells business management software, and Silae, a payroll and HR platform, would combine in a deal that would bring together payroll, accounting, e-invoicing, digital finance and payments data, and create a 1,400-person developer team to invest in AI. \n\nThe deal has an enterprise value of more than 10 billion euros ($11.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "The AI investment boom won't last forever, Goldman Sachs chief ...",
       "url": "https://finance.yahoo.com/markets/article/the-ai-investment-boom-wont-last-forever-goldman-sachs-chief-economist-jan-hatzius-warns-122546159.html",
       "fonte": "finance.yahoo.com",
@@ -1673,81 +1631,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "3 AI Optical Networking Stocks Positioned for the Data Center Buildout",
-      "url": "https://www.investing.com/analysis/3-ai-optical-networking-stocks-positioned-for-the-data-center-buildout-200687381",
-      "fonte": "investing.com",
-      "data": "2026-09-09",
-      "resumo": "Nathan Reiff\n\nAI-driven networking companies have been waiting for a sign to either continue to pull back or reinvigorate a bull run, but Ciena Corp. ’s Q3 earnings report may invite more questions than answers.  Despite strong earnings and revenue, coupled with continued robust demand for AI and optical networking, shares fell after the report.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "A 2-Story Market: AI Optimism and Iran Fear Power US Stocks | Investing.com",
-      "url": "https://www.investing.com/analysis/a-2story-market-ai-optimism-and-iran-fear-power-us-stocks-200687370",
-      "fonte": "investing.com",
-      "data": "2026-09-09",
-      "resumo": "Meanwhile, tech stocks continue to benefit from “AI-driven earnings durability,” in the words of Venu Krishna, head of equity strategy at Barclays.  A “standout earnings season” led by technology prompted the investment bank to raise its year-end S&P 500 target to 7,950 from 7,800, a forecast that, if correct, equates to a 3. 6% rally by December 31 from yesterday’s close.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high - CNBC",
       "url": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
       "fonte": "cnbc.com",
       "data": "2026-09-10",
       "resumo": "In this article\n\nTaiwan Semiconductor Manufacturing Co.  reported record monthly revenue for August on Thursday, as demand for chips used in artificial intelligence applications remained strong. \n\nThe world's largest contract chipmaker posted revenue of $514.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Cegid and Silae Join Forces to Create a European Leader in AI-Driven Business Technology",
-      "url": "https://finance.yahoo.com/technology/articles/cegid-silae-join-forces-create-103200443.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-09",
-      "resumo": "By combining forces, the two companies will be able to scale up their investment in research and development even further -- at a critical time in the technology industry given the emergence of AI -- and assemble one of the largest developer teams in Europe (1,400 strong) to build tomorrow's leading-edge products for business customers. \n\nIn connection with the planned merger, Christian Pedersen has been appointed CEO of Cegid and in that role will lead the integration of Cegid and Silae's activities, spearhead deployment of the joint offering, and serve as CEO of the combined group.  Pedersen joins Cegid from IFS, a leading global provider of AI software.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The yen is surging. Here's how it could hit portfolios around the world - Business Insider",
-      "url": "https://www.businessinsider.com/dollar-yen-usd-jpy-japan-carry-trade-unwind-portfolio-impact-2026-9",
-      "fonte": "businessinsider.com",
-      "data": "2026-09-09",
-      "resumo": "\"When investors have to sell in a hurry to cover a currency bet gone wrong, they sell whatever they hold, and that can mean stocks, bonds and funds that ordinary savers are invested in too, often through their pension or their workplace retirement plan,\" said Nigel Green, CEO of deVere Group, a financial advisory firm, on Tuesday. \n\nThat is how a sharp move in the yen can ripple into the portfolios of investors who have never traded the currency. \n\n1.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Three pieces of advice HSBC has for AI investors - CNBC",
-      "url": "https://www.cnbc.com/2026/09/09/three-pieces-of-advice-hsbc-has-for-ai-investors.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-09",
-      "resumo": "rising, HSBC noted.  \"We are seeing signs that most of the selling pressure has now subsided,\" the bank said, adding that this should help reduce volatility, lower the cost of equity and support valuations throughout the sector.  Tech stocks have been seeing heightened volatility in recent months, with South Korea's semiconductor-heavy market whipsawing between steep losses and record gains.",
       "sentimento": "bullish",
       "tags": [
         "AI",
