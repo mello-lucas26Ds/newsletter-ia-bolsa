@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-18",
-    "total_noticias": 111,
-    "gerado_em": "2026-09-18T07:57:02.820176"
+    "total_noticias": 121,
+    "gerado_em": "2026-09-18T14:07:53.386338"
   },
   "noticias": [
+    {
+      "titulo": "AI Server Stocks Rally as the Hardware Bid Broadens - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-server-stocks-rally-hardware-145346231.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-17",
+      "resumo": "The iShares U. S.  Technology ETF (NYSEARCA:IYW) is up 1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Rally in Tech Stocks Brings Relief to Investors - WSJ",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/rally-in-tech-stocks-brings-relief-to-investors-At4QQRPN9Hw4TEsuyaAu",
+      "fonte": "wsj.com",
+      "data": "2026-09-17",
+      "resumo": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom.  The S&P 500 and Nasdaq composite posted their biggest one-day gains in six weeks..",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Rackspace Technology: The AI Pivot Is Real, But The Balance Sheet ...",
+      "url": "https://seekingalpha.com/article/4947794-rackspace-technology-the-ai-pivot-is-real-but-the-balance-sheet-is-still-the-problem",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-18",
+      "resumo": "Merger & Acquisition.  Rackspace plans to deploy AMD-based AI infrastructure in phases, partnership announcements and deployment headlines,.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Stock Price Today | TW: 2330 ...",
+      "url": "https://www.investing.com/equities/taiwan-semicon",
+      "fonte": "investing.com",
+      "data": "2026-09-16",
+      "resumo": "Market Movers\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 927.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cohere and Aleph Alpha plan merger for transatlantic sovereign AI firm",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cohere-aleph-alpha-plan-merger-090656948.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-17",
+      "resumo": "By joining forces, Cohere and Aleph Alpha aim to deliver AI solutions that meet the sovereignty requirements of both jurisdictions, especially for governments and industries with strict regulatory demands. \n\nThe joint company will implement safeguards and oversight measures to align with legal frameworks regarding the protection and handling of sensitive data and technology. \n\nThe unified company brings together Cohere's and Aleph Alpha's combined research capabilities, enterprise-grade solutions, and longstanding partnerships with public sector clients across both continents.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DLR: Digital Realty Trust, Inc. - Stock Price, Quote and News - CNBC",
+      "url": "https://www.cnbc.com/quotes/DLR",
+      "fonte": "cnbc.com",
+      "data": "2026-09-15",
+      "resumo": "Digital Realty Trust, Inc.  is a real estate investment trust.  The Company owns, acquires, develops, and operates data centers through its operating partnership subsidiary, Digital Realty Trust, L.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Software Stocks Get New Life From Strong Earnings, AI Warnings",
+      "url": "https://uk.finance.yahoo.com/news/software-stocks-life-strong-earnings-082808828.html",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-09-18",
+      "resumo": "Wall Street analysts expect the strong performance to continue.  The S&P 500 Index's software and services sector is expected to post earnings growth of 13. 8% in 2027 and 20.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks today: OpenAI reveals six more instances of ' ...",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-openai-reveals-six-more-instances-of-concerning-model-behavior-140134624.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-17",
+      "resumo": "Shares of top cybersecurity names popped in premarket trading amid fresh warnings from the biggest names in AI within the past two days.  Okta (OKTA) shares gained 5%, CrowdStrike (CRWD) advanced 4. 5%, and Palo Alto Networks (PANW) increased 4.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-jumps-7-semiconductor-rebound-173707172.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-17",
+      "resumo": "Advanced Micro Devices\n\n \n\nThe wider NASDAQ 100 tape is quieter today.  The Invesco QQQ Trust (NASDAQ:QQQ) is up 2% to $716. 41, so the day's strength is concentrated in chips rather than large-cap tech more broadly.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/AI",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-18",
+      "resumo": "764\n\n### Full Time Employees\n\nApril 30\n\n### Fiscal Year Ends\n\nTechnology\n\n### Sector\n\nSoftware - Infrastructure\n\n### Industry\n\n### Recent News\n\n### Performance Overview\n\nTrailing total returns as of 9/18/2026, which may include dividends or other distributions.  Benchmark is S&P 500 (^GSPC)\") . \n\n### YTD Return\n\n### 1-Year Return\n\n### 3-Year Return\n\n### 5-Year Return\n\n### Earnings Trends\n\n### Earnings Per Share\n\n### Revenue vs.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Digital Realty Global Data Insights Survey Reveals Enterprise Shift from AI Strategy to Execution as Infrastructure Emerges as Top Barrier",
       "url": "https://sg.finance.yahoo.com/news/digital-realty-global-data-insights-110000986.html",
