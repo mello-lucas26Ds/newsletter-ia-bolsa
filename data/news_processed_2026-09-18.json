@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-18",
+    "total_noticias": 10,
+    "gerado_em": "2026-09-18T07:57:02.818629"
+  },
+  "noticias": [
+    {
+      "titulo": "Digital Realty Global Data Insights Survey Reveals Enterprise Shift from AI Strategy to Execution as Infrastructure Emerges as Top Barrier",
+      "url": "https://sg.finance.yahoo.com/news/digital-realty-global-data-insights-110000986.html",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-09-17",
+      "resumo": "Digital Realty Trust, L. P. \n\n4 min read\n\n DLR\n\n  +1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Only 1 of These 2 Data Center REITs Keeps Raising Its Dividend. Here’s Which Belongs in Your Roth IRA.",
+      "url": "https://finance.yahoo.com/real-estate/articles/only-1-2-data-center-151059952.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-14",
+      "resumo": "Winner: Equinix. \n\n## Dimension 2: Growth Trajectory\n\nBoth REITs are riding the AI infrastructure wave (and the power, cooling, and networking suppliers feeding those halls are their own trade, one we mapped in a free report on seven AI infrastructure names), but Equinix is guiding higher and executing faster.  Q2 2026 revenue reached $2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC's Strong August Revenues Signal Continued AI-Driven Chip Demand",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmcs-strong-august-revenues-signal-144100216.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-15",
+      "resumo": "Image Source: Zacks Investment Research\n\nTSM currently trades at a forward 12-month Price/Sales (P/S) of 10. 63X compared with its historical median of 11. 08X and the industry average of 11.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semi Revenue Keeps Surging. How to Play TSM Stock in September 2026.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semi-revenue-keeps-surging-211457931.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-15",
+      "resumo": "TSMC has been a prime beneficiary of the AI infrastructure boom, with surging demand for its most advanced chips driving record revenue, expanding margins, and aggressive capacity expansion.  Over the past 52 weeks, TSM stock has gained 58%, and shares are up 36% year-to-date (YTD).  TSM stock reached a 52-week high of $479 on June 30 but is currently down roughly 14% from that level.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Rebounds as August Sales Smash NT$500 Billion",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-rebounds-august-sales-smash-211137661.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-11",
+      "resumo": "TSMC Rebounds as August Sales Smash NT$500 Billion ·us. finance. gurufocus\n\nTSMC also delivered a formidable 67.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/AI/latest-news",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-11",
+      "resumo": "StockStory • 7d ago\n\n  AI\n\n  -2. 13%\n\n### Performance Overview\n\nTrailing total returns as of 9/16/2026, which may include dividends or other distributions.  Benchmark is S&P 500 (^GSPC)\n\n| Return | AI | S&P 500 (^GSPC) |\n --- \n| YTD | -21.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/investors-come-back-to-ai-stocks-snapping-market-out-of-inflation-gloom-a7690ce5",
+      "fonte": "wsj.com",
+      "data": "2026-09-17",
+      "resumo": "Wall Street took a break Thursday from worrying about interest rates and inflation to revert to a tried-and-true investment idea: snapping up shares of companies tied to artificial intelligence. \n\nA rally in tech stocks from chip makers to the Magnificent Seven giants to data storage companies led U. S.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says - CNBC",
+      "url": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-17",
+      "resumo": "Anthropic is reportedly expected to list in the U. S.  next month, while OpenAI has pushed its IPO plans to next year.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Retail sales up 1.2% in August, more than expected - CNBC",
+      "url": "https://www.cnbc.com/video/2026/09/16/retail-sales-up-1-point-2-percent-in-august-more-than-expected.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-16",
+      "resumo": "22 min ago\nwatch now\nwatch now\nVIDEO\n08:42\nBillionaire investor Ron Baron on Tesla: The time to buy the stock is now\nan hour ago\nwatch now\nwatch now\nVIDEO\n13:45\n'Science of the AI mind': AI researcher Cameron Berg on the need to study AI behavior\n2 hours ago\nwatch now\nwatch now\nVIDEO\n12:01\nOpenAI CFO Sarah Friar: I am a tech optimist, but it is also important to align around safety\nLoad More [. ] 04:40\n19 minutes ago\nwatch now\nwatch now\nVIDEO\n04:40\nRetail sales up 1. 2% in August, more than expected\n19 min ago\nwatch now\nwatch now\nVIDEO\n09:11\nAndrew Yang on AI safety issues: The fear is real, the concern is real\n22 min ago\nwatch now\nwatch now\nVIDEO\n08:42\nBillionaire investor Ron Baron on Tesla: The time to buy the stock is now\nan hour ago\nwatch now\nwatch now\nVIDEO\n13:45\n'Science of the AI mind': AI researcher Cameron Berg on the need to study AI behavior\n2 hours ago\nwatch now\nwatch now\nVIDEO\n12:01\nOpenAI CFO Sarah Friar: I am a tech optimist, but it is also important to align around safety\nwatch now\nwatch now\nVIDEO\n04:40\nRetail sales up 1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stocks making the biggest moves midday: Workday, Generac, Vital Farms, Vicor, Tower Semi & more - CNBC",
+      "url": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-wday-gnrc-vicr-tsem-vitl.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-17",
+      "resumo": "company granted a non-exclusive license to an AI OEM for its Vertical Power Delivery modules.  — With reporting by CNBC's Michelle Fox [. ] Tower Semiconductor — Shares rose almost 9% after the Israeli semiconductor manufacturer and privately held New Photonics agreed to a high-volume shipment of laser-integrated optical engines designed to meet growing demand for high-bandwidth, energy-efficient optical interconnects in artificial intelligence infrastructure.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

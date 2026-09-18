@@ -1,84 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/blue-owl-owl-stock-still-001350079.html": {
-    "hash": "78e19539cfb3cac972ad658e5a1d53db",
-    "visto_em": "2026-09-10"
-  },
-  "https://www.investing.com/analysis/looking-beyond-semiconductors-these-8-tech-stocks-offer-up-to-60-upside-200681783": {
-    "hash": "210ed2ed565ed0738b198c94209681d8",
-    "visto_em": "2026-09-10"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/could-ai-stock-keeps-surprising-163015159.html": {
-    "hash": "4efb9ebdc2bd79ed841d1db60ebd23b5",
-    "visto_em": "2026-09-10"
-  },
-  "https://finance.yahoo.com/real-estate/articles/blue-owl-plans-6-5b-085202300.html": {
-    "hash": "57ee89eef88c2caa8b94b4c7172d6501",
-    "visto_em": "2026-09-10"
-  },
-  "https://finance.yahoo.com/real-estate/articles/blue-owl-plans-creating-publicly-170600578.html": {
-    "hash": "1225a5676f087c10ef86fd8783b37c8a",
-    "visto_em": "2026-09-10"
-  },
-  "https://www.investing.com/analysis/3-ai-optical-networking-stocks-positioned-for-the-data-center-buildout-200687381": {
-    "hash": "d923f78e3eeba4050431ee2eb015d66c",
-    "visto_em": "2026-09-10"
-  },
-  "https://finance.yahoo.com/real-estate/articles/data-center-reit-plan-tech-221252341.html": {
-    "hash": "9ff857a0fa08df3c775c0c9e3944f16f",
-    "visto_em": "2026-09-10"
-  },
-  "https://finance.yahoo.com/calendar/earnings": {
-    "hash": "195f6a96133d15b2cb1a4f96d6144378",
-    "visto_em": "2026-09-10"
-  },
-  "https://www.investing.com/analysis/a-2story-market-ai-optimism-and-iran-fear-power-us-stocks-200687370": {
-    "hash": "cb8e7400c35af532bd3a8d3a07980a65",
-    "visto_em": "2026-09-10"
-  },
-  "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html": {
-    "hash": "e149b2a416c4fd3ae4c385ace7d45572",
-    "visto_em": "2026-09-10"
-  },
-  "https://www.investing.com/academy/stock-picks/top-ai-stocks": {
-    "hash": "13d0027e904c6b106b6b04eabde60da9",
-    "visto_em": "2026-09-10"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-093-4894503": {
-    "hash": "ca760c5d2a5a94afb2c565978ebae369",
-    "visto_em": "2026-09-10"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-001-4888535": {
-    "hash": "95bf83377dd981d4a082db4688e03fbb",
-    "visto_em": "2026-09-10"
-  },
-  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-120-5585272": {
-    "hash": "058804605df8eba87189dc516fd3d25a",
-    "visto_em": "2026-09-10"
-  },
-  "https://www.investing.com/news/stock-market-news/how-big-a-risk-are-rates-to-the-ai-boom-4893142": {
-    "hash": "872986a0d4ae742f359421856aec8060",
-    "visto_em": "2026-09-10"
-  },
-  "https://www.cnbc.com/2026/09/09/silver-lake-merges-cegid-silae-ai-software-deal.html": {
-    "hash": "b0026d080932f7ed152bc8b99b667931",
-    "visto_em": "2026-09-10"
-  },
-  "https://finance.yahoo.com/markets/article/the-ai-investment-boom-wont-last-forever-goldman-sachs-chief-economist-jan-hatzius-warns-122546159.html": {
-    "hash": "827fdedcd7e1b71907a1a099a2832a41",
-    "visto_em": "2026-09-10"
-  },
-  "https://www.investing.com/analysis/deepseek-ipo-everything-you-need-to-know-about-the-chinese-ai-firm-200687422": {
-    "hash": "142a9301f62113d85ec31b59cc568f40",
-    "visto_em": "2026-09-10"
-  },
-  "https://www.wsj.com/politics/policy/retail-investors-hand-control-of-stock-portfolios-to-ai-5e7f3f25": {
-    "hash": "f301f7cf4d132a16fc72cd72d70cab60",
-    "visto_em": "2026-09-10"
-  },
-  "https://www.investing.com/equities/brasilagro-on-nm": {
-    "hash": "25c9bcb44ebe5f84a1c5fcc9ea6218c3",
-    "visto_em": "2026-09-10"
-  },
   "https://www.investing.com/news/stock-market-news/ipo-datvietvac-hon-1700-nha-dau-tu-dang-ky-mua-vuot-luong-co-phieu-chao-ban-4894963": {
     "hash": "5c1a4c09ac9616680279ef44f7939af9",
     "visto_em": "2026-09-11"
@@ -622,5 +542,45 @@
   "https://br.investing.com/news/company-news/datasea-expande-cooperacao-para-desenvolver-robos-de-cuidado-com-idosos-com-ia-93CH-2067236": {
     "hash": "9a10085f6ee86c5e78576e3ded270bdf",
     "visto_em": "2026-09-17"
+  },
+  "https://sg.finance.yahoo.com/news/digital-realty-global-data-insights-110000986.html": {
+    "hash": "8721802f8a61ce2d28b0ee7074224e7d",
+    "visto_em": "2026-09-18"
+  },
+  "https://finance.yahoo.com/real-estate/articles/only-1-2-data-center-151059952.html": {
+    "hash": "ffff714bd90685aa53dda8f5c07a0847",
+    "visto_em": "2026-09-18"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tsmcs-strong-august-revenues-signal-144100216.html": {
+    "hash": "6f618c1bbbbb36f6ba8a67e981744217",
+    "visto_em": "2026-09-18"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/taiwan-semi-revenue-keeps-surging-211457931.html": {
+    "hash": "53f9de8d31659c3287cbee6bec930cfc",
+    "visto_em": "2026-09-18"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-rebounds-august-sales-smash-211137661.html": {
+    "hash": "f66e405e573471a08df6dcc861946eb9",
+    "visto_em": "2026-09-18"
+  },
+  "https://finance.yahoo.com/quote/AI/latest-news": {
+    "hash": "c5f8742010c84a505c55f400e6198eab",
+    "visto_em": "2026-09-18"
+  },
+  "https://www.wsj.com/finance/stocks/investors-come-back-to-ai-stocks-snapping-market-out-of-inflation-gloom-a7690ce5": {
+    "hash": "5e8c3fa1b435848f7fbd55e37aabb934",
+    "visto_em": "2026-09-18"
+  },
+  "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html": {
+    "hash": "b0d94460b317014a1c9ae872eb470006",
+    "visto_em": "2026-09-18"
+  },
+  "https://www.cnbc.com/video/2026/09/16/retail-sales-up-1-point-2-percent-in-august-more-than-expected.html": {
+    "hash": "fc3dea3fd7d05569913e4b26ef88ad58",
+    "visto_em": "2026-09-18"
+  },
+  "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-wday-gnrc-vicr-tsem-vitl.html": {
+    "hash": "84d3471361b4423ed9360e8ee18d5229",
+    "visto_em": "2026-09-18"
   }
 }
