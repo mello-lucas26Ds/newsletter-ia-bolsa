@@ -1,84 +1,4 @@
 {
-  "https://www.investing.com/news/stock-market-news/ipo-datvietvac-hon-1700-nha-dau-tu-dang-ky-mua-vuot-luong-co-phieu-chao-ban-4894963": {
-    "hash": "5c1a4c09ac9616680279ef44f7939af9",
-    "visto_em": "2026-09-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-moving-everyday-business-5-165250986.html": {
-    "hash": "0dd0de96eb8e77b7c304fa6501a14ecb",
-    "visto_em": "2026-09-11"
-  },
-  "https://www.investing.com/news/stock-market-news/77-35-29-these-aistock-strategies-keep-beating-the-market-4895227": {
-    "hash": "25f41ff1b7e013bf27b25c07c1bc3f34",
-    "visto_em": "2026-09-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/4-ai-stocks-joining-p-150300778.html": {
-    "hash": "2e23ae2fce04e520bed456562445e5bb",
-    "visto_em": "2026-09-11"
-  },
-  "https://www.businessinsider.com/oracle-q1-2027-earnings-maintains-capex-forecast-reports-cloud-growth-2026-9": {
-    "hash": "72c69de41e8ba71b400d951571ca2613",
-    "visto_em": "2026-09-11"
-  },
-  "https://seekingalpha.com/article/4944500-major-market-top-sign-insiders-are-cashing-out": {
-    "hash": "547a943bf9ccb40aa9f22267ba3f4a94",
-    "visto_em": "2026-09-11"
-  },
-  "https://www.businessinsider.com/ai-stock-crash-us-recession-global-stagnation-fitch-ratings-2026-9": {
-    "hash": "e82bcf4a5a3839243d9c14125c7e0180",
-    "visto_em": "2026-09-11"
-  },
-  "https://www.cnbc.com/2026/09/10/our-top-3-stocks-that-bucked-the-markets-recent-pullback-plus-a-look-at-the-bottom-3.html": {
-    "hash": "d6f8285f8599600359aba8e2835bc214",
-    "visto_em": "2026-09-11"
-  },
-  "https://www.cnbc.com/2026/09/10/blackrock-60-40-portfolio-private-markets.html": {
-    "hash": "cc1f2a8379aa114194eaa66dc92f3ea1",
-    "visto_em": "2026-09-11"
-  },
-  "https://www.cnbc.com/2026/09/10/a-rapid-fire-update-on-our-33-stock-portfolio-including-6-to-buy-now.html": {
-    "hash": "049a71b5d4c08174c3f9befd0b5633f2",
-    "visto_em": "2026-09-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-130006363.html": {
-    "hash": "3c82979f890a84bbca53f625ab6c1cdf",
-    "visto_em": "2026-09-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-registers-bigger-fall-214505555.html": {
-    "hash": "fe1d53426ecf25f4ee8f41c5fbfb8eff",
-    "visto_em": "2026-09-11"
-  },
-  "https://ca.finance.yahoo.com/news/tsmc-revenue-rises-53-ai-053524398.html": {
-    "hash": "07e3d5fd7dcd80697ea8103342ba8f85",
-    "visto_em": "2026-09-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-august-revenue-rises-53-102300997.html": {
-    "hash": "0431b520c7dac2c65d4868d63cf24fc2",
-    "visto_em": "2026-09-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-slips-despite-53-122227013.html": {
-    "hash": "4714a505aebb472db81a314b59941fea",
-    "visto_em": "2026-09-11"
-  },
-  "https://www.cnbc.com/2026/09/10/ai-is-losing-its-stranglehold-on-the-us-stock-market-heres-why.html": {
-    "hash": "d8c57d56e1949af87a8a795e5c8506e1",
-    "visto_em": "2026-09-11"
-  },
-  "https://www.cnbc.com/video/2026/09/09/investors-worried-ai-would-disrupt-this-travel-giant-heres-why-the-stock-be-primed-for-a-turnaround.html": {
-    "hash": "1c89b889a40b12a7ec667bd708a279f9",
-    "visto_em": "2026-09-11"
-  },
-  "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html": {
-    "hash": "a70c6301887feacb39b30254024e5569",
-    "visto_em": "2026-09-11"
-  },
-  "https://www.reuters.com/world/asia-pacific/china-ai-developer-zai-launches-5-billion-hong-kong-share-convertible-bond-sales-2026-09-11/": {
-    "hash": "21161051a66cdd1b17b0ca8c247108f5",
-    "visto_em": "2026-09-11"
-  },
-  "https://www.cnbc.com/video/2026/09/10/ai-self-improvement-raises-fears-of-losing-human-control.html": {
-    "hash": "bc6e195a4bbeaf00defdd4767ebe6ef6",
-    "visto_em": "2026-09-11"
-  },
   "https://www.investing.com/equities/taiwan-semicond.manufacturing-co": {
     "hash": "f3209f7fc30450494b32554c4e568c36",
     "visto_em": "2026-09-12"
@@ -622,5 +542,45 @@
   "https://finance.yahoo.com/quote/AI": {
     "hash": "17e113c4e504eb9e887645807d2cd676",
     "visto_em": "2026-09-18"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-beats-stock-market-214505465.html": {
+    "hash": "86913bdd55c6e82318ec0cc0e733f0a5",
+    "visto_em": "2026-09-19"
+  },
+  "https://finance.yahoo.com/quote/TSMC.BA": {
+    "hash": "03766d855297b6035ded9159769601d4",
+    "visto_em": "2026-09-19"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/3-ai-software-stocks-retail-141253764.html": {
+    "hash": "5507f40737056498b4c997313893eef8",
+    "visto_em": "2026-09-19"
+  },
+  "https://www.investing.com/analysis/ai-spending-is-entering-a-more-disciplined-phase-200687992": {
+    "hash": "57069c08132f5cc2effd37a998b5fa02",
+    "visto_em": "2026-09-19"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-invested-taiwan-180500271.html": {
+    "hash": "911accce5a50fa793edf40e70269d320",
+    "visto_em": "2026-09-19"
+  },
+  "https://www.cnbc.com/2026/09/18/ai-stock-swings-can-affect-your-401k-what-to-know.html": {
+    "hash": "1044cf90d635cb9fe38655d1780e5183",
+    "visto_em": "2026-09-19"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/one-stock-quietly-did-590-141700512.html": {
+    "hash": "1826ca21b1fad72964956f4381d75a2d",
+    "visto_em": "2026-09-19"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/important-ai-stock-market-warnings-093644688.html": {
+    "hash": "50b10254fbf1106982db330808745a68",
+    "visto_em": "2026-09-19"
+  },
+  "https://br.investing.com/analysis/ibovespa-fecha-hoje-com-queda-de-041-200479706": {
+    "hash": "5bcbb585dc87397e05336facff280485",
+    "visto_em": "2026-09-19"
+  },
+  "https://www.bloomberg.com/news/articles/2026-09-17/stock-market-today-dow-s-p-live-updates": {
+    "hash": "87ba0b88091a9396ccba6c9cf8ff22f0",
+    "visto_em": "2026-09-19"
   }
 }
