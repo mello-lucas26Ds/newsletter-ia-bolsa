@@ -2,44 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-19",
-    "total_noticias": 10,
-    "gerado_em": "2026-09-19T07:47:32.305800"
+    "total_noticias": 9,
+    "gerado_em": "2026-09-19T13:42:44.424110"
   },
   "noticias": [
     {
-      "titulo": "TSMC (TSM) Beats Stock Market Upswing: What Investors Need to ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-beats-stock-market-214505465.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-18",
-      "resumo": "Most active \n       NOK Nokia Oyj 10. 68+0. 08(+0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "taiwan semiconductor manufactur (tsmc.ba) - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/TSMC.BA",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-17",
-      "resumo": "TAIWAN SEMICONDUCTOR MANUFACTUR (TSMC. BA) stock quote, history, news … 46. 81 +0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 AI Software Stocks Retail Investors Are Watching For Margin Growth",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-software-stocks-retail-141253764.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-18",
-      "resumo": "NYSE:ZETA Earnings & Revenue Growth as at Sep 2026\n\nNYSE:ZETA Earnings & Revenue Growth as at Sep 2026\n\n \n\n## Five9 (FIVN)\n\nOverview: Five9 delivers cloud-based, AI-powered contact center software that helps large enterprises automate and manage customer interactions across channels worldwide. \n\nOperations: Five9 generates about US$1. 20b from internet software and services, with roughly US$1.",
+      "titulo": "Global AI stocks fall as industry chiefs call for slowing development",
+      "url": "https://www.reuters.com/world/china/ai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14",
+      "fonte": "reuters.com",
+      "data": "2026-09-15",
+      "resumo": "Sign up here. \n\nAnthropic CEO Dario Amodei, in a lengthy essay shared on X on Saturday, called on AI companies to slow the rate at which they advance model capabilities amid mounting fears AI could be misused.  Both Elon Musk, who runs xAI, and Sam Altman, CEO of OpenAI, said they agree ​with Amodei.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -49,11 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI Spending Is Entering a More Disciplined Phase | Investing.com",
-      "url": "https://www.investing.com/analysis/ai-spending-is-entering-a-more-disciplined-phase-200687992",
-      "fonte": "investing.com",
-      "data": "2026-09-18",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| SPCX | 152.",
+      "titulo": "Stock market today: Dow, S&P 500, Nasdaq slip as chip stocks fall ...",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-15",
+      "resumo": "### (^TNX )\n\n  Go deeper with AlphaSpace\n\n  4. 9980  +0. 0510  (+1.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -63,11 +35,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Prediction: $1,000 Invested in Taiwan Semiconductor (TSMC) Today Will Be Worth This Much by the End of the Decade",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-invested-taiwan-180500271.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-16",
-      "resumo": "Consider when Netflix made this list on December 17, 2004.  if you invested $1,000 at the time of our recommendation, you'd have $420,109. \\ Or when Nvidia made this list on April 15, 2005.",
+      "titulo": "The AI capex boom masks an uncomfortable truth about S&P 500 earnings - Business Insider",
+      "url": "https://www.businessinsider.com/ai-capex-goldman-sachs-wall-street-tech-stocks-sp500-earnings-2026-9",
+      "fonte": "businessinsider.com",
+      "data": "2026-09-19",
+      "resumo": "Wall Street has cheered upbeat earnings this year, fueled by strong growth in tech, but the investors shouldn't count on the strong momentum lasting much longer, Goldman Sachs says. \n\nBen Snider, the bank's chief US equity strategist, recently laid out his team's thesis on how AI growth is likely to impact the market in the coming year.  Even if capex spending stays strong, he's not convinced it will be enough to sustain this year's positive momentum.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -77,53 +49,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI stock swings could affect your 401(k). Here’s what retirement savers need to know - CNBC",
-      "url": "https://www.cnbc.com/2026/09/18/ai-stock-swings-can-affect-your-401k-what-to-know.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-18",
-      "resumo": "AI exposure is not limited to the household names at the center of a nearly four-year-long U. S.  stock market rally.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "One stock quietly did 590% in 2026 after a decisive AI rebranding",
-      "url": "https://finance.yahoo.com/technology/ai/articles/one-stock-quietly-did-590-141700512.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-16",
-      "resumo": "There is real business behind the move, at least on paper.  Miglino said the order book has grown fast.  \"We've closed $3 billion worth of business.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "How important is AI to the stock market? Warnings bring new scrutiny",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/important-ai-stock-market-warnings-093644688.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-18",
-      "resumo": "Those gains have extended beyond the AI sector to companies as far-flung as construction firms tasked with building data centers and equipment manufacturers supplying those construction firms, Ivan Feinseth, a market analyst at Tigress Financial, told ABC News. \n\n\"It's the driving force for our economy right now,\" Feinseth said.  \"We're talking about hundreds of billions of dollars in investment in AI infrastructure.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "IBOVESPA fecha hoje com queda de 0,41% | Investing.com",
-      "url": "https://br.investing.com/analysis/ibovespa-fecha-hoje-com-queda-de-041-200479706",
+      "titulo": "PetMeds nomeia Jeff Willard como CEO; Campbell se aposenta Por Investing.com",
+      "url": "https://br.investing.com/news/company-news/petmeds-nomeia-jeff-willard-como-ceo-campbell-se-aposenta-93CH-2068467",
       "fonte": "br.investing.com",
-      "data": "2026-09-18",
-      "resumo": "Anúncio\n\n## Ações em Destaque\n\n| Nome | Último | Var.  % | Vol.  |\n ---  --- |\n| Ambipar ON | 0,18 | +12,50% | 7,62M |\n| Vale ON | 73,37 | -1,53% | 30,55M |\n| Banco do Brasil ON | 23,20 | +1,84% | 59,72M |\n| Petrobras PN | 48,50 | -0,23% | 52,61M |\n| Paranapanema ON | 0,38 | -5,00% | 25,26M |\n\nExibir mais\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500.",
+      "data": "2026-09-17",
+      "resumo": "Essa notícia foi traduzida com a ajuda de inteligência artificial.  Para mais informação, veja nossos Termos de Uso. \n\n## Últimos comentários\n\nParticipe dos nossos desafios de investimento e concorra a prêmios, enquanto aprende.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -133,12 +63,68 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Stocks Rise as Tech Climbs and Oil Extends Retreat: Markets Wrap - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-17/stock-market-today-dow-s-p-live-updates",
-      "fonte": "bloomberg.com",
+      "titulo": "TSMC’s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table",
+      "url": "https://finance.yahoo.com/technology/articles/tsmc-2nm-era-accelerating-mediatek-214827953.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-15",
+      "resumo": "Insider Monkey\n\n# TSMC’s 2nm Era Is Accelerating With MediaTek.  Nvidia and Alphabet Already Have Money on the Table\n\nHabib Ur Rehman\n\n3 min read\n\n TSM\n\n  -1. 02%\n 2454.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "2 Game-Changing AI Stocks That Can Plunge 48% and 54%, According to Select Wall Street Analysts",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-game-changing-ai-stocks-112601823.html",
+      "fonte": "finance.yahoo.com",
       "data": "2026-09-18",
-      "resumo": "# US Stocks Steady as Tech Outperforms and Oil Falls: Markets Wrap\n\n#### In this Article\n\nTechnology stocks were the standout performers as US equity futures steadied, making for a calmer end to a turbulent week.  Oil fell for a third straight day. \n\nNasdaq 100 contracts climbed 0.",
+      "resumo": "While most Wall Street analysts are overwhelmingly bullish regarding the AI infrastructure build-out, optimism isn't universal.  According to select analysts, two of the most widely owned AI stocks, Space Exploration Technologies (SpaceX) (NASDAQ:SPCX) and Palantir Technologies (NASDAQ:PLTR), can plunge 48% and 54%, respectively, over the next year. \n\nMissed Nvidia in 2009.",
       "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Sam Altman Admits the AI Industry Has Done \"a Terrible Job\" Explaining Its Benefits Amid Growing Backlash. Should That Worry Nvidia and Microsoft Investors?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/sam-altman-admits-ai-industry-085000115.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-19",
+      "resumo": "26.    News • 4 days ago The Nasdaq led indexes lower after AI model fears sent tech stocks tumbling\n27.    News • 4 days ago OpenAI CEO Sam Altman suddenly seems so disturbed by the nightmare-inducing AI monster he has helped create that he is having a hard time sleeping.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "EMBRAER ON Stock Price Today | BVMF: EMBJ3 Live - Investing.com",
+      "url": "https://www.investing.com/equities/embraer-on-nm",
+      "fonte": "investing.com",
+      "data": "2026-09-15",
+      "resumo": "B3\n\n|  |\n\n|  | Symbol |  | Exchange |  | Currency |\n|  | EMBJ3 | · | B3 | · | BRL | Delayed |\n|  | EMBJ | · | NYSE | · | USD | Real-time |\n|  | EMBJm | · | Buenos Aires | · | ARS | Delayed |\n|  | EMBJN | · | Mexico | · | MXN | Delayed |\n|  | ERJy | · | TradeGate | · | EUR | Delayed |\n\nCurrency in BRL\n\nEMBJ3 Pro Research\n\nAdd to Watchlist\n\n95. 32\n\n-0. 29(-0.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Family offices are clamoring for AI investments - TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+      "fonte": "techcrunch.com",
+      "data": "2026-09-18",
+      "resumo": "They see it as a comparatively safe investment in a volatile market.  Indeed, a February report from J. P.",
+      "sentimento": "bearish",
       "tags": [
         "AI",
         "Market"

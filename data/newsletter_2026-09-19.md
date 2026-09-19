@@ -1,176 +1,169 @@
 # Newsletter IA Bolsa — 2026-09-19
 
-**Gerado em:** 19/09/2026 07:47
-**Total:** 10 noticias
+**Gerado em:** 19/09/2026 13:42
+**Total:** 9 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. TSMC (TSM) Beats Stock Market Upswing: What Investors Need to ...
+## 1. Global AI stocks fall as industry chiefs call for slowing development
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Sign up here. 
+
+Anthropic CEO Dario Amodei, in a lengthy essay shared on X on Saturday, called on AI companies to slow the rate at which they advance model capabilities amid mounting fears AI could be misused.  Both Elon Musk, who runs xAI, and Sam Altman, CEO of OpenAI, said they agree ​with Amodei.
+
+[Ler noticia completa](https://www.reuters.com/world/china/ai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14)
+
+---
+
+## 2. Stock market today: Dow, S&P 500, Nasdaq slip as chip stocks fall ...
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Most active 
-       NOK Nokia Oyj 10. 68+0. 08(+0.
+### (^TNX )
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-beats-stock-market-214505465.html)
+  Go deeper with AlphaSpace
 
----
+  4. 9980  +0. 0510  (+1.
 
-## 2. taiwan semiconductor manufactur (tsmc.ba) - Yahoo Finance
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-TAIWAN SEMICONDUCTOR MANUFACTUR (TSMC. BA) stock quote, history, news … 46. 81 +0.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/TSMC.BA)
+[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html)
 
 ---
 
-## 3. 3 AI Software Stocks Retail Investors Are Watching For Margin Growth
+## 3. The AI capex boom masks an uncomfortable truth about S&P 500 earnings - Business Insider
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** businessinsider.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-NYSE:ZETA Earnings & Revenue Growth as at Sep 2026
+Wall Street has cheered upbeat earnings this year, fueled by strong growth in tech, but the investors shouldn't count on the strong momentum lasting much longer, Goldman Sachs says. 
 
-NYSE:ZETA Earnings & Revenue Growth as at Sep 2026
+Ben Snider, the bank's chief US equity strategist, recently laid out his team's thesis on how AI growth is likely to impact the market in the coming year.  Even if capex spending stays strong, he's not convinced it will be enough to sustain this year's positive momentum.
 
- 
-
-## Five9 (FIVN)
-
-Overview: Five9 delivers cloud-based, AI-powered contact center software that helps large enterprises automate and manage customer interactions across channels worldwide. 
-
-Operations: Five9 generates about US$1. 20b from internet software and services, with roughly US$1.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/3-ai-software-stocks-retail-141253764.html)
+[Ler noticia completa](https://www.businessinsider.com/ai-capex-goldman-sachs-wall-street-tech-stocks-sp500-earnings-2026-9)
 
 ---
 
-## 4. AI Spending Is Entering a More Disciplined Phase | Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-| Name | Last | Chg.  % | Vol.  |  |
- ---  --- 
-| SPCX | 152.
-
-[Ler noticia completa](https://www.investing.com/analysis/ai-spending-is-entering-a-more-disciplined-phase-200687992)
-
----
-
-## 5. Prediction: $1,000 Invested in Taiwan Semiconductor (TSMC) Today Will Be Worth This Much by the End of the Decade
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Consider when Netflix made this list on December 17, 2004.  if you invested $1,000 at the time of our recommendation, you'd have $420,109. \ Or when Nvidia made this list on April 15, 2005.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-invested-taiwan-180500271.html)
-
----
-
-## 6. AI stock swings could affect your 401(k). Here’s what retirement savers need to know - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-AI exposure is not limited to the household names at the center of a nearly four-year-long U. S.  stock market rally.
-
-[Ler noticia completa](https://www.cnbc.com/2026/09/18/ai-stock-swings-can-affect-your-401k-what-to-know.html)
-
----
-
-## 7. One stock quietly did 590% in 2026 after a decisive AI rebranding
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-There is real business behind the move, at least on paper.  Miglino said the order book has grown fast.  "We've closed $3 billion worth of business.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/one-stock-quietly-did-590-141700512.html)
-
----
-
-## 8. How important is AI to the stock market? Warnings bring new scrutiny
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Those gains have extended beyond the AI sector to companies as far-flung as construction firms tasked with building data centers and equipment manufacturers supplying those construction firms, Ivan Feinseth, a market analyst at Tigress Financial, told ABC News. 
-
-"It's the driving force for our economy right now," Feinseth said.  "We're talking about hundreds of billions of dollars in investment in AI infrastructure.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/important-ai-stock-market-warnings-093644688.html)
-
----
-
-## 9. IBOVESPA fecha hoje com queda de 0,41% | Investing.com
+## 4. PetMeds nomeia Jeff Willard como CEO; Campbell se aposenta Por Investing.com
 
 **Fonte:** br.investing.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Anúncio
+Essa notícia foi traduzida com a ajuda de inteligência artificial.  Para mais informação, veja nossos Termos de Uso. 
 
-## Ações em Destaque
+## Últimos comentários
 
-| Nome | Último | Var.  % | Vol.  |
- ---  --- |
-| Ambipar ON | 0,18 | +12,50% | 7,62M |
-| Vale ON | 73,37 | -1,53% | 30,55M |
-| Banco do Brasil ON | 23,20 | +1,84% | 59,72M |
-| Petrobras PN | 48,50 | -0,23% | 52,61M |
-| Paranapanema ON | 0,38 | -5,00% | 25,26M |
+Participe dos nossos desafios de investimento e concorra a prêmios, enquanto aprende.
 
-Exibir mais
-
-Anúncio
-
-ProPicks IA
-
-Seleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500.
-
-[Ler noticia completa](https://br.investing.com/analysis/ibovespa-fecha-hoje-com-queda-de-041-200479706)
+[Ler noticia completa](https://br.investing.com/news/company-news/petmeds-nomeia-jeff-willard-como-ceo-campbell-se-aposenta-93CH-2068467)
 
 ---
 
-## 10. Stocks Rise as Tech Climbs and Oil Extends Retreat: Markets Wrap - Bloomberg.com
+## 5. TSMC’s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table
 
-**Fonte:** bloomberg.com  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Insider Monkey
+
+# TSMC’s 2nm Era Is Accelerating With MediaTek.  Nvidia and Alphabet Already Have Money on the Table
+
+Habib Ur Rehman
+
+3 min read
+
+ TSM
+
+  -1. 02%
+ 2454.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/articles/tsmc-2nm-era-accelerating-mediatek-214827953.html)
+
+---
+
+## 6. 2 Game-Changing AI Stocks That Can Plunge 48% and 54%, According to Select Wall Street Analysts
+
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-# US Stocks Steady as Tech Outperforms and Oil Falls: Markets Wrap
+While most Wall Street analysts are overwhelmingly bullish regarding the AI infrastructure build-out, optimism isn't universal.  According to select analysts, two of the most widely owned AI stocks, Space Exploration Technologies (SpaceX) (NASDAQ:SPCX) and Palantir Technologies (NASDAQ:PLTR), can plunge 48% and 54%, respectively, over the next year. 
 
-#### In this Article
+Missed Nvidia in 2009.
 
-Technology stocks were the standout performers as US equity futures steadied, making for a calmer end to a turbulent week.  Oil fell for a third straight day. 
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/2-game-changing-ai-stocks-112601823.html)
 
-Nasdaq 100 contracts climbed 0.
+---
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-09-17/stock-market-today-dow-s-p-live-updates)
+## 7. Sam Altman Admits the AI Industry Has Done "a Terrible Job" Explaining Its Benefits Amid Growing Backlash. Should That Worry Nvidia and Microsoft Investors?
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+26.    News • 4 days ago The Nasdaq led indexes lower after AI model fears sent tech stocks tumbling
+27.    News • 4 days ago OpenAI CEO Sam Altman suddenly seems so disturbed by the nightmare-inducing AI monster he has helped create that he is having a hard time sleeping.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/sam-altman-admits-ai-industry-085000115.html)
+
+---
+
+## 8. EMBRAER ON Stock Price Today | BVMF: EMBJ3 Live - Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+B3
+
+|  |
+
+|  | Symbol |  | Exchange |  | Currency |
+|  | EMBJ3 | · | B3 | · | BRL | Delayed |
+|  | EMBJ | · | NYSE | · | USD | Real-time |
+|  | EMBJm | · | Buenos Aires | · | ARS | Delayed |
+|  | EMBJN | · | Mexico | · | MXN | Delayed |
+|  | ERJy | · | TradeGate | · | EUR | Delayed |
+
+Currency in BRL
+
+EMBJ3 Pro Research
+
+Add to Watchlist
+
+95. 32
+
+-0. 29(-0.
+
+[Ler noticia completa](https://www.investing.com/equities/embraer-on-nm)
+
+---
+
+## 9. Family offices are clamoring for AI investments - TechCrunch
+
+**Fonte:** techcrunch.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+They see it as a comparatively safe investment in a volatile market.  Indeed, a February report from J. P.
+
+[Ler noticia completa](https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/)
 
 ---
