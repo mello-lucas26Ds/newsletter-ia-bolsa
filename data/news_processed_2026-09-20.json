@@ -2,16 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-20",
-    "total_noticias": 3,
-    "gerado_em": "2026-09-20T08:15:52.404924"
+    "total_noticias": 10,
+    "gerado_em": "2026-09-20T13:58:16.711975"
   },
   "noticias": [
     {
-      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://ca.finance.yahoo.com/quote/TSM/latest-news",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-09-14",
-      "resumo": "Simply Wall St.  • 1d ago\n\n  TSM\n\n  +1. 02% 2454.",
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.24%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-024-5597488",
+      "fonte": "in.investing.com",
+      "data": "2026-09-17",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Ideal Technoplast Industries | 92.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -21,11 +21,109 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TSMC Stock And 2 Manufacturers Building Around Tariff Shifts",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-2-manufacturers-building-042001917.html",
-      "fonte": "finance.yahoo.com",
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.41%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-041-4907863",
+      "fonte": "investing.com",
+      "data": "2026-09-18",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NUE | 248.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote ...",
+      "url": "https://www.marketwatch.com/investing/stock/tsm",
+      "fonte": "marketwatch.com",
       "data": "2026-09-20",
-      "resumo": "Most active \n       NOK Nokia Oyj 10. 68+0. 08(+0.",
+      "resumo": "## Competitors\n\n| Name | Chg % | Market Cap |\n --- \n| NVIDIA Corp.  | 1. 34% | $5.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bovespa Index Today (IBOV) - Investing.com",
+      "url": "https://www.investing.com/indices/bovespa",
+      "fonte": "investing.com",
+      "data": "2026-09-17",
+      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| YDUQ3  YDUQS Participacoes | 10. 41+0. 31+3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.41% By Investing.com",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-041-4875118",
+      "fonte": "uk.investing.com",
+      "data": "2026-09-18",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Mothercare | 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Higher interest rates and AI safety fears put the stock market to the test last week - cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-19",
+      "resumo": "our two best-performing stocks of the week, rising almost 15% and 10%, respectively.  Salesforce pushes back on the 'SaaSpocalypse' Speaking of Dreamforce, Salesforce used its annual conference this week to make the case that AI is becoming an opportunity for enterprise software rather than the disruption investors once feared.  The so-called \"SaaSpocalypse\" hammered software stocks earlier this year, but, combined with last month's strong earnings , the announcements at Dreamforce are further challenging that narrative.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "OpenAI forecasts cash burn near $280 billion by 2030, FT reports - reuters.com",
+      "url": "https://www.reuters.com/technology/openai-expects-burn-through-almost-280-billion-by-2030-ft-reports-2026-09-18/",
+      "fonte": "reuters.com",
+      "data": "2026-09-18",
+      "resumo": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - OpenAI expects to burn through $278 billion in cash between 2026 and 2030 as it ramps ​up spending on computing power and infrastructure, the Financial ‌Times reported on Friday, citing a company presentation seen by the newspaper. \n\nThe projection highlights OpenAI's funding needs as it seeks fresh investment, ​with the FT reporting earlier this week that the ​ChatGPT maker had held talks with investors that could ⁠value it at about $1. 2 trillion ahead of a potential ​listing.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Top Wall Street analysts find these 3 stocks attractive as long-term investments - CNBC",
+      "url": "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-20",
+      "resumo": "Enterprise software and cloud infrastructure company Oracle (ORCL) recently announced better-than-expected results for the first quarter of fiscal 2027.  The quarter benefited from solid growth in cloud infrastructure revenue. \n\nAfter hosting a series of investor meetings with Ken Bond, Oracle head of investor relations following Q1 earnings, Guggenheim analyst John DiFucci reiterated a buy rating on the stock with a price target of $400.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise - Reuters",
+      "url": "https://www.reuters.com/business/anthropic-accenture-invest-2-billion-ai-model-evaluation-safety-concerns-rise-2026-09-18/",
+      "fonte": "reuters.com",
+      "data": "2026-09-18",
+      "resumo": "Sept 18 (Reuters) - AI lab Anthropic said on Friday it would partner with Accenture (ACN. N) for the independent evaluation of ​its frontier AI models, with the companies each committing at ‌least $1 billion over the next five years to build capacity for the work. \n\nShares of Accenture rose 7% in extended trading.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -35,11 +133,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Kwik Fill escolhe PAR Technology para modernizar plataforma de varejo",
-      "url": "https://br.investing.com/news/company-news/kwik-fill-escolhe-par-technology-para-modernizar-plataforma-de-varejo-93CH-2065620",
-      "fonte": "br.investing.com",
-      "data": "2026-09-15",
-      "resumo": "Exibir mais\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500. \n\nMelhores Ações Brasileiras\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nEmpresas Sólidas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nAções Defensivas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nAções Baratas do Brasil\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nTitãs da Tecnologia\n\nAções nesta estratégia\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nDesbloquear estratégia\n\nVença o S&P 500 [. ] Petrobras PN\n           Vale ON\n           Usiminas PNA\n           Gerdau PN\n           Cemig PN\n           BRF ON\n           Itaúsa PN\n           Axia Energia Prf\n           Weg ON\n           Banco Pan PN\n           Nubank BDR\n           Prio ON\n           Méliuz ON\n           Banco do Brasil ON\n           Bradesco PN\n           Tesla BDR\n           Amazon.",
+      "titulo": "Dollar pressure weighs on LatAm FX; regional stocks edge higher",
+      "url": "https://au.investing.com/news/economy-news/dollar-pressure-weighs-on-latam-fx-regional-stocks-edge-higher-4647713",
+      "fonte": "au.investing.com",
+      "data": "2026-09-17",
+      "resumo": "More In Tools\n\n       Correlation Calculator\n       Forex Pivot Point Calculator\n       Profit Calculator\n       Margin Calculator\n       Heatmap\n       Volatility Calculator\n       Forward Rates Calculator\n       Mortgage Calculator\n\n   Education \n   Economic CalendarStock Screener\n   0\n\nDollar pressure weighs on LatAm FX; regional stocks edge higher\n\nView all comments (0)0\n\nImage 2: &copy; Reuters.  A person walks past an electronic board displaying information on recent fluctuations of market indices at the B3 Stock Exchange in Sao Paulo, Brazil April 4, 2025.  REUTERS/Amanda Perobelli\n\n© Reuters.",
       "sentimento": "bullish",
       "tags": [
         "AI",

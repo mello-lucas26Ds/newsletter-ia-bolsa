@@ -1,135 +1,184 @@
 # Newsletter IA Bolsa — 2026-09-20
 
-**Gerado em:** 20/09/2026 08:15
-**Total:** 3 noticias
+**Gerado em:** 20/09/2026 13:58
+**Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, News, Quote & History - Yahoo Finance
+## 1. Brazil shares higher at close of trade; Bovespa up 0.24%
 
-**Fonte:** ca.finance.yahoo.com  
+**Fonte:** in.investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Simply Wall St.  • 1d ago
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| Ideal Technoplast Industries | 92.
 
-  TSM
-
-  +1. 02% 2454.
-
-[Ler noticia completa](https://ca.finance.yahoo.com/quote/TSM/latest-news)
+[Ler noticia completa](https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-024-5597488)
 
 ---
 
-## 2. TSMC Stock And 2 Manufacturers Building Around Tariff Shifts
+## 2. Brazil stocks lower at close of trade; Bovespa down 0.41%
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| NUE | 248.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-041-4907863)
+
+---
+
+## 3. Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote ...
+
+**Fonte:** marketwatch.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+## Competitors
+
+| Name | Chg % | Market Cap |
+ --- 
+| NVIDIA Corp.  | 1. 34% | $5.
+
+[Ler noticia completa](https://www.marketwatch.com/investing/stock/tsm)
+
+---
+
+## 4. Bovespa Index Today (IBOV) - Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+## Top Gainers
+
+| Name | Price |
+ --- |
+| YDUQ3  YDUQS Participacoes | 10. 41+0. 31+3.
+
+[Ler noticia completa](https://www.investing.com/indices/bovespa)
+
+---
+
+## 5. Brazil shares lower at close of trade; Bovespa down 0.41% By Investing.com
+
+**Fonte:** uk.investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| Mothercare | 0.
+
+[Ler noticia completa](https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-041-4875118)
+
+---
+
+## 6. Higher interest rates and AI safety fears put the stock market to the test last week - cnbc.com
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+our two best-performing stocks of the week, rising almost 15% and 10%, respectively.  Salesforce pushes back on the 'SaaSpocalypse' Speaking of Dreamforce, Salesforce used its annual conference this week to make the case that AI is becoming an opportunity for enterprise software rather than the disruption investors once feared.  The so-called "SaaSpocalypse" hammered software stocks earlier this year, but, combined with last month's strong earnings , the announcements at Dreamforce are further challenging that narrative.
+
+[Ler noticia completa](https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html)
+
+---
+
+## 7. OpenAI forecasts cash burn near $280 billion by 2030, FT reports - reuters.com
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Skip to main content
+
+Report AdImage 2
+
+Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv
+
+ - OpenAI expects to burn through $278 billion in cash between 2026 and 2030 as it ramps ​up spending on computing power and infrastructure, the Financial ‌Times reported on Friday, citing a company presentation seen by the newspaper. 
+
+The projection highlights OpenAI's funding needs as it seeks fresh investment, ​with the FT reporting earlier this week that the ​ChatGPT maker had held talks with investors that could ⁠value it at about $1. 2 trillion ahead of a potential ​listing.
+
+[Ler noticia completa](https://www.reuters.com/technology/openai-expects-burn-through-almost-280-billion-by-2030-ft-reports-2026-09-18/)
+
+---
+
+## 8. Top Wall Street analysts find these 3 stocks attractive as long-term investments - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Enterprise software and cloud infrastructure company Oracle (ORCL) recently announced better-than-expected results for the first quarter of fiscal 2027.  The quarter benefited from solid growth in cloud infrastructure revenue. 
+
+After hosting a series of investor meetings with Ken Bond, Oracle head of investor relations following Q1 earnings, Guggenheim analyst John DiFucci reiterated a buy rating on the stock with a price target of $400.
+
+[Ler noticia completa](https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html)
+
+---
+
+## 9. Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise - Reuters
+
+**Fonte:** reuters.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Most active 
-       NOK Nokia Oyj 10. 68+0. 08(+0.
+Sept 18 (Reuters) - AI lab Anthropic said on Friday it would partner with Accenture (ACN. N) for the independent evaluation of ​its frontier AI models, with the companies each committing at ‌least $1 billion over the next five years to build capacity for the work. 
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-2-manufacturers-building-042001917.html)
+Shares of Accenture rose 7% in extended trading.
+
+[Ler noticia completa](https://www.reuters.com/business/anthropic-accenture-invest-2-billion-ai-model-evaluation-safety-concerns-rise-2026-09-18/)
 
 ---
 
-## 3. Kwik Fill escolhe PAR Technology para modernizar plataforma de varejo
+## 10. Dollar pressure weighs on LatAm FX; regional stocks edge higher
 
-**Fonte:** br.investing.com  
+**Fonte:** au.investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Exibir mais
+More In Tools
 
-Anúncio
+       Correlation Calculator
+       Forex Pivot Point Calculator
+       Profit Calculator
+       Margin Calculator
+       Heatmap
+       Volatility Calculator
+       Forward Rates Calculator
+       Mortgage Calculator
 
-ProPicks IA
+   Education 
+   Economic CalendarStock Screener
+   0
 
-Seleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500. 
+Dollar pressure weighs on LatAm FX; regional stocks edge higher
 
-Melhores Ações Brasileiras
+View all comments (0)0
 
-Ações nesta estratégia
+Image 2: &copy; Reuters.  A person walks past an electronic board displaying information on recent fluctuations of market indices at the B3 Stock Exchange in Sao Paulo, Brazil April 4, 2025.  REUTERS/Amanda Perobelli
 
-aaaa aaaaa aaaa a
+© Reuters.
 
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-Desbloquear estratégia
-
-Empresas Sólidas do Brasil
-
-Ações nesta estratégia
-
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-Desbloquear estratégia
-
-Ações Defensivas do Brasil
-
-Ações nesta estratégia
-
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-Desbloquear estratégia
-
-Ações Baratas do Brasil
-
-Ações nesta estratégia
-
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-Desbloquear estratégia
-
-Titãs da Tecnologia
-
-Ações nesta estratégia
-
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-aaaa aaaaa aaaa a
-
-Desbloquear estratégia
-
-Vença o S&P 500 [. ] Petrobras PN
-           Vale ON
-           Usiminas PNA
-           Gerdau PN
-           Cemig PN
-           BRF ON
-           Itaúsa PN
-           Axia Energia Prf
-           Weg ON
-           Banco Pan PN
-           Nubank BDR
-           Prio ON
-           Méliuz ON
-           Banco do Brasil ON
-           Bradesco PN
-           Tesla BDR
-           Amazon.
-
-[Ler noticia completa](https://br.investing.com/news/company-news/kwik-fill-escolhe-par-technology-para-modernizar-plataforma-de-varejo-93CH-2065620)
+[Ler noticia completa](https://au.investing.com/news/economy-news/dollar-pressure-weighs-on-latam-fx-regional-stocks-edge-higher-4647713)
 
 ---
