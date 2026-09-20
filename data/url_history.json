@@ -1,84 +1,4 @@
 {
-  "https://www.investing.com/equities/taiwan-semicond.manufacturing-co": {
-    "hash": "f3209f7fc30450494b32554c4e568c36",
-    "visto_em": "2026-09-12"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsm-just-posted-record-sales-225826905.html": {
-    "hash": "d3a947bc928fb5d2d57c3f38dc3fcace",
-    "visto_em": "2026-09-12"
-  },
-  "https://currently.att.yahoo.com/att/tsmc-just-delivered-fantastic-news-173001003.html": {
-    "hash": "5458e6bb1fcb60d402e97fa1c42ba5bc",
-    "visto_em": "2026-09-12"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-price-prediction-one-number-153054824.html": {
-    "hash": "1c0ba647dc9bccbe6461f074dae52847",
-    "visto_em": "2026-09-12"
-  },
-  "https://markets.businessinsider.com/news/stocks/sandisk-up-over-40percent-past-month--can-the-rally-last-15923991": {
-    "hash": "eff2c5828c230e51e3c34ab7fb2a102d",
-    "visto_em": "2026-09-12"
-  },
-  "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-oil-prices-fall-inflation-remains-sticky-alphacheck-140509850.html": {
-    "hash": "c64e7db998e806972b321bb89825daf3",
-    "visto_em": "2026-09-12"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsm-record-sales-ai-chips-125702278.html": {
-    "hash": "fa3a908528050977dc4e74b9c43d2442",
-    "visto_em": "2026-09-12"
-  },
-  "https://br.investing.com/news/company-news/zenta-group-adquire-empresa-de-ia-zentoai-por-us-71-milhoes-93CH-2060672": {
-    "hash": "0ca537a92d486413e04735184a46691d",
-    "visto_em": "2026-09-12"
-  },
-  "https://finance.yahoo.com/energy/articles/3-ai-power-stocks-buy-120000043.html": {
-    "hash": "1282510fc4e55a12eb785964157e8d8e",
-    "visto_em": "2026-09-12"
-  },
-  "https://www.investing.com/analysis/palantir-and-nebius-are-building-a-sovereign-ai-stack-not-a-merger-of-equals-200687388": {
-    "hash": "10f4d69e4ff8f1dc2b117a301e882dfe",
-    "visto_em": "2026-09-12"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-142-4896901": {
-    "hash": "78eec1375f3a1d382cf1e23086eb8754",
-    "visto_em": "2026-09-12"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-056-4898411": {
-    "hash": "0683403ac3590eb385543ee5fa2f0f30",
-    "visto_em": "2026-09-12"
-  },
-  "https://in.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-093-5587149": {
-    "hash": "cd49e719d28506ff852f2059a502f41e",
-    "visto_em": "2026-09-12"
-  },
-  "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-056-4866812": {
-    "hash": "82c04118d384fe2498451ec7331741f2",
-    "visto_em": "2026-09-12"
-  },
-  "https://www.benzinga.com/markets/prediction-markets/26/09/61740701/nvidia-circular-financing-jensen-huang": {
-    "hash": "7c5894e39f400a52578deb812327db4a",
-    "visto_em": "2026-09-12"
-  },
-  "https://www.businessinsider.com/market-neutral-stockpickers-hedge-funds-freestone-holocene-performance-2026-9": {
-    "hash": "e71977f288d808b6bfaf5cd998dee4ce",
-    "visto_em": "2026-09-12"
-  },
-  "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html": {
-    "hash": "0a6f9c587ab4a30749f98ff60d3cc6fa",
-    "visto_em": "2026-09-12"
-  },
-  "https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9": {
-    "hash": "d7a6548a8ca2111d4081d53a6c0a6578",
-    "visto_em": "2026-09-12"
-  },
-  "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/": {
-    "hash": "2d1113dd6e7d64011f8bb7a55a40377b",
-    "visto_em": "2026-09-12"
-  },
-  "https://seekingalpha.com/article/4945618-nvidia-on-the-offensive": {
-    "hash": "181cafd0a9d00ef66eb889f4148746ee",
-    "visto_em": "2026-09-12"
-  },
   "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html": {
     "hash": "bb60437f6455e1a6a30e9e18b1a33a0f",
     "visto_em": "2026-09-13"
@@ -618,5 +538,17 @@
   "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/": {
     "hash": "a877649a78a132ae1d1fffa8400a9036",
     "visto_em": "2026-09-19"
+  },
+  "https://ca.finance.yahoo.com/quote/TSM/latest-news": {
+    "hash": "04347c29f58bcb3766155f89dfc7691a",
+    "visto_em": "2026-09-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-2-manufacturers-building-042001917.html": {
+    "hash": "fef87c7dde56286d7286a070e3353378",
+    "visto_em": "2026-09-20"
+  },
+  "https://br.investing.com/news/company-news/kwik-fill-escolhe-par-technology-para-modernizar-plataforma-de-varejo-93CH-2065620": {
+    "hash": "4a3f96494d86dc33072324c5d0eddb1a",
+    "visto_em": "2026-09-20"
   }
 }
