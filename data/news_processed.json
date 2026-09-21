@@ -1,11 +1,109 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-20",
-    "total_noticias": 112,
-    "gerado_em": "2026-09-20T13:58:16.714023"
+    "data": "2026-09-21",
+    "total_noticias": 113,
+    "gerado_em": "2026-09-21T08:32:43.942415"
   },
   "noticias": [
+    {
+      "titulo": "2 Trillion-Dollar AI Infrastructure Stocks With Up to 136% Upside, According to Select Wall Street Analysts",
+      "url": "https://finance.yahoo.com/technology/ai/articles/2-trillion-dollar-ai-infrastructure-112601081.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-15",
+      "resumo": "The AI infrastructure build-out is a multitrillion-dollar opportunity that's piquing the attention of retail investors and Wall Street professionals alike.  But for two foundational trillion-dollar AI hardware stocks, the party may be just getting started.  According to select Wall Street analysts, Nvidia (NASDAQ:NVDA) and Micron Technology (NASDAQ:MU) may offer up to 136% upside from their Sept.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Why I'm Avoiding This Popular AI Stock Despite Its Growth Story",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-im-avoiding-popular-ai-192600316.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-20",
+      "resumo": "## Second-quarter results were strong\n\nIntel, one of the leading players in the server CPU (central processing unit) market, is cashing in on rising demand for its products amid the agentic AI boom.  Consequently, the company's financial results have improved.  In the second quarter, Intel's revenue was $16.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Has the Market Become a Concentrated Bet on AI? | Investing.com",
+      "url": "https://www.investing.com/analysis/is-the-market-now-becoming-a-concentrated-bet-on-ai-200687759",
+      "fonte": "investing.com",
+      "data": "2026-09-19",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| SPCX | 152.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-slowdown-trade-winners-crowdstrike-212311977.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-20",
+      "resumo": "Palo Alto Networks, Inc.  (NASDAQ:PANW) and CrowdStrike Holdings, Inc.  (NASDAQ:CRWD) have previously surged significantly together on an AI-related catalyst, and their recent history serves as a helpful reminder that these rallies can reverse quickly.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSMC34.SA) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://ca.finance.yahoo.com/quote/TSMC34.SA",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-09-19",
+      "resumo": "175. 99%\n\n### Earnings Trends\n\nView More \n\n### Earnings Per Share\n\nNo Earnings Per Share available for this ticker\n\n### Revenue vs.  Earnings\n\nQ2 FY26\n\nRevenue 1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Berkshire Hathaway's Favorite Artificial Intelligence (AI) Stock Looks Like a Genius Buy Now",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-favorite-artificial-intelligence-131100376.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-20",
+      "resumo": "So while Berkshire Hathaway may not be rushing headlong to play the AI megatrend, it clearly believes in what Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) is doing, because it has massively increased its stake in one of the most AI-first companies on the market.  Based on the stock's valuation, I think it would be a good idea for investors to follow suit and scoop up shares now. \n\nMissed AI's \"Act 1\".",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing's Foundry Market Share Is a ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturings-foundry-market-082300915.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-20",
+      "resumo": "# Taiwan Semiconductor Manufacturing's Foundry Market Share Is a Massive Moat Nobody Talks About\n\nKeithen Drury, The Motley Fool\n\n4 min read\n\n TSM\n\n  +1. 02%\n 0981. HK\n\n  -0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Brazil shares higher at close of trade; Bovespa up 0.24%",
       "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-024-5597488",
@@ -1379,20 +1477,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Broadcom: Buckle Up For What's Coming (NASDAQ:AVGO) - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4945835-broadcom-buckle-up-for-whats-coming",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-13",
-      "resumo": "Bohdan Kucheriavyi\n\n10. 64K Followers\n\n## Summary\n\n Broadcom faces near-term pressure despite record results, as Q4 guidance disappointed and broader AI stock sentiment remains cautious. \n AVGO has secured supply to double AI semiconductor revenue in each of the next two years, with Anthropic and OpenAI driving major deployments.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Tech stocks are tumbling as AI apocalypse fears go mainstream - Business Insider",
       "url": "https://www.businessinsider.com/ai-warnings-spark-decline-in-tech-stocks-nvidia-slides-2026-9",
       "fonte": "businessinsider.com",
@@ -1449,39 +1533,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Hit $600 by the End of 2027",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-manufacturing-stock-110500119.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-13",
-      "resumo": "Motley Fool\n\n# Prediction: Taiwan Semiconductor Manufacturing Stock Will Hit $600 by the End of 2027\n\nKeithen Drury, The Motley Fool\n\n3 min read\n\n TSM\n\n  +1. 22%\n NVDA\n\n  -0. 03%\n\nTaiwan Semiconductor Manufacturing (NYSE: TSM) has been one of the top artificial intelligence (AI) stocks to own.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "AI stocks slide after major CEOs unite to urge slowdown - CNBC",
       "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
       "fonte": "cnbc.com",
       "data": "2026-09-14",
       "resumo": "Global AI-related stocks fell on Monday after Anthropic CEO Dario Amodei called for a slowdown of the development of AI capabilities, with other major tech figures backing the proposal. \n\nIn Asia, South Korean heavyweights SK Hynix and Samsung Electronics closed down more than 6% and 4%, respectively.  Shares of SoftBank, one of the biggest investors in OpenAI, fell 10% in Japan.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-13",
-      "resumo": "The deal could also strengthen Salesforce Inc.  (NYSE:CRM)'s broader Data Cloud strategy.  Customer research generated through Listen Labs could potentially be incorporated into customer profiles and made available across sales, marketing, service, and other applications.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -1519,53 +1575,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Insight Partners' Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic - techcrunch.com",
-      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "fonte": "techcrunch.com",
-      "data": "2026-09-13",
-      "resumo": "It varies enormously.  Wonderful [an enterprise AI agent platform] was created less than two years ago; we did two rounds and it’s now at a $5 billion valuation — a very fast double-down.  On the other hand, some 2021 investments went nowhere for three or four years before finding product-market fit.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "CA Technologies | CACI Stock Price, Company Overview & News - Forbes",
       "url": "https://www.forbes.com/companies/ca-technologies/",
       "fonte": "forbes.com",
       "data": "2026-09-14",
       "resumo": "The five highest performing cloud computing stocks year-to-date on the Cloud Computing Index are Qualys (NASDAQ: QYLS), Amazon (NASDAQ:AMZN), Workday (NYSE:WDAY), CA Technologies (NASDAQ: CA), and NetSuite (NYSE:N).  A $10K investment in Amazon shares made on January 2nd of this year is worth $15,631. 00 as of the market close on Friday December [.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "What jobs wipeout? Morgan Stanley says white-collar workers might benefit the most from AI - Business Insider",
-      "url": "https://www.businessinsider.com/ai-jobs-employment-wall-street-high-income-economy-morgan-stanley-2026-9",
-      "fonte": "businessinsider.com",
-      "data": "2026-09-13",
-      "resumo": "Andrew Slimmon, head of applied equity advisors at Morgan Stanley Investment Management, told Business Insider earlier this year that he wasn't worried about the impact AI would have on employment.  He predicted that the market would rebound and become stronger, similar to how the dot-com boom of the early 2000s reshaped the labor force. \n\nNow Berger and her team see a similar scenario taking shape as the evolution of AI transforms the economy in a way that benefits CHIC households, helps create more wealth, and ultimately fuels more consumer spending.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns - CNBC",
-      "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-13",
-      "resumo": "Furthermore, Smith expects Sempra Energy's Texas capex plan to stay in place despite the opposition to transmission and data centers, though delays to 765-kV projects are likely.  While a full recovery for SRE stock will need a clearer outcome from the Texas legislative session, Smith believes that the stock may already be an early opportunity for patient investors. \n\n\"We are early on the upgrade but see limited downside at current levels as the market is pricing in little transmission upside,\" said Smith.",
       "sentimento": "bullish",
       "tags": [
         "AI",
