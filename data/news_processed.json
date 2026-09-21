@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-21",
-    "total_noticias": 113,
-    "gerado_em": "2026-09-21T08:32:43.942415"
+    "total_noticias": 123,
+    "gerado_em": "2026-09-21T16:13:33.320714"
   },
   "noticias": [
+    {
+      "titulo": "+201% returns: see why these AI-picked tech stocks keep climbing By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/201-returns-see-why-these-aipicked-tech-stocks-keep-climbing-4908393",
+      "fonte": "investing.com",
+      "data": "2026-09-21",
+      "resumo": "Intel (NASDAQGS:INTC): +22. 06% in Sep alone\n AMD (NASDAQGS:AMD): +21. 8% in Sep alone\n Hewlett Packard (NYSE:HPE): +19.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Co Ltd Stock Price Today | BVMF: TSMC34 Live - Investing.com",
+      "url": "https://www.investing.com/equities/taiwan-semiconductor-drc",
+      "fonte": "investing.com",
+      "data": "2026-09-16",
+      "resumo": "Market Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| SPCX | 152.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall St futures rise as AI stocks rally, crude prices fall - Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-ai-115836672.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-21",
+      "resumo": "34.    News • 6 days ago The Nasdaq led indexes lower after AI model fears sent tech stocks tumbling\n35.    News • 7 days ago OpenAI CEO Sam Altman suddenly seems so disturbed by the nightmare-inducing AI monster he has helped create that he is having a hard time sleeping.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Premarket movers: crypto, AI stocks rise, Greenland plays soar",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-crypto-ai-stocks-120144526.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-21",
+      "resumo": "Investors appeared to refocus on evidence that spending on AI development and infrastructure remains strong. \n\nIntel rose 5. 4% in premarket trading, while Marvell Technology gained 2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-5-report-flags-133753675.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-21",
+      "resumo": "NVIDIA (NASDAQ:NVDA) stock is at $223. 72, up 0. 7%, tracking the AMD-led bid without a direct pricing catalyst of its own.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Buy-Rated REITs Collecting Rent From Warehouses, Data Centers and Shopping Centers",
+      "url": "https://finance.yahoo.com/real-estate/articles/3-buy-rated-reits-collecting-120046674.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-20",
+      "resumo": "Risk: E-commerce and trade-policy sensitivity.  Softer occupancy in Asia at 90. 6% and Central PA at 83.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Will Real Estate Protect Your Portfolio if the AI Bubble Bursts? - WSJ",
+      "url": "https://www.wsj.com/podcasts/take-on-the-week/will-real-estate-protect-your-portfolio-if-the-ai-bubble-bursts/9681d382-7fa4-4fef-adaa-f2cc5530ab6b",
+      "fonte": "wsj.com",
+      "data": "2026-09-20",
+      "resumo": "Jon Petersen: Over the past few years, the data center REIT sector has done very well.  Early on, ChatGPT came out at the end of 2022.  2023 and 2024 were very good years for the data center REITs because it was one of the few places where you could express optimism around the AI infrastructure trade.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Expands Into Turkiye With Strategic Data Center JV",
+      "url": "https://finance.yahoo.com/technology/articles/digital-realty-expands-turkiye-strategic-141200903.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-15",
+      "resumo": "Zacks\n\n# Digital Realty Expands Into Turkiye With Strategic Data Center JV\n\nZacks Equity Research\n\n2 min read\n\n DLR\n\n  +0. 32%\n LAMR\n\n  -1. 15%\n OUT\n\n  -1.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI’s Wobbly House of Cards Puts Markets and US Economy at Risk - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/ai-s-wobbly-house-of-cards-puts-markets-and-us-economy-at-risk",
+      "fonte": "bloomberg.com",
+      "data": "2026-09-20",
+      "resumo": "Similar forces are at work across a number of sectors as demand for products and services tied to data centers explodes.  Take Vertiv Holdings Co. , which makes cooling and power systems.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSM | Taiwan Semiconductor Share Price - Investing.com NG",
+      "url": "https://ng.investing.com/equities/taiwan-semicond.manufacturing-co",
+      "fonte": "ng.investing.com",
+      "data": "2026-09-21",
+      "resumo": "| Name | Last | Upside | Fair Value |\n ---  --- |\n| Aaaaaaa | 18. 150 | +35. 58% | 24.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "2 Trillion-Dollar AI Infrastructure Stocks With Up to 136% Upside, According to Select Wall Street Analysts",
       "url": "https://finance.yahoo.com/technology/ai/articles/2-trillion-dollar-ai-infrastructure-112601081.html",

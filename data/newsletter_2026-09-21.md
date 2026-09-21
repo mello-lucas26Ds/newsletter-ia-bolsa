@@ -1,129 +1,166 @@
 # Newsletter IA Bolsa — 2026-09-21
 
-**Gerado em:** 21/09/2026 08:32
-**Total:** 7 noticias
+**Gerado em:** 21/09/2026 16:13
+**Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. 2 Trillion-Dollar AI Infrastructure Stocks With Up to 136% Upside, According to Select Wall Street Analysts
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The AI infrastructure build-out is a multitrillion-dollar opportunity that's piquing the attention of retail investors and Wall Street professionals alike.  But for two foundational trillion-dollar AI hardware stocks, the party may be just getting started.  According to select Wall Street analysts, Nvidia (NASDAQ:NVDA) and Micron Technology (NASDAQ:MU) may offer up to 136% upside from their Sept.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/2-trillion-dollar-ai-infrastructure-112601081.html)
-
----
-
-## 2. Why I'm Avoiding This Popular AI Stock Despite Its Growth Story
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Second-quarter results were strong
-
-Intel, one of the leading players in the server CPU (central processing unit) market, is cashing in on rising demand for its products amid the agentic AI boom.  Consequently, the company's financial results have improved.  In the second quarter, Intel's revenue was $16.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/why-im-avoiding-popular-ai-192600316.html)
-
----
-
-## 3. Has the Market Become a Concentrated Bet on AI? | Investing.com
+## 1. +201% returns: see why these AI-picked tech stocks keep climbing By Investing.com
 
 **Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
+Intel (NASDAQGS:INTC): +22. 06% in Sep alone
+ AMD (NASDAQGS:AMD): +21. 8% in Sep alone
+ Hewlett Packard (NYSE:HPE): +19.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/201-returns-see-why-these-aipicked-tech-stocks-keep-climbing-4908393)
+
+---
+
+## 2. Taiwan Semiconductor Manufacturing Co Ltd Stock Price Today | BVMF: TSMC34 Live - Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Market Movers
+
+Most Active Gainers %Losers %
+
 | Name | Last | Chg.  % | Vol.  |  |
  ---  --- 
 | SPCX | 152.
 
-[Ler noticia completa](https://www.investing.com/analysis/is-the-market-now-becoming-a-concentrated-bet-on-ai-200687759)
+[Ler noticia completa](https://www.investing.com/equities/taiwan-semiconductor-drc)
 
 ---
 
-## 4. The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo ...
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Palo Alto Networks, Inc.  (NASDAQ:PANW) and CrowdStrike Holdings, Inc.  (NASDAQ:CRWD) have previously surged significantly together on an AI-related catalyst, and their recent history serves as a helpful reminder that these rallies can reverse quickly.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/ai-slowdown-trade-winners-crowdstrike-212311977.html)
-
----
-
-## 5. Taiwan Semiconductor Manufacturing Company Limited (TSMC34.SA) Stock Price, News, Quote & History - Yahoo Finance
-
-**Fonte:** ca.finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-175. 99%
-
-### Earnings Trends
-
-View More 
-
-### Earnings Per Share
-
-No Earnings Per Share available for this ticker
-
-### Revenue vs.  Earnings
-
-Q2 FY26
-
-Revenue 1.
-
-[Ler noticia completa](https://ca.finance.yahoo.com/quote/TSMC34.SA)
-
----
-
-## 6. Berkshire Hathaway's Favorite Artificial Intelligence (AI) Stock Looks Like a Genius Buy Now
+## 3. Wall St futures rise as AI stocks rally, crude prices fall - Yahoo Finance
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-So while Berkshire Hathaway may not be rushing headlong to play the AI megatrend, it clearly believes in what Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) is doing, because it has massively increased its stake in one of the most AI-first companies on the market.  Based on the stock's valuation, I think it would be a good idea for investors to follow suit and scoop up shares now. 
+34.    News • 6 days ago The Nasdaq led indexes lower after AI model fears sent tech stocks tumbling
+35.    News • 7 days ago OpenAI CEO Sam Altman suddenly seems so disturbed by the nightmare-inducing AI monster he has helped create that he is having a hard time sleeping.
 
-Missed AI's "Act 1".
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-favorite-artificial-intelligence-131100376.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-ai-115836672.html)
 
 ---
 
-## 7. Taiwan Semiconductor Manufacturing's Foundry Market Share Is a ...
+## 4. Premarket movers: crypto, AI stocks rise, Greenland plays soar
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-# Taiwan Semiconductor Manufacturing's Foundry Market Share Is a Massive Moat Nobody Talks About
+Investors appeared to refocus on evidence that spending on AI development and infrastructure remains strong. 
 
-Keithen Drury, The Motley Fool
+Intel rose 5. 4% in premarket trading, while Marvell Technology gained 2.
 
-4 min read
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/premarket-movers-crypto-ai-stocks-120144526.html)
 
- TSM
+---
 
-  +1. 02%
- 0981. HK
+## 5. AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up
 
-  -0.
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturings-foundry-market-082300915.html)
+NVIDIA (NASDAQ:NVDA) stock is at $223. 72, up 0. 7%, tracking the AMD-led bid without a direct pricing catalyst of its own.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/amd-rises-5-report-flags-133753675.html)
+
+---
+
+## 6. 3 Buy-Rated REITs Collecting Rent From Warehouses, Data Centers and Shopping Centers
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Risk: E-commerce and trade-policy sensitivity.  Softer occupancy in Asia at 90. 6% and Central PA at 83.
+
+[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/3-buy-rated-reits-collecting-120046674.html)
+
+---
+
+## 7. Will Real Estate Protect Your Portfolio if the AI Bubble Bursts? - WSJ
+
+**Fonte:** wsj.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Jon Petersen: Over the past few years, the data center REIT sector has done very well.  Early on, ChatGPT came out at the end of 2022.  2023 and 2024 were very good years for the data center REITs because it was one of the few places where you could express optimism around the AI infrastructure trade.
+
+[Ler noticia completa](https://www.wsj.com/podcasts/take-on-the-week/will-real-estate-protect-your-portfolio-if-the-ai-bubble-bursts/9681d382-7fa4-4fef-adaa-f2cc5530ab6b)
+
+---
+
+## 8. Digital Realty Expands Into Turkiye With Strategic Data Center JV
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Zacks
+
+# Digital Realty Expands Into Turkiye With Strategic Data Center JV
+
+Zacks Equity Research
+
+2 min read
+
+ DLR
+
+  +0. 32%
+ LAMR
+
+  -1. 15%
+ OUT
+
+  -1.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/articles/digital-realty-expands-turkiye-strategic-141200903.html)
+
+---
+
+## 9. AI’s Wobbly House of Cards Puts Markets and US Economy at Risk - Bloomberg.com
+
+**Fonte:** bloomberg.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Similar forces are at work across a number of sectors as demand for products and services tied to data centers explodes.  Take Vertiv Holdings Co. , which makes cooling and power systems.
+
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-09-20/ai-s-wobbly-house-of-cards-puts-markets-and-us-economy-at-risk)
+
+---
+
+## 10. TSM | Taiwan Semiconductor Share Price - Investing.com NG
+
+**Fonte:** ng.investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+| Name | Last | Upside | Fair Value |
+ ---  --- |
+| Aaaaaaa | 18. 150 | +35. 58% | 24.
+
+[Ler noticia completa](https://ng.investing.com/equities/taiwan-semicond.manufacturing-co)
 
 ---
