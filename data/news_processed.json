@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-22",
-    "total_noticias": 104,
-    "gerado_em": "2026-09-22T08:13:22.227875"
+    "total_noticias": 114,
+    "gerado_em": "2026-09-22T14:21:59.774578"
   },
   "noticias": [
+    {
+      "titulo": "AMD joins $1 trillion club as chipmakers rally on AI-driven demand - Reuters",
+      "url": "https://www.reuters.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-2026-09-21/",
+      "fonte": "reuters.com",
+      "data": "2026-09-21",
+      "resumo": "The stock's 185% surge in 2026, however, has far outpaced the 15. 8% gain in the tech-heavy Nasdaq (. IXIC) and placed it among the top S&P 500 (.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AMD hits a major milestone as AI stocks blaze higher - MarketWatch",
+      "url": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df",
+      "fonte": "marketwatch.com",
+      "data": "2026-09-21",
+      "resumo": "### Referenced Symbols\n\n   ARM +17. 16% \n   INTC +12. 14% \n   AMD +9.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "CCTV Script 22/09/26 - CNBC",
+      "url": "https://www.cnbc.com/2026/09/22/cctv-script-22/09/26.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-22",
+      "resumo": "While artificial intelligence stocks continue to draw massive capital flows in public markets, AI concepts remain equally sought after in private markets.  According to multiple media reports, Japan's SoftBank Group plans to issue over 11 billion dollars in bonds, primarily to fund an additional investment in OpenAI.  If completed, this transaction would mark the largest non-financial corporate bond issuance ever recorded in the Asia-Pacific region.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Ibovespa USD Index Today (BVSPUSD) - Investing.com",
+      "url": "https://www.investing.com/indices/ibovespa-usd",
+      "fonte": "investing.com",
+      "data": "2026-09-18",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 1,038.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Here are the 3 big things we're watching in the stock market this week - CNBC",
+      "url": "https://www.cnbc.com/2026/09/20/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-20",
+      "resumo": "and, more importantly, how it is applying that innovation to product offerings.  We have been very impressed with the recently launched Muse agentic AI application and look forward to hearing early feedback and to learning about future plans.  How the company is strengthening its family of apps — both in user engagement and in the tools it provides to developers — will also be of interest, as this is the primary near-term path to AI investment returns.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AMD crosses $1T market cap as chip stocks rally (AMD:NASDAQ) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4644811-amd-crossed-1t-market-cap-as-chip-and-ai-stocks-rally",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-21",
+      "resumo": "Home page Seeking Alpha - Power to Investors\n\nSearch for Symbols, analysts, keywords\n\n On the Move\n\n# AMD crosses $1T market cap as chip stocks rally\n\nSep 21, 2026, 11:20 AM ETAdvanced Micro Devices, Inc.  (AMD) StockINTC, NVDA, MU, AVGO, SOX, COMP:INDBy: Pratyush Thakur, SA News Editor20 Comments\n\nAdvanced Micro Devices (AMD) surpassed a $1T market capitalization for the first time on Monday, becoming the latest chipmaker to reach the milestone. \n\nAMD shares were up more than 9% at $611.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia’s Stock Is Flashing a Warning Sign as Valuation Falls - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/nvidia-s-stock-is-flashing-a-warning-sign-as-valuation-falls",
+      "fonte": "bloomberg.com",
+      "data": "2026-09-22",
+      "resumo": "# Nvidia’s Stock Is Flashing a Warning Sign as Valuation Falls\n\n## Takeaways by Bloomberg AISubscribe\n\nNvidia Corp. ’s sinking stock valuation is sending a warning signal about the chipmaker’s prospects for maintaining its booming profit growth. \n\nAt less than 17 times profit expected over the next 12 months, Nvidia’s shares are trading near the cheapest level in more than a decade, according to data compiled by Bloomberg.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AMD hits $1 trillion market cap as stock continues 5-day rally - CNBC",
+      "url": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-21",
+      "resumo": "WATCH LIVE\n\nIn this article\n\n AMD\n\nLisa Su, chairwoman and CEO of Advanced Micro Devices (AMD), delivers the opening keynote speech at Computex 2024, Taiwan's premier tech expo, in Taipei on June 3, 2024. \n\nI-Hwa Cheng | Afp | Getty Images\n\nAdvanced Micro Devices stock surged on Monday, pushing shares to a record high and topping a $1 trillion market cap benchmark. \n\nThe chip giant's shares hit an intraday high of $613.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Corporate bond buyers get picky with flood of AI debt - Reuters",
+      "url": "https://www.reuters.com/legal/transactional/corporate-bond-buyers-get-picky-with-flood-ai-debt-2026-09-22/",
+      "fonte": "reuters.com",
+      "data": "2026-09-22",
+      "resumo": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai\n\nAn AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai, China July 6, 2023.  REUTERS/Aly Song/File Photo Purchase Licensing Rights, opens new tab\n\n   Summary\n   Companies\n\n   Hyperscaler debt issuance seen hitting $420 billion in 2027\n   Credit market split in two worlds: AI and non-AI issuers\n   AI spreads wider than overall investment grade market [. ] Companies are ⁠willing to fund ​themselves at wider spreads because they believe AI investments will generate returns well above their borrowing costs, while bond investors ​receive compensation more commonly associated with lower-rated issuers despite lending to highly rated companies.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia And AI Vendor Financing: Is This The Next Dot-Com Bubble? (NASDAQ:NVDA) - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4947973-nvidia-and-ai-vendor-financing-is-this-the-next-dot-com-bubble",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-21",
+      "resumo": "Rather than abandoning AI exposure, investors can diversify with an all-weather strategy like QG&I, where returns can be driven by earnings growth, profitability, valuation, cash flow, and sustainable income across a broader range of market factors. \n I am Steven Cress, Head of Quantitative Strategies at Seeking Alpha.  I manage the quant ratings and factor grades on stocks and ETFs in Seeking Alpha Premium.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Astera Labs jumps 12% amid broader tech rally, AI peers higher (ALAB:NASDAQ)",
       "url": "https://seekingalpha.com/news/4645184-astera-labs-jumps-12-percent-amid-broader-tech-rally-ai-peers-higher",

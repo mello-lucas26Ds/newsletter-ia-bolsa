@@ -1,201 +1,189 @@
 # Newsletter IA Bolsa — 2026-09-22
 
-**Gerado em:** 22/09/2026 08:13
+**Gerado em:** 22/09/2026 14:21
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Astera Labs jumps 12% amid broader tech rally, AI peers higher (ALAB:NASDAQ)
+## 1. AMD joins $1 trillion club as chipmakers rally on AI-driven demand - Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The stock's 185% surge in 2026, however, has far outpaced the 15. 8% gain in the tech-heavy Nasdaq (. IXIC) and placed it among the top S&P 500 (.
+
+[Ler noticia completa](https://www.reuters.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-2026-09-21/)
+
+---
+
+## 2. AMD hits a major milestone as AI stocks blaze higher - MarketWatch
+
+**Fonte:** marketwatch.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+### Referenced Symbols
+
+   ARM +17. 16% 
+   INTC +12. 14% 
+   AMD +9.
+
+[Ler noticia completa](https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df)
+
+---
+
+## 3. CCTV Script 22/09/26 - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+While artificial intelligence stocks continue to draw massive capital flows in public markets, AI concepts remain equally sought after in private markets.  According to multiple media reports, Japan's SoftBank Group plans to issue over 11 billion dollars in bonds, primarily to fund an additional investment in OpenAI.  If completed, this transaction would mark the largest non-financial corporate bond issuance ever recorded in the Asia-Pacific region.
+
+[Ler noticia completa](https://www.cnbc.com/2026/09/22/cctv-script-22/09/26.html)
+
+---
+
+## 4. Ibovespa USD Index Today (BVSPUSD) - Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| MU | 1,038.
+
+[Ler noticia completa](https://www.investing.com/indices/ibovespa-usd)
+
+---
+
+## 5. Here are the 3 big things we're watching in the stock market this week - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+and, more importantly, how it is applying that innovation to product offerings.  We have been very impressed with the recently launched Muse agentic AI application and look forward to hearing early feedback and to learning about future plans.  How the company is strengthening its family of apps — both in user engagement and in the tools it provides to developers — will also be of interest, as this is the primary near-term path to AI investment returns.
+
+[Ler noticia completa](https://www.cnbc.com/2026/09/20/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html)
+
+---
+
+## 6. AMD crosses $1T market cap as chip stocks rally (AMD:NASDAQ) - Seeking Alpha
 
 **Fonte:** seekingalpha.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Astera Labs' recent stock rally is mainly driven by strong broad-based demand for AI-infrastructure, company expansion into new product categories, bullish market momentum in AI-related semiconductor names, and solid revenue and product growth highlighted in earnings and analyst reports. 
- Primary risks include high valuation, execution uncertainty, potential slowdown in hyperscaler capital spending, structural industry risks like AI capex bubbles and intense competition, and concerns about sustainability of AI-related capital demand.  [.
+Home page Seeking Alpha - Power to Investors
 
-[Ler noticia completa](https://seekingalpha.com/news/4645184-astera-labs-jumps-12-percent-amid-broader-tech-rally-ai-peers-higher)
+Search for Symbols, analysts, keywords
+
+ On the Move
+
+# AMD crosses $1T market cap as chip stocks rally
+
+Sep 21, 2026, 11:20 AM ETAdvanced Micro Devices, Inc.  (AMD) StockINTC, NVDA, MU, AVGO, SOX, COMP:INDBy: Pratyush Thakur, SA News Editor20 Comments
+
+Advanced Micro Devices (AMD) surpassed a $1T market capitalization for the first time on Monday, becoming the latest chipmaker to reach the milestone. 
+
+AMD shares were up more than 9% at $611.
+
+[Ler noticia completa](https://seekingalpha.com/news/4644811-amd-crossed-1t-market-cap-as-chip-and-ai-stocks-rally)
 
 ---
 
-## 2. Tech Stocks Break Out: The Next Leg of the Bull Market
+## 7. Nvidia’s Stock Is Flashing a Warning Sign as Valuation Falls - Bloomberg.com
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** bloomberg.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+# Nvidia’s Stock Is Flashing a Warning Sign as Valuation Falls
+
+## Takeaways by Bloomberg AISubscribe
+
+Nvidia Corp. ’s sinking stock valuation is sending a warning signal about the chipmaker’s prospects for maintaining its booming profit growth. 
+
+At less than 17 times profit expected over the next 12 months, Nvidia’s shares are trading near the cheapest level in more than a decade, according to data compiled by Bloomberg.
+
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-09-22/nvidia-s-stock-is-flashing-a-warning-sign-as-valuation-falls)
+
+---
+
+## 8. AMD hits $1 trillion market cap as stock continues 5-day rally - CNBC
+
+**Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Now momentum appears to be returning. 
+WATCH LIVE
 
-Monday's rally has been particularly strong across AI-related stocks.  Intel and Arm Holdings are both surging by double digits, while Advanced Micro Devices, Micron and Meta Platforms are also participating.
+In this article
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tech-stocks-break-next-leg-180300015.html)
+ AMD
+
+Lisa Su, chairwoman and CEO of Advanced Micro Devices (AMD), delivers the opening keynote speech at Computex 2024, Taiwan's premier tech expo, in Taipei on June 3, 2024. 
+
+I-Hwa Cheng | Afp | Getty Images
+
+Advanced Micro Devices stock surged on Monday, pushing shares to a record high and topping a $1 trillion market cap benchmark. 
+
+The chip giant's shares hit an intraday high of $613.
+
+[Ler noticia completa](https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html)
 
 ---
 
-## 3. Meta AI agent ‘Muse’ triggers massive tech rally as chips and Wall Street soar
+## 9. Corporate bond buyers get picky with flood of AI debt - Reuters
 
-**Fonte:** investing.com  
+**Fonte:** reuters.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Meta Platforms (NASDAQ: META) rallied 6. 5% on Monday, leading a broader market advance that lifted the Nasdaq 100 by 2. 15%.
+Skip to main content
 
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/meta-ai-agent-muse-triggers-massive-tech-rally-as-chips-and-wall-street-soar-4909393)
+Report AdImage 2
+
+Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv
+
+ sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai
+
+An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai, China July 6, 2023.  REUTERS/Aly Song/File Photo Purchase Licensing Rights, opens new tab
+
+   Summary
+   Companies
+
+   Hyperscaler debt issuance seen hitting $420 billion in 2027
+   Credit market split in two worlds: AI and non-AI issuers
+   AI spreads wider than overall investment grade market [. ] Companies are ⁠willing to fund ​themselves at wider spreads because they believe AI investments will generate returns well above their borrowing costs, while bond investors ​receive compensation more commonly associated with lower-rated issuers despite lending to highly rated companies.
+
+[Ler noticia completa](https://www.reuters.com/legal/transactional/corporate-bond-buyers-get-picky-with-flood-ai-debt-2026-09-22/)
 
 ---
 
-## 4. +201% returns: see why these AI-picked tech stocks keep climbing By Investing.com
+## 10. Nvidia And AI Vendor Financing: Is This The Next Dot-Com Bubble? (NASDAQ:NVDA) - Seeking Alpha
 
-**Fonte:** ng.investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Here is what the data showed:
-
-Likewise, Consensus Cloud Solutions (NASDAQGS:CCSI) was flagged in February before it bounced off lows following back-to-back Q1 and Q2 earnings beats—highlighted by Q2 revenue reaching $91. 4 million, $25. 5 million in quarterly free cash flow, record Corporate channel growth of 9.
-
-[Ler noticia completa](https://ng.investing.com/news/stock-market-news/201-returns-see-why-these-aipicked-tech-stocks-keep-climbing-2702155)
-
----
-
-## 5. Meta AI agent 'Muse' triggers massive tech rally as chips and Wall ...
-
-**Fonte:** finance.yahoo.com  
+**Fonte:** seekingalpha.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Meta Platforms (NASDAQ: META) rallied 6. 5% on Monday, , managing calendars, and making e-commerce purchases—in the background on behalf of users..
+Rather than abandoning AI exposure, investors can diversify with an all-weather strategy like QG&I, where returns can be driven by earnings growth, profitability, valuation, cash flow, and sustainable income across a broader range of market factors. 
+ I am Steven Cress, Head of Quantitative Strategies at Seeking Alpha.  I manage the quant ratings and factor grades on stocks and ETFs in Seeking Alpha Premium.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-muse-triggers-155642786.html)
-
----
-
-## 6. US Growth, AI Spending and Earnings Strength Could Outlast the Midterm Noise | Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Latest comments
-
-pro badge
-
-| Name | Last | Chg.  % | Vol.  |  |
- ---  --- 
-| META | 741.
-
-[Ler noticia completa](https://www.investing.com/analysis/us-growth-ai-spending-and-earnings-strength-could-outlast-the-midterm-noise-200688091)
-
----
-
-## 7. How to position for the next wave of AI-led scientific breakthroughs
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Investing. com
-
-# How to position for the next wave of AI-led scientific breakthroughs
-
-Simon Mugo
-
-2 min read
-
- GOOG
-
-  +0. 21%
- MSFT
-
-  -0.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/position-next-wave-ai-led-013630980.html)
-
----
-
-## 8. 3 Chip Stocks Set to Win TSMC’s Packaging Boom
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Year
-
-CoWoS Wafers (× 1,000 Units)
-
-YoY Growth
-
-Estimated GPU Units (Million)
-
-Principal Drivers
-
-2024
-
-360
-
-—
-
-5. 3
-
-Hopper-to-Blackwell transition
-
-2025
-
-484
-
-34%
-
-6. 0
-
-Blackwell full ramp
-
-2026
-
-678
-
-40%
-
-7.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/3-chip-stocks-set-win-214535478.html)
-
----
-
-## 9. Cohere, Aleph Alpha combine to target enterprise AI market
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Sept 16 (Reuters) - Canada's Cohere and Germany's Aleph Alpha signed a definitive merger agreement on Wednesday, the AI companies said.  The combined business ‌will operate as Cohere, with dual.
-
-[Ler noticia completa](https://finance.yahoo.com/news/cohere-aleph-alpha-combine-target-132337990.html?fr=sycsrp_catchall)
-
----
-
-## 10. Investors Watch for Shifts in Rates and AI Growth After Fed ...
-
-**Fonte:** investing.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Latest comments
-
-Join our investing challenges and compete for rewards while you learn. 
-
-| Name | Last | Chg.  % | Vol.
-
-[Ler noticia completa](https://www.investing.com/analysis/investors-watch-for-shifts-in-rates-and-ai-growth-after-fed-hike-200688037)
+[Ler noticia completa](https://seekingalpha.com/article/4947973-nvidia-and-ai-vendor-financing-is-this-the-next-dot-com-bubble)
 
 ---
