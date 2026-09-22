@@ -1,84 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-manufacturing-stock-110500119.html": {
-    "hash": "1a5def1df556774f6ece1929fad6ddf1",
-    "visto_em": "2026-09-14"
-  },
-  "https://seekingalpha.com/article/4945580-data-center-boom-accelerates-3-top-ai-stocks-averaging-296-percent-forward-eps-growth": {
-    "hash": "c2b2f3e38a841034c66b0b372ce66407",
-    "visto_em": "2026-09-14"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/skyx-signs-merger-leading-u-113100041.html": {
-    "hash": "2a8440127299201353a113f5dde6fa9b",
-    "visto_em": "2026-09-14"
-  },
-  "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html": {
-    "hash": "70f93d8bf4f3a28c9f2811f1a71683f1",
-    "visto_em": "2026-09-14"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html": {
-    "hash": "1a6a39d5e4838e32c001966efd5e2578",
-    "visto_em": "2026-09-14"
-  },
-  "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html": {
-    "hash": "96510ae388dbb8f6e50a1ed6f2f7ff4c",
-    "visto_em": "2026-09-14"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/meta-buys-stilla-ai-swedish-161847296.html": {
-    "hash": "dd4bfa10ed6e4de7984a793ce94cae6b",
-    "visto_em": "2026-09-14"
-  },
-  "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html": {
-    "hash": "70b54a9fb9fcfe16223b82197f3e487b",
-    "visto_em": "2026-09-14"
-  },
-  "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/": {
-    "hash": "ee76c9646f1be4e7182ec12ff67faae4",
-    "visto_em": "2026-09-14"
-  },
-  "https://www.forbes.com/companies/ca-technologies/": {
-    "hash": "cd0a929b66a53d8dbf01cf108b4a5631",
-    "visto_em": "2026-09-14"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-jumps-53-august-145500427.html": {
-    "hash": "25ab3386335065aa1041e9fb2d7efbdf",
-    "visto_em": "2026-09-14"
-  },
-  "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960": {
-    "hash": "ad11a7f19fb4614c1e7b4bfbc1212efb",
-    "visto_em": "2026-09-14"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-rises-53-ai-053524398.html": {
-    "hash": "f27f8493d6ded351d9a5d6b43b6dffbe",
-    "visto_em": "2026-09-14"
-  },
-  "https://www.reuters.com/markets/europe/global-markets-bis-pix-2026-09-14/": {
-    "hash": "50126866235ea63b07bc62571f458465",
-    "visto_em": "2026-09-14"
-  },
-  "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-premarket-intc-mrvl-crwd.html": {
-    "hash": "f32506918813994cb79ff661ef23b1ae",
-    "visto_em": "2026-09-14"
-  },
-  "https://seekingalpha.com/article/4945835-broadcom-buckle-up-for-whats-coming": {
-    "hash": "909dec8891832522ab77ed00d4dd8868",
-    "visto_em": "2026-09-14"
-  },
-  "https://www.businessinsider.com/ai-warnings-spark-decline-in-tech-stocks-nvidia-slides-2026-9": {
-    "hash": "df554cfc19f036cf61783019af1811bf",
-    "visto_em": "2026-09-14"
-  },
-  "https://www.investing.com/news/stock-market-news/asian-stocks-fall-as-ai-slowdown-fears-deepen-oil-surge-lifts-rate-risks-4898813": {
-    "hash": "abc76b7a1fd7294d5eb61e7fbb5594d2",
-    "visto_em": "2026-09-14"
-  },
-  "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1": {
-    "hash": "a3c7ca97e094e77ae55e5e658c39a403",
-    "visto_em": "2026-09-14"
-  },
-  "https://www.cnbc.com/2026/09/14/ai-stocks-tumble-on-safety-warnings-how-to-proceed-including-2-names-on-our-shopping-list.html": {
-    "hash": "4896833d1f1c292b4f90042e63530966",
-    "visto_em": "2026-09-14"
-  },
   "https://finance.yahoo.com/real-estate/articles/reit-etfs-riding-high-ai-140900623.html": {
     "hash": "c35ea95e3514feb6c9ed07e8968cae1c",
     "visto_em": "2026-09-15"
@@ -578,5 +498,45 @@
   "https://ng.investing.com/equities/taiwan-semicond.manufacturing-co": {
     "hash": "5abc9c84d8bdadd45d27d692f3b99634",
     "visto_em": "2026-09-21"
+  },
+  "https://seekingalpha.com/news/4645184-astera-labs-jumps-12-percent-amid-broader-tech-rally-ai-peers-higher": {
+    "hash": "a7e82766d9892ce82f2a40fbd642dccf",
+    "visto_em": "2026-09-22"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-break-next-leg-180300015.html": {
+    "hash": "dc37e5d6d5f1fe4ba504599b86198d43",
+    "visto_em": "2026-09-22"
+  },
+  "https://www.investing.com/news/stock-market-news/meta-ai-agent-muse-triggers-massive-tech-rally-as-chips-and-wall-street-soar-4909393": {
+    "hash": "72859dce6db3a493c28ef47750c91812",
+    "visto_em": "2026-09-22"
+  },
+  "https://ng.investing.com/news/stock-market-news/201-returns-see-why-these-aipicked-tech-stocks-keep-climbing-2702155": {
+    "hash": "1c8012885039eff949e13133ba92077d",
+    "visto_em": "2026-09-22"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-muse-triggers-155642786.html": {
+    "hash": "a26c6f6d1772d42c1057653d2790e66a",
+    "visto_em": "2026-09-22"
+  },
+  "https://www.investing.com/analysis/us-growth-ai-spending-and-earnings-strength-could-outlast-the-midterm-noise-200688091": {
+    "hash": "dc2565cc9d07261b1240d35a789ce031",
+    "visto_em": "2026-09-22"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/position-next-wave-ai-led-013630980.html": {
+    "hash": "d39e784b43c0ed3920b894f10cd7d00c",
+    "visto_em": "2026-09-22"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/3-chip-stocks-set-win-214535478.html": {
+    "hash": "7a6eead8be7385cfd15380264080e38e",
+    "visto_em": "2026-09-22"
+  },
+  "https://finance.yahoo.com/news/cohere-aleph-alpha-combine-target-132337990.html?fr=sycsrp_catchall": {
+    "hash": "0f3736ba662313a7cc34423661d80bc6",
+    "visto_em": "2026-09-22"
+  },
+  "https://www.investing.com/analysis/investors-watch-for-shifts-in-rates-and-ai-growth-after-fed-hike-200688037": {
+    "hash": "52a84c19cb2dd8407c04ac213ffb370f",
+    "visto_em": "2026-09-22"
   }
 }

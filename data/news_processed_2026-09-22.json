@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-22",
+    "total_noticias": 10,
+    "gerado_em": "2026-09-22T08:13:22.225477"
+  },
+  "noticias": [
+    {
+      "titulo": "Astera Labs jumps 12% amid broader tech rally, AI peers higher (ALAB:NASDAQ)",
+      "url": "https://seekingalpha.com/news/4645184-astera-labs-jumps-12-percent-amid-broader-tech-rally-ai-peers-higher",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-21",
+      "resumo": "Astera Labs' recent stock rally is mainly driven by strong broad-based demand for AI-infrastructure, company expansion into new product categories, bullish market momentum in AI-related semiconductor names, and solid revenue and product growth highlighted in earnings and analyst reports. \n Primary risks include high valuation, execution uncertainty, potential slowdown in hyperscaler capital spending, structural industry risks like AI capex bubbles and intense competition, and concerns about sustainability of AI-related capital demand.  [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech Stocks Break Out: The Next Leg of the Bull Market",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-break-next-leg-180300015.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-21",
+      "resumo": "Now momentum appears to be returning. \n\nMonday's rally has been particularly strong across AI-related stocks.  Intel and Arm Holdings are both surging by double digits, while Advanced Micro Devices, Micron and Meta Platforms are also participating.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Meta AI agent ‘Muse’ triggers massive tech rally as chips and Wall Street soar",
+      "url": "https://www.investing.com/news/stock-market-news/meta-ai-agent-muse-triggers-massive-tech-rally-as-chips-and-wall-street-soar-4909393",
+      "fonte": "investing.com",
+      "data": "2026-09-21",
+      "resumo": "Meta Platforms (NASDAQ: META) rallied 6. 5% on Monday, leading a broader market advance that lifted the Nasdaq 100 by 2. 15%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "+201% returns: see why these AI-picked tech stocks keep climbing By Investing.com",
+      "url": "https://ng.investing.com/news/stock-market-news/201-returns-see-why-these-aipicked-tech-stocks-keep-climbing-2702155",
+      "fonte": "ng.investing.com",
+      "data": "2026-09-21",
+      "resumo": "Here is what the data showed:\n\nLikewise, Consensus Cloud Solutions (NASDAQGS:CCSI) was flagged in February before it bounced off lows following back-to-back Q1 and Q2 earnings beats—highlighted by Q2 revenue reaching $91. 4 million, $25. 5 million in quarterly free cash flow, record Corporate channel growth of 9.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Meta AI agent 'Muse' triggers massive tech rally as chips and Wall ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-muse-triggers-155642786.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-21",
+      "resumo": "Meta Platforms (NASDAQ: META) rallied 6. 5% on Monday, , managing calendars, and making e-commerce purchases—in the background on behalf of users..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "US Growth, AI Spending and Earnings Strength Could Outlast the Midterm Noise | Investing.com",
+      "url": "https://www.investing.com/analysis/us-growth-ai-spending-and-earnings-strength-could-outlast-the-midterm-noise-200688091",
+      "fonte": "investing.com",
+      "data": "2026-09-22",
+      "resumo": "## Latest comments\n\npro badge\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| META | 741.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "How to position for the next wave of AI-led scientific breakthroughs",
+      "url": "https://finance.yahoo.com/technology/ai/articles/position-next-wave-ai-led-013630980.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-19",
+      "resumo": "Investing. com\n\n# How to position for the next wave of AI-led scientific breakthroughs\n\nSimon Mugo\n\n2 min read\n\n GOOG\n\n  +0. 21%\n MSFT\n\n  -0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Chip Stocks Set to Win TSMC’s Packaging Boom",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-chip-stocks-set-win-214535478.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-21",
+      "resumo": "Year\n\nCoWoS Wafers (× 1,000 Units)\n\nYoY Growth\n\nEstimated GPU Units (Million)\n\nPrincipal Drivers\n\n2024\n\n360\n\n—\n\n5. 3\n\nHopper-to-Blackwell transition\n\n2025\n\n484\n\n34%\n\n6. 0\n\nBlackwell full ramp\n\n2026\n\n678\n\n40%\n\n7.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cohere, Aleph Alpha combine to target enterprise AI market",
+      "url": "https://finance.yahoo.com/news/cohere-aleph-alpha-combine-target-132337990.html?fr=sycsrp_catchall",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-17",
+      "resumo": "Sept 16 (Reuters) - Canada's Cohere and Germany's Aleph Alpha signed a definitive merger agreement on Wednesday, the AI companies said.  The combined business ‌will operate as Cohere, with dual.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Investors Watch for Shifts in Rates and AI Growth After Fed ...",
+      "url": "https://www.investing.com/analysis/investors-watch-for-shifts-in-rates-and-ai-growth-after-fed-hike-200688037",
+      "fonte": "investing.com",
+      "data": "2026-09-21",
+      "resumo": "## Latest comments\n\nJoin our investing challenges and compete for rewards while you learn. \n\n| Name | Last | Chg.  % | Vol.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-21",
-    "total_noticias": 123,
-    "gerado_em": "2026-09-21T16:13:33.320714"
+    "data": "2026-09-22",
+    "total_noticias": 104,
+    "gerado_em": "2026-09-22T08:13:22.227875"
   },
   "noticias": [
+    {
+      "titulo": "Astera Labs jumps 12% amid broader tech rally, AI peers higher (ALAB:NASDAQ)",
+      "url": "https://seekingalpha.com/news/4645184-astera-labs-jumps-12-percent-amid-broader-tech-rally-ai-peers-higher",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-21",
+      "resumo": "Astera Labs' recent stock rally is mainly driven by strong broad-based demand for AI-infrastructure, company expansion into new product categories, bullish market momentum in AI-related semiconductor names, and solid revenue and product growth highlighted in earnings and analyst reports. \n Primary risks include high valuation, execution uncertainty, potential slowdown in hyperscaler capital spending, structural industry risks like AI capex bubbles and intense competition, and concerns about sustainability of AI-related capital demand.  [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech Stocks Break Out: The Next Leg of the Bull Market",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-break-next-leg-180300015.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-21",
+      "resumo": "Now momentum appears to be returning. \n\nMonday's rally has been particularly strong across AI-related stocks.  Intel and Arm Holdings are both surging by double digits, while Advanced Micro Devices, Micron and Meta Platforms are also participating.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Meta AI agent ‘Muse’ triggers massive tech rally as chips and Wall Street soar",
+      "url": "https://www.investing.com/news/stock-market-news/meta-ai-agent-muse-triggers-massive-tech-rally-as-chips-and-wall-street-soar-4909393",
+      "fonte": "investing.com",
+      "data": "2026-09-21",
+      "resumo": "Meta Platforms (NASDAQ: META) rallied 6. 5% on Monday, leading a broader market advance that lifted the Nasdaq 100 by 2. 15%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "+201% returns: see why these AI-picked tech stocks keep climbing By Investing.com",
+      "url": "https://ng.investing.com/news/stock-market-news/201-returns-see-why-these-aipicked-tech-stocks-keep-climbing-2702155",
+      "fonte": "ng.investing.com",
+      "data": "2026-09-21",
+      "resumo": "Here is what the data showed:\n\nLikewise, Consensus Cloud Solutions (NASDAQGS:CCSI) was flagged in February before it bounced off lows following back-to-back Q1 and Q2 earnings beats—highlighted by Q2 revenue reaching $91. 4 million, $25. 5 million in quarterly free cash flow, record Corporate channel growth of 9.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Meta AI agent 'Muse' triggers massive tech rally as chips and Wall ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-muse-triggers-155642786.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-21",
+      "resumo": "Meta Platforms (NASDAQ: META) rallied 6. 5% on Monday, , managing calendars, and making e-commerce purchases—in the background on behalf of users..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "US Growth, AI Spending and Earnings Strength Could Outlast the Midterm Noise | Investing.com",
+      "url": "https://www.investing.com/analysis/us-growth-ai-spending-and-earnings-strength-could-outlast-the-midterm-noise-200688091",
+      "fonte": "investing.com",
+      "data": "2026-09-22",
+      "resumo": "## Latest comments\n\npro badge\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| META | 741.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "How to position for the next wave of AI-led scientific breakthroughs",
+      "url": "https://finance.yahoo.com/technology/ai/articles/position-next-wave-ai-led-013630980.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-19",
+      "resumo": "Investing. com\n\n# How to position for the next wave of AI-led scientific breakthroughs\n\nSimon Mugo\n\n2 min read\n\n GOOG\n\n  +0. 21%\n MSFT\n\n  -0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Chip Stocks Set to Win TSMC’s Packaging Boom",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-chip-stocks-set-win-214535478.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-21",
+      "resumo": "Year\n\nCoWoS Wafers (× 1,000 Units)\n\nYoY Growth\n\nEstimated GPU Units (Million)\n\nPrincipal Drivers\n\n2024\n\n360\n\n—\n\n5. 3\n\nHopper-to-Blackwell transition\n\n2025\n\n484\n\n34%\n\n6. 0\n\nBlackwell full ramp\n\n2026\n\n678\n\n40%\n\n7.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cohere, Aleph Alpha combine to target enterprise AI market",
+      "url": "https://finance.yahoo.com/news/cohere-aleph-alpha-combine-target-132337990.html?fr=sycsrp_catchall",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-17",
+      "resumo": "Sept 16 (Reuters) - Canada's Cohere and Germany's Aleph Alpha signed a definitive merger agreement on Wednesday, the AI companies said.  The combined business ‌will operate as Cohere, with dual.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Investors Watch for Shifts in Rates and AI Growth After Fed ...",
+      "url": "https://www.investing.com/analysis/investors-watch-for-shifts-in-rates-and-ai-growth-after-fed-hike-200688037",
+      "fonte": "investing.com",
+      "data": "2026-09-21",
+      "resumo": "## Latest comments\n\nJoin our investing challenges and compete for rewards while you learn. \n\n| Name | Last | Chg.  % | Vol.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "+201% returns: see why these AI-picked tech stocks keep climbing By Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/201-returns-see-why-these-aipicked-tech-stocks-keep-climbing-4908393",
@@ -376,20 +516,6 @@
       "fonte": "au.investing.com",
       "data": "2026-09-17",
       "resumo": "More In Tools\n\n       Correlation Calculator\n       Forex Pivot Point Calculator\n       Profit Calculator\n       Margin Calculator\n       Heatmap\n       Volatility Calculator\n       Forward Rates Calculator\n       Mortgage Calculator\n\n   Education \n   Economic CalendarStock Screener\n   0\n\nDollar pressure weighs on LatAm FX; regional stocks edge higher\n\nView all comments (0)0\n\nImage 2: &copy; Reuters.  A person walks past an electronic board displaying information on recent fluctuations of market indices at the B3 Stock Exchange in Sao Paulo, Brazil April 4, 2025.  REUTERS/Amanda Perobelli\n\n© Reuters.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://ca.finance.yahoo.com/quote/TSM/latest-news",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-09-14",
-      "resumo": "Simply Wall St.  • 1d ago\n\n  TSM\n\n  +1. 02% 2454.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -847,20 +973,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Only 1 of These 2 Data Center REITs Keeps Raising Its Dividend. Here’s Which Belongs in Your Roth IRA.",
-      "url": "https://finance.yahoo.com/real-estate/articles/only-1-2-data-center-151059952.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-14",
-      "resumo": "Winner: Equinix. \n\n## Dimension 2: Growth Trajectory\n\nBoth REITs are riding the AI infrastructure wave (and the power, cooling, and networking suppliers feeding those halls are their own trade, one we mapped in a free report on seven AI infrastructure names), but Equinix is guiding higher and executing faster.  Q2 2026 revenue reached $2.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "TSMC's Strong August Revenues Signal Continued AI-Driven Chip Demand",
       "url": "https://finance.yahoo.com/technology/ai/articles/tsmcs-strong-august-revenues-signal-144100216.html",
       "fonte": "finance.yahoo.com",
@@ -945,40 +1057,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-surge-ai-safety-150807132.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-14",
-      "resumo": "CrowdStrike (NASDAQ:CRWD) stock is up 12% to $232. 08, Zscaler (NASDAQ:ZS) stock is rising 12% to $183. 97, and Palo Alto Networks (NASDAQ:PANW) stock is jumping 11% to $366.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Here's How AI-Picked Stocks Performed Amid Market Uncertainty",
       "url": "https://ca.investing.com/analysis/heres-how-aipicked-stocks-performed-amid-market-uncertainty-200627898",
       "fonte": "ca.investing.com",
       "data": "2026-09-17",
       "resumo": "Some picks have delivered substantial gains, including Alphabet (NASDAQ:GOOGL), which rallied about 20% after WarrenAI identified it near a key technical.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Tech stocks are tumbling as AI apocalypse fears go mainstream",
-      "url": "https://ca.finance.yahoo.com/news/tech-stocks-tumbling-ai-apocalypse-103016035.html",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-09-14",
-      "resumo": "The market reaction was particularly severe in Asia, where chipmakers and AI-infrastructure suppliers have been major beneficiaries of the AI boom. \n\nSoftBank, one of OpenAI's largest backers, closed down almost 11%.  South Korea's volatile and tech dominated Kospi index fell 3%, while Taiwan Semiconductor Manufacturing shares dropped 2%.",
-      "sentimento": "bearish",
       "tags": [
         "AI",
         "Market"
@@ -1141,20 +1225,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI Trade Is Rotating From Memory To Interconnects, And ...",
-      "url": "https://seekingalpha.com/article/4945944-ai-trade-memory-to-interconnects-and-corning-stock-best-way-to-play-it",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-14",
-      "resumo": "Alpha Mantra\n\n527 Followers\n\n## Summary\n\n Corning is poised to benefit from the next AI infrastructure bottleneck: cluster-scale optical interconnectivity, driven by hyperscaler demand for high-density fiber. \n GLW’s Springboard roadmap has delivered operating margins above 20% a year ahead of target, with Q2 2026 EPS up 30% YoY and robust free cash flow. \n Multi-year, customer-funded supply agreements with Meta, NVIDIA, Verizon, and others de-risk capital allocation and secure revenue visibility through 2030.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Harbor AI Inflection Strategy ETF Q2 2026 Commentary (NYSEARCA:EPAI)",
       "url": "https://seekingalpha.com/article/4947341-harbor-ai-inflection-strategy-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy",
       "fonte": "seekingalpha.com",
@@ -1203,20 +1273,6 @@
       "data": "2026-09-15",
       "resumo": "Image source: Getty Images. \n\n## Dell Technologies\n\nA $10,000 investment in Dell would be worth approximately $119,000 today.  It's been a terrific rally for the tech stock, with a significant chunk of its gains coming within the past year, as the company has benefited from insatiable demand for AI servers.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI warnings knock Nasdaq futures, pressure tech stocks",
-      "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14",
-      "fonte": "reuters.com",
-      "data": "2026-09-14",
-      "resumo": "The declines reflect more cautious expectations after a frenzied race to develop increasingly capable AI models.  Billions of ​dollars poured into AI have powered a stratospheric rise in some technology and semiconductor stocks and have been critical to ​strong equity market gains over the past few years. \n\nAt 04:46 a.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -1309,20 +1365,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Tech stocks slide on AI slowdown talks - Reuters",
-      "url": "https://www.reuters.com/world/china/tech-stocks-slide-ai-slowdown-talks-2026-09-14/",
-      "fonte": "reuters.com",
-      "data": "2026-09-14",
-      "resumo": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Anthropic CEO Dario Amodei called on AI companies to slow the pace at which they develop the technology, the latest in a series of warnings highlighting growing concerns across the tech industry over the safety of AI. \n\nStocks from Asia to New York sank on the news, with tech-heavy equity markets including South Korea's KOSPI (. KS11), opens new tab closing down 3.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Bond yields are spiking, oil is up — but investors aren’t giving up on stocks - CNBC",
       "url": "https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html",
       "fonte": "cnbc.com",
@@ -1351,39 +1393,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Is a 'SaaSpocalypse'-like sell-off coming for AI hardware stocks? Not so fast - CNBC",
-      "url": "https://www.cnbc.com/2026/09/14/is-a-saaspocalypse-like-sell-off-coming-for-ai-hardware-stocks-not-so-fast.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-14",
-      "resumo": "On Monday, at least, we're back in a market where Anthropic talks, and we all freak out.  The selling pressure hitting AI infrastructure stocks on Monday feels reminiscent of sell-offs in software stocks earlier this year, when investors feared that technological advances from Anthropic (and others) would disrupt their lucrative business models.  Now, the infrastructure stocks — chipmakers and all manner of data-center suppliers, including gas turbine makers and electrical equipment vendors — are tumbling on concerns that demand for their products will weaken in a world where AI model development is intentionally throttled back, as Anthropic CEO Dario Amodei called for this weekend due to safety concerns.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO - CNBC",
       "url": "https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html",
       "fonte": "cnbc.com",
       "data": "2026-09-15",
       "resumo": "While cloud, storage, enterprise IT and internet services all require data center capacity, artificial intelligence has quickly become the dominant driver of demand.  AI could account for about 70% of global data center capacity demand by 2030, according to a report from McKinsey.  The report said the capital outlay needed to meet total data center demand by 2030 will be nearly $7 trillion.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "US Stock Futures Fall on AI Warning, Oil Gains: Markets Wrap - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-      "fonte": "bloomberg.com",
-      "data": "2026-09-14",
-      "resumo": "# Stocks Slide as AI and Oil Jitters Hit Sentiment: Markets Wrap\n\nEquities fell around the world after leaders of the biggest artificial-intelligence firms proposed slowing the technology’s development, while a jump in oil prices sapped risk sentiment further. \n\nTech stocks led declines as traders fretted that efforts to rein in the advance of cutting-edge AI could dent the boom driving hundreds of billions of dollars in capital expenditure.  Nasdaq 100 futures sank 1.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -1399,20 +1413,6 @@
       "data": "2026-09-15",
       "resumo": "That chatter ramped up on Monday, as AI infrastructure stocks sold off following a proposal over the weekend from Anthropic CEO Dario Amodei to slow the pace of frontier model development. \n\nAmodei wrote that a slowdown in AI development doesn't mean \"halting model training or technical progress. \"\n\nStill, GE Vernova's stock dropped almost 9% on Monday, as Caterpillar sank more than 4%, Vertiv fell close to 8% and Oracle slipped almost 4%.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Volato (NYSE American: SOAR) Completes Alignment Engine Merger, Entering AI Data Center Market Projected at $810.6 Billion by 2033",
-      "url": "https://finance.yahoo.com/technology/ai/articles/volato-nyse-american-soar-completes-120500240.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-14",
-      "resumo": "Volato Group, Inc.  (NYSE American: SOAR) is a technology company developing AI computing infrastructure and operating aviation software and marketplace businesses.  Through its Alignment Engine subsidiary, the Company is developing AI infrastructure at its initial Ohio data center site, which is under lease with power, water and water treatment infrastructure already operational at the site, supporting high-density GPU compute, AI training and inference, high-performance networking and storage.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -1449,277 +1449,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Stocks to Watch Monday: Nvidia, Oracle, SoftBank - WSJ",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/stocks-to-watch-monday-nvidia-oracle-softbank-z8oHxWLCC1rwQAwr0oUs",
-      "fonte": "wsj.com",
-      "data": "2026-09-14",
-      "resumo": "7 hours ago\n\n# Stocks to Watch Monday: Nvidia, Oracle, SoftBank\n\nBy\n\nWSJ Staff\n\n↘️ Nvidia (NVDA), Intel (INTC), Marvell Technology (MRVL): Chip stocks slid after leaders of the biggest AI companies called to slow development of the technology, raising questions over chip demand.  Overseas chip stocks sold off, including SK Hynix (KR:000660) and Samsung Electronics (KR: 005930) in South Korea and ASML (NL: ASML) in the Netherlands. \n\n↘️ Oracle (ORCL): The company said over the weekend that co-founder Larry Ellison scrapped plans to sell up to $7.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "OpenAI buys smartphone camera maker Glass Imaging for ...",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
-      "fonte": "techcrunch.com",
-      "data": "2026-09-14",
-      "resumo": "Posted:\n\n# OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says\n\nOpenAI has bought smartphone camera maker Glass Imaging in a deal worth over $300 million, according to a report from the Wall Street Journal.  The company, founded in 2019 and based in Los Altos, California, had previously raised about $30 million in funding from investors.  [.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work",
-      "fonte": "techcrunch.com",
-      "data": "2026-09-14",
-      "resumo": "“The reach of Superhuman is massive.  I have always thought about M&A in terms of speed of building a product that everyone uses, and a part of that comes down to distribution.  If we were to operate Fathom as a standalone company, we would have to build a lot of things that are already in the Superhuman platform,” he said.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "REIT ETFs Riding High on AI Boom: The Overlooked Way to Play",
-      "url": "https://finance.yahoo.com/real-estate/articles/reit-etfs-riding-high-ai-140900623.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-14",
-      "resumo": "For instance, Equinix EQIX, the world's largest data center REIT, has gained 36. 4% year to date, outperforming megacap technology stocks and boosting its market capitalization to $100 billion (as cited in CNBC).  The company has been capitalizing on the AI boom by carving out a specialized niche in enterprise AI inference and distributed data center infrastructure.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Cybersecurity is one corner of the tech market that's getting a boost from AI doomsday fears - Business Insider",
-      "url": "https://www.businessinsider.com/cybersecurity-stocks-ai-apocalypse-anthropic-openai-panw-crwd-ftnt-zs-2026-9",
-      "fonte": "businessinsider.com",
-      "data": "2026-09-14",
-      "resumo": "One bright spot amid the tech selling, however, was cybersecurity, which is benefitting from predictions of a future where AI greatly boosts the capabilities of hackers, or even goes rogue and executes its own cyber attacks. \n\n\"One thing everyone knows is cyber security will be the biggest benefactor from this AI boom,\" said Eddie Ghabour, CEO of Key Advisors Wealth Management.  \"It's the next phase of the market for AI stocks.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Crowdstrike Hits All-Time High In 14% Boom Fueled By AI Concerns - Forbes",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/09/14/crowdstrike-skyrockets-14-as-ai-fears-send-cybersecurity-stocks-surging/",
-      "fonte": "forbes.com",
-      "data": "2026-09-14",
-      "resumo": "## Topline\n\nCrowdstrike shares popped to a new all-time high on Monday to headline a broader cybersecurity stock surge as leaders in the artificial intelligence space have urged a slowdown in development of the technology amid fears it could cause human extinction. \n\n## Key Facts\n\nCrowdstrike’s stock closed up 13. 8% to $235.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Investors nervous about AI spending slowdown after industry warnings - reuters.com",
       "url": "https://www.reuters.com/legal/transactional/investors-nervous-about-ai-spending-slowdown-after-industry-warnings-2026-09-15/",
       "fonte": "reuters.com",
       "data": "2026-09-15",
       "resumo": "\"AI semiconductor and infrastructure stocks have long priced in an uninterrupted capex boom, leaving virtually zero ​margin of error for an industry-imposed speed limit,\" said James Humphries, managing partner at Mindset Wealth Management in Indianapolis, Indiana.  \"If the market is already staring down stickier-than-expected inflation and a murky Fed rate path, cutting off the market's ​primary growth engine leaves the broader indices completely exposed to those macro headwinds. ”\n\nReporting by Lewis Krauskopf and Laura Matthews, additional reporting by Saeed Azhar and Saqib Iqbal Ahmed; editing by Megan Davies\n\nOur Standards: The Thomson Reuters Trust Principles.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Iron Mountain Eyes 20% Growth as Data Centers, Digital Solutions Drive Cross-Sell",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/iron-mountain-eyes-20-growth-110204566.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-14",
-      "resumo": "3 REITs to Watch as AI Data Center Spending Surpasses Office Construction\n\nIron Mountain (NYSE:IRM) is positioning its records management customer base as a foundation for cross-selling into data centers, asset lifecycle management and digital solutions, CFO Barry Hytinen said during Goldman Sachs' 2026 Communacopia + Technology Conference. \n\nHytinen said the company serves 245,000 business-to-business clients and counts more than 95% of the Fortune 1000 among its customers.  Many of those companies initially standardized on Iron Mountain for records management, creating an opportunity to expand relationships into adjacent services.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Microsoft elabora código de conduta para manter sua IA sob ...",
-      "url": "https://www.infomoney.com.br/business/microsoft-elabora-codigo-de-conduta-para-manter-sua-ia-sob-controle-humano",
-      "fonte": "infomoney.com.br",
-      "data": "2026-09-14",
-      "resumo": "Estudo da Bain & Company mostra que tecnologia deve transformar 71% dos setores, com impacto superior ao da internet Ibovespa.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant. - MarketWatch",
-      "url": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960",
-      "fonte": "marketwatch.com",
-      "data": "2026-09-14",
-      "resumo": "Artificial intelligence has been a driver for corporate earnings this year, but safety calls by leading large-language-model developers could put a crimp in that, warns Citigroup. Photo: Getty Images/iStockphoto\n\n### Referenced Symbols\n\n   SPX -0. 70% \n   QQQ -1.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "BIS says global market AI momentum showing signs of vulnerability - Reuters",
-      "url": "https://www.reuters.com/markets/europe/global-markets-bis-pix-2026-09-14/",
-      "fonte": "reuters.com",
-      "data": "2026-09-14",
-      "resumo": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - The AI-linked rally that has seen world stock markets soar over the last two years is showing growing ​signs of vulnerability, global central bank umbrella body, the Bank for International Settlements, said on Monday. \n\nIn a new ‌report, the BIS said investors were becoming \"increasingly cautious\" about the profitability of future AI investments, especially as the leverage of major U. S.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stocks making the biggest moves premarket: Intel, Marvell, CrowdStrike & more - CNBC",
-      "url": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-premarket-intc-mrvl-crwd.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-14",
-      "resumo": "increased following the warnings from CEOs Elon Musk, Dario Amodei and Sam Altman that the technology was moving too fast.  Palo Alto Networks traded more than 4% higher, while CrowdStrike advanced 5. 4%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Tech stocks are tumbling as AI apocalypse fears go mainstream - Business Insider",
-      "url": "https://www.businessinsider.com/ai-warnings-spark-decline-in-tech-stocks-nvidia-slides-2026-9",
-      "fonte": "businessinsider.com",
-      "data": "2026-09-14",
-      "resumo": "Tech stocks slipped in premarket trading Monday after a weekend of increasingly dire warnings about AI. \n\nNvidia was down 3% in premarket trading, while SpaceX shares fell 0. 6% and Google was off 0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Asian stocks slide as AI slowdown fears deepen, oil surge lifts rate risks - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-fall-as-ai-slowdown-fears-deepen-oil-surge-lifts-rate-risks-4898813",
-      "fonte": "investing.com",
-      "data": "2026-09-14",
-      "resumo": "aaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMid-Cap Movers\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMexican Stock Exchange Leaders\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBest Brazilian Stocks\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nItalian Market Elite\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nAlpha Germany Select\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nCalendars\n\nEconomic CalendarEarnings CalendarHoliday Calendar\n\nUS Economy [. ] View all comments (9)9\n\n## Latest comments\n\nAlexander Gundlach1 hour ago\n\ndepends, what ASIA STOCKS you mean. i also have asia stocks, but no AI Bubble stocks.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Global AI stocks slip on concerns over risks - ft.com",
-      "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
-      "fonte": "ft.com",
-      "data": "2026-09-14",
-      "resumo": "# Global AI stocks slip on concerns over risks\n\nSubscribe to unlock this article\n\n## Save 40% on Standard Digital\n\nwas MX$11988 now MX$7175 for your first year. \n\nSave now on essential digital access to trusted FT journalism on any device.  Savings based on annualised monthly price.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI stocks tumble on safety warnings. How to proceed — including 2 names on our shopping list - cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/14/ai-stocks-tumble-on-safety-warnings-how-to-proceed-including-2-names-on-our-shopping-list.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-14",
-      "resumo": "story is now over, we have to wait until we see the whites of their eyes before we take a stand.  Our buys will be concentrated in the ready-to-roll stocks after people understand that the data center story is not over.  We made plenty of sales in anticipation of this moment.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI stocks slide after major CEOs unite to urge slowdown - CNBC",
-      "url": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-14",
-      "resumo": "Global AI-related stocks fell on Monday after Anthropic CEO Dario Amodei called for a slowdown of the development of AI capabilities, with other major tech figures backing the proposal. \n\nIn Asia, South Korean heavyweights SK Hynix and Samsung Electronics closed down more than 6% and 4%, respectively.  Shares of SoftBank, one of the biggest investors in OpenAI, fell 10% in Japan.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation - CNBC",
-      "url": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-14",
-      "resumo": "Altimeter Capital CEO Brad Gerstner, whose firm is an investor in Anthropic and OpenAI, said in a post on X on Saturday that bringing more \"transparency, scrutiny, accountability\" and participation to AI companies is \"crucial. \" He said Anthropic will likely forge ahead with its IPO. \n\n\"The market knows how to price risk - see SpaceX,\" Gerstner wrote.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months - CNBC",
-      "url": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-14",
-      "resumo": "The company said proceeds from the fundraising will support the development of its next-generation AI models, including research and development, training and inference infrastructure, and commercialization. \n\nThe latest fundraising comes just two months after Z. ai raised about $4 billion through a share placement in July.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "CA Technologies | CACI Stock Price, Company Overview & News - Forbes",
-      "url": "https://www.forbes.com/companies/ca-technologies/",
-      "fonte": "forbes.com",
-      "data": "2026-09-14",
-      "resumo": "The five highest performing cloud computing stocks year-to-date on the Cloud Computing Index are Qualys (NASDAQ: QYLS), Amazon (NASDAQ:AMZN), Workday (NYSE:WDAY), CA Technologies (NASDAQ: CA), and NetSuite (NYSE:N).  A $10K investment in Amazon shares made on January 2nd of this year is worth $15,631. 00 as of the market close on Friday December [.",
       "sentimento": "bullish",
       "tags": [
         "AI",
