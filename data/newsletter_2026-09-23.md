@@ -1,308 +1,173 @@
 # Newsletter IA Bolsa — 2026-09-23
 
-**Gerado em:** 23/09/2026 08:15
+**Gerado em:** 23/09/2026 14:43
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Nasdaq hits record close as AI stocks rally, futures steady
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Treasury yields also retreated, with the 10-year yield trading around 4. 93%.  The move higher in yields predated the Federal Reserve's quarter-point rate increase last week, reflecting broader pressure on borrowing costs from high oil prices, ballooning debt, and inflation that has refused to cool.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nasdaq-hits-record-close-ai-112626254.html)
-
----
-
-## 2. Nasdaq 100 Eyes First Record Since June as AI Euphoria Resumes
-
-**Fonte:** ca.finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-A relentless tech-stock rally pushed the Nasdaq 100 Index toward its first record since June on Tuesday, extending gains fueled by bets on artificial.
-
-[Ler noticia completa](https://ca.finance.yahoo.com/news/nasdaq-100-eyes-first-record-150152839.html)
-
----
-
-## 3. Wall St futures pause after AI rally, focus on Mideast tensions - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-At 5:28 a. m.  ​ET, Dow E-minis were up 12 points, or 0.
-
-[Ler noticia completa](https://www.reuters.com/business/wall-st-futures-pause-after-ai-rally-focus-mideast-tensions-2026-09-22)
-
----
-
-## 4. Here is What to Know Beyond Why Taiwan Semiconductor ...
+## 1. Buy 3 Top-Ranked AI-Led Stocks at Deep Discount to Maximize Your Gains
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-TSMC is expected to post earnings of $4. 45 per share for the current quarter, representing a year-over-year change of +52. 4%.
+## AI and Defense Demand Drive Growth
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-taiwan-semiconductor-130006890.html)
+TTMI continues to benefit from two durable industry drivers: AI infrastructure investment and defense modernization.  TTMI is seeing sustained demand for advanced PCBs, RF components and integrated electronic solutions used in AI servers, networking equipment and mission-critical defense applications. 
 
----
+During the second quarter of 2026, Data Center and Networking revenues grew 91% year over year, while Aerospace and Defense revenues increased 14%.
 
-## 5. U.S. Stocks End Mixed as Tech Companies Rise - WSJ
-
-**Fonte:** wsj.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-U. S.  stocks were mixed as buzz about artificial-intelligence products propelled large tech companies to more record highs even as energy inflation fears lingered.
-
-[Ler noticia completa](https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-ai-buzz-stokes-tech-gains-7d1bf50b)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/buy-3-top-ranked-ai-120200338.html)
 
 ---
 
-## 6. 2026 U.S. Data Center Portfolio Expands as AI, Cloud Demand and Upcoming Capacity Fuel Investment Opportunities
+## 2. Nasdaq Sees IPO Boom as AI, Tokenization and Fintech Fuel Growth
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Cloud Centers LLC
-
-Cloud South
-
-Cloudburst Data Centers
-
-CloudHQ
-
-Cloudsmart
-
-Cloverleaf Infrastructure
-
-Cogent Communications
-
-Colocation Northwest
-
-ColoCrossing
-
-Cologix
-
-Colohouse
-
-Colostore. com
-
-Colovore
-
-Compass Datacenters
-
-Compass Datacenters and Schneider Electric
-
-Consolidated
-
-COPT Defense Properties
-
-Coresite
-
-CoreWeave (Core Scientific)
-
-Corscale Data Centers
-
-Crane Data Centers
-
-Creekstone Energy
-
-CRG
-
-Critical Data House
-
-Crusoe
-
-Csquare
-
-CyrusOne
-
-Dakota Carrier
-
-Dartpoints
-
-DaSTOR LLC (IPR Secure)
-
-Data Center West
-
-Data Foundry
-
-Data Holdings Data Center
-
-Data Shelter
-
-DataBank
-
-DataBridge Sites
-
-DataSite
-
-DataVerge
-
-DC BLOX
-
-DCX
-
-Decennial Group
-
-DeepGreen Western Passage SPV LLC
-
-DigiCo Infrastructure REIT
-
-Digital Fortress
-
-Digital Realty
-
-Diode Ventures
-
-DRFortress [. ] Digital Realty
-
-Diode Ventures
-
-DRFortress
-
-Duos Edge AI
-
-Earthnet
-
-Echo Star
-
-ECL
-
-Edge Centers
-
-EdgeConneX & TA Realty
-
-EdgeCore Digital Infrastructure
-
-Edged Energy
-
-EIP
-
-Element Critical
-
-Energy Transfer Data Center
-
-Eneus Energy
-
-Enseva
-
-EQT Infrastructure (EdgeConnex)
-
-Equinix
-
-Evocative
-
-Expedient
-
-Fermi America
-
-FiberHUb
-
-Fibernet
-
-Fibertown DC
-
-fifteenfortyseven Critical Systems Realty (1547)
-
-Flex data center
-
-Flexential
-
-Fogo Data Centers
-
-Form8tion Data Centers
-
-Fortress Data Centers
-
-Galaxy Digital
-
-Gemini Data Inc.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/2026-u-data-center-portfolio-150500324.html)
-
----
-
-## 7. Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & History
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation, and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/DLR)
-
----
-
-## 8. AMD stock soars to new record as semiconductors bounce
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Top losers 
-       BRVE Braveheart Bio, Inc.  25. 05-4.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/article/amd-stock-soars-to-new-record-as-semiconductors-bounce-chart-of-the-day-161627271.html)
-
----
-
-## 9. Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance
-
-**Fonte:** ca.finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Oops, something went wrong
+Analysts See Double-Digit Upside for These 3 Stocks
 
-# Yahoo Finance Canada
+Nasdaq (NASDAQ:NDAQ) CFO Sarah Youngwood said the company sees a constructive macroeconomic backdrop, citing investment in artificial intelligence and digital technologies, resilient consumers and corporate earnings that she said are supporting market valuations. 
 
-### Canada markets open in 5h 16m
+Speaking at a fireside chat with analyst Ben Budish, Youngwood said the environment has supported a strong initial public offering market.  Nasdaq recorded what she described as its best first half for IPO fundraising, with $111 billion raised, including $86 billion associated with SpaceX.
 
-# Equinix, Inc.  (EQIX)
-
-### 5. 19%
-
-### -0.
-
-[Ler noticia completa](https://ca.finance.yahoo.com/quote/EQIX)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nasdaq-sees-ipo-boom-ai-020206620.html)
 
 ---
 
-## 10. Arm Holdings Stock Surges on Meta’s Muse AI Deal and Data Center Push | Investing.com
+## 3. These AI Stocks Sold Off Hard—Even as Their Outlooks Improved
 
 **Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The following three stocks all passed a multi-part screen: all currently trade at least 20% off their 2026 highs despite raising fiscal 2026 guidance in their most recent earnings report.  Each now trades at a compressed multiple ahead of its next quarterly report, which is scheduled within the next six weeks. 
+
+## Celestica: Institutional Entry Point Available for New Investors
+
+Celestica Inc.
+
+[Ler noticia completa](https://www.investing.com/analysis/these-ai-stocks-sold-off-hardeven-as-their-outlooks-improved-200688167)
+
+---
+
+## 4. ELECTRA AI and Iron Horse Acquisition II Corp. (Nasdaq: IRHO) Report Sustained Commercial and Strategic Momentum Since Announcing Their Proposed $250 Million+ Business Combination Agreement
+
+**Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Original Post
+Technical collaboration with MinTech on AI-powered BESS risk prediction (August 2026).  ELECTRA entered a technical collaboration with MinTech, a KOSDAQ-listed Korean specialist in battery diagnostic and testing technology.  MinTech feeds data from its diagnostic and inspection equipment into the AI Brain for Batteries™ platform for real-time state diagnosis, analytics, and risk prediction, moving BESS operators from reacting to failure toward predicting it.
 
-## Latest comments
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/electra-ai-iron-horse-acquisition-120000337.html)
 
-| Name | Last | Chg.  % | Vol.  |  |
- ---  --- 
-| MU | 1,096.
+---
 
-[Ler noticia completa](https://www.investing.com/analysis/arm-holdings-stock-surges-on-metas-muse-ai-deal-and-data-center-push-200688196)
+## 5. AI Optimism Returns, Pushing Inflation Risks Into the Background
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The bulls can point to strong AI-driven earnings growth as the force still propelling the market higher.  FactSet estimates that S&P 500 earnings are on track to rise nearly 29% in Q3 from a year earlier.  If correct, the gain will mark the third straight quarter of annual earnings growth exceeding 25%.
+
+[Ler noticia completa](https://www.investing.com/analysis/ai-optimism-returns-pushing-inflation-risks-into-the-background-200688152)
+
+---
+
+## 6. AI Artificial Intelligence Ventures Inc (L1D.HM) Stock Earnings Call ...
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Yahoo Finance provides transcripts for the latest AI Artificial Intelligence Ventures Inc (L1D. HM) earnings call … total returns as of 9/22/2026,.
+
+[Ler noticia completa](https://finance.yahoo.com/quote/L1D.HM/earnings-calls)
+
+---
+
+## 7. TSMC's A14 Gains Customer Traction Ahead of 2028 Volume ...
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Story Continues
+
+## The Zacks Rundown for TSM Stock
+
+Over the past 12 months, TSMC shares have rallied 59% compared with the industry's 57. 4% growth. 
+
+Image 2: Zacks Investment Research
+
+Zacks Investment Research 
+
+Image Source: Zacks Investment Research
+
+TSM currently trades at a forward earnings multiple of 22.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/articles/tsmcs-a14-gains-customer-traction-124500066.html)
+
+---
+
+## 8. ELECTRA AI and Iron Horse Acquisition II Corp. (Nasdaq: IRHO ...
+
+**Fonte:** markets.ft.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Transaction Overview
+
+As previously announced on
+
+About
+
+About Iron Horse Acquisition II Corp. 
+
+Iron Horse Acquisition II Corp.  (Nasdaq: IRHO) (www.
+
+[Ler noticia completa](https://markets.ft.com/data/announce/detail?dockey=600-202609220800BIZWIRE_USPRX____20260922_BW061829-1)
+
+---
+
+## 9. Deloitte Expands AI and Agentic AI Capabilities With M&A Platform ...
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Deloitte today unveiled its M&A Platform, an AI-enabled M&A solution designed to help organizations make smarter, cross-capability informed deal decisions.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/deloitte-expands-ai-agentic-ai-130000349.html)
+
+---
+
+## 10. AI Stocks Are Carrying the Markets to New Heights. It’s Warning for Investors.<!-- --> - Barron's
+
+**Fonte:** marketwatch.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+# AI Stocks Can’t Carry the Entire Market Forever
+
+The artificial-intelligence trade is ripping once again, with tech stocks cresting fresh all-time highs, Wall Street bosses touting the scale of the investment race, and key players in the ecosystem downplaying existential risks from the world’s most important technology. 
+
+Copyright ©2026 Dow Jones & Company, Inc.  All Rights Reserved.
+
+[Ler noticia completa](https://www.marketwatch.com/story/ai-stock-rally-narrow-market-breadth-warning-5766c3cb?mod=default_seemore)
 
 ---

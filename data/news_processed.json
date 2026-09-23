@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-23",
-    "total_noticias": 98,
-    "gerado_em": "2026-09-23T08:15:26.249092"
+    "total_noticias": 108,
+    "gerado_em": "2026-09-23T14:43:25.945065"
   },
   "noticias": [
+    {
+      "titulo": "Buy 3 Top-Ranked AI-Led Stocks at Deep Discount to Maximize Your Gains",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-3-top-ranked-ai-120200338.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-23",
+      "resumo": "## AI and Defense Demand Drive Growth\n\nTTMI continues to benefit from two durable industry drivers: AI infrastructure investment and defense modernization.  TTMI is seeing sustained demand for advanced PCBs, RF components and integrated electronic solutions used in AI servers, networking equipment and mission-critical defense applications. \n\nDuring the second quarter of 2026, Data Center and Networking revenues grew 91% year over year, while Aerospace and Defense revenues increased 14%.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq Sees IPO Boom as AI, Tokenization and Fintech Fuel Growth",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-sees-ipo-boom-ai-020206620.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-22",
+      "resumo": "Analysts See Double-Digit Upside for These 3 Stocks\n\nNasdaq (NASDAQ:NDAQ) CFO Sarah Youngwood said the company sees a constructive macroeconomic backdrop, citing investment in artificial intelligence and digital technologies, resilient consumers and corporate earnings that she said are supporting market valuations. \n\nSpeaking at a fireside chat with analyst Ben Budish, Youngwood said the environment has supported a strong initial public offering market.  Nasdaq recorded what she described as its best first half for IPO fundraising, with $111 billion raised, including $86 billion associated with SpaceX.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "These AI Stocks Sold Off Hard—Even as Their Outlooks Improved",
+      "url": "https://www.investing.com/analysis/these-ai-stocks-sold-off-hardeven-as-their-outlooks-improved-200688167",
+      "fonte": "investing.com",
+      "data": "2026-09-22",
+      "resumo": "The following three stocks all passed a multi-part screen: all currently trade at least 20% off their 2026 highs despite raising fiscal 2026 guidance in their most recent earnings report.  Each now trades at a compressed multiple ahead of its next quarterly report, which is scheduled within the next six weeks. \n\n## Celestica: Institutional Entry Point Available for New Investors\n\nCelestica Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "ELECTRA AI and Iron Horse Acquisition II Corp. (Nasdaq: IRHO) Report Sustained Commercial and Strategic Momentum Since Announcing Their Proposed $250 Million+ Business Combination Agreement",
+      "url": "https://finance.yahoo.com/technology/ai/articles/electra-ai-iron-horse-acquisition-120000337.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-22",
+      "resumo": "Technical collaboration with MinTech on AI-powered BESS risk prediction (August 2026).  ELECTRA entered a technical collaboration with MinTech, a KOSDAQ-listed Korean specialist in battery diagnostic and testing technology.  MinTech feeds data from its diagnostic and inspection equipment into the AI Brain for Batteries™ platform for real-time state diagnosis, analytics, and risk prediction, moving BESS operators from reacting to failure toward predicting it.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Optimism Returns, Pushing Inflation Risks Into the Background",
+      "url": "https://www.investing.com/analysis/ai-optimism-returns-pushing-inflation-risks-into-the-background-200688152",
+      "fonte": "investing.com",
+      "data": "2026-09-23",
+      "resumo": "The bulls can point to strong AI-driven earnings growth as the force still propelling the market higher.  FactSet estimates that S&P 500 earnings are on track to rise nearly 29% in Q3 from a year earlier.  If correct, the gain will mark the third straight quarter of annual earnings growth exceeding 25%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Artificial Intelligence Ventures Inc (L1D.HM) Stock Earnings Call ...",
+      "url": "https://finance.yahoo.com/quote/L1D.HM/earnings-calls",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-22",
+      "resumo": "Yahoo Finance provides transcripts for the latest AI Artificial Intelligence Ventures Inc (L1D. HM) earnings call … total returns as of 9/22/2026,.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC's A14 Gains Customer Traction Ahead of 2028 Volume ...",
+      "url": "https://finance.yahoo.com/technology/articles/tsmcs-a14-gains-customer-traction-124500066.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-23",
+      "resumo": "Story Continues\n\n## The Zacks Rundown for TSM Stock\n\nOver the past 12 months, TSMC shares have rallied 59% compared with the industry's 57. 4% growth. \n\nImage 2: Zacks Investment Research\n\nZacks Investment Research \n\nImage Source: Zacks Investment Research\n\nTSM currently trades at a forward earnings multiple of 22.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "ELECTRA AI and Iron Horse Acquisition II Corp. (Nasdaq: IRHO ...",
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202609220800BIZWIRE_USPRX____20260922_BW061829-1",
+      "fonte": "markets.ft.com",
+      "data": "2026-09-22",
+      "resumo": "Transaction Overview\n\nAs previously announced on\n\nAbout\n\nAbout Iron Horse Acquisition II Corp. \n\nIron Horse Acquisition II Corp.  (Nasdaq: IRHO) (www.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Deloitte Expands AI and Agentic AI Capabilities With M&A Platform ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/deloitte-expands-ai-agentic-ai-130000349.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-22",
+      "resumo": "Deloitte today unveiled its M&A Platform, an AI-enabled M&A solution designed to help organizations make smarter, cross-capability informed deal decisions.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Stocks Are Carrying the Markets to New Heights. It’s Warning for Investors.<!-- --> - Barron's",
+      "url": "https://www.marketwatch.com/story/ai-stock-rally-narrow-market-breadth-warning-5766c3cb?mod=default_seemore",
+      "fonte": "marketwatch.com",
+      "data": "2026-09-22",
+      "resumo": "# AI Stocks Can’t Carry the Entire Market Forever\n\nThe artificial-intelligence trade is ripping once again, with tech stocks cresting fresh all-time highs, Wall Street bosses touting the scale of the investment race, and key players in the ecosystem downplaying existential risks from the world’s most important technology. \n\nCopyright ©2026 Dow Jones & Company, Inc.  All Rights Reserved.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq hits record close as AI stocks rally, futures steady",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-hits-record-close-ai-112626254.html",
