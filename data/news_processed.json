@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-24",
-    "total_noticias": 99,
-    "gerado_em": "2026-09-24T08:06:41.000671"
+    "total_noticias": 109,
+    "gerado_em": "2026-09-24T14:39:19.011454"
   },
   "noticias": [
+    {
+      "titulo": "Semiconductors Stock Performance - Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/semiconductors",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-23",
+      "resumo": "| Name | Last Price | 1Y Target Est.  | Market Weight | Market Cap | Day Change % | YTD Return | Avg.  Analyst Rating |\n ---  ---  ---  --- |\n| NVDA  NVIDIA Corporation | 226.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC stock analysis: fundamentals, valuation, and key risks",
+      "url": "https://www.investing.com/news/stock-market-news/tsmc-stock-analysis-fundamentals-valuation-and-key-risks-93CH-4913682",
+      "fonte": "investing.com",
+      "data": "2026-09-23",
+      "resumo": "By Antonio Rodr. \n\nSep 22, 2026\n\nMore News\n\nMarket Movers\n\n| Name | Last | Chg.  % | Vol.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq reaches record high close, AI stocks rally | Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW463022092026RP1",
+      "fonte": "reuters.com",
+      "data": "2026-09-18",
+      "resumo": "01:20\n Inflation, high yields a 'concern' for AI trade, market expert says\n\n  01:23\n Paramount reaches deal with California, other states over Warner Bros merger\n\n  01:17\n Carbon credits vs sheep farms: The Growing Divide in Rural New Zealand\n\n  06:29\n\nBusiness\n\n## Nasdaq reaches record high close, AI stocks rally\n\nThe Nasdaq notched a record high close on Tuesday, lifted by Micron Technology and other AI-related stocks, while the S&P 500 ended flat and the Dow closed lower.  Lisa Bernhard reports. \n\n## Up next in Business (25 videos)\n\n Nasdaq reaches record high close, AI stocks rally\n How China caught up in AI - on the cheap\n\n  04:41\n Could turnaround struggles see H&M go private.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM)",
+      "url": "https://ca.finance.yahoo.com/quote/TSM",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-09-24",
+      "resumo": "TSMC Earnings: Raise Fair Value Estimate by 27% to TWD 3,440 After a Beat-and-Raise Quarter.  Taiwan Semiconductor Manufacturing Co.  is the world's largest.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall St futures rise as AI stocks gain, oil prices slide",
+      "url": "https://www.reuters.com/business/wall-st-futures-rise-ai-stocks-gain-oil-prices-slide-2026-09-21",
+      "fonte": "reuters.com",
+      "data": "2026-09-21",
+      "resumo": "Sep 21 (Reuters) - Wall Street futures advanced on Monday, led by AI stocks, ​as a 2% slide in oil prices pulled Treasury yields lower on signs the warring parties ‌in the Middle East were open to a resolution. \n\nA week ago, doomsday calls from bosses at top AI companies sparked a rout in the sector, but those concerns appeared to dissipate as investors focused on signs that spending on developing the technology was still expanding. \n\nSign up here.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Buy this cloud infrastructure stock as it leans into short-term contracts, JPMorgan says - CNBC",
+      "url": "https://www.cnbc.com/2026/09/24/buy-coreweave-as-it-leans-into-short-term-contracts-jpmorgan-says-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-24",
+      "resumo": "CoreWeave is likely to rally again as it leans into short-term contracts amid sustained cloud compute demand, according to JPMorgan.  The investment bank upgraded CoreWeave to overweight from neutral on Thursday, and raised its 12-month price target by 4%, to $125 from $120.  The new target implies nearly 44% upside from Wednesday's close.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "These are the stock market's winners and losers in the AI agent economy - Business Insider",
+      "url": "https://www.businessinsider.com/ai-stocks-winners-losers-agent-economy-meta-muse-chips-consumers-2026-9",
+      "fonte": "businessinsider.com",
+      "data": "2026-09-22",
+      "resumo": "New of Meta's Muse AI rising in the App Store this week also shifted the market's attention toward CPU suppliers as opposed to GPU makers like Nvidia.  Intel's surge was Exhibit A, but AMD and Qualcomm also posted big one-day rallies, up 10% and 9% respectively. \n\nMeta's gain boosted the broader Magnificent Seven cohort to fresh records.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "RBOT - Cotação Hoje | iShares Automation & Robotics UCITS USD (Acc) - Investing.com",
+      "url": "https://br.investing.com/etfs/ishares-automation-robotics-acc",
+      "fonte": "br.investing.com",
+      "data": "2026-09-19",
+      "resumo": "| Nome | Último | Var.  % | Vol.  |\n ---  --- |\n| FII Grupo RCFA | 0,36 | -28,00% | 10,00 |\n| Azul Unt | 3,60 | -26,53% | 22,89mil |\n| Azul Unt | 3,80 | -24,00% | 686,00 |\n| FII Hectare Desenvolvimento Student Housing | 31,30 | -19,97% | 3,00 |\n| FII Kinea II Real Estate Equity | 0,21 | -16,00% | 2,73mil |\n| WLM ON | 16,56 | -14,97% | 600,00 |\n| Sequoia ON | 0,06 | -14,29% | 993,40mil |\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The old cybersecurity model is breaking - TechCrunch",
+      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+      "fonte": "techcrunch.com",
+      "data": "2026-09-23",
+      "resumo": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.  We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a few years ago. \n\nWith a front row seat to it all is Shardul Shah, a partner at Index Ventures who’s spent nearly two decades investing in cybersecurity and enterprise software — including six consecutive rounds in cloud security startup Wiz, which Google acquired for $32 billion earlier this year in one of its largest acquisitions ever.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Agentes de IA: Como a tecnologia pode ajudar empreendedores e profissionais autônomos a ganhar tempo e produtividade",
+      "url": "https://www.moneytimes.com.br/agentes-de-ia-como-a-tecnologia-pode-ajudar-empreendedores-e-profissionais-autonomos-a-ganhar-tempo-e-produtividade-lbrdgm092",
+      "fonte": "moneytimes.com.br",
+      "data": "2026-09-19",
+      "resumo": "Compartilhar\n\nWhatsApp\nTwitter\nLinkedin\nFacebook\nTelegram\nGabriele Marques\n. [[Conteúdos gratuitos] Assista ao Giro do Mercado e outros programas exclusivos em nosso Youtube](\n\n## Cotações\n\n### MAIORES ALTAS\n\n### MAIORES BAIXAS\n\nReceba gratuitamente as newsletters do Money Times\n\nCopom corta SELIC, FED sobe juros e BOLSA FAMÍLIA aumenta; o que movimenta o IBOVESPA hoje. \n\n## Mais lidas\n\nVer mais\n\n### Pé-de-Meia será pago amanhã; veja datas, valores e quem tem direito em setembro 2026\n\n### Petrobras (PETR4) e mais uma empresa pagam dividendos nesta semana; veja o calendário\n\n### 6 ações para ficar de olho com a queda dos juros em 2027, segundo o Itaú BBA\n\n### Fundo imobiliário vende imóvel por R$ 41 milhões e estima lucro de R$ 3,44 por cota; IFIX recua [.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq soars to first record close since June as AI stocks rally, led by Meta jump",
       "url": "https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-with-china-summit-iran-escalation-in-focus-4908205",
