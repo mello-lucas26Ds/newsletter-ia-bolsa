@@ -1,11 +1,81 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-23",
-    "total_noticias": 108,
-    "gerado_em": "2026-09-23T14:43:25.945065"
+    "data": "2026-09-24",
+    "total_noticias": 99,
+    "gerado_em": "2026-09-24T08:06:41.000671"
   },
   "noticias": [
+    {
+      "titulo": "Nasdaq soars to first record close since June as AI stocks rally, led by Meta jump",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-with-china-summit-iran-escalation-in-focus-4908205",
+      "fonte": "investing.com",
+      "data": "2026-09-21",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MSTR | 153.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq rally hasn't stopped these tech stocks from flashing warning ...",
+      "url": "https://finance.yahoo.com/markets/article/nasdaq-rally-hasnt-stopped-these-tech-stocks-from-flashing-warning-signs-141710781.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-23",
+      "resumo": "\"We saw a similar situation back in 2000 after the initial crack [in markets], as many semi names went on to make new highs while the SOX itself didn't,\" Krinsky warned.  \"We are also seeing dispersion in the S&P 500: five straight days of more 52 week lows than highs even as the index has rallied back near all-time highs, with SPX +1. 2% over the last month while 9 of 11 sectors are negative.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Pacer Data & Infrastructure Real Estate ETF (SRVR) - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/SRVR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-23",
+      "resumo": "Find the latest Pacer Data & Infrastructure Real Estate ETF (SRVR) stock quote, history, news.  Data Center & Digital Infrastructure ETF 28. 23 … 167.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Navatar Turns Claude and Salesforce Into a Live AI Deal Engine for Private Equity and M&A",
+      "url": "https://finance.yahoo.com/technology/ai/articles/navatar-turns-claude-salesforce-live-050000532.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-24",
+      "resumo": "That trade-off is no longer necessary.  Navatar is designed to capture the intelligence created through the work partners and deal teams already do.  Activity from approved sources such as Outlook, Salesforce, research workflows, deal materials, and AI interactions can be connected to the relevant company, contact, relationship, opportunity, or fund record.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Western Europe Data Center Market Portfolio: Facility, Capacity ...",
+      "url": "https://finance.yahoo.com/technology/articles/western-europe-data-center-market-090000365.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-21",
+      "resumo": "Digital Space\n\n   DLD (Salford) Ltd\n\n   DOKOM 21\n\n   DTiX\n\n   Echelon Data Centers\n\n   Echelon Data Centres\n\n   EdgeConneX\n\n   EdgeCore\n\n   Edged Energy & Merlin Properties\n\n   Edgenex\n\n   EID LLP\n\n   Eircom\n\n   Elasticity Limited\n\n   Elite UK REIT Management Pte.  Ltd\n\n   Elmec Informatica\n\n   Elsham Tech Park Ltd\n\n   EMC HostCo\n\n   Energia Data Centre\n\n   EngineNode\n\n   Eni & G42\n\n   Eni\n\n   envia TEL\n\n   Eolas\n\n   Epsilon Telecommunications\n\n   Equinix\n\n   Espaciorack\n\n   Espanix\n\n   Etix Everywhere\n\n   EURA DC\n\n   Eurofiber Cloud Infra\n\n   EVF Data Center\n\n   Evroc\n\n   E-Werk Mittelbaden & Leitwerk (Baden Cloud JV)\n\n   EXE. IT SRL SB\n\n   Extendo Datacenter\n\n   Fastnet\n\n   Fastweb\n\n   Fibernet\n\n   Fibra Medios Telecom\n\n   Fibre23\n\n   FirstColo\n\n   Foliateam\n\n   Form8tion Data Centers [.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Buy 3 Top-Ranked AI-Led Stocks at Deep Discount to Maximize Your Gains",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-3-top-ranked-ai-120200338.html",
@@ -581,20 +651,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Taiwan Semiconductor Manufacturing Co Ltd Stock Price Today | BVMF: TSMC34 Live - Investing.com",
-      "url": "https://www.investing.com/equities/taiwan-semiconductor-drc",
-      "fonte": "investing.com",
-      "data": "2026-09-16",
-      "resumo": "Market Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| SPCX | 152.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Wall St futures rise as AI stocks rally, crude prices fall - Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-ai-115836672.html",
       "fonte": "finance.yahoo.com",
@@ -1057,40 +1113,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Prediction: $1,000 Invested in Taiwan Semiconductor (TSMC) Today Will Be Worth This Much by the End of the Decade",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-invested-taiwan-180500271.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-16",
-      "resumo": "Consider when Netflix made this list on December 17, 2004.  if you invested $1,000 at the time of our recommendation, you'd have $420,109. \\ Or when Nvidia made this list on April 15, 2005.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "AI stock swings could affect your 401(k). Here’s what retirement savers need to know - CNBC",
       "url": "https://www.cnbc.com/2026/09/18/ai-stock-swings-can-affect-your-401k-what-to-know.html",
       "fonte": "cnbc.com",
       "data": "2026-09-18",
       "resumo": "AI exposure is not limited to the household names at the center of a nearly four-year-long U. S.  stock market rally.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "One stock quietly did 590% in 2026 after a decisive AI rebranding",
-      "url": "https://finance.yahoo.com/technology/ai/articles/one-stock-quietly-did-590-141700512.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-16",
-      "resumo": "There is real business behind the move, at least on paper.  Miglino said the order book has grown fast.  \"We've closed $3 billion worth of business.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -1174,20 +1202,6 @@
       "fonte": "seekingalpha.com",
       "data": "2026-09-18",
       "resumo": "Merger & Acquisition.  Rackspace plans to deploy AMD-based AI infrastructure in phases, partnership announcements and deployment headlines,.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Stock Price Today | TW: 2330 ...",
-      "url": "https://www.investing.com/equities/taiwan-semicon",
-      "fonte": "investing.com",
-      "data": "2026-09-16",
-      "resumo": "Market Movers\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 927.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -1309,20 +1323,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Retail sales up 1.2% in August, more than expected - CNBC",
-      "url": "https://www.cnbc.com/video/2026/09/16/retail-sales-up-1-point-2-percent-in-august-more-than-expected.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-16",
-      "resumo": "22 min ago\nwatch now\nwatch now\nVIDEO\n08:42\nBillionaire investor Ron Baron on Tesla: The time to buy the stock is now\nan hour ago\nwatch now\nwatch now\nVIDEO\n13:45\n'Science of the AI mind': AI researcher Cameron Berg on the need to study AI behavior\n2 hours ago\nwatch now\nwatch now\nVIDEO\n12:01\nOpenAI CFO Sarah Friar: I am a tech optimist, but it is also important to align around safety\nLoad More [. ] 04:40\n19 minutes ago\nwatch now\nwatch now\nVIDEO\n04:40\nRetail sales up 1. 2% in August, more than expected\n19 min ago\nwatch now\nwatch now\nVIDEO\n09:11\nAndrew Yang on AI safety issues: The fear is real, the concern is real\n22 min ago\nwatch now\nwatch now\nVIDEO\n08:42\nBillionaire investor Ron Baron on Tesla: The time to buy the stock is now\nan hour ago\nwatch now\nwatch now\nVIDEO\n13:45\n'Science of the AI mind': AI researcher Cameron Berg on the need to study AI behavior\n2 hours ago\nwatch now\nwatch now\nVIDEO\n12:01\nOpenAI CFO Sarah Friar: I am a tech optimist, but it is also important to align around safety\nwatch now\nwatch now\nVIDEO\n04:40\nRetail sales up 1.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Stocks making the biggest moves midday: Workday, Generac, Vital Farms, Vicor, Tower Semi & more - CNBC",
       "url": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-wday-gnrc-vicr-tsem-vitl.html",
       "fonte": "cnbc.com",
@@ -1365,76 +1365,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI build-out propels tech firms to top of US investment ranking: Study",
-      "url": "https://ca.finance.yahoo.com/news/ai-build-propels-tech-firms-124926279.html",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-09-16",
-      "resumo": "-0. 61%\n META\n\n  +0. 46%\n MSFT\n\n  -1.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Companies Struggle to Explain Their Own AI Investment Returns",
-      "url": "https://www.wsj.com/cio-journal/companies-struggle-to-explain-their-own-ai-investment-returns-0d95c3fe",
-      "fonte": "wsj.com",
-      "data": "2026-09-16",
-      "resumo": "“It’s hard to measure a lot of the ROI that happens,” said Arvind Jain, founder and chief executive of AI-powered enterprise search and work assistant platform Glean, speaking at the event on Tuesday. \n\nExecutives agreed that AI is delivering outsize value in some cases, but they found that in the majority of cases, it’s wasting more money than it’s worth.  Often companies have a hard time distinguishing which is which.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Datasea expande cooperação para desenvolver robôs de cuidado com idosos com IA Por Investing.com",
-      "url": "https://br.investing.com/news/company-news/datasea-expande-cooperacao-para-desenvolver-robos-de-cuidado-com-idosos-com-ia-93CH-2067236",
-      "fonte": "br.investing.com",
-      "data": "2026-09-16",
-      "resumo": "A Datasea Intelligent Technology Ltd.  é uma empresa de Tecnologia focada em inovação acústica de alta Tecnologia e soluções digitais multimodais baseadas em inteligência artificial. \n\nEssa notícia foi traduzida com a ajuda de inteligência artificial.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Q2 Earnings Roundup: Nvidia (NASDAQ:NVDA) And The Rest Of ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-nvidia-nasdaq-162052868.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-16",
-      "resumo": "## Lattice Semiconductor (NASDAQ:LSCC)\n\nA global leader in its category, Lattice Semiconductor (NASDAQ:LSCC) is a semiconductor designer specializing in customer-programmable chips that enhance CPU performance for intensive tasks such as machine learning. \n\nLattice Semiconductor reported revenues of $201. 1 million, up 62.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Is a No-Brainer Buy On Repeat And Not For The Reason You Think",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-no-brainer-buy-144535856.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-16",
-      "resumo": "24/7 Wall St. \n\n# Taiwan Semiconductor Is a No-Brainer Buy On Repeat And Not For The Reason You Think\n\nAlex Sirois\n\n5 min read\n\n TSM\n\n  +1. 23%\n NVDA\n\n  +0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/EQIX",
       "fonte": "finance.yahoo.com",
@@ -1449,67 +1379,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Cohere, Aleph Alpha combine to target enterprise AI market",
-      "url": "https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16",
-      "fonte": "reuters.com",
-      "data": "2026-09-16",
-      "resumo": "Sept 16 (Reuters) - Canada's Cohere and Germany's ‌Aleph Alpha signed a definitive merger agreement on Wednesday, the AI companies said. \n\nThe combined business will operate as Cohere, with dual headquarters in Toronto and Berlin, while Aleph Alpha's Heidelberg office will focus on ​research.  Aleph Alpha co-chief Ilhan Scheer will become chief operating officer of Cohere.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Harbor AI Inflection Strategy ETF Q2 2026 Commentary (NYSEARCA:EPAI)",
       "url": "https://seekingalpha.com/article/4947341-harbor-ai-inflection-strategy-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy",
       "fonte": "seekingalpha.com",
       "data": "2026-09-17",
       "resumo": "Entering text into the input field will update the search result below\n\n## Quick Insights\n\n EPAI’s outperformance was primarily driven by robust gains in Information Technology and Industrials, with holdings like Applied Materials (+112%) and Flex (+147%) far exceeding benchmark returns. \n EPAI targets secondary AI beneficiaries with durable competitive advantages, focusing on companies supporting AI infrastructure and adoption, rather than indiscriminate exposure to AI themes. \n EPAI remains overweight Information Technology and Industrials, actively seeking companies poised to benefit from AI-driven capital investment, infrastructure buildout, and operational efficiency improvements.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Build data centres here or ‘rent’ from neighbours, AI minister says",
-      "url": "https://ca.finance.yahoo.com/news/build-artificial-intelligence-rent-neighbours-170351279.html",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-09-16",
-      "resumo": "Christopher Reynolds\n\n6 min read\n\n conference in Montreal on Wednesday, Sept.  16, 2026.  THE CANADIAN PRESS/Christinne Muschi\n\n \n\nOn Wednesday, Canadian research institute Mila and the German Research Center for Artificial Intelligence announced an agreement to cement AI ties between the two countries.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Is Keppel DC REIT (SGX:AJBU) Undervalued Or Are Data Centre Risks Now Priced In?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/keppel-dc-reit-sgx-ajbu-081201392.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-16",
-      "resumo": "Scan beyond Keppel DC REIT and compare it with a hand picked 60 AI infrastructure stocks that are also tied to the data and digital infrastructure theme. \n\nKeppel DC REIT now trades at S$2. 12 while the consensus target and intrinsic estimates sit higher.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Bond yields are spiking, oil is up — but investors aren’t giving up on stocks - CNBC",
-      "url": "https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-16",
-      "resumo": "As stocks faced more volatility this week after leading AI voices warned the tech was moving too fast to be safe and safeguards were needed, Bank of America's latest Global Fund Manager Survey revealed on Tuesday that many market participants appear undeterred from pouring cash into the stock market. \n\nThe survey found that while the \"excess bullishness\" seen over the summer had faded, investors remained broadly optimistic about growth and earnings, with most expecting continued heavy spending on AI.  [.",
       "sentimento": "bullish",
       "tags": [
         "AI",

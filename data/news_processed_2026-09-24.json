@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-24",
+    "total_noticias": 5,
+    "gerado_em": "2026-09-24T08:06:40.999477"
+  },
+  "noticias": [
+    {
+      "titulo": "Nasdaq soars to first record close since June as AI stocks rally, led by Meta jump",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-with-china-summit-iran-escalation-in-focus-4908205",
+      "fonte": "investing.com",
+      "data": "2026-09-21",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MSTR | 153.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq rally hasn't stopped these tech stocks from flashing warning ...",
+      "url": "https://finance.yahoo.com/markets/article/nasdaq-rally-hasnt-stopped-these-tech-stocks-from-flashing-warning-signs-141710781.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-23",
+      "resumo": "\"We saw a similar situation back in 2000 after the initial crack [in markets], as many semi names went on to make new highs while the SOX itself didn't,\" Krinsky warned.  \"We are also seeing dispersion in the S&P 500: five straight days of more 52 week lows than highs even as the index has rallied back near all-time highs, with SPX +1. 2% over the last month while 9 of 11 sectors are negative.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Pacer Data & Infrastructure Real Estate ETF (SRVR) - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/SRVR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-23",
+      "resumo": "Find the latest Pacer Data & Infrastructure Real Estate ETF (SRVR) stock quote, history, news.  Data Center & Digital Infrastructure ETF 28. 23 … 167.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Navatar Turns Claude and Salesforce Into a Live AI Deal Engine for Private Equity and M&A",
+      "url": "https://finance.yahoo.com/technology/ai/articles/navatar-turns-claude-salesforce-live-050000532.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-24",
+      "resumo": "That trade-off is no longer necessary.  Navatar is designed to capture the intelligence created through the work partners and deal teams already do.  Activity from approved sources such as Outlook, Salesforce, research workflows, deal materials, and AI interactions can be connected to the relevant company, contact, relationship, opportunity, or fund record.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Western Europe Data Center Market Portfolio: Facility, Capacity ...",
+      "url": "https://finance.yahoo.com/technology/articles/western-europe-data-center-market-090000365.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-21",
+      "resumo": "Digital Space\n\n   DLD (Salford) Ltd\n\n   DOKOM 21\n\n   DTiX\n\n   Echelon Data Centers\n\n   Echelon Data Centres\n\n   EdgeConneX\n\n   EdgeCore\n\n   Edged Energy & Merlin Properties\n\n   Edgenex\n\n   EID LLP\n\n   Eircom\n\n   Elasticity Limited\n\n   Elite UK REIT Management Pte.  Ltd\n\n   Elmec Informatica\n\n   Elsham Tech Park Ltd\n\n   EMC HostCo\n\n   Energia Data Centre\n\n   EngineNode\n\n   Eni & G42\n\n   Eni\n\n   envia TEL\n\n   Eolas\n\n   Epsilon Telecommunications\n\n   Equinix\n\n   Espaciorack\n\n   Espanix\n\n   Etix Everywhere\n\n   EURA DC\n\n   Eurofiber Cloud Infra\n\n   EVF Data Center\n\n   Evroc\n\n   E-Werk Mittelbaden & Leitwerk (Baden Cloud JV)\n\n   EXE. IT SRL SB\n\n   Extendo Datacenter\n\n   Fastnet\n\n   Fastweb\n\n   Fibernet\n\n   Fibra Medios Telecom\n\n   Fibre23\n\n   FirstColo\n\n   Foliateam\n\n   Form8tion Data Centers [.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

@@ -1,72 +1,4 @@
 {
-  "https://finance.yahoo.com/quote/TSM": {
-    "hash": "90f2fa6b4b9946b1755aeb085e73e588",
-    "visto_em": "2026-09-16"
-  },
-  "https://www.reuters.com/world/china/tech-stocks-slide-ai-slowdown-talks-2026-09-14/": {
-    "hash": "63a221f4247a4d079f0e2bed4a1f24f9",
-    "visto_em": "2026-09-16"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/qualcomm-data-center-bet-looks-182500298.html": {
-    "hash": "3851be3f9e08231caccda418cd048e2f",
-    "visto_em": "2026-09-16"
-  },
-  "https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html": {
-    "hash": "cc6ac4ac9a696223f4aa6301e99f3787",
-    "visto_em": "2026-09-16"
-  },
-  "https://www.forbes.com/sites/shivaramrajgopal/2026/09/15/what-happens-to-big-tech-stocks-if-ais-bet-doesnt-pay-off/": {
-    "hash": "4822a86b5887bc1cb69eed55e46a8fd8",
-    "visto_em": "2026-09-16"
-  },
-  "https://www.cnbc.com/2026/09/14/is-a-saaspocalypse-like-sell-off-coming-for-ai-hardware-stocks-not-so-fast.html": {
-    "hash": "59614e4ca39d99de2e5769df54e64e5e",
-    "visto_em": "2026-09-16"
-  },
-  "https://www.marketwatch.com/story/nvidia-palantir-ai-supply-chain-partnership-stock-impact-69524fc9?mod=default_seemore": {
-    "hash": "3ec812bf991da9caad5a2db63309cc10",
-    "visto_em": "2026-09-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-just-delivered-fantastic-news-173001003.html": {
-    "hash": "0dd6d135eb2ad4620c0affb2394269f4",
-    "visto_em": "2026-09-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/3-artificial-intelligence-ai-stocks-184017783.html": {
-    "hash": "4d144a2537a3192d9b0110306ba1bc24",
-    "visto_em": "2026-09-16"
-  },
-  "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14": {
-    "hash": "1f5fb6dfffe5e033a7dea7febb0cfa5a",
-    "visto_em": "2026-09-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-c3-ai-ai-133003112.html": {
-    "hash": "fbc97378c1c3cdb32dd23d12acbccf8c",
-    "visto_em": "2026-09-16"
-  },
-  "https://www.reuters.com/legal/transactional/investors-nervous-about-ai-spending-slowdown-after-industry-warnings-2026-09-15": {
-    "hash": "03c8393ea7d0413b087c53699715b0e6",
-    "visto_em": "2026-09-16"
-  },
-  "https://www.investing.com/analysis/market-wrap-ai-hits-the-brakes-200687669": {
-    "hash": "46b952811608e24e6e92e1cdbcf15ae0",
-    "visto_em": "2026-09-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/keppel-dc-reit-sgx-ajbu-081201392.html": {
-    "hash": "befa6c2c68bd8859c5de9a9e05cbedf7",
-    "visto_em": "2026-09-16"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-poised-outperform-114500775.html": {
-    "hash": "b53ef401eba56ed1c4fcf6fd6ff7b56d",
-    "visto_em": "2026-09-16"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-054-4902560": {
-    "hash": "73a5246e3bee8b8f28206018f4b625f1",
-    "visto_em": "2026-09-16"
-  },
-  "https://finance.yahoo.com/technology/live/tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html": {
-    "hash": "2e93796fdf4ae469088ce5d5e6316d66",
-    "visto_em": "2026-09-16"
-  },
   "https://finance.yahoo.com/real-estate/articles/realty-income-taps-private-capital-220218428.html": {
     "hash": "0af854b660b780d3a7ce6339eeae40f9",
     "visto_em": "2026-09-17"
@@ -582,5 +514,25 @@
   "https://www.marketwatch.com/story/ai-stock-rally-narrow-market-breadth-warning-5766c3cb?mod=default_seemore": {
     "hash": "990d0766c43bcc3bc0dd8ad0ec94fc17",
     "visto_em": "2026-09-23"
+  },
+  "https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-with-china-summit-iran-escalation-in-focus-4908205": {
+    "hash": "ab74094dafddcc7ec483224ddf3b593e",
+    "visto_em": "2026-09-24"
+  },
+  "https://finance.yahoo.com/markets/article/nasdaq-rally-hasnt-stopped-these-tech-stocks-from-flashing-warning-signs-141710781.html": {
+    "hash": "6905319d804adc2a4487da4f7f13dbe0",
+    "visto_em": "2026-09-24"
+  },
+  "https://finance.yahoo.com/quote/SRVR": {
+    "hash": "43568a47634d85187bf09722a8087e54",
+    "visto_em": "2026-09-24"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/navatar-turns-claude-salesforce-live-050000532.html": {
+    "hash": "5d8b8839d795ace994e8c1096f5d24fb",
+    "visto_em": "2026-09-24"
+  },
+  "https://finance.yahoo.com/technology/articles/western-europe-data-center-market-090000365.html": {
+    "hash": "94fe752222a3c305a7e106e8aaf9a2f4",
+    "visto_em": "2026-09-24"
   }
 }
