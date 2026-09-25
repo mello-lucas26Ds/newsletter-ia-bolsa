@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-25",
-    "total_noticias": 100,
-    "gerado_em": "2026-09-25T08:30:36.552899"
+    "total_noticias": 110,
+    "gerado_em": "2026-09-25T15:01:11.830568"
   },
   "noticias": [
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited ...",
+      "url": "https://finance.yahoo.com/quote/TSM",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-25",
+      "resumo": "NVIDIA Corporation 224. 58 -0. 41% TSMC Earnings: Raise Fair Value Estimate by 27% to TWD 3,440 … with about 70% market share in 2025.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC (TSM) Advances While Market Declines: Some Information for Investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-advances-while-market-204506873.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-24",
+      "resumo": "Learn more\n\nIn the latest trading session, TSMC (TSM) closed at $451. 15, marking a +1. 03% move from the previous day.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor (TSM): The Key Enabler of AI Chips and a Durable Long-Term Share Gainer",
+      "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-key-enabler-143557399.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-24",
+      "resumo": "> \"Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) also contributed meaningfully to our performance.  Advanced chip manufacturing has become one of the most strategically vital links in the global economy, and that importance only deepens as AI infrastructure spending accelerates.  TSMC sits at the center of that buildout, fabricating the most advanced silicon for the world's leading designers (i.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.74% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-074-4909612",
+      "fonte": "investing.com",
+      "data": "2026-09-21",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n|  | 27.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.86%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-086-4913904",
+      "fonte": "investing.com",
+      "data": "2026-09-23",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n|  | 104.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.86%",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-086-4880240",
+      "fonte": "uk.investing.com",
+      "data": "2026-09-23",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| National Bank of Greece | 16.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.74% By Investing.com",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-074-4876585",
+      "fonte": "uk.investing.com",
+      "data": "2026-09-21",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Wirecard | 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty vs. Equinix: Which AI Data-Center REIT Is the ...",
+      "url": "https://finance.yahoo.com/real-estate/articles/digital-realty-vs-equinix-ai-035955863.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-25",
+      "resumo": "Trending tickers \n       COST Costco Wholesale Corporation 896. 48-8. 22(-0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.44% By Investing.com",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-044-4878319",
+      "fonte": "uk.investing.com",
+      "data": "2026-09-22",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Wirecard | 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Meta (META)'s Stilla.ai Deal Could Turn Business Agent ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-stilla-ai-deal-075756581.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-19",
+      "resumo": "Such capabilities could result in new monetization opportunities as the company faces increasing pressure to generate returns from its substantial artificial intelligence investments.  Rather than relying exclusively on AI to improve advertising efficiency, Meta could use AI to facilitate transactions and capture value from the commercial activity taking place across its platforms. \n\n### AI-Powered Commerce Opportunity\n\nThe acquisition could help the company build an AI-driven commerce layer across its massive messaging ecosystem.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Why is Lumentum stock rallying today? - Investing.com Philippines",
       "url": "https://ph.investing.com/news/stock-market-news/why-is-lumentum-stock-rallying-today-93CH-2595208",

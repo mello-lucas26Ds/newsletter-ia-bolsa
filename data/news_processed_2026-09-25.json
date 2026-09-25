@@ -3,16 +3,16 @@
     "versao": "1.0",
     "data": "2026-09-25",
     "total_noticias": 10,
-    "gerado_em": "2026-09-25T08:30:36.551036"
+    "gerado_em": "2026-09-25T15:01:11.828843"
   },
   "noticias": [
     {
-      "titulo": "Why is Lumentum stock rallying today? - Investing.com Philippines",
-      "url": "https://ph.investing.com/news/stock-market-news/why-is-lumentum-stock-rallying-today-93CH-2595208",
-      "fonte": "ph.investing.com",
-      "data": "2026-09-21",
-      "resumo": "Nasdaq soars to first record close since June as AI stocks rally, led by Meta … system engineered for AI scale-up architectures.  NASDAQ advancing 1. 5% lifted.",
-      "sentimento": "bullish",
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited ...",
+      "url": "https://finance.yahoo.com/quote/TSM",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-25",
+      "resumo": "NVIDIA Corporation 224. 58 -0. 41% TSMC Earnings: Raise Fair Value Estimate by 27% to TWD 3,440 … with about 70% market share in 2025.",
+      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -21,11 +21,25 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "COGNEX CORP (1CGNX.MI) Q1 FY2026 earnings call transcript",
-      "url": "https://finance.yahoo.com/quote/1CGNX.MI/earnings/1CGNX.MI-Q1-2026-earnings_call-555844.html",
+      "titulo": "TSMC (TSM) Advances While Market Declines: Some Information for Investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-advances-while-market-204506873.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-09-24",
-      "resumo": "19.    News • 3 days ago The Nasdaq led the Dow and S&P 500 higher as falling oil prices boosted stocks\n20.    News • 3 days ago Meta stock rockets more than 10% on price target increase and Muse AI agent downloads\n21.",
+      "resumo": "Learn more\n\nIn the latest trading session, TSMC (TSM) closed at $451. 15, marking a +1. 03% move from the previous day.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor (TSM): The Key Enabler of AI Chips and a Durable Long-Term Share Gainer",
+      "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-key-enabler-143557399.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-24",
+      "resumo": "> \"Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) also contributed meaningfully to our performance.  Advanced chip manufacturing has become one of the most strategically vital links in the global economy, and that importance only deepens as AI infrastructure spending accelerates.  TSMC sits at the center of that buildout, fabricating the most advanced silicon for the world's leading designers (i.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -35,11 +49,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Reaves Utility Income Fund stock hits 52-week low at 35.81 USD",
-      "url": "https://ng.investing.com/news/stock-market-news/reaves-utility-income-fund-stock-hits-52week-low-at-3581-usd-93CH-2702972",
-      "fonte": "ng.investing.com",
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.74% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-074-4909612",
+      "fonte": "investing.com",
       "data": "2026-09-21",
-      "resumo": "Nasdaq set for first record close since June as AI stocks rally, led by Meta surge .  market conditions and sector-specific issues, impacting investor sentiment.",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n|  | 27.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -49,96 +63,82 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Ride The Momentum: 3 Top AI Stocks Trading Above 50-Day Moving Averages - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4949506-ride-the-momentum-3-top-ai-stocks-trading-above-50-day-moving-averages",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-24",
-      "resumo": "AI is back.  The Nasdaq notched a new high, lifted by an AI chip surge, as stocks continue to prove resilient in the face of external shocks. \n Nasdaq-100 earnings are growing at their fastest pace in more than 15 years, providing a strong fundamental backdrop for the AI-led rally.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Equinix, Inc. (EQIX) Latest Stock News & Headlines - Yahoo Finance",
-      "url": "https://ca.finance.yahoo.com/quote/EQIX/news",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-09-25",
-      "resumo": "Oops, something went wrong\n\n# Yahoo Finance Canada\n\n### Canada markets open in 5h 1m\n\n# Equinix, Inc.  (EQIX)\n\nDigital Realty vs.  Equinix: Which AI Data-Center REIT Is the Better Buy.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TD SYNNEX Q3 2026 slides: record results mask margin, cash ...",
-      "url": "https://ng.investing.com/news/stock-market-news/td-synnex-q3-2026-slides-record-results-mask-margin-cash-concerns-93CH-2708341",
-      "fonte": "ng.investing.com",
-      "data": "2026-09-24",
-      "resumo": "AI-picked tech stocks have notched a +213% return.  Software grew 23%, PCs increased 21%, and networking expanded 19%.  mobile over-year to $7.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Oracle Japan Q1 FY27 slides: cloud revenue surges 32%, margins ...",
-      "url": "https://ng.investing.com/news/stock-market-news/oracle-japan-q1-fy27-slides-cloud-revenue-surges-32-margins-expand-93CH-2707475",
-      "fonte": "ng.investing.com",
-      "data": "2026-09-24",
-      "resumo": "93% hit rate — these AI-picked tech stocks have notched a +213% return · Sterling today: Pound steadies as stretched dollar rally meets Treasury yield peak..",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Here's how bearish short-sellers are navigating the shifting AI trade - Business Insider",
-      "url": "https://www.businessinsider.com/short-sellers-ai-bearish-bets-sp-global-chips-hardware-2026-9",
-      "fonte": "businessinsider.com",
-      "data": "2026-09-24",
-      "resumo": "The more discerning eye short sellers are displaying mirrors the uncertainty still lingering throughout the wider AI trade with regard to monetization.  S&P Global said that its analysis found that less than half of enterprise AI projects launched in the last year are on track to generate a positive return in 12 months. \n\n\"Against that backdrop, securities-lending activity indicates neither a wholesale rejection of AI nor an indiscriminate short squeeze.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "STMicroelectronics N.V. (STMMI.MI) latest stock news and headlines – Yahoo Finance",
-      "url": "https://uk.finance.yahoo.com/quote/STMMI.MI/news",
-      "fonte": "uk.finance.yahoo.com",
-      "data": "2026-09-25",
-      "resumo": "Can ADI's Industrial Segment Sustain Its Momentum Through 2026. \n\n### Can ADI's Industrial Segment Sustain Its Momentum Through 2026. \n\nZacks Industry Outlook NVIDIA, Texas, STMicroelectronics and Intel\n\n### Zacks Industry Outlook NVIDIA, Texas, STMicroelectronics and Intel\n\nChip Stocks Mixed After Monday Rout\n\n### Chip Stocks Mixed After Monday Rout\n\nEuropean Stocks Fall as AI Safety Warnings and Rate Expectations Weigh on Markets: DAX, CAC, FTSE100\n\n### European Stocks Fall as AI Safety Warnings and Rate Expectations Weigh on Markets: DAX, CAC, FTSE100\n\n### Performance overview\n\n| Return | STMMI.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "U.S. stock futures flat as markets parse Iran talks, AI optimism - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-iran-talks-ai-optimism-4911928",
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.86%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-086-4913904",
       "fonte": "investing.com",
       "data": "2026-09-23",
-      "resumo": "Healthcare Heroes\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBeat the S&P 500\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nDominate the Dow\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMid-Cap Movers\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMexican Stock Exchange Leaders\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBest Brazilian Stocks\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nItalian Market Elite\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a [. ] | Name | Last | Chg.  % | Vol.",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n|  | 104.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.86%",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-086-4880240",
+      "fonte": "uk.investing.com",
+      "data": "2026-09-23",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| National Bank of Greece | 16.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.74% By Investing.com",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-074-4876585",
+      "fonte": "uk.investing.com",
+      "data": "2026-09-21",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Wirecard | 0.",
       "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty vs. Equinix: Which AI Data-Center REIT Is the ...",
+      "url": "https://finance.yahoo.com/real-estate/articles/digital-realty-vs-equinix-ai-035955863.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-25",
+      "resumo": "Trending tickers \n       COST Costco Wholesale Corporation 896. 48-8. 22(-0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.44% By Investing.com",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-044-4878319",
+      "fonte": "uk.investing.com",
+      "data": "2026-09-22",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Wirecard | 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Meta (META)'s Stilla.ai Deal Could Turn Business Agent ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-stilla-ai-deal-075756581.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-19",
+      "resumo": "Such capabilities could result in new monetization opportunities as the company faces increasing pressure to generate returns from its substantial artificial intelligence investments.  Rather than relying exclusively on AI to improve advertising efficiency, Meta could use AI to facilitate transactions and capture value from the commercial activity taking place across its platforms. \n\n### AI-Powered Commerce Opportunity\n\nThe acquisition could help the company build an AI-driven commerce layer across its massive messaging ecosystem.",
+      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
