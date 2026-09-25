@@ -1,84 +1,4 @@
 {
-  "https://finance.yahoo.com/real-estate/articles/realty-income-taps-private-capital-220218428.html": {
-    "hash": "0af854b660b780d3a7ce6339eeae40f9",
-    "visto_em": "2026-09-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-nvidia-nasdaq-162052868.html": {
-    "hash": "21d4a893e515ffd75c1a5cb1e921377a",
-    "visto_em": "2026-09-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-no-brainer-buy-144535856.html": {
-    "hash": "b9f46e39ff5d7a99da24a23c5ae2b0de",
-    "visto_em": "2026-09-17"
-  },
-  "https://finance.yahoo.com/quote/EQIX": {
-    "hash": "428af45451dd46edf62496420bb9b67e",
-    "visto_em": "2026-09-17"
-  },
-  "https://seekingalpha.com/article/4945413-second-quarter-earnings-a-rising-ai-tide-lifts-many-sectors": {
-    "hash": "3d2c80ae57269a8263aaefb7ac695538",
-    "visto_em": "2026-09-17"
-  },
-  "https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16": {
-    "hash": "2ae7d135acae373a6363285721f2d863",
-    "visto_em": "2026-09-17"
-  },
-  "https://seekingalpha.com/article/4945944-ai-trade-memory-to-interconnects-and-corning-stock-best-way-to-play-it": {
-    "hash": "245a4f217292d93709993c18712b732d",
-    "visto_em": "2026-09-17"
-  },
-  "https://seekingalpha.com/article/4947341-harbor-ai-inflection-strategy-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy": {
-    "hash": "c70021b69de3474b4c12374bc17ba19c",
-    "visto_em": "2026-09-17"
-  },
-  "https://ca.finance.yahoo.com/news/build-artificial-intelligence-rent-neighbours-170351279.html": {
-    "hash": "5055befed099fce58fef20cf412534ae",
-    "visto_em": "2026-09-17"
-  },
-  "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-slowing-ai-development-fed-anticipation-4900683": {
-    "hash": "d353108833595da615b2d3e7eb23e7a1",
-    "visto_em": "2026-09-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-surge-ai-safety-150807132.html": {
-    "hash": "dc3e418783cda1528a4d48145454e363",
-    "visto_em": "2026-09-17"
-  },
-  "https://ca.investing.com/analysis/heres-how-aipicked-stocks-performed-amid-market-uncertainty-200627898": {
-    "hash": "8e8088e301ccfab772320f39f1e8cc7f",
-    "visto_em": "2026-09-17"
-  },
-  "https://ca.finance.yahoo.com/news/tech-stocks-tumbling-ai-apocalypse-103016035.html": {
-    "hash": "9b4f8011a7fdf6e957691dd9e1cb3874",
-    "visto_em": "2026-09-17"
-  },
-  "https://www.investing.com/analysis/heres-how-aipicked-stocks-performed-amid-market-uncertainty-200687863": {
-    "hash": "595b0f5bc3ce17bf3befb7ceb4ca7c2d",
-    "visto_em": "2026-09-17"
-  },
-  "https://br.investing.com/news/company-news/projeto-de-ia-da-wah-fu-education-aprovado-para-subsidios-tecnologicos-na-china-93CH-2066352": {
-    "hash": "2e1e15921a7916d5474f8cac57051804",
-    "visto_em": "2026-09-17"
-  },
-  "https://ca.finance.yahoo.com/news/ai-build-propels-tech-firms-124926279.html": {
-    "hash": "d488bf744182431ac086b6fc7c91af9b",
-    "visto_em": "2026-09-17"
-  },
-  "https://br.investing.com/news/company-news/sps-commerce-lanca-ferramentas-de-ia-para-cadeia-de-suprimentos-max-ja-esta-disponivel-93CH-2066013": {
-    "hash": "2e1e15921a7916d5474f8cac57051804",
-    "visto_em": "2026-09-17"
-  },
-  "https://seekingalpha.com/symbol/TSM": {
-    "hash": "b8ff5b4f5a2ed6d908708a86bde3f99c",
-    "visto_em": "2026-09-17"
-  },
-  "https://www.wsj.com/cio-journal/companies-struggle-to-explain-their-own-ai-investment-returns-0d95c3fe": {
-    "hash": "38a469b24deca58d858e6299c39050fc",
-    "visto_em": "2026-09-17"
-  },
-  "https://br.investing.com/news/company-news/datasea-expande-cooperacao-para-desenvolver-robos-de-cuidado-com-idosos-com-ia-93CH-2067236": {
-    "hash": "9a10085f6ee86c5e78576e3ded270bdf",
-    "visto_em": "2026-09-17"
-  },
   "https://sg.finance.yahoo.com/news/digital-realty-global-data-insights-110000986.html": {
     "hash": "8721802f8a61ce2d28b0ee7074224e7d",
     "visto_em": "2026-09-18"
@@ -574,5 +494,45 @@
   "https://www.moneytimes.com.br/agentes-de-ia-como-a-tecnologia-pode-ajudar-empreendedores-e-profissionais-autonomos-a-ganhar-tempo-e-produtividade-lbrdgm092": {
     "hash": "55a0eec40b49741af66b30ba9bf60a60",
     "visto_em": "2026-09-24"
+  },
+  "https://ph.investing.com/news/stock-market-news/why-is-lumentum-stock-rallying-today-93CH-2595208": {
+    "hash": "6e815eb485739345e36ea7a930a133b8",
+    "visto_em": "2026-09-25"
+  },
+  "https://finance.yahoo.com/quote/1CGNX.MI/earnings/1CGNX.MI-Q1-2026-earnings_call-555844.html": {
+    "hash": "13f141c19b6f80d300327fdacb14a05b",
+    "visto_em": "2026-09-25"
+  },
+  "https://ng.investing.com/news/stock-market-news/reaves-utility-income-fund-stock-hits-52week-low-at-3581-usd-93CH-2702972": {
+    "hash": "35c8c3ce74c74792c21ab45977f85201",
+    "visto_em": "2026-09-25"
+  },
+  "https://seekingalpha.com/article/4949506-ride-the-momentum-3-top-ai-stocks-trading-above-50-day-moving-averages": {
+    "hash": "c1e287d91d4434db82f6f7e73b42f69e",
+    "visto_em": "2026-09-25"
+  },
+  "https://ca.finance.yahoo.com/quote/EQIX/news": {
+    "hash": "f2623e3d5e450ff17bb2091399952d58",
+    "visto_em": "2026-09-25"
+  },
+  "https://ng.investing.com/news/stock-market-news/td-synnex-q3-2026-slides-record-results-mask-margin-cash-concerns-93CH-2708341": {
+    "hash": "b75763f567f72fb372e5b106fbebf4c7",
+    "visto_em": "2026-09-25"
+  },
+  "https://ng.investing.com/news/stock-market-news/oracle-japan-q1-fy27-slides-cloud-revenue-surges-32-margins-expand-93CH-2707475": {
+    "hash": "df7c6c970cf76283b0ae36147a9516e6",
+    "visto_em": "2026-09-25"
+  },
+  "https://www.businessinsider.com/short-sellers-ai-bearish-bets-sp-global-chips-hardware-2026-9": {
+    "hash": "45f064623e91526bf09abe191d93ebb4",
+    "visto_em": "2026-09-25"
+  },
+  "https://uk.finance.yahoo.com/quote/STMMI.MI/news": {
+    "hash": "313ad6974348e5713e466b1e5052a89f",
+    "visto_em": "2026-09-25"
+  },
+  "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-iran-talks-ai-optimism-4911928": {
+    "hash": "64b07cba511f89e036e5eb20e8e310b8",
+    "visto_em": "2026-09-25"
   }
 }

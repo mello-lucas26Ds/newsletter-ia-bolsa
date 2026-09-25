@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-24",
-    "total_noticias": 109,
-    "gerado_em": "2026-09-24T14:39:19.011454"
+    "data": "2026-09-25",
+    "total_noticias": 100,
+    "gerado_em": "2026-09-25T08:30:36.552899"
   },
   "noticias": [
+    {
+      "titulo": "Why is Lumentum stock rallying today? - Investing.com Philippines",
+      "url": "https://ph.investing.com/news/stock-market-news/why-is-lumentum-stock-rallying-today-93CH-2595208",
+      "fonte": "ph.investing.com",
+      "data": "2026-09-21",
+      "resumo": "Nasdaq soars to first record close since June as AI stocks rally, led by Meta … system engineered for AI scale-up architectures.  NASDAQ advancing 1. 5% lifted.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "COGNEX CORP (1CGNX.MI) Q1 FY2026 earnings call transcript",
+      "url": "https://finance.yahoo.com/quote/1CGNX.MI/earnings/1CGNX.MI-Q1-2026-earnings_call-555844.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-24",
+      "resumo": "19.    News • 3 days ago The Nasdaq led the Dow and S&P 500 higher as falling oil prices boosted stocks\n20.    News • 3 days ago Meta stock rockets more than 10% on price target increase and Muse AI agent downloads\n21.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Reaves Utility Income Fund stock hits 52-week low at 35.81 USD",
+      "url": "https://ng.investing.com/news/stock-market-news/reaves-utility-income-fund-stock-hits-52week-low-at-3581-usd-93CH-2702972",
+      "fonte": "ng.investing.com",
+      "data": "2026-09-21",
+      "resumo": "Nasdaq set for first record close since June as AI stocks rally, led by Meta surge .  market conditions and sector-specific issues, impacting investor sentiment.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Ride The Momentum: 3 Top AI Stocks Trading Above 50-Day Moving Averages - Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4949506-ride-the-momentum-3-top-ai-stocks-trading-above-50-day-moving-averages",
+      "fonte": "seekingalpha.com",
+      "data": "2026-09-24",
+      "resumo": "AI is back.  The Nasdaq notched a new high, lifted by an AI chip surge, as stocks continue to prove resilient in the face of external shocks. \n Nasdaq-100 earnings are growing at their fastest pace in more than 15 years, providing a strong fundamental backdrop for the AI-led rally.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Equinix, Inc. (EQIX) Latest Stock News & Headlines - Yahoo Finance",
+      "url": "https://ca.finance.yahoo.com/quote/EQIX/news",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-09-25",
+      "resumo": "Oops, something went wrong\n\n# Yahoo Finance Canada\n\n### Canada markets open in 5h 1m\n\n# Equinix, Inc.  (EQIX)\n\nDigital Realty vs.  Equinix: Which AI Data-Center REIT Is the Better Buy.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TD SYNNEX Q3 2026 slides: record results mask margin, cash ...",
+      "url": "https://ng.investing.com/news/stock-market-news/td-synnex-q3-2026-slides-record-results-mask-margin-cash-concerns-93CH-2708341",
+      "fonte": "ng.investing.com",
+      "data": "2026-09-24",
+      "resumo": "AI-picked tech stocks have notched a +213% return.  Software grew 23%, PCs increased 21%, and networking expanded 19%.  mobile over-year to $7.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Oracle Japan Q1 FY27 slides: cloud revenue surges 32%, margins ...",
+      "url": "https://ng.investing.com/news/stock-market-news/oracle-japan-q1-fy27-slides-cloud-revenue-surges-32-margins-expand-93CH-2707475",
+      "fonte": "ng.investing.com",
+      "data": "2026-09-24",
+      "resumo": "93% hit rate — these AI-picked tech stocks have notched a +213% return · Sterling today: Pound steadies as stretched dollar rally meets Treasury yield peak..",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Here's how bearish short-sellers are navigating the shifting AI trade - Business Insider",
+      "url": "https://www.businessinsider.com/short-sellers-ai-bearish-bets-sp-global-chips-hardware-2026-9",
+      "fonte": "businessinsider.com",
+      "data": "2026-09-24",
+      "resumo": "The more discerning eye short sellers are displaying mirrors the uncertainty still lingering throughout the wider AI trade with regard to monetization.  S&P Global said that its analysis found that less than half of enterprise AI projects launched in the last year are on track to generate a positive return in 12 months. \n\n\"Against that backdrop, securities-lending activity indicates neither a wholesale rejection of AI nor an indiscriminate short squeeze.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "STMicroelectronics N.V. (STMMI.MI) latest stock news and headlines – Yahoo Finance",
+      "url": "https://uk.finance.yahoo.com/quote/STMMI.MI/news",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-09-25",
+      "resumo": "Can ADI's Industrial Segment Sustain Its Momentum Through 2026. \n\n### Can ADI's Industrial Segment Sustain Its Momentum Through 2026. \n\nZacks Industry Outlook NVIDIA, Texas, STMicroelectronics and Intel\n\n### Zacks Industry Outlook NVIDIA, Texas, STMicroelectronics and Intel\n\nChip Stocks Mixed After Monday Rout\n\n### Chip Stocks Mixed After Monday Rout\n\nEuropean Stocks Fall as AI Safety Warnings and Rate Expectations Weigh on Markets: DAX, CAC, FTSE100\n\n### European Stocks Fall as AI Safety Warnings and Rate Expectations Weigh on Markets: DAX, CAC, FTSE100\n\n### Performance overview\n\n| Return | STMMI.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "U.S. stock futures flat as markets parse Iran talks, AI optimism - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-iran-talks-ai-optimism-4911928",
+      "fonte": "investing.com",
+      "data": "2026-09-23",
+      "resumo": "Healthcare Heroes\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBeat the S&P 500\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nDominate the Dow\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMid-Cap Movers\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMexican Stock Exchange Leaders\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBest Brazilian Stocks\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nItalian Market Elite\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a [. ] | Name | Last | Chg.  % | Vol.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Semiconductors Stock Performance - Yahoo Finance",
       "url": "https://finance.yahoo.com/sectors/technology/semiconductors",
@@ -749,20 +889,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Cohere, Aleph Alpha combine to target enterprise AI market",
-      "url": "https://finance.yahoo.com/news/cohere-aleph-alpha-combine-target-132337990.html?fr=sycsrp_catchall",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-17",
-      "resumo": "Sept 16 (Reuters) - Canada's Cohere and Germany's Aleph Alpha signed a definitive merger agreement on Wednesday, the AI companies said.  The combined business ‌will operate as Cohere, with dual.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Investors Watch for Shifts in Rates and AI Growth After Fed ...",
       "url": "https://www.investing.com/analysis/investors-watch-for-shifts-in-rates-and-ai-growth-after-fed-hike-200688037",
       "fonte": "investing.com",
@@ -973,20 +1099,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.24%",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-024-5597488",
-      "fonte": "in.investing.com",
-      "data": "2026-09-17",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Ideal Technoplast Industries | 92.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.41%",
       "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-041-4907863",
       "fonte": "investing.com",
@@ -1006,20 +1118,6 @@
       "fonte": "marketwatch.com",
       "data": "2026-09-20",
       "resumo": "## Competitors\n\n| Name | Chg % | Market Cap |\n --- \n| NVIDIA Corp.  | 1. 34% | $5.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Bovespa Index Today (IBOV) - Investing.com",
-      "url": "https://www.investing.com/indices/bovespa",
-      "fonte": "investing.com",
-      "data": "2026-09-17",
-      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| YDUQ3  YDUQS Participacoes | 10. 41+0. 31+3.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1099,20 +1197,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Dollar pressure weighs on LatAm FX; regional stocks edge higher",
-      "url": "https://au.investing.com/news/economy-news/dollar-pressure-weighs-on-latam-fx-regional-stocks-edge-higher-4647713",
-      "fonte": "au.investing.com",
-      "data": "2026-09-17",
-      "resumo": "More In Tools\n\n       Correlation Calculator\n       Forex Pivot Point Calculator\n       Profit Calculator\n       Margin Calculator\n       Heatmap\n       Volatility Calculator\n       Forward Rates Calculator\n       Mortgage Calculator\n\n   Education \n   Economic CalendarStock Screener\n   0\n\nDollar pressure weighs on LatAm FX; regional stocks edge higher\n\nView all comments (0)0\n\nImage 2: &copy; Reuters.  A person walks past an electronic board displaying information on recent fluctuations of market indices at the B3 Stock Exchange in Sao Paulo, Brazil April 4, 2025.  REUTERS/Amanda Perobelli\n\n© Reuters.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "TSMC Stock And 2 Manufacturers Building Around Tariff Shifts",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-2-manufacturers-building-042001917.html",
       "fonte": "finance.yahoo.com",
@@ -1133,20 +1217,6 @@
       "data": "2026-09-19",
       "resumo": "Wall Street has cheered upbeat earnings this year, fueled by strong growth in tech, but the investors shouldn't count on the strong momentum lasting much longer, Goldman Sachs says. \n\nBen Snider, the bank's chief US equity strategist, recently laid out his team's thesis on how AI growth is likely to impact the market in the coming year.  Even if capex spending stays strong, he's not convinced it will be enough to sustain this year's positive momentum.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "PetMeds nomeia Jeff Willard como CEO; Campbell se aposenta Por Investing.com",
-      "url": "https://br.investing.com/news/company-news/petmeds-nomeia-jeff-willard-como-ceo-campbell-se-aposenta-93CH-2068467",
-      "fonte": "br.investing.com",
-      "data": "2026-09-17",
-      "resumo": "Essa notícia foi traduzida com a ajuda de inteligência artificial.  Para mais informação, veja nossos Termos de Uso. \n\n## Últimos comentários\n\nParticipe dos nossos desafios de investimento e concorra a prêmios, enquanto aprende.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -1202,20 +1272,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-09-18",
       "resumo": "Most active \n       NOK Nokia Oyj 10. 68+0. 08(+0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "taiwan semiconductor manufactur (tsmc.ba) - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/TSMC.BA",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-17",
-      "resumo": "TAIWAN SEMICONDUCTOR MANUFACTUR (TSMC. BA) stock quote, history, news … 46. 81 +0.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -1309,53 +1365,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI Server Stocks Rally as the Hardware Bid Broadens - Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-server-stocks-rally-hardware-145346231.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-17",
-      "resumo": "The iShares U. S.  Technology ETF (NYSEARCA:IYW) is up 1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Rally in Tech Stocks Brings Relief to Investors - WSJ",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/rally-in-tech-stocks-brings-relief-to-investors-At4QQRPN9Hw4TEsuyaAu",
-      "fonte": "wsj.com",
-      "data": "2026-09-17",
-      "resumo": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom.  The S&P 500 and Nasdaq composite posted their biggest one-day gains in six weeks..",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Rackspace Technology: The AI Pivot Is Real, But The Balance Sheet ...",
       "url": "https://seekingalpha.com/article/4947794-rackspace-technology-the-ai-pivot-is-real-but-the-balance-sheet-is-still-the-problem",
       "fonte": "seekingalpha.com",
       "data": "2026-09-18",
       "resumo": "Merger & Acquisition.  Rackspace plans to deploy AMD-based AI infrastructure in phases, partnership announcements and deployment headlines,.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Cohere and Aleph Alpha plan merger for transatlantic sovereign AI firm",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cohere-aleph-alpha-plan-merger-090656948.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-17",
-      "resumo": "By joining forces, Cohere and Aleph Alpha aim to deliver AI solutions that meet the sovereignty requirements of both jurisdictions, especially for governments and industries with strict regulatory demands. \n\nThe joint company will implement safeguards and oversight measures to align with legal frameworks regarding the protection and handling of sensitive data and technology. \n\nThe unified company brings together Cohere's and Aleph Alpha's combined research capabilities, enterprise-grade solutions, and longstanding partnerships with public sector clients across both continents.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -1379,151 +1393,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Tech stocks today: OpenAI reveals six more instances of ' ...",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-openai-reveals-six-more-instances-of-concerning-model-behavior-140134624.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-17",
-      "resumo": "Shares of top cybersecurity names popped in premarket trading amid fresh warnings from the biggest names in AI within the past two days.  Okta (OKTA) shares gained 5%, CrowdStrike (CRWD) advanced 4. 5%, and Palo Alto Networks (PANW) increased 4.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-jumps-7-semiconductor-rebound-173707172.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-17",
-      "resumo": "Advanced Micro Devices\n\n \n\nThe wider NASDAQ 100 tape is quieter today.  The Invesco QQQ Trust (NASDAQ:QQQ) is up 2% to $716. 41, so the day's strength is concentrated in chips rather than large-cap tech more broadly.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/AI",
       "fonte": "finance.yahoo.com",
       "data": "2026-09-18",
       "resumo": "764\n\n### Full Time Employees\n\nApril 30\n\n### Fiscal Year Ends\n\nTechnology\n\n### Sector\n\nSoftware - Infrastructure\n\n### Industry\n\n### Recent News\n\n### Performance Overview\n\nTrailing total returns as of 9/18/2026, which may include dividends or other distributions.  Benchmark is S&P 500 (^GSPC)\") . \n\n### YTD Return\n\n### 1-Year Return\n\n### 3-Year Return\n\n### 5-Year Return\n\n### Earnings Trends\n\n### Earnings Per Share\n\n### Revenue vs.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Digital Realty Global Data Insights Survey Reveals Enterprise Shift from AI Strategy to Execution as Infrastructure Emerges as Top Barrier",
-      "url": "https://sg.finance.yahoo.com/news/digital-realty-global-data-insights-110000986.html",
-      "fonte": "sg.finance.yahoo.com",
-      "data": "2026-09-17",
-      "resumo": "Digital Realty Trust, L. P. \n\n4 min read\n\n DLR\n\n  +1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom - WSJ",
-      "url": "https://www.wsj.com/finance/stocks/investors-come-back-to-ai-stocks-snapping-market-out-of-inflation-gloom-a7690ce5",
-      "fonte": "wsj.com",
-      "data": "2026-09-17",
-      "resumo": "Wall Street took a break Thursday from worrying about interest rates and inflation to revert to a tried-and-true investment idea: snapping up shares of companies tied to artificial intelligence. \n\nA rally in tech stocks from chip makers to the Magnificent Seven giants to data storage companies led U. S.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says - CNBC",
-      "url": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-17",
-      "resumo": "Anthropic is reportedly expected to list in the U. S.  next month, while OpenAI has pushed its IPO plans to next year.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stocks making the biggest moves midday: Workday, Generac, Vital Farms, Vicor, Tower Semi & more - CNBC",
-      "url": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-wday-gnrc-vicr-tsem-vitl.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-17",
-      "resumo": "company granted a non-exclusive license to an AI OEM for its Vertical Power Delivery modules.  — With reporting by CNBC's Michelle Fox [. ] Tower Semiconductor — Shares rose almost 9% after the Israeli semiconductor manufacturer and privately held New Photonics agreed to a high-volume shipment of laser-integrated optical engines designed to meet growing demand for high-bandwidth, energy-efficient optical interconnects in artificial intelligence infrastructure.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Here's How AI-Picked Stocks Performed Amid Market Uncertainty",
-      "url": "https://ca.investing.com/analysis/heres-how-aipicked-stocks-performed-amid-market-uncertainty-200627898",
-      "fonte": "ca.investing.com",
-      "data": "2026-09-17",
-      "resumo": "Some picks have delivered substantial gains, including Alphabet (NASDAQ:GOOGL), which rallied about 20% after WarrenAI identified it near a key technical.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Here’s How AI-Picked Stocks Performed Amid Market Uncertainty | Investing.com",
-      "url": "https://www.investing.com/analysis/heres-how-aipicked-stocks-performed-amid-market-uncertainty-200687863",
-      "fonte": "investing.com",
-      "data": "2026-09-17",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 980.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/EQIX",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-17",
-      "resumo": "## Equinix, Inc.  Overview REIT - Specialty / Real Estate\n\nEquinix, Inc.  shortens the path to boundless connectivity anywhere in the world.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Harbor AI Inflection Strategy ETF Q2 2026 Commentary (NYSEARCA:EPAI)",
-      "url": "https://seekingalpha.com/article/4947341-harbor-ai-inflection-strategy-etf-q2-2026-commentary?source=feed_tag_etf_portfolio_strategy",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-17",
-      "resumo": "Entering text into the input field will update the search result below\n\n## Quick Insights\n\n EPAI’s outperformance was primarily driven by robust gains in Information Technology and Industrials, with holdings like Applied Materials (+112%) and Flex (+147%) far exceeding benchmark returns. \n EPAI targets secondary AI beneficiaries with durable competitive advantages, focusing on companies supporting AI infrastructure and adoption, rather than indiscriminate exposure to AI themes. \n EPAI remains overweight Information Technology and Industrials, actively seeking companies poised to benefit from AI-driven capital investment, infrastructure buildout, and operational efficiency improvements.",
       "sentimento": "bullish",
       "tags": [
         "AI",
