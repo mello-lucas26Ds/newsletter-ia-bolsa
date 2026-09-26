@@ -2,10 +2,94 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-26",
-    "total_noticias": 101,
-    "gerado_em": "2026-09-26T08:17:26.878396"
+    "total_noticias": 107,
+    "gerado_em": "2026-09-26T14:08:55.362877"
   },
   "noticias": [
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR - Stock",
+      "url": "https://www.wsj.com/market-data/stock/tsm?eafs_enabled=false",
+      "fonte": "wsj.com",
+      "data": "2026-09-25",
+      "resumo": "Oct 15, 2026\n\n$0. 00\n\n$2. 00\n\n$4.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The return of the AI rally: What's fueling the latest push into ...",
+      "url": "https://finance.yahoo.com/video/return-ai-rally-whats-fueling-125206390.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-22",
+      "resumo": "Leading AI stocks ripped higher to kick off this trading week as investors pile back into Big Tech.  27068. 72 ( +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Goldman Sachs just gave AI stock fans a cold, hard reality ...",
+      "url": "https://finance.yahoo.com/markets/article/goldman-sachs-just-gave-ai-stock-fans-a-cold-hard-reality-check-121638833.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-25",
+      "resumo": "Sign in    \n\n   \nTop gainers \n       TWST Twist Bioscience Corporation 184. 03+25. 53(+16.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Revs the Economic Engine",
+      "url": "https://www.wsj.com/cio-journal/ai-revs-the-economic-engine-3d46b683",
+      "fonte": "wsj.com",
+      "data": "2026-09-25",
+      "resumo": "Good morning.  AI keeps powering U. S.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-taiwan-130301446.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-25",
+      "resumo": "## Which stock would I buy in 2026. \n\nAs a longtime AMD shareholder, I remain bullish on the fast-growing company as it challenges Nvidia in its dominant business, AI accelerators. \n\nHowever, I first bought AMD during the 2022 bear market, and a lot has changed since that time.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Michael Burry Drops Stark Message For AI Stock Investors",
+      "url": "https://finance.yahoo.com/technology/ai/articles/michael-burry-drops-stark-message-135451718.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-25",
+      "resumo": "The critical metrics are free cash flow, capex intensity, utilization, depreciation, lease obligations and returns on invested capital. \n\nIf AI revenue continues scaling faster than infrastructure costs, the current spending wave could remain economically rational. \n\nStory Continues\n\nBut if utilization, pricing or demand disappoints, even modest asset impairments could have a larger earnings and balance-sheet impact because the commitments are already so large.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq reaches record high close, AI stocks rally",
       "url": "https://finance.yahoo.com/markets/articles/wall-st-futures-pause-ai-101907090.html",

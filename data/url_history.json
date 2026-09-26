@@ -530,5 +530,29 @@
   "https://www.wsj.com/market-data/stock/tsm": {
     "hash": "bbb8e3484b44b13a30d05b6c71d5b91b",
     "visto_em": "2026-09-26"
+  },
+  "https://www.wsj.com/market-data/stock/tsm?eafs_enabled=false": {
+    "hash": "df145a1fdb5f42476f1890384a0e30f8",
+    "visto_em": "2026-09-26"
+  },
+  "https://finance.yahoo.com/video/return-ai-rally-whats-fueling-125206390.html": {
+    "hash": "96f8f11da41727ea80a93af967dc83c3",
+    "visto_em": "2026-09-26"
+  },
+  "https://finance.yahoo.com/markets/article/goldman-sachs-just-gave-ai-stock-fans-a-cold-hard-reality-check-121638833.html": {
+    "hash": "97f9eff19c91405d4232aac1abfbf40f",
+    "visto_em": "2026-09-26"
+  },
+  "https://www.wsj.com/cio-journal/ai-revs-the-economic-engine-3d46b683": {
+    "hash": "11f88d5555231d8aae2274f4fc28cc22",
+    "visto_em": "2026-09-26"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-taiwan-130301446.html": {
+    "hash": "50071aec204e17cebca874f30e6b0140",
+    "visto_em": "2026-09-26"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/michael-burry-drops-stark-message-135451718.html": {
+    "hash": "2cd90e7013d859400d211d84c9443245",
+    "visto_em": "2026-09-26"
   }
 }
