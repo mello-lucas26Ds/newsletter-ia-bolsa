@@ -1,84 +1,4 @@
 {
-  "https://sg.finance.yahoo.com/news/digital-realty-global-data-insights-110000986.html": {
-    "hash": "8721802f8a61ce2d28b0ee7074224e7d",
-    "visto_em": "2026-09-18"
-  },
-  "https://finance.yahoo.com/real-estate/articles/only-1-2-data-center-151059952.html": {
-    "hash": "ffff714bd90685aa53dda8f5c07a0847",
-    "visto_em": "2026-09-18"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmcs-strong-august-revenues-signal-144100216.html": {
-    "hash": "6f618c1bbbbb36f6ba8a67e981744217",
-    "visto_em": "2026-09-18"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/taiwan-semi-revenue-keeps-surging-211457931.html": {
-    "hash": "53f9de8d31659c3287cbee6bec930cfc",
-    "visto_em": "2026-09-18"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-rebounds-august-sales-smash-211137661.html": {
-    "hash": "f66e405e573471a08df6dcc861946eb9",
-    "visto_em": "2026-09-18"
-  },
-  "https://finance.yahoo.com/quote/AI/latest-news": {
-    "hash": "c5f8742010c84a505c55f400e6198eab",
-    "visto_em": "2026-09-18"
-  },
-  "https://www.wsj.com/finance/stocks/investors-come-back-to-ai-stocks-snapping-market-out-of-inflation-gloom-a7690ce5": {
-    "hash": "5e8c3fa1b435848f7fbd55e37aabb934",
-    "visto_em": "2026-09-18"
-  },
-  "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html": {
-    "hash": "b0d94460b317014a1c9ae872eb470006",
-    "visto_em": "2026-09-18"
-  },
-  "https://www.cnbc.com/video/2026/09/16/retail-sales-up-1-point-2-percent-in-august-more-than-expected.html": {
-    "hash": "fc3dea3fd7d05569913e4b26ef88ad58",
-    "visto_em": "2026-09-18"
-  },
-  "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-wday-gnrc-vicr-tsem-vitl.html": {
-    "hash": "84d3471361b4423ed9360e8ee18d5229",
-    "visto_em": "2026-09-18"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-server-stocks-rally-hardware-145346231.html": {
-    "hash": "4af9fefe7ea326da6f80dda4764f63b8",
-    "visto_em": "2026-09-18"
-  },
-  "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026/card/rally-in-tech-stocks-brings-relief-to-investors-At4QQRPN9Hw4TEsuyaAu": {
-    "hash": "3610028b2a8146e27d141911db2b7b64",
-    "visto_em": "2026-09-18"
-  },
-  "https://seekingalpha.com/article/4947794-rackspace-technology-the-ai-pivot-is-real-but-the-balance-sheet-is-still-the-problem": {
-    "hash": "d65e08c505a39568bb89e97623dd7595",
-    "visto_em": "2026-09-18"
-  },
-  "https://www.investing.com/equities/taiwan-semicon": {
-    "hash": "ec5e53042c0ddcd1b05a12e521aac4ce",
-    "visto_em": "2026-09-18"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/cohere-aleph-alpha-plan-merger-090656948.html": {
-    "hash": "e10b292299ebfb9e2cb925140c399b66",
-    "visto_em": "2026-09-18"
-  },
-  "https://www.cnbc.com/quotes/DLR": {
-    "hash": "d6f83ca71e2ddb19fb1d9bb054de1ca4",
-    "visto_em": "2026-09-18"
-  },
-  "https://uk.finance.yahoo.com/news/software-stocks-life-strong-earnings-082808828.html": {
-    "hash": "ee4aeb923167f88f6be0d51d19df9f0a",
-    "visto_em": "2026-09-18"
-  },
-  "https://finance.yahoo.com/technology/live/tech-stocks-today-openai-reveals-six-more-instances-of-concerning-model-behavior-140134624.html": {
-    "hash": "6aff6f5eb3cc3adb7fd76f9a20bad82c",
-    "visto_em": "2026-09-18"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/amd-jumps-7-semiconductor-rebound-173707172.html": {
-    "hash": "3279e69a9dd8d620f7bb3ec059e20e9d",
-    "visto_em": "2026-09-18"
-  },
-  "https://finance.yahoo.com/quote/AI": {
-    "hash": "17e113c4e504eb9e887645807d2cd676",
-    "visto_em": "2026-09-18"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-beats-stock-market-214505465.html": {
     "hash": "86913bdd55c6e82318ec0cc0e733f0a5",
     "visto_em": "2026-09-19"
@@ -574,5 +494,41 @@
   "https://finance.yahoo.com/technology/ai/articles/meta-meta-stilla-ai-deal-075756581.html": {
     "hash": "e4ba81b572395f4b2af783a58c2d1cf6",
     "visto_em": "2026-09-25"
+  },
+  "https://finance.yahoo.com/markets/articles/wall-st-futures-pause-ai-101907090.html": {
+    "hash": "c9840e083221525f5beeded35ba86957",
+    "visto_em": "2026-09-26"
+  },
+  "https://finance.yahoo.com/quote/DGT.XA": {
+    "hash": "8555dbb8676c634464becffce624a0ab",
+    "visto_em": "2026-09-26"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/meet-magnificent-semiconductor-stock-crushing-202000589.html": {
+    "hash": "9074bf2d5277c57475682b57fead13b5",
+    "visto_em": "2026-09-26"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-data-220953786.html": {
+    "hash": "c7a9184c796cbcbca8695d76a8458ffe",
+    "visto_em": "2026-09-26"
+  },
+  "https://www.reuters.com/business/wall-st-futures-gain-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-2026-09-25/": {
+    "hash": "a1cc8bb03d9a24a3879ba43637f038ff",
+    "visto_em": "2026-09-26"
+  },
+  "https://markets.businessinsider.com/news/stocks/navatar-turns-claude-and-salesforce-into-a-live-ai-deal-engine-for-private-equity-and-m-a-1036569772": {
+    "hash": "00e0b4ae0b531e4cf3faf7004e47a47b",
+    "visto_em": "2026-09-26"
+  },
+  "https://www.businessinsider.com/meta-muse-ai-agent-stock-volatility-agentic-ai-turning-point-2026-9": {
+    "hash": "7f639791e9650a4c9f8f21c3b4b8a4f8",
+    "visto_em": "2026-09-26"
+  },
+  "https://seekingalpha.com/news/4647190-goldman-s-guide-to-the-ai-valuation-reset": {
+    "hash": "21ad11020b12e0150fe53a72dbad9af4",
+    "visto_em": "2026-09-26"
+  },
+  "https://www.wsj.com/market-data/stock/tsm": {
+    "hash": "bbb8e3484b44b13a30d05b6c71d5b91b",
+    "visto_em": "2026-09-26"
   }
 }
