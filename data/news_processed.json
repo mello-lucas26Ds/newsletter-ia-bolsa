@@ -2,10 +2,52 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-27",
-    "total_noticias": 104,
-    "gerado_em": "2026-09-27T08:54:37.709174"
+    "total_noticias": 107,
+    "gerado_em": "2026-09-27T15:00:59.251135"
   },
   "noticias": [
+    {
+      "titulo": "Nasdaq 100 Eyes First Record Since June as AI Euphoria Resumes",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-eyes-first-record-150152839.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-22",
+      "resumo": "-- A relentless tech-stock rally pushed the Nasdaq 100 Index toward its first record since June on Tuesday, extending gains fueled by bets on artificial intelligence tools from the likes of Meta Platforms Inc. \n\nMost Read from Bloomberg\n\n   Paramount to Settle Lawsuits, Paving Way for Warner Bros. \n\n   Nvidia's Stock Is Flashing a Warning Sign as Valuation Falls\n\n   Qatar Energy Chief Says Bessent 'Wrong' About Hormuz Future\n\n   Stocks Jump on AI Optimism as AMD Tops $1 Trillion: Markets Wrap\n\n   AI Risk Is Everywhere and It's Making Billion Dollar Funds Nervous [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DLR Stock Price | Digital Realty Trust Inc. Stock Quote (U.S.: NYSE) | MarketWatch",
+      "url": "https://www.marketwatch.com/investing/stock/dlr",
+      "fonte": "marketwatch.com",
+      "data": "2026-09-26",
+      "resumo": "Read full story\n\n### Real Estate Digital Realty’s Strong Quarter Merits a New Look at Data-Center REIT\n\nRead full story\n\n### Japan NTT’s Data-Center Arm Plans Multibillion-Dollar Push on AI Demand\n\nRead full story\n\n### Palantir Falls Again As Microsoft Data Center Move Spooks AI Stocks\n\nRead full story\n\n### Real Estate REITs Are Staging a Comeback.  Here Are 9 Promising Ones. \n\nRead full story\n\n### \n\nNo Headlines Available\n\nLoading Results\n\n### 3 AI Infrastructure Stocks to Watch as Data Center Spending Surges\n\n### Digital Realty Expands Subsea Connectivity With New LA Cable Station\n\n### Is DLR Overvalued.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM) stock price, news, quote and history - Yahoo Finance",
+      "url": "https://uk.finance.yahoo.com/quote/TSM",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-09-26",
+      "resumo": "Industry Semiconductors\n\nMU\n\nMicron Technology, Inc. \n\n937. 11\n\n-0.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.27%",
       "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-027-4918088",
