@@ -1,11 +1,95 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-26",
-    "total_noticias": 107,
-    "gerado_em": "2026-09-26T14:08:55.362877"
+    "data": "2026-09-27",
+    "total_noticias": 104,
+    "gerado_em": "2026-09-27T08:54:37.709174"
   },
   "noticias": [
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.27%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-027-4918088",
+      "fonte": "investing.com",
+      "data": "2026-09-25",
+      "resumo": "Rising stocks outnumbered declining ones on the B3 Stock Exchange by 524 to 416 and 46 ended unchanged.  .  stocks keep AI-picked strategy leads growing this week.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.99%",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-099-4882212",
+      "fonte": "uk.investing.com",
+      "data": "2026-09-24",
+      "resumo": "AI-picked tech stocks have notched a +213% return … the Bovespa declined 0. 99%.  Declining stocks outnumbered rising ones by 567 to 367 and 47 ended unchanged.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Meta and Microsoft led tech stocks higher last week despite soaring bond yields - cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/26/meta-microsoft-led-tech-higher-this-week-despite-soaring-bond-yields.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-26",
+      "resumo": "its fiscal 2026 fourth quarter and is expected to pick up again this quarter, even as Microsoft holds the line on its capital spending outlook.  That combination is important.  Investors have questioned whether hyperscalers can generate sufficient returns on their enormous AI investments, but Microsoft is showing it can bring more capacity online, accelerate cloud growth, and remain free cash flow positive.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more - CNBC",
+      "url": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-midday-akam-geni-ppli.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-25",
+      "resumo": "— Shares perked up 3% after the software giant rolled out a refreshed Copilot app in a bid to challenge Anthropic's Claude and get more of its enterprise customers to pay for the tools.  Meta Platforms — Shares of the Facebook and WhatsApp owner tumbled more than 3% as traders cashed in on the stock's recent rally.  The stock is on track for a 12% weekly gain powered by the booming popularity of its consumer artificial intelligence product Muse.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "C3.ai, Inc. (AI)",
+      "url": "https://finance.yahoo.com/quote/AI/latest-news",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-26",
+      "resumo": "company just posted a stronger fiscal Q1, with bookings up 73% quarter over quarter, Sells Over 444,000 Shares Worth $4. 8 Million . ai Stock Has Plummeted by 22.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Top 10 things to watch in the stock market Friday - CNBC",
+      "url": "https://www.cnbc.com/2026/09/25/top-10-things-to-watch-in-the-stock-market-friday.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-25",
+      "resumo": "are soaring almost 20% this morning.  A notable detail: the new deal \"will support Anthropic's accelerating CPU workload demands. \" The agentic AI-driven CPU renaissance is why we own Intel.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR - Stock",
       "url": "https://www.wsj.com/market-data/stock/tsm?eafs_enabled=false",
@@ -343,20 +427,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Meta (META)'s Stilla.ai Deal Could Turn Business Agent ...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-stilla-ai-deal-075756581.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-19",
-      "resumo": "Such capabilities could result in new monetization opportunities as the company faces increasing pressure to generate returns from its substantial artificial intelligence investments.  Rather than relying exclusively on AI to improve advertising efficiency, Meta could use AI to facilitate transactions and capture value from the commercial activity taking place across its platforms. \n\n### AI-Powered Commerce Opportunity\n\nThe acquisition could help the company build an AI-driven commerce layer across its massive messaging ecosystem.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Why is Lumentum stock rallying today? - Investing.com Philippines",
       "url": "https://ph.investing.com/news/stock-market-news/why-is-lumentum-stock-rallying-today-93CH-2595208",
       "fonte": "ph.investing.com",
@@ -581,40 +651,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "RBOT - Cotação Hoje | iShares Automation & Robotics UCITS USD (Acc) - Investing.com",
-      "url": "https://br.investing.com/etfs/ishares-automation-robotics-acc",
-      "fonte": "br.investing.com",
-      "data": "2026-09-19",
-      "resumo": "| Nome | Último | Var.  % | Vol.  |\n ---  --- |\n| FII Grupo RCFA | 0,36 | -28,00% | 10,00 |\n| Azul Unt | 3,60 | -26,53% | 22,89mil |\n| Azul Unt | 3,80 | -24,00% | 686,00 |\n| FII Hectare Desenvolvimento Student Housing | 31,30 | -19,97% | 3,00 |\n| FII Kinea II Real Estate Equity | 0,21 | -16,00% | 2,73mil |\n| WLM ON | 16,56 | -14,97% | 600,00 |\n| Sequoia ON | 0,06 | -14,29% | 993,40mil |\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "The old cybersecurity model is breaking - TechCrunch",
       "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
       "fonte": "techcrunch.com",
       "data": "2026-09-23",
       "resumo": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.  We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a few years ago. \n\nWith a front row seat to it all is Shardul Shah, a partner at Index Ventures who’s spent nearly two decades investing in cybersecurity and enterprise software — including six consecutive rounds in cloud security startup Wiz, which Google acquired for $32 billion earlier this year in one of its largest acquisitions ever.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Agentes de IA: Como a tecnologia pode ajudar empreendedores e profissionais autônomos a ganhar tempo e produtividade",
-      "url": "https://www.moneytimes.com.br/agentes-de-ia-como-a-tecnologia-pode-ajudar-empreendedores-e-profissionais-autonomos-a-ganhar-tempo-e-produtividade-lbrdgm092",
-      "fonte": "moneytimes.com.br",
-      "data": "2026-09-19",
-      "resumo": "Compartilhar\n\nWhatsApp\nTwitter\nLinkedin\nFacebook\nTelegram\nGabriele Marques\n. [[Conteúdos gratuitos] Assista ao Giro do Mercado e outros programas exclusivos em nosso Youtube](\n\n## Cotações\n\n### MAIORES ALTAS\n\n### MAIORES BAIXAS\n\nReceba gratuitamente as newsletters do Money Times\n\nCopom corta SELIC, FED sobe juros e BOLSA FAMÍLIA aumenta; o que movimenta o IBOVESPA hoje. \n\n## Mais lidas\n\nVer mais\n\n### Pé-de-Meia será pago amanhã; veja datas, valores e quem tem direito em setembro 2026\n\n### Petrobras (PETR4) e mais uma empresa pagam dividendos nesta semana; veja o calendário\n\n### 6 ações para ficar de olho com a queda dos juros em 2027, segundo o Itaú BBA\n\n### Fundo imobiliário vende imóvel por R$ 41 milhões e estima lucro de R$ 3,44 por cota; IFIX recua [.",
-      "sentimento": "bearish",
       "tags": [
         "AI",
         "Market"
@@ -1183,20 +1225,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "How to position for the next wave of AI-led scientific breakthroughs",
-      "url": "https://finance.yahoo.com/technology/ai/articles/position-next-wave-ai-led-013630980.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-19",
-      "resumo": "Investing. com\n\n# How to position for the next wave of AI-led scientific breakthroughs\n\nSimon Mugo\n\n2 min read\n\n GOOG\n\n  +0. 21%\n MSFT\n\n  -0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "3 Chip Stocks Set to Win TSMC’s Packaging Boom",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-chip-stocks-set-win-214535478.html",
       "fonte": "finance.yahoo.com",
@@ -1351,39 +1379,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Has the Market Become a Concentrated Bet on AI? | Investing.com",
-      "url": "https://www.investing.com/analysis/is-the-market-now-becoming-a-concentrated-bet-on-ai-200687759",
-      "fonte": "investing.com",
-      "data": "2026-09-19",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| SPCX | 152.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo ...",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-slowdown-trade-winners-crowdstrike-212311977.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-09-20",
       "resumo": "Palo Alto Networks, Inc.  (NASDAQ:PANW) and CrowdStrike Holdings, Inc.  (NASDAQ:CRWD) have previously surged significantly together on an AI-related catalyst, and their recent history serves as a helpful reminder that these rallies can reverse quickly.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSMC34.SA) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://ca.finance.yahoo.com/quote/TSMC34.SA",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-09-19",
-      "resumo": "175. 99%\n\n### Earnings Trends\n\nView More \n\n### Earnings Per Share\n\nNo Earnings Per Share available for this ticker\n\n### Revenue vs.  Earnings\n\nQ2 FY26\n\nRevenue 1.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1435,20 +1435,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Higher interest rates and AI safety fears put the stock market to the test last week - cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-19",
-      "resumo": "our two best-performing stocks of the week, rising almost 15% and 10%, respectively.  Salesforce pushes back on the 'SaaSpocalypse' Speaking of Dreamforce, Salesforce used its annual conference this week to make the case that AI is becoming an opportunity for enterprise software rather than the disruption investors once feared.  The so-called \"SaaSpocalypse\" hammered software stocks earlier this year, but, combined with last month's strong earnings , the announcements at Dreamforce are further challenging that narrative.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Top Wall Street analysts find these 3 stocks attractive as long-term investments - CNBC",
       "url": "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html",
       "fonte": "cnbc.com",
@@ -1468,34 +1454,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-09-20",
       "resumo": "Most active \n       NOK Nokia Oyj 10. 68+0. 08(+0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The AI capex boom masks an uncomfortable truth about S&P 500 earnings - Business Insider",
-      "url": "https://www.businessinsider.com/ai-capex-goldman-sachs-wall-street-tech-stocks-sp500-earnings-2026-9",
-      "fonte": "businessinsider.com",
-      "data": "2026-09-19",
-      "resumo": "Wall Street has cheered upbeat earnings this year, fueled by strong growth in tech, but the investors shouldn't count on the strong momentum lasting much longer, Goldman Sachs says. \n\nBen Snider, the bank's chief US equity strategist, recently laid out his team's thesis on how AI growth is likely to impact the market in the coming year.  Even if capex spending stays strong, he's not convinced it will be enough to sustain this year's positive momentum.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Sam Altman Admits the AI Industry Has Done \"a Terrible Job\" Explaining Its Benefits Amid Growing Backlash. Should That Worry Nvidia and Microsoft Investors?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sam-altman-admits-ai-industry-085000115.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-19",
-      "resumo": "26.    News • 4 days ago The Nasdaq led indexes lower after AI model fears sent tech stocks tumbling\n27.    News • 4 days ago OpenAI CEO Sam Altman suddenly seems so disturbed by the nightmare-inducing AI monster he has helped create that he is having a hard time sleeping.",
       "sentimento": "neutral",
       "tags": [
         "AI",

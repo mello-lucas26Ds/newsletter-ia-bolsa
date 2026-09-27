@@ -1,80 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-beats-stock-market-214505465.html": {
-    "hash": "86913bdd55c6e82318ec0cc0e733f0a5",
-    "visto_em": "2026-09-19"
-  },
-  "https://finance.yahoo.com/quote/TSMC.BA": {
-    "hash": "03766d855297b6035ded9159769601d4",
-    "visto_em": "2026-09-19"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-ai-software-stocks-retail-141253764.html": {
-    "hash": "5507f40737056498b4c997313893eef8",
-    "visto_em": "2026-09-19"
-  },
-  "https://www.investing.com/analysis/ai-spending-is-entering-a-more-disciplined-phase-200687992": {
-    "hash": "57069c08132f5cc2effd37a998b5fa02",
-    "visto_em": "2026-09-19"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-invested-taiwan-180500271.html": {
-    "hash": "911accce5a50fa793edf40e70269d320",
-    "visto_em": "2026-09-19"
-  },
-  "https://www.cnbc.com/2026/09/18/ai-stock-swings-can-affect-your-401k-what-to-know.html": {
-    "hash": "1044cf90d635cb9fe38655d1780e5183",
-    "visto_em": "2026-09-19"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/one-stock-quietly-did-590-141700512.html": {
-    "hash": "1826ca21b1fad72964956f4381d75a2d",
-    "visto_em": "2026-09-19"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/important-ai-stock-market-warnings-093644688.html": {
-    "hash": "50b10254fbf1106982db330808745a68",
-    "visto_em": "2026-09-19"
-  },
-  "https://br.investing.com/analysis/ibovespa-fecha-hoje-com-queda-de-041-200479706": {
-    "hash": "5bcbb585dc87397e05336facff280485",
-    "visto_em": "2026-09-19"
-  },
-  "https://www.bloomberg.com/news/articles/2026-09-17/stock-market-today-dow-s-p-live-updates": {
-    "hash": "87ba0b88091a9396ccba6c9cf8ff22f0",
-    "visto_em": "2026-09-19"
-  },
-  "https://www.reuters.com/world/china/ai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14": {
-    "hash": "304490d1ba51db12ecd38a4f3f394e2a",
-    "visto_em": "2026-09-19"
-  },
-  "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html": {
-    "hash": "81c0895c6e8017882498de0a279e09cf",
-    "visto_em": "2026-09-19"
-  },
-  "https://www.businessinsider.com/ai-capex-goldman-sachs-wall-street-tech-stocks-sp500-earnings-2026-9": {
-    "hash": "35a48aa8297a9da8ffa550a5646d1765",
-    "visto_em": "2026-09-19"
-  },
-  "https://br.investing.com/news/company-news/petmeds-nomeia-jeff-willard-como-ceo-campbell-se-aposenta-93CH-2068467": {
-    "hash": "fea96a6e42a8cbb197fb0346b1aa0897",
-    "visto_em": "2026-09-19"
-  },
-  "https://finance.yahoo.com/technology/articles/tsmc-2nm-era-accelerating-mediatek-214827953.html": {
-    "hash": "a833c40b4c58e7ef4675b44d8dbe25ea",
-    "visto_em": "2026-09-19"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/2-game-changing-ai-stocks-112601823.html": {
-    "hash": "1db8398e8e7baeb6e7f569aa3f32a92a",
-    "visto_em": "2026-09-19"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/sam-altman-admits-ai-industry-085000115.html": {
-    "hash": "61d9b09672ff923efc89b59efc15549d",
-    "visto_em": "2026-09-19"
-  },
-  "https://www.investing.com/equities/embraer-on-nm": {
-    "hash": "437dde2b9f7ea17a48c98fd859c0e0cb",
-    "visto_em": "2026-09-19"
-  },
-  "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/": {
-    "hash": "a877649a78a132ae1d1fffa8400a9036",
-    "visto_em": "2026-09-19"
-  },
   "https://ca.finance.yahoo.com/quote/TSM/latest-news": {
     "hash": "04347c29f58bcb3766155f89dfc7691a",
     "visto_em": "2026-09-20"
@@ -554,5 +478,29 @@
   "https://finance.yahoo.com/technology/ai/articles/michael-burry-drops-stark-message-135451718.html": {
     "hash": "2cd90e7013d859400d211d84c9443245",
     "visto_em": "2026-09-26"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-027-4918088": {
+    "hash": "396eea42cedeb424612d6405b549ccbe",
+    "visto_em": "2026-09-27"
+  },
+  "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-099-4882212": {
+    "hash": "f19b10bd0619d4624c6f1eb926e67cf0",
+    "visto_em": "2026-09-27"
+  },
+  "https://www.cnbc.com/2026/09/26/meta-microsoft-led-tech-higher-this-week-despite-soaring-bond-yields.html": {
+    "hash": "55a43a0d459078bc4266e4c12bd545df",
+    "visto_em": "2026-09-27"
+  },
+  "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-midday-akam-geni-ppli.html": {
+    "hash": "6d9cb85bd071812f7d0e354333fb6eba",
+    "visto_em": "2026-09-27"
+  },
+  "https://finance.yahoo.com/quote/AI/latest-news": {
+    "hash": "4b1dd447e4ee7bf19489cce1c271ab29",
+    "visto_em": "2026-09-27"
+  },
+  "https://www.cnbc.com/2026/09/25/top-10-things-to-watch-in-the-stock-market-friday.html": {
+    "hash": "3a3d715c4f7257bc3ee12665b6fb56f3",
+    "visto_em": "2026-09-27"
   }
 }

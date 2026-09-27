@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-27",
+    "total_noticias": 6,
+    "gerado_em": "2026-09-27T08:54:37.706902"
+  },
+  "noticias": [
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.27%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-027-4918088",
+      "fonte": "investing.com",
+      "data": "2026-09-25",
+      "resumo": "Rising stocks outnumbered declining ones on the B3 Stock Exchange by 524 to 416 and 46 ended unchanged.  .  stocks keep AI-picked strategy leads growing this week.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.99%",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-099-4882212",
+      "fonte": "uk.investing.com",
+      "data": "2026-09-24",
+      "resumo": "AI-picked tech stocks have notched a +213% return … the Bovespa declined 0. 99%.  Declining stocks outnumbered rising ones by 567 to 367 and 47 ended unchanged.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Meta and Microsoft led tech stocks higher last week despite soaring bond yields - cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/26/meta-microsoft-led-tech-higher-this-week-despite-soaring-bond-yields.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-26",
+      "resumo": "its fiscal 2026 fourth quarter and is expected to pick up again this quarter, even as Microsoft holds the line on its capital spending outlook.  That combination is important.  Investors have questioned whether hyperscalers can generate sufficient returns on their enormous AI investments, but Microsoft is showing it can bring more capacity online, accelerate cloud growth, and remain free cash flow positive.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more - CNBC",
+      "url": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-midday-akam-geni-ppli.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-25",
+      "resumo": "— Shares perked up 3% after the software giant rolled out a refreshed Copilot app in a bid to challenge Anthropic's Claude and get more of its enterprise customers to pay for the tools.  Meta Platforms — Shares of the Facebook and WhatsApp owner tumbled more than 3% as traders cashed in on the stock's recent rally.  The stock is on track for a 12% weekly gain powered by the booming popularity of its consumer artificial intelligence product Muse.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "C3.ai, Inc. (AI)",
+      "url": "https://finance.yahoo.com/quote/AI/latest-news",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-26",
+      "resumo": "company just posted a stronger fiscal Q1, with bookings up 73% quarter over quarter, Sells Over 444,000 Shares Worth $4. 8 Million . ai Stock Has Plummeted by 22.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Top 10 things to watch in the stock market Friday - CNBC",
+      "url": "https://www.cnbc.com/2026/09/25/top-10-things-to-watch-in-the-stock-market-friday.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-25",
+      "resumo": "are soaring almost 20% this morning.  A notable detail: the new deal \"will support Anthropic's accelerating CPU workload demands. \" The agentic AI-driven CPU renaissance is why we own Intel.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
