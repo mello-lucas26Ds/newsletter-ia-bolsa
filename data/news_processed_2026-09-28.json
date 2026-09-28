@@ -2,44 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-28",
-    "total_noticias": 6,
-    "gerado_em": "2026-09-28T09:19:24.185136"
+    "total_noticias": 7,
+    "gerado_em": "2026-09-28T17:58:36.157169"
   },
   "noticias": [
     {
-      "titulo": "TSMC 2nm wafer capacity to exceed earlier estimates, EDN reports",
-      "url": "https://finance.yahoo.com/technology/articles/tsmc-2nm-wafer-capacity-exceed-030730906.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-28",
-      "resumo": "# TSMC 2nm wafer capacity to exceed earlier estimates, EDN reports\n\nAyushman Ojha\n\n1 min read\n\n TSM\n\n  -0. 12%\n NVDA\n\n  +0. 22%\n AMD\n\n  +0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Price Prediction: TSMC Could Reach $600 as Capacity Constraints Drive the AI Boom Forward",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-tsmc-could-reach-160021255.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-27",
-      "resumo": "## How TSMC Compares to NVIDIA and ASML\n\nNVIDIA (NASDAQ:NVDA) is TSMC's largest AI customer.  NVIDIA trades at a forward P/E of 25 against TSMC's 22, with quarterly revenue growth of 105. 9%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "the tech rally is spilling over—see what our models saw first",
-      "url": "https://www.investing.com/news/stock-market-news/up-46-29-the-tech-rally-is-spilling-oversee-what-our-models-saw-first-4919504",
+      "titulo": "The AI Bull Has Met the Price of Money | Investing.com",
+      "url": "https://www.investing.com/analysis/the-ai-bull-has-met-the-price-of-money-200688497",
       "fonte": "investing.com",
       "data": "2026-09-28",
-      "resumo": "relentless enterprise demand for AI infrastructure helped fuel a powerful September rally.  delivering an impressive +11. 58% return month-to-date across cloud,.",
+      "resumo": "Today’s profits give the bulls a serious defence.  Kavcic reports that S&P 500 earnings rose 53% from a year earlier in the second quarter of 2026.  Even excluding the Magnificent Seven, they grew a substantial 30%, with double-digit gains across many sectors.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -49,25 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TSM Stock Price | Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote (U.S.: NYSE) | MarketWatch",
-      "url": "https://www.marketwatch.com/investing/stock/tsm",
-      "fonte": "marketwatch.com",
-      "data": "2026-09-26",
-      "resumo": "### AMD Just Joined Nvidia in the $1 Trillion Club.  At $614, Wall Street Is Paying Too Much for a Distant No.  2.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "2 key checks for the AI trade and the economy: What to watch this week",
-      "url": "https://finance.yahoo.com/markets/article/2-key-checks-for-the-ai-trade-and-the-economy-what-to-watch-this-week-100000239.html",
+      "titulo": "3 AI Stocks With Up To 120% Earnings Growth",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-120-earnings-080846749.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-09-27",
-      "resumo": "Go deeper with AlphaSpace\n\n7,743. 41+39. 28(+0.",
+      "data": "2026-09-28",
+      "resumo": "Overview: CoreWeave runs a GPU focused cloud platform that powers large scale artificial intelligence workloads, alongside services for visual effects and data processing. \n\nOperations: CoreWeave generates about US$7. 6b from data processing, with roughly US$7.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -77,12 +35,68 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "UBS turns bullish on five AI data center stocks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ubs-turns-bullish-five-ai-193000997.html",
+      "titulo": "AI Is Powering A Profit Boom — But Is It An 'Earnings Bubble'? Wall Street Analyst Weighs In",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-powering-profit-boom-earnings-081613518.html",
       "fonte": "finance.yahoo.com",
+      "data": "2026-09-28",
+      "resumo": "Morningstar, citing Goldman Sachs research, said in a new report that S&P 500 earnings are expected to rise 26% in the third quarter, following a massive 51% jump in Q2.  Still, Goldman expects earnings growth to slow, forecasting about 11% growth in both 2027 and 2028.  \"Their takeaway: We aren't quite in an earnings bubble,\" Morningstar said in its report.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Apple and Nvidia Just Delivered a Major Boost for TSMC Chip Business",
+      "url": "https://finance.yahoo.com/technology/articles/apple-nvidia-just-delivered-major-122230915.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-28",
+      "resumo": "Sign in    \n\n   \nTop gainers \n       PPLI People Incorporated 40. 00+4. 07(+11.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.86% By Investing.com",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-086-5603750",
+      "fonte": "in.investing.com",
       "data": "2026-09-23",
-      "resumo": "The bank sees a multi-year catalyst path built around delivery execution, pipeline clarity, new lease agreements, declining risk premiums, potential REIT conversion and strategic value tied to the gap between infrastructure and compute..",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Medico Remedies | 26.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.27%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-027-5607212",
+      "fonte": "in.investing.com",
+      "data": "2026-09-25",
+      "resumo": "Tech Titans, our flagship, has beaten the S&P 500 by 112% since launch three years ago.  See whether AZZA3 made the cut — and which stocks did.  See the AI Picks.",
       "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.44%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-044-5601866",
+      "fonte": "in.investing.com",
+      "data": "2026-09-23",
+      "resumo": "ProPicks AI re-scores HYPE3 every month against thousands of alternatives on 100+ financial metrics, then builds the strategies that came out ahead.  Energy.",
+      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
