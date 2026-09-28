@@ -1,56 +1,4 @@
 {
-  "https://ca.finance.yahoo.com/quote/TSM/latest-news": {
-    "hash": "04347c29f58bcb3766155f89dfc7691a",
-    "visto_em": "2026-09-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-2-manufacturers-building-042001917.html": {
-    "hash": "fef87c7dde56286d7286a070e3353378",
-    "visto_em": "2026-09-20"
-  },
-  "https://br.investing.com/news/company-news/kwik-fill-escolhe-par-technology-para-modernizar-plataforma-de-varejo-93CH-2065620": {
-    "hash": "4a3f96494d86dc33072324c5d0eddb1a",
-    "visto_em": "2026-09-20"
-  },
-  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-024-5597488": {
-    "hash": "2b8f46ca0d2d8d2e34e2aa9f30e5e3b4",
-    "visto_em": "2026-09-20"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-041-4907863": {
-    "hash": "9898827b1e4beb6e9f8c8f83c8ad177e",
-    "visto_em": "2026-09-20"
-  },
-  "https://www.marketwatch.com/investing/stock/tsm": {
-    "hash": "c40f67990c2a840973b42b7e72b84c64",
-    "visto_em": "2026-09-20"
-  },
-  "https://www.investing.com/indices/bovespa": {
-    "hash": "7d091e6aaf89dd2017bd709adcfea5a5",
-    "visto_em": "2026-09-20"
-  },
-  "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-041-4875118": {
-    "hash": "8928bda7dc02d545d0d547b10c40d494",
-    "visto_em": "2026-09-20"
-  },
-  "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html": {
-    "hash": "c5e32cb3f6d0e711cac88198932195c6",
-    "visto_em": "2026-09-20"
-  },
-  "https://www.reuters.com/technology/openai-expects-burn-through-almost-280-billion-by-2030-ft-reports-2026-09-18/": {
-    "hash": "13b466016e72e03097676271c32faea7",
-    "visto_em": "2026-09-20"
-  },
-  "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html": {
-    "hash": "91c885c87b1f1e3c626cf21d865c4242",
-    "visto_em": "2026-09-20"
-  },
-  "https://www.reuters.com/business/anthropic-accenture-invest-2-billion-ai-model-evaluation-safety-concerns-rise-2026-09-18/": {
-    "hash": "18beaf96ec44ea15f3a9e0f085a861ed",
-    "visto_em": "2026-09-20"
-  },
-  "https://au.investing.com/news/economy-news/dollar-pressure-weighs-on-latam-fx-regional-stocks-edge-higher-4647713": {
-    "hash": "09d5566af691e6be58136db5fc9a4b08",
-    "visto_em": "2026-09-20"
-  },
   "https://finance.yahoo.com/technology/ai/articles/2-trillion-dollar-ai-infrastructure-112601081.html": {
     "hash": "9582273f4e3b30f1cafcb5b8b04ca14d",
     "visto_em": "2026-09-21"
@@ -514,5 +462,29 @@
   "https://uk.finance.yahoo.com/quote/TSM": {
     "hash": "0d23c7c598b2c950071103cb143e4ac5",
     "visto_em": "2026-09-27"
+  },
+  "https://finance.yahoo.com/technology/articles/tsmc-2nm-wafer-capacity-exceed-030730906.html": {
+    "hash": "9416feeceaaa9b88dfe63e0aa42074bb",
+    "visto_em": "2026-09-28"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/price-prediction-tsmc-could-reach-160021255.html": {
+    "hash": "339770ac9483fa94a5b5560a5d5cd75d",
+    "visto_em": "2026-09-28"
+  },
+  "https://www.investing.com/news/stock-market-news/up-46-29-the-tech-rally-is-spilling-oversee-what-our-models-saw-first-4919504": {
+    "hash": "de36100d69f86e0e8cd126fdac0b2e41",
+    "visto_em": "2026-09-28"
+  },
+  "https://www.marketwatch.com/investing/stock/tsm": {
+    "hash": "754af461df56c65190d7ff10b7fb7695",
+    "visto_em": "2026-09-28"
+  },
+  "https://finance.yahoo.com/markets/article/2-key-checks-for-the-ai-trade-and-the-economy-what-to-watch-this-week-100000239.html": {
+    "hash": "7c8ea0a83d98a4e1c20868fc276a815c",
+    "visto_em": "2026-09-28"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/ubs-turns-bullish-five-ai-193000997.html": {
+    "hash": "68f78f7bac6fba75ff4ac714e18823fd",
+    "visto_em": "2026-09-28"
   }
 }

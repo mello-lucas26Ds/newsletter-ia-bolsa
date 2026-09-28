@@ -1,11 +1,81 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-27",
-    "total_noticias": 107,
-    "gerado_em": "2026-09-27T15:00:59.251135"
+    "data": "2026-09-28",
+    "total_noticias": 100,
+    "gerado_em": "2026-09-28T09:19:24.186889"
   },
   "noticias": [
+    {
+      "titulo": "TSMC 2nm wafer capacity to exceed earlier estimates, EDN reports",
+      "url": "https://finance.yahoo.com/technology/articles/tsmc-2nm-wafer-capacity-exceed-030730906.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-28",
+      "resumo": "# TSMC 2nm wafer capacity to exceed earlier estimates, EDN reports\n\nAyushman Ojha\n\n1 min read\n\n TSM\n\n  -0. 12%\n NVDA\n\n  +0. 22%\n AMD\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Price Prediction: TSMC Could Reach $600 as Capacity Constraints Drive the AI Boom Forward",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-tsmc-could-reach-160021255.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-27",
+      "resumo": "## How TSMC Compares to NVIDIA and ASML\n\nNVIDIA (NASDAQ:NVDA) is TSMC's largest AI customer.  NVIDIA trades at a forward P/E of 25 against TSMC's 22, with quarterly revenue growth of 105. 9%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "the tech rally is spilling over—see what our models saw first",
+      "url": "https://www.investing.com/news/stock-market-news/up-46-29-the-tech-rally-is-spilling-oversee-what-our-models-saw-first-4919504",
+      "fonte": "investing.com",
+      "data": "2026-09-28",
+      "resumo": "relentless enterprise demand for AI infrastructure helped fuel a powerful September rally.  delivering an impressive +11. 58% return month-to-date across cloud,.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "2 key checks for the AI trade and the economy: What to watch this week",
+      "url": "https://finance.yahoo.com/markets/article/2-key-checks-for-the-ai-trade-and-the-economy-what-to-watch-this-week-100000239.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-27",
+      "resumo": "Go deeper with AlphaSpace\n\n7,743. 41+39. 28(+0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "UBS turns bullish on five AI data center stocks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ubs-turns-bullish-five-ai-193000997.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-23",
+      "resumo": "The bank sees a multi-year catalyst path built around delivery execution, pipeline clarity, new lease agreements, declining risk premiums, potential REIT conversion and strategic value tied to the gap between infrastructure and compute..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq 100 Eyes First Record Since June as AI Euphoria Resumes",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-eyes-first-record-150152839.html",
@@ -1001,20 +1071,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & History",
-      "url": "https://finance.yahoo.com/quote/DLR",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-20",
-      "resumo": "Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation, and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "AMD stock soars to new record as semiconductors bounce",
       "url": "https://finance.yahoo.com/markets/article/amd-stock-soars-to-new-record-as-semiconductors-bounce-chart-of-the-day-161627271.html",
       "fonte": "finance.yahoo.com",
@@ -1091,20 +1147,6 @@
       "data": "2026-09-22",
       "resumo": "While artificial intelligence stocks continue to draw massive capital flows in public markets, AI concepts remain equally sought after in private markets.  According to multiple media reports, Japan's SoftBank Group plans to issue over 11 billion dollars in bonds, primarily to fund an additional investment in OpenAI.  If completed, this transaction would mark the largest non-financial corporate bond issuance ever recorded in the Asia-Pacific region.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Here are the 3 big things we're watching in the stock market this week - CNBC",
-      "url": "https://www.cnbc.com/2026/09/20/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-20",
-      "resumo": "and, more importantly, how it is applying that innovation to product offerings.  We have been very impressed with the recently launched Muse agentic AI application and look forward to hearing early feedback and to learning about future plans.  How the company is strengthening its family of apps — both in user engagement and in the tools it provides to developers — will also be of interest, as this is the primary near-term path to AI investment returns.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -1351,151 +1393,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "3 Buy-Rated REITs Collecting Rent From Warehouses, Data Centers and Shopping Centers",
-      "url": "https://finance.yahoo.com/real-estate/articles/3-buy-rated-reits-collecting-120046674.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-20",
-      "resumo": "Risk: E-commerce and trade-policy sensitivity.  Softer occupancy in Asia at 90. 6% and Central PA at 83.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Will Real Estate Protect Your Portfolio if the AI Bubble Bursts? - WSJ",
-      "url": "https://www.wsj.com/podcasts/take-on-the-week/will-real-estate-protect-your-portfolio-if-the-ai-bubble-bursts/9681d382-7fa4-4fef-adaa-f2cc5530ab6b",
-      "fonte": "wsj.com",
-      "data": "2026-09-20",
-      "resumo": "Jon Petersen: Over the past few years, the data center REIT sector has done very well.  Early on, ChatGPT came out at the end of 2022.  2023 and 2024 were very good years for the data center REITs because it was one of the few places where you could express optimism around the AI infrastructure trade.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI’s Wobbly House of Cards Puts Markets and US Economy at Risk - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-20/ai-s-wobbly-house-of-cards-puts-markets-and-us-economy-at-risk",
-      "fonte": "bloomberg.com",
-      "data": "2026-09-20",
-      "resumo": "Similar forces are at work across a number of sectors as demand for products and services tied to data centers explodes.  Take Vertiv Holdings Co. , which makes cooling and power systems.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "TSM | Taiwan Semiconductor Share Price - Investing.com NG",
       "url": "https://ng.investing.com/equities/taiwan-semicond.manufacturing-co",
       "fonte": "ng.investing.com",
       "data": "2026-09-21",
       "resumo": "| Name | Last | Upside | Fair Value |\n ---  --- |\n| Aaaaaaa | 18. 150 | +35. 58% | 24.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Why I'm Avoiding This Popular AI Stock Despite Its Growth Story",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-im-avoiding-popular-ai-192600316.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-20",
-      "resumo": "## Second-quarter results were strong\n\nIntel, one of the leading players in the server CPU (central processing unit) market, is cashing in on rising demand for its products amid the agentic AI boom.  Consequently, the company's financial results have improved.  In the second quarter, Intel's revenue was $16.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo ...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-slowdown-trade-winners-crowdstrike-212311977.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-20",
-      "resumo": "Palo Alto Networks, Inc.  (NASDAQ:PANW) and CrowdStrike Holdings, Inc.  (NASDAQ:CRWD) have previously surged significantly together on an AI-related catalyst, and their recent history serves as a helpful reminder that these rallies can reverse quickly.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Berkshire Hathaway's Favorite Artificial Intelligence (AI) Stock Looks Like a Genius Buy Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-favorite-artificial-intelligence-131100376.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-20",
-      "resumo": "So while Berkshire Hathaway may not be rushing headlong to play the AI megatrend, it clearly believes in what Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) is doing, because it has massively increased its stake in one of the most AI-first companies on the market.  Based on the stock's valuation, I think it would be a good idea for investors to follow suit and scoop up shares now. \n\nMissed AI's \"Act 1\".",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing's Foundry Market Share Is a ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturings-foundry-market-082300915.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-20",
-      "resumo": "# Taiwan Semiconductor Manufacturing's Foundry Market Share Is a Massive Moat Nobody Talks About\n\nKeithen Drury, The Motley Fool\n\n4 min read\n\n TSM\n\n  +1. 02%\n 0981. HK\n\n  -0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote ...",
-      "url": "https://www.marketwatch.com/investing/stock/tsm",
-      "fonte": "marketwatch.com",
-      "data": "2026-09-20",
-      "resumo": "## Competitors\n\n| Name | Chg % | Market Cap |\n --- \n| NVIDIA Corp.  | 1. 34% | $5.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Top Wall Street analysts find these 3 stocks attractive as long-term investments - CNBC",
-      "url": "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-20",
-      "resumo": "Enterprise software and cloud infrastructure company Oracle (ORCL) recently announced better-than-expected results for the first quarter of fiscal 2027.  The quarter benefited from solid growth in cloud infrastructure revenue. \n\nAfter hosting a series of investor meetings with Ken Bond, Oracle head of investor relations following Q1 earnings, Guggenheim analyst John DiFucci reiterated a buy rating on the stock with a price target of $400.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Stock And 2 Manufacturers Building Around Tariff Shifts",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-2-manufacturers-building-042001917.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-20",
-      "resumo": "Most active \n       NOK Nokia Oyj 10. 68+0. 08(+0.",
       "sentimento": "neutral",
       "tags": [
         "AI",
