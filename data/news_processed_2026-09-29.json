@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-09-29",
+    "total_noticias": 8,
+    "gerado_em": "2026-09-29T09:26:17.256483"
+  },
+  "noticias": [
+    {
+      "titulo": "AI Safety News Puts TSMC Stock And Secure Cloud Plays In Focus",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-safety-news-puts-tsmc-042654263.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-29",
+      "resumo": "44.    News • Sep 21, 2026 The Nasdaq led the Dow and S&P 500 higher as falling oil prices boosted stocks\n45.    News • Sep 21, 2026 Meta stock rockets more than 10% on price target increase and Muse AI agent downloads\n46.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Investment Accelerates: Top Stocks to Buy Right Now",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-investment-accelerates-top-stocks-141800879.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-28",
+      "resumo": "Third-quarter fiscal 2027 revenues are expected to be $108 billion, plus or minus 2%, despite no assumed China Data Center compute revenues.  NVIDIA now expects fiscal 2028 revenues to grow approximately 70% despite supply constraints and demand forecasts running even higher.  NVIDIA's technological leadership, CUDA ecosystem and expanding share of AI-factory spending support a powerful long-term AI investment case.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Zhibao Technology Signs Definitive Agreement to Acquire NEXSYS TECH for Planned AI Computing Infrastructure Business",
+      "url": "https://finance.yahoo.com/technology/ai/articles/zhibao-technology-signs-definitive-agreement-120000089.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-28",
+      "resumo": "(\"Zhibao,\" \"we,\" or the \"Company\") has entered into a definitive Merger and Acquisition Agreement dated September 28, 2026, to acquire 100% of the issued shares of NEXSYS TECH SDN.  BHD.  (\"NEXSYS\"), a newly incorporated Malaysian entity set to develop an AI computing infrastructure business.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Use This Zacks Tool to Find Strong AI Stocks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/zacks-tool-strong-ai-stocks-231700002.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-28",
+      "resumo": "Artificial Intelligence Screen\n\nThe Zacks Artificial Intelligence thematic screen features a diverse set of companies involved in the AI frenzy, ranging from creators of software and hardware that power AI to those applying and utilizing the technology through automation, diagnostics, cognitive tasks, and more. \n\nNVIDIA Recent Earnings\n\nNVIDIA delivered another blowout quarter, with its recent results comfortably clearing already high expectations.  Revenue surged 106% year over year to $96.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "We Asked 3 AI Chatbots for Next Week's Top Stock Picks. They All Said Micron. - Micron Technology (NASDAQ - Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61998518/we-asked-3-ai-chatbots-for-next-weeks-top-stock-picks-they-all-said-micron",
+      "fonte": "benzinga.com",
+      "data": "2026-09-25",
+      "resumo": "SPY767. 75+0. 07%QQQ741.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Equinix, Inc. (EQIX) latest stock news and headlines",
+      "url": "https://nz.finance.yahoo.com/quote/EQIX/news",
+      "fonte": "nz.finance.yahoo.com",
+      "data": "2026-09-23",
+      "resumo": "Which AI Data-Center REIT Is the Better Buy.  Positions to Benefit from Exponential Data Growth and Early-Stage Enterprise.  Investing in Equinix.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Apple and Nvidia Just Delivered a Major Boost for TSMC Chip Business",
+      "url": "https://ca.finance.yahoo.com/news/apple-nvidia-just-delivered-major-122230915.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-09-28",
+      "resumo": "Most active \n       CNQ. TO Canadian Natural Resources Limited 67. 38+0.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AMD will acquire Fei-Fei Li's World Labs for $8.2 billion | TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "fonte": "techcrunch.com",
+      "data": "2026-09-28",
+      "resumo": "AMD is acquiring World Labs, one of the leading developers of deep learning models intended to understand physical reality, in a $8. 2 billion deal, the two companies said today. \n\nWorld Labs justified the deal in a statement saying that AI development required “close collaboration across model research, systems and compute.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
