@@ -2,10 +2,122 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-29",
-    "total_noticias": 89,
-    "gerado_em": "2026-09-29T09:26:17.257942"
+    "total_noticias": 97,
+    "gerado_em": "2026-09-29T16:21:17.874500"
   },
   "noticias": [
+    {
+      "titulo": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-25",
+      "resumo": "Optimism this week among AI sectors was driven by the increased traction among young consumers for Meta's AI application Muse and a device integrated with the AI agent, Charm. \n\nShares of the social media giant were set for its fifth-straight week ‌of gains.  It would be the ⁠stock's biggest five-week gain since late January 2023, putting it less than 1% away from the $2 trillion market value.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.26%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-026-4921146",
+      "fonte": "investing.com",
+      "data": "2026-09-28",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| ARM | 283.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.26% By Investing.com",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-026-4886277",
+      "fonte": "uk.investing.com",
+      "data": "2026-09-28",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| daVictus | 1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bovespa Index Today (IBOV)",
+      "url": "https://www.investing.com/indices/bovespa",
+      "fonte": "investing.com",
+      "data": "2026-09-27",
+      "resumo": "Picked by AI Undervalued Stocks.  The Bovespa live stock price is 182,991.  IBOV is the ticker symbol of the Bovespa index.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.99% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-099-4916175",
+      "fonte": "investing.com",
+      "data": "2026-09-24",
+      "resumo": "## Latest comments\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 1,069.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "How AI is reshaping the foundation of front-office investment workflows | Insights | Bloomberg Professional Services",
+      "url": "https://www.bloomberg.com/professional/insights/artificial-intelligence/how-ai-is-reshaping-the-foundation-of-front-office-investment-workflows",
+      "fonte": "bloomberg.com",
+      "data": "2026-09-28",
+      "resumo": "Rather than manually searching through research reports, earnings transcripts, company filings, market commentary, portfolio reports and internal content, investors can use natural-language queries to interrogate a topic and surface relevant research and portfolio context within the workflow.  This makes information easier to connect, share and analyze, strengthening the collaboration between analysts, portfolio managers and traders.  Teams can challenge assumptions, refine investment theses and build conviction together on one integrated workflow.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Use This Zacks Tool to Find Strong AI Stocks",
+      "url": "https://uk.finance.yahoo.com/news/zacks-tool-strong-ai-stocks-231700002.html",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-09-28",
+      "resumo": "The Zacks Artificial Intelligence thematic screen features a diverse set of companies involved in the AI frenzy, ranging from creators of software and hardware.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Value investors retool their models to keep up with the AI stock market",
+      "url": "https://www.cnbc.com/2026/09/23/how-value-investors-are-adapting-to-the-ai-stock-market.html",
+      "fonte": "cnbc.com",
+      "data": "2026-09-23",
+      "resumo": "to be a value-oriented manager, and so what you see is .  managers retire, you see strategies change. ” To be sure, value has actually outperformed growth by a significant bit this year, as gains from artificial intelligence expand to the broader market.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "AI Safety News Puts TSMC Stock And Secure Cloud Plays In Focus",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-safety-news-puts-tsmc-042654263.html",
