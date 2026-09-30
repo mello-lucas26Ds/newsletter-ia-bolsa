@@ -1,84 +1,4 @@
 {
-  "https://seekingalpha.com/news/4645184-astera-labs-jumps-12-percent-amid-broader-tech-rally-ai-peers-higher": {
-    "hash": "a7e82766d9892ce82f2a40fbd642dccf",
-    "visto_em": "2026-09-22"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-break-next-leg-180300015.html": {
-    "hash": "dc37e5d6d5f1fe4ba504599b86198d43",
-    "visto_em": "2026-09-22"
-  },
-  "https://www.investing.com/news/stock-market-news/meta-ai-agent-muse-triggers-massive-tech-rally-as-chips-and-wall-street-soar-4909393": {
-    "hash": "72859dce6db3a493c28ef47750c91812",
-    "visto_em": "2026-09-22"
-  },
-  "https://ng.investing.com/news/stock-market-news/201-returns-see-why-these-aipicked-tech-stocks-keep-climbing-2702155": {
-    "hash": "1c8012885039eff949e13133ba92077d",
-    "visto_em": "2026-09-22"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-muse-triggers-155642786.html": {
-    "hash": "a26c6f6d1772d42c1057653d2790e66a",
-    "visto_em": "2026-09-22"
-  },
-  "https://www.investing.com/analysis/us-growth-ai-spending-and-earnings-strength-could-outlast-the-midterm-noise-200688091": {
-    "hash": "dc2565cc9d07261b1240d35a789ce031",
-    "visto_em": "2026-09-22"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/position-next-wave-ai-led-013630980.html": {
-    "hash": "d39e784b43c0ed3920b894f10cd7d00c",
-    "visto_em": "2026-09-22"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/3-chip-stocks-set-win-214535478.html": {
-    "hash": "7a6eead8be7385cfd15380264080e38e",
-    "visto_em": "2026-09-22"
-  },
-  "https://finance.yahoo.com/news/cohere-aleph-alpha-combine-target-132337990.html?fr=sycsrp_catchall": {
-    "hash": "0f3736ba662313a7cc34423661d80bc6",
-    "visto_em": "2026-09-22"
-  },
-  "https://www.investing.com/analysis/investors-watch-for-shifts-in-rates-and-ai-growth-after-fed-hike-200688037": {
-    "hash": "52a84c19cb2dd8407c04ac213ffb370f",
-    "visto_em": "2026-09-22"
-  },
-  "https://www.reuters.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-2026-09-21/": {
-    "hash": "f8464c61b85b3b6bd00979cfbdbbe316",
-    "visto_em": "2026-09-22"
-  },
-  "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df": {
-    "hash": "64cec3313138fb6ab9915d3b43f4eaee",
-    "visto_em": "2026-09-22"
-  },
-  "https://www.cnbc.com/2026/09/22/cctv-script-22/09/26.html": {
-    "hash": "8f14e412bf998ac22f12fccd81c2186f",
-    "visto_em": "2026-09-22"
-  },
-  "https://www.investing.com/indices/ibovespa-usd": {
-    "hash": "1d63e887d8b52c73b8c85e8dac49c5ab",
-    "visto_em": "2026-09-22"
-  },
-  "https://www.cnbc.com/2026/09/20/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html": {
-    "hash": "5e2d26ac9d248154f0baac453ebc90bf",
-    "visto_em": "2026-09-22"
-  },
-  "https://seekingalpha.com/news/4644811-amd-crossed-1t-market-cap-as-chip-and-ai-stocks-rally": {
-    "hash": "2918b3a35228d512277693632f48bf6c",
-    "visto_em": "2026-09-22"
-  },
-  "https://www.bloomberg.com/news/articles/2026-09-22/nvidia-s-stock-is-flashing-a-warning-sign-as-valuation-falls": {
-    "hash": "56070e86c033f81fe6ce3740907f24a4",
-    "visto_em": "2026-09-22"
-  },
-  "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html": {
-    "hash": "dfded1174ebff97e2c27a8a9a499e534",
-    "visto_em": "2026-09-22"
-  },
-  "https://www.reuters.com/legal/transactional/corporate-bond-buyers-get-picky-with-flood-ai-debt-2026-09-22/": {
-    "hash": "53fcb8c00b75bdef17fcc9a6a03cc0bd",
-    "visto_em": "2026-09-22"
-  },
-  "https://seekingalpha.com/article/4947973-nvidia-and-ai-vendor-financing-is-this-the-next-dot-com-bubble": {
-    "hash": "d4261de0de9498f702eafc3e242adbd2",
-    "visto_em": "2026-09-22"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/nasdaq-hits-record-close-ai-112626254.html": {
     "hash": "a1efc4ab5cf8054a2810b050ce2b9084",
     "visto_em": "2026-09-23"
@@ -510,5 +430,45 @@
   "https://www.cnbc.com/2026/09/23/how-value-investors-are-adapting-to-the-ai-stock-market.html": {
     "hash": "606f95a5b7dcb4108c2167a924ff38f9",
     "visto_em": "2026-09-29"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-investors-120013584.html": {
+    "hash": "fa2ebf58477317f0a9202658eb0f1502",
+    "visto_em": "2026-09-30"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-moves-higher-ai-184615945.html": {
+    "hash": "01cd2da971afcf26d533818b9ebef26a",
+    "visto_em": "2026-09-30"
+  },
+  "https://www.investing.com/news/transcripts/equinix-at-rbc-capital-markets-conference-ai-demand-lifts-outlook-93CH-4923622": {
+    "hash": "146ba66a9c9599bdded4864e49f886ee",
+    "visto_em": "2026-09-30"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/does-taiwan-semiconductor-manufacturing-tsm-170934521.html": {
+    "hash": "01cd2da971afcf26d533818b9ebef26a",
+    "visto_em": "2026-09-30"
+  },
+  "https://finance.yahoo.com/quote/TSM/latest-news": {
+    "hash": "8f78c4ead7af98185ee623cd98a93cd3",
+    "visto_em": "2026-09-30"
+  },
+  "https://br.investing.com/news/insider-trading-news/cfo-da-pagaya-vende-us-10053-em-acoes-da-empresa-93CH-2078893": {
+    "hash": "ffbbc967bcecf5a00b4abd58de6a4a6d",
+    "visto_em": "2026-09-30"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/m-jumping-back-taiwan-semiconductor-161210612.html": {
+    "hash": "980df56155e556d70b1d16e3bf93147e",
+    "visto_em": "2026-09-30"
+  },
+  "https://www.cnbc.com/2026/09/28/a-key-test-looms-for-the-ai-trade-this-week-heres-how-mike-khouw-is-trading-it.html": {
+    "hash": "62881a63cdf2d064c6d589887b3db887",
+    "visto_em": "2026-09-30"
+  },
+  "https://seekingalpha.com/article/4950346-surviving-the-saaspocalypse-3-top-software-stocks-flipping-the-ai-script": {
+    "hash": "4726626701a527a457652e396e3fe570",
+    "visto_em": "2026-09-30"
+  },
+  "https://finance.yahoo.com/technology/articles/belgium-existing-upcoming-data-center-081500256.html": {
+    "hash": "8dc5c23e9e7fb9f4c663b9ef14044c69",
+    "visto_em": "2026-09-30"
   }
 }
