@@ -2,10 +2,66 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-09-30",
-    "total_noticias": 85,
-    "gerado_em": "2026-09-30T09:17:20.825226"
+    "total_noticias": 89,
+    "gerado_em": "2026-09-30T16:16:43.928053"
   },
   "noticias": [
+    {
+      "titulo": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies | Reuters",
+      "url": "https://www.reuters.com/business/wall-st-futures-gain-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-2026-09-25",
+      "fonte": "reuters.com",
+      "data": "2026-09-26",
+      "resumo": "Sept 25 (Reuters) - Wall Street ended higher on Friday, lifted by Microsoft ​and other AI-related technology stocks, while high oil prices and a recent surge in US Treasury yields kept investors on ‌edge. \n\nGains in the S&P 500 and Nasdaq capped a volatile week driven by uncertainty about what industries will win and lose from artificial intelligence, and by concerns about the US war with Iran and a surge in US Treasury yields. \n\nSign up here.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC's 2nm Push Could Create a New Winner in the AI ...",
+      "url": "https://uk.finance.yahoo.com/news/tsmcs-2nm-push-could-create-182110589.html",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-09-29",
+      "resumo": "TSMC's 2nm Push Could Create a New Winner in the AI Chip Boom · TSM.  +1. 22% · AAPL.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.46%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-046-4923508",
+      "fonte": "investing.com",
+      "data": "2026-09-29",
+      "resumo": "Using powerful AI to generate exciting stock ideas, it looks beyond popularity to assess fundamentals, momentum, and valuation.  The AI has no bias—it simply.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Realty Income vs. Prologis: Which REIT Has the Winning Edge?",
+      "url": "https://finance.yahoo.com/real-estate/articles/realty-income-vs-prologis-reit-144700146.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-24",
+      "resumo": "Growth is becoming more diversified as well.  Realty Income's private-capital strategy now includes partnerships with Apollo and KKR, while its Cloud Capital venture opens another path into hyperscale data centers.  Management says these structures can add fee income and reduce dependence on public equity issuance, an important advantage for a capital-intensive business.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Stocks Rise Pre-Bell as Investors Weigh Growing AI Safety ...",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-investors-120013584.html",
