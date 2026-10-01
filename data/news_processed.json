@@ -1,11 +1,109 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-09-30",
-    "total_noticias": 89,
-    "gerado_em": "2026-09-30T16:16:43.928053"
+    "data": "2026-10-01",
+    "total_noticias": 78,
+    "gerado_em": "2026-10-01T09:44:24.983293"
   },
   "noticias": [
+    {
+      "titulo": "CLOU Stock Price | Global X Cloud Computing ETF",
+      "url": "https://www.investing.com/etfs/global-x-cloud-computing",
+      "fonte": "investing.com",
+      "data": "2026-09-28",
+      "resumo": "The fund invests in stocks of companies … data center real estate investment trusts (\"REITs\"), and/or cloud and edge computing infrastructure and hardware,.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia, Broadcom, and AMD Investors Need to Have Oct. 15 Circled on Their Calendars",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-broadcom-amd-investors-oct-230400490.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-30",
+      "resumo": "Taiwan Semiconductor's stock tends to reach about 30 times forward earnings at the end of each year.  With the stock trading for about 27 times forward earnings now, it's priced in the range where it should be. \n\nTSM PE Ratio (Forward) Chart\n\nTSM PE Ratio (Forward) data by YCharts.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Our AI models flagged six mid-cap winners up 30%-87% - October’s list is live",
+      "url": "https://www.investing.com/news/stock-market-news/our-ai-models-flagged-six-midcap-winners-up-3087--octobers-list-is-live-4926242",
+      "fonte": "investing.com",
+      "data": "2026-10-01",
+      "resumo": "After Hours·06:21:50\n\n1D\n\n1W\n\n1M\n\n6M\n\n1Y\n\n5Y\n\nMax\n\n, up 30. 5% since our AI models picked it on July 1, 2026.  The strongest confirmation arrived on August 6, when Insight reported Q2 FY2026 adjusted EPS of $3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 1.37%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-137-5613629",
+      "fonte": "in.investing.com",
+      "data": "2026-09-30",
+      "resumo": "ProPicks AI evaluates EMBJ3 alongside thousands of other companies every month using 100+ financial metrics.  Using powerful AI to generate exciting stock ideas,.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "If an AI Bubble Crashes the Stock Market, Warren Buffett ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-crashes-stock-market-092000821.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-30",
+      "resumo": "the tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) is up 111% over that period.  AI users will have to spend at least $1 trillion per year for hyperscalers.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "'AI or bust:' Tech trade powered stocks through volatile ...",
+      "url": "https://finance.yahoo.com/markets/article/ai-or-bust-tech-trade-powered-stocks-through-volatile-september-224759194.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-30",
+      "resumo": "The Nasdaq Composite (^IXIC) gained 1. 8% after hitting a new peak on Sept.  22.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Trust, Inc. (DLR)",
+      "url": "https://finance.yahoo.com/quote/DLR/news",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-01",
+      "resumo": "Digital Realty is leaning harder into AI infrastructure, with new partnerships and network tools aimed at making its data centers more useful for.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies | Reuters",
       "url": "https://www.reuters.com/business/wall-st-futures-gain-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-2026-09-25",
@@ -301,20 +399,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Value investors retool their models to keep up with the AI stock market",
-      "url": "https://www.cnbc.com/2026/09/23/how-value-investors-are-adapting-to-the-ai-stock-market.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-23",
-      "resumo": "to be a value-oriented manager, and so what you see is .  managers retire, you see strategies change. ” To be sure, value has actually outperformed growth by a significant bit this year, as gains from artificial intelligence expand to the broader market.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "AI Safety News Puts TSMC Stock And Secure Cloud Plays In Focus",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-safety-news-puts-tsmc-042654263.html",
       "fonte": "finance.yahoo.com",
@@ -376,20 +460,6 @@
       "fonte": "benzinga.com",
       "data": "2026-09-25",
       "resumo": "SPY767. 75+0. 07%QQQ741.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Equinix, Inc. (EQIX) latest stock news and headlines",
-      "url": "https://nz.finance.yahoo.com/quote/EQIX/news",
-      "fonte": "nz.finance.yahoo.com",
-      "data": "2026-09-23",
-      "resumo": "Which AI Data-Center REIT Is the Better Buy.  Positions to Benefit from Exponential Data Growth and Early-Stage Enterprise.  Investing in Equinix.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -483,40 +553,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.86% By Investing.com",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-086-5603750",
-      "fonte": "in.investing.com",
-      "data": "2026-09-23",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Medico Remedies | 26.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Brazil shares lower at close of trade; Bovespa down 0.27%",
       "url": "https://in.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-027-5607212",
       "fonte": "in.investing.com",
       "data": "2026-09-25",
       "resumo": "Tech Titans, our flagship, has beaten the S&P 500 by 112% since launch three years ago.  See whether AZZA3 made the cut — and which stocks did.  See the AI Picks.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.44%",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-044-5601866",
-      "fonte": "in.investing.com",
-      "data": "2026-09-23",
-      "resumo": "ProPicks AI re-scores HYPE3 every month against thousands of alternatives on 100+ financial metrics, then builds the strategies that came out ahead.  Energy.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -573,20 +615,6 @@
       "data": "2026-09-27",
       "resumo": "Go deeper with AlphaSpace\n\n7,743. 41+39. 28(+0.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "UBS turns bullish on five AI data center stocks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ubs-turns-bullish-five-ai-193000997.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-23",
-      "resumo": "The bank sees a multi-year catalyst path built around delivery execution, pipeline clarity, new lease agreements, declining risk premiums, potential REIT conversion and strategic value tied to the gap between infrastructure and compute..",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -917,34 +945,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.86%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-086-4913904",
-      "fonte": "investing.com",
-      "data": "2026-09-23",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n|  | 104.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.86%",
-      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-086-4880240",
-      "fonte": "uk.investing.com",
-      "data": "2026-09-23",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| National Bank of Greece | 16.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Digital Realty vs. Equinix: Which AI Data-Center REIT Is the ...",
       "url": "https://finance.yahoo.com/real-estate/articles/digital-realty-vs-equinix-ai-035955863.html",
       "fonte": "finance.yahoo.com",
@@ -1057,48 +1057,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "U.S. stock futures flat as markets parse Iran talks, AI optimism - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-iran-talks-ai-optimism-4911928",
-      "fonte": "investing.com",
-      "data": "2026-09-23",
-      "resumo": "Healthcare Heroes\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBeat the S&P 500\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nDominate the Dow\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMid-Cap Movers\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMexican Stock Exchange Leaders\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBest Brazilian Stocks\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nItalian Market Elite\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a [. ] | Name | Last | Chg.  % | Vol.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Semiconductors Stock Performance - Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/semiconductors",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-23",
-      "resumo": "| Name | Last Price | 1Y Target Est.  | Market Weight | Market Cap | Day Change % | YTD Return | Avg.  Analyst Rating |\n ---  ---  ---  --- |\n| NVDA  NVIDIA Corporation | 226.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC stock analysis: fundamentals, valuation, and key risks",
-      "url": "https://www.investing.com/news/stock-market-news/tsmc-stock-analysis-fundamentals-valuation-and-key-risks-93CH-4913682",
-      "fonte": "investing.com",
-      "data": "2026-09-23",
-      "resumo": "By Antonio Rodr. \n\nSep 22, 2026\n\nMore News\n\nMarket Movers\n\n| Name | Last | Chg.  % | Vol.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM)",
       "url": "https://ca.finance.yahoo.com/quote/TSM",
       "fonte": "ca.finance.yahoo.com",
@@ -1127,124 +1085,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "The old cybersecurity model is breaking - TechCrunch",
-      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-      "fonte": "techcrunch.com",
-      "data": "2026-09-23",
-      "resumo": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.  We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a few years ago. \n\nWith a front row seat to it all is Shardul Shah, a partner at Index Ventures who’s spent nearly two decades investing in cybersecurity and enterprise software — including six consecutive rounds in cloud security startup Wiz, which Google acquired for $32 billion earlier this year in one of its largest acquisitions ever.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq rally hasn't stopped these tech stocks from flashing warning ...",
-      "url": "https://finance.yahoo.com/markets/article/nasdaq-rally-hasnt-stopped-these-tech-stocks-from-flashing-warning-signs-141710781.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-23",
-      "resumo": "\"We saw a similar situation back in 2000 after the initial crack [in markets], as many semi names went on to make new highs while the SOX itself didn't,\" Krinsky warned.  \"We are also seeing dispersion in the S&P 500: five straight days of more 52 week lows than highs even as the index has rallied back near all-time highs, with SPX +1. 2% over the last month while 9 of 11 sectors are negative.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Pacer Data & Infrastructure Real Estate ETF (SRVR) - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/SRVR",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-23",
-      "resumo": "Find the latest Pacer Data & Infrastructure Real Estate ETF (SRVR) stock quote, history, news.  Data Center & Digital Infrastructure ETF 28. 23 … 167.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Navatar Turns Claude and Salesforce Into a Live AI Deal Engine for Private Equity and M&A",
       "url": "https://finance.yahoo.com/technology/ai/articles/navatar-turns-claude-salesforce-live-050000532.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-09-24",
       "resumo": "That trade-off is no longer necessary.  Navatar is designed to capture the intelligence created through the work partners and deal teams already do.  Activity from approved sources such as Outlook, Salesforce, research workflows, deal materials, and AI interactions can be connected to the relevant company, contact, relationship, opportunity, or fund record.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Buy 3 Top-Ranked AI-Led Stocks at Deep Discount to Maximize Your Gains",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-3-top-ranked-ai-120200338.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-23",
-      "resumo": "## AI and Defense Demand Drive Growth\n\nTTMI continues to benefit from two durable industry drivers: AI infrastructure investment and defense modernization.  TTMI is seeing sustained demand for advanced PCBs, RF components and integrated electronic solutions used in AI servers, networking equipment and mission-critical defense applications. \n\nDuring the second quarter of 2026, Data Center and Networking revenues grew 91% year over year, while Aerospace and Defense revenues increased 14%.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Optimism Returns, Pushing Inflation Risks Into the Background",
-      "url": "https://www.investing.com/analysis/ai-optimism-returns-pushing-inflation-risks-into-the-background-200688152",
-      "fonte": "investing.com",
-      "data": "2026-09-23",
-      "resumo": "The bulls can point to strong AI-driven earnings growth as the force still propelling the market higher.  FactSet estimates that S&P 500 earnings are on track to rise nearly 29% in Q3 from a year earlier.  If correct, the gain will mark the third straight quarter of annual earnings growth exceeding 25%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC's A14 Gains Customer Traction Ahead of 2028 Volume ...",
-      "url": "https://finance.yahoo.com/technology/articles/tsmcs-a14-gains-customer-traction-124500066.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-23",
-      "resumo": "Story Continues\n\n## The Zacks Rundown for TSM Stock\n\nOver the past 12 months, TSMC shares have rallied 59% compared with the industry's 57. 4% growth. \n\nImage 2: Zacks Investment Research\n\nZacks Investment Research \n\nImage Source: Zacks Investment Research\n\nTSM currently trades at a forward earnings multiple of 22.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://ca.finance.yahoo.com/quote/EQIX",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-09-23",
-      "resumo": "Oops, something went wrong\n\n# Yahoo Finance Canada\n\n### Canada markets open in 5h 16m\n\n# Equinix, Inc.  (EQIX)\n\n### 5. 19%\n\n### -0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Arm Holdings Stock Surges on Meta’s Muse AI Deal and Data Center Push | Investing.com",
-      "url": "https://www.investing.com/analysis/arm-holdings-stock-surges-on-metas-muse-ai-deal-and-data-center-push-200688196",
-      "fonte": "investing.com",
-      "data": "2026-09-23",
-      "resumo": "Original Post\n\n## Latest comments\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 1,096.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"

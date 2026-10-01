@@ -1,84 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-hits-record-close-ai-112626254.html": {
-    "hash": "a1efc4ab5cf8054a2810b050ce2b9084",
-    "visto_em": "2026-09-23"
-  },
-  "https://ca.finance.yahoo.com/news/nasdaq-100-eyes-first-record-150152839.html": {
-    "hash": "9507ab78392c2c415df9636bcda360c8",
-    "visto_em": "2026-09-23"
-  },
-  "https://www.reuters.com/business/wall-st-futures-pause-after-ai-rally-focus-mideast-tensions-2026-09-22": {
-    "hash": "a7b0e77296407aed161b5b6810fab617",
-    "visto_em": "2026-09-23"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-taiwan-semiconductor-130006890.html": {
-    "hash": "366d5a533dd21ad7a0e09724c52d31a8",
-    "visto_em": "2026-09-23"
-  },
-  "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-ai-buzz-stokes-tech-gains-7d1bf50b": {
-    "hash": "e9b6f907097616cf4c53bcd1f62890eb",
-    "visto_em": "2026-09-23"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/2026-u-data-center-portfolio-150500324.html": {
-    "hash": "452e42c0b25f3d655e9b7df1c1366c4c",
-    "visto_em": "2026-09-23"
-  },
-  "https://finance.yahoo.com/quote/DLR": {
-    "hash": "191f52ab0ca9dcbec553b895e71660b6",
-    "visto_em": "2026-09-23"
-  },
-  "https://finance.yahoo.com/markets/article/amd-stock-soars-to-new-record-as-semiconductors-bounce-chart-of-the-day-161627271.html": {
-    "hash": "912739d7b76c5a9d4de2f334d905943e",
-    "visto_em": "2026-09-23"
-  },
-  "https://ca.finance.yahoo.com/quote/EQIX": {
-    "hash": "f9dbf4e6162f984e599e87b5250b1ea9",
-    "visto_em": "2026-09-23"
-  },
-  "https://www.investing.com/analysis/arm-holdings-stock-surges-on-metas-muse-ai-deal-and-data-center-push-200688196": {
-    "hash": "6283e4009119415053a05f0a882a4b0e",
-    "visto_em": "2026-09-23"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/buy-3-top-ranked-ai-120200338.html": {
-    "hash": "605ab0b439ab2c2ff752cccbe82477b3",
-    "visto_em": "2026-09-23"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-sees-ipo-boom-ai-020206620.html": {
-    "hash": "c34f52f56b3096ddbf06b88fc145a256",
-    "visto_em": "2026-09-23"
-  },
-  "https://www.investing.com/analysis/these-ai-stocks-sold-off-hardeven-as-their-outlooks-improved-200688167": {
-    "hash": "0e3da409d6e967e9c30fd812cfb283e8",
-    "visto_em": "2026-09-23"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/electra-ai-iron-horse-acquisition-120000337.html": {
-    "hash": "5af4b485eedf84026b6898fd6c4cdcb5",
-    "visto_em": "2026-09-23"
-  },
-  "https://www.investing.com/analysis/ai-optimism-returns-pushing-inflation-risks-into-the-background-200688152": {
-    "hash": "ecca4c693f571b8d52a16224536a3900",
-    "visto_em": "2026-09-23"
-  },
-  "https://finance.yahoo.com/quote/L1D.HM/earnings-calls": {
-    "hash": "2442f8c6ed279f92eb22269805a887d6",
-    "visto_em": "2026-09-23"
-  },
-  "https://finance.yahoo.com/technology/articles/tsmcs-a14-gains-customer-traction-124500066.html": {
-    "hash": "e9dd3fb85c0ba029e91d0505ca650815",
-    "visto_em": "2026-09-23"
-  },
-  "https://markets.ft.com/data/announce/detail?dockey=600-202609220800BIZWIRE_USPRX____20260922_BW061829-1": {
-    "hash": "3cf47e125604f21c96a4b0328759944d",
-    "visto_em": "2026-09-23"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/deloitte-expands-ai-agentic-ai-130000349.html": {
-    "hash": "bd7cacfff6e537ec68c953c1644b51fa",
-    "visto_em": "2026-09-23"
-  },
-  "https://www.marketwatch.com/story/ai-stock-rally-narrow-market-breadth-warning-5766c3cb?mod=default_seemore": {
-    "hash": "990d0766c43bcc3bc0dd8ad0ec94fc17",
-    "visto_em": "2026-09-23"
-  },
   "https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-with-china-summit-iran-escalation-in-focus-4908205": {
     "hash": "ab74094dafddcc7ec483224ddf3b593e",
     "visto_em": "2026-09-24"
@@ -486,5 +406,33 @@
   "https://finance.yahoo.com/real-estate/articles/realty-income-vs-prologis-reit-144700146.html": {
     "hash": "a43d5b44f6f13db4eb1d5951d305e5e5",
     "visto_em": "2026-09-30"
+  },
+  "https://www.investing.com/etfs/global-x-cloud-computing": {
+    "hash": "b9dd018f5b7fa5bccca1368bb1f98cfa",
+    "visto_em": "2026-10-01"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nvidia-broadcom-amd-investors-oct-230400490.html": {
+    "hash": "d462438ae8be03eda0b59653d52ed0cd",
+    "visto_em": "2026-10-01"
+  },
+  "https://www.investing.com/news/stock-market-news/our-ai-models-flagged-six-midcap-winners-up-3087--octobers-list-is-live-4926242": {
+    "hash": "1b6b1aeaba904ff6dd6bc678d6e2fec1",
+    "visto_em": "2026-10-01"
+  },
+  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-137-5613629": {
+    "hash": "e70dfd78879781ef753cd4245eb175e6",
+    "visto_em": "2026-10-01"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-crashes-stock-market-092000821.html": {
+    "hash": "ff0f64115e3a38ef0e229a4243157fec",
+    "visto_em": "2026-10-01"
+  },
+  "https://finance.yahoo.com/markets/article/ai-or-bust-tech-trade-powered-stocks-through-volatile-september-224759194.html": {
+    "hash": "61c66ba4ffaf18526b44991210cb4edd",
+    "visto_em": "2026-10-01"
+  },
+  "https://finance.yahoo.com/quote/DLR/news": {
+    "hash": "53120c67532570a5b72ad64349c18e7c",
+    "visto_em": "2026-10-01"
   }
 }

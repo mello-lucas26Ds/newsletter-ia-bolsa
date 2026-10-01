@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-01",
+    "total_noticias": 7,
+    "gerado_em": "2026-10-01T09:44:24.981370"
+  },
+  "noticias": [
+    {
+      "titulo": "CLOU Stock Price | Global X Cloud Computing ETF",
+      "url": "https://www.investing.com/etfs/global-x-cloud-computing",
+      "fonte": "investing.com",
+      "data": "2026-09-28",
+      "resumo": "The fund invests in stocks of companies … data center real estate investment trusts (\"REITs\"), and/or cloud and edge computing infrastructure and hardware,.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia, Broadcom, and AMD Investors Need to Have Oct. 15 Circled on Their Calendars",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-broadcom-amd-investors-oct-230400490.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-30",
+      "resumo": "Taiwan Semiconductor's stock tends to reach about 30 times forward earnings at the end of each year.  With the stock trading for about 27 times forward earnings now, it's priced in the range where it should be. \n\nTSM PE Ratio (Forward) Chart\n\nTSM PE Ratio (Forward) data by YCharts.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Our AI models flagged six mid-cap winners up 30%-87% - October’s list is live",
+      "url": "https://www.investing.com/news/stock-market-news/our-ai-models-flagged-six-midcap-winners-up-3087--octobers-list-is-live-4926242",
+      "fonte": "investing.com",
+      "data": "2026-10-01",
+      "resumo": "After Hours·06:21:50\n\n1D\n\n1W\n\n1M\n\n6M\n\n1Y\n\n5Y\n\nMax\n\n, up 30. 5% since our AI models picked it on July 1, 2026.  The strongest confirmation arrived on August 6, when Insight reported Q2 FY2026 adjusted EPS of $3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 1.37%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-137-5613629",
+      "fonte": "in.investing.com",
+      "data": "2026-09-30",
+      "resumo": "ProPicks AI evaluates EMBJ3 alongside thousands of other companies every month using 100+ financial metrics.  Using powerful AI to generate exciting stock ideas,.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "If an AI Bubble Crashes the Stock Market, Warren Buffett ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-crashes-stock-market-092000821.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-30",
+      "resumo": "the tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) is up 111% over that period.  AI users will have to spend at least $1 trillion per year for hyperscalers.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "'AI or bust:' Tech trade powered stocks through volatile ...",
+      "url": "https://finance.yahoo.com/markets/article/ai-or-bust-tech-trade-powered-stocks-through-volatile-september-224759194.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-30",
+      "resumo": "The Nasdaq Composite (^IXIC) gained 1. 8% after hitting a new peak on Sept.  22.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Trust, Inc. (DLR)",
+      "url": "https://finance.yahoo.com/quote/DLR/news",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-01",
+      "resumo": "Digital Realty is leaning harder into AI infrastructure, with new partnerships and network tools aimed at making its data centers more useful for.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
