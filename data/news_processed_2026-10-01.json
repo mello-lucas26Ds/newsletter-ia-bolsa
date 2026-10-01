@@ -3,15 +3,15 @@
     "versao": "1.0",
     "data": "2026-10-01",
     "total_noticias": 7,
-    "gerado_em": "2026-10-01T09:44:24.981370"
+    "gerado_em": "2026-10-01T16:54:13.593293"
   },
   "noticias": [
     {
-      "titulo": "CLOU Stock Price | Global X Cloud Computing ETF",
-      "url": "https://www.investing.com/etfs/global-x-cloud-computing",
-      "fonte": "investing.com",
-      "data": "2026-09-28",
-      "resumo": "The fund invests in stocks of companies … data center real estate investment trusts (\"REITs\"), and/or cloud and edge computing infrastructure and hardware,.",
+      "titulo": "Nasdaq, S&P 500, Dow Futures Mixed Even As Micron Fuels AI Rally: ORCL, NKE, TSLA, RKLB, ASTS, PSKY In Focus",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-085019546.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-01",
+      "resumo": "Oracle (ORCL):Shares rose over 2% in early premarket following reports that China's Tencent leased 100,000 chips from Oracle's Southeast Asia data centers to boost its AI infrastructure. \n\nAlphabet (GOOGL):Shares rose over 2% in early premarket trade after CEO Sundar Pichai previewed the new \"Gemini 4 Argon\" AI model, designed for advanced internal software, cyber, and quantum workflows. \n\nMeta Platforms (META):Sensor Tower reported that Meta's new Muse AI agent surpassed 5 million downloads in under three weeks, outpacing early adoption rates of competing AI assistants.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -21,82 +21,82 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Nvidia, Broadcom, and AMD Investors Need to Have Oct. 15 Circled on Their Calendars",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-broadcom-amd-investors-oct-230400490.html",
+      "titulo": "European AI-linked stocks rally After Anthropic’s $11.6 bln computing deal",
+      "url": "https://finance.yahoo.com/technology/ai/articles/european-ai-linked-stocks-rally-121430083.html",
       "fonte": "finance.yahoo.com",
+      "data": "2026-09-25",
+      "resumo": "18.    News • 2 days ago The Dow, S&P 500, and Nasdaq drifted higher as oil prices continued to retreat\n19.    News • 3 days ago Why Muse is the new darling of Meta investors.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited ...",
+      "url": "https://finance.yahoo.com/quote/TSM/analysis",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-01",
+      "resumo": "stock analyst estimates, including earnings and revenue, Year Ago EPS 2. 92 3. 14.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited ...",
+      "url": "https://finance.yahoo.com/quote/TSMC34.SA",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-01",
+      "resumo": "Find the latest Taiwan Semiconductor Manufacturing Company Limited (TSMC34. SA) stock.  EPS (TTM) 8.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock market today: Live updates",
+      "url": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
+      "fonte": "cnbc.com",
       "data": "2026-09-30",
-      "resumo": "Taiwan Semiconductor's stock tends to reach about 30 times forward earnings at the end of each year.  With the stock trading for about 27 times forward earnings now, it's priced in the range where it should be. \n\nTSM PE Ratio (Forward) Chart\n\nTSM PE Ratio (Forward) data by YCharts.",
+      "resumo": "The company said the model sets a new record in real-world software engineering, ties for first in cybersecurity, and leads another benchmark measuring performance across finance, legal, and other professional tasks. \n\nAlphabet shares rose more than 1% after hours. \n\nFor more, read the full story here.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Data Centers Got the AI Hype—But Office REITs May Get the Rent Hikes",
+      "url": "https://finance.yahoo.com/real-estate/articles/data-centers-got-ai-hype-161500282.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-27",
+      "resumo": "SL Green, BXP and Hudson Pacific show improving fundamentals and trade far more cheaply than richly valued data center REITs like Equinix and Digital Realty. \n\nInvestors should focus on high-quality buildings in recovering markets rather than the office sector broadly, since the rebound remains uneven. \n\nAsk most investors about office REITs, and you'll hear some variation on a bear case in three parts that started in 2020.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "North American M&A Drops 23% as Megadeals and AI Sentiment Cool - WSJ",
+      "url": "https://www.wsj.com/business/earnings/global-dealmaking-cools-in-third-quarter-53a43430",
+      "fonte": "wsj.com",
+      "data": "2026-10-01",
+      "resumo": "Fragile artificial-intelligence sentiment and higher borrowing costs helped dampen merger-and-acquisition activity in the third quarter, but giant AI deals mean 2026 is still on track to be the second-highest-volume year for global M&A ever, according to Mergermarket data. \n\nNorth American M&A dropped in the third quarter to $560 billion—a 23% fall on the same period last year.  The North American segment is dominated by activity from the U.",
       "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Our AI models flagged six mid-cap winners up 30%-87% - October’s list is live",
-      "url": "https://www.investing.com/news/stock-market-news/our-ai-models-flagged-six-midcap-winners-up-3087--octobers-list-is-live-4926242",
-      "fonte": "investing.com",
-      "data": "2026-10-01",
-      "resumo": "After Hours·06:21:50\n\n1D\n\n1W\n\n1M\n\n6M\n\n1Y\n\n5Y\n\nMax\n\n, up 30. 5% since our AI models picked it on July 1, 2026.  The strongest confirmation arrived on August 6, when Insight reported Q2 FY2026 adjusted EPS of $3.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil shares higher at close of trade; Bovespa up 1.37%",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-137-5613629",
-      "fonte": "in.investing.com",
-      "data": "2026-09-30",
-      "resumo": "ProPicks AI evaluates EMBJ3 alongside thousands of other companies every month using 100+ financial metrics.  Using powerful AI to generate exciting stock ideas,.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "If an AI Bubble Crashes the Stock Market, Warren Buffett ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-crashes-stock-market-092000821.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-30",
-      "resumo": "the tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) is up 111% over that period.  AI users will have to spend at least $1 trillion per year for hyperscalers.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "'AI or bust:' Tech trade powered stocks through volatile ...",
-      "url": "https://finance.yahoo.com/markets/article/ai-or-bust-tech-trade-powered-stocks-through-volatile-september-224759194.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-30",
-      "resumo": "The Nasdaq Composite (^IXIC) gained 1. 8% after hitting a new peak on Sept.  22.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Digital Realty Trust, Inc. (DLR)",
-      "url": "https://finance.yahoo.com/quote/DLR/news",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-01",
-      "resumo": "Digital Realty is leaning harder into AI infrastructure, with new partnerships and network tools aimed at making its data centers more useful for.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"

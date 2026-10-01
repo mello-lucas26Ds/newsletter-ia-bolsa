@@ -434,5 +434,33 @@
   "https://finance.yahoo.com/quote/DLR/news": {
     "hash": "53120c67532570a5b72ad64349c18e7c",
     "visto_em": "2026-10-01"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-085019546.html": {
+    "hash": "4ee91da40644c9719396fec714c145ae",
+    "visto_em": "2026-10-01"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/european-ai-linked-stocks-rally-121430083.html": {
+    "hash": "1886950b191e31cd22b7bd9bf462d252",
+    "visto_em": "2026-10-01"
+  },
+  "https://finance.yahoo.com/quote/TSM/analysis": {
+    "hash": "a0d5d7006c9f0106ae070d7f2f12a692",
+    "visto_em": "2026-10-01"
+  },
+  "https://finance.yahoo.com/quote/TSMC34.SA": {
+    "hash": "bb00473cd829b89c63a20f00fc9eab29",
+    "visto_em": "2026-10-01"
+  },
+  "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html": {
+    "hash": "c08b489234bd4b52fa3bf0a629a9839f",
+    "visto_em": "2026-10-01"
+  },
+  "https://finance.yahoo.com/real-estate/articles/data-centers-got-ai-hype-161500282.html": {
+    "hash": "a611f09b32aaa4e6aedb055a084b303c",
+    "visto_em": "2026-10-01"
+  },
+  "https://www.wsj.com/business/earnings/global-dealmaking-cools-in-third-quarter-53a43430": {
+    "hash": "be30d4c3c829f7f4c6a865d7834e045a",
+    "visto_em": "2026-10-01"
   }
 }
