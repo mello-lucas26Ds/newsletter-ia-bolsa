@@ -3,15 +3,15 @@
     "versao": "1.0",
     "data": "2026-10-02",
     "total_noticias": 6,
-    "gerado_em": "2026-10-02T09:18:57.464353"
+    "gerado_em": "2026-10-02T16:07:28.526777"
   },
   "noticias": [
     {
-      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.46%",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-046-5615641",
-      "fonte": "in.investing.com",
+      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & ...",
+      "url": "https://ca.finance.yahoo.com/quote/DLR",
+      "fonte": "ca.finance.yahoo.com",
       "data": "2026-10-02",
-      "resumo": "The AI has no bias—it simply identifies which stocks offer the best risk-reward based on current data with notable past winners that include Super Micro.",
+      "resumo": "Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers.  The shares are a component of the S&P 500, and DLR's.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -21,11 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "C3.ai, Inc. (AI) stock price, news, quote and history",
-      "url": "https://uk.finance.yahoo.com/quote/AI",
-      "fonte": "uk.finance.yahoo.com",
-      "data": "2026-10-01",
-      "resumo": "C3. ai, Inc.  (AI) 11.",
+      "titulo": "DLR Digital Realty Trust, Inc.",
+      "url": "https://finance.yahoo.com/quote/DLR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-02",
+      "resumo": "Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers.  DLR's market cap is about $72 billion..",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -35,11 +35,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.37% By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-137-4925874",
-      "fonte": "investing.com",
+      "titulo": "Digital Realty Sees Agentic AI Fuel Record Interconnection Demand",
+      "url": "https://finance.yahoo.com/technology/ai/articles/digital-realty-sees-agentic-ai-210207973.html",
+      "fonte": "finance.yahoo.com",
       "data": "2026-09-30",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| CTVA | 12.",
+      "resumo": "## About Digital Realty Trust (NYSE:DLR)\n\nDigital Realty Trust, Inc is a real estate investment trust that owns, operates and develops data centers and related digital infrastructure.  The company provides facilities and technology environments that support the computing, storage, networking and connectivity needs of enterprises, cloud service providers, telecommunications companies and other organizations. \n\nThrough its PlatformDIGITAL platform, Digital Realty offers data center colocation, interconnection and hyperscale data center solutions.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -49,11 +49,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.46% By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-046-4928350",
+      "titulo": "Brazil Index Index Today (IBRX) - Investing.com",
+      "url": "https://www.investing.com/indices/brazil-index",
       "fonte": "investing.com",
-      "data": "2026-10-01",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| CTVA | 12.",
+      "data": "2026-09-28",
+      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| AZZA3  Azzas 2154 | 18. 60+1. 22+7.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -63,12 +63,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct. 15",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-manufacturing-stock-225000459.html",
+      "titulo": "Tempus AI, Inc. (TEM) Stock Price, News, Quote & History",
+      "url": "https://finance.yahoo.com/quote/TEM",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-01",
-      "resumo": "Motley Fool\n\n# Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct.  15\n\nKeithen Drury, The Motley Fool\n\n TSM\n\n  +0. 66%\n NVDA\n\n  +1.",
-      "sentimento": "bullish",
+      "resumo": "3. 72 PE Ratio (TTM) -- EPS (TTM) -1. 35 Earnings Date (est.",
+      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -77,11 +77,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Three AI picks are up 22%-106% since July, the HR stock leading them By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/three-ai-picks-are-up-22106-since-july-the-hr-stock-leading-them-4928880",
-      "fonte": "investing.com",
-      "data": "2026-10-02",
-      "resumo": "▲+0. 49(+1. 35%)\n\nAfter Hours·23:20:35\n\nIn this article\n\nThat gain was not a straight line.",
+      "titulo": "How Alphabet (GOOGL) Answers the AI ROI Question",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-answers-ai-roi-152445608.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-01",
+      "resumo": "Cambiar Opportunity Fund, managed by Cambiar Investors, published its Q2 2026 investor letter.  The letter can be downloaded here.  U.",
       "sentimento": "bullish",
       "tags": [
         "AI",

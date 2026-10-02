@@ -1,106 +1,93 @@
 # Newsletter IA Bolsa — 2026-10-02
 
-**Gerado em:** 02/10/2026 09:18
+**Gerado em:** 02/10/2026 16:07
 **Total:** 6 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Brazil shares higher at close of trade; Bovespa up 0.46%
+## 1. Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & ...
 
-**Fonte:** in.investing.com  
+**Fonte:** ca.finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The AI has no bias—it simply identifies which stocks offer the best risk-reward based on current data with notable past winners that include Super Micro.
+Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers.  The shares are a component of the S&P 500, and DLR's.
 
-[Ler noticia completa](https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-046-5615641)
+[Ler noticia completa](https://ca.finance.yahoo.com/quote/DLR)
 
 ---
 
-## 2. C3.ai, Inc. (AI) stock price, news, quote and history
+## 2. DLR Digital Realty Trust, Inc.
 
-**Fonte:** uk.finance.yahoo.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-C3. ai, Inc.  (AI) 11.
+Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers.  DLR's market cap is about $72 billion..
 
-[Ler noticia completa](https://uk.finance.yahoo.com/quote/AI)
-
----
-
-## 3. Brazil stocks higher at close of trade; Bovespa up 1.37% By Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-| Name | Last | Chg.  % | Vol.  |  |
- ---  --- 
-| CTVA | 12.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-137-4925874)
+[Ler noticia completa](https://finance.yahoo.com/quote/DLR)
 
 ---
 
-## 4. Brazil stocks higher at close of trade; Bovespa up 0.46% By Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-| Name | Last | Chg.  % | Vol.  |  |
- ---  --- 
-| CTVA | 12.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-046-4928350)
-
----
-
-## 5. Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct. 15
+## 3. Digital Realty Sees Agentic AI Fuel Record Interconnection Demand
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Motley Fool
+## About Digital Realty Trust (NYSE:DLR)
 
-# Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct.  15
+Digital Realty Trust, Inc is a real estate investment trust that owns, operates and develops data centers and related digital infrastructure.  The company provides facilities and technology environments that support the computing, storage, networking and connectivity needs of enterprises, cloud service providers, telecommunications companies and other organizations. 
 
-Keithen Drury, The Motley Fool
+Through its PlatformDIGITAL platform, Digital Realty offers data center colocation, interconnection and hyperscale data center solutions.
 
- TSM
-
-  +0. 66%
- NVDA
-
-  +1.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-manufacturing-stock-225000459.html)
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/digital-realty-sees-agentic-ai-210207973.html)
 
 ---
 
-## 6. Three AI picks are up 22%-106% since July, the HR stock leading them By Investing.com
+## 4. Brazil Index Index Today (IBRX) - Investing.com
 
 **Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-▲+0. 49(+1. 35%)
+## Top Gainers
 
-After Hours·23:20:35
+| Name | Price |
+ --- |
+| AZZA3  Azzas 2154 | 18. 60+1. 22+7.
 
-In this article
+[Ler noticia completa](https://www.investing.com/indices/brazil-index)
 
-That gain was not a straight line.
+---
 
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/three-ai-picks-are-up-22106-since-july-the-hr-stock-leading-them-4928880)
+## 5. Tempus AI, Inc. (TEM) Stock Price, News, Quote & History
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+3. 72 PE Ratio (TTM) -- EPS (TTM) -1. 35 Earnings Date (est.
+
+[Ler noticia completa](https://finance.yahoo.com/quote/TEM)
+
+---
+
+## 6. How Alphabet (GOOGL) Answers the AI ROI Question
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Cambiar Opportunity Fund, managed by Cambiar Investors, published its Q2 2026 investor letter.  The letter can be downloaded here.  U.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/alphabet-googl-answers-ai-roi-152445608.html)
 
 ---

@@ -2,10 +2,94 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-02",
-    "total_noticias": 76,
-    "gerado_em": "2026-10-02T09:18:57.466073"
+    "total_noticias": 82,
+    "gerado_em": "2026-10-02T16:07:28.528385"
   },
   "noticias": [
+    {
+      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & ...",
+      "url": "https://ca.finance.yahoo.com/quote/DLR",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-10-02",
+      "resumo": "Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers.  The shares are a component of the S&P 500, and DLR's.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DLR Digital Realty Trust, Inc.",
+      "url": "https://finance.yahoo.com/quote/DLR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-02",
+      "resumo": "Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers.  DLR's market cap is about $72 billion..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Sees Agentic AI Fuel Record Interconnection Demand",
+      "url": "https://finance.yahoo.com/technology/ai/articles/digital-realty-sees-agentic-ai-210207973.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-30",
+      "resumo": "## About Digital Realty Trust (NYSE:DLR)\n\nDigital Realty Trust, Inc is a real estate investment trust that owns, operates and develops data centers and related digital infrastructure.  The company provides facilities and technology environments that support the computing, storage, networking and connectivity needs of enterprises, cloud service providers, telecommunications companies and other organizations. \n\nThrough its PlatformDIGITAL platform, Digital Realty offers data center colocation, interconnection and hyperscale data center solutions.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil Index Index Today (IBRX) - Investing.com",
+      "url": "https://www.investing.com/indices/brazil-index",
+      "fonte": "investing.com",
+      "data": "2026-09-28",
+      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| AZZA3  Azzas 2154 | 18. 60+1. 22+7.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tempus AI, Inc. (TEM) Stock Price, News, Quote & History",
+      "url": "https://finance.yahoo.com/quote/TEM",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-01",
+      "resumo": "3. 72 PE Ratio (TTM) -- EPS (TTM) -1. 35 Earnings Date (est.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "How Alphabet (GOOGL) Answers the AI ROI Question",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-answers-ai-roi-152445608.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-01",
+      "resumo": "Cambiar Opportunity Fund, managed by Cambiar Investors, published its Q2 2026 investor letter.  The letter can be downloaded here.  U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Brazil shares higher at close of trade; Bovespa up 0.46%",
       "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-046-5615641",
