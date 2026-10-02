@@ -1,11 +1,95 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-10-01",
-    "total_noticias": 85,
-    "gerado_em": "2026-10-01T16:54:13.594700"
+    "data": "2026-10-02",
+    "total_noticias": 76,
+    "gerado_em": "2026-10-02T09:18:57.466073"
   },
   "noticias": [
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.46%",
+      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-046-5615641",
+      "fonte": "in.investing.com",
+      "data": "2026-10-02",
+      "resumo": "The AI has no bias—it simply identifies which stocks offer the best risk-reward based on current data with notable past winners that include Super Micro.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "C3.ai, Inc. (AI) stock price, news, quote and history",
+      "url": "https://uk.finance.yahoo.com/quote/AI",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-10-01",
+      "resumo": "C3. ai, Inc.  (AI) 11.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.37% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-137-4925874",
+      "fonte": "investing.com",
+      "data": "2026-09-30",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| CTVA | 12.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.46% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-046-4928350",
+      "fonte": "investing.com",
+      "data": "2026-10-01",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| CTVA | 12.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct. 15",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-manufacturing-stock-225000459.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-01",
+      "resumo": "Motley Fool\n\n# Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct.  15\n\nKeithen Drury, The Motley Fool\n\n TSM\n\n  +0. 66%\n NVDA\n\n  +1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Three AI picks are up 22%-106% since July, the HR stock leading them By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/three-ai-picks-are-up-22106-since-july-the-hr-stock-leading-them-4928880",
+      "fonte": "investing.com",
+      "data": "2026-10-02",
+      "resumo": "▲+0. 49(+1. 35%)\n\nAfter Hours·23:20:35\n\nIn this article\n\nThat gain was not a straight line.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq, S&P 500, Dow Futures Mixed Even As Micron Fuels AI Rally: ORCL, NKE, TSLA, RKLB, ASTS, PSKY In Focus",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-085019546.html",
@@ -245,20 +329,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Realty Income vs. Prologis: Which REIT Has the Winning Edge?",
-      "url": "https://finance.yahoo.com/real-estate/articles/realty-income-vs-prologis-reit-144700146.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-24",
-      "resumo": "Growth is becoming more diversified as well.  Realty Income's private-capital strategy now includes partnerships with Apollo and KKR, while its Cloud Capital venture opens another path into hyperscale data centers.  Management says these structures can add fee income and reduce dependence on public equity issuance, an important advantage for a capital-intensive business.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Stocks Rise Pre-Bell as Investors Weigh Growing AI Safety ...",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-investors-120013584.html",
       "fonte": "finance.yahoo.com",
@@ -447,20 +517,6 @@
       "data": "2026-09-27",
       "resumo": "Picked by AI Undervalued Stocks.  The Bovespa live stock price is 182,991.  IBOV is the ticker symbol of the Bovespa index.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.99% By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-099-4916175",
-      "fonte": "investing.com",
-      "data": "2026-09-24",
-      "resumo": "## Latest comments\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 1,069.",
-      "sentimento": "bearish",
       "tags": [
         "AI",
         "Market"
@@ -763,20 +819,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.99%",
-      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-099-4882212",
-      "fonte": "uk.investing.com",
-      "data": "2026-09-24",
-      "resumo": "AI-picked tech stocks have notched a +213% return … the Bovespa declined 0. 99%.  Declining stocks outnumbered rising ones by 567 to 367 and 47 ended unchanged.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Meta and Microsoft led tech stocks higher last week despite soaring bond yields - cnbc.com",
       "url": "https://www.cnbc.com/2026/09/26/meta-microsoft-led-tech-higher-this-week-despite-soaring-bond-yields.html",
       "fonte": "cnbc.com",
@@ -903,20 +945,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "DigiCo Infrastructure REIT (DGT.XA)",
-      "url": "https://finance.yahoo.com/quote/DGT.XA",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-24",
-      "resumo": "DigiCo Infrastructure REIT (DGT) is a diversified owner, operator and developer of data centres, with a global portfolio and broad investment mandate across.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Meet the Magnificent Semiconductor Stock Crushing Nvidia in 2026",
       "url": "https://finance.yahoo.com/markets/stocks/articles/meet-magnificent-semiconductor-stock-crushing-202000589.html",
       "fonte": "finance.yahoo.com",
@@ -950,20 +978,6 @@
       "fonte": "reuters.com",
       "data": "2026-09-25",
       "resumo": "According to preliminary data, the S&P 500 (. SPX) gained 37. 96 points, or ​0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Navatar Turns Claude and Salesforce Into a Live AI Deal ...",
-      "url": "https://markets.businessinsider.com/news/stocks/navatar-turns-claude-and-salesforce-into-a-live-ai-deal-engine-for-private-equity-and-m-a-1036569772",
-      "fonte": "markets.businessinsider.com",
-      "data": "2026-09-24",
-      "resumo": "NEW YORK and LONDON, Sept.  24, 2026 (GLOBE NEWSWIRE) -- Navatar today announced new AI capabilities that turn Claude and Salesforce into a live AI Deal Operating System for private equity and M&A firms.  Navatar brings together the activity, intelligence, and signals happening across Claude, approved AI models, Salesforce CRM, Outlook, market-data sources, and deal workflows—giving the firm a shared, current view of what is happening around every company, relationship, deal and fund.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1015,67 +1029,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TSMC (TSM) Advances While Market Declines: Some Information for Investors",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-advances-while-market-204506873.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-24",
-      "resumo": "Learn more\n\nIn the latest trading session, TSMC (TSM) closed at $451. 15, marking a +1. 03% move from the previous day.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor (TSM): The Key Enabler of AI Chips and a Durable Long-Term Share Gainer",
-      "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-key-enabler-143557399.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-24",
-      "resumo": "> \"Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) also contributed meaningfully to our performance.  Advanced chip manufacturing has become one of the most strategically vital links in the global economy, and that importance only deepens as AI infrastructure spending accelerates.  TSMC sits at the center of that buildout, fabricating the most advanced silicon for the world's leading designers (i.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Digital Realty vs. Equinix: Which AI Data-Center REIT Is the ...",
       "url": "https://finance.yahoo.com/real-estate/articles/digital-realty-vs-equinix-ai-035955863.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-09-25",
       "resumo": "Trending tickers \n       COST Costco Wholesale Corporation 896. 48-8. 22(-0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "COGNEX CORP (1CGNX.MI) Q1 FY2026 earnings call transcript",
-      "url": "https://finance.yahoo.com/quote/1CGNX.MI/earnings/1CGNX.MI-Q1-2026-earnings_call-555844.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-24",
-      "resumo": "19.    News • 3 days ago The Nasdaq led the Dow and S&P 500 higher as falling oil prices boosted stocks\n20.    News • 3 days ago Meta stock rockets more than 10% on price target increase and Muse AI agent downloads\n21.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Ride The Momentum: 3 Top AI Stocks Trading Above 50-Day Moving Averages - Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4949506-ride-the-momentum-3-top-ai-stocks-trading-above-50-day-moving-averages",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-24",
-      "resumo": "AI is back.  The Nasdaq notched a new high, lifted by an AI chip surge, as stocks continue to prove resilient in the face of external shocks. \n Nasdaq-100 earnings are growing at their fastest pace in more than 15 years, providing a strong fundamental backdrop for the AI-led rally.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1099,96 +1057,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TD SYNNEX Q3 2026 slides: record results mask margin, cash ...",
-      "url": "https://ng.investing.com/news/stock-market-news/td-synnex-q3-2026-slides-record-results-mask-margin-cash-concerns-93CH-2708341",
-      "fonte": "ng.investing.com",
-      "data": "2026-09-24",
-      "resumo": "AI-picked tech stocks have notched a +213% return.  Software grew 23%, PCs increased 21%, and networking expanded 19%.  mobile over-year to $7.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Oracle Japan Q1 FY27 slides: cloud revenue surges 32%, margins ...",
-      "url": "https://ng.investing.com/news/stock-market-news/oracle-japan-q1-fy27-slides-cloud-revenue-surges-32-margins-expand-93CH-2707475",
-      "fonte": "ng.investing.com",
-      "data": "2026-09-24",
-      "resumo": "93% hit rate — these AI-picked tech stocks have notched a +213% return · Sterling today: Pound steadies as stretched dollar rally meets Treasury yield peak..",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Here's how bearish short-sellers are navigating the shifting AI trade - Business Insider",
-      "url": "https://www.businessinsider.com/short-sellers-ai-bearish-bets-sp-global-chips-hardware-2026-9",
-      "fonte": "businessinsider.com",
-      "data": "2026-09-24",
-      "resumo": "The more discerning eye short sellers are displaying mirrors the uncertainty still lingering throughout the wider AI trade with regard to monetization.  S&P Global said that its analysis found that less than half of enterprise AI projects launched in the last year are on track to generate a positive return in 12 months. \n\n\"Against that backdrop, securities-lending activity indicates neither a wholesale rejection of AI nor an indiscriminate short squeeze.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "STMicroelectronics N.V. (STMMI.MI) latest stock news and headlines – Yahoo Finance",
       "url": "https://uk.finance.yahoo.com/quote/STMMI.MI/news",
       "fonte": "uk.finance.yahoo.com",
       "data": "2026-09-25",
       "resumo": "Can ADI's Industrial Segment Sustain Its Momentum Through 2026. \n\n### Can ADI's Industrial Segment Sustain Its Momentum Through 2026. \n\nZacks Industry Outlook NVIDIA, Texas, STMicroelectronics and Intel\n\n### Zacks Industry Outlook NVIDIA, Texas, STMicroelectronics and Intel\n\nChip Stocks Mixed After Monday Rout\n\n### Chip Stocks Mixed After Monday Rout\n\nEuropean Stocks Fall as AI Safety Warnings and Rate Expectations Weigh on Markets: DAX, CAC, FTSE100\n\n### European Stocks Fall as AI Safety Warnings and Rate Expectations Weigh on Markets: DAX, CAC, FTSE100\n\n### Performance overview\n\n| Return | STMMI.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM)",
-      "url": "https://ca.finance.yahoo.com/quote/TSM",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-09-24",
-      "resumo": "TSMC Earnings: Raise Fair Value Estimate by 27% to TWD 3,440 After a Beat-and-Raise Quarter.  Taiwan Semiconductor Manufacturing Co.  is the world's largest.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Buy this cloud infrastructure stock as it leans into short-term contracts, JPMorgan says - CNBC",
-      "url": "https://www.cnbc.com/2026/09/24/buy-coreweave-as-it-leans-into-short-term-contracts-jpmorgan-says-.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-24",
-      "resumo": "CoreWeave is likely to rally again as it leans into short-term contracts amid sustained cloud compute demand, according to JPMorgan.  The investment bank upgraded CoreWeave to overweight from neutral on Thursday, and raised its 12-month price target by 4%, to $125 from $120.  The new target implies nearly 44% upside from Wednesday's close.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Navatar Turns Claude and Salesforce Into a Live AI Deal Engine for Private Equity and M&A",
-      "url": "https://finance.yahoo.com/technology/ai/articles/navatar-turns-claude-salesforce-live-050000532.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-24",
-      "resumo": "That trade-off is no longer necessary.  Navatar is designed to capture the intelligence created through the work partners and deal teams already do.  Activity from approved sources such as Outlook, Salesforce, research workflows, deal materials, and AI interactions can be connected to the relevant company, contact, relationship, opportunity, or fund record.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"

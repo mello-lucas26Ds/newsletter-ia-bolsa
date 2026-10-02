@@ -1,64 +1,4 @@
 {
-  "https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-with-china-summit-iran-escalation-in-focus-4908205": {
-    "hash": "ab74094dafddcc7ec483224ddf3b593e",
-    "visto_em": "2026-09-24"
-  },
-  "https://finance.yahoo.com/markets/article/nasdaq-rally-hasnt-stopped-these-tech-stocks-from-flashing-warning-signs-141710781.html": {
-    "hash": "6905319d804adc2a4487da4f7f13dbe0",
-    "visto_em": "2026-09-24"
-  },
-  "https://finance.yahoo.com/quote/SRVR": {
-    "hash": "43568a47634d85187bf09722a8087e54",
-    "visto_em": "2026-09-24"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/navatar-turns-claude-salesforce-live-050000532.html": {
-    "hash": "5d8b8839d795ace994e8c1096f5d24fb",
-    "visto_em": "2026-09-24"
-  },
-  "https://finance.yahoo.com/technology/articles/western-europe-data-center-market-090000365.html": {
-    "hash": "94fe752222a3c305a7e106e8aaf9a2f4",
-    "visto_em": "2026-09-24"
-  },
-  "https://finance.yahoo.com/sectors/technology/semiconductors": {
-    "hash": "f2d9041db83b78b50f17f67048493a5f",
-    "visto_em": "2026-09-24"
-  },
-  "https://www.investing.com/news/stock-market-news/tsmc-stock-analysis-fundamentals-valuation-and-key-risks-93CH-4913682": {
-    "hash": "fbc0db7300a13a46bf925e876d7ed528",
-    "visto_em": "2026-09-24"
-  },
-  "https://www.reuters.com/video/watch/idRW463022092026RP1": {
-    "hash": "bb516f8cd64df1fba56f63502ff448d9",
-    "visto_em": "2026-09-24"
-  },
-  "https://ca.finance.yahoo.com/quote/TSM": {
-    "hash": "ca084bf5bbcf0c6a5b4b99ffc7b110e1",
-    "visto_em": "2026-09-24"
-  },
-  "https://www.reuters.com/business/wall-st-futures-rise-ai-stocks-gain-oil-prices-slide-2026-09-21": {
-    "hash": "aafa4a967035bbecc20fe37c8603d3ff",
-    "visto_em": "2026-09-24"
-  },
-  "https://www.cnbc.com/2026/09/24/buy-coreweave-as-it-leans-into-short-term-contracts-jpmorgan-says-.html": {
-    "hash": "4592f54f6f6dcbf7616bd9707ca68a7a",
-    "visto_em": "2026-09-24"
-  },
-  "https://www.businessinsider.com/ai-stocks-winners-losers-agent-economy-meta-muse-chips-consumers-2026-9": {
-    "hash": "cca245bba2f4beceb74e5de8686936aa",
-    "visto_em": "2026-09-24"
-  },
-  "https://br.investing.com/etfs/ishares-automation-robotics-acc": {
-    "hash": "f6075886801a968b6ba72e6d9a460d18",
-    "visto_em": "2026-09-24"
-  },
-  "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/": {
-    "hash": "cd8d64e22a532fde0c1c485986eadee2",
-    "visto_em": "2026-09-24"
-  },
-  "https://www.moneytimes.com.br/agentes-de-ia-como-a-tecnologia-pode-ajudar-empreendedores-e-profissionais-autonomos-a-ganhar-tempo-e-produtividade-lbrdgm092": {
-    "hash": "55a0eec40b49741af66b30ba9bf60a60",
-    "visto_em": "2026-09-24"
-  },
   "https://ph.investing.com/news/stock-market-news/why-is-lumentum-stock-rallying-today-93CH-2595208": {
     "hash": "6e815eb485739345e36ea7a930a133b8",
     "visto_em": "2026-09-25"
@@ -462,5 +402,29 @@
   "https://www.wsj.com/business/earnings/global-dealmaking-cools-in-third-quarter-53a43430": {
     "hash": "be30d4c3c829f7f4c6a865d7834e045a",
     "visto_em": "2026-10-01"
+  },
+  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-046-5615641": {
+    "hash": "16f4b47e49c3921959ac23e025ee8c9f",
+    "visto_em": "2026-10-02"
+  },
+  "https://uk.finance.yahoo.com/quote/AI": {
+    "hash": "9a8c32238e44bd453f938979046cf1f4",
+    "visto_em": "2026-10-02"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-137-4925874": {
+    "hash": "581838537ab62eefdf9886da42190bbf",
+    "visto_em": "2026-10-02"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-046-4928350": {
+    "hash": "581838537ab62eefdf9886da42190bbf",
+    "visto_em": "2026-10-02"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-manufacturing-stock-225000459.html": {
+    "hash": "e099ca2e89f9666e5e92cdb65a04b130",
+    "visto_em": "2026-10-02"
+  },
+  "https://www.investing.com/news/stock-market-news/three-ai-picks-are-up-22106-since-july-the-hr-stock-leading-them-4928880": {
+    "hash": "77985b67eac788f695bbe627c8bf14e0",
+    "visto_em": "2026-10-02"
   }
 }
