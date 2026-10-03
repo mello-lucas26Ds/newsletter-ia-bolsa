@@ -1,172 +1,189 @@
 # Newsletter IA Bolsa — 2026-10-03
 
-**Gerado em:** 03/10/2026 08:50
+**Gerado em:** 03/10/2026 14:35
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Weak Jobs Lift Nasdaq 100 To Record, Micron Fuels AI Rally - NVIDIA (NASDAQ:NVDA), Carnival (NYSE:CCL) - Benzinga
+## 1. CrowdStrike and Palo Alto’s AI Cybersecurity Rally - Palo Alto Networks (NASDAQ:PANW), CrowdStrike Holdin - Benzinga
 
 **Fonte:** benzinga.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-On Wednesday, Micron Technology Inc.  (NASDAQ:MU) showed the AI buildout is still running hot.  Fiscal fourth-quarter revenue hit a record $54.
-
-[Ler noticia completa](https://www.benzinga.com/markets/market-summary/26/10/62146454/wall-street-this-week-weak-jobs-nasdaq-100-record-micron-ai-rally)
-
----
-
-## 2. Nvidia and Micron Can't Make AI Chips Without This Growth Stock. Here's Why It Could Soar.
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Why TSMC stock is a screaming buy
-
-These advantages have resulted in huge earnings for TSMC.  In the most recent quarter, TSMC revenue increased by 34% while earnings per share rose by 77% year over year.  Advanced chips accounted for 77% of the revenue.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/nvidia-micron-cant-ai-chips-112000953.html)
-
----
-
-## 3. Goldman Sachs has a blunt message for AI stock investors
-
-**Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-AI infrastructure stocks posting cumulative earnings estimate increases of 59% since January 2025, compared with just 9% for the S&P 500 overall..
+Its latest results provide a different piece of the AI-security thesis.  Palo Alto said customers are turning to its platforms to secure AI deployments at scale, while CEO Nikesh Arora said advances in AI are elevating cybersecurity on CIO priority lists.  The company added nearly $1 billion of net new next-generation security ARR in its latest quarter and is targeting $20 billion of NGS ARR by fiscal 2030.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-message-ai-153300950.html)
+[Ler noticia completa](https://www.benzinga.com/trading-ideas/long-ideas/26/09/62081742/ai-cybersecurity-stocks-rally)
 
 ---
 
-## 4. Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day
+## 2. AI and Oil Shape Market Leadership in the First Nine Months of 2026
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Nvidia (NVDA) bucked the sector trend, rising more than % after the company, at the center of the artificial intelligence boom, released two new open-source tools to help control rogue AI agents.  The stock also got a lift after the chipmaker announced a whopping $150 billion share buyback authorization. 
+Technology's dominance in 2026 has increasingly been supported by earnings rather than AI enthusiasm alone.  According to the Zacks Earnings Trend report (Sept.  30 update), the tech sector is expected to post 42.
 
-Chip stocks have rebounded from a late-summer slump sparked by concerns about AI overinvestment and, more recently, a potential slowdown in model development flagged by AI titans.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/article/chip-stocks-fall-as-ai-breach-fuels-safety-concerns-but-nvidia-bucks-the-trend-chart-of-the-day-151753993.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ai-oil-shape-market-leadership-180000804.html)
 
 ---
 
-## 5. Stock Market Midday, Oct. 2: Stocks Rally as Weak Jobs Data Cools Fed Rate Hike Bets
+## 3. TSMC (TSM) Exceeds Market Returns: Some Facts to Consider
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Several semiconductor leaders, including Nvidia (NASDAQ:NVDA), set new all-time highs alongside the Nasdaq.  Artificial intelligence (AI) enthusiasm is building again, particularly as investors eye the upcoming Anthropic IPO and the high demand for infrastructure.  Nvidia's $150 billion in share buybacks only adds to confidence that the AI boom will continue.
+The upcoming earnings release of TSMC will be of great interest to investors.  The company's earnings report is expected on October 15, 2026.  The company's upcoming EPS is projected at $4.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-2-164023337.html)
-
----
-
-## 6. Adobe Stock And 2 Other AI Stocks To Own
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-That spending pivot is exactly what the full narrative for Broadcom unpacks.  It shows where Broadcom's AI momentum could be accelerating fastest and where expectations might be stalling. 
-
-NasdaqGS:AVGO Revenue & Expenses Breakdown as at Sep 2026
-
-NasdaqGS:AVGO Revenue & Expenses Breakdown as at Sep 2026
-
- 
-
-## Oracle (ORCL)
-
-Overview: Oracle runs a global cloud and software platform, with Oracle Cloud Infrastructure and embedded AI services powering data, applications, and enterprise workflows.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/adobe-stock-2-other-ai-111256044.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-exceeds-market-returns-204504709.html)
 
 ---
 
-## 7. Equinix, Inc. (EQIX)
+## 4. BOVV11 - Cotação Hoje | It Now Ibovespa ETF - Investing.com
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Equinix Inc.  is a real estate investment trust focusing on interconnected data centers.  It develops data center platforms and architecture for businesses.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/EQIX)
-
----
-
-## 8. 3 High Dividend REIT Stocks Back In Focus As Rate Cut ...
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Overview: American Tower is a large REIT that owns and operates communications towers and data centers, providing long-term, contract-based connectivity.
-
-[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/3-high-dividend-reit-stocks-150927742.html)
-
----
-
-## 9. USIMINAS ON Stock Price Today | BVMF: USIM3 Live - Investing.com
-
-**Fonte:** investing.com  
+**Fonte:** br.investing.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
 B3
 
-|  |
+Moeda em BRL
 
-|  | Symbol |  | Exchange |  | Currency |
-|  | USIM3 | · | B3 | · | BRL | Delayed |
-|  | USIM5 | · | B3 | · | BRL | Delayed |
-|  | USIM6 | · | B3 | · | BRL | Delayed |
-|  | USNZY | · | OTC Markets | · | USD | Delayed |
-|  | USIM_p | · | Frankfurt | · | EUR | Delayed |
-|  | USIM5 | · | LATIBEX | · | EUR | Delayed |
-|  | USIO | · | LATIBEX | · | EUR | Delayed |
+198,35
 
-Currency in BRL
++5,34(+2,76%)
 
-USIM3 Pro Research
+Fechado·
 
-Add to Watchlist
+Var.  Diária
 
-6. 73
+192,30198,87
 
-+0. 12(+1.
+Var.  52 semanas
 
-[Ler noticia completa](https://www.investing.com/equities/usiminas-on)
+143,99205,42
+
+Var.
+
+[Ler noticia completa](https://br.investing.com/etfs/it-now-ibovespa-fundo-de-indice)
 
 ---
 
-## 10. Pacer Data & Infrastructure Real Estate ETF (SRVR)
+## 5. 4 Data Center REITs That Pay Dividends: Where AI Boom Meets Steady Income
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Risk: Your income isn't growing.  The board is putting cash and stock into expansion, including 12. 3 million shares issued in the Blackstone (NYSE:BX) deal, instead of raising the payout.
+
+[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/4-data-center-reits-pay-114543032.html)
+
+---
+
+## 6. Jim Cramer spots overlooked AI stock after $11.6 billion deal
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Jim Cramer said Akamai Technologies (AKAM) might be one of the cheapest ways for investors to play it, committed $11. 6 billion.  Rally AI Agents and Bots.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/jim-cramer-spots-overlooked-ai-010300475.html)
+
+---
+
+## 7. Prediction: 3 AI Stocks That Could Turn $10,000 Into $15,000
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+24/7 Wall St. 
+
+# Prediction: 3 AI Stocks That Could Turn $10,000 Into $15,000
+
+Vandita Jadeja
+
+ MRVL
+ AVGO
+ ORCL
+
+### Quick Read
+
+ Broadcom guides $115B in AI revenue for fiscal 2027 after a 221% YoY surge, while Marvell's CEO says growth is accelerating even as its revenue base expands. 
+ Oracle trades at just 12x fiscal 2028 earnings despite 121% cloud infrastructure growth, $664B in signed backlog, and 97.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/prediction-3-ai-stocks-could-160035054.html)
+
+---
+
+## 8. Micron Earnings Preview: All Eyes on Its Outlook for the Next AI Chip Cycle
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+ProPicks AI: AI-managed stock picks every month, with several picks that have already taken off this month and in the long term. 
+   Warren AI: Investing. com’s AI tool provides real-time market insights, advanced chart analysis, and personalized trading data to help traders make quick, data-driven decisions.
+
+[Ler noticia completa](https://www.investing.com/analysis/micron-q4-earnings-outlook-could-signal-where-the-ai-chip-market-is-headed-200688643)
+
+---
+
+## 9. AI-Fueled Earnings Keep Climbing: 3 Top Stocks With Bullish EPS Revisions | Seeking Alpha
+
+**Fonte:** seekingalpha.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+## Investing Groups
+
+## Portfolios
+
+## Find & Compare
+
+# AI-Fueled Earnings Keep Climbing: 3 Top Stocks With Bullish EPS Revisions
+
+## Summary
+
+Cloud bar chart.  Success in business concept
+
+Getty Images
+
+## AI Infrastructure Boom Defies Market Anxiety
+
+Concerns over AI concentration risk, coupled with rising Treasury yields, have weighed on investor sentiment.  However, despite this angst, corporate earnings are expected to continue growing, supported by a surge in AI-related investments, largely
+
+This article was written by.
+
+[Ler noticia completa](https://seekingalpha.com/article/4951645-ai-fueled-earnings-keep-climbing-3-top-stocks-with-bullish-eps-revisions)
+
+---
+
+## 10. DLR Expands AI Infrastructure Opportunity With Blackfuel Collaboration
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Find the latest Pacer Data & Infrastructure Real Estate ETF (SRVR) stock quote, history, news and other vital information to help you with your stock.
+For Digital Realty, the deal reinforces its strategy of combining data center capacity, power, cooling and interconnection services to capture growing enterprise demand for AI infrastructure.  With a global footprint of more than 300 facilities across 55-plus metros, the company appears well positioned to support customers seeking distributed, scalable AI deployments as inference workloads become more embedded in business applications. 
 
-[Ler noticia completa](https://finance.yahoo.com/quote/SRVR)
+Want the latest recommendations from Zacks Investment Research.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/dlr-expands-ai-infrastructure-opportunity-130000985.html)
 
 ---
