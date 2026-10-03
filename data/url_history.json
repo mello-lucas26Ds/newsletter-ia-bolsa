@@ -1,84 +1,4 @@
 {
-  "https://ph.investing.com/news/stock-market-news/why-is-lumentum-stock-rallying-today-93CH-2595208": {
-    "hash": "6e815eb485739345e36ea7a930a133b8",
-    "visto_em": "2026-09-25"
-  },
-  "https://finance.yahoo.com/quote/1CGNX.MI/earnings/1CGNX.MI-Q1-2026-earnings_call-555844.html": {
-    "hash": "13f141c19b6f80d300327fdacb14a05b",
-    "visto_em": "2026-09-25"
-  },
-  "https://ng.investing.com/news/stock-market-news/reaves-utility-income-fund-stock-hits-52week-low-at-3581-usd-93CH-2702972": {
-    "hash": "35c8c3ce74c74792c21ab45977f85201",
-    "visto_em": "2026-09-25"
-  },
-  "https://seekingalpha.com/article/4949506-ride-the-momentum-3-top-ai-stocks-trading-above-50-day-moving-averages": {
-    "hash": "c1e287d91d4434db82f6f7e73b42f69e",
-    "visto_em": "2026-09-25"
-  },
-  "https://ca.finance.yahoo.com/quote/EQIX/news": {
-    "hash": "f2623e3d5e450ff17bb2091399952d58",
-    "visto_em": "2026-09-25"
-  },
-  "https://ng.investing.com/news/stock-market-news/td-synnex-q3-2026-slides-record-results-mask-margin-cash-concerns-93CH-2708341": {
-    "hash": "b75763f567f72fb372e5b106fbebf4c7",
-    "visto_em": "2026-09-25"
-  },
-  "https://ng.investing.com/news/stock-market-news/oracle-japan-q1-fy27-slides-cloud-revenue-surges-32-margins-expand-93CH-2707475": {
-    "hash": "df7c6c970cf76283b0ae36147a9516e6",
-    "visto_em": "2026-09-25"
-  },
-  "https://www.businessinsider.com/short-sellers-ai-bearish-bets-sp-global-chips-hardware-2026-9": {
-    "hash": "45f064623e91526bf09abe191d93ebb4",
-    "visto_em": "2026-09-25"
-  },
-  "https://uk.finance.yahoo.com/quote/STMMI.MI/news": {
-    "hash": "313ad6974348e5713e466b1e5052a89f",
-    "visto_em": "2026-09-25"
-  },
-  "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-iran-talks-ai-optimism-4911928": {
-    "hash": "64b07cba511f89e036e5eb20e8e310b8",
-    "visto_em": "2026-09-25"
-  },
-  "https://finance.yahoo.com/quote/TSM": {
-    "hash": "9029262113ad25e2893a2c0cf926d5f6",
-    "visto_em": "2026-09-25"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-advances-while-market-204506873.html": {
-    "hash": "f03811808aea2ec7312cc6c1693823a4",
-    "visto_em": "2026-09-25"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-key-enabler-143557399.html": {
-    "hash": "171a355ac90be1c4e05c069c4e2dfd91",
-    "visto_em": "2026-09-25"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-074-4909612": {
-    "hash": "4715f8aebcebb1878b96fd78b117f0e8",
-    "visto_em": "2026-09-25"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-086-4913904": {
-    "hash": "096be119081bdb5d416ba129e4d5987c",
-    "visto_em": "2026-09-25"
-  },
-  "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-086-4880240": {
-    "hash": "8e4a152fddba9fe45e6da52e6e6fa726",
-    "visto_em": "2026-09-25"
-  },
-  "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-074-4876585": {
-    "hash": "307cd3583103b5c637515a002fa75ee6",
-    "visto_em": "2026-09-25"
-  },
-  "https://finance.yahoo.com/real-estate/articles/digital-realty-vs-equinix-ai-035955863.html": {
-    "hash": "3ef07a020f1220d570f2a6ea7353b038",
-    "visto_em": "2026-09-25"
-  },
-  "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-044-4878319": {
-    "hash": "b698a42392f3ee768091e88210330bd4",
-    "visto_em": "2026-09-25"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/meta-meta-stilla-ai-deal-075756581.html": {
-    "hash": "e4ba81b572395f4b2af783a58c2d1cf6",
-    "visto_em": "2026-09-25"
-  },
   "https://finance.yahoo.com/markets/articles/wall-st-futures-pause-ai-101907090.html": {
     "hash": "c9840e083221525f5beeded35ba86957",
     "visto_em": "2026-09-26"
@@ -450,5 +370,45 @@
   "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-answers-ai-roi-152445608.html": {
     "hash": "7d16e2ba8d34dbba61859eea4eced837",
     "visto_em": "2026-10-02"
+  },
+  "https://www.benzinga.com/markets/market-summary/26/10/62146454/wall-street-this-week-weak-jobs-nasdaq-100-record-micron-ai-rally": {
+    "hash": "4f55a3553f8cdb76d530753a4671168e",
+    "visto_em": "2026-10-03"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/nvidia-micron-cant-ai-chips-112000953.html": {
+    "hash": "1885c95196356be70b7c8e6022034da3",
+    "visto_em": "2026-10-03"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-message-ai-153300950.html": {
+    "hash": "7ccaac0d99b085fec00a1fed542ad11e",
+    "visto_em": "2026-10-03"
+  },
+  "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-ai-breach-fuels-safety-concerns-but-nvidia-bucks-the-trend-chart-of-the-day-151753993.html": {
+    "hash": "5f3d2f5319f387e2fd11807aef439bc6",
+    "visto_em": "2026-10-03"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-2-164023337.html": {
+    "hash": "128989b3372ca7983cb7f78b22e34338",
+    "visto_em": "2026-10-03"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/adobe-stock-2-other-ai-111256044.html": {
+    "hash": "8d929a1f23e034182e19a82b8245ab5b",
+    "visto_em": "2026-10-03"
+  },
+  "https://finance.yahoo.com/quote/EQIX": {
+    "hash": "4ed21372d205044e227c64710c4a6b08",
+    "visto_em": "2026-10-03"
+  },
+  "https://finance.yahoo.com/real-estate/articles/3-high-dividend-reit-stocks-150927742.html": {
+    "hash": "34ebbf7e6f91b934ebacbc76a9942ba5",
+    "visto_em": "2026-10-03"
+  },
+  "https://www.investing.com/equities/usiminas-on": {
+    "hash": "26a5cd212ae83ceea294f5d03fa78ef3",
+    "visto_em": "2026-10-03"
+  },
+  "https://finance.yahoo.com/quote/SRVR": {
+    "hash": "46f8c578948408294c029a1da6dca811",
+    "visto_em": "2026-10-03"
   }
 }

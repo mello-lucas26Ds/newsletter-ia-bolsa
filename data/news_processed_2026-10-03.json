@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-03",
+    "total_noticias": 10,
+    "gerado_em": "2026-10-03T08:50:25.676900"
+  },
+  "noticias": [
+    {
+      "titulo": "Weak Jobs Lift Nasdaq 100 To Record, Micron Fuels AI Rally - NVIDIA (NASDAQ:NVDA), Carnival (NYSE:CCL) - Benzinga",
+      "url": "https://www.benzinga.com/markets/market-summary/26/10/62146454/wall-street-this-week-weak-jobs-nasdaq-100-record-micron-ai-rally",
+      "fonte": "benzinga.com",
+      "data": "2026-10-02",
+      "resumo": "On Wednesday, Micron Technology Inc.  (NASDAQ:MU) showed the AI buildout is still running hot.  Fiscal fourth-quarter revenue hit a record $54.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia and Micron Can't Make AI Chips Without This Growth Stock. Here's Why It Could Soar.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-micron-cant-ai-chips-112000953.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-02",
+      "resumo": "## Why TSMC stock is a screaming buy\n\nThese advantages have resulted in huge earnings for TSMC.  In the most recent quarter, TSMC revenue increased by 34% while earnings per share rose by 77% year over year.  Advanced chips accounted for 77% of the revenue.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Goldman Sachs has a blunt message for AI stock investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-message-ai-153300950.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-28",
+      "resumo": "AI infrastructure stocks posting cumulative earnings estimate increases of 59% since January 2025, compared with just 9% for the S&P 500 overall..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day",
+      "url": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-ai-breach-fuels-safety-concerns-but-nvidia-bucks-the-trend-chart-of-the-day-151753993.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-28",
+      "resumo": "Nvidia (NVDA) bucked the sector trend, rising more than % after the company, at the center of the artificial intelligence boom, released two new open-source tools to help control rogue AI agents.  The stock also got a lift after the chipmaker announced a whopping $150 billion share buyback authorization. \n\nChip stocks have rebounded from a late-summer slump sparked by concerns about AI overinvestment and, more recently, a potential slowdown in model development flagged by AI titans.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock Market Midday, Oct. 2: Stocks Rally as Weak Jobs Data Cools Fed Rate Hike Bets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-2-164023337.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-02",
+      "resumo": "Several semiconductor leaders, including Nvidia (NASDAQ:NVDA), set new all-time highs alongside the Nasdaq.  Artificial intelligence (AI) enthusiasm is building again, particularly as investors eye the upcoming Anthropic IPO and the high demand for infrastructure.  Nvidia's $150 billion in share buybacks only adds to confidence that the AI boom will continue.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Adobe Stock And 2 Other AI Stocks To Own",
+      "url": "https://finance.yahoo.com/technology/ai/articles/adobe-stock-2-other-ai-111256044.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-09-26",
+      "resumo": "That spending pivot is exactly what the full narrative for Broadcom unpacks.  It shows where Broadcom's AI momentum could be accelerating fastest and where expectations might be stalling. \n\nNasdaqGS:AVGO Revenue & Expenses Breakdown as at Sep 2026\n\nNasdaqGS:AVGO Revenue & Expenses Breakdown as at Sep 2026\n\n \n\n## Oracle (ORCL)\n\nOverview: Oracle runs a global cloud and software platform, with Oracle Cloud Infrastructure and embedded AI services powering data, applications, and enterprise workflows.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Equinix, Inc. (EQIX)",
+      "url": "https://finance.yahoo.com/quote/EQIX",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-01",
+      "resumo": "Equinix Inc.  is a real estate investment trust focusing on interconnected data centers.  It develops data center platforms and architecture for businesses.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 High Dividend REIT Stocks Back In Focus As Rate Cut ...",
+      "url": "https://finance.yahoo.com/real-estate/articles/3-high-dividend-reit-stocks-150927742.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-02",
+      "resumo": "Overview: American Tower is a large REIT that owns and operates communications towers and data centers, providing long-term, contract-based connectivity.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "USIMINAS ON Stock Price Today | BVMF: USIM3 Live - Investing.com",
+      "url": "https://www.investing.com/equities/usiminas-on",
+      "fonte": "investing.com",
+      "data": "2026-09-28",
+      "resumo": "B3\n\n|  |\n\n|  | Symbol |  | Exchange |  | Currency |\n|  | USIM3 | · | B3 | · | BRL | Delayed |\n|  | USIM5 | · | B3 | · | BRL | Delayed |\n|  | USIM6 | · | B3 | · | BRL | Delayed |\n|  | USNZY | · | OTC Markets | · | USD | Delayed |\n|  | USIM_p | · | Frankfurt | · | EUR | Delayed |\n|  | USIM5 | · | LATIBEX | · | EUR | Delayed |\n|  | USIO | · | LATIBEX | · | EUR | Delayed |\n\nCurrency in BRL\n\nUSIM3 Pro Research\n\nAdd to Watchlist\n\n6. 73\n\n+0. 12(+1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Pacer Data & Infrastructure Real Estate ETF (SRVR)",
+      "url": "https://finance.yahoo.com/quote/SRVR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-02",
+      "resumo": "Find the latest Pacer Data & Infrastructure Real Estate ETF (SRVR) stock quote, history, news and other vital information to help you with your stock.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
