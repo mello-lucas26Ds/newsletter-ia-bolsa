@@ -1,132 +1,73 @@
 # Newsletter IA Bolsa — 2026-10-04
 
-**Gerado em:** 04/10/2026 09:18
-**Total:** 7 noticias
+**Gerado em:** 04/10/2026 15:10
+**Total:** 4 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Taiwan Semiconductor Manufacturing Co. Ltd. ADR (TSM) Stock Price Today - The Wall Street Journal
-
-**Fonte:** wsj.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Barron's Online
-
-Nvidia Supplier FormFactor’s Stock Surges After Deutsche Bank Says It’s a Buy
-
-Barron's Online
-
-TSMC Is Ready to Spend $265 Billion in the U. S.  It Could Spend Even More.
-
-[Ler noticia completa](https://www.wsj.com/market-data/stock/tsm)
-
----
-
-## 2. Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, News, Quote & History - Yahoo Finance
+## 1. Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-### TSMC Earnings: Raise Fair Value Estimate by 27% to TWD 3,440 After a Beat-and-Raise Quarter Taiwan Semiconductor Manufacturing Co.  is the world's largest dedicated chip foundry, with about 70% market share in 2025.  TSMC was founded in 1987 as a joint venture of Philips, the government of Taiwan, and private investors.
+Just last week, the long bond yield reached 5. 69% and the 10-year rate topped 5. 3%, something neither has done since 2002.
 
-[Ler noticia completa](https://finance.yahoo.com/quote/TSM)
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/wall-street-ai-party-edge-130000551.html)
 
 ---
 
-## 3. Brazil shares higher at close of trade; Bovespa up 2.63% By Investing.com
+## 2. Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks
 
-**Fonte:** uk.investing.com  
+**Fonte:** uk.finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-| Name | Last | Chg.  % | Vol.  |  |
- ---  --- 
-| Hemogenyx Pharmaceuticals | 650.
+Just last week, the long bond yield reached 5. 69% and the 10-year rate topped 5. 3%, something neither has done since 2002.
 
-[Ler noticia completa](https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-263-4894081)
+[Ler noticia completa](https://uk.finance.yahoo.com/news/wall-street-ai-party-edge-130000551.html)
 
 ---
 
-## 4. NTT DC REIT (NTDU.SI) Stock Price, News, Quote & History
+## 3. 3 British AI Stocks With Revenue Growth Up To 18%
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** ca.finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-NTT DC REIT (NTDU. SI) stock ・ 0. 9200 -0.
+Market Cap: £132 million
 
-[Ler noticia completa](https://finance.yahoo.com/quote/NTDU.SI)
+Beeks Financial Cloud Group ties directly into the AI Small Caps theme through Market Edge Intelligence, which uses machine learning to analyse trading and infrastructure data for capital markets.  The combination of forecast earnings growth of 79. 82% a year and revenue guidance toward about £40 million illustrates how AI analytics could reshape this relatively small £132 million business, depending on how one unseen pressure on its rich P/E multiple plays out.
+
+[Ler noticia completa](https://ca.finance.yahoo.com/news/3-british-ai-stocks-revenue-230828377.html)
 
 ---
 
-## 5. Tech stocks jump after jobs report miss, Treasury yields ease: AlphaCheck
+## 4. 3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Sectors on Friday, Oct 2. 
+That pricing tension is exactly what the full narrative for Micron Technology unpacks in detail, showing where AI demand could keep Micron's economics accelerating despite potential memory cycle setbacks. 
 
-Sectors on Friday, Oct 2. 
+NasdaqGS:MU Earnings & Revenue History as at Oct 2026
+
+NasdaqGS:MU Earnings & Revenue History as at Oct 2026
 
  
 
-Tech (XLK) stocks gained, with AI chip heavyweight Nvidia (NVDA) nearing a record high.
+## Intel (INTC)
 
-[Ler noticia completa](https://finance.yahoo.com/markets/article/tech-stocks-jump-after-jobs-report-miss-treasury-yields-ease-alphacheck-134916934.html)
+Overview: Intel designs and manufactures CPUs, GPUs, accelerators and related chips that power AI focused data centers, PCs and connected devices worldwide. 
 
----
+Operations: Intel generates about US$33.
 
-## 6. CrowdStrike: Time To Ring The Register (NASDAQ:CRWD) | Seeking Alpha
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Investing Groups
-
-## Portfolios
-
-## Find & Compare
-
-# CrowdStrike: Time To Ring The Register
-
-## Summary
-
-Caucasian female IT engineer working in server room 
-
-Getty Images
-
-Caucasian female IT engineer working in server room
-
-Getty Images
-
-Shares of cybersecurity firm CrowdStrike Holdings, Inc.  (CRWD) have rallied over 40% in the past month, capping an approximate 1,000% run since Jan.  2023, owing to great execution and robust AI tailwinds.
-
-[Ler noticia completa](https://seekingalpha.com/article/4950806-crowdstrike-time-to-ring-the-register)
-
----
-
-## 7. How AI investment has unusually large multiplier effects
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Before you buy NVIDIA: our AI model's stock picks are beating the market by 120%+.  See the list now »
-
-AI-related technology investment is growing about 30% year over year, while other business fixed investment has risen just 0. 8% and residential investment has contracted 3.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/ai-investment-unusually-large-multiplier-205101592.html)
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-watch-011109542.html)
 
 ---

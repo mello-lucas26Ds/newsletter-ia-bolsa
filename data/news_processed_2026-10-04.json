@@ -2,30 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-04",
-    "total_noticias": 7,
-    "gerado_em": "2026-10-04T09:18:00.736475"
+    "total_noticias": 4,
+    "gerado_em": "2026-10-04T15:10:08.606694"
   },
   "noticias": [
     {
-      "titulo": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR (TSM) Stock Price Today - The Wall Street Journal",
-      "url": "https://www.wsj.com/market-data/stock/tsm",
-      "fonte": "wsj.com",
-      "data": "2026-09-29",
-      "resumo": "Barron's Online\n\nNvidia Supplier FormFactor’s Stock Surges After Deutsche Bank Says It’s a Buy\n\nBarron's Online\n\nTSMC Is Ready to Spend $265 Billion in the U. S.  It Could Spend Even More.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/TSM",
+      "titulo": "Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-ai-party-edge-130000551.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-10-02",
-      "resumo": "### TSMC Earnings: Raise Fair Value Estimate by 27% to TWD 3,440 After a Beat-and-Raise Quarter Taiwan Semiconductor Manufacturing Co.  is the world's largest dedicated chip foundry, with about 70% market share in 2025.  TSMC was founded in 1987 as a joint venture of Philips, the government of Taiwan, and private investors.",
+      "data": "2026-10-04",
+      "resumo": "Just last week, the long bond yield reached 5. 69% and the 10-year rate topped 5. 3%, something neither has done since 2002.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -35,11 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil shares higher at close of trade; Bovespa up 2.63% By Investing.com",
-      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-263-4894081",
-      "fonte": "uk.investing.com",
-      "data": "2026-10-02",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| Hemogenyx Pharmaceuticals | 650.",
+      "titulo": "Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks",
+      "url": "https://uk.finance.yahoo.com/news/wall-street-ai-party-edge-130000551.html",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-10-04",
+      "resumo": "Just last week, the long bond yield reached 5. 69% and the 10-year rate topped 5. 3%, something neither has done since 2002.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -49,25 +35,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "NTT DC REIT (NTDU.SI) Stock Price, News, Quote & History",
-      "url": "https://finance.yahoo.com/quote/NTDU.SI",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-02",
-      "resumo": "NTT DC REIT (NTDU. SI) stock ・ 0. 9200 -0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Tech stocks jump after jobs report miss, Treasury yields ease: AlphaCheck",
-      "url": "https://finance.yahoo.com/markets/article/tech-stocks-jump-after-jobs-report-miss-treasury-yields-ease-alphacheck-134916934.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-02",
-      "resumo": "Sectors on Friday, Oct 2. \n\nSectors on Friday, Oct 2. \n\n \n\nTech (XLK) stocks gained, with AI chip heavyweight Nvidia (NVDA) nearing a record high.",
+      "titulo": "3 British AI Stocks With Revenue Growth Up To 18%",
+      "url": "https://ca.finance.yahoo.com/news/3-british-ai-stocks-revenue-230828377.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-10-03",
+      "resumo": "Market Cap: £132 million\n\nBeeks Financial Cloud Group ties directly into the AI Small Caps theme through Market Edge Intelligence, which uses machine learning to analyse trading and infrastructure data for capital markets.  The combination of forecast earnings growth of 79. 82% a year and revenue guidance toward about £40 million illustrates how AI analytics could reshape this relatively small £132 million business, depending on how one unseen pressure on its rich P/E multiple plays out.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -77,25 +49,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "CrowdStrike: Time To Ring The Register (NASDAQ:CRWD) | Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4950806-crowdstrike-time-to-ring-the-register",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-29",
-      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# CrowdStrike: Time To Ring The Register\n\n## Summary\n\nCaucasian female IT engineer working in server room \n\nGetty Images\n\nCaucasian female IT engineer working in server room\n\nGetty Images\n\nShares of cybersecurity firm CrowdStrike Holdings, Inc.  (CRWD) have rallied over 40% in the past month, capping an approximate 1,000% run since Jan.  2023, owing to great execution and robust AI tailwinds.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "How AI investment has unusually large multiplier effects",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-investment-unusually-large-multiplier-205101592.html",
+      "titulo": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-watch-011109542.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-03",
-      "resumo": "Before you buy NVIDIA: our AI model's stock picks are beating the market by 120%+.  See the list now »\n\nAI-related technology investment is growing about 30% year over year, while other business fixed investment has risen just 0. 8% and residential investment has contracted 3.",
+      "resumo": "That pricing tension is exactly what the full narrative for Micron Technology unpacks in detail, showing where AI demand could keep Micron's economics accelerating despite potential memory cycle setbacks. \n\nNasdaqGS:MU Earnings & Revenue History as at Oct 2026\n\nNasdaqGS:MU Earnings & Revenue History as at Oct 2026\n\n \n\n## Intel (INTC)\n\nOverview: Intel designs and manufactures CPUs, GPUs, accelerators and related chips that power AI focused data centers, PCs and connected devices worldwide. \n\nOperations: Intel generates about US$33.",
       "sentimento": "bullish",
       "tags": [
         "AI",
