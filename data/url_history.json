@@ -1,64 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/articles/wall-st-futures-pause-ai-101907090.html": {
-    "hash": "c9840e083221525f5beeded35ba86957",
-    "visto_em": "2026-09-26"
-  },
-  "https://finance.yahoo.com/quote/DGT.XA": {
-    "hash": "8555dbb8676c634464becffce624a0ab",
-    "visto_em": "2026-09-26"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/meet-magnificent-semiconductor-stock-crushing-202000589.html": {
-    "hash": "9074bf2d5277c57475682b57fead13b5",
-    "visto_em": "2026-09-26"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-data-220953786.html": {
-    "hash": "c7a9184c796cbcbca8695d76a8458ffe",
-    "visto_em": "2026-09-26"
-  },
-  "https://www.reuters.com/business/wall-st-futures-gain-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-2026-09-25/": {
-    "hash": "a1cc8bb03d9a24a3879ba43637f038ff",
-    "visto_em": "2026-09-26"
-  },
-  "https://markets.businessinsider.com/news/stocks/navatar-turns-claude-and-salesforce-into-a-live-ai-deal-engine-for-private-equity-and-m-a-1036569772": {
-    "hash": "00e0b4ae0b531e4cf3faf7004e47a47b",
-    "visto_em": "2026-09-26"
-  },
-  "https://www.businessinsider.com/meta-muse-ai-agent-stock-volatility-agentic-ai-turning-point-2026-9": {
-    "hash": "7f639791e9650a4c9f8f21c3b4b8a4f8",
-    "visto_em": "2026-09-26"
-  },
-  "https://seekingalpha.com/news/4647190-goldman-s-guide-to-the-ai-valuation-reset": {
-    "hash": "21ad11020b12e0150fe53a72dbad9af4",
-    "visto_em": "2026-09-26"
-  },
-  "https://www.wsj.com/market-data/stock/tsm": {
-    "hash": "bbb8e3484b44b13a30d05b6c71d5b91b",
-    "visto_em": "2026-09-26"
-  },
-  "https://www.wsj.com/market-data/stock/tsm?eafs_enabled=false": {
-    "hash": "df145a1fdb5f42476f1890384a0e30f8",
-    "visto_em": "2026-09-26"
-  },
-  "https://finance.yahoo.com/video/return-ai-rally-whats-fueling-125206390.html": {
-    "hash": "96f8f11da41727ea80a93af967dc83c3",
-    "visto_em": "2026-09-26"
-  },
-  "https://finance.yahoo.com/markets/article/goldman-sachs-just-gave-ai-stock-fans-a-cold-hard-reality-check-121638833.html": {
-    "hash": "97f9eff19c91405d4232aac1abfbf40f",
-    "visto_em": "2026-09-26"
-  },
-  "https://www.wsj.com/cio-journal/ai-revs-the-economic-engine-3d46b683": {
-    "hash": "11f88d5555231d8aae2274f4fc28cc22",
-    "visto_em": "2026-09-26"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-taiwan-130301446.html": {
-    "hash": "50071aec204e17cebca874f30e6b0140",
-    "visto_em": "2026-09-26"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/michael-burry-drops-stark-message-135451718.html": {
-    "hash": "2cd90e7013d859400d211d84c9443245",
-    "visto_em": "2026-09-26"
-  },
   "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-027-4918088": {
     "hash": "396eea42cedeb424612d6405b549ccbe",
     "visto_em": "2026-09-27"
@@ -450,5 +390,33 @@
   "https://finance.yahoo.com/technology/ai/articles/dlr-expands-ai-infrastructure-opportunity-130000985.html": {
     "hash": "cfa5c0f18d9fb0d1e72cd9f5fc43218a",
     "visto_em": "2026-10-03"
+  },
+  "https://www.wsj.com/market-data/stock/tsm": {
+    "hash": "e8587ecbf09ba39d39f90f0836b29376",
+    "visto_em": "2026-10-04"
+  },
+  "https://finance.yahoo.com/quote/TSM": {
+    "hash": "8af6f8277bfcbc828506ca91fc607216",
+    "visto_em": "2026-10-04"
+  },
+  "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-263-4894081": {
+    "hash": "eb1e7b1b7f7702335b49cf1c03c140f1",
+    "visto_em": "2026-10-04"
+  },
+  "https://finance.yahoo.com/quote/NTDU.SI": {
+    "hash": "2889e94efdcea09ab67fb32f54ecaf82",
+    "visto_em": "2026-10-04"
+  },
+  "https://finance.yahoo.com/markets/article/tech-stocks-jump-after-jobs-report-miss-treasury-yields-ease-alphacheck-134916934.html": {
+    "hash": "ff2cd8ab5364d7637cf646d7ec68cbca",
+    "visto_em": "2026-10-04"
+  },
+  "https://seekingalpha.com/article/4950806-crowdstrike-time-to-ring-the-register": {
+    "hash": "8adeb6230e07b0dd3566924a0c38d6af",
+    "visto_em": "2026-10-04"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/ai-investment-unusually-large-multiplier-205101592.html": {
+    "hash": "06a441f9dc901ee322dd910b84f31dda",
+    "visto_em": "2026-10-04"
   }
 }
