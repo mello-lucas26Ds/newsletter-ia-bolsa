@@ -1,11 +1,67 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-10-04",
+    "data": "2026-10-05",
     "total_noticias": 86,
-    "gerado_em": "2026-10-04T15:10:08.608503"
+    "gerado_em": "2026-10-05T09:58:32.890486"
   },
   "noticias": [
+    {
+      "titulo": "Stock market today: Dow, S&P 500, Nasdaq rally as Fed rate-hike expectations fade, tech gains",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-02",
+      "resumo": "The Dow Jones Industrial Average (^DJI) rose 0. 5%, the S&P 500 (^GSPC) gained by 0. 7%, while the tech-heavy Nasdaq Composite (^IXIC) rose 1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DLR Stock Price | Digital Realty Trust Inc. Stock Quote (U.S.: NYSE) | MarketWatch",
+      "url": "https://www.marketwatch.com/investing/stock/dlr",
+      "fonte": "marketwatch.com",
+      "data": "2026-10-04",
+      "resumo": "Read full story\n\n### Real Estate REITs Are Staging a Comeback.  Here Are 9 Promising Ones. \n\nRead full story\n\n### Real Estate Data Center Operator Digital Realty Is Now a Buy, Says UBS\n\nRead full story\n\n### Will Nvidia 'AI Cloud' Strategy Shift Mark Big Surprise In 2025.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stocktwits M&A Watch: Paramount-Warner Bros Combination, Skyworks-Qorvo Merger, AMD’s World Labs Acquisition In Focus",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-m-watch-paramount-warner-073129199.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-05",
+      "resumo": "The deal announcement came amid a recent rally in AI and technology stocks as market sentiment for the sector has improved amid growing demand. \n\nAMD said that as AI expands into reasoning, robotics, simulation and physical AI, the demands on compute infrastructure are becoming more diverse, and World Labs' expertise in developing advanced models will give AMD deeper insight into how workloads are evolving and help shape its future technology roadmaps. \n\nOn Stocktwits, retail sentiment around AMD stock was 'bearish' at the time of writing.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI spending to drive another strong S&P 500 earnings season, Goldman Sachs says | Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4650034-ai-spending-to-drive-another-strong-s-and-p-500-earnings-season-goldman-sachs-says",
+      "fonte": "seekingalpha.com",
+      "data": "2026-10-04",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# AI spending to drive another strong S&P 500 earnings season, Goldman Sachs says\n\nPerson checking investment portfolio on mobile phone and analysing financial reports on tablet with growth metrics\n\nImages By Tang Ming Tung/DigitalVision via Getty Images\n\nGoldman Sachs expects the S&P 500 (SP500) to deliver another strong earnings season as artificial intelligence investment drives an increasingly large share of corporate profit growth. \n\nConsensus forecasts call for S&P 500 (SP500) earnings per share to rise 27% from\n\n## Quick Insights\n\n### How will AI infrastructure investment impact S&P 500 earnings growth. \n\n### Is S&P 500 earnings growth broadly supported or highly concentrated.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks",
       "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-ai-party-edge-130000551.html",
@@ -651,20 +707,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Data Centers Got the AI Hype—But Office REITs May Get the Rent Hikes",
-      "url": "https://finance.yahoo.com/real-estate/articles/data-centers-got-ai-hype-161500282.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-27",
-      "resumo": "SL Green, BXP and Hudson Pacific show improving fundamentals and trade far more cheaply than richly valued data center REITs like Equinix and Digital Realty. \n\nInvestors should focus on high-quality buildings in recovering markets rather than the office sector broadly, since the rebound remains uneven. \n\nAsk most investors about office REITs, and you'll hear some variation on a bear case in three parts that started in 2020.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "North American M&A Drops 23% as Megadeals and AI Sentiment Cool - WSJ",
       "url": "https://www.wsj.com/business/earnings/global-dealmaking-cools-in-third-quarter-53a43430",
       "fonte": "wsj.com",
@@ -973,20 +1015,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Bovespa Index Today (IBOV)",
-      "url": "https://www.investing.com/indices/bovespa",
-      "fonte": "investing.com",
-      "data": "2026-09-27",
-      "resumo": "Picked by AI Undervalued Stocks.  The Bovespa live stock price is 182,991.  IBOV is the ticker symbol of the Bovespa index.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "How AI is reshaping the foundation of front-office investment workflows | Insights | Bloomberg Professional Services",
       "url": "https://www.bloomberg.com/professional/insights/artificial-intelligence/how-ai-is-reshaping-the-foundation-of-front-office-investment-workflows",
       "fonte": "bloomberg.com",
@@ -1169,39 +1197,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Price Prediction: TSMC Could Reach $600 as Capacity Constraints Drive the AI Boom Forward",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-tsmc-could-reach-160021255.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-27",
-      "resumo": "## How TSMC Compares to NVIDIA and ASML\n\nNVIDIA (NASDAQ:NVDA) is TSMC's largest AI customer.  NVIDIA trades at a forward P/E of 25 against TSMC's 22, with quarterly revenue growth of 105. 9%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "the tech rally is spilling over—see what our models saw first",
       "url": "https://www.investing.com/news/stock-market-news/up-46-29-the-tech-rally-is-spilling-oversee-what-our-models-saw-first-4919504",
       "fonte": "investing.com",
       "data": "2026-09-28",
       "resumo": "relentless enterprise demand for AI infrastructure helped fuel a powerful September rally.  delivering an impressive +11. 58% return month-to-date across cloud,.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "2 key checks for the AI trade and the economy: What to watch this week",
-      "url": "https://finance.yahoo.com/markets/article/2-key-checks-for-the-ai-trade-and-the-economy-what-to-watch-this-week-100000239.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-27",
-      "resumo": "Go deeper with AlphaSpace\n\n7,743. 41+39. 28(+0.",
       "sentimento": "bullish",
       "tags": [
         "AI",

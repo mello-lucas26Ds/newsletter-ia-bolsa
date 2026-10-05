@@ -1,40 +1,4 @@
 {
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-027-4918088": {
-    "hash": "396eea42cedeb424612d6405b549ccbe",
-    "visto_em": "2026-09-27"
-  },
-  "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-099-4882212": {
-    "hash": "f19b10bd0619d4624c6f1eb926e67cf0",
-    "visto_em": "2026-09-27"
-  },
-  "https://www.cnbc.com/2026/09/26/meta-microsoft-led-tech-higher-this-week-despite-soaring-bond-yields.html": {
-    "hash": "55a43a0d459078bc4266e4c12bd545df",
-    "visto_em": "2026-09-27"
-  },
-  "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-midday-akam-geni-ppli.html": {
-    "hash": "6d9cb85bd071812f7d0e354333fb6eba",
-    "visto_em": "2026-09-27"
-  },
-  "https://finance.yahoo.com/quote/AI/latest-news": {
-    "hash": "4b1dd447e4ee7bf19489cce1c271ab29",
-    "visto_em": "2026-09-27"
-  },
-  "https://www.cnbc.com/2026/09/25/top-10-things-to-watch-in-the-stock-market-friday.html": {
-    "hash": "3a3d715c4f7257bc3ee12665b6fb56f3",
-    "visto_em": "2026-09-27"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-eyes-first-record-150152839.html": {
-    "hash": "7085b163c1d040d0b3014e1b0a3a511c",
-    "visto_em": "2026-09-27"
-  },
-  "https://www.marketwatch.com/investing/stock/dlr": {
-    "hash": "a12c38254632e77609c86658e1af2c72",
-    "visto_em": "2026-09-27"
-  },
-  "https://uk.finance.yahoo.com/quote/TSM": {
-    "hash": "0d23c7c598b2c950071103cb143e4ac5",
-    "visto_em": "2026-09-27"
-  },
   "https://finance.yahoo.com/technology/articles/tsmc-2nm-wafer-capacity-exceed-030730906.html": {
     "hash": "9416feeceaaa9b88dfe63e0aa42074bb",
     "visto_em": "2026-09-28"
@@ -434,5 +398,21 @@
   "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-watch-011109542.html": {
     "hash": "a2b950602d0ae2f3d5bfc2021926f5ae",
     "visto_em": "2026-10-04"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html": {
+    "hash": "32cd04f0ba0d5d8bc698ba7376fca230",
+    "visto_em": "2026-10-05"
+  },
+  "https://www.marketwatch.com/investing/stock/dlr": {
+    "hash": "25b1524a00323056bf34eecc3f408284",
+    "visto_em": "2026-10-05"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/stocktwits-m-watch-paramount-warner-073129199.html": {
+    "hash": "56a9f837ec2408662cfccbfeb2c372b9",
+    "visto_em": "2026-10-05"
+  },
+  "https://seekingalpha.com/news/4650034-ai-spending-to-drive-another-strong-s-and-p-500-earnings-season-goldman-sachs-says": {
+    "hash": "e444c3ae1d763091bbeb994703ede6e1",
+    "visto_em": "2026-10-05"
   }
 }
