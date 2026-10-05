@@ -1,93 +1,183 @@
 # Newsletter IA Bolsa — 2026-10-05
 
-**Gerado em:** 05/10/2026 09:58
-**Total:** 4 noticias
+**Gerado em:** 05/10/2026 19:04
+**Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Stock market today: Dow, S&P 500, Nasdaq rally as Fed rate-hike expectations fade, tech gains
+## 1. +225% gains and counting: These AI-picked tech stocks are crushing the market By Investing.com
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The Dow Jones Industrial Average (^DJI) rose 0. 5%, the S&P 500 (^GSPC) gained by 0. 7%, while the tech-heavy Nasdaq Composite (^IXIC) rose 1.
+Axcelis (NASDAQGS:ACLS): +8. 09% in Oct alone — Gained on expanding global demand for Purion ion implantation systems, supported by a $35 million facility expansion in South Korea and raised Q3 revenue guidance as memory semiconductor capital spending recovers. 
+ Veeco (NASDAQGS:VECO): +7.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/225-gains-and-counting-these-aipicked-tech-stocks-are-crushing-the-market-4931215)
 
 ---
 
-## 2. DLR Stock Price | Digital Realty Trust Inc. Stock Quote (U.S.: NYSE) | MarketWatch
+## 2. The S&P 500 rose +0.5% in September; this AI stock picking strategy surged +13.4% By Investing.com
 
-**Fonte:** marketwatch.com  
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Here’s what the models identified before the move:
+
+ Stunning Stock Momentum: The stock had delivered a stunning ~487% return over the past year, driven by real underlying business improvement. 
+ Accelerating Revenue & Guidance Beats: Q1 revenue hit $13. 6 billion (up 7% year-over-year), with earnings beating forecasts by a remarkable margin—marking its sixth straight quarter of exceeding guidance.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/the-sp-500-rose-05-in-september-this-ai-stock-picking-strategy-surged-134-4932152)
+
+---
+
+## 3. Stocktwits Tech Watch: AI Investors Shift Focus To Applied Digital Earnings, Microsoft Event, SF Tech Week
+
+**Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Read full story
+Microsoft Windows and Surface event (Oct.  7, San Francisco): Microsoft is expected to unveil new Windows and Surface devices and updates, with CEO Satya Nadella, Surface chief Pavan Davuluri and Nvidia CEO Jensen Huang among the expected attendees. 
 
-### Real Estate REITs Are Staging a Comeback.  Here Are 9 Promising Ones. 
+Alignment 2026 — Valley 101 Annual Tech Summit (Oct.
 
-Read full story
-
-### Real Estate Data Center Operator Digital Realty Is Now a Buy, Says UBS
-
-Read full story
-
-### Will Nvidia 'AI Cloud' Strategy Shift Mark Big Surprise In 2025.
-
-[Ler noticia completa](https://www.marketwatch.com/investing/stock/dlr)
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/stocktwits-tech-watch-ai-investors-054646008.html)
 
 ---
 
-## 3. Stocktwits M&A Watch: Paramount-Warner Bros Combination, Skyworks-Qorvo Merger, AMD’s World Labs Acquisition In Focus
+## 4. S&P 500 up, Nasdaq at record high as megacap tech ...
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Nasdaq up 0. 77% PTC surges on Schneider Electric's.  OpenAI CEO Altman.
+
+[Ler noticia completa](https://www.reuters.com/world/europe/wall-st-futures-dip-tech-stocks-take-breather-2026-10-05)
+
+---
+
+## 5. Nvidia’s Valuations Show AI Rally Isn’t a Bubble, DBS Says
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Bloomberg
+
+# Nvidia’s Valuations Show AI Rally Isn’t a Bubble, DBS Says
+
+Bloomberg · Photographer: Benjamin Fanjoy/Getty Images
+
+Haslinda Amin
+
+1 min read
+
+ NVDA
+
+  +1. 34%
+ D05. SI
+
+  +0.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nvidia-valuations-show-ai-rally-070429645.html)
+
+---
+
+## 6. Why the AI stock rally depends on cloud growth this earnings season: Goldman analyst
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The deal announcement came amid a recent rally in AI and technology stocks as market sentiment for the sector has improved amid growing demand. 
+1.  Crypto
 
-AMD said that as AI expands into reasoning, robotics, simulation and physical AI, the demands on compute infrastructure are becoming more diverse, and World Labs' expertise in developing advanced models will give AMD deeper insight into how workloads are evolving and help shape its future technology roadmaps. 
+   Crypto
+2.  AI
 
-On Stocktwits, retail sentiment around AMD stock was 'bearish' at the time of writing.
+   AI
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stocktwits-m-watch-paramount-warner-073129199.html)
+Yahoo Finance
+
+# Why the AI stock rally depends on cloud growth this earnings season: Goldman analyst
+
+Brian Sozzi
+
+Brian Sozzi  · Executive Editor
+
+ ORCL
+
+  +1.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/article/why-the-ai-stock-rally-depends-on-cloud-growth-this-earnings-season-goldman-analyst-135838244.html)
 
 ---
 
-## 4. AI spending to drive another strong S&P 500 earnings season, Goldman Sachs says | Seeking Alpha
+## 7. Wall Street's merger frenzy takes a third quarter breather: Chart of the Day
 
-**Fonte:** seekingalpha.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-## Investing Groups
+$55 billion acquisition of AI coding platform Cursor, announced in June, and NextEra Energy's (NEE) $67 billion merger with Dominion Energy disclosed in May, can take months to pull together. 
 
-## Portfolios
+It's "natural to have a slowdown as the market digests those transactions," Guthrie said, adding that historically the third quarter often lulls while bankers take vacation. 
 
-## Find & Compare
+But the reasons not to do a deal have been mounting in recent weeks, she said.
 
-# AI spending to drive another strong S&P 500 earnings season, Goldman Sachs says
+[Ler noticia completa](https://finance.yahoo.com/markets/article/wall-streets-merger-frenzy-takes-a-third-quarter-breather-chart-of-the-day-114242654.html)
 
-Person checking investment portfolio on mobile phone and analysing financial reports on tablet with growth metrics
+---
 
-Images By Tang Ming Tung/DigitalVision via Getty Images
+## 8. La Rosa Expands AI Push With NVIDIA B300 GPU Acquisition
 
-Goldman Sachs expects the S&P 500 (SP500) to deliver another strong earnings season as artificial intelligence investment drives an increasingly large share of corporate profit growth. 
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
 
-Consensus forecasts call for S&P 500 (SP500) earnings per share to rise 27% from
+A potential sale of the real estate operations could also allow LRHC to concentrate capital and management attention on its newer strategic priorities rather than spreading resources across unrelated businesses.  If additional partnerships and investments follow, the GPU acquisition could become the first step in building a more substantial AI-focused operation. 
 
-## Quick Insights
+However, these benefits remain dependent on execution.
 
-### How will AI infrastructure investment impact S&P 500 earnings growth. 
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/la-rosa-expands-ai-push-141000300.html)
 
-### Is S&P 500 earnings growth broadly supported or highly concentrated.
+---
 
-[Ler noticia completa](https://seekingalpha.com/news/4650034-ai-spending-to-drive-another-strong-s-and-p-500-earnings-season-goldman-sachs-says)
+## 9. AI is changing how buyers assess risk in tech deals
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Older [. ] Top losers 
+       LQDA Liquidia Corporation 30. 26-40.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/ai-changing-buyers-assess-risk-181236302.html)
+
+---
+
+## 10. Nvidia's $6-trillion milestone looms. Here's when options traders see it happening - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The rally puts the value of Jensen Huang's semiconductor business at just under $5. 7 trillion, and based on the price of options trading at Nvidia, it will likely cross the $6 trillion threshold by the end of this month.   
+It should be a comforting notion for equity bulls.
+
+[Ler noticia completa](https://www.cnbc.com/2026/10/05/nvidias-6-trillion-milestone-looms-heres-when-options-traders-see-it-happening.html)
 
 ---
