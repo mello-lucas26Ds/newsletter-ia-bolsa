@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-06",
+    "total_noticias": 10,
+    "gerado_em": "2026-10-06T09:44:53.717732"
+  },
+  "noticias": [
+    {
+      "titulo": "3 Stocks From AI & Energy to Buy Before Q3 Earnings Kick Off",
+      "url": "https://ca.finance.yahoo.com/news/3-stocks-ai-energy-buy-180000127.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-10-05",
+      "resumo": "The underlying demand environment also remains unusually strong.  Reuters reported in late September that the ongoing AI infrastructure investment boom is expected to remain a major driver of economic and corporate growth.  Deutsche Bank strategist George Saravelos described the AI investment cycle as a key force supporting markets, while Reuters noted that roughly one-third of current U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Asian stocks rise as weak U.S. jobs data eases Fed hike bets; Japan surges - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-weak-us-jobs-data-eases-fed-hike-bets-japan-surges-4930989",
+      "fonte": "investing.com",
+      "data": "2026-10-05",
+      "resumo": "Treasuries also remained supported, with the U. S.  10-year Treasury yield falling two basis points to 5.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global Data Center Market Portfolio Database: 6,610 Existing and Upcoming Facilities, 2026-2031 Capacity Forecast | AI Demand Unlocks Investment across High-Growth Markets",
+      "url": "https://finance.yahoo.com/technology/articles/global-data-center-market-portfolio-080500638.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-05",
+      "resumo": "Elasticity Limited\n\n   Elea Data Centers\n\n   Elektrizitatswerk Wels AG\n\n   Element Critical\n\n   Elisa\n\n   Elite UK REIT\n\n   Elitery Data Center\n\n   Elmec Informatica\n\n   Ember\n\n   EMC HostCo\n\n   EMPATEL SAPEM\n\n   Empyrion Digital\n\n   Enable Networks\n\n   Endec Group\n\n   Energia Data Centre\n\n   Energy Transfer Data Center\n\n   Eneus Energy\n\n   EngineNode\n\n   Eni\n\n   Enovum Data Centers (WhiteFiber)\n\n   Enseva\n\n   Entel\n\n   envia TEL\n\n   Eolas\n\n   ePLDT\n\n   Epoch Digital (Actis + ADIK)\n\n   Epsilon Telecommunications\n\n   Epsilon Telecommunications\n\n   EQT Infrastructure (EdgeConnex)\n\n   Equinix\n\n   ESDS Data Center\n\n   Espaciorack\n\n   Espanix\n\n   ESR\n\n   eStruxture Data Centers (Fengate Asset Management)\n\n   Etisalat (e& Group)\n\n   Etix Everywhere\n\n   EURA DC\n\n   Eurofiber Cloud Infra [. ] DCX\n\n   DDCL\n\n   De Novo\n\n   DEAC\n\n   Decennial Group\n\n   DECSIS\n\n   DEEP\n\n   Deep Green\n\n   DeepGreen Western Passage SPV LLC\n\n   Delska\n\n   Denv-R\n\n   Desert Dragon Data Center (ICS Arabia)\n\n   Detecon Al Saudia Co.  Ltd.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Investors Aren’t Just Treating AI as an Opportunity. It’s a Risk Now, Too",
+      "url": "https://finance.yahoo.com/technology/ai/articles/investors-aren-t-just-treating-155634622.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-05",
+      "resumo": "\"We're basically at that point with artificial intelligence where we see major developments in AI impacting large swaths of the market, in some cases positively, and some cases negatively,\" Jacobs told me, indicating that he's seeing that effect in stock but also debt markets. \n\nIt's not surprising that AI in the markets is evolving quickly enough that investors may need to catch up to what's going on.  As more public companies reach for the technology to improve their businesses—per FactSet, some 65% of S&P second-quarter earnings calls cited AI—losers will emerge.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia Stock at New All-Time Highs: Market Expert Says ‘Cusp of a Major Breakout’ - Benzinga",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62170633/nvidia-stock-at-new-all-time-highs-market-expert-says-cusp-of-a-major-breakout",
+      "fonte": "benzinga.com",
+      "data": "2026-10-05",
+      "resumo": "Nvidia Q2 highlights, key figures and a look at the company's updated guidance. \n\n2 min read\n\nRead this article\n\n## Q3 Earnings on Deck\n\nNvidia is nearing its third-quarter report, which will be a key moment for the overall stock market ahead of the end of 2026. \n\nThe earnings date is currently estimated to be in mid-November.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cerebras stock climbs 6% after Sam Altman calls the chipmaker a 'close partner' - CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-05",
+      "resumo": "Cerebras stock climbed in premarket trading Monday, rebounding from last week's decline, after OpenAI's CEO Sam Altman reassured investors that the firm is a \"close partner. \"\n\nThe AI hardware firm, which made its debut on the Nasdaq in a monster IPO in May, saw its stock plummet 20% to its lowest price last week after it was revealed that OpenAI would power its \"Ultrafast\" mode for GPT-6. 1 Sol with Nvidia's graphics processing units instead of Cerebras' chips.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AIBotics Enters Definitive Defense-Technology Transaction with Patrick Tsang’s Empulser",
+      "url": "https://finance.yahoo.com/technology/ai/articles/aibotics-enters-definitive-defense-technology-134000852.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-05",
+      "resumo": "Patrick Tsang Brings a New Technology Platform to AIBotics\n\nTsang brings more than two decades of experience across global capital markets, public-company transactions, mergers and acquisitions, strategic investing, corporate development and emerging technology.  As Strategic Advisor to AIBotics, he is expected to work with Chief Executive Officer Ben Kaplan and the Company on strategic growth, capital-markets strategy, corporate development, international partnerships and the identification of opportunities across AI, robotics, autonomous systems and related technologies.  [.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "About B3 SA Brasil Bolsa Balcao (YBV0y.MU)",
+      "url": "https://www.reuters.com/markets/companies/YBV0y.MU/profile",
+      "fonte": "reuters.com",
+      "data": "2026-10-02",
+      "resumo": "B3 SA Brasil Bolsa Balcao, formerly BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros, is a Brazil-based financial market infrastructure provider..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tuesday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-05",
+      "resumo": "The S & P 500, which is heavily weighted with big tech, is up 0. 7% in a month.  The First Trust Nasdaq-100 Select Equal Weight ETF (QQEW) is up 2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Iron Mountain Incorporated (IRM) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/IRM",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-04",
+      "resumo": "Iron Mountain Incorporated is trusted by more than 240,000 customers in 61 countries, including approximately 95% of the Fortune 1000, to help unlock value and intelligence from their assets through services that transcend the physical and digital worlds.  Our broad range of solutions address their information management, digital transformation, information security, data center and asset lifecycle management needs.  Iron Mountain Incorporated is based in Portsmouth, New Hampshire.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

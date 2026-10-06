@@ -1,56 +1,4 @@
 {
-  "https://finance.yahoo.com/technology/articles/tsmc-2nm-wafer-capacity-exceed-030730906.html": {
-    "hash": "9416feeceaaa9b88dfe63e0aa42074bb",
-    "visto_em": "2026-09-28"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/price-prediction-tsmc-could-reach-160021255.html": {
-    "hash": "339770ac9483fa94a5b5560a5d5cd75d",
-    "visto_em": "2026-09-28"
-  },
-  "https://www.investing.com/news/stock-market-news/up-46-29-the-tech-rally-is-spilling-oversee-what-our-models-saw-first-4919504": {
-    "hash": "de36100d69f86e0e8cd126fdac0b2e41",
-    "visto_em": "2026-09-28"
-  },
-  "https://www.marketwatch.com/investing/stock/tsm": {
-    "hash": "754af461df56c65190d7ff10b7fb7695",
-    "visto_em": "2026-09-28"
-  },
-  "https://finance.yahoo.com/markets/article/2-key-checks-for-the-ai-trade-and-the-economy-what-to-watch-this-week-100000239.html": {
-    "hash": "7c8ea0a83d98a4e1c20868fc276a815c",
-    "visto_em": "2026-09-28"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/ubs-turns-bullish-five-ai-193000997.html": {
-    "hash": "68f78f7bac6fba75ff4ac714e18823fd",
-    "visto_em": "2026-09-28"
-  },
-  "https://www.investing.com/analysis/the-ai-bull-has-met-the-price-of-money-200688497": {
-    "hash": "f5a27800195be27baeb4f6062206a7b9",
-    "visto_em": "2026-09-28"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-120-earnings-080846749.html": {
-    "hash": "92a3c9d252db9bf53e3f6895b35a7b3e",
-    "visto_em": "2026-09-28"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-powering-profit-boom-earnings-081613518.html": {
-    "hash": "8ebe0105a04439fa8f1d0bdf44991bcd",
-    "visto_em": "2026-09-28"
-  },
-  "https://finance.yahoo.com/technology/articles/apple-nvidia-just-delivered-major-122230915.html": {
-    "hash": "e9fa0478042b97ba18171a6216320839",
-    "visto_em": "2026-09-28"
-  },
-  "https://in.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-086-5603750": {
-    "hash": "f6debf5901733d3e9b4a1dc09101f0ce",
-    "visto_em": "2026-09-28"
-  },
-  "https://in.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-027-5607212": {
-    "hash": "cdcb92fef53eaa223e9b7e6c12b6be6a",
-    "visto_em": "2026-09-28"
-  },
-  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-044-5601866": {
-    "hash": "4ef6946c8285af43d0aa107ef3c2d861",
-    "visto_em": "2026-09-28"
-  },
   "https://finance.yahoo.com/technology/ai/articles/ai-safety-news-puts-tsmc-042654263.html": {
     "hash": "497ed54d42c35b995ae59dd10ae215e6",
     "visto_em": "2026-09-29"
@@ -454,5 +402,45 @@
   "https://www.cnbc.com/2026/10/05/nvidias-6-trillion-milestone-looms-heres-when-options-traders-see-it-happening.html": {
     "hash": "d19f40284e3ba559f9a7d12593d5472f",
     "visto_em": "2026-10-05"
+  },
+  "https://ca.finance.yahoo.com/news/3-stocks-ai-energy-buy-180000127.html": {
+    "hash": "e78e89c2fe96eee3b68d3d95532994df",
+    "visto_em": "2026-10-06"
+  },
+  "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-weak-us-jobs-data-eases-fed-hike-bets-japan-surges-4930989": {
+    "hash": "33f19732e49f718c6d2f6f6bcb1fec97",
+    "visto_em": "2026-10-06"
+  },
+  "https://finance.yahoo.com/technology/articles/global-data-center-market-portfolio-080500638.html": {
+    "hash": "9e1ffaddbc8091156e030f341aafc121",
+    "visto_em": "2026-10-06"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/investors-aren-t-just-treating-155634622.html": {
+    "hash": "4fb6f561dc034e77c970d2dd085e1f65",
+    "visto_em": "2026-10-06"
+  },
+  "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62170633/nvidia-stock-at-new-all-time-highs-market-expert-says-cusp-of-a-major-breakout": {
+    "hash": "6460a5b1828f567bb814c2ee4ef4f744",
+    "visto_em": "2026-10-06"
+  },
+  "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html": {
+    "hash": "cb6412db48c842db439f00f685091364",
+    "visto_em": "2026-10-06"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/aibotics-enters-definitive-defense-technology-134000852.html": {
+    "hash": "00aca20f1a5060945a9aad7d3e5cf05d",
+    "visto_em": "2026-10-06"
+  },
+  "https://www.reuters.com/markets/companies/YBV0y.MU/profile": {
+    "hash": "4fde6d80cfcdc027305621c7ee623a62",
+    "visto_em": "2026-10-06"
+  },
+  "https://www.cnbc.com/2026/10/05/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html": {
+    "hash": "890d501e8fe3feff32d27c4b791a53a0",
+    "visto_em": "2026-10-06"
+  },
+  "https://finance.yahoo.com/quote/IRM": {
+    "hash": "8c969122cd889cbf188c9281e8be076b",
+    "visto_em": "2026-10-06"
   }
 }
