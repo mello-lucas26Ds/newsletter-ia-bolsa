@@ -442,5 +442,37 @@
   "https://finance.yahoo.com/quote/IRM": {
     "hash": "8c969122cd889cbf188c9281e8be076b",
     "visto_em": "2026-10-06"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/know-ahead-digital-realty-trust-120027387.html": {
+    "hash": "c1e672ab1308147a577bc671db45a7a5",
+    "visto_em": "2026-10-06"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/could-only-buy-one-ai-091000923.html": {
+    "hash": "120eb28c718c7dfb4ccb4c81c9247beb",
+    "visto_em": "2026-10-06"
+  },
+  "https://finance.yahoo.com/quote/AI": {
+    "hash": "dac3f2f79246a9c79370420ac09d1059",
+    "visto_em": "2026-10-06"
+  },
+  "https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3": {
+    "hash": "9f36c55fc647ff2ea8083dcc270fab06",
+    "visto_em": "2026-10-06"
+  },
+  "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937": {
+    "hash": "6057fb1b9e8de4c8f7474bf1e9db2f7c",
+    "visto_em": "2026-10-06"
+  },
+  "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html": {
+    "hash": "8e3287de7fa4f4a141bb7f12e9417232",
+    "visto_em": "2026-10-06"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/auddia-cancels-october-7th-shareholder-110000765.html": {
+    "hash": "f0368c73cc7caa18bc6ac03b292dc577",
+    "visto_em": "2026-10-06"
+  },
+  "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9": {
+    "hash": "ce8c0ca6189dec44b3229a51040cfcdf",
+    "visto_em": "2026-10-06"
   }
 }

@@ -1,253 +1,155 @@
 # Newsletter IA Bolsa — 2026-10-06
 
-**Gerado em:** 06/10/2026 09:44
-**Total:** 10 noticias
+**Gerado em:** 06/10/2026 16:31
+**Total:** 8 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. 3 Stocks From AI & Energy to Buy Before Q3 Earnings Kick Off
-
-**Fonte:** ca.finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The underlying demand environment also remains unusually strong.  Reuters reported in late September that the ongoing AI infrastructure investment boom is expected to remain a major driver of economic and corporate growth.  Deutsche Bank strategist George Saravelos described the AI investment cycle as a key force supporting markets, while Reuters noted that roughly one-third of current U.
-
-[Ler noticia completa](https://ca.finance.yahoo.com/news/3-stocks-ai-energy-buy-180000127.html)
-
----
-
-## 2. Asian stocks rise as weak U.S. jobs data eases Fed hike bets; Japan surges - Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Treasuries also remained supported, with the U. S.  10-year Treasury yield falling two basis points to 5.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-weak-us-jobs-data-eases-fed-hike-bets-japan-surges-4930989)
-
----
-
-## 3. Global Data Center Market Portfolio Database: 6,610 Existing and Upcoming Facilities, 2026-2031 Capacity Forecast | AI Demand Unlocks Investment across High-Growth Markets
+## 1. What You Need to Know Ahead of Digital Realty Trust’s Earnings Release
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Elasticity Limited
+1.  Crypto
 
-   Elea Data Centers
+   Crypto
+2.  AI
 
-   Elektrizitatswerk Wels AG
+   AI
 
-   Element Critical
+Barchart
 
-   Elisa
+# What You Need to Know Ahead of Digital Realty Trust’s Earnings Release
 
-   Elite UK REIT
+Kritika Sarmah
 
-   Elitery Data Center
+ DLR
 
-   Elmec Informatica
+  +0.
 
-   Ember
-
-   EMC HostCo
-
-   EMPATEL SAPEM
-
-   Empyrion Digital
-
-   Enable Networks
-
-   Endec Group
-
-   Energia Data Centre
-
-   Energy Transfer Data Center
-
-   Eneus Energy
-
-   EngineNode
-
-   Eni
-
-   Enovum Data Centers (WhiteFiber)
-
-   Enseva
-
-   Entel
-
-   envia TEL
-
-   Eolas
-
-   ePLDT
-
-   Epoch Digital (Actis + ADIK)
-
-   Epsilon Telecommunications
-
-   Epsilon Telecommunications
-
-   EQT Infrastructure (EdgeConnex)
-
-   Equinix
-
-   ESDS Data Center
-
-   Espaciorack
-
-   Espanix
-
-   ESR
-
-   eStruxture Data Centers (Fengate Asset Management)
-
-   Etisalat (e& Group)
-
-   Etix Everywhere
-
-   EURA DC
-
-   Eurofiber Cloud Infra [. ] DCX
-
-   DDCL
-
-   De Novo
-
-   DEAC
-
-   Decennial Group
-
-   DECSIS
-
-   DEEP
-
-   Deep Green
-
-   DeepGreen Western Passage SPV LLC
-
-   Delska
-
-   Denv-R
-
-   Desert Dragon Data Center (ICS Arabia)
-
-   Detecon Al Saudia Co.  Ltd.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/articles/global-data-center-market-portfolio-080500638.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/know-ahead-digital-realty-trust-120027387.html)
 
 ---
 
-## 4. Investors Aren’t Just Treating AI as an Opportunity. It’s a Risk Now, Too
+## 2. If I Could Only Buy One AI Stock Before 2027, It Would Be This One
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Amazon has generated earnings growth over time due to these businesses and has a track record of benefiting from its investments, as we can see through its return on invested capital. 
+
+AMZN Revenue (Annual) Chart
+
+AMZN Revenue (Annual) data by YCharts
+
+The company's e-commerce business has a solid moat, and this includes its vast fulfillment network, its extensive Prime subscription program, and its brand strength.  Meanwhile, Amazon has been a major winner in the AI market, benefiting in two ways.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/could-only-buy-one-ai-091000923.html)
+
+---
+
+## 3. C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-"We're basically at that point with artificial intelligence where we see major developments in AI impacting large swaths of the market, in some cases positively, and some cases negatively," Jacobs told me, indicating that he's seeing that effect in stock but also debt markets. 
+1.  Crypto
+2.  AI
 
-It's not surprising that AI in the markets is evolving quickly enough that investors may need to catch up to what's going on.  As more public companies reach for the technology to improve their businesses—per FactSet, some 65% of S&P second-quarter earnings calls cited AI—losers will emerge.
+NYSE - Nasdaq Real Time Price • USD 
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/investors-aren-t-just-treating-155634622.html)
+# C3.
+
+[Ler noticia completa](https://finance.yahoo.com/quote/AI)
 
 ---
 
-## 5. Nvidia Stock at New All-Time Highs: Market Expert Says ‘Cusp of a Major Breakout’ - Benzinga
+## 4. AI Is Squeezing Out the Rest of the Stock Market
 
-**Fonte:** benzinga.com  
+**Fonte:** wsj.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+AI Is Squeezing Out the Rest of the Stock Market.  Expect stocks outside tech to struggle, earnings to expand more slowly and concern about credit risk to grow..
+
+[Ler noticia completa](https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3)
+
+---
+
+## 5. The case for Nvidia’s stock to march even higher after clinching its first record high in months - MarketWatch
+
+**Fonte:** marketwatch.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Nvidia Q2 highlights, key figures and a look at the company's updated guidance. 
+### Referenced Symbols
 
-2 min read
+   NVDA +1. 31% 
 
-Read this article
+With Nvidia’s stock booking its first new record close in four months, analysts are upbeat about what’s ahead. 
 
-## Q3 Earnings on Deck
+Nvidia shares
 
-Nvidia is nearing its third-quarter report, which will be a key moment for the overall stock market ahead of the end of 2026. 
+NVDA +1.
 
-The earnings date is currently estimated to be in mid-November.
-
-[Ler noticia completa](https://www.benzinga.com/trading-ideas/long-ideas/26/10/62170633/nvidia-stock-at-new-all-time-highs-market-expert-says-cusp-of-a-major-breakout)
+[Ler noticia completa](https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937)
 
 ---
 
-## 6. Cerebras stock climbs 6% after Sam Altman calls the chipmaker a 'close partner' - CNBC
+## 6. Stocks are hitting records despite surging yields. Cramer explains why - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Cerebras stock climbed in premarket trading Monday, rebounding from last week's decline, after OpenAI's CEO Sam Altman reassured investors that the firm is a "close partner. "
+Cramer said each of those companies has a powerful catalyst that can keep investors buying despite the pressure from higher rates.  Nvidia's latest chips are generating strong returns for customers, he said, pointing to SpaceX's large Nvidia-powered computing clusters and its efforts to make money by renting that computing capacity to companies developing AI.  Microsoft, meanwhile, is benefiting from improved sentiment around its Copilot AI assistant, while Meta is gaining from enthusiasm around its Muse personal agent app and its potential to deepen the company's relationship with small businesses.
 
-The AI hardware firm, which made its debut on the Nasdaq in a monster IPO in May, saw its stock plummet 20% to its lowest price last week after it was revealed that OpenAI would power its "Ultrafast" mode for GPT-6. 1 Sol with Nvidia's graphics processing units instead of Cerebras' chips.
-
-[Ler noticia completa](https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html)
+[Ler noticia completa](https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html)
 
 ---
 
-## 7. AIBotics Enters Definitive Defense-Technology Transaction with Patrick Tsang’s Empulser
+## 7. Auddia Cancels October 7th Shareholder Meeting to Align Merger Vote with Expanding AI Infrastructure Opportunity
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Patrick Tsang Brings a New Technology Platform to AIBotics
-
-Tsang brings more than two decades of experience across global capital markets, public-company transactions, mergers and acquisitions, strategic investing, corporate development and emerging technology.  As Strategic Advisor to AIBotics, he is expected to work with Chief Executive Officer Ben Kaplan and the Company on strategic growth, capital-markets strategy, corporate development, international partnerships and the identification of opportunities across AI, robotics, autonomous systems and related technologies.  [.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/aibotics-enters-definitive-defense-technology-134000852.html)
-
----
-
-## 8. About B3 SA Brasil Bolsa Balcao (YBV0y.MU)
-
-**Fonte:** reuters.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-B3 SA Brasil Bolsa Balcao, formerly BM&F Bovespa SA Bolsa de Valores Mercadorias e Futuros, is a Brazil-based financial market infrastructure provider..
-
-[Ler noticia completa](https://www.reuters.com/markets/companies/YBV0y.MU/profile)
-
----
-
-## 9. Tuesday's big stock stories: What’s likely to move the market in the next trading session - CNBC
-
-**Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The S & P 500, which is heavily weighted with big tech, is up 0. 7% in a month.  The First Trust Nasdaq-100 Select Equal Weight ETF (QQEW) is up 2.
+About the Merger to form McCarthy Finney (MCFN)
 
-[Ler noticia completa](https://www.cnbc.com/2026/10/05/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html)
+Auddia entered into a definitive merger agreement with Thramann Holdings, LLC on February 17, 2026.  If completed, the transaction would combine Auddia with three early-stage, AI-native operating companies wholly owned by Thramann Holdings: LT350, Influence Healthcare, and Voyex.  The combined company would be renamed McCarthy Finney Inc.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/auddia-cancels-october-7th-shareholder-110000765.html)
 
 ---
 
-## 10. Iron Mountain Incorporated (IRM) Stock Price, News, Quote & History - Yahoo Finance
+## 8. An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says. - MarketWatch
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** marketwatch.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Iron Mountain Incorporated is trusted by more than 240,000 customers in 61 countries, including approximately 95% of the Fortune 1000, to help unlock value and intelligence from their assets through services that transcend the physical and digital worlds.  Our broad range of solutions address their information management, digital transformation, information security, data center and asset lifecycle management needs.  Iron Mountain Incorporated is based in Portsmouth, New Hampshire.
+DJIA
 
-[Ler noticia completa](https://finance.yahoo.com/quote/IRM)
+51267. 90
+
+0. 18%
+
+S&P 500
+
+7773.
+
+[Ler noticia completa](https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9)
 
 ---

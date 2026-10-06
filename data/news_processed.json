@@ -2,10 +2,122 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-06",
-    "total_noticias": 84,
-    "gerado_em": "2026-10-06T09:44:53.719764"
+    "total_noticias": 92,
+    "gerado_em": "2026-10-06T16:31:25.788803"
   },
   "noticias": [
+    {
+      "titulo": "What You Need to Know Ahead of Digital Realty Trust’s Earnings Release",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/know-ahead-digital-realty-trust-120027387.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-05",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nBarchart\n\n# What You Need to Know Ahead of Digital Realty Trust’s Earnings Release\n\nKritika Sarmah\n\n DLR\n\n  +0.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "If I Could Only Buy One AI Stock Before 2027, It Would Be This One",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-only-buy-one-ai-091000923.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "Amazon has generated earnings growth over time due to these businesses and has a track record of benefiting from its investments, as we can see through its return on invested capital. \n\nAMZN Revenue (Annual) Chart\n\nAMZN Revenue (Annual) data by YCharts\n\nThe company's e-commerce business has a solid moat, and this includes its vast fulfillment network, its extensive Prime subscription program, and its brand strength.  Meanwhile, Amazon has been a major winner in the AI market, benefiting in two ways.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/AI",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-05",
+      "resumo": "1.  Crypto\n2.  AI\n\nNYSE - Nasdaq Real Time Price • USD \n\n# C3.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Is Squeezing Out the Rest of the Stock Market",
+      "url": "https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3",
+      "fonte": "wsj.com",
+      "data": "2026-10-02",
+      "resumo": "AI Is Squeezing Out the Rest of the Stock Market.  Expect stocks outside tech to struggle, earnings to expand more slowly and concern about credit risk to grow..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The case for Nvidia’s stock to march even higher after clinching its first record high in months - MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937",
+      "fonte": "marketwatch.com",
+      "data": "2026-10-05",
+      "resumo": "### Referenced Symbols\n\n   NVDA +1. 31% \n\nWith Nvidia’s stock booking its first new record close in four months, analysts are upbeat about what’s ahead. \n\nNvidia shares\n\nNVDA +1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stocks are hitting records despite surging yields. Cramer explains why - CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-05",
+      "resumo": "Cramer said each of those companies has a powerful catalyst that can keep investors buying despite the pressure from higher rates.  Nvidia's latest chips are generating strong returns for customers, he said, pointing to SpaceX's large Nvidia-powered computing clusters and its efforts to make money by renting that computing capacity to companies developing AI.  Microsoft, meanwhile, is benefiting from improved sentiment around its Copilot AI assistant, while Meta is gaining from enthusiasm around its Muse personal agent app and its potential to deepen the company's relationship with small businesses.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Auddia Cancels October 7th Shareholder Meeting to Align Merger Vote with Expanding AI Infrastructure Opportunity",
+      "url": "https://finance.yahoo.com/technology/ai/articles/auddia-cancels-october-7th-shareholder-110000765.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "About the Merger to form McCarthy Finney (MCFN)\n\nAuddia entered into a definitive merger agreement with Thramann Holdings, LLC on February 17, 2026.  If completed, the transaction would combine Auddia with three early-stage, AI-native operating companies wholly owned by Thramann Holdings: LT350, Influence Healthcare, and Voyex.  The combined company would be renamed McCarthy Finney Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says. - MarketWatch",
+      "url": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9",
+      "fonte": "marketwatch.com",
+      "data": "2026-10-05",
+      "resumo": "DJIA\n\n51267. 90\n\n0. 18%\n\nS&P 500\n\n7773.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "3 Stocks From AI & Energy to Buy Before Q3 Earnings Kick Off",
       "url": "https://ca.finance.yahoo.com/news/3-stocks-ai-energy-buy-180000127.html",
