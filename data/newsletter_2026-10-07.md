@@ -1,163 +1,173 @@
 # Newsletter IA Bolsa — 2026-10-07
 
-**Gerado em:** 07/10/2026 09:44
+**Gerado em:** 07/10/2026 17:17
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. History Says Infrastructure Booms Create Winners and Losers. Here Are 3 AI Cloud Stocks to Watch.
+## 1. Nasdaq hits record high as AI stocks rally amid high bond yields
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-## The data center REIT leader: Equinix
+The Nasdaq's record also followed news that French engineering company Schneider Electric agreed to acquire U. S.  software maker PTC, according to The Wall Street Journal.
 
-Equinix (NASDAQ: EQIX), which operates 282 data centers on six continents, is the world's largest data center real estate investment trust (REIT).  It leases its centers to more than 10,500 tenants, including over 60% of the Fortune 500, and enables its customers to communicate directly with each other through 522,000 metro interconnections. 
-
-Equinix also splits its data centers into smaller and denser units than many of its peers, enabling it to serve a broader range of industries and smaller businesses.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/history-says-infrastructure-booms-create-165500661.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nasdaq-hits-record-high-ai-171915551.html)
 
 ---
 
-## 2. I’m Loading Up on Taiwan Semiconductor Ahead of Oct. 15 Earnings
+## 2. TSMC stock just hit a record — and the gains may be only starting
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-24/7 Wall St. 
+The AI semiconductor market is likely to double next year: "We expect TSMC's AI revenue growth to nearly double next year considering most of its AI semiconductor customers are expecting accelerating growth," Malik explained.  "TSMC's largest customer, Nvidia has guided to a doubling of its order intake and over 70% year over year revenue growth in FY2028E driven mainly by ongoing supply constraints.  AMD has guided to over 80% CAGR in its Data Center AI business, while Broadcom expects its AI semiconductor revenue to almost double in FY2028E.
 
-# I’m Loading Up on Taiwan Semiconductor Ahead of Oct.  15 Earnings
-
-Alex Sirois
-
- TSM
-
-  +2.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/m-loading-taiwan-semiconductor-ahead-111529120.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/article/tsmc-stock-just-hit-a-record--and-the-gains-may-be-only-starting-113728917.html)
 
 ---
 
-## 3. This AI infrastructure stock is up 16.8% this week as earnings beat estimates By Investing.com
+## 3. Nasdaq closes at fresh record as tech shares rise and traders look past higher yields
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The Nasdaq Composite was up 1. 05% and hit an intraday of 27,544. 07.
+
+[Ler noticia completa](https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html)
+
+---
+
+## 4. S&P 500, Nasdaq hit records — but 'the breadth of the rally has narrowed': Chart of the Day
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The touchstones of the AI trade are keeping the indexes higher. 
+
+Nvidia (NVDA), Apple (AAPL), and Microsoft (MSFT) represent over 21% of the index, according to data from Creative Planning. 
+
+Nvidia touched an all-time high on Tuesday, along with peer AMD (AMD).
+
+[Ler noticia completa](https://finance.yahoo.com/markets/article/sp-500-nasdaq-hit-records--but-the-breadth-of-the-rally-has-narrowed-chart-of-the-day-100000341.html)
+
+---
+
+## 5. S&P 500 hits intraday record high as AI rally continues
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+## S&P 500 hits intraday record high as AI rally continues
+
+Traders work on the floor at the New York Stock Exchange (NYSE) in New York City, US, September 29, 2026.  REUTERS/Jeenah Moon
+
+Reuters
+
+ ^IXIC
+
+  +0. 70%
+ ^GSPC
+
+  +0.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/p-500-hits-intraday-record-133900526.html)
+
+---
+
+## 6. Want to join markets at record highs? These AI picks are breaking out in October By Investing.com
 
 **Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-EFOR (Everforth) - +105. 1% since it was picked on July 1, 2026 | AI-era software compounder with durable demand
- CVI (CVR Energy) - +84. 3% since it was picked on August 1, 2026 | Refining margin recovery driving earnings recovery
- DK (Delek US Holdings) - +78.
+Just yesterday, Penguin reported its Q4 results and smashed expectations with a record $567 million in revenue (+68% YoY)—crushing Wall Street estimates of $520 million.  Earnings per share hit $1. 00, topping consensus forecasts by $0.
 
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/this-ai-infrastructure-stock-is-up-168-this-week-as-earnings-beat-estimates-4935562)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/want-to-join-markets-at-record-highs-these-ai-picks-are-breaking-out-in-october-4935796)
 
 ---
 
-## 4. Nexus Advanced Technologies Signs Confidential Exclusivity for Proposed $500 Million Reverse Merger | Markets Insider
+## 7. DigiCo Infrastructure REIT (DGT.XA) Stock Price, News, Quote & History - Yahoo Finance
 
-**Fonte:** markets.businessinsider.com  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+DigiCo Infrastructure REIT (DGT) is a diversified owner, operator and developer of data centres, with a global portfolio and broad investment mandate across Stabilized, Value-add and Development opportunities.  DigiCo Infrastructure REIT was established on November 01, 2024. 
+
+www.
+
+[Ler noticia completa](https://finance.yahoo.com/quote/DGT.XA)
+
+---
+
+## 8. Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance
+
+**Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Any transaction would be subject to satisfactory due diligence, execution of definitive agreements, applicable corporate and shareholder approvals, and satisfaction of regulatory, Nasdaq and other closing requirements.    
-About Nexus Advanced Technologies   
-Nexus Advanced Technologies Inc.  (Nasdaq: NXAT) pursues strategic investments, acquisitions and partnerships across AI infrastructure and advanced technologies, including data centers, AI compute and GPU infrastructure.
+The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.
 
-[Ler noticia completa](https://markets.businessinsider.com/news/stocks/nexus-advanced-technologies-signs-confidential-exclusivity-for-proposed-500-million-reverse-merger-1036600555)
+[Ler noticia completa](https://finance.yahoo.com/quote/DTCR)
 
 ---
 
-## 5. Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?
+## 9. Up +60% and climbing: This AI-picked tech play keeps landing billion-dollar deals By Investing.com
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-In its latest annual report, filed for the fiscal year ended Jan.  25, 2026, revenue reached nearly $215. 9 billion.
+Fuel was poured on the fire when HPE dropped a blowout third-quarter earnings report that smashed analyst expectations.  Revenue skyrocketed 34% year-over-year to $12. 2 billion, while earnings surged 152% to $1.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-taiwan-semiconductor-manufacturing-000354806.html)
-
----
-
-## 6. The Zacks Analyst Blog Highlights Lam, Taiwan, Marathon, NVIDIA, Micron and Alphabet
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Lam Research Corporation price-eps-surprise | Lam Research Corporation Quote
-
-TSMC: It offers direct exposure to sustained AI accelerator demand through advanced-chip manufacturing.  The company guided third-quarter revenues of $44. 6-$45.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-lam-052500097.html)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/up-60-and-climbing-this-aipicked-tech-play-keeps-dropping-billiondollar-deals-4936798)
 
 ---
 
-## 7. TSM Stock Price | Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote (U.S.: NYSE) | MarketWatch
+## 10. EMBRAER ON Share Price Today | BVMF: EMBJ3 - Investing.com IN
 
-**Fonte:** marketwatch.com  
+**Fonte:** in.investing.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-## Competitors
+B3
 
-| Name | Chg % | Market Cap |
- --- 
-| NVIDIA Corp.  | 2. 12% | $5.
+|  |
 
-[Ler noticia completa](https://www.marketwatch.com/investing/stock/tsm)
+|  | Symbol |  | Exchange |  | Currency |
+|  | EMBJ3 | · | B3 | · | BRL | Delayed |
+|  | EMBJ | · | NYSE | · | USD | Real-time |
+|  | EMBJm | · | Buenos Aires | · | ARS | Delayed |
+|  | EMBJN | · | Mexico | · | MXN | Delayed |
+|  | ERJy | · | TradeGate | · | EUR | Delayed |
 
----
+Currency in BRL
 
-## 8. Investors Heavily Search Taiwan Semiconductor Manufacturing Company Ltd. (TSM): Here is What You Need to Know
+EMBJ3 Pro Research
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
+Add to Watchlist
 
-Our analysis is essentially based on how sell-side analysts covering the stock are revising their earnings estimates to take the latest business trends into account.  When earnings estimates for a company go up, the fair value for its stock goes up as well.  And when a stock's fair value is higher than its current market price, investors tend to buy the stock, resulting in its price moving upward.
+95. 00
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-taiwan-semiconductor-120006394.html)
+-3. 25(-3.
 
----
-
-## 9. The S&P 500 Hits a New Record High, Powered by Tech—and Not Much Else - WSJ
-
-**Fonte:** wsj.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The AI trade is propelling stocks to new heights—and it is dragging the rest of the market along for the ride. 
-
-The S&P 500 and Nasdaq composite blew past new closing records on Tuesday, the latest leg of a rally that has powered through everything in its path, from the Federal Reserve’s decision to raise rates for the first time in three years to a monthslong war that lifted oil prices to $100 a barrel. 
-
-Copyright ©2026 Dow Jones & Company, Inc.
-
-[Ler noticia completa](https://www.wsj.com/finance/stocks/the-s-p-500-hits-a-new-record-high-powered-by-techand-not-much-else-66e01705)
-
----
-
-## 10. Review & Preview: Artificial Highs?
-
-**Fonte:** marketwatch.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The Nasdaq hit its 23rd record close of the year, as AI once again dominated trading..
-
-[Ler noticia completa](https://www.marketwatch.com/story/review-preview-stocks-today-ai-pepsico-cfa4d38e?mod=default_seemore)
+[Ler noticia completa](https://in.investing.com/equities/embraer-on-nm)
 
 ---

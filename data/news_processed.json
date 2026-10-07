@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-07",
-    "total_noticias": 89,
-    "gerado_em": "2026-10-07T09:44:19.019039"
+    "total_noticias": 99,
+    "gerado_em": "2026-10-07T17:17:35.561243"
   },
   "noticias": [
+    {
+      "titulo": "Nasdaq hits record high as AI stocks rally amid high bond yields",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-hits-record-high-ai-171915551.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-05",
+      "resumo": "The Nasdaq's record also followed news that French engineering company Schneider Electric agreed to acquire U. S.  software maker PTC, according to The Wall Street Journal.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC stock just hit a record — and the gains may be only starting",
+      "url": "https://finance.yahoo.com/markets/stocks/article/tsmc-stock-just-hit-a-record--and-the-gains-may-be-only-starting-113728917.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-07",
+      "resumo": "The AI semiconductor market is likely to double next year: \"We expect TSMC's AI revenue growth to nearly double next year considering most of its AI semiconductor customers are expecting accelerating growth,\" Malik explained.  \"TSMC's largest customer, Nvidia has guided to a doubling of its order intake and over 70% year over year revenue growth in FY2028E driven mainly by ongoing supply constraints.  AMD has guided to over 80% CAGR in its Data Center AI business, while Broadcom expects its AI semiconductor revenue to almost double in FY2028E.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq closes at fresh record as tech shares rise and traders look past higher yields",
+      "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-04",
+      "resumo": "The Nasdaq Composite was up 1. 05% and hit an intraday of 27,544. 07.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "S&P 500, Nasdaq hit records — but 'the breadth of the rally has narrowed': Chart of the Day",
+      "url": "https://finance.yahoo.com/markets/article/sp-500-nasdaq-hit-records--but-the-breadth-of-the-rally-has-narrowed-chart-of-the-day-100000341.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-07",
+      "resumo": "The touchstones of the AI trade are keeping the indexes higher. \n\nNvidia (NVDA), Apple (AAPL), and Microsoft (MSFT) represent over 21% of the index, according to data from Creative Planning. \n\nNvidia touched an all-time high on Tuesday, along with peer AMD (AMD).",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "S&P 500 hits intraday record high as AI rally continues",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-hits-intraday-record-133900526.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "## S&P 500 hits intraday record high as AI rally continues\n\nTraders work on the floor at the New York Stock Exchange (NYSE) in New York City, US, September 29, 2026.  REUTERS/Jeenah Moon\n\nReuters\n\n ^IXIC\n\n  +0. 70%\n ^GSPC\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Want to join markets at record highs? These AI picks are breaking out in October By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/want-to-join-markets-at-record-highs-these-ai-picks-are-breaking-out-in-october-4935796",
+      "fonte": "investing.com",
+      "data": "2026-10-07",
+      "resumo": "Just yesterday, Penguin reported its Q4 results and smashed expectations with a record $567 million in revenue (+68% YoY)—crushing Wall Street estimates of $520 million.  Earnings per share hit $1. 00, topping consensus forecasts by $0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DigiCo Infrastructure REIT (DGT.XA) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DGT.XA",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "DigiCo Infrastructure REIT (DGT) is a diversified owner, operator and developer of data centres, with a global portfolio and broad investment mandate across Stabilized, Value-add and Development opportunities.  DigiCo Infrastructure REIT was established on November 01, 2024. \n\nwww.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DTCR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-07",
+      "resumo": "The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Up +60% and climbing: This AI-picked tech play keeps landing billion-dollar deals By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/up-60-and-climbing-this-aipicked-tech-play-keeps-dropping-billiondollar-deals-4936798",
+      "fonte": "investing.com",
+      "data": "2026-10-07",
+      "resumo": "Fuel was poured on the fire when HPE dropped a blowout third-quarter earnings report that smashed analyst expectations.  Revenue skyrocketed 34% year-over-year to $12. 2 billion, while earnings surged 152% to $1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "EMBRAER ON Share Price Today | BVMF: EMBJ3 - Investing.com IN",
+      "url": "https://in.investing.com/equities/embraer-on-nm",
+      "fonte": "in.investing.com",
+      "data": "2026-10-01",
+      "resumo": "B3\n\n|  |\n\n|  | Symbol |  | Exchange |  | Currency |\n|  | EMBJ3 | · | B3 | · | BRL | Delayed |\n|  | EMBJ | · | NYSE | · | USD | Real-time |\n|  | EMBJm | · | Buenos Aires | · | ARS | Delayed |\n|  | EMBJN | · | Mexico | · | MXN | Delayed |\n|  | ERJy | · | TradeGate | · | EUR | Delayed |\n\nCurrency in BRL\n\nEMBJ3 Pro Research\n\nAdd to Watchlist\n\n95. 00\n\n-3. 25(-3.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "History Says Infrastructure Booms Create Winners and Losers. Here Are 3 AI Cloud Stocks to Watch.",
       "url": "https://finance.yahoo.com/technology/ai/articles/history-says-infrastructure-booms-create-165500661.html",
