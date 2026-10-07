@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-10-06",
-    "total_noticias": 92,
-    "gerado_em": "2026-10-06T16:31:25.788803"
+    "data": "2026-10-07",
+    "total_noticias": 89,
+    "gerado_em": "2026-10-07T09:44:19.019039"
   },
   "noticias": [
+    {
+      "titulo": "History Says Infrastructure Booms Create Winners and Losers. Here Are 3 AI Cloud Stocks to Watch.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/history-says-infrastructure-booms-create-165500661.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "## The data center REIT leader: Equinix\n\nEquinix (NASDAQ: EQIX), which operates 282 data centers on six continents, is the world's largest data center real estate investment trust (REIT).  It leases its centers to more than 10,500 tenants, including over 60% of the Fortune 500, and enables its customers to communicate directly with each other through 522,000 metro interconnections. \n\nEquinix also splits its data centers into smaller and denser units than many of its peers, enabling it to serve a broader range of industries and smaller businesses.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "I’m Loading Up on Taiwan Semiconductor Ahead of Oct. 15 Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/m-loading-taiwan-semiconductor-ahead-111529120.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-05",
+      "resumo": "24/7 Wall St. \n\n# I’m Loading Up on Taiwan Semiconductor Ahead of Oct.  15 Earnings\n\nAlex Sirois\n\n TSM\n\n  +2.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "This AI infrastructure stock is up 16.8% this week as earnings beat estimates By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/this-ai-infrastructure-stock-is-up-168-this-week-as-earnings-beat-estimates-4935562",
+      "fonte": "investing.com",
+      "data": "2026-10-07",
+      "resumo": "EFOR (Everforth) - +105. 1% since it was picked on July 1, 2026 | AI-era software compounder with durable demand\n CVI (CVR Energy) - +84. 3% since it was picked on August 1, 2026 | Refining margin recovery driving earnings recovery\n DK (Delek US Holdings) - +78.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nexus Advanced Technologies Signs Confidential Exclusivity for Proposed $500 Million Reverse Merger | Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/nexus-advanced-technologies-signs-confidential-exclusivity-for-proposed-500-million-reverse-merger-1036600555",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-10-06",
+      "resumo": "Any transaction would be subject to satisfactory due diligence, execution of definitive agreements, applicable corporate and shareholder approvals, and satisfaction of regulatory, Nasdaq and other closing requirements.    \nAbout Nexus Advanced Technologies   \nNexus Advanced Technologies Inc.  (Nasdaq: NXAT) pursues strategic investments, acquisitions and partnerships across AI infrastructure and advanced technologies, including data centers, AI compute and GPU infrastructure.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-taiwan-semiconductor-manufacturing-000354806.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "In its latest annual report, filed for the fiscal year ended Jan.  25, 2026, revenue reached nearly $215. 9 billion.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The Zacks Analyst Blog Highlights Lam, Taiwan, Marathon, NVIDIA, Micron and Alphabet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-lam-052500097.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "Lam Research Corporation price-eps-surprise | Lam Research Corporation Quote\n\nTSMC: It offers direct exposure to sustained AI accelerator demand through advanced-chip manufacturing.  The company guided third-quarter revenues of $44. 6-$45.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSM Stock Price | Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote (U.S.: NYSE) | MarketWatch",
+      "url": "https://www.marketwatch.com/investing/stock/tsm",
+      "fonte": "marketwatch.com",
+      "data": "2026-10-05",
+      "resumo": "## Competitors\n\n| Name | Chg % | Market Cap |\n --- \n| NVIDIA Corp.  | 2. 12% | $5.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Investors Heavily Search Taiwan Semiconductor Manufacturing Company Ltd. (TSM): Here is What You Need to Know",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-taiwan-semiconductor-120006394.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "Our analysis is essentially based on how sell-side analysts covering the stock are revising their earnings estimates to take the latest business trends into account.  When earnings estimates for a company go up, the fair value for its stock goes up as well.  And when a stock's fair value is higher than its current market price, investors tend to buy the stock, resulting in its price moving upward.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The S&P 500 Hits a New Record High, Powered by Tech—and Not Much Else - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/the-s-p-500-hits-a-new-record-high-powered-by-techand-not-much-else-66e01705",
+      "fonte": "wsj.com",
+      "data": "2026-10-06",
+      "resumo": "The AI trade is propelling stocks to new heights—and it is dragging the rest of the market along for the ride. \n\nThe S&P 500 and Nasdaq composite blew past new closing records on Tuesday, the latest leg of a rally that has powered through everything in its path, from the Federal Reserve’s decision to raise rates for the first time in three years to a monthslong war that lifted oil prices to $100 a barrel. \n\nCopyright ©2026 Dow Jones & Company, Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Review & Preview: Artificial Highs?",
+      "url": "https://www.marketwatch.com/story/review-preview-stocks-today-ai-pepsico-cfa4d38e?mod=default_seemore",
+      "fonte": "marketwatch.com",
+      "data": "2026-10-06",
+      "resumo": "The Nasdaq hit its 23rd record close of the year, as AI once again dominated trading..",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "What You Need to Know Ahead of Digital Realty Trust’s Earnings Release",
       "url": "https://finance.yahoo.com/markets/stocks/articles/know-ahead-digital-realty-trust-120027387.html",
@@ -511,20 +651,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Taiwan Semiconductor Manufacturing Co. Ltd. ADR (TSM) Stock Price Today - The Wall Street Journal",
-      "url": "https://www.wsj.com/market-data/stock/tsm",
-      "fonte": "wsj.com",
-      "data": "2026-09-29",
-      "resumo": "Barron's Online\n\nNvidia Supplier FormFactor’s Stock Surges After Deutsche Bank Says It’s a Buy\n\nBarron's Online\n\nTSMC Is Ready to Spend $265 Billion in the U. S.  It Could Spend Even More.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, News, Quote & History - Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/TSM",
       "fonte": "finance.yahoo.com",
@@ -581,20 +707,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "CrowdStrike: Time To Ring The Register (NASDAQ:CRWD) | Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4950806-crowdstrike-time-to-ring-the-register",
-      "fonte": "seekingalpha.com",
-      "data": "2026-09-29",
-      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# CrowdStrike: Time To Ring The Register\n\n## Summary\n\nCaucasian female IT engineer working in server room \n\nGetty Images\n\nCaucasian female IT engineer working in server room\n\nGetty Images\n\nShares of cybersecurity firm CrowdStrike Holdings, Inc.  (CRWD) have rallied over 40% in the past month, capping an approximate 1,000% run since Jan.  2023, owing to great execution and robust AI tailwinds.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "How AI investment has unusually large multiplier effects",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-investment-unusually-large-multiplier-205101592.html",
       "fonte": "finance.yahoo.com",
@@ -643,20 +755,6 @@
       "data": "2026-10-02",
       "resumo": "The upcoming earnings release of TSMC will be of great interest to investors.  The company's earnings report is expected on October 15, 2026.  The company's upcoming EPS is projected at $4.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "BOVV11 - Cotação Hoje | It Now Ibovespa ETF - Investing.com",
-      "url": "https://br.investing.com/etfs/it-now-ibovespa-fundo-de-indice",
-      "fonte": "br.investing.com",
-      "data": "2026-09-29",
-      "resumo": "B3\n\nMoeda em BRL\n\n198,35\n\n+5,34(+2,76%)\n\nFechado·\n\nVar.  Diária\n\n192,30198,87\n\nVar.  52 semanas\n\n143,99205,42\n\nVar.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -1141,152 +1239,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TSMC's 2nm Push Could Create a New Winner in the AI ...",
-      "url": "https://uk.finance.yahoo.com/news/tsmcs-2nm-push-could-create-182110589.html",
-      "fonte": "uk.finance.yahoo.com",
-      "data": "2026-09-29",
-      "resumo": "TSMC's 2nm Push Could Create a New Winner in the AI Chip Boom · TSM.  +1. 22% · AAPL.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.46%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-046-4923508",
-      "fonte": "investing.com",
-      "data": "2026-09-29",
-      "resumo": "Using powerful AI to generate exciting stock ideas, it looks beyond popularity to assess fundamentals, momentum, and valuation.  The AI has no bias—it simply.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stocks Rise Pre-Bell as Investors Weigh Growing AI Safety ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-investors-120013584.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-29",
-      "resumo": "Average inched up 0. 1% each in premarket activity, while the Nasdaq gained 0. 3%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Stock Moves Higher as AI Revival Meets Capacity Risk",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-moves-higher-ai-184615945.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-29",
-      "resumo": "Most active \n       NVDA NVIDIA Corporation 227. 21-1. 65(-0.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Equinix at RBC Capital Markets conference: ai demand lifts ...",
-      "url": "https://www.investing.com/news/transcripts/equinix-at-rbc-capital-markets-conference-ai-demand-lifts-outlook-93CH-4923622",
-      "fonte": "investing.com",
-      "data": "2026-09-29",
-      "resumo": "Equinix shares closed at $1,015. 27, up 0. 42% in the regular session.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "How Does Taiwan Semiconductor Manufacturing (TSM) Fit Into The New AI Supply Chain?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-taiwan-semiconductor-manufacturing-tsm-170934521.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-29",
-      "resumo": "Most active \n       NVDA NVIDIA Corporation 227. 21-1. 65(-0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Company Limited ...",
-      "url": "https://finance.yahoo.com/quote/TSM/latest-news",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-29",
-      "resumo": "NVDA TSM +0. 90 HSBC Upgrades Synopsys to Buy, Sees 28% Earnings Growth Through 2028.  Prices By 3% To 6.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "CFO da Pagaya vende US$ 10.053 em ações da empresa",
       "url": "https://br.investing.com/news/insider-trading-news/cfo-da-pagaya-vende-us-10053-em-acoes-da-empresa-93CH-2078893",
       "fonte": "br.investing.com",
       "data": "2026-09-30",
       "resumo": "Ibovespa Mini Ibovespa.  Pagaya Technologies Ltd.  (NASDAQ:PGY), US$ 10.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "I’m Jumping Back Into Taiwan Semiconductor Again and I Won’t Stop This Time",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/m-jumping-back-taiwan-semiconductor-161210612.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-29",
-      "resumo": "## Income That Grows Alongside the Business\n\nFor my retirement account, the dividend matters.  TSMC declared TWD 7. 00 per share for Q1 2026, up from TWD 6.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Belgium Existing and Upcoming Data Center Portfolio Analysis, 2026-2031 | Hyperscale Investment and AI, HPC, and Cloud Demand Drive Capacity Expansion",
-      "url": "https://finance.yahoo.com/technology/articles/belgium-existing-upcoming-data-center-081500256.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-29",
-      "resumo": "Strategic Value of the Database\n\nThe Belgium data center market database enables users to compare facility portfolios, assess available and planned capacity, evaluate colocation pricing and monitor infrastructure investment.  Its structured Excel format supports detailed market modeling, location analysis, competitive benchmarking and business development planning.  By combining operational facility information with upcoming project data, the product offers a consolidated view of current market conditions and future growth opportunities.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Safety News Puts TSMC Stock And Secure Cloud Plays In Focus",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-safety-news-puts-tsmc-042654263.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-29",
-      "resumo": "44.    News • Sep 21, 2026 The Nasdaq led the Dow and S&P 500 higher as falling oil prices boosted stocks\n45.    News • Sep 21, 2026 Meta stock rockets more than 10% on price target increase and Muse AI agent downloads\n46.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"

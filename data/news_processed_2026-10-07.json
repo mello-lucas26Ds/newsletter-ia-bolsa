@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-07",
+    "total_noticias": 10,
+    "gerado_em": "2026-10-07T09:44:19.017100"
+  },
+  "noticias": [
+    {
+      "titulo": "History Says Infrastructure Booms Create Winners and Losers. Here Are 3 AI Cloud Stocks to Watch.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/history-says-infrastructure-booms-create-165500661.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "## The data center REIT leader: Equinix\n\nEquinix (NASDAQ: EQIX), which operates 282 data centers on six continents, is the world's largest data center real estate investment trust (REIT).  It leases its centers to more than 10,500 tenants, including over 60% of the Fortune 500, and enables its customers to communicate directly with each other through 522,000 metro interconnections. \n\nEquinix also splits its data centers into smaller and denser units than many of its peers, enabling it to serve a broader range of industries and smaller businesses.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "I’m Loading Up on Taiwan Semiconductor Ahead of Oct. 15 Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/m-loading-taiwan-semiconductor-ahead-111529120.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-05",
+      "resumo": "24/7 Wall St. \n\n# I’m Loading Up on Taiwan Semiconductor Ahead of Oct.  15 Earnings\n\nAlex Sirois\n\n TSM\n\n  +2.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "This AI infrastructure stock is up 16.8% this week as earnings beat estimates By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/this-ai-infrastructure-stock-is-up-168-this-week-as-earnings-beat-estimates-4935562",
+      "fonte": "investing.com",
+      "data": "2026-10-07",
+      "resumo": "EFOR (Everforth) - +105. 1% since it was picked on July 1, 2026 | AI-era software compounder with durable demand\n CVI (CVR Energy) - +84. 3% since it was picked on August 1, 2026 | Refining margin recovery driving earnings recovery\n DK (Delek US Holdings) - +78.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nexus Advanced Technologies Signs Confidential Exclusivity for Proposed $500 Million Reverse Merger | Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/nexus-advanced-technologies-signs-confidential-exclusivity-for-proposed-500-million-reverse-merger-1036600555",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-10-06",
+      "resumo": "Any transaction would be subject to satisfactory due diligence, execution of definitive agreements, applicable corporate and shareholder approvals, and satisfaction of regulatory, Nasdaq and other closing requirements.    \nAbout Nexus Advanced Technologies   \nNexus Advanced Technologies Inc.  (Nasdaq: NXAT) pursues strategic investments, acquisitions and partnerships across AI infrastructure and advanced technologies, including data centers, AI compute and GPU infrastructure.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-taiwan-semiconductor-manufacturing-000354806.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "In its latest annual report, filed for the fiscal year ended Jan.  25, 2026, revenue reached nearly $215. 9 billion.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The Zacks Analyst Blog Highlights Lam, Taiwan, Marathon, NVIDIA, Micron and Alphabet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-lam-052500097.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "Lam Research Corporation price-eps-surprise | Lam Research Corporation Quote\n\nTSMC: It offers direct exposure to sustained AI accelerator demand through advanced-chip manufacturing.  The company guided third-quarter revenues of $44. 6-$45.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSM Stock Price | Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote (U.S.: NYSE) | MarketWatch",
+      "url": "https://www.marketwatch.com/investing/stock/tsm",
+      "fonte": "marketwatch.com",
+      "data": "2026-10-05",
+      "resumo": "## Competitors\n\n| Name | Chg % | Market Cap |\n --- \n| NVIDIA Corp.  | 2. 12% | $5.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Investors Heavily Search Taiwan Semiconductor Manufacturing Company Ltd. (TSM): Here is What You Need to Know",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-taiwan-semiconductor-120006394.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "Our analysis is essentially based on how sell-side analysts covering the stock are revising their earnings estimates to take the latest business trends into account.  When earnings estimates for a company go up, the fair value for its stock goes up as well.  And when a stock's fair value is higher than its current market price, investors tend to buy the stock, resulting in its price moving upward.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The S&P 500 Hits a New Record High, Powered by Tech—and Not Much Else - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/the-s-p-500-hits-a-new-record-high-powered-by-techand-not-much-else-66e01705",
+      "fonte": "wsj.com",
+      "data": "2026-10-06",
+      "resumo": "The AI trade is propelling stocks to new heights—and it is dragging the rest of the market along for the ride. \n\nThe S&P 500 and Nasdaq composite blew past new closing records on Tuesday, the latest leg of a rally that has powered through everything in its path, from the Federal Reserve’s decision to raise rates for the first time in three years to a monthslong war that lifted oil prices to $100 a barrel. \n\nCopyright ©2026 Dow Jones & Company, Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Review & Preview: Artificial Highs?",
+      "url": "https://www.marketwatch.com/story/review-preview-stocks-today-ai-pepsico-cfa4d38e?mod=default_seemore",
+      "fonte": "marketwatch.com",
+      "data": "2026-10-06",
+      "resumo": "The Nasdaq hit its 23rd record close of the year, as AI once again dominated trading..",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
