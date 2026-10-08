@@ -2,30 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-08",
-    "total_noticias": 10,
-    "gerado_em": "2026-10-08T09:54:51.238337"
+    "total_noticias": 8,
+    "gerado_em": "2026-10-08T17:13:09.663389"
   },
   "noticias": [
     {
-      "titulo": "TSMC Q3 sales beat estimates on surging AI chip demand",
-      "url": "https://ca.finance.yahoo.com/news/tsmc-q3-sales-beat-estimates-062509678.html",
-      "fonte": "ca.finance.yahoo.com",
+      "titulo": "ETFs to Benefit as Nasdaq's Breakthrough Still Matters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-benefit-nasdaqs-breakthrough-still-130400149.html",
+      "fonte": "finance.yahoo.com",
       "data": "2026-10-08",
-      "resumo": "1 min read\n\n TSM\n\n  -2. 09%\n NVDA\n\n  -0. 74%\n TSM\n\n  -2.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC’s third-quarter revenue surges to record, beating market forecast By Reuters",
-      "url": "https://www.investing.com/news/stock-market-news/tsmcs-thirdquarter-revenue-surges-50-yy-beating-market-forecast-4937913",
-      "fonte": "investing.com",
-      "data": "2026-10-08",
-      "resumo": "By Fawad Razaqz. \n\nOct 05, 2026\n\nMore News\n\nMarket Movers\n\n| Name | Last | Chg.  % | Vol.",
+      "resumo": "The index has risen 18. 5% year to date, highlighting the continued strength of the growth and technology stocks.  The latest gains have been particularly notable because they came against a backdrop of elevated Treasury yields, with the 10-year Treasury yield at 5.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -35,11 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TSMC Q3 sales beat estimates on surging AI chip demand By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/tsmc-q3-sales-beat-estimates-on-surging-ai-chip-demand-4937923",
+      "titulo": "DTCR Stock Price | Global X Data Center & Digital Infrastructure ETF - Investing.com",
+      "url": "https://www.investing.com/etfs/vpn",
       "fonte": "investing.com",
-      "data": "2026-10-08",
-      "resumo": "Third-quarter revenue reached about NT$1. 49 trillion ($46. 7 billion), according to calculations, up 50% from a year earlier and exceeding the NT$1.",
+      "data": "2026-10-05",
+      "resumo": "Global X Funds - Global X Data Center & Digital Infrastructure ETF is an exchange traded fund launched and managed by Global X Management Company LLC.  It invests in the public equity markets of global region.  The fund invests in stocks of companies operating across data center REITs and digital infrastructure companies including companies in the fields of data centers, cellular towers, and/or digital infrastructure hardware, information technology, software and services, IT services, internet services and infrastructure, co-location/data centers sectors.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -49,11 +35,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI Stocks Micron and Sandisk Are Up 460% and 1,190% in the Past Year. History Says This Will Happen Next.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-micron-sandisk-460-090802439.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-07",
-      "resumo": "Motley Fool\n\n# AI Stocks Micron and Sandisk Are Up 460% and 1,190% in the Past Year.  History Says This Will Happen Next. \n\nTrevor Jennewine, The Motley Fool\n\n5 min read\n\n MU\n\n  -1.",
+      "titulo": "TSMC's September sales jump more than 50% year over year - CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-08",
+      "resumo": "In this article\n\nThe world's largest contract chipmaker Taiwan Semiconductor Manufacturing Co posted revenue of $511. 86 billion New Taiwan dollars ($16. 03 billion) for September, up 54.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -63,11 +49,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Wall Street's AI earnings excitement spills into 2027 but risks market 'air pocket'",
-      "url": "https://finance.yahoo.com/markets/article/wall-streets-ai-earnings-excitement-spills-into-2027-but-risks-market-air-pocket-144308239.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-07",
-      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nWatch Live   Satya Nadella and Jensen Huang reveal Microsoft's new laptop powered by Nvidia's chips\n\nYahoo Finance\n\n# Wall Street's AI earnings excitement spills into 2027 but risks market 'air pocket'\n\nBrian Sozzi\n\nBrian Sozzi  · Executive Editor\n\n2 min read\n\n ^GSPC\n\n  -0.",
+      "titulo": "Auddia Posts CEO Letter to Shareholders Highlighting LT350 Momentum, Strategic Partnerships, and AI Infrastructure Opportunity | Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/auddia-posts-ceo-letter-to-shareholders-highlighting-lt350-momentum-strategic-partnerships-and-ai-infrastructure-opportunity-1036608308",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-10-08",
+      "resumo": "BOULDER, Colo. , Oct.  08, 2026 (GLOBE NEWSWIRE) -- Auddia Inc.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -77,53 +63,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "SAP agrees to acquire AI work intelligence firm TechWolf",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sap-agrees-acquire-ai-intelligence-091723413.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-07",
-      "resumo": "Following completion of the deal, TechWolf's technology is expected to sit at the centre of the SAP SuccessFactors portfolio, underpinning workforce planning, skills-based talent strategies and organisational redesign. \n\nThe two companies also plan to jointly develop new AI-powered workforce and skills optimisation products after the deal closes.  Existing joint customers are already reporting measurable results from the partnership.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://ca.finance.yahoo.com/quote/AI",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-10-03",
-      "resumo": "11. 00  -0. 01  (-0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Michael Burry warns Wall Street has been inflating tech earnings by 42% for a decade — and you're paying for it",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-wall-street-104500937.html",
+      "titulo": "The Only 2 Artificial Intelligence (AI) Stocks I'd Buy With $1,000 Today and Never Sell",
+      "url": "https://finance.yahoo.com/technology/ai/articles/only-2-artificial-intelligence-ai-125300853.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-06",
-      "resumo": "Burry has previously warned that AI hyperscalers are artificially boosting their earnings by understating the depreciation of their assets (4). \n\nRead More: Vanguard reveals what's coming for U. S.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "C3.ai, Inc. (AI) stock price, news, quote and history - Yahoo Finance",
-      "url": "https://nz.finance.yahoo.com/quote/AI",
-      "fonte": "nz.finance.yahoo.com",
-      "data": "2026-10-03",
-      "resumo": "www. c3. ai\n\n764\n\n### Full-time employees\n\n30 April\n\n### Fiscal year ends\n\nTechnology\n\n### Sector\n\nSoftware - Infrastructure\n\n### Industry\n\nMore about C3.",
+      "resumo": "A look at the key numbers indicates how big its opportunity could become.  Iren reported $137. 2 million in revenue for its fiscal 2026 fourth quarter, which ended June 30.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -133,11 +77,39 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Strip Out AI and the S&P 500 Looks Very Different, Goldman Index Shows",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strip-ai-p-500-looks-030000720.html",
-      "fonte": "finance.yahoo.com",
+      "titulo": "Brazil markets' Bolsonaro rally sends stock exchange to ...",
+      "url": "https://www.reuters.com/world/americas/brazil-markets-set-rally-bolsonaro-leads-first-round-vote-2026-10-05",
+      "fonte": "reuters.com",
+      "data": "2026-10-05",
+      "resumo": "Technology Artificial Intelligence Cybersecurity.  Brazil's Bovespa index (. BVSP) settled at 206,911.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Samsung shares fall as record Q3 profit misses lofty expectations - Investing.com",
+      "url": "https://www.investing.com/news/earnings/samsung-q3-profit-surges-to-record-high-but-misses-lofty-expectations-4937706",
+      "fonte": "investing.com",
       "data": "2026-10-07",
-      "resumo": "BeInCrypto\n\n# Strip Out AI and the S&P 500 Looks Very Different, Goldman Index Shows\n\nDarryn Pollock\n\n2 min read\n\n ^GSPC\n\n  +0. 58%\n ^IXIC\n\n  +0. 45%\n\nThe S&P 500 has gained 18.",
+      "resumo": "By Jeremy Wagne. \n\nOct 07, 2026\n\nMore News\n\nMarket Movers\n\n| Name | Last | Chg.  % | Vol.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia Stock Price Target Splits Crypto Punters: Here's Where They See the Chip Giant Going in October - Benzinga",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62208307/nvidia-stock-price-target-crypto-punters-october-nvda",
+      "fonte": "benzinga.com",
+      "data": "2026-10-07",
+      "resumo": "Ring the Bell\n\nA newsletter built for market enthusiasts by market enthusiasts.  Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes. \n\n Terms & Conditions\n Do Not Sell My Personal Data/Privacy Policy\n Disclaimer\n Service Status\n\n© 2026Benzinga | All Rights Reserved\n\nMy Account\n\nNotifications\n\nOverview\n\n+ New Watchlist\n\nBenzinga Edge\n\nBenzinga Research\n\nBenzinga Pro\n\nLogout\n\nby Aniket Verma Benzinga Staff Writer\n\nFollow\n\n$BTCBitcoin\n\n$83940.",
       "sentimento": "bullish",
       "tags": [
         "AI",
