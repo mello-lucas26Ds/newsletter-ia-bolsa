@@ -1,60 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-investors-120013584.html": {
-    "hash": "fa2ebf58477317f0a9202658eb0f1502",
-    "visto_em": "2026-09-30"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-moves-higher-ai-184615945.html": {
-    "hash": "01cd2da971afcf26d533818b9ebef26a",
-    "visto_em": "2026-09-30"
-  },
-  "https://www.investing.com/news/transcripts/equinix-at-rbc-capital-markets-conference-ai-demand-lifts-outlook-93CH-4923622": {
-    "hash": "146ba66a9c9599bdded4864e49f886ee",
-    "visto_em": "2026-09-30"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/does-taiwan-semiconductor-manufacturing-tsm-170934521.html": {
-    "hash": "01cd2da971afcf26d533818b9ebef26a",
-    "visto_em": "2026-09-30"
-  },
-  "https://finance.yahoo.com/quote/TSM/latest-news": {
-    "hash": "8f78c4ead7af98185ee623cd98a93cd3",
-    "visto_em": "2026-09-30"
-  },
-  "https://br.investing.com/news/insider-trading-news/cfo-da-pagaya-vende-us-10053-em-acoes-da-empresa-93CH-2078893": {
-    "hash": "ffbbc967bcecf5a00b4abd58de6a4a6d",
-    "visto_em": "2026-09-30"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/m-jumping-back-taiwan-semiconductor-161210612.html": {
-    "hash": "980df56155e556d70b1d16e3bf93147e",
-    "visto_em": "2026-09-30"
-  },
-  "https://www.cnbc.com/2026/09/28/a-key-test-looms-for-the-ai-trade-this-week-heres-how-mike-khouw-is-trading-it.html": {
-    "hash": "62881a63cdf2d064c6d589887b3db887",
-    "visto_em": "2026-09-30"
-  },
-  "https://seekingalpha.com/article/4950346-surviving-the-saaspocalypse-3-top-software-stocks-flipping-the-ai-script": {
-    "hash": "4726626701a527a457652e396e3fe570",
-    "visto_em": "2026-09-30"
-  },
-  "https://finance.yahoo.com/technology/articles/belgium-existing-upcoming-data-center-081500256.html": {
-    "hash": "8dc5c23e9e7fb9f4c663b9ef14044c69",
-    "visto_em": "2026-09-30"
-  },
-  "https://www.reuters.com/business/wall-st-futures-gain-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-2026-09-25": {
-    "hash": "7985bc863a78b520df09b50350ed78f3",
-    "visto_em": "2026-09-30"
-  },
-  "https://uk.finance.yahoo.com/news/tsmcs-2nm-push-could-create-182110589.html": {
-    "hash": "057fdf82dd6d6545b1cd678144522f25",
-    "visto_em": "2026-09-30"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-046-4923508": {
-    "hash": "813b5145b88cda6400b7064dc0ff3c3e",
-    "visto_em": "2026-09-30"
-  },
-  "https://finance.yahoo.com/real-estate/articles/realty-income-vs-prologis-reit-144700146.html": {
-    "hash": "a43d5b44f6f13db4eb1d5951d305e5e5",
-    "visto_em": "2026-09-30"
-  },
   "https://www.investing.com/etfs/global-x-cloud-computing": {
     "hash": "b9dd018f5b7fa5bccca1368bb1f98cfa",
     "visto_em": "2026-10-01"
@@ -490,5 +434,45 @@
   "https://in.investing.com/equities/embraer-on-nm": {
     "hash": "d621e0820462e8b4319f1f7186c950b2",
     "visto_em": "2026-10-07"
+  },
+  "https://ca.finance.yahoo.com/news/tsmc-q3-sales-beat-estimates-062509678.html": {
+    "hash": "ab7b58d82283ee32fa7d7a3728383db5",
+    "visto_em": "2026-10-08"
+  },
+  "https://www.investing.com/news/stock-market-news/tsmcs-thirdquarter-revenue-surges-50-yy-beating-market-forecast-4937913": {
+    "hash": "bc970792762e2e759ffcabab2ced2f2f",
+    "visto_em": "2026-10-08"
+  },
+  "https://www.investing.com/news/stock-market-news/tsmc-q3-sales-beat-estimates-on-surging-ai-chip-demand-4937923": {
+    "hash": "43f748da2e9256915cd0d16fed0ef57e",
+    "visto_em": "2026-10-08"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-micron-sandisk-460-090802439.html": {
+    "hash": "ebdb6351f77e1a261290857b87544f19",
+    "visto_em": "2026-10-08"
+  },
+  "https://finance.yahoo.com/markets/article/wall-streets-ai-earnings-excitement-spills-into-2027-but-risks-market-air-pocket-144308239.html": {
+    "hash": "c2b03c4c614724698d17a4b366d61473",
+    "visto_em": "2026-10-08"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/sap-agrees-acquire-ai-intelligence-091723413.html": {
+    "hash": "ef40927e74c4086784ef94afb2b4fb31",
+    "visto_em": "2026-10-08"
+  },
+  "https://ca.finance.yahoo.com/quote/AI": {
+    "hash": "d36b79414fd683395e8501daa237a9ae",
+    "visto_em": "2026-10-08"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-wall-street-104500937.html": {
+    "hash": "9b6f0014d4c455a27e236a514d15745d",
+    "visto_em": "2026-10-08"
+  },
+  "https://nz.finance.yahoo.com/quote/AI": {
+    "hash": "691b7040e90f0d53e701172063871ef0",
+    "visto_em": "2026-10-08"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/strip-ai-p-500-looks-030000720.html": {
+    "hash": "6c3ac19002433f8d91355054c02bc964",
+    "visto_em": "2026-10-08"
   }
 }

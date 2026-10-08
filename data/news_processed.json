@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-10-07",
-    "total_noticias": 99,
-    "gerado_em": "2026-10-07T17:17:35.561243"
+    "data": "2026-10-08",
+    "total_noticias": 98,
+    "gerado_em": "2026-10-08T09:54:51.240341"
   },
   "noticias": [
+    {
+      "titulo": "TSMC Q3 sales beat estimates on surging AI chip demand",
+      "url": "https://ca.finance.yahoo.com/news/tsmc-q3-sales-beat-estimates-062509678.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-10-08",
+      "resumo": "1 min read\n\n TSM\n\n  -2. 09%\n NVDA\n\n  -0. 74%\n TSM\n\n  -2.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC’s third-quarter revenue surges to record, beating market forecast By Reuters",
+      "url": "https://www.investing.com/news/stock-market-news/tsmcs-thirdquarter-revenue-surges-50-yy-beating-market-forecast-4937913",
+      "fonte": "investing.com",
+      "data": "2026-10-08",
+      "resumo": "By Fawad Razaqz. \n\nOct 05, 2026\n\nMore News\n\nMarket Movers\n\n| Name | Last | Chg.  % | Vol.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Q3 sales beat estimates on surging AI chip demand By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/tsmc-q3-sales-beat-estimates-on-surging-ai-chip-demand-4937923",
+      "fonte": "investing.com",
+      "data": "2026-10-08",
+      "resumo": "Third-quarter revenue reached about NT$1. 49 trillion ($46. 7 billion), according to calculations, up 50% from a year earlier and exceeding the NT$1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Stocks Micron and Sandisk Are Up 460% and 1,190% in the Past Year. History Says This Will Happen Next.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-micron-sandisk-460-090802439.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-07",
+      "resumo": "Motley Fool\n\n# AI Stocks Micron and Sandisk Are Up 460% and 1,190% in the Past Year.  History Says This Will Happen Next. \n\nTrevor Jennewine, The Motley Fool\n\n5 min read\n\n MU\n\n  -1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall Street's AI earnings excitement spills into 2027 but risks market 'air pocket'",
+      "url": "https://finance.yahoo.com/markets/article/wall-streets-ai-earnings-excitement-spills-into-2027-but-risks-market-air-pocket-144308239.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-07",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nWatch Live   Satya Nadella and Jensen Huang reveal Microsoft's new laptop powered by Nvidia's chips\n\nYahoo Finance\n\n# Wall Street's AI earnings excitement spills into 2027 but risks market 'air pocket'\n\nBrian Sozzi\n\nBrian Sozzi  · Executive Editor\n\n2 min read\n\n ^GSPC\n\n  -0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "SAP agrees to acquire AI work intelligence firm TechWolf",
+      "url": "https://finance.yahoo.com/technology/ai/articles/sap-agrees-acquire-ai-intelligence-091723413.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-07",
+      "resumo": "Following completion of the deal, TechWolf's technology is expected to sit at the centre of the SAP SuccessFactors portfolio, underpinning workforce planning, skills-based talent strategies and organisational redesign. \n\nThe two companies also plan to jointly develop new AI-powered workforce and skills optimisation products after the deal closes.  Existing joint customers are already reporting measurable results from the partnership.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://ca.finance.yahoo.com/quote/AI",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-10-03",
+      "resumo": "11. 00  -0. 01  (-0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Michael Burry warns Wall Street has been inflating tech earnings by 42% for a decade — and you're paying for it",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-wall-street-104500937.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "Burry has previously warned that AI hyperscalers are artificially boosting their earnings by understating the depreciation of their assets (4). \n\nRead More: Vanguard reveals what's coming for U. S.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "C3.ai, Inc. (AI) stock price, news, quote and history - Yahoo Finance",
+      "url": "https://nz.finance.yahoo.com/quote/AI",
+      "fonte": "nz.finance.yahoo.com",
+      "data": "2026-10-03",
+      "resumo": "www. c3. ai\n\n764\n\n### Full-time employees\n\n30 April\n\n### Fiscal year ends\n\nTechnology\n\n### Sector\n\nSoftware - Infrastructure\n\n### Industry\n\nMore about C3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Strip Out AI and the S&P 500 Looks Very Different, Goldman Index Shows",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strip-ai-p-500-looks-030000720.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-07",
+      "resumo": "BeInCrypto\n\n# Strip Out AI and the S&P 500 Looks Very Different, Goldman Index Shows\n\nDarryn Pollock\n\n2 min read\n\n ^GSPC\n\n  +0. 58%\n ^IXIC\n\n  +0. 45%\n\nThe S&P 500 has gained 18.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq hits record high as AI stocks rally amid high bond yields",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-hits-record-high-ai-171915551.html",
@@ -651,20 +791,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI is changing how buyers assess risk in tech deals",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-changing-buyers-assess-risk-181236302.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-30",
-      "resumo": "Older [. ] Top losers \n       LQDA Liquidia Corporation 30. 26-40.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nvidia's $6-trillion milestone looms. Here's when options traders see it happening - CNBC",
       "url": "https://www.cnbc.com/2026/10/05/nvidias-6-trillion-milestone-looms-heres-when-options-traders-see-it-happening.html",
       "fonte": "cnbc.com",
@@ -861,20 +987,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "CrowdStrike and Palo Alto’s AI Cybersecurity Rally - Palo Alto Networks (NASDAQ:PANW), CrowdStrike Holdin - Benzinga",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/62081742/ai-cybersecurity-stocks-rally",
-      "fonte": "benzinga.com",
-      "data": "2026-09-30",
-      "resumo": "Its latest results provide a different piece of the AI-security thesis.  Palo Alto said customers are turning to its platforms to secure AI deployments at scale, while CEO Nikesh Arora said advances in AI are elevating cybersecurity on CIO priority lists.  The company added nearly $1 billion of net new next-generation security ARR in its latest quarter and is targeting $20 billion of NGS ARR by fiscal 2030.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "AI and Oil Shape Market Leadership in the First Nine Months of 2026",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-oil-shape-market-leadership-180000804.html",
       "fonte": "finance.yahoo.com",
@@ -936,20 +1048,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-10-02",
       "resumo": "24/7 Wall St. \n\n# Prediction: 3 AI Stocks That Could Turn $10,000 Into $15,000\n\nVandita Jadeja\n\n MRVL\n AVGO\n ORCL\n\n### Quick Read\n\n Broadcom guides $115B in AI revenue for fiscal 2027 after a 221% YoY surge, while Marvell's CEO says growth is accelerating even as its revenue base expands. \n Oracle trades at just 12x fiscal 2028 earnings despite 121% cloud infrastructure growth, $664B in signed backlog, and 97.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Micron Earnings Preview: All Eyes on Its Outlook for the Next AI Chip Cycle",
-      "url": "https://www.investing.com/analysis/micron-q4-earnings-outlook-could-signal-where-the-ai-chip-market-is-headed-200688643",
-      "fonte": "investing.com",
-      "data": "2026-09-30",
-      "resumo": "ProPicks AI: AI-managed stock picks every month, with several picks that have already taken off this month and in the long term. \n   Warren AI: Investing. com’s AI tool provides real-time market insights, advanced chart analysis, and personalized trading data to help traders make quick, data-driven decisions.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1099,20 +1197,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Digital Realty Sees Agentic AI Fuel Record Interconnection Demand",
-      "url": "https://finance.yahoo.com/technology/ai/articles/digital-realty-sees-agentic-ai-210207973.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-30",
-      "resumo": "## About Digital Realty Trust (NYSE:DLR)\n\nDigital Realty Trust, Inc is a real estate investment trust that owns, operates and develops data centers and related digital infrastructure.  The company provides facilities and technology environments that support the computing, storage, networking and connectivity needs of enterprises, cloud service providers, telecommunications companies and other organizations. \n\nThrough its PlatformDIGITAL platform, Digital Realty offers data center colocation, interconnection and hyperscale data center solutions.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Tempus AI, Inc. (TEM) Stock Price, News, Quote & History",
       "url": "https://finance.yahoo.com/quote/TEM",
       "fonte": "finance.yahoo.com",
@@ -1161,20 +1245,6 @@
       "data": "2026-10-01",
       "resumo": "C3. ai, Inc.  (AI) 11.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.37% By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-137-4925874",
-      "fonte": "investing.com",
-      "data": "2026-09-30",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| CTVA | 12.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -1267,39 +1337,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Stock market today: Live updates",
-      "url": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
-      "fonte": "cnbc.com",
-      "data": "2026-09-30",
-      "resumo": "The company said the model sets a new record in real-world software engineering, ties for first in cybersecurity, and leads another benchmark measuring performance across finance, legal, and other professional tasks. \n\nAlphabet shares rose more than 1% after hours. \n\nFor more, read the full story here.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "North American M&A Drops 23% as Megadeals and AI Sentiment Cool - WSJ",
       "url": "https://www.wsj.com/business/earnings/global-dealmaking-cools-in-third-quarter-53a43430",
       "fonte": "wsj.com",
       "data": "2026-10-01",
       "resumo": "Fragile artificial-intelligence sentiment and higher borrowing costs helped dampen merger-and-acquisition activity in the third quarter, but giant AI deals mean 2026 is still on track to be the second-highest-volume year for global M&A ever, according to Mergermarket data. \n\nNorth American M&A dropped in the third quarter to $560 billion—a 23% fall on the same period last year.  The North American segment is dominated by activity from the U.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia, Broadcom, and AMD Investors Need to Have Oct. 15 Circled on Their Calendars",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-broadcom-amd-investors-oct-230400490.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-30",
-      "resumo": "Taiwan Semiconductor's stock tends to reach about 30 times forward earnings at the end of each year.  With the stock trading for about 27 times forward earnings now, it's priced in the range where it should be. \n\nTSM PE Ratio (Forward) Chart\n\nTSM PE Ratio (Forward) data by YCharts.",
       "sentimento": "bearish",
       "tags": [
         "AI",
@@ -1323,67 +1365,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil shares higher at close of trade; Bovespa up 1.37%",
-      "url": "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-137-5613629",
-      "fonte": "in.investing.com",
-      "data": "2026-09-30",
-      "resumo": "ProPicks AI evaluates EMBJ3 alongside thousands of other companies every month using 100+ financial metrics.  Using powerful AI to generate exciting stock ideas,.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "If an AI Bubble Crashes the Stock Market, Warren Buffett ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-crashes-stock-market-092000821.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-30",
-      "resumo": "the tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) is up 111% over that period.  AI users will have to spend at least $1 trillion per year for hyperscalers.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "'AI or bust:' Tech trade powered stocks through volatile ...",
-      "url": "https://finance.yahoo.com/markets/article/ai-or-bust-tech-trade-powered-stocks-through-volatile-september-224759194.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-09-30",
-      "resumo": "The Nasdaq Composite (^IXIC) gained 1. 8% after hitting a new peak on Sept.  22.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Digital Realty Trust, Inc. (DLR)",
       "url": "https://finance.yahoo.com/quote/DLR/news",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-01",
       "resumo": "Digital Realty is leaning harder into AI infrastructure, with new partnerships and network tools aimed at making its data centers more useful for.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "CFO da Pagaya vende US$ 10.053 em ações da empresa",
-      "url": "https://br.investing.com/news/insider-trading-news/cfo-da-pagaya-vende-us-10053-em-acoes-da-empresa-93CH-2078893",
-      "fonte": "br.investing.com",
-      "data": "2026-09-30",
-      "resumo": "Ibovespa Mini Ibovespa.  Pagaya Technologies Ltd.  (NASDAQ:PGY), US$ 10.",
       "sentimento": "neutral",
       "tags": [
         "AI",
