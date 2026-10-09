@@ -1,60 +1,4 @@
 {
-  "https://www.investing.com/etfs/global-x-cloud-computing": {
-    "hash": "b9dd018f5b7fa5bccca1368bb1f98cfa",
-    "visto_em": "2026-10-01"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nvidia-broadcom-amd-investors-oct-230400490.html": {
-    "hash": "d462438ae8be03eda0b59653d52ed0cd",
-    "visto_em": "2026-10-01"
-  },
-  "https://www.investing.com/news/stock-market-news/our-ai-models-flagged-six-midcap-winners-up-3087--octobers-list-is-live-4926242": {
-    "hash": "1b6b1aeaba904ff6dd6bc678d6e2fec1",
-    "visto_em": "2026-10-01"
-  },
-  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-137-5613629": {
-    "hash": "e70dfd78879781ef753cd4245eb175e6",
-    "visto_em": "2026-10-01"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-crashes-stock-market-092000821.html": {
-    "hash": "ff0f64115e3a38ef0e229a4243157fec",
-    "visto_em": "2026-10-01"
-  },
-  "https://finance.yahoo.com/markets/article/ai-or-bust-tech-trade-powered-stocks-through-volatile-september-224759194.html": {
-    "hash": "61c66ba4ffaf18526b44991210cb4edd",
-    "visto_em": "2026-10-01"
-  },
-  "https://finance.yahoo.com/quote/DLR/news": {
-    "hash": "53120c67532570a5b72ad64349c18e7c",
-    "visto_em": "2026-10-01"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-085019546.html": {
-    "hash": "4ee91da40644c9719396fec714c145ae",
-    "visto_em": "2026-10-01"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/european-ai-linked-stocks-rally-121430083.html": {
-    "hash": "1886950b191e31cd22b7bd9bf462d252",
-    "visto_em": "2026-10-01"
-  },
-  "https://finance.yahoo.com/quote/TSM/analysis": {
-    "hash": "a0d5d7006c9f0106ae070d7f2f12a692",
-    "visto_em": "2026-10-01"
-  },
-  "https://finance.yahoo.com/quote/TSMC34.SA": {
-    "hash": "bb00473cd829b89c63a20f00fc9eab29",
-    "visto_em": "2026-10-01"
-  },
-  "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html": {
-    "hash": "c08b489234bd4b52fa3bf0a629a9839f",
-    "visto_em": "2026-10-01"
-  },
-  "https://finance.yahoo.com/real-estate/articles/data-centers-got-ai-hype-161500282.html": {
-    "hash": "a611f09b32aaa4e6aedb055a084b303c",
-    "visto_em": "2026-10-01"
-  },
-  "https://www.wsj.com/business/earnings/global-dealmaking-cools-in-third-quarter-53a43430": {
-    "hash": "be30d4c3c829f7f4c6a865d7834e045a",
-    "visto_em": "2026-10-01"
-  },
   "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-046-5615641": {
     "hash": "16f4b47e49c3921959ac23e025ee8c9f",
     "visto_em": "2026-10-02"
@@ -506,5 +450,37 @@
   "https://www.benzinga.com/markets/prediction-markets/26/10/62208307/nvidia-stock-price-target-crypto-punters-october-nvda": {
     "hash": "cf1740f02b38003f58997a5d4f5edc4b",
     "visto_em": "2026-10-08"
+  },
+  "https://www.investing.com/analysis/tsmc-blowout-earnings-what-this-means-for-markets-200689194": {
+    "hash": "6872c85cf5161190c9cbc25e20303948",
+    "visto_em": "2026-10-09"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmcs-46-7-billion-quarter-000300579.html": {
+    "hash": "0d9169c553882d87eaecae83068d72c7",
+    "visto_em": "2026-10-09"
+  },
+  "https://www.reuters.com/commentary/reuters-open-interest/five-charts-sounding-alarm-stretched-us-markets-mcgeever-2026-10-08": {
+    "hash": "2a791ab621b4e03596bbdf604d57af2c",
+    "visto_em": "2026-10-09"
+  },
+  "https://www.investing.com/analysis/stock-prices-earnings-and-cashflows-the-ai-effect-plays-through-200689245": {
+    "hash": "e3b2228e74f82b1cb497e20f8aa4ead2",
+    "visto_em": "2026-10-09"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/auddia-posts-ceo-letter-shareholders-110000078.html": {
+    "hash": "e4dd0d765e22b44122c78d78dd212097",
+    "visto_em": "2026-10-09"
+  },
+  "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html": {
+    "hash": "6994dbc8a807cc445a691176c3501596",
+    "visto_em": "2026-10-09"
+  },
+  "https://uk.finance.yahoo.com/news/australia-data-center-colocation-market-080900457.html": {
+    "hash": "260d139c124f05e7b3b5505043f1b610",
+    "visto_em": "2026-10-09"
+  },
+  "https://uk.finance.yahoo.com/news/ai-hot-potato-meta-now-113501972.html": {
+    "hash": "a8243bb876eb78fea2b5a7c0aca39027",
+    "visto_em": "2026-10-09"
   }
 }

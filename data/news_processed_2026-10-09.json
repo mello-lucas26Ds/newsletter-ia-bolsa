@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-09",
+    "total_noticias": 8,
+    "gerado_em": "2026-10-09T09:59:01.753775"
+  },
+  "noticias": [
+    {
+      "titulo": "TSMC Blowout Earnings: What This Means for Markets | Investing.com",
+      "url": "https://www.investing.com/analysis/tsmc-blowout-earnings-what-this-means-for-markets-200689194",
+      "fonte": "investing.com",
+      "data": "2026-10-08",
+      "resumo": "\\\\\\\n\nDisclaimer: For educational purposes only.  Trading comes with substantial risk, leading to possible loss of your capital.  Traders are advised to do their own due diligence before investing.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC's $46.7 billion quarter leaves 1 question for investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-46-7-billion-quarter-000300579.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-08",
+      "resumo": "TheStreet\n\n# TSMC's $46. 7 billion quarter leaves 1 question for investors\n\nOpeyemi Babalola\n\n5 min read\n\n TSM\n\n  -3. 01%\n NVDA\n\n  -2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Five charts sounding the alarm for stretched US markets | Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/five-charts-sounding-alarm-stretched-us-markets-mcgeever-2026-10-08",
+      "fonte": "reuters.com",
+      "data": "2026-10-08",
+      "resumo": "Stock market concentration\n\nTech and AI stocks now comprise over 40% of the S&P 500's (. SPX) market cap.  ​That's higher than the peak of the dotcom bubble in early 2000.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock Prices, Earnings and Cashflows: The AI Effect Plays Through | Investing.com",
+      "url": "https://www.investing.com/analysis/stock-prices-earnings-and-cashflows-the-ai-effect-plays-through-200689245",
+      "fonte": "investing.com",
+      "data": "2026-10-09",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| ALAB | 347.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Auddia Posts CEO Letter to Shareholders Highlighting LT350 Momentum, Strategic Partnerships, and AI Infrastructure Opportunity",
+      "url": "https://finance.yahoo.com/technology/ai/articles/auddia-posts-ceo-letter-shareholders-110000078.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-08",
+      "resumo": "BOULDER, Colo. , Oct.  08, 2026 (GLOBE NEWSWIRE) -- Auddia Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia, Oracle, other AI stocks sink on OpenAI revenue report",
+      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-08",
+      "resumo": "In the interim, OpenAI is engaging in early stage discussions with investors about a potential new funding round.  The company could raise around $30 billion, as CNBC previously reported, but that figure could change.  The round is being driven by investor demand and no term sheet has been finalized yet.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Australia Data Center Colocation Market - Supply and Demand Analysis and Forecast 2026-2031 | AI and Cloud Demand Drive 16.49% CAGR and Wholesale Growth Through 2031",
+      "url": "https://uk.finance.yahoo.com/news/australia-data-center-colocation-market-080900457.html",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-10-06",
+      "resumo": "AirTrunk\n NEXTDC\n CDC Data Centres\n STACK Infrastructure\n Macquarie Data Centres\n DCI DATA CENTERS\n Equinix\n Keppel DC REIT\n Digital Realty\n Telstra InfraCo\n Global DigiCo\n Polaris Data Centre\n Fujitsu\n Quinbrook Infrastructure Partners\n\n Centuria Industrial REIT\n DOMA Infrastructure Group\n Vantage Data Centers\n\nFor more information about this report visit \n\nAbout ResearchAndMarkets. com  \nResearchAndMarkets. com is the world's leading source for international market research reports and market data.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Hot Potato Is Meta’s for Now, But Chip Stocks Are the Winners",
+      "url": "https://uk.finance.yahoo.com/news/ai-hot-potato-meta-now-113501972.html",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-10-08",
+      "resumo": "Top Tech Stories\n\n Broadcom Inc. , fresh off the launch of a $60 billion debt financing to help fund Anthropic PBC's AI build-out, is already sketching out plans for its next blockbuster deal. \n Samsung Electronics Co.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
