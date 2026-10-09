@@ -2,72 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-09",
-    "total_noticias": 8,
-    "gerado_em": "2026-10-09T09:59:01.753775"
+    "total_noticias": 5,
+    "gerado_em": "2026-10-09T16:49:45.048688"
   },
   "noticias": [
     {
-      "titulo": "TSMC Blowout Earnings: What This Means for Markets | Investing.com",
-      "url": "https://www.investing.com/analysis/tsmc-blowout-earnings-what-this-means-for-markets-200689194",
-      "fonte": "investing.com",
-      "data": "2026-10-08",
-      "resumo": "\\\\\\\n\nDisclaimer: For educational purposes only.  Trading comes with substantial risk, leading to possible loss of your capital.  Traders are advised to do their own due diligence before investing.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC's $46.7 billion quarter leaves 1 question for investors",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-46-7-billion-quarter-000300579.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-08",
-      "resumo": "TheStreet\n\n# TSMC's $46. 7 billion quarter leaves 1 question for investors\n\nOpeyemi Babalola\n\n5 min read\n\n TSM\n\n  -3. 01%\n NVDA\n\n  -2.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Five charts sounding the alarm for stretched US markets | Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/five-charts-sounding-alarm-stretched-us-markets-mcgeever-2026-10-08",
-      "fonte": "reuters.com",
-      "data": "2026-10-08",
-      "resumo": "Stock market concentration\n\nTech and AI stocks now comprise over 40% of the S&P 500's (. SPX) market cap.  ​That's higher than the peak of the dotcom bubble in early 2000.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock Prices, Earnings and Cashflows: The AI Effect Plays Through | Investing.com",
-      "url": "https://www.investing.com/analysis/stock-prices-earnings-and-cashflows-the-ai-effect-plays-through-200689245",
+      "titulo": "+105%, +104%, +72%: AI-picked earnings winners broaden the rally beyond tech By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/105-104-72-aipicked-earnings-winners-broaden-the-rally-beyond-tech-4940482",
       "fonte": "investing.com",
       "data": "2026-10-09",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| ALAB | 347.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Auddia Posts CEO Letter to Shareholders Highlighting LT350 Momentum, Strategic Partnerships, and AI Infrastructure Opportunity",
-      "url": "https://finance.yahoo.com/technology/ai/articles/auddia-posts-ceo-letter-shareholders-110000078.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-08",
-      "resumo": "BOULDER, Colo. , Oct.  08, 2026 (GLOBE NEWSWIRE) -- Auddia Inc.",
+      "resumo": "High-conviction earnings winners keep compounding\n\nStrong earnings have also continued to reward some of ProPicks AI’s highest-conviction positions.  Everforth (NYSE:EFOR) is now up +104. 61% since it was first picked, while Delek US Holdings (NYSE:DK) has gained +104.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -77,26 +21,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Nvidia, Oracle, other AI stocks sink on OpenAI revenue report",
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "fonte": "cnbc.com",
-      "data": "2026-10-08",
-      "resumo": "In the interim, OpenAI is engaging in early stage discussions with investors about a potential new funding round.  The company could raise around $30 billion, as CNBC previously reported, but that figure could change.  The round is being driven by investor demand and no term sheet has been finalized yet.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Australia Data Center Colocation Market - Supply and Demand Analysis and Forecast 2026-2031 | AI and Cloud Demand Drive 16.49% CAGR and Wholesale Growth Through 2031",
-      "url": "https://uk.finance.yahoo.com/news/australia-data-center-colocation-market-080900457.html",
-      "fonte": "uk.finance.yahoo.com",
+      "titulo": "AI rally shifts back to Big Tech, says portfolio manager",
+      "url": "https://www.reuters.com/video/watch/idRW799506102026RP1",
+      "fonte": "reuters.com",
       "data": "2026-10-06",
-      "resumo": "AirTrunk\n NEXTDC\n CDC Data Centres\n STACK Infrastructure\n Macquarie Data Centres\n DCI DATA CENTERS\n Equinix\n Keppel DC REIT\n Digital Realty\n Telstra InfraCo\n Global DigiCo\n Polaris Data Centre\n Fujitsu\n Quinbrook Infrastructure Partners\n\n Centuria Industrial REIT\n DOMA Infrastructure Group\n Vantage Data Centers\n\nFor more information about this report visit \n\nAbout ResearchAndMarkets. com  \nResearchAndMarkets. com is the world's leading source for international market research reports and market data.",
-      "sentimento": "neutral",
+      "resumo": "US stocks rally as S&P 500, Nasdaq reach record closing highs.  01:35.  US.",
+      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -105,11 +35,39 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI Hot Potato Is Meta’s for Now, But Chip Stocks Are the Winners",
-      "url": "https://uk.finance.yahoo.com/news/ai-hot-potato-meta-now-113501972.html",
-      "fonte": "uk.finance.yahoo.com",
-      "data": "2026-10-08",
-      "resumo": "Top Tech Stories\n\n Broadcom Inc. , fresh off the launch of a $60 billion debt financing to help fund Anthropic PBC's AI build-out, is already sketching out plans for its next blockbuster deal. \n Samsung Electronics Co.",
+      "titulo": "AI-related companies to drive most third-quarter US earnings gains",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-related-companies-drive-most-100304282.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-09",
+      "resumo": "Year-over-year ‌S&P 500 earnings grew in the second quarter by nearly 54%, the highest since 2021, LSEG data showed.  Excluding mark-to-market gains at Alphabet and Amazon. com on AI-related investments, that growth was about 35%, still the highest since 2021.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI-related companies to drive most third-quarter US earnings gains | Reuters",
+      "url": "https://www.reuters.com/business/ai-related-companies-drive-most-third-quarter-us-earnings-gains-2026-10-09",
+      "fonte": "reuters.com",
+      "data": "2026-10-09",
+      "resumo": "NEW YORK, Oct 9 (Reuters) - US companies are likely to deliver another earnings surge for the third quarter, and like the rally in the stock market, AI-related players are fueling most ​of those gains. \n\nWhile investors are enthusiastic about the hyper earnings growth fueled by AI companies, many are also worried about ‌how long the trend can continue, and what will happen to share prices when it ends. \n\nSign up here.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq rises after OpenAI revenue report rattles AI stocks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-rises-openai-revenue-report-134846677.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-09",
+      "resumo": "The rebound follows a rough Thursday for tech stocks after CNBC confirmed that OpenAI told investors it had $50 billion in annualized revenue at the end of September.  That figure fell short of the $68 billion widely reported the previous month, though, according to CNBC, a person familiar with the matter said the earlier figure included gross revenue from partners.  Thursday's session left the Nasdaq down over 1%, a decline not seen on a single day since mid-August, according to CNBC.",
       "sentimento": "bullish",
       "tags": [
         "AI",
