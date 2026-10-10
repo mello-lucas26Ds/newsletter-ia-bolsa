@@ -1,52 +1,4 @@
 {
-  "https://in.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-046-5615641": {
-    "hash": "16f4b47e49c3921959ac23e025ee8c9f",
-    "visto_em": "2026-10-02"
-  },
-  "https://uk.finance.yahoo.com/quote/AI": {
-    "hash": "9a8c32238e44bd453f938979046cf1f4",
-    "visto_em": "2026-10-02"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-137-4925874": {
-    "hash": "581838537ab62eefdf9886da42190bbf",
-    "visto_em": "2026-10-02"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-046-4928350": {
-    "hash": "581838537ab62eefdf9886da42190bbf",
-    "visto_em": "2026-10-02"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductor-manufacturing-stock-225000459.html": {
-    "hash": "e099ca2e89f9666e5e92cdb65a04b130",
-    "visto_em": "2026-10-02"
-  },
-  "https://www.investing.com/news/stock-market-news/three-ai-picks-are-up-22106-since-july-the-hr-stock-leading-them-4928880": {
-    "hash": "77985b67eac788f695bbe627c8bf14e0",
-    "visto_em": "2026-10-02"
-  },
-  "https://ca.finance.yahoo.com/quote/DLR": {
-    "hash": "d27f9f683f6933b8295df53e94b20009",
-    "visto_em": "2026-10-02"
-  },
-  "https://finance.yahoo.com/quote/DLR": {
-    "hash": "2a5d9b84141c30481f9a2025d6f21dfb",
-    "visto_em": "2026-10-02"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/digital-realty-sees-agentic-ai-210207973.html": {
-    "hash": "95b1c3c13a809b26b84f0a8ae34e6e36",
-    "visto_em": "2026-10-02"
-  },
-  "https://www.investing.com/indices/brazil-index": {
-    "hash": "3b52cf24ba3600ab446347672e8a52e7",
-    "visto_em": "2026-10-02"
-  },
-  "https://finance.yahoo.com/quote/TEM": {
-    "hash": "c4e94333c68e92800ef60403cb6d7574",
-    "visto_em": "2026-10-02"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-answers-ai-roi-152445608.html": {
-    "hash": "7d16e2ba8d34dbba61859eea4eced837",
-    "visto_em": "2026-10-02"
-  },
   "https://www.benzinga.com/markets/market-summary/26/10/62146454/wall-street-this-week-weak-jobs-nasdaq-100-record-micron-ai-rally": {
     "hash": "4f55a3553f8cdb76d530753a4671168e",
     "visto_em": "2026-10-03"
@@ -502,5 +454,37 @@
   "https://finance.yahoo.com/markets/stocks/articles/nasdaq-rises-openai-revenue-report-134846677.html": {
     "hash": "19ce5267bd7a63a84683529e5f20f24e",
     "visto_em": "2026-10-09"
+  },
+  "https://ca.finance.yahoo.com/news/why-c3-ai-inc-ai-205004636.html": {
+    "hash": "71b9cc54a532e1e719c388f88e7f48f2",
+    "visto_em": "2026-10-10"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/one-most-important-ai-stocks-160037979.html": {
+    "hash": "d8467a00206085472912aa190e7818fe",
+    "visto_em": "2026-10-10"
+  },
+  "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html": {
+    "hash": "8dcfc0d01adeba7f69cd5e22f4c184b6",
+    "visto_em": "2026-10-10"
+  },
+  "https://www.cnbc.com/video/2026/10/09/stocks-bounce-back-after-sell-off-tied-to-openais-revenue-report.html": {
+    "hash": "bd2a36aea3067f3f01fa471b55168e8c",
+    "visto_em": "2026-10-10"
+  },
+  "https://finance.yahoo.com/quote/DLR": {
+    "hash": "191f52ab0ca9dcbec553b895e71660b6",
+    "visto_em": "2026-10-10"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-08/stock-market-today-dow-s-p-live-updates": {
+    "hash": "228396ca7934e60485b4266265d3a38a",
+    "visto_em": "2026-10-10"
+  },
+  "https://www.reuters.com/business/wall-st-futures-gain-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-2026-10-09/": {
+    "hash": "301d7607e750f34497f333c5a0c6c31d",
+    "visto_em": "2026-10-10"
+  },
+  "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html": {
+    "hash": "f6a8a1a723e0368affd6e407154b7eef",
+    "visto_em": "2026-10-10"
   }
 }
