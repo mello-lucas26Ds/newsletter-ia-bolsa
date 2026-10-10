@@ -1,130 +1,65 @@
 # Newsletter IA Bolsa — 2026-10-10
 
-**Gerado em:** 10/10/2026 09:21
-**Total:** 8 noticias
+**Gerado em:** 10/10/2026 15:44
+**Total:** 4 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Why C3.ai, Inc. (AI) Outpaced the Stock Market Today
-
-**Fonte:** ca.finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The investment community will be paying close attention to the earnings performance of C3. ai, Inc.  in its upcoming release.
-
-[Ler noticia completa](https://ca.finance.yahoo.com/news/why-c3-ai-inc-ai-205004636.html)
-
----
-
-## 2. One of the Most Important AI Stocks Isn’t Nvidia. It’s TSMC
+## 1. Should You Buy Taiwan Semiconductor Manufacturing Stock Before Oct. 15? History Is Crystal Clear on Where the Stock Is Headed Next.
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
--1. 33%
- TSM
+Demand for Nvidia GPUs, AMD accelerators, memory solutions from Micron Technology, and custom chips designed by hyperscalers such as Amazon, Alphabet, Meta Platforms, and Microsoft is keeping Taiwan Semi's manufacturing capacity busy. 
 
-  -1. 41%
+TSMC's latest financial results prove just how strong AI-driven demand is becoming.  The company generated approximately $14.
 
-### Quick Read
-
- TSMC earns a BUY rating with a $552 price target, implying 17% upside, as the essential manufacturer behind every leading-edge AI chip.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/one-most-important-ai-stocks-160037979.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/buy-taiwan-semiconductor-manufacturing-stock-162000329.html)
 
 ---
 
-## 3. Wall Street pitches data centers as real estate bet. Risks are rising
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-For the most part, the funds from alternative investment companies promising investors a piece of the physical infrastructure powering the AI economy remain the province of institutional investors like pension funds.  But the trend has to a limited degree also dipped into the retail investor market.  Alternative investments giant Blackstone has been at the forefront, creating the Blackstone Digital Infrastructure Trust, a newly formed real estate investment trust, or REIT, that trades on the NYSE, earlier this year.
-
-[Ler noticia completa](https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html)
-
----
-
-## 4. Stocks bounce back after sell-off tied to OpenAI's revenue report - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Stocks bounce back after sell-off tied to OpenAI's revenue report
-
-Stocks rose on Friday, supported by the tech sector, following a losing session in which an underwhelming revenue report from OpenAI took some steam out of the high-flying artificial intelligence trade.  CNBC's Seema Mody discusses..
-
-[Ler noticia completa](https://www.cnbc.com/video/2026/10/09/stocks-bounce-back-after-sell-off-tied-to-openais-revenue-report.html)
-
----
-
-## 5. Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & History - Yahoo Finance
+## 2. Lynx sees AI semiconductor rally extending into year-end
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation, and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/DLR)
-
----
-
-## 6. Tech Stocks to Fall as OpenAI Sinks US Chipmakers: Markets Wrap - Bloomberg.com
-
-**Fonte:** bloomberg.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-# Stocks Bounce as Oil Falls and AI Worries Ease: Markets Wrap
-
-Video Player is loading. 
-
-## Sorry, something went wrong
-
-Check your internet connection or refresh the page. 
-
-The S&P 500 is set to bounce back from two days of losses as oil prices fell and worries over the sustainability of the artificial-intelligence investment boom receded.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-10-08/stock-market-today-dow-s-p-live-updates)
-
----
-
-## 7. Wall St headed for weekly gains as earnings season nears - Reuters
-
-**Fonte:** reuters.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Megacap growth stocks were broadly higher, with Amazon. com (AMZN. O) climbing 2.
+The sector has increasingly shrugged off concerns that higher bond yields could derail the rally, Rajkumar said, noting that AI semiconductor stocks are being bought in waves. 
 
-[Ler noticia completa](https://www.reuters.com/business/wall-st-futures-gain-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-2026-10-09/)
+Micron was the latest beneficiary, rising roughly 4% Wednesday despite a weaker broader market.  Rajkumar noted that the stock broke out of its trading range in early September and has continued to move higher as daily volatility has moderated.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/lynx-sees-ai-semiconductor-rally-133617560.html)
 
 ---
 
-## 8. S&P 500 futures are little changed after OpenAI's revenue report prompts tech sector turmoil: Live updates - CNBC
+## 3. If You're Worried About an AI Bubble, Here's the Tech Stock Portfolio I'd Build
 
-**Fonte:** cnbc.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-S&P 500 futures were near flat Thursday night after an underwhelming revenue report from OpenAI took some steam out of the high-flying artificial intelligence trade. 
+Furthermore, unlike many AI companies, Nvidia spent a comparatively modest $7. 4 billion in capital expenditures (capex) over the trailing 12 months, indicating it can easily afford to keep innovating.  Also, since it holds more than $99 billion in liquidity, Nvidia investors can benefit from huge growth without having to compromise safety, making it an excellent holding no matter what happens with AI.
 
-S&P 500 futures were up 0. 1%, while Nasdaq 100 futures added 0.
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/youre-worried-ai-bubble-heres-093000438.html)
 
-[Ler noticia completa](https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html)
+---
+
+## 4. TSMC Q3 Earnings: Strong AI Demand Sets the Bar High for Growth
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+## Earnings Estimates Continue to Reflect Strength
+
+The Zacks Consensus Estimate projects third-quarter EPS of $4. 45, signaling 52. 4% year-over-year growth.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/tsmc-q3-earnings-strong-ai-180000931.html)
 
 ---
