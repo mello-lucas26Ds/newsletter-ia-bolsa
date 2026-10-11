@@ -2,16 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-11",
-    "total_noticias": 5,
-    "gerado_em": "2026-10-11T09:38:31.975395"
+    "total_noticias": 4,
+    "gerado_em": "2026-10-11T16:09:48.039020"
   },
   "noticias": [
     {
-      "titulo": "3 AI Stocks With Earnings Growth Up To 34%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-151129179.html",
+      "titulo": "Nasdaq Continues To Hit Record Highs As Tech Stocks Gain — Treasury Yields Stay Elevated",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-continues-hit-record-highs-173604388.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-10-10",
-      "resumo": "That unresolved pressure is exactly what the 2 key rewards and 2 important warning signs (1 is major. ) might be masking or amplifying for Infomart's AI driven earnings story. \n\nTSE:2492 Earnings & Revenue Growth as at Oct 2026\n\nTSE:2492 Earnings & Revenue Growth as at Oct 2026\n\n \n\n## Palantir Technologies (PLTR)\n\nOverview: Palantir Technologies builds AI powered software platforms that turn complex government and commercial data into real time operational decisions and workflows.",
+      "data": "2026-10-05",
+      "resumo": "See what 10M+ investors are talking about.  Get the Stocktwits Daily Rip for what retail is watching right now, free to your inbox\n\nThe S&P 500 added roughly 0. 6%, while the Dow Jones Industrial Average was little changed.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -21,11 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market - CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
-      "fonte": "cnbc.com",
-      "data": "2026-10-10",
-      "resumo": "Stocks climbed to fresh record highs early last week, but renewed volatility in the artificial intelligence trade showed just how fickle investors can be in this market.  The wheels almost came off the bus after Thursday's terrible session for tech stocks.  Then came Friday's modest bounce-back rally, which proved to be enough to keep stocks in the green for the week.",
+      "titulo": "GlobalFoundries stock analysis: TSMC deal, fundamentals, and what comes next By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/globalfoundries-stock-analysis-tsmc-deal-fundamentals-and-what-comes-next-93CH-4939562",
+      "fonte": "investing.com",
+      "data": "2026-10-08",
+      "resumo": "By Fawad Razaqz. \n\nOct 08, 2026\n\n[](\n\nNvidia Hits Another New High: Key Breakout and Retracement Targets to Watch\n\nBy Lee Yang\n\nOct 06, 2026\n\n[](\n\n9 Fundamentally Strong Stocks to Watch as Q3 Earnings Get Underway\n\nBy David Wagner\n\nOct 08, 2026\n\nMore News\n\nMarket Movers\n\n| Name | Last | Chg.  % | Vol.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -35,11 +35,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/NVDA",
+      "titulo": "S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-earnings-expected-rise-131800551.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-10-09",
-      "resumo": "Price/Sales (ttm)\n\n   Price/Book (mrq)\n\n   Enterprise Value/Revenue\n\n   Enterprise Value/EBITDA\n\n### Financial Highlights\n\n#### Profitability and Income Statement\n\n   Profit Margin\n\n63. 66%\n\n   Return on Assets (ttm)\n\n53. 57%\n\n   Return on Equity (ttm)\n\n117.",
+      "data": "2026-10-11",
+      "resumo": "Analysts forecast that earnings among S&P 500 companies will rise approximately 31% year over year, with the technology sector and AI-related companies, including Alphabet (NASDAQ:GOOG), Amazon. com (NASDAQ:AMZN) and Meta Platforms (NASDAQ:META), contributing around two-thirds of the increase. \n\nTajinder Dhillon, LSEG's head of earnings and equity research, said the concentration of earnings growth among these companies reflects the continued influence of AI-related investment on corporate profitability.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -49,26 +49,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "US Stocks Set to Rebound as Oil Slips, AI Bubble Fears Recede - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-09/us-stocks-set-to-rebound-as-oil-slips-ai-bubble-fears-recede",
-      "fonte": "bloomberg.com",
-      "data": "2026-10-09",
-      "resumo": "The S&P 500 Index rose 0. 6% on Friday, while the Nasdaq 100 advanced 0. 5% with the tech-heavy benchmark posting its fourth straight week of gains.",
+      "titulo": "AI and Technology Expected to Drive Two-Thirds of S&P 500 Earnings Growth in Q3",
+      "url": "https://uk.finance.yahoo.com/news/ai-technology-expected-drive-two-131800649.html",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-10-11",
+      "resumo": "Nick Raich, chief executive of Earnings Scout, said upward revisions to earnings forecasts are beginning to slow, although AI infrastructure investment continues at a substantial pace. \n\nRaich cited recent results from Micron Technology (NASDAQ:MU) as an indication that companies supplying AI-related infrastructure continue to receive orders and investment commitments. \n\nMicron last month issued a quarterly revenue forecast above market expectations and reported that customer commitments under long-term supply agreements had reached $32 billion.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "5 AI Stocks To Buy Now Before The End Of 2026",
-      "url": "https://www.forbes.com/sites/investor-hub/article/best-ai-stocks-buy-now-before-end-of-2026",
-      "fonte": "forbes.com",
-      "data": "2026-10-10",
-      "resumo": "Global AI investment is on pace to exceed $1 trillion, leaders include Nvidia, Broadcom, Taiwan Semiconductor, Alphabet and Microsoft.  500 sits around 7,700,.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
