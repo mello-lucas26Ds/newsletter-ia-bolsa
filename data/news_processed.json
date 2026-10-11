@@ -1,11 +1,81 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-10-10",
-    "total_noticias": 96,
-    "gerado_em": "2026-10-10T15:44:16.098633"
+    "data": "2026-10-11",
+    "total_noticias": 94,
+    "gerado_em": "2026-10-11T09:38:31.977343"
   },
   "noticias": [
+    {
+      "titulo": "3 AI Stocks With Earnings Growth Up To 34%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-151129179.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-10",
+      "resumo": "That unresolved pressure is exactly what the 2 key rewards and 2 important warning signs (1 is major. ) might be masking or amplifying for Infomart's AI driven earnings story. \n\nTSE:2492 Earnings & Revenue Growth as at Oct 2026\n\nTSE:2492 Earnings & Revenue Growth as at Oct 2026\n\n \n\n## Palantir Technologies (PLTR)\n\nOverview: Palantir Technologies builds AI powered software platforms that turn complex government and commercial data into real time operational decisions and workflows.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market - CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-10",
+      "resumo": "Stocks climbed to fresh record highs early last week, but renewed volatility in the artificial intelligence trade showed just how fickle investors can be in this market.  The wheels almost came off the bus after Thursday's terrible session for tech stocks.  Then came Friday's modest bounce-back rally, which proved to be enough to keep stocks in the green for the week.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NVDA",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-09",
+      "resumo": "Price/Sales (ttm)\n\n   Price/Book (mrq)\n\n   Enterprise Value/Revenue\n\n   Enterprise Value/EBITDA\n\n### Financial Highlights\n\n#### Profitability and Income Statement\n\n   Profit Margin\n\n63. 66%\n\n   Return on Assets (ttm)\n\n53. 57%\n\n   Return on Equity (ttm)\n\n117.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "US Stocks Set to Rebound as Oil Slips, AI Bubble Fears Recede - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/us-stocks-set-to-rebound-as-oil-slips-ai-bubble-fears-recede",
+      "fonte": "bloomberg.com",
+      "data": "2026-10-09",
+      "resumo": "The S&P 500 Index rose 0. 6% on Friday, while the Nasdaq 100 advanced 0. 5% with the tech-heavy benchmark posting its fourth straight week of gains.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "5 AI Stocks To Buy Now Before The End Of 2026",
+      "url": "https://www.forbes.com/sites/investor-hub/article/best-ai-stocks-buy-now-before-end-of-2026",
+      "fonte": "forbes.com",
+      "data": "2026-10-10",
+      "resumo": "Global AI investment is on pace to exceed $1 trillion, leaders include Nvidia, Broadcom, Taiwan Semiconductor, Alphabet and Microsoft.  500 sits around 7,700,.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Should You Buy Taiwan Semiconductor Manufacturing Stock Before Oct. 15? History Is Crystal Clear on Where the Stock Is Headed Next.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-taiwan-semiconductor-manufacturing-stock-162000329.html",
@@ -539,40 +609,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://ca.finance.yahoo.com/quote/AI",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-10-03",
-      "resumo": "11. 00  -0. 01  (-0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Michael Burry warns Wall Street has been inflating tech earnings by 42% for a decade — and you're paying for it",
       "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-wall-street-104500937.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-06",
       "resumo": "Burry has previously warned that AI hyperscalers are artificially boosting their earnings by understating the depreciation of their assets (4). \n\nRead More: Vanguard reveals what's coming for U. S.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "C3.ai, Inc. (AI) stock price, news, quote and history - Yahoo Finance",
-      "url": "https://nz.finance.yahoo.com/quote/AI",
-      "fonte": "nz.finance.yahoo.com",
-      "data": "2026-10-03",
-      "resumo": "www. c3. ai\n\n764\n\n### Full-time employees\n\n30 April\n\n### Fiscal year ends\n\nTechnology\n\n### Sector\n\nSoftware - Infrastructure\n\n### Industry\n\nMore about C3.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -1272,76 +1314,6 @@
       "fonte": "uk.finance.yahoo.com",
       "data": "2026-10-04",
       "resumo": "Just last week, the long bond yield reached 5. 69% and the 10-year rate topped 5. 3%, something neither has done since 2002.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 British AI Stocks With Revenue Growth Up To 18%",
-      "url": "https://ca.finance.yahoo.com/news/3-british-ai-stocks-revenue-230828377.html",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-10-03",
-      "resumo": "Market Cap: £132 million\n\nBeeks Financial Cloud Group ties directly into the AI Small Caps theme through Market Edge Intelligence, which uses machine learning to analyse trading and infrastructure data for capital markets.  The combination of forecast earnings growth of 79. 82% a year and revenue guidance toward about £40 million illustrates how AI analytics could reshape this relatively small £132 million business, depending on how one unseen pressure on its rich P/E multiple plays out.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-watch-011109542.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-03",
-      "resumo": "That pricing tension is exactly what the full narrative for Micron Technology unpacks in detail, showing where AI demand could keep Micron's economics accelerating despite potential memory cycle setbacks. \n\nNasdaqGS:MU Earnings & Revenue History as at Oct 2026\n\nNasdaqGS:MU Earnings & Revenue History as at Oct 2026\n\n \n\n## Intel (INTC)\n\nOverview: Intel designs and manufactures CPUs, GPUs, accelerators and related chips that power AI focused data centers, PCs and connected devices worldwide. \n\nOperations: Intel generates about US$33.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "How AI investment has unusually large multiplier effects",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-investment-unusually-large-multiplier-205101592.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-03",
-      "resumo": "Before you buy NVIDIA: our AI model's stock picks are beating the market by 120%+.  See the list now »\n\nAI-related technology investment is growing about 30% year over year, while other business fixed investment has risen just 0. 8% and residential investment has contracted 3.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "4 Data Center REITs That Pay Dividends: Where AI Boom Meets Steady Income",
-      "url": "https://finance.yahoo.com/real-estate/articles/4-data-center-reits-pay-114543032.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-03",
-      "resumo": "Risk: Your income isn't growing.  The board is putting cash and stock into expansion, including 12. 3 million shares issued in the Blackstone (NYSE:BX) deal, instead of raising the payout.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Jim Cramer spots overlooked AI stock after $11.6 billion deal",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-spots-overlooked-ai-010300475.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-03",
-      "resumo": "Jim Cramer said Akamai Technologies (AKAM) might be one of the cheapest ways for investors to play it, committed $11. 6 billion.  Rally AI Agents and Bots.",
       "sentimento": "bullish",
       "tags": [
         "AI",

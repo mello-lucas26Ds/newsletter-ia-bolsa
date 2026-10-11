@@ -1,84 +1,4 @@
 {
-  "https://www.benzinga.com/markets/market-summary/26/10/62146454/wall-street-this-week-weak-jobs-nasdaq-100-record-micron-ai-rally": {
-    "hash": "4f55a3553f8cdb76d530753a4671168e",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/nvidia-micron-cant-ai-chips-112000953.html": {
-    "hash": "1885c95196356be70b7c8e6022034da3",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-message-ai-153300950.html": {
-    "hash": "7ccaac0d99b085fec00a1fed542ad11e",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-ai-breach-fuels-safety-concerns-but-nvidia-bucks-the-trend-chart-of-the-day-151753993.html": {
-    "hash": "5f3d2f5319f387e2fd11807aef439bc6",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-2-164023337.html": {
-    "hash": "128989b3372ca7983cb7f78b22e34338",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/adobe-stock-2-other-ai-111256044.html": {
-    "hash": "8d929a1f23e034182e19a82b8245ab5b",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/quote/EQIX": {
-    "hash": "4ed21372d205044e227c64710c4a6b08",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/real-estate/articles/3-high-dividend-reit-stocks-150927742.html": {
-    "hash": "34ebbf7e6f91b934ebacbc76a9942ba5",
-    "visto_em": "2026-10-03"
-  },
-  "https://www.investing.com/equities/usiminas-on": {
-    "hash": "26a5cd212ae83ceea294f5d03fa78ef3",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/quote/SRVR": {
-    "hash": "46f8c578948408294c029a1da6dca811",
-    "visto_em": "2026-10-03"
-  },
-  "https://www.benzinga.com/trading-ideas/long-ideas/26/09/62081742/ai-cybersecurity-stocks-rally": {
-    "hash": "b655486e696e2cbe1d24aca5ce41af3c",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-oil-shape-market-leadership-180000804.html": {
-    "hash": "636bf5bfd6c13b8ba96a184652ccbb1a",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-tsm-exceeds-market-returns-204504709.html": {
-    "hash": "5e6261e5fa9b764689c9c45ddc7fd4e3",
-    "visto_em": "2026-10-03"
-  },
-  "https://br.investing.com/etfs/it-now-ibovespa-fundo-de-indice": {
-    "hash": "7aed87e1e3be253aef32c4e17b25e06a",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/real-estate/articles/4-data-center-reits-pay-114543032.html": {
-    "hash": "a16d794a663c466da9e680a67fc41dfa",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/jim-cramer-spots-overlooked-ai-010300475.html": {
-    "hash": "f85a39de49892bf841170efff985fb82",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/prediction-3-ai-stocks-could-160035054.html": {
-    "hash": "b523d4a5d31da32d4fecba55aef57f40",
-    "visto_em": "2026-10-03"
-  },
-  "https://www.investing.com/analysis/micron-q4-earnings-outlook-could-signal-where-the-ai-chip-market-is-headed-200688643": {
-    "hash": "2e2e57a1b5aa49fc1a10dadc2ce4413f",
-    "visto_em": "2026-10-03"
-  },
-  "https://seekingalpha.com/article/4951645-ai-fueled-earnings-keep-climbing-3-top-stocks-with-bullish-eps-revisions": {
-    "hash": "86ae2bd6ca5f762e5930690443026319",
-    "visto_em": "2026-10-03"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/dlr-expands-ai-infrastructure-opportunity-130000985.html": {
-    "hash": "cfa5c0f18d9fb0d1e72cd9f5fc43218a",
-    "visto_em": "2026-10-03"
-  },
   "https://www.wsj.com/market-data/stock/tsm": {
     "hash": "e8587ecbf09ba39d39f90f0836b29376",
     "visto_em": "2026-10-04"
@@ -502,5 +422,25 @@
   "https://finance.yahoo.com/technology/ai/articles/tsmc-q3-earnings-strong-ai-180000931.html": {
     "hash": "ae28411aa4e5bbf899ae8320fb5813ec",
     "visto_em": "2026-10-10"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-151129179.html": {
+    "hash": "8a7136a6bdb98a4571463eeba7156b24",
+    "visto_em": "2026-10-11"
+  },
+  "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html": {
+    "hash": "5f3842c453a7d4082434259411109853",
+    "visto_em": "2026-10-11"
+  },
+  "https://finance.yahoo.com/quote/NVDA": {
+    "hash": "264bb3f4ba6888a8b1e83077e57490f9",
+    "visto_em": "2026-10-11"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-09/us-stocks-set-to-rebound-as-oil-slips-ai-bubble-fears-recede": {
+    "hash": "7c9e12941b3f21029d7f5046ae21aae9",
+    "visto_em": "2026-10-11"
+  },
+  "https://www.forbes.com/sites/investor-hub/article/best-ai-stocks-buy-now-before-end-of-2026": {
+    "hash": "dde3c250b28a2e5cbad74e14c9ea6d7f",
+    "visto_em": "2026-10-11"
   }
 }
