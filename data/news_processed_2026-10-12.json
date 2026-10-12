@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-12",
+    "total_noticias": 10,
+    "gerado_em": "2026-10-12T10:10:42.628415"
+  },
+  "noticias": [
+    {
+      "titulo": "Mega-Bull Dan Ives Names His Top 5 Tech Stock Picks Heading Into 2027 - Business Insider",
+      "url": "https://www.businessinsider.com/top-tech-stock-picks-dan-ives-pltr-nvda-msft-ai-2026-10",
+      "fonte": "businessinsider.com",
+      "data": "2026-10-07",
+      "resumo": "\"The infrastructure layer remains supply constrained through at least 2027, and the companies that own scarce compute, memory, and power are reporting the growth now,\" he said.  \"Enterprise software, written off in the first quarter as AI's presumed victim, has recovered as the prints showed that models are commoditizing. \"\n\nOne trend that Ives correctly called in December 2025 was the rally in cybersecurity stocks in 2026.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/EQIX",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-10",
+      "resumo": "Equinix, Inc.  shortens the path to boundless connectivity anywhere in the world.  Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Microsoft's AI Economics Are Quietly Starting To Change (NASDAQ:MSFT) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953217-microsoft-ai-economics-are-quietly-starting-to-change",
+      "fonte": "seekingalpha.com",
+      "data": "2026-10-10",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Microsoft's AI Economics Are Quietly Starting To Change\n\n## Summary\n\nMicrosoft software company \n\ntupungato/iStock Editorial via Getty Images\n\nMicrosoft software company\n\ntupungato/iStock Editorial via Getty Images\n\nMicrosoft (MSFT) has traditionally been seen as a rather straightforward investment in AI: build expensive infrastructure, grow Azure, generate cash through Copilot, and then let operating leverage do the rest.  I believe that recent developments suggest\n\nThis article was written by [. ] ### Recommended For You [.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Top AI Stocks to Watch in October: They May Set the Tone ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-ai-stocks-watch-081002404.html?fr=sycsrp_catchall",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-07",
+      "resumo": "The tech sector has the most companies delivering positive earnings-per-share guidance for the third quarter, according to FactSet Insight.  That's 44 compared to the five-year average of about 23.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Robust AI spending sets investors up for another bumper US earnings season",
+      "url": "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1",
+      "fonte": "ft.com",
+      "data": "2026-10-07",
+      "resumo": "Companies\n\nSections \n\n       Companies Home\n       Energy\n       Financials\n       Health\n       Industrials\n       Media\n       Professional Services\n       Retail & Consumer\n       Tech Sector\n       Telecoms\n       Transport\n\nMost Read\n\n       India’s bullet train tangle leaves Japan fuming\n       Surge in borrowing costs hits corporate America\n       Ships’ captains paid $100,000 a month to transit Strait of Hormuz\n       SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo\n       Goldman Sachs and Man Group exposed in EY data breach\n\n   Tech\n\nSections \n\n       Tech Home\n       Artificial intelligence\n       Semiconductors\n       Cyber Security\n       Social Media\n\nMost Read [. ] CompaniesShow more Companies \n       Energy\n       Financials\n       Health\n       Industrials\n       Media\n       Professional Services\n       Retail & Consumer\n       Tech Sector\n       Telecoms\n       Transport\n\n   TechShow more Tech \n       Artificial intelligence\n       Semiconductors\n       Cyber Security\n       Social Media\n\n   MarketsShow more Markets \n       Alphaville\n       Markets Data\n       Private markets\n       Equities\n       Bonds\n       Currencies\n       Commodities\n       Crypto\n       Monetary Policy Radar\n       Wealth Management\n       Moral Money\n       ETF Hub\n       Asset management\n\n   Climate\n   OpinionShow more Opinion \n       Columnists\n       The FT View\n       The Big Read\n       Lex\n       Obituaries\n       Letters [. ] Most Read\n\n       Former German spy chief arrested for treason\n       California’s oligarch tax would change America\n       India’s bullet train tangle leaves Japan fuming\n       Surge in borrowing costs hits corporate America\n       Ships’ captains paid $100,000 a month to transit Strait of Hormuz\n\n   US\n\nSections \n\n       US Home\n       US Economy\n       US Companies\n       US Politics & Policy\n\nMost Read\n\n       California’s oligarch tax would change America\n       Sleep has always been a class issue\n       Surge in borrowing costs hits corporate America\n       SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo\n       S&P 500 hits record high as AI stocks shrug off bond market slump\n\n   Companies\n\nSections.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "IMF says AI could offset Asia’s aging workforce challenges - Investing.com",
+      "url": "https://www.investing.com/news/world-news/imf-says-ai-could-offset-asias-aging-workforce-challenges-93CH-4943470",
+      "fonte": "investing.com",
+      "data": "2026-10-12",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| TMUS | 148.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil Data Center Colocation Market - Supply and Demand Analysis, Growth Forecast 2026-2031 | AI and Hyperscale Expansion Unlock Investment Opportunities",
+      "url": "https://finance.yahoo.com/technology/ai/articles/brazil-data-center-colocation-market-082800050.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-12",
+      "resumo": "New operators assessed include Ada Infrastructure, CloudHQ, Atlantic Data Centers, Aurea Finvest, 247 Data Centers, DataSpots, TERRANOVA (Actis), Parks Data Center, RT-One, and Supernova And Mapa Investimentos.  The report is designed for data center Real Estate Investment Trusts (REITs), construction contractors, infrastructure providers, investors, new entrants, consultants, advisory firms, corporations and government agencies seeking insight into Brazil's data center colocation growth prospects through 2031. \n\nKey Topics Covered  \n  \n1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The bull market is turning 4 years old — but yields could crash the party - MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c",
+      "fonte": "marketwatch.com",
+      "data": "2026-10-11",
+      "resumo": "Rising long-term interest rates pose risks to the current bull market since they pressure stock valuation, raise borrowing costs for corporations and increase competition for investor money.  Higher rates reduce the present value of future cash flows.  That makes the risk particularly relevant to the AI-driven rally, which rests on expectations of exceptional future earnings growth.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers",
+      "fonte": "bloomberg.com",
+      "data": "2026-10-11",
+      "resumo": "# Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers\n\n## Takeaways by Bloomberg AI\n\nSouth Korea spent much of this year as a poster child of the scorching global AI trade.  Now, by almost every measure, the $4. 3 trillion stock market is rapidly losing relevance with investors.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Issuers Are Upending Longstanding Safety Valve - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
+      "fonte": "bloomberg.com",
+      "data": "2026-10-10",
+      "resumo": "# AI Issuers Are Upending Longstanding Safety Valve\n\n## Takeaways by Bloomberg AISubscribe\n\nWhen financing gets more expensive, companies usually slow down their bond sales.  Tech companies have instead been ramping up this year, and talk this week of potential big financings from SpaceX and Broadcom Inc.  only amplified investor fears about the wave of coming debt.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

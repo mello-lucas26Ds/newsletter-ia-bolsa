@@ -1,48 +1,4 @@
 {
-  "https://www.wsj.com/market-data/stock/tsm": {
-    "hash": "e8587ecbf09ba39d39f90f0836b29376",
-    "visto_em": "2026-10-04"
-  },
-  "https://finance.yahoo.com/quote/TSM": {
-    "hash": "8af6f8277bfcbc828506ca91fc607216",
-    "visto_em": "2026-10-04"
-  },
-  "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-263-4894081": {
-    "hash": "eb1e7b1b7f7702335b49cf1c03c140f1",
-    "visto_em": "2026-10-04"
-  },
-  "https://finance.yahoo.com/quote/NTDU.SI": {
-    "hash": "2889e94efdcea09ab67fb32f54ecaf82",
-    "visto_em": "2026-10-04"
-  },
-  "https://finance.yahoo.com/markets/article/tech-stocks-jump-after-jobs-report-miss-treasury-yields-ease-alphacheck-134916934.html": {
-    "hash": "ff2cd8ab5364d7637cf646d7ec68cbca",
-    "visto_em": "2026-10-04"
-  },
-  "https://seekingalpha.com/article/4950806-crowdstrike-time-to-ring-the-register": {
-    "hash": "8adeb6230e07b0dd3566924a0c38d6af",
-    "visto_em": "2026-10-04"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/ai-investment-unusually-large-multiplier-205101592.html": {
-    "hash": "06a441f9dc901ee322dd910b84f31dda",
-    "visto_em": "2026-10-04"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/wall-street-ai-party-edge-130000551.html": {
-    "hash": "c33caafb344d4480b5577280d8d9a23a",
-    "visto_em": "2026-10-04"
-  },
-  "https://uk.finance.yahoo.com/news/wall-street-ai-party-edge-130000551.html": {
-    "hash": "c33caafb344d4480b5577280d8d9a23a",
-    "visto_em": "2026-10-04"
-  },
-  "https://ca.finance.yahoo.com/news/3-british-ai-stocks-revenue-230828377.html": {
-    "hash": "aae3ca12aa6fd1906482fa47c9209ef4",
-    "visto_em": "2026-10-04"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-watch-011109542.html": {
-    "hash": "a2b950602d0ae2f3d5bfc2021926f5ae",
-    "visto_em": "2026-10-04"
-  },
   "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html": {
     "hash": "32cd04f0ba0d5d8bc698ba7376fca230",
     "visto_em": "2026-10-05"
@@ -458,5 +414,45 @@
   "https://uk.finance.yahoo.com/news/ai-technology-expected-drive-two-131800649.html": {
     "hash": "e75f0b9827e6e771468116d250c18197",
     "visto_em": "2026-10-11"
+  },
+  "https://www.businessinsider.com/top-tech-stock-picks-dan-ives-pltr-nvda-msft-ai-2026-10": {
+    "hash": "f6e076a17fe50b71b0d3f66e9c649889",
+    "visto_em": "2026-10-12"
+  },
+  "https://finance.yahoo.com/quote/EQIX": {
+    "hash": "eca03f41b8134ab5c978233933fb7c49",
+    "visto_em": "2026-10-12"
+  },
+  "https://seekingalpha.com/article/4953217-microsoft-ai-economics-are-quietly-starting-to-change": {
+    "hash": "1ff8c7cfde6d1df761b7a287f1b70f93",
+    "visto_em": "2026-10-12"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/3-top-ai-stocks-watch-081002404.html?fr=sycsrp_catchall": {
+    "hash": "49fc44d59e98bfc2f787e7a7309f2c5f",
+    "visto_em": "2026-10-12"
+  },
+  "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1": {
+    "hash": "c9e2f25a432f4ce5ff8d83dfac5092b4",
+    "visto_em": "2026-10-12"
+  },
+  "https://www.investing.com/news/world-news/imf-says-ai-could-offset-asias-aging-workforce-challenges-93CH-4943470": {
+    "hash": "0f1fd257dab0c2d07ae96bfa6cf4739e",
+    "visto_em": "2026-10-12"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/brazil-data-center-colocation-market-082800050.html": {
+    "hash": "e734e0a9fcbb6ee6f9aa9614a5c4ae1d",
+    "visto_em": "2026-10-12"
+  },
+  "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c": {
+    "hash": "4340813331eefbf13087dc270f2cb2e7",
+    "visto_em": "2026-10-12"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers": {
+    "hash": "fa25c5a4900ce5d4772cef8700387b40",
+    "visto_em": "2026-10-12"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly": {
+    "hash": "18825962f43aff2677f7adf8efba8b02",
+    "visto_em": "2026-10-12"
   }
 }
