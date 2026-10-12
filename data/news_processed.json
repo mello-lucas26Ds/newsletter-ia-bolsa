@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-12",
-    "total_noticias": 101,
-    "gerado_em": "2026-10-12T10:10:42.630178"
+    "total_noticias": 111,
+    "gerado_em": "2026-10-12T19:38:41.256828"
   },
   "noticias": [
+    {
+      "titulo": "These 2 AI Stocks Have Stumbled. Now They May Soar Nearly 75%, According to Wall Street.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-ai-stocks-stumbled-now-093002260.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-12",
+      "resumo": "This sluggishness may create opportunities to get in on future AI winners at more reasonable prices.  The following two AI stocks have stumbled, but Wall Street expects them each to soar nearly 75% over the coming 12 months.  This is according to the average analyst estimate.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Following OpenAI’s Revenue Report, Should You Really Buy AI Stocks Right Now?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/following-openai-revenue-report-really-222502711.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-11",
+      "resumo": "All of this means investors are particularly keen on considering the latest earnings figures from key companies in the space.  This past week, one such player -- OpenAI -- divulged its latest revenue figures, which were lower than a figure reported last month, according to press reports.  As a result, AI stocks, from Nvidia to Oracle, fell during the trading session.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI-centered US stock bull market nears four-year anniversary | Reuters",
+      "url": "https://www.reuters.com/legal/transactional/ai-centered-us-stock-bull-market-nears-four-year-anniversary-2026-10-09",
+      "fonte": "reuters.com",
+      "data": "2026-10-09",
+      "resumo": "Of the 11 S&P 500 sectors, only technology and communication services — which includes megacap AI players Alphabet (GOOGL. O) and Meta Platforms (META. O) — have posted stronger gains than the index itself during the bull run.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "USRT: Still Rate Sensitive Despite Data Center Exposure (NYSEARCA:USRT) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953448-usrt-still-rate-sensitive-despite-datacenter-exposure",
+      "fonte": "seekingalpha.com",
+      "data": "2026-10-12",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# USRT: Still Rate Sensitive Despite Data Center Exposure\n\n## Summary\n\nhigh performance data center servers with power storage and cooling system server rack with energy management and digital infrastructure \n\nGetty Images\n\nhigh performance data center servers with power storage and cooling system server rack with energy management and digital infrastructure\n\nGetty Images\n\nThe iShares Core US REIT ETF (USRT) takes on US-listed REIT exposures—no timbre, mortgage, or infrastructure REITs—with a fund AUM of around $4 billion, so not the biggest by any means but large enough so there's no closure concern and\n\nThis article was written by [. ] Seeking Alpha's Disclosure: Past performance is no guarantee of future results.  No recommendation or advice is being given as to whether any investment is suitable for a particular investor.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "U.S. futures edge up as Wall St awaits bank earnings and inflation test - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-tracking-oil-price-decline-q3-earnings-on-tap-4942973",
+      "fonte": "investing.com",
+      "data": "2026-10-12",
+      "resumo": "By Matthew Well. \n\nOct 10, 2026\n\nImage 24\n\nImage 25\n\nWall Street’s Busy Week: Bank Results, CPI and Retail Sales in Focus\n\nBy Ali Merchant\n\nOct 12, 2026\n\nMore News\n\nMarket Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.  % | Vol.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global X Artificial Intelligence & Technology ETF (AIQ) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/AIQ",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-09",
+      "resumo": "34. 67%\n\nCategory\n\n27. 86%\n\nView More\n\n### People Also Watch\n\nBOTZ  Global X Robotics & Artificial Intelligence ETF\n\n34.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The World's Hottest AI Stock Market Has Gone Cold - Business Insider",
+      "url": "https://www.businessinsider.com/kospi-stock-index-today-taiwan-taiex-index-ai-trade-rally-2026-10",
+      "fonte": "businessinsider.com",
+      "data": "2026-10-12",
+      "resumo": "In July, analysts at GlobalData. TS Lombard pointed out that much of the earnings growth at Korean memory-chip makers came from higher memory-chip prices.  By contrast, TSMC and Japanese chip-equipment makers relied more on advanced manufacturing and process expertise, giving them more durable growth prospects, they added.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/amazon-is-in-talks-to-buy-ai-startup-decart-wsj-reports",
+      "fonte": "bloomberg.com",
+      "data": "2026-10-11",
+      "resumo": "# Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports\n\nAmazon. com Inc.  is in negotiations to acquire Decart AI, an artificial intelligence startup, in a deal that could be valued at around $7 billion, the Wall Street Journal reported.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "New tech acquisitions: Here's what you need to know - CNBC",
+      "url": "https://www.cnbc.com/video/2026/10/12/new-tech-acquisitions-heres-what-you-need-to-know.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-12",
+      "resumo": "Trust Portfolio\nAnalysis\nTrade Alerts\nMeeting Videos\nHomestretch\nJim's Columns\nEducation\nSubscribe\nPRO\nPro News\nJosh Brown\nMike Santoli\nCalls of the Day\nMy Portfolio\nLivestream\nFull Episodes\nStock Screener\nMarket Forecast\nOptions Investing\nChart Investing\nSubscribe\nLivestream\nMenu\nMake It\nselect\nUSA\nINTL\nLivestream\nSearch quotes, news & videos\nLivestream\nWatchlist\nSIGN IN\nCreate free account\nMarkets\nBusiness\nInvesting\nTech\nPolitics & Policy\nVideo\nWatchlist\nInvesting Club\nPRO\nLivestream\nMenu\nTechCheck\nTechCheck Podcast\nwatch now\nIn this video\nAMZN\nNVDA\nShare\nShare Article via Facebook\nShare Article via Twitter\nShare Article via LinkedIn\nShare Article via Email\nTechCheck\nNew tech acquisitions: Here's what you need to know [. ] Skip Navigation\nMarkets\nPre-Markets\nU. S.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
+      "url": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad",
+      "fonte": "wsj.com",
+      "data": "2026-10-11",
+      "resumo": "1.    exclusive  \n2.    Deals\n\n# Amazon in Talks to Buy AI Startup Decart for Around $7 Billion\n\n## San Francisco company’s software makes it easier for developers to switch between different AI chips\n\nBy\n\nKate Clark\nand\n\nLauren Thomas\n\nOct.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Mega-Bull Dan Ives Names His Top 5 Tech Stock Picks Heading Into 2027 - Business Insider",
       "url": "https://www.businessinsider.com/top-tech-stock-picks-dan-ives-pltr-nvda-msft-ai-2026-10",

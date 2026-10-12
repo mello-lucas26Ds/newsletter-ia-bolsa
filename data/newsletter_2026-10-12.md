@@ -1,43 +1,54 @@
 # Newsletter IA Bolsa — 2026-10-12
 
-**Gerado em:** 12/10/2026 10:10
+**Gerado em:** 12/10/2026 19:38
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Mega-Bull Dan Ives Names His Top 5 Tech Stock Picks Heading Into 2027 - Business Insider
+## 1. These 2 AI Stocks Have Stumbled. Now They May Soar Nearly 75%, According to Wall Street.
 
-**Fonte:** businessinsider.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-"The infrastructure layer remains supply constrained through at least 2027, and the companies that own scarce compute, memory, and power are reporting the growth now," he said.  "Enterprise software, written off in the first quarter as AI's presumed victim, has recovered as the prints showed that models are commoditizing. "
+This sluggishness may create opportunities to get in on future AI winners at more reasonable prices.  The following two AI stocks have stumbled, but Wall Street expects them each to soar nearly 75% over the coming 12 months.  This is according to the average analyst estimate.
 
-One trend that Ives correctly called in December 2025 was the rally in cybersecurity stocks in 2026.
-
-[Ler noticia completa](https://www.businessinsider.com/top-tech-stock-picks-dan-ives-pltr-nvda-msft-ai-2026-10)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/2-ai-stocks-stumbled-now-093002260.html)
 
 ---
 
-## 2. Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance
+## 2. Following OpenAI’s Revenue Report, Should You Really Buy AI Stocks Right Now?
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Equinix, Inc.  shortens the path to boundless connectivity anywhere in the world.  Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet.
+All of this means investors are particularly keen on considering the latest earnings figures from key companies in the space.  This past week, one such player -- OpenAI -- divulged its latest revenue figures, which were lower than a figure reported last month, according to press reports.  As a result, AI stocks, from Nvidia to Oracle, fell during the trading session.
 
-[Ler noticia completa](https://finance.yahoo.com/quote/EQIX)
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/following-openai-revenue-report-really-222502711.html)
 
 ---
 
-## 3. Microsoft's AI Economics Are Quietly Starting To Change (NASDAQ:MSFT) | Seeking Alpha
+## 3. AI-centered US stock bull market nears four-year anniversary | Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Of the 11 S&P 500 sectors, only technology and communication services — which includes megacap AI players Alphabet (GOOGL. O) and Meta Platforms (META. O) — have posted stronger gains than the index itself during the bull run.
+
+[Ler noticia completa](https://www.reuters.com/legal/transactional/ai-centered-us-stock-bull-market-nears-four-year-anniversary-2026-10-09)
+
+---
+
+## 4. USRT: Still Rate Sensitive Despite Data Center Exposure (NYSEARCA:USRT) | Seeking Alpha
 
 **Fonte:** seekingalpha.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
@@ -47,228 +58,207 @@ Equinix, Inc.  shortens the path to boundless connectivity anywhere in the world
 
 ## Find & Compare
 
-# Microsoft's AI Economics Are Quietly Starting To Change
+# USRT: Still Rate Sensitive Despite Data Center Exposure
 
 ## Summary
 
-Microsoft software company 
+high performance data center servers with power storage and cooling system server rack with energy management and digital infrastructure 
 
-tupungato/iStock Editorial via Getty Images
+Getty Images
 
-Microsoft software company
+high performance data center servers with power storage and cooling system server rack with energy management and digital infrastructure
 
-tupungato/iStock Editorial via Getty Images
+Getty Images
 
-Microsoft (MSFT) has traditionally been seen as a rather straightforward investment in AI: build expensive infrastructure, grow Azure, generate cash through Copilot, and then let operating leverage do the rest.  I believe that recent developments suggest
+The iShares Core US REIT ETF (USRT) takes on US-listed REIT exposures—no timbre, mortgage, or infrastructure REITs—with a fund AUM of around $4 billion, so not the biggest by any means but large enough so there's no closure concern and
 
-This article was written by [. ] ### Recommended For You [.
+This article was written by [. ] Seeking Alpha's Disclosure: Past performance is no guarantee of future results.  No recommendation or advice is being given as to whether any investment is suitable for a particular investor.
 
-[Ler noticia completa](https://seekingalpha.com/article/4953217-microsoft-ai-economics-are-quietly-starting-to-change)
-
----
-
-## 4. 3 Top AI Stocks to Watch in October: They May Set the Tone ...
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The tech sector has the most companies delivering positive earnings-per-share guidance for the third quarter, according to FactSet Insight.  That's 44 compared to the five-year average of about 23.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/3-top-ai-stocks-watch-081002404.html?fr=sycsrp_catchall)
+[Ler noticia completa](https://seekingalpha.com/article/4953448-usrt-still-rate-sensitive-despite-datacenter-exposure)
 
 ---
 
-## 5. Robust AI spending sets investors up for another bumper US earnings season
-
-**Fonte:** ft.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Companies
-
-Sections 
-
-       Companies Home
-       Energy
-       Financials
-       Health
-       Industrials
-       Media
-       Professional Services
-       Retail & Consumer
-       Tech Sector
-       Telecoms
-       Transport
-
-Most Read
-
-       India’s bullet train tangle leaves Japan fuming
-       Surge in borrowing costs hits corporate America
-       Ships’ captains paid $100,000 a month to transit Strait of Hormuz
-       SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo
-       Goldman Sachs and Man Group exposed in EY data breach
-
-   Tech
-
-Sections 
-
-       Tech Home
-       Artificial intelligence
-       Semiconductors
-       Cyber Security
-       Social Media
-
-Most Read [. ] CompaniesShow more Companies 
-       Energy
-       Financials
-       Health
-       Industrials
-       Media
-       Professional Services
-       Retail & Consumer
-       Tech Sector
-       Telecoms
-       Transport
-
-   TechShow more Tech 
-       Artificial intelligence
-       Semiconductors
-       Cyber Security
-       Social Media
-
-   MarketsShow more Markets 
-       Alphaville
-       Markets Data
-       Private markets
-       Equities
-       Bonds
-       Currencies
-       Commodities
-       Crypto
-       Monetary Policy Radar
-       Wealth Management
-       Moral Money
-       ETF Hub
-       Asset management
-
-   Climate
-   OpinionShow more Opinion 
-       Columnists
-       The FT View
-       The Big Read
-       Lex
-       Obituaries
-       Letters [. ] Most Read
-
-       Former German spy chief arrested for treason
-       California’s oligarch tax would change America
-       India’s bullet train tangle leaves Japan fuming
-       Surge in borrowing costs hits corporate America
-       Ships’ captains paid $100,000 a month to transit Strait of Hormuz
-
-   US
-
-Sections 
-
-       US Home
-       US Economy
-       US Companies
-       US Politics & Policy
-
-Most Read
-
-       California’s oligarch tax would change America
-       Sleep has always been a class issue
-       Surge in borrowing costs hits corporate America
-       SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo
-       S&P 500 hits record high as AI stocks shrug off bond market slump
-
-   Companies
-
-Sections.
-
-[Ler noticia completa](https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1)
-
----
-
-## 6. IMF says AI could offset Asia’s aging workforce challenges - Investing.com
+## 5. U.S. futures edge up as Wall St awaits bank earnings and inflation test - Investing.com
 
 **Fonte:** investing.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-| Name | Last | Chg.  % | Vol.  |  |
- ---  --- 
-| TMUS | 148.
+By Matthew Well. 
 
-[Ler noticia completa](https://www.investing.com/news/world-news/imf-says-ai-could-offset-asias-aging-workforce-challenges-93CH-4943470)
+Oct 10, 2026
+
+Image 24
+
+Image 25
+
+Wall Street’s Busy Week: Bank Results, CPI and Retail Sales in Focus
+
+By Ali Merchant
+
+Oct 12, 2026
+
+More News
+
+Market Movers
+
+Most Active Gainers %Losers %
+
+| Name | Last | Chg.  % | Vol.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/us-stock-futures-rise-tracking-oil-price-decline-q3-earnings-on-tap-4942973)
 
 ---
 
-## 7. Brazil Data Center Colocation Market - Supply and Demand Analysis, Growth Forecast 2026-2031 | AI and Hyperscale Expansion Unlock Investment Opportunities
+## 6. Global X Artificial Intelligence & Technology ETF (AIQ) Stock Price, News, Quote & History - Yahoo Finance
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-New operators assessed include Ada Infrastructure, CloudHQ, Atlantic Data Centers, Aurea Finvest, 247 Data Centers, DataSpots, TERRANOVA (Actis), Parks Data Center, RT-One, and Supernova And Mapa Investimentos.  The report is designed for data center Real Estate Investment Trusts (REITs), construction contractors, infrastructure providers, investors, new entrants, consultants, advisory firms, corporations and government agencies seeking insight into Brazil's data center colocation growth prospects through 2031. 
+34. 67%
 
-Key Topics Covered  
-  
-1.
+Category
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/brazil-data-center-colocation-market-082800050.html)
+27. 86%
+
+View More
+
+### People Also Watch
+
+BOTZ  Global X Robotics & Artificial Intelligence ETF
+
+34.
+
+[Ler noticia completa](https://finance.yahoo.com/quote/AIQ)
 
 ---
 
-## 8. The bull market is turning 4 years old — but yields could crash the party - MarketWatch
+## 7. The World's Hottest AI Stock Market Has Gone Cold - Business Insider
 
-**Fonte:** marketwatch.com  
+**Fonte:** businessinsider.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Rising long-term interest rates pose risks to the current bull market since they pressure stock valuation, raise borrowing costs for corporations and increase competition for investor money.  Higher rates reduce the present value of future cash flows.  That makes the risk particularly relevant to the AI-driven rally, which rests on expectations of exceptional future earnings growth.
+In July, analysts at GlobalData. TS Lombard pointed out that much of the earnings growth at Korean memory-chip makers came from higher memory-chip prices.  By contrast, TSMC and Japanese chip-equipment makers relied more on advanced manufacturing and process expertise, giving them more durable growth prospects, they added.
 
-[Ler noticia completa](https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c)
+[Ler noticia completa](https://www.businessinsider.com/kospi-stock-index-today-taiwan-taiex-index-ai-trade-rally-2026-10)
 
 ---
 
-## 9. Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers - Bloomberg.com
+## 8. Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports - Bloomberg.com
 
 **Fonte:** bloomberg.com  
-**Sentimento:** 🟢 BULLISH  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-# Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers
+# Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports
 
-## Takeaways by Bloomberg AI
+Amazon. com Inc.  is in negotiations to acquire Decart AI, an artificial intelligence startup, in a deal that could be valued at around $7 billion, the Wall Street Journal reported.
 
-South Korea spent much of this year as a poster child of the scorching global AI trade.  Now, by almost every measure, the $4. 3 trillion stock market is rapidly losing relevance with investors.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers)
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-10-11/amazon-is-in-talks-to-buy-ai-startup-decart-wsj-reports)
 
 ---
 
-## 10. AI Issuers Are Upending Longstanding Safety Valve - Bloomberg.com
+## 9. New tech acquisitions: Here's what you need to know - CNBC
 
-**Fonte:** bloomberg.com  
-**Sentimento:** 🟢 BULLISH  
+**Fonte:** cnbc.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-# AI Issuers Are Upending Longstanding Safety Valve
+Trust Portfolio
+Analysis
+Trade Alerts
+Meeting Videos
+Homestretch
+Jim's Columns
+Education
+Subscribe
+PRO
+Pro News
+Josh Brown
+Mike Santoli
+Calls of the Day
+My Portfolio
+Livestream
+Full Episodes
+Stock Screener
+Market Forecast
+Options Investing
+Chart Investing
+Subscribe
+Livestream
+Menu
+Make It
+select
+USA
+INTL
+Livestream
+Search quotes, news & videos
+Livestream
+Watchlist
+SIGN IN
+Create free account
+Markets
+Business
+Investing
+Tech
+Politics & Policy
+Video
+Watchlist
+Investing Club
+PRO
+Livestream
+Menu
+TechCheck
+TechCheck Podcast
+watch now
+In this video
+AMZN
+NVDA
+Share
+Share Article via Facebook
+Share Article via Twitter
+Share Article via LinkedIn
+Share Article via Email
+TechCheck
+New tech acquisitions: Here's what you need to know [. ] Skip Navigation
+Markets
+Pre-Markets
+U. S.
 
-## Takeaways by Bloomberg AISubscribe
+[Ler noticia completa](https://www.cnbc.com/video/2026/10/12/new-tech-acquisitions-heres-what-you-need-to-know.html)
 
-When financing gets more expensive, companies usually slow down their bond sales.  Tech companies have instead been ramping up this year, and talk this week of potential big financings from SpaceX and Broadcom Inc.  only amplified investor fears about the wave of coming debt.
+---
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly)
+## 10. Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ
+
+**Fonte:** wsj.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+1.    exclusive  
+2.    Deals
+
+# Amazon in Talks to Buy AI Startup Decart for Around $7 Billion
+
+## San Francisco company’s software makes it easier for developers to switch between different AI chips
+
+By
+
+Kate Clark
+and
+
+Lauren Thomas
+
+Oct.
+
+[Ler noticia completa](https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad)
 
 ---
