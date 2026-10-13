@@ -1,60 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html": {
-    "hash": "32cd04f0ba0d5d8bc698ba7376fca230",
-    "visto_em": "2026-10-05"
-  },
-  "https://www.marketwatch.com/investing/stock/dlr": {
-    "hash": "25b1524a00323056bf34eecc3f408284",
-    "visto_em": "2026-10-05"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stocktwits-m-watch-paramount-warner-073129199.html": {
-    "hash": "56a9f837ec2408662cfccbfeb2c372b9",
-    "visto_em": "2026-10-05"
-  },
-  "https://seekingalpha.com/news/4650034-ai-spending-to-drive-another-strong-s-and-p-500-earnings-season-goldman-sachs-says": {
-    "hash": "e444c3ae1d763091bbeb994703ede6e1",
-    "visto_em": "2026-10-05"
-  },
-  "https://www.investing.com/news/stock-market-news/225-gains-and-counting-these-aipicked-tech-stocks-are-crushing-the-market-4931215": {
-    "hash": "0bf7c0df94cab7a291819f8caec4d7ed",
-    "visto_em": "2026-10-05"
-  },
-  "https://www.investing.com/news/stock-market-news/the-sp-500-rose-05-in-september-this-ai-stock-picking-strategy-surged-134-4932152": {
-    "hash": "95a12f4e2c2754e1de1e673707d3c411",
-    "visto_em": "2026-10-05"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/stocktwits-tech-watch-ai-investors-054646008.html": {
-    "hash": "92d52397364b8862cec9562443c8e788",
-    "visto_em": "2026-10-05"
-  },
-  "https://www.reuters.com/world/europe/wall-st-futures-dip-tech-stocks-take-breather-2026-10-05": {
-    "hash": "07a40c009995274fc01dcccafd868187",
-    "visto_em": "2026-10-05"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nvidia-valuations-show-ai-rally-070429645.html": {
-    "hash": "25dff95ec61cb29936d675672f6ab710",
-    "visto_em": "2026-10-05"
-  },
-  "https://finance.yahoo.com/markets/article/why-the-ai-stock-rally-depends-on-cloud-growth-this-earnings-season-goldman-analyst-135838244.html": {
-    "hash": "ce08726a4ebc426e5bc274b2d0f21d63",
-    "visto_em": "2026-10-05"
-  },
-  "https://finance.yahoo.com/markets/article/wall-streets-merger-frenzy-takes-a-third-quarter-breather-chart-of-the-day-114242654.html": {
-    "hash": "828921fe5af1b232956b5ab99385687a",
-    "visto_em": "2026-10-05"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/la-rosa-expands-ai-push-141000300.html": {
-    "hash": "01dc81992cd141d51b6f82d6804c1e5e",
-    "visto_em": "2026-10-05"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/ai-changing-buyers-assess-risk-181236302.html": {
-    "hash": "4a93aea72e0941a46182461f9e3c3f9a",
-    "visto_em": "2026-10-05"
-  },
-  "https://www.cnbc.com/2026/10/05/nvidias-6-trillion-milestone-looms-heres-when-options-traders-see-it-happening.html": {
-    "hash": "d19f40284e3ba559f9a7d12593d5472f",
-    "visto_em": "2026-10-05"
-  },
   "https://ca.finance.yahoo.com/news/3-stocks-ai-energy-buy-180000127.html": {
     "hash": "e78e89c2fe96eee3b68d3d95532994df",
     "visto_em": "2026-10-06"
@@ -494,5 +438,45 @@
   "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad": {
     "hash": "6debe00565d99779231b560046b0b3e1",
     "visto_em": "2026-10-12"
+  },
+  "https://www.investing.com/news/stock-market-news/40-39-19-aipicked-winners-spread-beyond-energy-and-tech-4943019": {
+    "hash": "267937b9bdfa5e50b786e66195fcbf2f",
+    "visto_em": "2026-10-13"
+  },
+  "https://www.businessinsider.com/ai-trade-how-to-invest-stocks-productivity-boom-efficiency-gains-2026-10": {
+    "hash": "78d8f67c9838d85114e84f5511ea0c80",
+    "visto_em": "2026-10-13"
+  },
+  "https://www.businessinsider.com/goldman-sachs-ai-stocks-trade-us-china-ecosystems-competition-playbook-2026-10": {
+    "hash": "e9d925dab7f57a492051b0e3eb490ce2",
+    "visto_em": "2026-10-13"
+  },
+  "https://www.cnbc.com/2026/10/12/ai-fomo-driving-some-family-offices-to-ai-investments-survey-suggests.html": {
+    "hash": "c18cf9e64a7bf546f38ee2844bfe1ef4",
+    "visto_em": "2026-10-13"
+  },
+  "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_latestnews": {
+    "hash": "c4ff3344ac3bc8970a6d2a3ea94f8ae8",
+    "visto_em": "2026-10-13"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/dot-ai-completes-65-million-114500453.html": {
+    "hash": "5ffe0402e8f6edc80bee131cf7795972",
+    "visto_em": "2026-10-13"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/amazon-reportedly-weighs-7b-startup-171900448.html": {
+    "hash": "b0c89f15b37495ae2b610223411809e3",
+    "visto_em": "2026-10-13"
+  },
+  "https://br.investing.com/etfs/defiance-quantum": {
+    "hash": "ac773c5adcf04de7c1376697804e5316",
+    "visto_em": "2026-10-13"
+  },
+  "https://sg.finance.yahoo.com/news/strong-cloud-stocks-using-zacks-230000113.html": {
+    "hash": "277aafed5bbbf702f1bd7c92abe1aca7",
+    "visto_em": "2026-10-13"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/hr-path-accelerates-artificial-intelligence-120000068.html": {
+    "hash": "244767dad5455c47c191ed036eb4bfc3",
+    "visto_em": "2026-10-13"
   }
 }
