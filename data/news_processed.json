@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-13",
-    "total_noticias": 93,
-    "gerado_em": "2026-10-13T10:03:36.873064"
+    "total_noticias": 103,
+    "gerado_em": "2026-10-13T17:22:51.701777"
   },
   "noticias": [
+    {
+      "titulo": "Palantir Technologies Stock Could Reach $300 by the End of 2028",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-stock-could-reach-142200395.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-13",
+      "resumo": "Motley Fool\n\n# Palantir Technologies Stock Could Reach $300 by the End of 2028\n\nHarsh Chauhan, The Motley Fool\n\n4 min read\n\n PLTR\n\n  -0. 85%\n NVDA\n\n  -0. 68%\n\nPalantir Technologies (NASDAQ: PLTR) has staged a stunning rally recently, with shares of the artificial intelligence (AI) software specialist rising by a stunning 70% since the beginning of August.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.74% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-074-4937493",
+      "fonte": "investing.com",
+      "data": "2026-10-07",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MSTR | 153.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.38% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-138-4941679",
+      "fonte": "investing.com",
+      "data": "2026-10-09",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n|  | 148.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.94% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-094-4939777",
+      "fonte": "investing.com",
+      "data": "2026-10-08",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n|  | 346.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Equal-Weight ETFs to Play AI Despite Rising Bubble Concerns",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equal-weight-etfs-play-ai-144800481.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-08",
+      "resumo": "## What Should Investors Do. \n\nRising concerns about an AI bubble make technology stocks and the broader AI trade a riskier bet.  However, completely stepping away from AI could mean missing out on the technology's potentially significant long-term growth prospects.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bovespa Index Today (IBOV) - Investing.com",
+      "url": "https://www.investing.com/indices/bovespa",
+      "fonte": "investing.com",
+      "data": "2026-10-09",
+      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| MRVE3  MRV Engenharia | 7. 82+1. 39+21.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Pioneer Acquisition I Corp Enters Into Business Combination Agreement with Green AI Cloud, a Clean Energy Super Compute AI Platform in Europe",
+      "url": "https://finance.yahoo.com/technology/ai/articles/pioneer-acquisition-corp-enters-business-205200086.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-08",
+      "resumo": "the global AI economy in partnership with the communities in which we operate. \" [. ] \"This Transaction marks an important milestone for Green AI Cloud and we believe it reflects the strength of our strategy to build AI-ready infrastructure where power availability, speed, and execution matter most,\" stated Jacob Bostrom, Founder and Chief Executive Officer of Green AI Cloud.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "iBovespa Futures Futures Live Price (INDc1) - Investing.com UK",
+      "url": "https://uk.investing.com/indices/ibovespa-futures",
+      "fonte": "uk.investing.com",
+      "data": "2026-10-09",
+      "resumo": "#### Popular Searches\n\n##### Please try another search\n\n# iBovespa Futures - Oct 26\n\n|  |\n\n|  | Symbol |  | Exchange |  | Currency |\n ---  ---  --- |\n|  | INDc1 | · | B3 | · | BRL | Delayed |\n|  | INDc2 | · | B3 | · | BRL | Delayed |\n\n## Technical Analysis\n\n## iBovespa Futures News & Analysis\n\n## iBovespa Futures News & Analysis\n\n## Related ETFs\n\n| Name | Last | Chg.  % | Vol.  | Time | Price |  |\n ---  ---  --- \n| RIOU  Amundi MSCI Brazil UCITS ETF Acc | 35.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade - CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-13",
+      "resumo": "Last week, confusion around a report detailing OpenAI's revenue and updated accounting dragged down major semiconductor stocks and the broader Nasdaq. \n\nOpenAI shared an updated revenue number of $50 billion with current investors as part of an ongoing fundraise, which was lower than the $70 billion that had been widely reported.  The updated number stripped out revenue from cloud partners, and wasn't an indication of changing demand, according to a person familiar with the matter who asked not to be named in order to discuss internal information.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "ELECTRA AI and Iron Horse Acquisition II Corp. (Nasdaq: IRHO) Selected by Westbrook Racing by Visit Angola to Bring AI Battery Intelligence to E1 Electric Powerboat Racing",
+      "url": "https://uk.finance.yahoo.com/news/electra-ai-iron-horse-acquisition-120000363.html",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-10-13",
+      "resumo": "About Iron Horse Acquisition II Corp. \n\nIron Horse Acquisition II Corp.  (Nasdaq: IRHO) (www.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "+40%, +39%, +19%: AI-picked winners spread beyond energy and tech By Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/40-39-19-aipicked-winners-spread-beyond-energy-and-tech-4943019",
