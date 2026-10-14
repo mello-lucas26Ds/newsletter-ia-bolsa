@@ -3,15 +3,57 @@
     "versao": "1.0",
     "data": "2026-10-14",
     "total_noticias": 10,
-    "gerado_em": "2026-10-14T08:21:38.377305"
+    "gerado_em": "2026-10-14T14:54:18.665941"
   },
   "noticias": [
     {
-      "titulo": "AI Stocks Rebound, but Concentration Risks Remain | Investing.com",
-      "url": "https://www.investing.com/analysis/ai-stocks-rebound-but-concentration-risks-remain-200689434",
+      "titulo": "ASML stock gains on raised 2026 outlook, capacity expansion plans - Investing.com",
+      "url": "https://www.investing.com/news/earnings/asml-raises-capacity-plans-as-ai-demand-drives-record-q3-sales-4948020",
       "fonte": "investing.com",
-      "data": "2026-10-12",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 991.",
+      "data": "2026-10-14",
+      "resumo": "By Nigel Green\n\nOct 13, 2026\n\nMore News\n\nMarket Movers\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 953.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "SocGen's 3-Part AI Investing Playbook, Including 12 Stock Picks - Business Insider",
+      "url": "https://www.businessinsider.com/top-ai-stock-picks-to-buy-investing-productivity-msft-lly-2026-10",
+      "fonte": "businessinsider.com",
+      "data": "2026-10-14",
+      "resumo": "\"After three years of massive infrastructure buildout, AI value creation is beginning to broaden downstream,\" Manish Kabra, SocGen's chief US equity strategist, wrote in the note.  \"Rapidly evolving use cases and an expanding ecosystem of software, agents and physical AI applications are widening the opportunity set, from infrastructure providers to companies directly monetising AI products and, ultimately, those capturing productivity gains from adoption. \"\n\nThere's perhaps no better illustration of Kabra's point than Meta's agentic AI model, Muse.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI trade is 'nervous' despite solid fundamentals, says Deepwater's Gene Munster - CNBC",
+      "url": "https://www.cnbc.com/video/2026/10/13/ai-trade-is-nervous-despite-solid-fundamentals-says-deepwaters-gene-munster.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-13",
+      "resumo": "5 hours ago\nwatch now\nwatch now\nVIDEO\n01:29\nJustice Department says Saudi national arrested for installing audio recording device at OpenAI\n34 min ago\nwatch now\nwatch now\nVIDEO\n05:18\nRobostrategy CEO Andrew Kang showcases 'Taku' the robot and talks the physical AI race\nan hour ago\nwatch now\nwatch now\nVIDEO\n02:34\nTreasury imposes more than $1. 21 billion in penalties against Bank of America\nan hour ago\nwatch now\nwatch now\nVIDEO\n04:38\nHead of Amazon Prime Video on movie studio: We wanted to take control of our output\n3 hours ago\nwatch now\nwatch now\nVIDEO\n05:21\nCompass CEO: Upward price pressure is easing and buyers have more negotiating power\n5 hours ago\nLoad More [. ] Gene Munster, Deepwater Asset Management, joins 'Fast Money' to talk investor nervousness plaguing arts of the AI trade.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cramer's lightning round: 'Hold on to Element Solutions' - CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/cramers-lightning-round-hold-on-to-element-solutions.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-13",
+      "resumo": "In this article\n\nWaste Connections: \"I'm still going to send you to Waste Management.  I just think it's a better company. \"\n\nElement Solutions: \"Hold on to Element Solutions.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -21,109 +63,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Wall Street Expects 29.6% Q3 Earnings Growth: Can AI Stocks Deliver?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-expects-29-6-024300206.html",
-      "fonte": "finance.yahoo.com",
+      "titulo": "Semiconductor selloff: 10 chip stocks showing signs of oversold conditions (SMH:NASDAQ) - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4652398-semiconductor-selloff-deepens-10-chip-stocks-showing-signs-of-oversold-conditions",
+      "fonte": "seekingalpha.com",
       "data": "2026-10-13",
-      "resumo": "So far, 84% of the 19 S&P 500 companies that had reported by Oct.  9 beat estimates. \n\nHowever, the panelist said guidance is the real test.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Moura Dubeux, Cury, MRV, B3 e mais ações para acompanhar nesta 6ª",
-      "url": "https://www.infomoney.com.br/mercados/moura-dubeux-cury-mrv-b3-e-mais-acoes-para-acompanhar-nesta-6a",
-      "fonte": "infomoney.com.br",
-      "data": "2026-10-09",
-      "resumo": "Além disso, os investidores acompanham os números de geração de caixa, vendas e lançamentos do setor de construção civil, que seguem oferecendo sinais sobre o ritmo de atividade do mercado imobiliário. \n\nConfira mais destaques:\n\nComece agora. \n\nB3 (B3SA3)\n\nA B3 informou que seu Conselho de Administração registrou, em reunião extraordinária realizada em 8 de outubro, que a posse de Eduardo Oliveira Neves no cargo de vice-presidente de Tecnologia ocorrerá em 26 de outubro de 2026.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Agent Company Decagon Held Early M&A Talks With ServiceNow, Others - Business Insider",
-      "url": "https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10",
-      "fonte": "businessinsider.com",
-      "data": "2026-10-13",
-      "resumo": "Editor at Large and co-author of VC Insider\n\nBuzzy AI agent startup Decagon could be the latest company swept up in a growing wave of AI dealmaking. \n\nThe company, which was last valued at $4. 5 billion earlier this year, has hired a bank to evaluate acquisition interest, according to people familiar with the matter.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "'Brutal session' for chip stocks shows AI trade is turning - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/global-markets-ai-selloff-analysis-pix-2026-10-13/",
-      "fonte": "reuters.com",
-      "data": "2026-10-13",
-      "resumo": "Japan's tech investor SoftBank(9984. T), opens new tab last month sold the ​biggest high-yield debt pile ever and promised to pay as much as 9. 75% on $4.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging - CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
-      "fonte": "cnbc.com",
-      "data": "2026-10-12",
-      "resumo": "Earnings are also an issue.  While the third-quarter reporting season is expected to be strong, some worry that they may not be strong enough to lift the stock price given how high expectations have grown. \n\nTech, in particular, is an issue.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Chaos in Korea's market is sending shockwaves through US chip stocks - Business Insider",
-      "url": "https://www.businessinsider.com/stock-market-today-chip-stocks-south-korea-kospi-selloff-mu-2026-10",
-      "fonte": "businessinsider.com",
-      "data": "2026-10-13",
-      "resumo": "The tech selling this week is a symptom of \"fragility\" in the AI trade, top economist David Rosenberg said in a client note. \n\n\"For semiconductor investors, attention now turns to Thursday's TSMC earnings, widely viewed as the next major test of the AI investment thesis,\" the Rosenberg Research president said. \n\nMixed earnings reports added to some of the pessimism felt by investors.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Here's where Jim Cramer stands on this newly public AI infrastructure stock - CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
-      "fonte": "cnbc.com",
-      "data": "2026-10-13",
-      "resumo": "He also expressed concerns about Accelevation's competitive position, citing Vertiv and Eaton as established companies that pursue overlapping segments of the data center infrastructure market.  \"There are a ton of different ways to play this story,\" he said.  \"I'd rather go with the ones that have earned my confidence.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Best AI Stocks • Benzinga",
-      "url": "https://www.benzinga.com/money/best-artificial-intelligence-stocks",
-      "fonte": "benzinga.com",
-      "data": "2026-10-10",
-      "resumo": "AI models require immense computational power to train and operate.  This magnitude of power is derived from specialized chips, which enable them to process vast amounts of data rapidly.  TSM is a key player in manufacturing these chips, and its advanced semiconductor fabrication operations allow for the production of smaller, more powerful, and energy-efficient chips.",
+      "resumo": "Home page Seeking Alpha - Power to Investors\n\nSearch for Symbols, analysts, keywords\n\n# Semiconductor selloff: 10 chip stocks showing signs of oversold conditions\n\nOct 13, 2026, 7:42 AM ETVanEck Semiconductor ETF (SMH), SOXX, SOXL, FTXL, XSD, USD, PSI, SEMIINTC, STX, WDC, AMAT, LRCX, MU, ASML, SWKS, NVMI, BESIY, SITM, IONQ, CBRS, SNDK, KXIAY, SKHY, TELWYBy: Nilanjana Basu, SA News Editor12 Comments\n\nThe global selloff in semiconductor stocks has intensified as concerns over an overheated artificial intelligence trade, rising financing costs and growing Chinese competition weigh on investor sentiment. \n\nMemory-chip makers have come under particular pressure, with South Korea’s SK hynix plunging 10% and [. ] ### Recommended For You [.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -133,12 +77,68 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market - MarketWatch",
-      "url": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece",
-      "fonte": "marketwatch.com",
+      "titulo": "Crypto is bouncing back. Citi says Galaxy Digital could too - CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/galaxy-digital-citi-upgrade-buy.html",
+      "fonte": "cnbc.com",
       "data": "2026-10-13",
-      "resumo": "Image 1: MarketWatch Logo\n\nChip stocks suffer worst stretch in 16 months as AI fatigue grips the market\n\nShare\n\nAdd us on Google\n\nChoose MarketWatch as a preferred source of financial news\n\nResize\n\n8\n\n  \n\n(3 min)\n\nSkip to main content\n\nExplore Our Brands\n\n   WSJ\n   \n  \n\n   Barron's\n   \n  \n\n   MarketWatch\n   \n  \n\n   IBD\n   \n  \n\n   \n\n   Investing\n   Personal Finance\n   RetirementEconomy \n\n   Watchlist\n\n### Account Settings\n\n   Log In\n   Sign Up\n\nSite Search Clear SEARCH\n\nAdvanced Search➔\n\nSearch Results\n\nSymbols\n\nNo results found\n\n   All News\n   Articles\n   Video\n   Podcasts\n\n0 Results\n\nNo Results Found\n\nAuthors\n\nNo results found\n\nSections\n\nNo results found\n\nColumns\n\nNo results found\n\nDJIA 51670. 10 -0. 35%\n\nS&P 500 7805.",
+      "resumo": "could further de-risk the data center business and enhance visibility into long-term earnings power,\" Christiansen wrote.  Recent pushes to achieve greater regulatory clarity on crypto in the U. S.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "ASML says it's getting order interest through 2030 as profit smashes expectations - CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-14",
+      "resumo": "ASML is the only company in the world that produces extreme ultraviolet lithography machines, a key tool used by the likes of TSMC to make the world's most advanced semiconductors. \n\nInvestors closely watch the Dutch company's earnings for signs of AI-related chip demand. \n\nFouquet said current supply planned for 2027 and 2028 will not fully meet the demand of its customers.",
       "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech, Media & Telecom Roundup: Market Talk - WSJ",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-b47e7b90",
+      "fonte": "wsj.com",
+      "data": "2026-10-13",
+      "resumo": "0806 GMT – China’s data-center investment story is shifting from securing power capacity and customer contracts to generating attractive returns on invested capital, Goldman Sachs analysts write in a note.  Higher U. S.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cracks Grow Across the AI Trade as Memory-Chip Stocks Tumble - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-13/cracks-grow-across-the-ai-trade-as-memory-chip-stocks-tumble",
+      "fonte": "bloomberg.com",
+      "data": "2026-10-13",
+      "resumo": "# Cracks Grow Across the AI Trade as Memory-Chip Stocks Tumble\n\n## Takeaways by Bloomberg AISubscribe\n\nThe global artificial intelligence trade is coming under increasing pressure, with a deepening selloff in chip stocks instilling fresh doubts about the sustainability of one of the most powerful investment themes of recent years. \n\nShares tied to the AI boom have been hit as concerns over intensifying competition from China, rising interest rates, stretched valuations and the enormous cost of building AI infrastructure converge.  South Korea’s Kospi Index plunged 5.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Data center demand is going global despite community pushback : Digital Realty CEO - CNBC",
+      "url": "https://www.cnbc.com/video/2026/10/13/data-center-demand-pushback-local-communities-digital-realty-ceo.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-13",
+      "resumo": "Data center demand is going global despite community pushback : Digital Realty CEO\n\nAndy Power, President & CEO of Digital Realty, says the U. S.  is leading the race in data center buildout, and thinks that community pushback can be a chance for firms to convince people of the need for AI infrastructure.",
+      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"

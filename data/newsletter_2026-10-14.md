@@ -1,243 +1,206 @@
 # Newsletter IA Bolsa — 2026-10-14
 
-**Gerado em:** 14/10/2026 08:21
+**Gerado em:** 14/10/2026 14:54
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. AI Stocks Rebound, but Concentration Risks Remain | Investing.com
+## 1. ASML stock gains on raised 2026 outlook, capacity expansion plans - Investing.com
 
 **Fonte:** investing.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
+
+By Nigel Green
+
+Oct 13, 2026
+
+More News
+
+Market Movers
 
 | Name | Last | Chg.  % | Vol.  |  |
  ---  --- 
-| MU | 991.
+| MU | 953.
 
-[Ler noticia completa](https://www.investing.com/analysis/ai-stocks-rebound-but-concentration-risks-remain-200689434)
-
----
-
-## 2. Wall Street Expects 29.6% Q3 Earnings Growth: Can AI Stocks Deliver?
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-So far, 84% of the 19 S&P 500 companies that had reported by Oct.  9 beat estimates. 
-
-However, the panelist said guidance is the real test.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/wall-street-expects-29-6-024300206.html)
+[Ler noticia completa](https://www.investing.com/news/earnings/asml-raises-capacity-plans-as-ai-demand-drives-record-q3-sales-4948020)
 
 ---
 
-## 3. Moura Dubeux, Cury, MRV, B3 e mais ações para acompanhar nesta 6ª
-
-**Fonte:** infomoney.com.br  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Além disso, os investidores acompanham os números de geração de caixa, vendas e lançamentos do setor de construção civil, que seguem oferecendo sinais sobre o ritmo de atividade do mercado imobiliário. 
-
-Confira mais destaques:
-
-Comece agora. 
-
-B3 (B3SA3)
-
-A B3 informou que seu Conselho de Administração registrou, em reunião extraordinária realizada em 8 de outubro, que a posse de Eduardo Oliveira Neves no cargo de vice-presidente de Tecnologia ocorrerá em 26 de outubro de 2026.
-
-[Ler noticia completa](https://www.infomoney.com.br/mercados/moura-dubeux-cury-mrv-b3-e-mais-acoes-para-acompanhar-nesta-6a)
-
----
-
-## 4. AI Agent Company Decagon Held Early M&A Talks With ServiceNow, Others - Business Insider
+## 2. SocGen's 3-Part AI Investing Playbook, Including 12 Stock Picks - Business Insider
 
 **Fonte:** businessinsider.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Editor at Large and co-author of VC Insider
+"After three years of massive infrastructure buildout, AI value creation is beginning to broaden downstream," Manish Kabra, SocGen's chief US equity strategist, wrote in the note.  "Rapidly evolving use cases and an expanding ecosystem of software, agents and physical AI applications are widening the opportunity set, from infrastructure providers to companies directly monetising AI products and, ultimately, those capturing productivity gains from adoption. "
 
-Buzzy AI agent startup Decagon could be the latest company swept up in a growing wave of AI dealmaking. 
+There's perhaps no better illustration of Kabra's point than Meta's agentic AI model, Muse.
 
-The company, which was last valued at $4. 5 billion earlier this year, has hired a bank to evaluate acquisition interest, according to people familiar with the matter.
-
-[Ler noticia completa](https://www.businessinsider.com/ai-agent-company-decagon-hired-investment-bank-acquisition-interest-2026-10)
+[Ler noticia completa](https://www.businessinsider.com/top-ai-stock-picks-to-buy-investing-productivity-msft-lly-2026-10)
 
 ---
 
-## 5. 'Brutal session' for chip stocks shows AI trade is turning - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Japan's tech investor SoftBank(9984. T), opens new tab last month sold the ​biggest high-yield debt pile ever and promised to pay as much as 9. 75% on $4.
-
-[Ler noticia completa](https://www.reuters.com/world/asia-pacific/global-markets-ai-selloff-analysis-pix-2026-10-13/)
-
----
-
-## 6. The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging - CNBC
+## 3. AI trade is 'nervous' despite solid fundamentals, says Deepwater's Gene Munster - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Earnings are also an issue.  While the third-quarter reporting season is expected to be strong, some worry that they may not be strong enough to lift the stock price given how high expectations have grown. 
+5 hours ago
+watch now
+watch now
+VIDEO
+01:29
+Justice Department says Saudi national arrested for installing audio recording device at OpenAI
+34 min ago
+watch now
+watch now
+VIDEO
+05:18
+Robostrategy CEO Andrew Kang showcases 'Taku' the robot and talks the physical AI race
+an hour ago
+watch now
+watch now
+VIDEO
+02:34
+Treasury imposes more than $1. 21 billion in penalties against Bank of America
+an hour ago
+watch now
+watch now
+VIDEO
+04:38
+Head of Amazon Prime Video on movie studio: We wanted to take control of our output
+3 hours ago
+watch now
+watch now
+VIDEO
+05:21
+Compass CEO: Upward price pressure is easing and buyers have more negotiating power
+5 hours ago
+Load More [. ] Gene Munster, Deepwater Asset Management, joins 'Fast Money' to talk investor nervousness plaguing arts of the AI trade.
 
-Tech, in particular, is an issue.
-
-[Ler noticia completa](https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html)
+[Ler noticia completa](https://www.cnbc.com/video/2026/10/13/ai-trade-is-nervous-despite-solid-fundamentals-says-deepwaters-gene-munster.html)
 
 ---
 
-## 7. Chaos in Korea's market is sending shockwaves through US chip stocks - Business Insider
-
-**Fonte:** businessinsider.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The tech selling this week is a symptom of "fragility" in the AI trade, top economist David Rosenberg said in a client note. 
-
-"For semiconductor investors, attention now turns to Thursday's TSMC earnings, widely viewed as the next major test of the AI investment thesis," the Rosenberg Research president said. 
-
-Mixed earnings reports added to some of the pessimism felt by investors.
-
-[Ler noticia completa](https://www.businessinsider.com/stock-market-today-chip-stocks-south-korea-kospi-selloff-mu-2026-10)
-
----
-
-## 8. Here's where Jim Cramer stands on this newly public AI infrastructure stock - CNBC
+## 4. Cramer's lightning round: 'Hold on to Element Solutions' - CNBC
 
 **Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-He also expressed concerns about Accelevation's competitive position, citing Vertiv and Eaton as established companies that pursue overlapping segments of the data center infrastructure market.  "There are a ton of different ways to play this story," he said.  "I'd rather go with the ones that have earned my confidence.
-
-[Ler noticia completa](https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html)
-
----
-
-## 9. Best AI Stocks • Benzinga
-
-**Fonte:** benzinga.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-AI models require immense computational power to train and operate.  This magnitude of power is derived from specialized chips, which enable them to process vast amounts of data rapidly.  TSM is a key player in manufacturing these chips, and its advanced semiconductor fabrication operations allow for the production of smaller, more powerful, and energy-efficient chips.
+In this article
 
-[Ler noticia completa](https://www.benzinga.com/money/best-artificial-intelligence-stocks)
+Waste Connections: "I'm still going to send you to Waste Management.  I just think it's a better company. "
+
+Element Solutions: "Hold on to Element Solutions.
+
+[Ler noticia completa](https://www.cnbc.com/2026/10/13/cramers-lightning-round-hold-on-to-element-solutions.html)
 
 ---
 
-## 10. Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market - MarketWatch
+## 5. Semiconductor selloff: 10 chip stocks showing signs of oversold conditions (SMH:NASDAQ) - Seeking Alpha
 
-**Fonte:** marketwatch.com  
+**Fonte:** seekingalpha.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Home page Seeking Alpha - Power to Investors
+
+Search for Symbols, analysts, keywords
+
+# Semiconductor selloff: 10 chip stocks showing signs of oversold conditions
+
+Oct 13, 2026, 7:42 AM ETVanEck Semiconductor ETF (SMH), SOXX, SOXL, FTXL, XSD, USD, PSI, SEMIINTC, STX, WDC, AMAT, LRCX, MU, ASML, SWKS, NVMI, BESIY, SITM, IONQ, CBRS, SNDK, KXIAY, SKHY, TELWYBy: Nilanjana Basu, SA News Editor12 Comments
+
+The global selloff in semiconductor stocks has intensified as concerns over an overheated artificial intelligence trade, rising financing costs and growing Chinese competition weigh on investor sentiment. 
+
+Memory-chip makers have come under particular pressure, with South Korea’s SK hynix plunging 10% and [. ] ### Recommended For You [.
+
+[Ler noticia completa](https://seekingalpha.com/news/4652398-semiconductor-selloff-deepens-10-chip-stocks-showing-signs-of-oversold-conditions)
+
+---
+
+## 6. Crypto is bouncing back. Citi says Galaxy Digital could too - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+could further de-risk the data center business and enhance visibility into long-term earnings power," Christiansen wrote.  Recent pushes to achieve greater regulatory clarity on crypto in the U. S.
+
+[Ler noticia completa](https://www.cnbc.com/2026/10/13/galaxy-digital-citi-upgrade-buy.html)
+
+---
+
+## 7. ASML says it's getting order interest through 2030 as profit smashes expectations - CNBC
+
+**Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Image 1: MarketWatch Logo
+ASML is the only company in the world that produces extreme ultraviolet lithography machines, a key tool used by the likes of TSMC to make the world's most advanced semiconductors. 
 
-Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market
+Investors closely watch the Dutch company's earnings for signs of AI-related chip demand. 
 
-Share
+Fouquet said current supply planned for 2027 and 2028 will not fully meet the demand of its customers.
 
-Add us on Google
+[Ler noticia completa](https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html)
 
-Choose MarketWatch as a preferred source of financial news
+---
 
-Resize
+## 8. Tech, Media & Telecom Roundup: Market Talk - WSJ
 
-8
+**Fonte:** wsj.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
 
-  
+0806 GMT – China’s data-center investment story is shifting from securing power capacity and customer contracts to generating attractive returns on invested capital, Goldman Sachs analysts write in a note.  Higher U. S.
 
-(3 min)
+[Ler noticia completa](https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-b47e7b90)
 
-Skip to main content
+---
 
-Explore Our Brands
+## 9. Cracks Grow Across the AI Trade as Memory-Chip Stocks Tumble - Bloomberg.com
 
-   WSJ
-   
-  
+**Fonte:** bloomberg.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
 
-   Barron's
-   
-  
+# Cracks Grow Across the AI Trade as Memory-Chip Stocks Tumble
 
-   MarketWatch
-   
-  
+## Takeaways by Bloomberg AISubscribe
 
-   IBD
-   
-  
+The global artificial intelligence trade is coming under increasing pressure, with a deepening selloff in chip stocks instilling fresh doubts about the sustainability of one of the most powerful investment themes of recent years. 
 
-   
+Shares tied to the AI boom have been hit as concerns over intensifying competition from China, rising interest rates, stretched valuations and the enormous cost of building AI infrastructure converge.  South Korea’s Kospi Index plunged 5.
 
-   Investing
-   Personal Finance
-   RetirementEconomy 
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-10-13/cracks-grow-across-the-ai-trade-as-memory-chip-stocks-tumble)
 
-   Watchlist
+---
 
-### Account Settings
+## 10. Data center demand is going global despite community pushback : Digital Realty CEO - CNBC
 
-   Log In
-   Sign Up
+**Fonte:** cnbc.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
 
-Site Search Clear SEARCH
+Data center demand is going global despite community pushback : Digital Realty CEO
 
-Advanced Search➔
+Andy Power, President & CEO of Digital Realty, says the U. S.  is leading the race in data center buildout, and thinks that community pushback can be a chance for firms to convince people of the need for AI infrastructure.
 
-Search Results
-
-Symbols
-
-No results found
-
-   All News
-   Articles
-   Video
-   Podcasts
-
-0 Results
-
-No Results Found
-
-Authors
-
-No results found
-
-Sections
-
-No results found
-
-Columns
-
-No results found
-
-DJIA 51670. 10 -0. 35%
-
-S&P 500 7805.
-
-[Ler noticia completa](https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece)
+[Ler noticia completa](https://www.cnbc.com/video/2026/10/13/data-center-demand-pushback-local-communities-digital-realty-ceo.html)
 
 ---
