@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-10-14",
-    "total_noticias": 107,
-    "gerado_em": "2026-10-14T14:54:18.667707"
+    "data": "2026-10-15",
+    "total_noticias": 101,
+    "gerado_em": "2026-10-15T07:58:39.474865"
   },
   "noticias": [
+    {
+      "titulo": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/tsmc-expected-report-sixth-straight-quarter-record-profit-thanks-ai-boom-2026-10-14/",
+      "fonte": "reuters.com",
+      "data": "2026-10-14",
+      "resumo": "TAIPEI, Oct 15 (Reuters) - TSMC, the world's largest manufacturer ‌of advanced AI chips, will likely report a sixth consecutive quarter of record earnings on Thursday, driven by booming infrastructure spending in the tech sector. \n\nAnalysts say demand for Taiwan Semiconductor Manufacturing Co's (TSMC) (2330. TW), opens new tab ​AI chipmaking capacity, as well as its advanced chip packaging technology, CoWoS, ​remains strong.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount - CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-15",
+      "resumo": "The tech-heavy Nasdaq Composite dropped 1. 88% to close at 26,692. 87, while the S&P 500 shed 1.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia CEO says he would stop chip supply for companies with unsafe AI - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-says-he-would-stop-chip-supply-for-companies-with-unsafe-ai-4949841",
+      "fonte": "investing.com",
+      "data": "2026-10-14",
+      "resumo": "By Lance Robert. \n\nOct 12, 2026\n\nMore News\n\nMarket Movers\n\n| Name | Last | Chg.  % | Vol.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom - CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-15",
+      "resumo": "In this article\n\nTaiwan Semiconductor Manufacturing Co.  on Thursday reported a record third-quarter profit that beat estimates, powered by an unrelenting global appetite for AI chips. \n\nHere are TSMC's third-quarter results against LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate:\n\nThe world's largest contract chipmaker posted a record net profit for a sixth straight quarter, reporting 68.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "South Korea's Stock Rout Reveals a Double Threat to the AI Boom - Business Insider",
+      "url": "https://www.businessinsider.com/kospi-stock-index-price-today-sk-hynix-samsung-stock-selloff-2026-10",
+      "fonte": "businessinsider.com",
+      "data": "2026-10-15",
+      "resumo": "But South Korea's troubles go beyond interest rates. \n\nInvestors are increasingly questioning how much they should pay for semiconductor stocks, even as the companies' earnings outlook remains relatively strong. \n\nDoubts about the profitability of leading AI companies and their growing reliance on external financing were prompting investors to rethink how they valued chipmakers, wrote Mingyu Kim, an analyst at KB Securities, wrote on Wednesday.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC’s Profit Surpasses Expectations After AI Orders Rush In - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-s-profit-surpasses-expectations-after-ai-orders-rush-in",
+      "fonte": "bloomberg.com",
+      "data": "2026-10-15",
+      "resumo": "Big Tech\n\n# TSMC’s Outlook Beats Estimates in Affirmation of AI Buildout\n\n## Takeaways by Bloomberg AISubscribe\n\nTaiwan Semiconductor Manufacturing Co.  delivered a better-than-expected revenue outlook, sustaining torrid growth in defiance of rising concerns about the sustainability of a global AI buildout. \n\nThe global chipmaking linchpin is projecting sales of as much as $54.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Anthropic's quarterly revenue leaps to $16.8 billion as IPO looms - Business Insider",
+      "url": "https://www.businessinsider.com/anthropic-reveals-16-8b-revenue-amid-ipo-preparations-2026-10",
+      "fonte": "businessinsider.com",
+      "data": "2026-10-14",
+      "resumo": "Investors view Anthropic's revenue as a proxy for the company's competition with OpenAI, and for the strength of an early AI market that has boosted stocks by trillions of dollars in value.  It's unclear if the new revenue tally counts gross or net revenue, or how Anthropic arrived at its definition of profitability. \n\nThe Wall Street Journal previously reported that Anthropic brought in $4.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge - CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-14",
+      "resumo": "Another neocloud stock, Nebius, dropped 9%. \n\nCompanies are in a race to build AI infrastructure and have turned to the credit market to finance their projects, leading to a jump in supply.  Dell cratered by 10%.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing' - CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-14",
+      "resumo": "Makers of data center servers and other backend equipment have been favored on Wall Street this year on optimism that they'll be selling huge volumes of gear tied to demand for AI chips and systems for years into the future.  Dell has been one of the top performers on the market, up more than 300% this year, while HPE has jumped about 160% and NetApp has doubled. \n\nHowever, sentiment toward the AI infrastructure space has shifted of late due in part to concerning revenue figures out of OpenAI and more broadly out of fear that rising interest rates will create a challenging environment as so much of the buildout is reliant on debt.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Jim Cramer's top 10 things to watch in the stock market Tuesday - CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-13",
+      "resumo": "its buy rating.  The analysts said that Microsoft should see \"AI benefits for both Azure and the Office franchise (fueled by Copilot)\" during its just-ended quarter.  They did note, however, that there may be some noise in the numbers due to the company's new reporting structure.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "ASML stock gains on raised 2026 outlook, capacity expansion plans - Investing.com",
       "url": "https://www.investing.com/news/earnings/asml-raises-capacity-plans-as-ai-demand-drives-record-q3-sales-4948020",
@@ -292,20 +432,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-10-13",
       "resumo": "Motley Fool\n\n# Palantir Technologies Stock Could Reach $300 by the End of 2028\n\nHarsh Chauhan, The Motley Fool\n\n4 min read\n\n PLTR\n\n  -0. 85%\n NVDA\n\n  -0. 68%\n\nPalantir Technologies (NASDAQ: PLTR) has staged a stunning rally recently, with shares of the artificial intelligence (AI) software specialist rising by a stunning 70% since the beginning of August.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.74% By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-074-4937493",
-      "fonte": "investing.com",
-      "data": "2026-10-07",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MSTR | 153.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -707,20 +833,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Mega-Bull Dan Ives Names His Top 5 Tech Stock Picks Heading Into 2027 - Business Insider",
-      "url": "https://www.businessinsider.com/top-tech-stock-picks-dan-ives-pltr-nvda-msft-ai-2026-10",
-      "fonte": "businessinsider.com",
-      "data": "2026-10-07",
-      "resumo": "\"The infrastructure layer remains supply constrained through at least 2027, and the companies that own scarce compute, memory, and power are reporting the growth now,\" he said.  \"Enterprise software, written off in the first quarter as AI's presumed victim, has recovered as the prints showed that models are commoditizing. \"\n\nOne trend that Ives correctly called in December 2025 was the rally in cybersecurity stocks in 2026.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/EQIX",
       "fonte": "finance.yahoo.com",
@@ -741,34 +853,6 @@
       "data": "2026-10-10",
       "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Microsoft's AI Economics Are Quietly Starting To Change\n\n## Summary\n\nMicrosoft software company \n\ntupungato/iStock Editorial via Getty Images\n\nMicrosoft software company\n\ntupungato/iStock Editorial via Getty Images\n\nMicrosoft (MSFT) has traditionally been seen as a rather straightforward investment in AI: build expensive infrastructure, grow Azure, generate cash through Copilot, and then let operating leverage do the rest.  I believe that recent developments suggest\n\nThis article was written by [. ] ### Recommended For You [.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 Top AI Stocks to Watch in October: They May Set the Tone ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-ai-stocks-watch-081002404.html?fr=sycsrp_catchall",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-07",
-      "resumo": "The tech sector has the most companies delivering positive earnings-per-share guidance for the third quarter, according to FactSet Insight.  That's 44 compared to the five-year average of about 23.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Robust AI spending sets investors up for another bumper US earnings season",
-      "url": "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1",
-      "fonte": "ft.com",
-      "data": "2026-10-07",
-      "resumo": "Companies\n\nSections \n\n       Companies Home\n       Energy\n       Financials\n       Health\n       Industrials\n       Media\n       Professional Services\n       Retail & Consumer\n       Tech Sector\n       Telecoms\n       Transport\n\nMost Read\n\n       India’s bullet train tangle leaves Japan fuming\n       Surge in borrowing costs hits corporate America\n       Ships’ captains paid $100,000 a month to transit Strait of Hormuz\n       SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo\n       Goldman Sachs and Man Group exposed in EY data breach\n\n   Tech\n\nSections \n\n       Tech Home\n       Artificial intelligence\n       Semiconductors\n       Cyber Security\n       Social Media\n\nMost Read [. ] CompaniesShow more Companies \n       Energy\n       Financials\n       Health\n       Industrials\n       Media\n       Professional Services\n       Retail & Consumer\n       Tech Sector\n       Telecoms\n       Transport\n\n   TechShow more Tech \n       Artificial intelligence\n       Semiconductors\n       Cyber Security\n       Social Media\n\n   MarketsShow more Markets \n       Alphaville\n       Markets Data\n       Private markets\n       Equities\n       Bonds\n       Currencies\n       Commodities\n       Crypto\n       Monetary Policy Radar\n       Wealth Management\n       Moral Money\n       ETF Hub\n       Asset management\n\n   Climate\n   OpinionShow more Opinion \n       Columnists\n       The FT View\n       The Big Read\n       Lex\n       Obituaries\n       Letters [. ] Most Read\n\n       Former German spy chief arrested for treason\n       California’s oligarch tax would change America\n       India’s bullet train tangle leaves Japan fuming\n       Surge in borrowing costs hits corporate America\n       Ships’ captains paid $100,000 a month to transit Strait of Hormuz\n\n   US\n\nSections \n\n       US Home\n       US Economy\n       US Companies\n       US Politics & Policy\n\nMost Read\n\n       California’s oligarch tax would change America\n       Sleep has always been a class issue\n       Surge in borrowing costs hits corporate America\n       SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo\n       S&P 500 hits record high as AI stocks shrug off bond market slump\n\n   Companies\n\nSections.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -1295,34 +1379,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Samsung shares fall as record Q3 profit misses lofty expectations - Investing.com",
-      "url": "https://www.investing.com/news/earnings/samsung-q3-profit-surges-to-record-high-but-misses-lofty-expectations-4937706",
-      "fonte": "investing.com",
-      "data": "2026-10-07",
-      "resumo": "By Jeremy Wagne. \n\nOct 07, 2026\n\nMore News\n\nMarket Movers\n\n| Name | Last | Chg.  % | Vol.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia Stock Price Target Splits Crypto Punters: Here's Where They See the Chip Giant Going in October - Benzinga",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62208307/nvidia-stock-price-target-crypto-punters-october-nvda",
-      "fonte": "benzinga.com",
-      "data": "2026-10-07",
-      "resumo": "Ring the Bell\n\nA newsletter built for market enthusiasts by market enthusiasts.  Top stories, top movers, and trade ideas delivered to your inbox every weekday before and after the market closes. \n\n Terms & Conditions\n Do Not Sell My Personal Data/Privacy Policy\n Disclaimer\n Service Status\n\n© 2026Benzinga | All Rights Reserved\n\nMy Account\n\nNotifications\n\nOverview\n\n+ New Watchlist\n\nBenzinga Edge\n\nBenzinga Research\n\nBenzinga Pro\n\nLogout\n\nby Aniket Verma Benzinga Staff Writer\n\nFollow\n\n$BTCBitcoin\n\n$83940.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "TSMC Q3 sales beat estimates on surging AI chip demand",
       "url": "https://ca.finance.yahoo.com/news/tsmc-q3-sales-beat-estimates-062509678.html",
       "fonte": "ca.finance.yahoo.com",
@@ -1357,146 +1413,6 @@
       "data": "2026-10-08",
       "resumo": "Third-quarter revenue reached about NT$1. 49 trillion ($46. 7 billion), according to calculations, up 50% from a year earlier and exceeding the NT$1.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Stocks Micron and Sandisk Are Up 460% and 1,190% in the Past Year. History Says This Will Happen Next.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-micron-sandisk-460-090802439.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-07",
-      "resumo": "Motley Fool\n\n# AI Stocks Micron and Sandisk Are Up 460% and 1,190% in the Past Year.  History Says This Will Happen Next. \n\nTrevor Jennewine, The Motley Fool\n\n5 min read\n\n MU\n\n  -1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Wall Street's AI earnings excitement spills into 2027 but risks market 'air pocket'",
-      "url": "https://finance.yahoo.com/markets/article/wall-streets-ai-earnings-excitement-spills-into-2027-but-risks-market-air-pocket-144308239.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-07",
-      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nWatch Live   Satya Nadella and Jensen Huang reveal Microsoft's new laptop powered by Nvidia's chips\n\nYahoo Finance\n\n# Wall Street's AI earnings excitement spills into 2027 but risks market 'air pocket'\n\nBrian Sozzi\n\nBrian Sozzi  · Executive Editor\n\n2 min read\n\n ^GSPC\n\n  -0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "SAP agrees to acquire AI work intelligence firm TechWolf",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sap-agrees-acquire-ai-intelligence-091723413.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-07",
-      "resumo": "Following completion of the deal, TechWolf's technology is expected to sit at the centre of the SAP SuccessFactors portfolio, underpinning workforce planning, skills-based talent strategies and organisational redesign. \n\nThe two companies also plan to jointly develop new AI-powered workforce and skills optimisation products after the deal closes.  Existing joint customers are already reporting measurable results from the partnership.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Strip Out AI and the S&P 500 Looks Very Different, Goldman Index Shows",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strip-ai-p-500-looks-030000720.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-07",
-      "resumo": "BeInCrypto\n\n# Strip Out AI and the S&P 500 Looks Very Different, Goldman Index Shows\n\nDarryn Pollock\n\n2 min read\n\n ^GSPC\n\n  +0. 58%\n ^IXIC\n\n  +0. 45%\n\nThe S&P 500 has gained 18.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC stock just hit a record — and the gains may be only starting",
-      "url": "https://finance.yahoo.com/markets/stocks/article/tsmc-stock-just-hit-a-record--and-the-gains-may-be-only-starting-113728917.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-07",
-      "resumo": "The AI semiconductor market is likely to double next year: \"We expect TSMC's AI revenue growth to nearly double next year considering most of its AI semiconductor customers are expecting accelerating growth,\" Malik explained.  \"TSMC's largest customer, Nvidia has guided to a doubling of its order intake and over 70% year over year revenue growth in FY2028E driven mainly by ongoing supply constraints.  AMD has guided to over 80% CAGR in its Data Center AI business, while Broadcom expects its AI semiconductor revenue to almost double in FY2028E.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "S&P 500, Nasdaq hit records — but 'the breadth of the rally has narrowed': Chart of the Day",
-      "url": "https://finance.yahoo.com/markets/article/sp-500-nasdaq-hit-records--but-the-breadth-of-the-rally-has-narrowed-chart-of-the-day-100000341.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-07",
-      "resumo": "The touchstones of the AI trade are keeping the indexes higher. \n\nNvidia (NVDA), Apple (AAPL), and Microsoft (MSFT) represent over 21% of the index, according to data from Creative Planning. \n\nNvidia touched an all-time high on Tuesday, along with peer AMD (AMD).",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Want to join markets at record highs? These AI picks are breaking out in October By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/want-to-join-markets-at-record-highs-these-ai-picks-are-breaking-out-in-october-4935796",
-      "fonte": "investing.com",
-      "data": "2026-10-07",
-      "resumo": "Just yesterday, Penguin reported its Q4 results and smashed expectations with a record $567 million in revenue (+68% YoY)—crushing Wall Street estimates of $520 million.  Earnings per share hit $1. 00, topping consensus forecasts by $0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DTCR",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-07",
-      "resumo": "The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Up +60% and climbing: This AI-picked tech play keeps landing billion-dollar deals By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/up-60-and-climbing-this-aipicked-tech-play-keeps-dropping-billiondollar-deals-4936798",
-      "fonte": "investing.com",
-      "data": "2026-10-07",
-      "resumo": "Fuel was poured on the fire when HPE dropped a blowout third-quarter earnings report that smashed analyst expectations.  Revenue skyrocketed 34% year-over-year to $12. 2 billion, while earnings surged 152% to $1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "This AI infrastructure stock is up 16.8% this week as earnings beat estimates By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/this-ai-infrastructure-stock-is-up-168-this-week-as-earnings-beat-estimates-4935562",
-      "fonte": "investing.com",
-      "data": "2026-10-07",
-      "resumo": "EFOR (Everforth) - +105. 1% since it was picked on July 1, 2026 | AI-era software compounder with durable demand\n CVI (CVR Energy) - +84. 3% since it was picked on August 1, 2026 | Refining margin recovery driving earnings recovery\n DK (Delek US Holdings) - +78.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
