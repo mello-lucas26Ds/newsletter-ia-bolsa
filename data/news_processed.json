@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-10-15",
-    "total_noticias": 109,
-    "gerado_em": "2026-10-15T14:41:33.275769"
+    "data": "2026-10-16",
+    "total_noticias": 101,
+    "gerado_em": "2026-10-16T07:52:01.214760"
   },
   "noticias": [
+    {
+      "titulo": "Can robust TSMC earnings help settle AI jitters?",
+      "url": "https://ca.finance.yahoo.com/news/robust-tsmc-earnings-help-settle-101010790.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "Senad Karaahmetovic\n\n3 min read\n\n 2330. TW\n AAPL\n NVDA\n AMD\n\nInvesting. com - TSMC posted a $23.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC’s Record Earnings Show AI Demand Is Outrunning Rate Concerns | Investing.com",
+      "url": "https://www.investing.com/analysis/tsmcs-record-earnings-show-ai-demand-is-outrunning-rate-concerns-200689670",
+      "fonte": "investing.com",
+      "data": "2026-10-15",
+      "resumo": "## Latest comments\n\npro badge\n\nJoin our investing challenges and compete for rewards while you learn. \n\n| Name | Last | Chg.  % | Vol.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC posts record profit amid 'extremely robust demand' for AI chips",
+      "url": "https://finance.yahoo.com/markets/stocks/article/tsmc-posts-record-profit-amid-extremely-robust-demand-for-ai-chips-104536579.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "The company expects capex from 2026 to 2028 \"to be even more significantly higher than the past three years,\" as it continues to invest heavily to support customers' growth, added Huang. \n\n### (TSM )\n\nGo deeper with AlphaSpace\n\n430. 00  -15.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Reports Record Q3 Profit of $23.55 Billion as AI Demand Drives Growth and US Expansion Plans",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-reports-record-q3-profit-102421693.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "The company reported that chips manufactured using its 2-nanometre process represented 8% of total wafer revenue. \n\nIts 3-nanometre technology accounted for a further 33%. \n\nThese advanced production processes are used to manufacture high-performance semiconductors for applications requiring substantial computing power and improved energy efficiency.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq futures edge lower as AI spending, Fed rate concerns weigh - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930",
+      "fonte": "investing.com",
+      "data": "2026-10-16",
+      "resumo": "217. 23\n\n-4. 07\n\n-1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now. - MarketWatch",
+      "url": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374",
+      "fonte": "marketwatch.com",
+      "data": "2026-10-15",
+      "resumo": "DJIA\n\n52128. 55\n\n0. 98%\n\nS&P 500\n\n7729.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "U.K. Economy Defies Gloomy Predictions With Help From AI - WSJ",
+      "url": "https://www.wsj.com/economy/u-k-economy-continues-growth-path-helped-by-industry-a3e7497f",
+      "fonte": "wsj.com",
+      "data": "2026-10-15",
+      "resumo": "Updated ET\n\nThe AI investment boom has lifted the British economy, underlining the technology’s potential to drive growth beyond the U. S.  and East Asia.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "CNBC Daily Open: Is the AI sector losing its rose-colored glow? - CNBC",
+      "url": "https://www.cnbc.com/2026/10/16/cnbc-daily-open-ai-inflation-coreweave-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-16",
+      "resumo": "The worries around AI funding led to a rotation out of the sector, with major AI names like Nvidia losing 1. 84% while AMD sank 1. 5% and Intel lost about 2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Asia stocks rebound as chipmakers recover, Indonesia rout deepens with 11% slump - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029",
+      "fonte": "investing.com",
+      "data": "2026-10-16",
+      "resumo": "aaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMid-Cap Movers\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMexican Stock Exchange Leaders\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBest Brazilian Stocks\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nItalian Market Elite\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nAlpha Germany Select\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nCalendars\n\nEconomic CalendarEarnings CalendarHoliday Calendar\n\nUS Economy [. ] Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Data centers: A key midterm election issue - CNBC",
+      "url": "https://www.cnbc.com/video/2026/10/15/data-centers-a-key-midterm-election-issue.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-15",
+      "resumo": "Trust Portfolio\nAnalysis\nTrade Alerts\nMeeting Videos\nHomestretch\nJim's Columns\nEducation\nSubscribe\nPRO\nPro News\nJosh Brown\nMike Santoli\nCalls of the Day\nMy Portfolio\nLivestream\nFull Episodes\nStock Screener\nMarket Forecast\nOptions Investing\nChart Investing\nSubscribe\nLivestream\nMenu\nMake It\nselect\nUSA\nINTL\nLivestream\nSearch quotes, news & videos\nLivestream\nWatchlist\nSIGN IN\nCreate free account\nMarkets\nBusiness\nInvesting\nTech\nPolitics & Policy\nVideo\nWatchlist\nInvesting Club\nPRO\nLivestream\nMenu\nwatch now\nShare\nShare Article via Facebook\nShare Article via Twitter\nShare Article via LinkedIn\nShare Article via Email\nSquawk Box\nData centers: A key midterm election issue [. ] Squawk Box\nData centers: A key midterm election issue\nThe backlash against data centers is growing across the country and becoming a key voter issue.  In Ohio, a number of toss-up races could determine congressional control.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Is Improved Earnings Momentum Altering The Investment Case For C3.ai (AI)?",
       "url": "https://finance.yahoo.com/markets/stocks/articles/improved-earnings-momentum-altering-investment-061804686.html",
@@ -567,54 +707,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.94% By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-094-4939777",
-      "fonte": "investing.com",
-      "data": "2026-10-08",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n|  | 346.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Equal-Weight ETFs to Play AI Despite Rising Bubble Concerns",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equal-weight-etfs-play-ai-144800481.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-08",
-      "resumo": "## What Should Investors Do. \n\nRising concerns about an AI bubble make technology stocks and the broader AI trade a riskier bet.  However, completely stepping away from AI could mean missing out on the technology's potentially significant long-term growth prospects.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Bovespa Index Today (IBOV) - Investing.com",
       "url": "https://www.investing.com/indices/bovespa",
       "fonte": "investing.com",
       "data": "2026-10-09",
       "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| MRVE3  MRV Engenharia | 7. 82+1. 39+21.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Pioneer Acquisition I Corp Enters Into Business Combination Agreement with Green AI Cloud, a Clean Energy Super Compute AI Platform in Europe",
-      "url": "https://finance.yahoo.com/technology/ai/articles/pioneer-acquisition-corp-enters-business-205200086.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-08",
-      "resumo": "the global AI economy in partnership with the communities in which we operate. \" [. ] \"This Transaction marks an important milestone for Green AI Cloud and we believe it reflects the strength of our strategy to build AI-ready infrastructure where power availability, speed, and execution matter most,\" stated Jacob Bostrom, Founder and Chief Executive Officer of Green AI Cloud.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -1043,20 +1141,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "GlobalFoundries stock analysis: TSMC deal, fundamentals, and what comes next By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/globalfoundries-stock-analysis-tsmc-deal-fundamentals-and-what-comes-next-93CH-4939562",
-      "fonte": "investing.com",
-      "data": "2026-10-08",
-      "resumo": "By Fawad Razaqz. \n\nOct 08, 2026\n\n[](\n\nNvidia Hits Another New High: Key Breakout and Retracement Targets to Watch\n\nBy Lee Yang\n\nOct 06, 2026\n\n[](\n\n9 Fundamentally Strong Stocks to Watch as Q3 Earnings Get Underway\n\nBy David Wagner\n\nOct 08, 2026\n\nMore News\n\nMarket Movers\n\n| Name | Last | Chg.  % | Vol.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth",
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-earnings-expected-rise-131800551.html",
       "fonte": "finance.yahoo.com",
@@ -1169,20 +1253,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Lynx sees AI semiconductor rally extending into year-end",
-      "url": "https://finance.yahoo.com/technology/ai/articles/lynx-sees-ai-semiconductor-rally-133617560.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-08",
-      "resumo": "The sector has increasingly shrugged off concerns that higher bond yields could derail the rally, Rajkumar said, noting that AI semiconductor stocks are being bought in waves. \n\nMicron was the latest beneficiary, rising roughly 4% Wednesday despite a weaker broader market.  Rajkumar noted that the stock broke out of its trading range in early September and has continued to move higher as daily volatility has moderated.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "If You're Worried About an AI Bubble, Here's the Tech Stock Portfolio I'd Build",
       "url": "https://finance.yahoo.com/technology/ai/articles/youre-worried-ai-bubble-heres-093000438.html",
       "fonte": "finance.yahoo.com",
@@ -1281,20 +1351,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "S&P 500 futures are little changed after OpenAI's revenue report prompts tech sector turmoil: Live updates - CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
-      "fonte": "cnbc.com",
-      "data": "2026-10-08",
-      "resumo": "S&P 500 futures were near flat Thursday night after an underwhelming revenue report from OpenAI took some steam out of the high-flying artificial intelligence trade. \n\nS&P 500 futures were up 0. 1%, while Nasdaq 100 futures added 0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "+105%, +104%, +72%: AI-picked earnings winners broaden the rally beyond tech By Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/105-104-72-aipicked-earnings-winners-broaden-the-rally-beyond-tech-4940482",
       "fonte": "investing.com",
@@ -1351,179 +1407,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TSMC Blowout Earnings: What This Means for Markets | Investing.com",
-      "url": "https://www.investing.com/analysis/tsmc-blowout-earnings-what-this-means-for-markets-200689194",
-      "fonte": "investing.com",
-      "data": "2026-10-08",
-      "resumo": "\\\\\\\n\nDisclaimer: For educational purposes only.  Trading comes with substantial risk, leading to possible loss of your capital.  Traders are advised to do their own due diligence before investing.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC's $46.7 billion quarter leaves 1 question for investors",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-46-7-billion-quarter-000300579.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-08",
-      "resumo": "TheStreet\n\n# TSMC's $46. 7 billion quarter leaves 1 question for investors\n\nOpeyemi Babalola\n\n5 min read\n\n TSM\n\n  -3. 01%\n NVDA\n\n  -2.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Five charts sounding the alarm for stretched US markets | Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/five-charts-sounding-alarm-stretched-us-markets-mcgeever-2026-10-08",
-      "fonte": "reuters.com",
-      "data": "2026-10-08",
-      "resumo": "Stock market concentration\n\nTech and AI stocks now comprise over 40% of the S&P 500's (. SPX) market cap.  ​That's higher than the peak of the dotcom bubble in early 2000.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Stock Prices, Earnings and Cashflows: The AI Effect Plays Through | Investing.com",
       "url": "https://www.investing.com/analysis/stock-prices-earnings-and-cashflows-the-ai-effect-plays-through-200689245",
       "fonte": "investing.com",
       "data": "2026-10-09",
       "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| ALAB | 347.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Auddia Posts CEO Letter to Shareholders Highlighting LT350 Momentum, Strategic Partnerships, and AI Infrastructure Opportunity",
-      "url": "https://finance.yahoo.com/technology/ai/articles/auddia-posts-ceo-letter-shareholders-110000078.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-08",
-      "resumo": "BOULDER, Colo. , Oct.  08, 2026 (GLOBE NEWSWIRE) -- Auddia Inc.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia, Oracle, other AI stocks sink on OpenAI revenue report",
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "fonte": "cnbc.com",
-      "data": "2026-10-08",
-      "resumo": "In the interim, OpenAI is engaging in early stage discussions with investors about a potential new funding round.  The company could raise around $30 billion, as CNBC previously reported, but that figure could change.  The round is being driven by investor demand and no term sheet has been finalized yet.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Hot Potato Is Meta’s for Now, But Chip Stocks Are the Winners",
-      "url": "https://uk.finance.yahoo.com/news/ai-hot-potato-meta-now-113501972.html",
-      "fonte": "uk.finance.yahoo.com",
-      "data": "2026-10-08",
-      "resumo": "Top Tech Stories\n\n Broadcom Inc. , fresh off the launch of a $60 billion debt financing to help fund Anthropic PBC's AI build-out, is already sketching out plans for its next blockbuster deal. \n Samsung Electronics Co.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "ETFs to Benefit as Nasdaq's Breakthrough Still Matters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-benefit-nasdaqs-breakthrough-still-130400149.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-08",
-      "resumo": "The index has risen 18. 5% year to date, highlighting the continued strength of the growth and technology stocks.  The latest gains have been particularly notable because they came against a backdrop of elevated Treasury yields, with the 10-year Treasury yield at 5.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC's September sales jump more than 50% year over year - CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
-      "fonte": "cnbc.com",
-      "data": "2026-10-08",
-      "resumo": "In this article\n\nThe world's largest contract chipmaker Taiwan Semiconductor Manufacturing Co posted revenue of $511. 86 billion New Taiwan dollars ($16. 03 billion) for September, up 54.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Auddia Posts CEO Letter to Shareholders Highlighting LT350 Momentum, Strategic Partnerships, and AI Infrastructure Opportunity | Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/auddia-posts-ceo-letter-to-shareholders-highlighting-lt350-momentum-strategic-partnerships-and-ai-infrastructure-opportunity-1036608308",
-      "fonte": "markets.businessinsider.com",
-      "data": "2026-10-08",
-      "resumo": "BOULDER, Colo. , Oct.  08, 2026 (GLOBE NEWSWIRE) -- Auddia Inc.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Q3 sales beat estimates on surging AI chip demand",
-      "url": "https://ca.finance.yahoo.com/news/tsmc-q3-sales-beat-estimates-062509678.html",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-10-08",
-      "resumo": "1 min read\n\n TSM\n\n  -2. 09%\n NVDA\n\n  -0. 74%\n TSM\n\n  -2.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC’s third-quarter revenue surges to record, beating market forecast By Reuters",
-      "url": "https://www.investing.com/news/stock-market-news/tsmcs-thirdquarter-revenue-surges-50-yy-beating-market-forecast-4937913",
-      "fonte": "investing.com",
-      "data": "2026-10-08",
-      "resumo": "By Fawad Razaqz. \n\nOct 05, 2026\n\nMore News\n\nMarket Movers\n\n| Name | Last | Chg.  % | Vol.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Q3 sales beat estimates on surging AI chip demand By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/tsmc-q3-sales-beat-estimates-on-surging-ai-chip-demand-4937923",
-      "fonte": "investing.com",
-      "data": "2026-10-08",
-      "resumo": "Third-quarter revenue reached about NT$1. 49 trillion ($46. 7 billion), according to calculations, up 50% from a year earlier and exceeding the NT$1.",
       "sentimento": "neutral",
       "tags": [
         "AI",

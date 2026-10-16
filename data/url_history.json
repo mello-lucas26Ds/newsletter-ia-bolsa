@@ -1,76 +1,4 @@
 {
-  "https://ca.finance.yahoo.com/news/tsmc-q3-sales-beat-estimates-062509678.html": {
-    "hash": "ab7b58d82283ee32fa7d7a3728383db5",
-    "visto_em": "2026-10-08"
-  },
-  "https://www.investing.com/news/stock-market-news/tsmcs-thirdquarter-revenue-surges-50-yy-beating-market-forecast-4937913": {
-    "hash": "bc970792762e2e759ffcabab2ced2f2f",
-    "visto_em": "2026-10-08"
-  },
-  "https://www.investing.com/news/stock-market-news/tsmc-q3-sales-beat-estimates-on-surging-ai-chip-demand-4937923": {
-    "hash": "43f748da2e9256915cd0d16fed0ef57e",
-    "visto_em": "2026-10-08"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-micron-sandisk-460-090802439.html": {
-    "hash": "ebdb6351f77e1a261290857b87544f19",
-    "visto_em": "2026-10-08"
-  },
-  "https://finance.yahoo.com/markets/article/wall-streets-ai-earnings-excitement-spills-into-2027-but-risks-market-air-pocket-144308239.html": {
-    "hash": "c2b03c4c614724698d17a4b366d61473",
-    "visto_em": "2026-10-08"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/sap-agrees-acquire-ai-intelligence-091723413.html": {
-    "hash": "ef40927e74c4086784ef94afb2b4fb31",
-    "visto_em": "2026-10-08"
-  },
-  "https://ca.finance.yahoo.com/quote/AI": {
-    "hash": "d36b79414fd683395e8501daa237a9ae",
-    "visto_em": "2026-10-08"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-wall-street-104500937.html": {
-    "hash": "9b6f0014d4c455a27e236a514d15745d",
-    "visto_em": "2026-10-08"
-  },
-  "https://nz.finance.yahoo.com/quote/AI": {
-    "hash": "691b7040e90f0d53e701172063871ef0",
-    "visto_em": "2026-10-08"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/strip-ai-p-500-looks-030000720.html": {
-    "hash": "6c3ac19002433f8d91355054c02bc964",
-    "visto_em": "2026-10-08"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/etfs-benefit-nasdaqs-breakthrough-still-130400149.html": {
-    "hash": "4497fd235554fb81764ddba370b06a97",
-    "visto_em": "2026-10-08"
-  },
-  "https://www.investing.com/etfs/vpn": {
-    "hash": "2dc59e5ef024a01a277f334b2013ef81",
-    "visto_em": "2026-10-08"
-  },
-  "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html": {
-    "hash": "4cba627796131e0ebfea4e765e676a16",
-    "visto_em": "2026-10-08"
-  },
-  "https://markets.businessinsider.com/news/stocks/auddia-posts-ceo-letter-to-shareholders-highlighting-lt350-momentum-strategic-partnerships-and-ai-infrastructure-opportunity-1036608308": {
-    "hash": "4150349ae1e1654196752bed6a2173ce",
-    "visto_em": "2026-10-08"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/only-2-artificial-intelligence-ai-125300853.html": {
-    "hash": "0321be84f8cf3fb4373ddb982c205d3b",
-    "visto_em": "2026-10-08"
-  },
-  "https://www.reuters.com/world/americas/brazil-markets-set-rally-bolsonaro-leads-first-round-vote-2026-10-05": {
-    "hash": "2fbdc10880447ab4ae152a46ed9306c6",
-    "visto_em": "2026-10-08"
-  },
-  "https://www.investing.com/news/earnings/samsung-q3-profit-surges-to-record-high-but-misses-lofty-expectations-4937706": {
-    "hash": "68268dda989427e51949919417862118",
-    "visto_em": "2026-10-08"
-  },
-  "https://www.benzinga.com/markets/prediction-markets/26/10/62208307/nvidia-stock-price-target-crypto-punters-october-nvda": {
-    "hash": "cf1740f02b38003f58997a5d4f5edc4b",
-    "visto_em": "2026-10-08"
-  },
   "https://www.investing.com/analysis/tsmc-blowout-earnings-what-this-means-for-markets-200689194": {
     "hash": "6872c85cf5161190c9cbc25e20303948",
     "visto_em": "2026-10-09"
@@ -518,5 +446,45 @@
   "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html": {
     "hash": "168714ebfc1ed09dd6e7d3a461538ea4",
     "visto_em": "2026-10-15"
+  },
+  "https://ca.finance.yahoo.com/news/robust-tsmc-earnings-help-settle-101010790.html": {
+    "hash": "2ae07c20342774816272173c7b7cc8fe",
+    "visto_em": "2026-10-16"
+  },
+  "https://www.investing.com/analysis/tsmcs-record-earnings-show-ai-demand-is-outrunning-rate-concerns-200689670": {
+    "hash": "e96706ba777f83bde41aa35b45ada237",
+    "visto_em": "2026-10-16"
+  },
+  "https://finance.yahoo.com/markets/stocks/article/tsmc-posts-record-profit-amid-extremely-robust-demand-for-ai-chips-104536579.html": {
+    "hash": "0db78125000b13e98705a0789c4cf5c5",
+    "visto_em": "2026-10-16"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tsmc-reports-record-q3-profit-102421693.html": {
+    "hash": "0f13185bfe6ab82c402aea13b3bd8b91",
+    "visto_em": "2026-10-16"
+  },
+  "https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930": {
+    "hash": "09df5eb9dd1c7a2d4896e59d80e86123",
+    "visto_em": "2026-10-16"
+  },
+  "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374": {
+    "hash": "de4a2a613f8f1a6125c433785c827ce3",
+    "visto_em": "2026-10-16"
+  },
+  "https://www.wsj.com/economy/u-k-economy-continues-growth-path-helped-by-industry-a3e7497f": {
+    "hash": "0d06f4a23a4a4068c0a3762ccc23003f",
+    "visto_em": "2026-10-16"
+  },
+  "https://www.cnbc.com/2026/10/16/cnbc-daily-open-ai-inflation-coreweave-.html": {
+    "hash": "fc88c744877e7a270a580e96c2085e3c",
+    "visto_em": "2026-10-16"
+  },
+  "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029": {
+    "hash": "abc76b7a1fd7294d5eb61e7fbb5594d2",
+    "visto_em": "2026-10-16"
+  },
+  "https://www.cnbc.com/video/2026/10/15/data-centers-a-key-midterm-election-issue.html": {
+    "hash": "df54f203494a5d358283cf3a7d38e072",
+    "visto_em": "2026-10-16"
   }
 }

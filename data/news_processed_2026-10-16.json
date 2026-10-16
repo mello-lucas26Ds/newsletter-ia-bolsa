@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-16",
+    "total_noticias": 10,
+    "gerado_em": "2026-10-16T07:52:01.212455"
+  },
+  "noticias": [
+    {
+      "titulo": "Can robust TSMC earnings help settle AI jitters?",
+      "url": "https://ca.finance.yahoo.com/news/robust-tsmc-earnings-help-settle-101010790.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "Senad Karaahmetovic\n\n3 min read\n\n 2330. TW\n AAPL\n NVDA\n AMD\n\nInvesting. com - TSMC posted a $23.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC’s Record Earnings Show AI Demand Is Outrunning Rate Concerns | Investing.com",
+      "url": "https://www.investing.com/analysis/tsmcs-record-earnings-show-ai-demand-is-outrunning-rate-concerns-200689670",
+      "fonte": "investing.com",
+      "data": "2026-10-15",
+      "resumo": "## Latest comments\n\npro badge\n\nJoin our investing challenges and compete for rewards while you learn. \n\n| Name | Last | Chg.  % | Vol.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC posts record profit amid 'extremely robust demand' for AI chips",
+      "url": "https://finance.yahoo.com/markets/stocks/article/tsmc-posts-record-profit-amid-extremely-robust-demand-for-ai-chips-104536579.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "The company expects capex from 2026 to 2028 \"to be even more significantly higher than the past three years,\" as it continues to invest heavily to support customers' growth, added Huang. \n\n### (TSM )\n\nGo deeper with AlphaSpace\n\n430. 00  -15.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Reports Record Q3 Profit of $23.55 Billion as AI Demand Drives Growth and US Expansion Plans",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-reports-record-q3-profit-102421693.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "The company reported that chips manufactured using its 2-nanometre process represented 8% of total wafer revenue. \n\nIts 3-nanometre technology accounted for a further 33%. \n\nThese advanced production processes are used to manufacture high-performance semiconductors for applications requiring substantial computing power and improved energy efficiency.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq futures edge lower as AI spending, Fed rate concerns weigh - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930",
+      "fonte": "investing.com",
+      "data": "2026-10-16",
+      "resumo": "217. 23\n\n-4. 07\n\n-1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now. - MarketWatch",
+      "url": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374",
+      "fonte": "marketwatch.com",
+      "data": "2026-10-15",
+      "resumo": "DJIA\n\n52128. 55\n\n0. 98%\n\nS&P 500\n\n7729.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "U.K. Economy Defies Gloomy Predictions With Help From AI - WSJ",
+      "url": "https://www.wsj.com/economy/u-k-economy-continues-growth-path-helped-by-industry-a3e7497f",
+      "fonte": "wsj.com",
+      "data": "2026-10-15",
+      "resumo": "Updated ET\n\nThe AI investment boom has lifted the British economy, underlining the technology’s potential to drive growth beyond the U. S.  and East Asia.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "CNBC Daily Open: Is the AI sector losing its rose-colored glow? - CNBC",
+      "url": "https://www.cnbc.com/2026/10/16/cnbc-daily-open-ai-inflation-coreweave-.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-16",
+      "resumo": "The worries around AI funding led to a rotation out of the sector, with major AI names like Nvidia losing 1. 84% while AMD sank 1. 5% and Intel lost about 2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Asia stocks rebound as chipmakers recover, Indonesia rout deepens with 11% slump - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029",
+      "fonte": "investing.com",
+      "data": "2026-10-16",
+      "resumo": "aaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMid-Cap Movers\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nMexican Stock Exchange Leaders\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nBest Brazilian Stocks\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nItalian Market Elite\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nAlpha Germany Select\n\nStocks in this Strategy\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\naaaa aaaaa aaaa a\n\nUnlock Strategy\n\nCalendars\n\nEconomic CalendarEarnings CalendarHoliday Calendar\n\nUS Economy [. ] Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Data centers: A key midterm election issue - CNBC",
+      "url": "https://www.cnbc.com/video/2026/10/15/data-centers-a-key-midterm-election-issue.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-15",
+      "resumo": "Trust Portfolio\nAnalysis\nTrade Alerts\nMeeting Videos\nHomestretch\nJim's Columns\nEducation\nSubscribe\nPRO\nPro News\nJosh Brown\nMike Santoli\nCalls of the Day\nMy Portfolio\nLivestream\nFull Episodes\nStock Screener\nMarket Forecast\nOptions Investing\nChart Investing\nSubscribe\nLivestream\nMenu\nMake It\nselect\nUSA\nINTL\nLivestream\nSearch quotes, news & videos\nLivestream\nWatchlist\nSIGN IN\nCreate free account\nMarkets\nBusiness\nInvesting\nTech\nPolitics & Policy\nVideo\nWatchlist\nInvesting Club\nPRO\nLivestream\nMenu\nwatch now\nShare\nShare Article via Facebook\nShare Article via Twitter\nShare Article via LinkedIn\nShare Article via Email\nSquawk Box\nData centers: A key midterm election issue [. ] Squawk Box\nData centers: A key midterm election issue\nThe backlash against data centers is growing across the country and becoming a key voter issue.  In Ohio, a number of toss-up races could determine congressional control.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
