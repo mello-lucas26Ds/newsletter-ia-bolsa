@@ -2,10 +2,122 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-16",
-    "total_noticias": 101,
-    "gerado_em": "2026-10-16T07:52:01.214760"
+    "total_noticias": 109,
+    "gerado_em": "2026-10-16T14:33:47.481382"
   },
   "noticias": [
+    {
+      "titulo": "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings - Reuters",
+      "url": "https://www.reuters.com/legal/transactional/wall-st-week-ahead-ai-rally-wobbles-stock-markets-spotlight-turns-earnings-2026-10-16/",
+      "fonte": "reuters.com",
+      "data": "2026-10-16",
+      "resumo": "Meta, among the hyperscalers spending massively to build AI data centers, highlights the upcoming week of quarterly reports, along with semiconductor firms Lam Research (LRCX. O), opens new tab and Texas Instruments (TXN. O), opens new tab.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter - CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-15",
+      "resumo": "TSMC makes the vast majority of the world's most advanced semiconductors, the graphics processors and central processors from Nvidia, AMD and Broadcom that are necessary for running AI workloads.  Now a growing number of tech firms – Apple, Google, Amazon, Microsoft, Meta and OpenAI – also rely on TSMC to make custom in-house AI accelerators. \n\nTSMC North American CEO Sajiv Dalal told CNBC he gets at least 10 calls a day about wafer capacity.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "FourNet Expands £65m Customer Experience and AI Business With SVL Acquisition",
+      "url": "https://finance.yahoo.com/technology/ai/articles/fournet-expands-65m-customer-experience-060000743.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "1.  Crypto\n2.  AI\n\nThis is a paid press release.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cohere moves to buy AI cybersecurity startup AISLE | Reuters",
+      "url": "https://www.reuters.com/legal/transactional/cohere-moves-buy-ai-cybersecurity-startup-aisle-2026-10-15",
+      "fonte": "reuters.com",
+      "data": "2026-10-15",
+      "resumo": "The deal is aimed at boosting the combined group's security ​and threat detection capabilities for enterprise and public sector ​clients, with private deployment available on the customer's own system. \n\n\"Increasingly capable ‌AI ⁠systems are transforming both cybersecurity and the threats organizations face, and defensive capabilities must advance just as quickly,\" Cohere said. \n\nAISLE was founded in 2025 by Ondrej ​Vlcek, former CEO ​of Czech ⁠antivirus maker Avast, with co-founders from Google (GOOGL.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Rocket Software Announces Acquisition of Geniez AI to Accelerate Agentic AI for Mainframe Modernization",
+      "url": "https://finance.yahoo.com/technology/ai/articles/rocket-software-announces-acquisition-geniez-123300832.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-13",
+      "resumo": "The acquisition brings Geniez AI's technical leadership and team to Rocket Software, where they will help accelerate Rocket's AI initiatives, including new capabilities within Rocket® EVA™, the company's agentic AI platform for core systems.  Together, Rocket Software and the Geniez AI team are working to shift the industry from traditional, expertise-intensive mainframe management to intelligent, AI-assisted operations that make core systems easier to understand, manage, and modernize.  [.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC's Q3 results, outlook pave path for 'banner year' in 2027: analysts - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4653366-tsmcs-q3-results-outlook-pave-path-for-banner-year-in-2027-analysts",
+      "fonte": "seekingalpha.com",
+      "data": "2026-10-15",
+      "resumo": "Home page Seeking Alpha - Power to Investors\n\nSearch for Symbols, analysts, keywords\n\n# TSMC's Q3 results, outlook pave path for 'banner year' in 2027: analysts\n\nOct 15, 2026, 9:19 AM ETTaiwan Semiconductor Manufacturing Company Limited (TSM) StockINTC, GFSBy: Brandon Evans, SA News Editor4 Comments\n\nTaiwan Semiconductor Manufacturing's (TSM) latest quarterly results and outlook provided no indications of a slowdown related to the artificial intelligence infrastructure buildout, as its most advanced node capacity continues to rise. \n\n\"Without giving any details, TSMC management sees potential for AI\n\nTo ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. \n\nIs this happening to you frequently.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Amazon in talks to acquire AI startup Decart for $7 bln- WSJ",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-talks-acquire-ai-startup-235502420.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-11",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nInvesting.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Dot Ai Completes $65 Million Envoy Technologies Acquisition, Targets Nasdaq Listing Compliance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dot-ai-completes-65-million-145056168.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-12",
+      "resumo": "The acquisition follows Dot Ai's September settlement of senior secured debt and completion of new working-capital financing, suggesting a broader effort to strengthen its financial position. \n\nInvestors must also consider the transaction's ownership implications. \n\nBladeRanger is expected to hold a majority of Dot Ai's common stock on an as-converted basis, subject to applicable restrictions and approvals.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Can robust TSMC earnings help settle AI jitters?",
       "url": "https://ca.finance.yahoo.com/news/robust-tsmc-earnings-help-settle-101010790.html",
