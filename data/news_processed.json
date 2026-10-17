@@ -2,10 +2,108 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-17",
-    "total_noticias": 97,
-    "gerado_em": "2026-10-17T07:29:47.784462"
+    "total_noticias": 104,
+    "gerado_em": "2026-10-17T13:28:46.127024"
   },
   "noticias": [
+    {
+      "titulo": "Buy 5 Top-Ranked Non-Tech Nasdaq Stocks to Maximize Q4 Gains",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-non-083000801.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-16",
+      "resumo": "1.  Crypto\n2.  AI\n\nZacks\n\n# Buy 5 Top-Ranked Non-Tech Nasdaq Stocks to Maximize Q4 Gains\n\nNalak Das\n\n5 min read\n\n ^IXIC\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor ADR (TSM) Earnings Date & Report - Investing.com",
+      "url": "https://www.investing.com/equities/taiwan-semicond.manufacturing-co-earnings",
+      "fonte": "investing.com",
+      "data": "2026-10-14",
+      "resumo": "Market Movers\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 914.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC posts record quarterly profit as AI chip demand surges",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-posts-record-quarterly-profit-093339281.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "Chip giant Taiwan Semiconductor Manufacturing Company (TSMC) on Thursday posted another record quarterly profit, beating analysts' expectations due to a surge in orders for AI chips. \n\nNet income of 763. 06 billion Taiwan dollars ($23.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Corporate Profits Soared Fueled By AI Investment As Markets Gear Up For Q3 Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/corporate-profits-soared-fueled-ai-152726452.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-13",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nInternational Business Times\n\n# Corporate Profits Soared Fueled By AI Investment As Markets Gear Up For Q3 Earnings\n\nBrian Slupski\n\n2 min read\n\n GS\n\n  +0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cracks are beginning to show in the stock market as doubts about AI investments grow",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cracks-beginning-show-stock-market-153819862.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "Driving the declines: Quarterly revenue growth at Anthropic has slowed, the Financial Times reported Wednesday.  The AI giant is expected to be worth more than $1 trillion when it goes public, and at nearly $17 billion, its revenue is still massive and the company said it is profitable. \n\nThere are also rising concerns about whether China-based memory technology companies could undermine, or even overtake, their Western rivals.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "More Than Hyperscale Capex In The AI Buildout | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4953779-more-than-hyperscale-scale-capex-in-the-ai-buildout",
+      "fonte": "seekingalpha.com",
+      "data": "2026-10-13",
+      "resumo": "Jennifer Warren\n\n7. 13K Followers\n\n## Summary\n\n The AI infrastructure buildout is reshaping capital allocation, with hyperscalers driving demand with off-balance sheet financing and digital infrastructure funds gaining prominence. \n Physical constraints—like power, memory chips, and related supply chains—are likely to stretch buildout timelines and capex peaks, moderating near-term growth expectations.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The AI Boom Has a Landlord. These 3 REITs Are Getting Paid",
+      "url": "https://finance.yahoo.com/real-estate/articles/ai-boom-landlord-3-reits-111536278.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "AI and cloud software need physical buildings to run in, and the hard part is getting enough power and network connections into them.  The Department of Energy projects data centers will account for up to 12% of U. S.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq Faces Weekly Loss as AI Stock Selloff Tests Wall Street Rally | Investing.com",
       "url": "https://www.investing.com/analysis/nasdaq-faces-weekly-loss-as-ai-stock-selloff-tests-wall-street-rally-200689736",
