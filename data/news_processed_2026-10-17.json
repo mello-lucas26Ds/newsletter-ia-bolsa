@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-17",
+    "total_noticias": 10,
+    "gerado_em": "2026-10-17T07:29:47.782501"
+  },
+  "noticias": [
+    {
+      "titulo": "Nasdaq Faces Weekly Loss as AI Stock Selloff Tests Wall Street Rally | Investing.com",
+      "url": "https://www.investing.com/analysis/nasdaq-faces-weekly-loss-as-ai-stock-selloff-tests-wall-street-rally-200689736",
+      "fonte": "investing.com",
+      "data": "2026-10-16",
+      "resumo": "The pressure has also spread beyond individual chipmakers.  AI infrastructure businesses face increasing questions about financing costs, debt obligations and the ability to convert large technology investments into durable earnings. \n\nHowever, Friday’s market movements suggest investors were becoming more selective rather than abandoning equities altogether.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "As AI rally wobbles, stock market’s spotlight turns to earnings",
+      "url": "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4953575",
+      "fonte": "investing.com",
+      "data": "2026-10-16",
+      "resumo": "SOX-0. 88%\n\nTNX-1. 95%\n\nCRWV+5.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Data Center Demand Puts Equinix Stock And Digital Realty Shares In Focus",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-demand-puts-061625129.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "The three stocks in this article are a small sample, and the full screen surfaced 20 more listed digital infrastructure and yield-oriented data center owners with similarly interesting stories that are not covered here.  To identify and analyze the highest conviction ideas for your own watchlist, head straight to the Listed Digital Infrastructure & Yield-Oriented Data Center Owners screener. \n\n## Equinix (EQIX)\n\nEquinix is the clearest expression of this screener's theme.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global tech selloff deepens as enthusiasm for AI stocks wobbles",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/global-tech-selloff-deepens-enthusiasm-104622434.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-16",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nCNN Business\n\n# Global tech selloff deepens as enthusiasm for AI stocks wobbles\n\nThe Nasdaq MarketSite in New York, on Tuesday, Oct.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Concerns Take Centre Stage as Tech Stocks Extend Slide | Investing.com",
+      "url": "https://www.investing.com/analysis/ai-concerns-take-centre-stage-as-tech-stocks-extend-slide-200689641",
+      "fonte": "investing.com",
+      "data": "2026-10-15",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NVDA | 221.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Meet the New Nasdaq-100 Stock That’s Crushing Nvidia, Micron, and Sandisk. Is It Too Late to Buy?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meet-nasdaq-100-stock-crushing-112502885.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-16",
+      "resumo": "1.  Crypto\n2.  AI\n\nMotley Fool\n\n# Meet the New Nasdaq-100 Stock That’s Crushing Nvidia, Micron, and Sandisk.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "History Says This Happens to Taiwan Semiconductor Stock After Oct. 15",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-happens-taiwan-semiconductor-143432769.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-14",
+      "resumo": "TSM PE Ratio (Forward) data by YCharts. \n\nWhile that's \"normal,\" TSMC is also expected to grow faster than normal, so this valuation may actually be cheap.  One of TSMC's largest clients, Nvidia, noted that next year data center capital expenditures from the big five AI hyperscalers are expected to rise from nearly $800 billion in 2026 to $1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC stock drops despite record profit amid 'extremely robust demand' for AI chips",
+      "url": "https://finance.yahoo.com/markets/stocks/article/tsmc-stock-drops-despite-record-profit-amid-extremely-robust-demand-for-ai-chips-152649370.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "The company expects capital expenditures from 2026 to 2028 \"to be even more significantly higher than the past three years,\" as it continues to invest heavily to support customers' growth, Huang added. \n\n### (TSM )\n\nGo deeper with AlphaSpace\n\n418. 31  -11.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bovespa Index (IBOV) - Investing.com NG",
+      "url": "https://ng.investing.com/indices/bovespa",
+      "fonte": "ng.investing.com",
+      "data": "2026-10-12",
+      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| MGLU3  Magazine Luiza | 11. 06+0. 72+6.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Great results won't be good enough for this AI earnings season",
+      "url": "https://finance.yahoo.com/markets/article/great-results-wont-be-good-enough-for-this-ai-earnings-season-100000670.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-13",
+      "resumo": "Yahoo Finance\n\n# Great results won't be good enough for this AI earnings season\n\nHamza Shaban\n\nHamza Shaban  · Senior Reporter\n\n2 min read\n\nThe stock market is an expectations game.  But when they keep rising, the goalposts can move so far that even powerful tech earnings can trigger a sell-off. \n\nThis is a key risk to consider as we head into another earnings season, where AI spending and returns on investment will be top of mind and a key takeaway will be how much further companies have to extend their beats to even move the needle.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
