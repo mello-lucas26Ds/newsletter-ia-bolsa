@@ -2,30 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-18",
-    "total_noticias": 8,
-    "gerado_em": "2026-10-18T07:44:50.729599"
+    "total_noticias": 6,
+    "gerado_em": "2026-10-18T13:46:58.677121"
   },
   "noticias": [
     {
-      "titulo": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-says-ai-chip-demand-031701844.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-17",
-      "resumo": "## The stock is cheaper than its supplier's\n\nAt around $217, Nvidia's share price is about 14 times the earnings per share analysts expect for its next fiscal year (ending January 2028), on average.  At the Oct.  6 record, it was around 15 times expected earnings.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-000-split-across-nvidia-002000514.html",
+      "titulo": "Prediction: $1,000 Invested in Taiwan Semiconductor Today Will Be Worth This Much by 2030",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-invested-taiwan-093000584.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-18",
-      "resumo": "| Metric | Fiscal 2027 | Fiscal 2028 | Fiscal 2029 | Fiscal 2030 | Fiscal 2031 |\n ---  ---  --- |\n| Revenue | $412 billion | $700 billion | $1. 05 trillion | $1. 47 trillion | $1.",
+      "resumo": "That leaves room for the stock price to climb more than 135% to $1,000, as at that level, the stock would trade at a price-to-earnings ratio of 26.  And market capitalization would reach $5 trillion.  This is about the size of Nvidia right now, which is the biggest company by market value.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -35,11 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "DigiCo Infrastructure REIT (DGT.XA) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DGT.XA",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-16",
-      "resumo": "DigiCo Infrastructure REIT (DGT) is a diversified owner, operator and developer of data centres, with a global portfolio and broad investment mandate across Stabilized, Value-add and Development opportunities.  DigiCo Infrastructure REIT was established on November 01, 2024. \n\nwww.",
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.18%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-018-4950003",
+      "fonte": "investing.com",
+      "data": "2026-10-14",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| SKYD | 7.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -49,11 +35,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Nasdaq futures fall 1% as AI rout deepens on debt concerns | Reuters",
-      "url": "https://www.reuters.com/business/nasdaq-futures-dive-1-ai-rout-deepens-debt-concerns-2026-10-15",
-      "fonte": "reuters.com",
-      "data": "2026-10-15",
-      "resumo": "Oct 15 (Reuters) - Fears ​of a potential hit to artificial-intelligence funding due to higher interest rates drove Nasdaq futures ‌down more than 1% on Thursday, deepening a selloff in AI-related stocks. \n\nThe Nasdaq (. IXIC) and the S&P 500 (.",
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.54%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-054-4954805",
+      "fonte": "investing.com",
+      "data": "2026-10-16",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| NBIS | 165.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -63,53 +49,39 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DTCR",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-17",
-      "resumo": "The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DLR",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-16",
-      "resumo": "Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation, and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Pacer Data & Infrastructure Real Estate ETF (SRVR) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/SRVR",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-16",
-      "resumo": "SRVR\n\n6. 76%\n\nCategory\n\n14. 73%\n\n### 3-Year Return\n\nSRVR\n\n5.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Datasea anuncia valor de serviços de agente de IA de US$ ...",
-      "url": "https://br.investing.com/news/company-news/datasea-anuncia-valor-de-servicos-de-agente-de-ia-de-us-4-milhoes-93CH-2090399",
-      "fonte": "br.investing.com",
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 1.04% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-104-4947497",
+      "fonte": "investing.com",
       "data": "2026-10-13",
-      "resumo": "Ibovespa ETF.  Datasea Intelligent Technology Ltd.  (NASDAQ:DTSS) atingiu aproximadamente US$ 4,0 milhões em 8 de outubro, a ajuda de inteligência artificial.",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| AMAT | 464.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares lower at close of trade; Bovespa down 1.04%",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-104-4908471",
+      "fonte": "uk.investing.com",
+      "data": "2026-10-13",
+      "resumo": "Declining stocks outnumbered rising ones by 563 to 397 and 46 ended unchanged on the B3 Stock Exchange.  .  The AI has no bias—it simply identifies which stocks.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/the-ai-stock-market-wobble-is-a-reminder-this-time-isnt-different-d3ea7f07",
+      "fonte": "wsj.com",
+      "data": "2026-10-18",
+      "resumo": "AI stocks have had a terrible few days as hot inflation raises the cost of finance and threatens the debt-fueled investment in data centers.  Investors showed they are alive to one of the big risks in AI, that hopes for trillions of dollars of capital spending might be derailed.  An even bigger risk: construction continues at full speed.",
       "sentimento": "neutral",
       "tags": [
         "AI",
