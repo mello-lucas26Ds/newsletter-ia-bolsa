@@ -1,52 +1,4 @@
 {
-  "https://ca.finance.yahoo.com/news/why-c3-ai-inc-ai-205004636.html": {
-    "hash": "71b9cc54a532e1e719c388f88e7f48f2",
-    "visto_em": "2026-10-10"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/one-most-important-ai-stocks-160037979.html": {
-    "hash": "d8467a00206085472912aa190e7818fe",
-    "visto_em": "2026-10-10"
-  },
-  "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html": {
-    "hash": "8dcfc0d01adeba7f69cd5e22f4c184b6",
-    "visto_em": "2026-10-10"
-  },
-  "https://www.cnbc.com/video/2026/10/09/stocks-bounce-back-after-sell-off-tied-to-openais-revenue-report.html": {
-    "hash": "bd2a36aea3067f3f01fa471b55168e8c",
-    "visto_em": "2026-10-10"
-  },
-  "https://finance.yahoo.com/quote/DLR": {
-    "hash": "191f52ab0ca9dcbec553b895e71660b6",
-    "visto_em": "2026-10-10"
-  },
-  "https://www.bloomberg.com/news/articles/2026-10-08/stock-market-today-dow-s-p-live-updates": {
-    "hash": "228396ca7934e60485b4266265d3a38a",
-    "visto_em": "2026-10-10"
-  },
-  "https://www.reuters.com/business/wall-st-futures-gain-oil-slips-telecoms-pressured-by-spacex-spectrum-deal-2026-10-09/": {
-    "hash": "301d7607e750f34497f333c5a0c6c31d",
-    "visto_em": "2026-10-10"
-  },
-  "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html": {
-    "hash": "f6a8a1a723e0368affd6e407154b7eef",
-    "visto_em": "2026-10-10"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/buy-taiwan-semiconductor-manufacturing-stock-162000329.html": {
-    "hash": "5a3abe99e657905a6cb99855d9e6ed34",
-    "visto_em": "2026-10-10"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/lynx-sees-ai-semiconductor-rally-133617560.html": {
-    "hash": "bd03460241b074c3b2cfee27117b1640",
-    "visto_em": "2026-10-10"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/youre-worried-ai-bubble-heres-093000438.html": {
-    "hash": "40fd7e423471b0327f8ea79a8f96810e",
-    "visto_em": "2026-10-10"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-q3-earnings-strong-ai-180000931.html": {
-    "hash": "ae28411aa4e5bbf899ae8320fb5813ec",
-    "visto_em": "2026-10-10"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-151129179.html": {
     "hash": "8a7136a6bdb98a4571463eeba7156b24",
     "visto_em": "2026-10-11"
@@ -534,5 +486,37 @@
   "https://finance.yahoo.com/real-estate/articles/ai-boom-landlord-3-reits-111536278.html": {
     "hash": "e59ad4f6870bae558dc74b5004de6f50",
     "visto_em": "2026-10-17"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tsmc-says-ai-chip-demand-031701844.html": {
+    "hash": "f55a316707d5515c5b3184339e7beabf",
+    "visto_em": "2026-10-18"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/3-000-split-across-nvidia-002000514.html": {
+    "hash": "2f1258e9e5e5dbba58be930409d94400",
+    "visto_em": "2026-10-18"
+  },
+  "https://finance.yahoo.com/quote/DGT.XA": {
+    "hash": "2e50620a0d90e22f60bb68bb086ebbea",
+    "visto_em": "2026-10-18"
+  },
+  "https://www.reuters.com/business/nasdaq-futures-dive-1-ai-rout-deepens-debt-concerns-2026-10-15": {
+    "hash": "053e752cce17cafd774fca3d7fa58a62",
+    "visto_em": "2026-10-18"
+  },
+  "https://finance.yahoo.com/quote/DTCR": {
+    "hash": "53a1bdaae9389aa097cdeac98b47d45a",
+    "visto_em": "2026-10-18"
+  },
+  "https://finance.yahoo.com/quote/DLR": {
+    "hash": "191f52ab0ca9dcbec553b895e71660b6",
+    "visto_em": "2026-10-18"
+  },
+  "https://finance.yahoo.com/quote/SRVR": {
+    "hash": "030eae1a76fab11915daa544a058bce1",
+    "visto_em": "2026-10-18"
+  },
+  "https://br.investing.com/news/company-news/datasea-anuncia-valor-de-servicos-de-agente-de-ia-de-us-4-milhoes-93CH-2090399": {
+    "hash": "c32350410d4fada47c0f489ee1be67ae",
+    "visto_em": "2026-10-18"
   }
 }

@@ -1,11 +1,123 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-10-17",
-    "total_noticias": 104,
-    "gerado_em": "2026-10-17T13:28:46.127024"
+    "data": "2026-10-18",
+    "total_noticias": 105,
+    "gerado_em": "2026-10-18T07:44:50.731775"
   },
   "noticias": [
+    {
+      "titulo": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-says-ai-chip-demand-031701844.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-17",
+      "resumo": "## The stock is cheaper than its supplier's\n\nAt around $217, Nvidia's share price is about 14 times the earnings per share analysts expect for its next fiscal year (ending January 2028), on average.  At the Oct.  6 record, it was around 15 times expected earnings.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-000-split-across-nvidia-002000514.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-18",
+      "resumo": "| Metric | Fiscal 2027 | Fiscal 2028 | Fiscal 2029 | Fiscal 2030 | Fiscal 2031 |\n ---  ---  --- |\n| Revenue | $412 billion | $700 billion | $1. 05 trillion | $1. 47 trillion | $1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DigiCo Infrastructure REIT (DGT.XA) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DGT.XA",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-16",
+      "resumo": "DigiCo Infrastructure REIT (DGT) is a diversified owner, operator and developer of data centres, with a global portfolio and broad investment mandate across Stabilized, Value-add and Development opportunities.  DigiCo Infrastructure REIT was established on November 01, 2024. \n\nwww.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq futures fall 1% as AI rout deepens on debt concerns | Reuters",
+      "url": "https://www.reuters.com/business/nasdaq-futures-dive-1-ai-rout-deepens-debt-concerns-2026-10-15",
+      "fonte": "reuters.com",
+      "data": "2026-10-15",
+      "resumo": "Oct 15 (Reuters) - Fears ​of a potential hit to artificial-intelligence funding due to higher interest rates drove Nasdaq futures ‌down more than 1% on Thursday, deepening a selloff in AI-related stocks. \n\nThe Nasdaq (. IXIC) and the S&P 500 (.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DTCR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-17",
+      "resumo": "The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DLR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-16",
+      "resumo": "Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation, and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Pacer Data & Infrastructure Real Estate ETF (SRVR) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/SRVR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-16",
+      "resumo": "SRVR\n\n6. 76%\n\nCategory\n\n14. 73%\n\n### 3-Year Return\n\nSRVR\n\n5.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Datasea anuncia valor de serviços de agente de IA de US$ ...",
+      "url": "https://br.investing.com/news/company-news/datasea-anuncia-valor-de-servicos-de-agente-de-ia-de-us-4-milhoes-93CH-2090399",
+      "fonte": "br.investing.com",
+      "data": "2026-10-13",
+      "resumo": "Ibovespa ETF.  Datasea Intelligent Technology Ltd.  (NASDAQ:DTSS) atingiu aproximadamente US$ 4,0 milhões em 8 de outubro, a ajuda de inteligência artificial.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Buy 5 Top-Ranked Non-Tech Nasdaq Stocks to Maximize Q4 Gains",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-non-083000801.html",
@@ -973,20 +1085,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Best AI Stocks • Benzinga",
-      "url": "https://www.benzinga.com/money/best-artificial-intelligence-stocks",
-      "fonte": "benzinga.com",
-      "data": "2026-10-10",
-      "resumo": "AI models require immense computational power to train and operate.  This magnitude of power is derived from specialized chips, which enable them to process vast amounts of data rapidly.  TSM is a key player in manufacturing these chips, and its advanced semiconductor fabrication operations allow for the production of smaller, more powerful, and energy-efficient chips.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market - MarketWatch",
       "url": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece",
       "fonte": "marketwatch.com",
@@ -1295,34 +1393,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/EQIX",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-10",
-      "resumo": "Equinix, Inc.  shortens the path to boundless connectivity anywhere in the world.  Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Microsoft's AI Economics Are Quietly Starting To Change (NASDAQ:MSFT) | Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4953217-microsoft-ai-economics-are-quietly-starting-to-change",
-      "fonte": "seekingalpha.com",
-      "data": "2026-10-10",
-      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Microsoft's AI Economics Are Quietly Starting To Change\n\n## Summary\n\nMicrosoft software company \n\ntupungato/iStock Editorial via Getty Images\n\nMicrosoft software company\n\ntupungato/iStock Editorial via Getty Images\n\nMicrosoft (MSFT) has traditionally been seen as a rather straightforward investment in AI: build expensive infrastructure, grow Azure, generate cash through Copilot, and then let operating leverage do the rest.  I believe that recent developments suggest\n\nThis article was written by [. ] ### Recommended For You [.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "IMF says AI could offset Asia’s aging workforce challenges - Investing.com",
       "url": "https://www.investing.com/news/world-news/imf-says-ai-could-offset-asias-aging-workforce-challenges-93CH-4943470",
       "fonte": "investing.com",
@@ -1379,20 +1449,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI Issuers Are Upending Longstanding Safety Valve - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
-      "fonte": "bloomberg.com",
-      "data": "2026-10-10",
-      "resumo": "# AI Issuers Are Upending Longstanding Safety Valve\n\n## Takeaways by Bloomberg AISubscribe\n\nWhen financing gets more expensive, companies usually slow down their bond sales.  Tech companies have instead been ramping up this year, and talk this week of potential big financings from SpaceX and Broadcom Inc.  only amplified investor fears about the wave of coming debt.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth",
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-earnings-expected-rise-131800551.html",
       "fonte": "finance.yahoo.com",
@@ -1413,48 +1469,6 @@
       "data": "2026-10-11",
       "resumo": "Nick Raich, chief executive of Earnings Scout, said upward revisions to earnings forecasts are beginning to slow, although AI infrastructure investment continues at a substantial pace. \n\nRaich cited recent results from Micron Technology (NASDAQ:MU) as an indication that companies supplying AI-related infrastructure continue to receive orders and investment commitments. \n\nMicron last month issued a quarterly revenue forecast above market expectations and reported that customer commitments under long-term supply agreements had reached $32 billion.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 AI Stocks With Earnings Growth Up To 34%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-151129179.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-10",
-      "resumo": "That unresolved pressure is exactly what the 2 key rewards and 2 important warning signs (1 is major. ) might be masking or amplifying for Infomart's AI driven earnings story. \n\nTSE:2492 Earnings & Revenue Growth as at Oct 2026\n\nTSE:2492 Earnings & Revenue Growth as at Oct 2026\n\n \n\n## Palantir Technologies (PLTR)\n\nOverview: Palantir Technologies builds AI powered software platforms that turn complex government and commercial data into real time operational decisions and workflows.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market - CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
-      "fonte": "cnbc.com",
-      "data": "2026-10-10",
-      "resumo": "Stocks climbed to fresh record highs early last week, but renewed volatility in the artificial intelligence trade showed just how fickle investors can be in this market.  The wheels almost came off the bus after Thursday's terrible session for tech stocks.  Then came Friday's modest bounce-back rally, which proved to be enough to keep stocks in the green for the week.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "5 AI Stocks To Buy Now Before The End Of 2026",
-      "url": "https://www.forbes.com/sites/investor-hub/article/best-ai-stocks-buy-now-before-end-of-2026",
-      "fonte": "forbes.com",
-      "data": "2026-10-10",
-      "resumo": "Global AI investment is on pace to exceed $1 trillion, leaders include Nvidia, Broadcom, Taiwan Semiconductor, Alphabet and Microsoft.  500 sits around 7,700,.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
