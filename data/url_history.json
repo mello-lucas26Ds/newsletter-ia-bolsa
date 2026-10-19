@@ -1,40 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-151129179.html": {
-    "hash": "8a7136a6bdb98a4571463eeba7156b24",
-    "visto_em": "2026-10-11"
-  },
-  "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html": {
-    "hash": "5f3842c453a7d4082434259411109853",
-    "visto_em": "2026-10-11"
-  },
-  "https://finance.yahoo.com/quote/NVDA": {
-    "hash": "264bb3f4ba6888a8b1e83077e57490f9",
-    "visto_em": "2026-10-11"
-  },
-  "https://www.bloomberg.com/news/articles/2026-10-09/us-stocks-set-to-rebound-as-oil-slips-ai-bubble-fears-recede": {
-    "hash": "7c9e12941b3f21029d7f5046ae21aae9",
-    "visto_em": "2026-10-11"
-  },
-  "https://www.forbes.com/sites/investor-hub/article/best-ai-stocks-buy-now-before-end-of-2026": {
-    "hash": "dde3c250b28a2e5cbad74e14c9ea6d7f",
-    "visto_em": "2026-10-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-continues-hit-record-highs-173604388.html": {
-    "hash": "5e5e55c144201da10eaad456778261f7",
-    "visto_em": "2026-10-11"
-  },
-  "https://www.investing.com/news/stock-market-news/globalfoundries-stock-analysis-tsmc-deal-fundamentals-and-what-comes-next-93CH-4939562": {
-    "hash": "fc6c17c3a6fbf1c1a2010315ee7ea8dc",
-    "visto_em": "2026-10-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/p-500-earnings-expected-rise-131800551.html": {
-    "hash": "3c80a3fe9163a0bab75551d21df6a053",
-    "visto_em": "2026-10-11"
-  },
-  "https://uk.finance.yahoo.com/news/ai-technology-expected-drive-two-131800649.html": {
-    "hash": "e75f0b9827e6e771468116d250c18197",
-    "visto_em": "2026-10-11"
-  },
   "https://www.businessinsider.com/top-tech-stock-picks-dan-ives-pltr-nvda-msft-ai-2026-10": {
     "hash": "f6e076a17fe50b71b0d3f66e9c649889",
     "visto_em": "2026-10-12"
@@ -542,5 +506,41 @@
   "https://www.wsj.com/finance/stocks/the-ai-stock-market-wobble-is-a-reminder-this-time-isnt-different-d3ea7f07": {
     "hash": "c914812daa2548e15ec7f37c10a01125",
     "visto_em": "2026-10-18"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-buckles-fear-boom-ai-201411736.html": {
+    "hash": "550c977b1a86038832f0e93964eb7838",
+    "visto_em": "2026-10-19"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-climb-investors-020224425.html": {
+    "hash": "bc2b2f6660dc879ebbb38264767934e7",
+    "visto_em": "2026-10-19"
+  },
+  "https://www.investing.com/news/company-news/openworld-signs-merger-deal-with-ai-agent-firm-blocksight-93CH-4956155": {
+    "hash": "1bdac77c17fdbeaef23889d9a8a8b85d",
+    "visto_em": "2026-10-19"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html": {
+    "hash": "6cd06a126ff6bac3fc990fd0d379343c",
+    "visto_em": "2026-10-19"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-211058029.html": {
+    "hash": "07c9ea5b0cd2e8d2a6445692c4bf4edb",
+    "visto_em": "2026-10-19"
+  },
+  "https://finance.yahoo.com/media-advertising/articles/meta-earnings-puts-adobe-stock-201147047.html": {
+    "hash": "903a22b4b703f3aa57594b2316ae9b59",
+    "visto_em": "2026-10-19"
+  },
+  "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4955913": {
+    "hash": "32d4f13d8256e4978de8e1882b810462",
+    "visto_em": "2026-10-19"
+  },
+  "https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/": {
+    "hash": "e4f5a8d6b725c003dccfda417ba5d22d",
+    "visto_em": "2026-10-19"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/zenta-group-zentoai-signs-mou-123919442.html": {
+    "hash": "7d9f6f50c1fd40940e66999e92dacf72",
+    "visto_em": "2026-10-19"
   }
 }

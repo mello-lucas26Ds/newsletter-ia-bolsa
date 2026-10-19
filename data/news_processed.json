@@ -1,11 +1,137 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-10-18",
-    "total_noticias": 111,
-    "gerado_em": "2026-10-18T13:46:58.678903"
+    "data": "2026-10-19",
+    "total_noticias": 112,
+    "gerado_em": "2026-10-19T08:27:20.448781"
   },
   "noticias": [
+    {
+      "titulo": "Nasdaq Buckles on Fear This Boom Is an AI Bubble: Stock Market Today",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-buckles-fear-boom-ai-201411736.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-16",
+      "resumo": "Still, CoreWeave (CRWV, -11. 9%) remains a focal point, as investors, traders and speculators fixate on capex spending and whether what we're seeing instead is an AI bubble. \n\nThe VanEck Semiconductor ETF (SMH, -3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "U.S. stock futures climb as investors return to AI trade after selloff",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-climb-investors-020224425.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "Chip stocks were among the hardest hit, with the Philadelphia Semiconductor Index hitting its longest losing streak since the 2008 financial crisis, as investors reassessed the outlook for AI-related spending. \n\nNvidia-backed data centre operator CoreWeave (NASDAQ:CRWV) was a key focus of investor concerns.  CoreWeave fell 12% on Friday, bringing its five-day decline to about 25%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "OpenWorld signs merger deal with AI agent firm Blocksight By Investing.com",
+      "url": "https://www.investing.com/news/company-news/openworld-signs-merger-deal-with-ai-agent-firm-blocksight-93CH-4956155",
+      "fonte": "investing.com",
+      "data": "2026-10-19",
+      "resumo": "The BeyondAI proposal would involve digital tokens representing investors’ rights to payments backed by eligible intellectual property such as patents and software rights.  BeyondAI would retain control of its technology under the proposed structure. \n\nThe Meridian program would involve residential battery storage, solar panels and AI computing equipment, with Meridian holding purchase rights to Tesla Powerwall systems.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Will Meta's earnings restore confidence in the AI boom?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-18",
+      "resumo": "Chip giant Nvidia, a vital cog in the sector, lost more than $350bn in market value this week alone.  The Philadelphia Semiconductor Sector fell more than 11 per cent during the week, with the tech-heavy Nasdaq 100 down 5. 5 per cent.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 AI Stocks With Earnings Growth Over 33% To Watch",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-211058029.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-18",
+      "resumo": "That funding and timing question makes the full narrative for USA Rare Earth crucial reading, as it lays out how USA Rare Earth could turn today's capital pressure into accelerating long term leverage. \n\nNasdaqGM:USAR Earnings & Revenue Growth as at Oct 2026\n\nNasdaqGM:USAR Earnings & Revenue Growth as at Oct 2026\n\n \n\n## Palantir Technologies (PLTR)\n\nPalantir Technologies builds data and AI platforms that help government agencies and commercial clients turn messy information into operational decisions.  The Foundry ecosystem is central to the Healthy high growth potential theme through recurring, high margin software contracts.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Meta Earnings Puts Adobe Stock And AI Ad Software Names In Focus",
+      "url": "https://finance.yahoo.com/media-advertising/articles/meta-earnings-puts-adobe-stock-201147047.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-18",
+      "resumo": "1.  Crypto\n2.  AI\n\nSimply Wall St.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "As AI rally wobbles, stock market’s spotlight turns to earnings By Reuters - Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4955913",
+      "fonte": "investing.com",
+      "data": "2026-10-18",
+      "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 878.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/",
+      "fonte": "reuters.com",
+      "data": "2026-10-18",
+      "resumo": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n at the company's second-quarter earnings conference in Taipei\n\nItem 1 of 3 File Photo: The logo of Taiwan Semiconductor Manufacturing Company (TSMC) at the company's second-quarter earnings conference in Taipei, Taiwan, July 16, 2026.  REUTERS/Ann Wang/File Photo/File Photo\n\n[1/3]File Photo: The logo of Taiwan Semiconductor Manufacturing Company (TSMC) at the company's second-quarter earnings conference in Taipei, Taiwan, July 16, 2026.  REUTERS/Ann Wang/File Photo/File Photo Purchase Licensing Rights, opens new tab [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Zenta Group’s ZentoAI Signs MOU for Proposed Acquisition of Chinese AI and Big Data Technology Company",
+      "url": "https://finance.yahoo.com/technology/ai/articles/zenta-group-zentoai-signs-mou-123919442.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-16",
+      "resumo": "These include privacy-computing technologies, large language model applications and machine-learning algorithms. \n\nPrivacy computing encompasses technologies designed to enable data processing and analysis while protecting sensitive information. \n\nLarge language model applications involve the use of AI systems capable of processing and generating natural language, while machine-learning algorithms support automated data analysis and predictive applications.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Prediction: $1,000 Invested in Taiwan Semiconductor Today Will Be Worth This Much by 2030",
       "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-invested-taiwan-093000584.html",
@@ -517,20 +643,6 @@
       "data": "2026-10-15",
       "resumo": "Home page Seeking Alpha - Power to Investors\n\nSearch for Symbols, analysts, keywords\n\n# TSMC's Q3 results, outlook pave path for 'banner year' in 2027: analysts\n\nOct 15, 2026, 9:19 AM ETTaiwan Semiconductor Manufacturing Company Limited (TSM) StockINTC, GFSBy: Brandon Evans, SA News Editor4 Comments\n\nTaiwan Semiconductor Manufacturing's (TSM) latest quarterly results and outlook provided no indications of a slowdown related to the artificial intelligence infrastructure buildout, as its most advanced node capacity continues to rise. \n\n\"Without giving any details, TSMC management sees potential for AI\n\nTo ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. \n\nIs this happening to you frequently.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Amazon in talks to acquire AI startup Decart for $7 bln- WSJ",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-talks-acquire-ai-startup-235502420.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-11",
-      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nInvesting.",
-      "sentimento": "bearish",
       "tags": [
         "AI",
         "Market"
@@ -1379,20 +1491,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Following OpenAI’s Revenue Report, Should You Really Buy AI Stocks Right Now?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/following-openai-revenue-report-really-222502711.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-11",
-      "resumo": "All of this means investors are particularly keen on considering the latest earnings figures from key companies in the space.  This past week, one such player -- OpenAI -- divulged its latest revenue figures, which were lower than a figure reported last month, according to press reports.  As a result, AI stocks, from Nvidia to Oracle, fell during the trading session.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "USRT: Still Rate Sensitive Despite Data Center Exposure (NYSEARCA:USRT) | Seeking Alpha",
       "url": "https://seekingalpha.com/article/4953448-usrt-still-rate-sensitive-despite-datacenter-exposure",
       "fonte": "seekingalpha.com",
@@ -1435,39 +1533,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-11/amazon-is-in-talks-to-buy-ai-startup-decart-wsj-reports",
-      "fonte": "bloomberg.com",
-      "data": "2026-10-11",
-      "resumo": "# Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports\n\nAmazon. com Inc.  is in negotiations to acquire Decart AI, an artificial intelligence startup, in a deal that could be valued at around $7 billion, the Wall Street Journal reported.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "New tech acquisitions: Here's what you need to know - CNBC",
       "url": "https://www.cnbc.com/video/2026/10/12/new-tech-acquisitions-heres-what-you-need-to-know.html",
       "fonte": "cnbc.com",
       "data": "2026-10-12",
       "resumo": "Trust Portfolio\nAnalysis\nTrade Alerts\nMeeting Videos\nHomestretch\nJim's Columns\nEducation\nSubscribe\nPRO\nPro News\nJosh Brown\nMike Santoli\nCalls of the Day\nMy Portfolio\nLivestream\nFull Episodes\nStock Screener\nMarket Forecast\nOptions Investing\nChart Investing\nSubscribe\nLivestream\nMenu\nMake It\nselect\nUSA\nINTL\nLivestream\nSearch quotes, news & videos\nLivestream\nWatchlist\nSIGN IN\nCreate free account\nMarkets\nBusiness\nInvesting\nTech\nPolitics & Policy\nVideo\nWatchlist\nInvesting Club\nPRO\nLivestream\nMenu\nTechCheck\nTechCheck Podcast\nwatch now\nIn this video\nAMZN\nNVDA\nShare\nShare Article via Facebook\nShare Article via Twitter\nShare Article via LinkedIn\nShare Article via Email\nTechCheck\nNew tech acquisitions: Here's what you need to know [. ] Skip Navigation\nMarkets\nPre-Markets\nU. S.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
-      "url": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad",
-      "fonte": "wsj.com",
-      "data": "2026-10-11",
-      "resumo": "1.    exclusive  \n2.    Deals\n\n# Amazon in Talks to Buy AI Startup Decart for Around $7 Billion\n\n## San Francisco company’s software makes it easier for developers to switch between different AI chips\n\nBy\n\nKate Clark\nand\n\nLauren Thomas\n\nOct.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -1497,62 +1567,6 @@
       "data": "2026-10-12",
       "resumo": "New operators assessed include Ada Infrastructure, CloudHQ, Atlantic Data Centers, Aurea Finvest, 247 Data Centers, DataSpots, TERRANOVA (Actis), Parks Data Center, RT-One, and Supernova And Mapa Investimentos.  The report is designed for data center Real Estate Investment Trusts (REITs), construction contractors, infrastructure providers, investors, new entrants, consultants, advisory firms, corporations and government agencies seeking insight into Brazil's data center colocation growth prospects through 2031. \n\nKey Topics Covered  \n  \n1.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The bull market is turning 4 years old — but yields could crash the party - MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c",
-      "fonte": "marketwatch.com",
-      "data": "2026-10-11",
-      "resumo": "Rising long-term interest rates pose risks to the current bull market since they pressure stock valuation, raise borrowing costs for corporations and increase competition for investor money.  Higher rates reduce the present value of future cash flows.  That makes the risk particularly relevant to the AI-driven rally, which rests on expectations of exceptional future earnings growth.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers",
-      "fonte": "bloomberg.com",
-      "data": "2026-10-11",
-      "resumo": "# Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers\n\n## Takeaways by Bloomberg AI\n\nSouth Korea spent much of this year as a poster child of the scorching global AI trade.  Now, by almost every measure, the $4. 3 trillion stock market is rapidly losing relevance with investors.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "S&P 500 Earnings Expected to Rise 31% in Q3 as AI-Related Companies Lead Growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-earnings-expected-rise-131800551.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-11",
-      "resumo": "Analysts forecast that earnings among S&P 500 companies will rise approximately 31% year over year, with the technology sector and AI-related companies, including Alphabet (NASDAQ:GOOG), Amazon. com (NASDAQ:AMZN) and Meta Platforms (NASDAQ:META), contributing around two-thirds of the increase. \n\nTajinder Dhillon, LSEG's head of earnings and equity research, said the concentration of earnings growth among these companies reflects the continued influence of AI-related investment on corporate profitability.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI and Technology Expected to Drive Two-Thirds of S&P 500 Earnings Growth in Q3",
-      "url": "https://uk.finance.yahoo.com/news/ai-technology-expected-drive-two-131800649.html",
-      "fonte": "uk.finance.yahoo.com",
-      "data": "2026-10-11",
-      "resumo": "Nick Raich, chief executive of Earnings Scout, said upward revisions to earnings forecasts are beginning to slow, although AI infrastructure investment continues at a substantial pace. \n\nRaich cited recent results from Micron Technology (NASDAQ:MU) as an indication that companies supplying AI-related infrastructure continue to receive orders and investment commitments. \n\nMicron last month issued a quarterly revenue forecast above market expectations and reported that customer commitments under long-term supply agreements had reached $32 billion.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
