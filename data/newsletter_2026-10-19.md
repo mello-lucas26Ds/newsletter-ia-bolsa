@@ -1,161 +1,149 @@
 # Newsletter IA Bolsa — 2026-10-19
 
-**Gerado em:** 19/10/2026 08:27
-**Total:** 9 noticias
+**Gerado em:** 19/10/2026 16:48
+**Total:** 8 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Nasdaq Buckles on Fear This Boom Is an AI Bubble: Stock Market Today
+## 1. Dear TSMC Stock Fans, Circle Oct. 15 on Your Calendar
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Still, CoreWeave (CRWV, -11. 9%) remains a focal point, as investors, traders and speculators fixate on capex spending and whether what we're seeing instead is an AI bubble. 
-
-The VanEck Semiconductor ETF (SMH, -3.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nasdaq-buckles-fear-boom-ai-201411736.html)
-
----
-
-## 2. U.S. stock futures climb as investors return to AI trade after selloff
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Chip stocks were among the hardest hit, with the Philadelphia Semiconductor Index hitting its longest losing streak since the 2008 financial crisis, as investors reassessed the outlook for AI-related spending. 
-
-Nvidia-backed data centre operator CoreWeave (NASDAQ:CRWV) was a key focus of investor concerns.  CoreWeave fell 12% on Friday, bringing its five-day decline to about 25%.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-climb-investors-020224425.html)
-
----
-
-## 3. OpenWorld signs merger deal with AI agent firm Blocksight By Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The BeyondAI proposal would involve digital tokens representing investors’ rights to payments backed by eligible intellectual property such as patents and software rights.  BeyondAI would retain control of its technology under the proposed structure. 
-
-The Meridian program would involve residential battery storage, solar panels and AI computing equipment, with Meridian holding purchase rights to Tesla Powerwall systems.
-
-[Ler noticia completa](https://www.investing.com/news/company-news/openworld-signs-merger-deal-with-ai-agent-firm-blocksight-93CH-4956155)
-
----
-
-## 4. Will Meta's earnings restore confidence in the AI boom?
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Chip giant Nvidia, a vital cog in the sector, lost more than $350bn in market value this week alone.  The Philadelphia Semiconductor Sector fell more than 11 per cent during the week, with the tech-heavy Nasdaq 100 down 5. 5 per cent.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html)
-
----
-
-## 5. 3 AI Stocks With Earnings Growth Over 33% To Watch
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-That funding and timing question makes the full narrative for USA Rare Earth crucial reading, as it lays out how USA Rare Earth could turn today's capital pressure into accelerating long term leverage. 
-
-NasdaqGM:USAR Earnings & Revenue Growth as at Oct 2026
-
-NasdaqGM:USAR Earnings & Revenue Growth as at Oct 2026
-
- 
-
-## Palantir Technologies (PLTR)
-
-Palantir Technologies builds data and AI platforms that help government agencies and commercial clients turn messy information into operational decisions.  The Foundry ecosystem is central to the Healthy high growth potential theme through recurring, high margin software contracts.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-211058029.html)
-
----
-
-## 6. Meta Earnings Puts Adobe Stock And AI Ad Software Names In Focus
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
 1.  Crypto
 2.  AI
 
-Simply Wall St.
+   AI
 
-[Ler noticia completa](https://finance.yahoo.com/media-advertising/articles/meta-earnings-puts-adobe-stock-201147047.html)
+Barchart
 
----
+# Dear TSMC Stock Fans, Circle Oct.
 
-## 7. As AI rally wobbles, stock market’s spotlight turns to earnings By Reuters - Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Advertisement
-
-## Trending Stocks
-
-| Name | Last | Chg.  % | Vol.  |  |
- ---  --- 
-| MU | 878.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4955913)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/dear-tsmc-stock-fans-circle-105954886.html)
 
 ---
 
-## 8. Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports - Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Skip to main content
-
-Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv
-
- at the company's second-quarter earnings conference in Taipei
-
-Item 1 of 3 File Photo: The logo of Taiwan Semiconductor Manufacturing Company (TSMC) at the company's second-quarter earnings conference in Taipei, Taiwan, July 16, 2026.  REUTERS/Ann Wang/File Photo/File Photo
-
-[1/3]File Photo: The logo of Taiwan Semiconductor Manufacturing Company (TSMC) at the company's second-quarter earnings conference in Taipei, Taiwan, July 16, 2026.  REUTERS/Ann Wang/File Photo/File Photo Purchase Licensing Rights, opens new tab [.
-
-[Ler noticia completa](https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/)
-
----
-
-## 9. Zenta Group’s ZentoAI Signs MOU for Proposed Acquisition of Chinese AI and Big Data Technology Company
+## 2. AI Financing Concerns and Major Technology Earnings Set Agenda for Markets This Week
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-These include privacy-computing technologies, large language model applications and machine-learning algorithms. 
+Investors are also assessing its strategic direction after an unsuccessful attempt earlier this year to acquire Warner Bros.  Discovery's streaming and studio assets. 
 
-Privacy computing encompasses technologies designed to enable data processing and analysis while protecting sensitive information. 
+The earnings announcement is expected to provide additional information about subscriber engagement, revenue performance, operating costs and management's priorities.
 
-Large language model applications involve the use of AI systems capable of processing and generating natural language, while machine-learning algorithms support automated data analysis and predictive applications.
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ai-financing-concerns-major-technology-103222955.html)
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/zenta-group-zentoai-signs-mou-123919442.html)
+---
+
+## 3. Earnings Season Takes the Spotlight Amid AI Market Jitters | Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Meta, valued at about $1. 8 trillion, has seen its shares rise in recent weeks following the launch of its Muse AI assistant.  Western Digital is also due to report, with analysts expecting earnings per share of $4.
+
+[Ler noticia completa](https://www.investing.com/analysis/earnings-season-takes-the-spotlight-amid-ai-market-jitters-200689800)
+
+---
+
+## 4. OpenWorld signs merger deal with AI agent firm Blocksight
+
+**Fonte:** ng.investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The acquisition, first announced on October 1, 2026, is intended to provide operational infrastructure for OpenWorld’s tokenized financing programs.  Blocksight’s AI agents automate deal structuring, asset data verification, investor onboarding, daily reporting and investment servicing, with human approval required at key decision points. 
+
+OpenWorld said the agents are expected to be integrated into OpenWorld Enterprise, the platform through which the company structures and administers tokenized programs.
+
+[Ler noticia completa](https://ng.investing.com/news/stock-market-news/openworld-signs-merger-deal-with-ai-agent-firm-blocksight-93CH-2742371)
+
+---
+
+## 5. Buy 5 Top-Ranked Non-Tech Nasdaq Stocks to Maximize ...
+
+**Fonte:** markets.businessinsider.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+ROST, ROKU, APA, CORT and HALO are five non-tech Nasdaq stocks.  The rally has primarily been driven by the global artificial intelligence (AI) technology boom.
+
+[Ler noticia completa](https://markets.businessinsider.com/news/stocks/buy-5-top-ranked-non-tech-nasdaq-stocks-to-maximize-q4-gains-15989220)
+
+---
+
+## 6. A big 'yikes' still hangs over the AI trade as Meta and Tesla report: What to watch this week
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Even so, the BofA analysts are expecting good things.  For the third quarter, consensus estimates put Meta's adjusted earnings for the quarter at $6. 76 per share with revenue of $63.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/article/a-big-yikes-still-hangs-over-the-ai-trade-as-meta-and-tesla-report-what-to-watch-this-week-100000328.html)
+
+---
+
+## 7. Stock market today: Dow, S&P 500, Nasdaq futures mixed as the AI trade rebounds
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+1.  Crypto
+
+   Crypto
+2.  AI
+
+   AI
+
+LIVE   Updated 11 mins ago
+
+Yahoo Finance
+
+# Stock market today: Dow, S&P 500, Nasdaq futures mixed as the AI trade rebounds
+
+Ines Ferré  and David Hollerith
+
+1 min read
+
+ YM=F
+
+  -0.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112734828.html)
+
+---
+
+## 8. OpenWorld signs deal to acquire AI agent firm Blocksight
+
+**Fonte:** investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+© Reuters
+
+In this article:
+
+OPNW-7. 32%
+
+MRBK+0. 54%
+
+LAKE MARY, Fla.
+
+[Ler noticia completa](https://www.investing.com/news/company-news/openworld-signs-deal-to-acquire-ai-agent-firm-blocksight-93CH-4956154)
 
 ---

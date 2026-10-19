@@ -2,16 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-19",
-    "total_noticias": 9,
-    "gerado_em": "2026-10-19T08:27:20.446872"
+    "total_noticias": 8,
+    "gerado_em": "2026-10-19T16:48:51.540802"
   },
   "noticias": [
     {
-      "titulo": "Nasdaq Buckles on Fear This Boom Is an AI Bubble: Stock Market Today",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-buckles-fear-boom-ai-201411736.html",
+      "titulo": "Dear TSMC Stock Fans, Circle Oct. 15 on Your Calendar",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-tsmc-stock-fans-circle-105954886.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-10-16",
-      "resumo": "Still, CoreWeave (CRWV, -11. 9%) remains a focal point, as investors, traders and speculators fixate on capex spending and whether what we're seeing instead is an AI bubble. \n\nThe VanEck Semiconductor ETF (SMH, -3.",
+      "data": "2026-10-13",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nBarchart\n\n# Dear TSMC Stock Fans, Circle Oct.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -21,12 +21,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "U.S. stock futures climb as investors return to AI trade after selloff",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-climb-investors-020224425.html",
+      "titulo": "AI Financing Concerns and Major Technology Earnings Set Agenda for Markets This Week",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-financing-concerns-major-technology-103222955.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-19",
-      "resumo": "Chip stocks were among the hardest hit, with the Philadelphia Semiconductor Index hitting its longest losing streak since the 2008 financial crisis, as investors reassessed the outlook for AI-related spending. \n\nNvidia-backed data centre operator CoreWeave (NASDAQ:CRWV) was a key focus of investor concerns.  CoreWeave fell 12% on Friday, bringing its five-day decline to about 25%.",
-      "sentimento": "bullish",
+      "resumo": "Investors are also assessing its strategic direction after an unsuccessful attempt earlier this year to acquire Warner Bros.  Discovery's streaming and studio assets. \n\nThe earnings announcement is expected to provide additional information about subscriber engagement, revenue performance, operating costs and management's priorities.",
+      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -35,25 +35,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "OpenWorld signs merger deal with AI agent firm Blocksight By Investing.com",
-      "url": "https://www.investing.com/news/company-news/openworld-signs-merger-deal-with-ai-agent-firm-blocksight-93CH-4956155",
+      "titulo": "Earnings Season Takes the Spotlight Amid AI Market Jitters | Investing.com",
+      "url": "https://www.investing.com/analysis/earnings-season-takes-the-spotlight-amid-ai-market-jitters-200689800",
       "fonte": "investing.com",
       "data": "2026-10-19",
-      "resumo": "The BeyondAI proposal would involve digital tokens representing investors’ rights to payments backed by eligible intellectual property such as patents and software rights.  BeyondAI would retain control of its technology under the proposed structure. \n\nThe Meridian program would involve residential battery storage, solar panels and AI computing equipment, with Meridian holding purchase rights to Tesla Powerwall systems.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Will Meta's earnings restore confidence in the AI boom?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-18",
-      "resumo": "Chip giant Nvidia, a vital cog in the sector, lost more than $350bn in market value this week alone.  The Philadelphia Semiconductor Sector fell more than 11 per cent during the week, with the tech-heavy Nasdaq 100 down 5. 5 per cent.",
+      "resumo": "Meta, valued at about $1. 8 trillion, has seen its shares rise in recent weeks following the launch of its Muse AI assistant.  Western Digital is also due to report, with analysts expecting earnings per share of $4.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -63,11 +49,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "3 AI Stocks With Earnings Growth Over 33% To Watch",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-211058029.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-18",
-      "resumo": "That funding and timing question makes the full narrative for USA Rare Earth crucial reading, as it lays out how USA Rare Earth could turn today's capital pressure into accelerating long term leverage. \n\nNasdaqGM:USAR Earnings & Revenue Growth as at Oct 2026\n\nNasdaqGM:USAR Earnings & Revenue Growth as at Oct 2026\n\n \n\n## Palantir Technologies (PLTR)\n\nPalantir Technologies builds data and AI platforms that help government agencies and commercial clients turn messy information into operational decisions.  The Foundry ecosystem is central to the Healthy high growth potential theme through recurring, high margin software contracts.",
+      "titulo": "OpenWorld signs merger deal with AI agent firm Blocksight",
+      "url": "https://ng.investing.com/news/stock-market-news/openworld-signs-merger-deal-with-ai-agent-firm-blocksight-93CH-2742371",
+      "fonte": "ng.investing.com",
+      "data": "2026-10-19",
+      "resumo": "The acquisition, first announced on October 1, 2026, is intended to provide operational infrastructure for OpenWorld’s tokenized financing programs.  Blocksight’s AI agents automate deal structuring, asset data verification, investor onboarding, daily reporting and investment servicing, with human approval required at key decision points. \n\nOpenWorld said the agents are expected to be integrated into OpenWorld Enterprise, the platform through which the company structures and administers tokenized programs.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -77,53 +63,53 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Meta Earnings Puts Adobe Stock And AI Ad Software Names In Focus",
-      "url": "https://finance.yahoo.com/media-advertising/articles/meta-earnings-puts-adobe-stock-201147047.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-18",
-      "resumo": "1.  Crypto\n2.  AI\n\nSimply Wall St.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "As AI rally wobbles, stock market’s spotlight turns to earnings By Reuters - Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4955913",
-      "fonte": "investing.com",
-      "data": "2026-10-18",
-      "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 878.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports - Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/",
-      "fonte": "reuters.com",
-      "data": "2026-10-18",
-      "resumo": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n at the company's second-quarter earnings conference in Taipei\n\nItem 1 of 3 File Photo: The logo of Taiwan Semiconductor Manufacturing Company (TSMC) at the company's second-quarter earnings conference in Taipei, Taiwan, July 16, 2026.  REUTERS/Ann Wang/File Photo/File Photo\n\n[1/3]File Photo: The logo of Taiwan Semiconductor Manufacturing Company (TSMC) at the company's second-quarter earnings conference in Taipei, Taiwan, July 16, 2026.  REUTERS/Ann Wang/File Photo/File Photo Purchase Licensing Rights, opens new tab [.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Zenta Group’s ZentoAI Signs MOU for Proposed Acquisition of Chinese AI and Big Data Technology Company",
-      "url": "https://finance.yahoo.com/technology/ai/articles/zenta-group-zentoai-signs-mou-123919442.html",
-      "fonte": "finance.yahoo.com",
+      "titulo": "Buy 5 Top-Ranked Non-Tech Nasdaq Stocks to Maximize ...",
+      "url": "https://markets.businessinsider.com/news/stocks/buy-5-top-ranked-non-tech-nasdaq-stocks-to-maximize-q4-gains-15989220",
+      "fonte": "markets.businessinsider.com",
       "data": "2026-10-16",
-      "resumo": "These include privacy-computing technologies, large language model applications and machine-learning algorithms. \n\nPrivacy computing encompasses technologies designed to enable data processing and analysis while protecting sensitive information. \n\nLarge language model applications involve the use of AI systems capable of processing and generating natural language, while machine-learning algorithms support automated data analysis and predictive applications.",
+      "resumo": "ROST, ROKU, APA, CORT and HALO are five non-tech Nasdaq stocks.  The rally has primarily been driven by the global artificial intelligence (AI) technology boom.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "A big 'yikes' still hangs over the AI trade as Meta and Tesla report: What to watch this week",
+      "url": "https://finance.yahoo.com/markets/article/a-big-yikes-still-hangs-over-the-ai-trade-as-meta-and-tesla-report-what-to-watch-this-week-100000328.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "Even so, the BofA analysts are expecting good things.  For the third quarter, consensus estimates put Meta's adjusted earnings for the quarter at $6. 76 per share with revenue of $63.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as the AI trade rebounds",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112734828.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nLIVE   Updated 11 mins ago\n\nYahoo Finance\n\n# Stock market today: Dow, S&P 500, Nasdaq futures mixed as the AI trade rebounds\n\nInes Ferré  and David Hollerith\n\n1 min read\n\n YM=F\n\n  -0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "OpenWorld signs deal to acquire AI agent firm Blocksight",
+      "url": "https://www.investing.com/news/company-news/openworld-signs-deal-to-acquire-ai-agent-firm-blocksight-93CH-4956154",
+      "fonte": "investing.com",
+      "data": "2026-10-19",
+      "resumo": "© Reuters\n\nIn this article:\n\nOPNW-7. 32%\n\nMRBK+0. 54%\n\nLAKE MARY, Fla.",
       "sentimento": "neutral",
       "tags": [
         "AI",
