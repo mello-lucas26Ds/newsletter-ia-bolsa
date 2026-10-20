@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-20",
+    "total_noticias": 9,
+    "gerado_em": "2026-10-20T08:09:47.019719"
+  },
+  "noticias": [
+    {
+      "titulo": "Nasdaq climbs as chip and AI-linked stocks bounce back",
+      "url": "https://www.reuters.com/business/wall-st-futures-climb-ai-stocks-rebound-oil-yields-fall-2026-10-19",
+      "fonte": "reuters.com",
+      "data": "2026-10-19",
+      "resumo": "The tech-heavy Nasdaq Composite led Wall Street with a 1% advance on Monday ​as investors returned to the chip sector and other AI-related stocks following.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI stocks rally ahead of Meta earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-rally-ahead-meta-222558678.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nSemafor\n\n# AI stocks rally ahead of Meta earnings\n\nBrendan Ruberry\n\n1 min read\n\n ^IXIC\n\n  +1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "S&P 500, Nasdaq futures rise as AI stocks rebound ahead of key earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-113805730.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "The selloff reflected mounting investor unease over how the costly AI buildout will be financed, a question that has increasingly pressured companies underpinning the US bull market, which recently marked its fourth anniversary. \n\nAI-linked stocks such as ‌CoreWeave, which plunged more than 25% ⁠last week, climbed 3. 4% in premarket trading on Monday.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock Market Midday, Oct. 19: Tech Stocks Rebound as AI Confidence Returns",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-19-163749088.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nMotley Fool\n\n# Stock Market Midday, Oct.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock Market Today, Oct. 19: IREN Rallies on AI Infrastructure Sentiment Rebound",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-19-220513155.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nMotley Fool\n\n# Stock Market Today, Oct.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Stocks Set for a Comeback as Strong Earnings and Energy Prices Support Markets | Investing.com",
+      "url": "https://www.investing.com/analysis/ai-stocks-set-for-a-comeback-as-strong-earnings-and-energy-prices-support-markets-200689853",
+      "fonte": "investing.com",
+      "data": "2026-10-19",
+      "resumo": "View all comments (0)0\n\nAI Stocks Set for a Comeback as Strong Earnings and Energy Prices Support Markets\n\nView all comments (0)0\n\nLouis Navellier\n\nLouis Navellier\n\nArticles(585)|My Homepage\n\nIn this article:\n\nNVDA+1. 38%\n\nXOM-0. 39%\n\nLCO-0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Google Partner Novacore Labs and AIBotics Complete Acquisition of Assets, Expanding AI, Drone, Mapping and Automation Platform in Jamaica",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-partner-novacore-labs-aibotics-131500303.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "AIBotics, Inc.  is a global technology company building a platform around AI-enabled robotics, autonomous systems and intelligent automation.  The Company focuses on applying advanced technologies to real-world environments through strategic partnerships, technology development and international market relationships.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prospectus-looks-impressive-financial-adviser-101500707.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-14",
+      "resumo": "Data-center and digital-infrastructure ETFs, like VanEck Data Center Supply Chain RACK and Global X Data Center & Digital Infrastructure DTCR, arguably spread your exposure across operators, REITs and chip manufacturers, etc.  (These are only examples NOT recommendations. )\n\nCompanies like Nvidia NVDA that provide AI chips or power and infrastructure management — including Vertiv VRT or Eaton ETN — are other options.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Zenta Group assina MOU para adquirir participação em ...",
+      "url": "https://br.investing.com/news/company-news/zenta-group-assina-mou-para-adquirir-participacao-em-empresa-de-tecnologia-na-china-93CH-2093757",
+      "fonte": "br.investing.com",
+      "data": "2026-10-16",
+      "resumo": "Ibovespa e dólar.  ZentoAI Intelligent Technology Company Limited -alvo oferece serviços de tecnologia digital com foco em inteligência artificial e big data,.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

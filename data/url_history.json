@@ -1,84 +1,4 @@
 {
-  "https://www.businessinsider.com/top-tech-stock-picks-dan-ives-pltr-nvda-msft-ai-2026-10": {
-    "hash": "f6e076a17fe50b71b0d3f66e9c649889",
-    "visto_em": "2026-10-12"
-  },
-  "https://finance.yahoo.com/quote/EQIX": {
-    "hash": "eca03f41b8134ab5c978233933fb7c49",
-    "visto_em": "2026-10-12"
-  },
-  "https://seekingalpha.com/article/4953217-microsoft-ai-economics-are-quietly-starting-to-change": {
-    "hash": "1ff8c7cfde6d1df761b7a287f1b70f93",
-    "visto_em": "2026-10-12"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/3-top-ai-stocks-watch-081002404.html?fr=sycsrp_catchall": {
-    "hash": "49fc44d59e98bfc2f787e7a7309f2c5f",
-    "visto_em": "2026-10-12"
-  },
-  "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1": {
-    "hash": "c9e2f25a432f4ce5ff8d83dfac5092b4",
-    "visto_em": "2026-10-12"
-  },
-  "https://www.investing.com/news/world-news/imf-says-ai-could-offset-asias-aging-workforce-challenges-93CH-4943470": {
-    "hash": "0f1fd257dab0c2d07ae96bfa6cf4739e",
-    "visto_em": "2026-10-12"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/brazil-data-center-colocation-market-082800050.html": {
-    "hash": "e734e0a9fcbb6ee6f9aa9614a5c4ae1d",
-    "visto_em": "2026-10-12"
-  },
-  "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c": {
-    "hash": "4340813331eefbf13087dc270f2cb2e7",
-    "visto_em": "2026-10-12"
-  },
-  "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers": {
-    "hash": "fa25c5a4900ce5d4772cef8700387b40",
-    "visto_em": "2026-10-12"
-  },
-  "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly": {
-    "hash": "18825962f43aff2677f7adf8efba8b02",
-    "visto_em": "2026-10-12"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/2-ai-stocks-stumbled-now-093002260.html": {
-    "hash": "fbcfd233e24c964d60cf0075f4caeef7",
-    "visto_em": "2026-10-12"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/following-openai-revenue-report-really-222502711.html": {
-    "hash": "c60a1b0387f9ac93f26151ed83355a97",
-    "visto_em": "2026-10-12"
-  },
-  "https://www.reuters.com/legal/transactional/ai-centered-us-stock-bull-market-nears-four-year-anniversary-2026-10-09": {
-    "hash": "bdf3d90246a391c508343430875813d7",
-    "visto_em": "2026-10-12"
-  },
-  "https://seekingalpha.com/article/4953448-usrt-still-rate-sensitive-despite-datacenter-exposure": {
-    "hash": "cc08bde078fa584f7ba16effbab4d6fd",
-    "visto_em": "2026-10-12"
-  },
-  "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-tracking-oil-price-decline-q3-earnings-on-tap-4942973": {
-    "hash": "c1b2c3c3ec741f440d9ead0b771471ca",
-    "visto_em": "2026-10-12"
-  },
-  "https://finance.yahoo.com/quote/AIQ": {
-    "hash": "7e4ea2a3c2313c7315124772c15f710d",
-    "visto_em": "2026-10-12"
-  },
-  "https://www.businessinsider.com/kospi-stock-index-today-taiwan-taiex-index-ai-trade-rally-2026-10": {
-    "hash": "ff0274f34e305e958a91062acaf205e4",
-    "visto_em": "2026-10-12"
-  },
-  "https://www.bloomberg.com/news/articles/2026-10-11/amazon-is-in-talks-to-buy-ai-startup-decart-wsj-reports": {
-    "hash": "1355bf2d9fef8c76c8907fb58ba41104",
-    "visto_em": "2026-10-12"
-  },
-  "https://www.cnbc.com/video/2026/10/12/new-tech-acquisitions-heres-what-you-need-to-know.html": {
-    "hash": "f62c8c18af23109fb487f6a82ab45119",
-    "visto_em": "2026-10-12"
-  },
-  "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad": {
-    "hash": "6debe00565d99779231b560046b0b3e1",
-    "visto_em": "2026-10-12"
-  },
   "https://www.investing.com/news/stock-market-news/40-39-19-aipicked-winners-spread-beyond-energy-and-tech-4943019": {
     "hash": "267937b9bdfa5e50b786e66195fcbf2f",
     "visto_em": "2026-10-13"
@@ -574,5 +494,41 @@
   "https://www.investing.com/news/company-news/openworld-signs-deal-to-acquire-ai-agent-firm-blocksight-93CH-4956154": {
     "hash": "13732607e8aea4fbc08e4808c9f96e48",
     "visto_em": "2026-10-19"
+  },
+  "https://www.reuters.com/business/wall-st-futures-climb-ai-stocks-rebound-oil-yields-fall-2026-10-19": {
+    "hash": "4705bf4b99b4922a1c2ff1432ca7f55b",
+    "visto_em": "2026-10-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-rally-ahead-meta-222558678.html": {
+    "hash": "fa501100ca477d50672f3df1225bd395",
+    "visto_em": "2026-10-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-113805730.html": {
+    "hash": "cb0167ef60b0a680ebaec22dee0ad5ee",
+    "visto_em": "2026-10-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-19-163749088.html": {
+    "hash": "c01c5b2dc6fdae15326d7b2465424016",
+    "visto_em": "2026-10-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-19-220513155.html": {
+    "hash": "cde8f509bbe6f8aaef875709996ccb8c",
+    "visto_em": "2026-10-20"
+  },
+  "https://www.investing.com/analysis/ai-stocks-set-for-a-comeback-as-strong-earnings-and-energy-prices-support-markets-200689853": {
+    "hash": "f2117fdb9fa109566d4e7d10a1fc3749",
+    "visto_em": "2026-10-20"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/google-partner-novacore-labs-aibotics-131500303.html": {
+    "hash": "f9b38d0df152b2d979a6ae22678d234b",
+    "visto_em": "2026-10-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/prospectus-looks-impressive-financial-adviser-101500707.html": {
+    "hash": "4a56980b0c59388bc665e182b796c70c",
+    "visto_em": "2026-10-20"
+  },
+  "https://br.investing.com/news/company-news/zenta-group-assina-mou-para-adquirir-participacao-em-empresa-de-tecnologia-na-china-93CH-2093757": {
+    "hash": "aa33843b81e171ce78c50fdfd4d1f63c",
+    "visto_em": "2026-10-20"
   }
 }
