@@ -1,177 +1,132 @@
 # Newsletter IA Bolsa — 2026-10-20
 
-**Gerado em:** 20/10/2026 08:09
-**Total:** 9 noticias
+**Gerado em:** 20/10/2026 14:41
+**Total:** 8 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Nasdaq climbs as chip and AI-linked stocks bounce back
+## 1. Opinion: The Most Important Number in Taiwan Semiconductor's Earnings Report Was 68%
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+1.  Crypto
+2.  AI
+
+   AI
+
+Motley Fool
+
+# Opinion: The Most Important Number in Taiwan Semiconductor's Earnings Report Was 68%
+
+Patrick Sanders, The Motley Fool
+
+4 min read
+
+ TSM
+
+  +2.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/opinion-most-important-number-taiwan-150500485.html)
+
+---
+
+## 2. US stocks rebound with AI earnings test ahead, euro falls ...
 
 **Fonte:** reuters.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The tech-heavy Nasdaq Composite led Wall Street with a 1% advance on Monday ​as investors returned to the chip sector and other AI-related stocks following.
+The Nasdaq rose more than 1% on Monday as tech shares rebounded ahead of a big week for AI-related earnings, while European stocks and the euro fell as.
 
-[Ler noticia completa](https://www.reuters.com/business/wall-st-futures-climb-ai-stocks-rebound-oil-yields-fall-2026-10-19)
+[Ler noticia completa](https://www.reuters.com/world/china/global-markets-global-markets-2026-10-19)
 
 ---
 
-## 2. AI stocks rally ahead of Meta earnings
+## 3. Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools — AMZN, BE, CRWV, AAPL, PLTR In Focus
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-1.  Crypto
+Anxieties surrounding the AI trade escalated following CNBC reports that Anthropic generated $16. 8 billion in Q3 sales.  Although this is up from $11.
 
-   Crypto
-2.  AI
-
-   AI
-
-Semafor
-
-# AI stocks rally ahead of Meta earnings
-
-Brendan Ruberry
-
-1 min read
-
- ^IXIC
-
-  +1.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ai-stocks-rally-ahead-meta-222558678.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-sees-best-day-230023865.html)
 
 ---
 
-## 3. S&P 500, Nasdaq futures rise as AI stocks rebound ahead of key earnings
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The selloff reflected mounting investor unease over how the costly AI buildout will be financed, a question that has increasingly pressured companies underpinning the US bull market, which recently marked its fourth anniversary. 
-
-AI-linked stocks such as ‌CoreWeave, which plunged more than 25% ⁠last week, climbed 3. 4% in premarket trading on Monday.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-113805730.html)
-
----
-
-## 4. Stock Market Midday, Oct. 19: Tech Stocks Rebound as AI Confidence Returns
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-1.  Crypto
-2.  AI
-
-   AI
-
-Motley Fool
-
-# Stock Market Midday, Oct.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-19-163749088.html)
-
----
-
-## 5. Stock Market Today, Oct. 19: IREN Rallies on AI Infrastructure Sentiment Rebound
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-1.  Crypto
-2.  AI
-
-   AI
-
-Motley Fool
-
-# Stock Market Today, Oct.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-19-220513155.html)
-
----
-
-## 6. AI Stocks Set for a Comeback as Strong Earnings and Energy Prices Support Markets | Investing.com
+## 4. Is the AI Trade Losing Its Earnings Edge? | Investing.com
 
 **Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-View all comments (0)0
+The main takeaway: technology is still the dominant force in the stock market.  That’s another way of saying that the AI theme remains the market’s critical influence.  As long as investors remain confident that AI can drive faster revenue growth, wider profit margins, and new business opportunities, technology stocks are likely to remain the market’s cornerstone and a key pillar of the current bull market.
 
-AI Stocks Set for a Comeback as Strong Earnings and Energy Prices Support Markets
-
-View all comments (0)0
-
-Louis Navellier
-
-Louis Navellier
-
-Articles(585)|My Homepage
-
-In this article:
-
-NVDA+1. 38%
-
-XOM-0. 39%
-
-LCO-0.
-
-[Ler noticia completa](https://www.investing.com/analysis/ai-stocks-set-for-a-comeback-as-strong-earnings-and-energy-prices-support-markets-200689853)
+[Ler noticia completa](https://www.investing.com/analysis/is-the-ai-trade-losing-its-earnings-edge-200689907)
 
 ---
 
-## 7. Google Partner Novacore Labs and AIBotics Complete Acquisition of Assets, Expanding AI, Drone, Mapping and Automation Platform in Jamaica
+## 5. Equinix, Inc. (EQIX)
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-AIBotics, Inc.  is a global technology company building a platform around AI-enabled robotics, autonomous systems and intelligent automation.  The Company focuses on applying advanced technologies to real-world environments through strategic partnerships, technology development and international market relationships.
+Equinix Inc.  is a real estate investment trust focusing on interconnected data centers.  It develops data center platforms and architecture for businesses.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/google-partner-novacore-labs-aibotics-131500303.html)
+[Ler noticia completa](https://finance.yahoo.com/quote/EQIX)
 
 ---
 
-## 8. ‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?
+## 6. Blackstone’s $200B Data Center Empire Anchors Its AI Bet
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Data-center and digital-infrastructure ETFs, like VanEck Data Center Supply Chain RACK and Global X Data Center & Digital Infrastructure DTCR, arguably spread your exposure across operators, REITs and chip manufacturers, etc.  (These are only examples NOT recommendations. )
+### Key Takeaways
 
-Companies like Nvidia NVDA that provide AI chips or power and infrastructure management — including Vertiv VRT or Eaton ETN — are other options.
+ Blackstone's data center investments, counting debt and projects under construction, reached $200B as of July, up from $55B in June 2024, and now sit beside a cloud venture with Google. 
+ The firm also finances chips and power, holds stakes in AI labs, leases offices to Anthropic and has launched a data center REIT, while a model now weighs in on proposed deals. 
+ Backlash against power-hungry data centers, leadership changes and fears of a capex bust show the risk of concentrating so heavily in one theme.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/prospectus-looks-impressive-financial-adviser-101500707.html)
+[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/blackstone-200b-data-center-empire-161850079.html)
 
 ---
 
-## 9. Zenta Group assina MOU para adquirir participação em ...
+## 7. The AI Data Center Race: 3 Stocks Cashing In Today and 1 Aiming to Next Year
 
-**Fonte:** br.investing.com  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+## 2.  Digital Realty: Record Leasing Drives Cash Flow
+
+Digital Realty Trust (NYSE:DLR) is the data center landlord, structured as a real estate investment trust (REIT).  REITs are best judged on funds from operations (FFO), which is net income with property depreciation added back.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ai-data-center-race-3-133520209.html)
+
+---
+
+## 8. Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real - CNBC
+
+**Fonte:** cnbc.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Ibovespa e dólar.  ZentoAI Intelligent Technology Company Limited -alvo oferece serviços de tecnologia digital com foco em inteligência artificial e big data,.
+"Investors are going to need proof statements from any company that is considered part of the AI trade that they can deliver on the earnings growth expectations being built into their pricing," said Ron Albahary, chief investment officer at LNW.  "We don't have a valuation-potential bubble here like we had in the internet bubble.  We have an earnings-expectation-potential bubble in this cycle.
 
-[Ler noticia completa](https://br.investing.com/news/company-news/zenta-group-assina-mou-para-adquirir-participacao-em-empresa-de-tecnologia-na-china-93CH-2093757)
+[Ler noticia completa](https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html)
 
 ---

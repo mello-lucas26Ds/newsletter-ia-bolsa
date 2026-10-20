@@ -2,10 +2,122 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-20",
-    "total_noticias": 110,
-    "gerado_em": "2026-10-20T08:09:47.031125"
+    "total_noticias": 118,
+    "gerado_em": "2026-10-20T14:41:49.286050"
   },
   "noticias": [
+    {
+      "titulo": "Opinion: The Most Important Number in Taiwan Semiconductor's Earnings Report Was 68%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/opinion-most-important-number-taiwan-150500485.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nMotley Fool\n\n# Opinion: The Most Important Number in Taiwan Semiconductor's Earnings Report Was 68%\n\nPatrick Sanders, The Motley Fool\n\n4 min read\n\n TSM\n\n  +2.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "US stocks rebound with AI earnings test ahead, euro falls ...",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-19",
+      "fonte": "reuters.com",
+      "data": "2026-10-18",
+      "resumo": "The Nasdaq rose more than 1% on Monday as tech shares rebounded ahead of a big week for AI-related earnings, while European stocks and the euro fell as.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools — AMZN, BE, CRWV, AAPL, PLTR In Focus",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-sees-best-day-230023865.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "Anxieties surrounding the AI trade escalated following CNBC reports that Anthropic generated $16. 8 billion in Q3 sales.  Although this is up from $11.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Is the AI Trade Losing Its Earnings Edge? | Investing.com",
+      "url": "https://www.investing.com/analysis/is-the-ai-trade-losing-its-earnings-edge-200689907",
+      "fonte": "investing.com",
+      "data": "2026-10-20",
+      "resumo": "The main takeaway: technology is still the dominant force in the stock market.  That’s another way of saying that the AI theme remains the market’s critical influence.  As long as investors remain confident that AI can drive faster revenue growth, wider profit margins, and new business opportunities, technology stocks are likely to remain the market’s cornerstone and a key pillar of the current bull market.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Equinix, Inc. (EQIX)",
+      "url": "https://finance.yahoo.com/quote/EQIX",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-18",
+      "resumo": "Equinix Inc.  is a real estate investment trust focusing on interconnected data centers.  It develops data center platforms and architecture for businesses.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Blackstone’s $200B Data Center Empire Anchors Its AI Bet",
+      "url": "https://finance.yahoo.com/real-estate/articles/blackstone-200b-data-center-empire-161850079.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-15",
+      "resumo": "### Key Takeaways\n\n Blackstone's data center investments, counting debt and projects under construction, reached $200B as of July, up from $55B in June 2024, and now sit beside a cloud venture with Google. \n The firm also finances chips and power, holds stakes in AI labs, leases offices to Anthropic and has launched a data center REIT, while a model now weighs in on proposed deals. \n Backlash against power-hungry data centers, leadership changes and fears of a capex bust show the risk of concentrating so heavily in one theme.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The AI Data Center Race: 3 Stocks Cashing In Today and 1 Aiming to Next Year",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-data-center-race-3-133520209.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "## 2.  Digital Realty: Record Leasing Drives Cash Flow\n\nDigital Realty Trust (NYSE:DLR) is the data center landlord, structured as a real estate investment trust (REIT).  REITs are best judged on funds from operations (FFO), which is net income with property depreciation added back.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real - CNBC",
+      "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-19",
+      "resumo": "\"Investors are going to need proof statements from any company that is considered part of the AI trade that they can deliver on the earnings growth expectations being built into their pricing,\" said Ron Albahary, chief investment officer at LNW.  \"We don't have a valuation-potential bubble here like we had in the internet bubble.  We have an earnings-expectation-potential bubble in this cycle.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq climbs as chip and AI-linked stocks bounce back",
       "url": "https://www.reuters.com/business/wall-st-futures-climb-ai-stocks-rebound-oil-yields-fall-2026-10-19",

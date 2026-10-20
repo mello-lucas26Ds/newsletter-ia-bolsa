@@ -2,16 +2,30 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-20",
-    "total_noticias": 9,
-    "gerado_em": "2026-10-20T08:09:47.019719"
+    "total_noticias": 8,
+    "gerado_em": "2026-10-20T14:41:49.283844"
   },
   "noticias": [
     {
-      "titulo": "Nasdaq climbs as chip and AI-linked stocks bounce back",
-      "url": "https://www.reuters.com/business/wall-st-futures-climb-ai-stocks-rebound-oil-yields-fall-2026-10-19",
+      "titulo": "Opinion: The Most Important Number in Taiwan Semiconductor's Earnings Report Was 68%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/opinion-most-important-number-taiwan-150500485.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nMotley Fool\n\n# Opinion: The Most Important Number in Taiwan Semiconductor's Earnings Report Was 68%\n\nPatrick Sanders, The Motley Fool\n\n4 min read\n\n TSM\n\n  +2.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "US stocks rebound with AI earnings test ahead, euro falls ...",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-19",
       "fonte": "reuters.com",
-      "data": "2026-10-19",
-      "resumo": "The tech-heavy Nasdaq Composite led Wall Street with a 1% advance on Monday ​as investors returned to the chip sector and other AI-related stocks following.",
+      "data": "2026-10-18",
+      "resumo": "The Nasdaq rose more than 1% on Monday as tech shares rebounded ahead of a big week for AI-related earnings, while European stocks and the euro fell as.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -21,11 +35,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI stocks rally ahead of Meta earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-rally-ahead-meta-222558678.html",
+      "titulo": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools — AMZN, BE, CRWV, AAPL, PLTR In Focus",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-sees-best-day-230023865.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-19",
-      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nSemafor\n\n# AI stocks rally ahead of Meta earnings\n\nBrendan Ruberry\n\n1 min read\n\n ^IXIC\n\n  +1.",
+      "resumo": "Anxieties surrounding the AI trade escalated following CNBC reports that Anthropic generated $16. 8 billion in Q3 sales.  Although this is up from $11.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -35,53 +49,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "S&P 500, Nasdaq futures rise as AI stocks rebound ahead of key earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-113805730.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-19",
-      "resumo": "The selloff reflected mounting investor unease over how the costly AI buildout will be financed, a question that has increasingly pressured companies underpinning the US bull market, which recently marked its fourth anniversary. \n\nAI-linked stocks such as ‌CoreWeave, which plunged more than 25% ⁠last week, climbed 3. 4% in premarket trading on Monday.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock Market Midday, Oct. 19: Tech Stocks Rebound as AI Confidence Returns",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-19-163749088.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-19",
-      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nMotley Fool\n\n# Stock Market Midday, Oct.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock Market Today, Oct. 19: IREN Rallies on AI Infrastructure Sentiment Rebound",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-19-220513155.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-19",
-      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nMotley Fool\n\n# Stock Market Today, Oct.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Stocks Set for a Comeback as Strong Earnings and Energy Prices Support Markets | Investing.com",
-      "url": "https://www.investing.com/analysis/ai-stocks-set-for-a-comeback-as-strong-earnings-and-energy-prices-support-markets-200689853",
+      "titulo": "Is the AI Trade Losing Its Earnings Edge? | Investing.com",
+      "url": "https://www.investing.com/analysis/is-the-ai-trade-losing-its-earnings-edge-200689907",
       "fonte": "investing.com",
-      "data": "2026-10-19",
-      "resumo": "View all comments (0)0\n\nAI Stocks Set for a Comeback as Strong Earnings and Energy Prices Support Markets\n\nView all comments (0)0\n\nLouis Navellier\n\nLouis Navellier\n\nArticles(585)|My Homepage\n\nIn this article:\n\nNVDA+1. 38%\n\nXOM-0. 39%\n\nLCO-0.",
+      "data": "2026-10-20",
+      "resumo": "The main takeaway: technology is still the dominant force in the stock market.  That’s another way of saying that the AI theme remains the market’s critical influence.  As long as investors remain confident that AI can drive faster revenue growth, wider profit margins, and new business opportunities, technology stocks are likely to remain the market’s cornerstone and a key pillar of the current bull market.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -91,11 +63,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Google Partner Novacore Labs and AIBotics Complete Acquisition of Assets, Expanding AI, Drone, Mapping and Automation Platform in Jamaica",
-      "url": "https://finance.yahoo.com/technology/ai/articles/google-partner-novacore-labs-aibotics-131500303.html",
+      "titulo": "Equinix, Inc. (EQIX)",
+      "url": "https://finance.yahoo.com/quote/EQIX",
       "fonte": "finance.yahoo.com",
-      "data": "2026-10-19",
-      "resumo": "AIBotics, Inc.  is a global technology company building a platform around AI-enabled robotics, autonomous systems and intelligent automation.  The Company focuses on applying advanced technologies to real-world environments through strategic partnerships, technology development and international market relationships.",
+      "data": "2026-10-18",
+      "resumo": "Equinix Inc.  is a real estate investment trust focusing on interconnected data centers.  It develops data center platforms and architecture for businesses.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -105,11 +77,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prospectus-looks-impressive-financial-adviser-101500707.html",
+      "titulo": "Blackstone’s $200B Data Center Empire Anchors Its AI Bet",
+      "url": "https://finance.yahoo.com/real-estate/articles/blackstone-200b-data-center-empire-161850079.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-10-14",
-      "resumo": "Data-center and digital-infrastructure ETFs, like VanEck Data Center Supply Chain RACK and Global X Data Center & Digital Infrastructure DTCR, arguably spread your exposure across operators, REITs and chip manufacturers, etc.  (These are only examples NOT recommendations. )\n\nCompanies like Nvidia NVDA that provide AI chips or power and infrastructure management — including Vertiv VRT or Eaton ETN — are other options.",
+      "data": "2026-10-15",
+      "resumo": "### Key Takeaways\n\n Blackstone's data center investments, counting debt and projects under construction, reached $200B as of July, up from $55B in June 2024, and now sit beside a cloud venture with Google. \n The firm also finances chips and power, holds stakes in AI labs, leases offices to Anthropic and has launched a data center REIT, while a model now weighs in on proposed deals. \n Backlash against power-hungry data centers, leadership changes and fears of a capex bust show the risk of concentrating so heavily in one theme.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -119,11 +91,25 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Zenta Group assina MOU para adquirir participação em ...",
-      "url": "https://br.investing.com/news/company-news/zenta-group-assina-mou-para-adquirir-participacao-em-empresa-de-tecnologia-na-china-93CH-2093757",
-      "fonte": "br.investing.com",
-      "data": "2026-10-16",
-      "resumo": "Ibovespa e dólar.  ZentoAI Intelligent Technology Company Limited -alvo oferece serviços de tecnologia digital com foco em inteligência artificial e big data,.",
+      "titulo": "The AI Data Center Race: 3 Stocks Cashing In Today and 1 Aiming to Next Year",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-data-center-race-3-133520209.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "## 2.  Digital Realty: Record Leasing Drives Cash Flow\n\nDigital Realty Trust (NYSE:DLR) is the data center landlord, structured as a real estate investment trust (REIT).  REITs are best judged on funds from operations (FFO), which is net income with property depreciation added back.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real - CNBC",
+      "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-19",
+      "resumo": "\"Investors are going to need proof statements from any company that is considered part of the AI trade that they can deliver on the earnings growth expectations being built into their pricing,\" said Ron Albahary, chief investment officer at LNW.  \"We don't have a valuation-potential bubble here like we had in the internet bubble.  We have an earnings-expectation-potential bubble in this cycle.",
       "sentimento": "neutral",
       "tags": [
         "AI",

@@ -530,5 +530,37 @@
   "https://br.investing.com/news/company-news/zenta-group-assina-mou-para-adquirir-participacao-em-empresa-de-tecnologia-na-china-93CH-2093757": {
     "hash": "aa33843b81e171ce78c50fdfd4d1f63c",
     "visto_em": "2026-10-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/opinion-most-important-number-taiwan-150500485.html": {
+    "hash": "e592e9d66e42d482fd068ecb0e115af7",
+    "visto_em": "2026-10-20"
+  },
+  "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-19": {
+    "hash": "7ca358f1cf8d2ca0b7a24e167e406aea",
+    "visto_em": "2026-10-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-sees-best-day-230023865.html": {
+    "hash": "960c24b50f67a6cdb50f01d384e4b4c4",
+    "visto_em": "2026-10-20"
+  },
+  "https://www.investing.com/analysis/is-the-ai-trade-losing-its-earnings-edge-200689907": {
+    "hash": "b994947446b1c08cb292beab652caa79",
+    "visto_em": "2026-10-20"
+  },
+  "https://finance.yahoo.com/quote/EQIX": {
+    "hash": "4ed21372d205044e227c64710c4a6b08",
+    "visto_em": "2026-10-20"
+  },
+  "https://finance.yahoo.com/real-estate/articles/blackstone-200b-data-center-empire-161850079.html": {
+    "hash": "6984bb6c48ceffb48007840346abbbef",
+    "visto_em": "2026-10-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/ai-data-center-race-3-133520209.html": {
+    "hash": "f859739ff244588b04319ede77636ec0",
+    "visto_em": "2026-10-20"
+  },
+  "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html": {
+    "hash": "df98002279a73bd3d66cfa520d9c50b9",
+    "visto_em": "2026-10-20"
   }
 }
