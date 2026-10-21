@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-21",
-    "total_noticias": 95,
-    "gerado_em": "2026-10-21T08:14:59.839671"
+    "total_noticias": 105,
+    "gerado_em": "2026-10-21T14:52:49.001900"
   },
   "noticias": [
+    {
+      "titulo": "Nasdaq Futures Rise After AI Stocks Rally in Asia and Europe - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef",
+      "fonte": "wsj.com",
+      "data": "2026-10-21",
+      "resumo": "Nasdaq futures rose after artificial-intelligence stocks rallied in Asia and Europe, though investor sentiment remained muted as oil prices held close to $110 a barrel. \n\nAfter volatile trade in the last session ended with the Nasdaq closing flat, futures for the tech-heavy index gained 0. 75% on Wednesday.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq Futures Higher After Asian AI Rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-higher-asian-ai-084300656.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-21",
+      "resumo": "After volatile trade in the last session ended with the Nasdaq closing flat, futures for the tech-heavy index gained 0. 75% on Wednesday.  Investor concerns remain around the business models of cloud-computing companies and the impact of higher borrowing rates on the AI ecosystem.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock market news for Oct. 19, 2026",
+      "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-18",
+      "resumo": "The Nasdaq Composite rose on Monday as traders moved back into tech following last week's artificial intelligence-related rout. \n\nThe tech-heavy index added 1. 11% to end at 26,430.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "2 Long/Short ETF Macro Trade Ideas for Active Investors | Investing.com",
+      "url": "https://www.investing.com/analysis/2-longshort-etf-macro-trade-ideas-for-active-investors-200689965",
+      "fonte": "investing.com",
+      "data": "2026-10-21",
+      "resumo": "## Long DTCR / Short DESK: Data Centers vs.  Office REITs\n\nOur first long/short trade involves two different commercial real estate segments: the Global X Data Center & Digital Infrastructure ETF (NASDAQ:DTCR) and the VanEck Office & Commercial REIT ETF (NYSE:DESK). \n\nSource: Testfolio\n\nDTCR charges a 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global Physical Artificial Intelligence (AI) Market Report 2026-2040 | Market to Reach $3.26 Trillion as Robotics, Autonomous Systems, and Wearables Scale",
+      "url": "https://finance.yahoo.com/technology/ai/articles/global-physical-artificial-intelligence-ai-093000493.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "Healthcare coverage includes surgical robotics, medical exoskeletons, hospital logistics systems, clinical support robots and AI-enabled medical platforms.  AgriTech analysis evaluates autonomous tractors, field equipment, agricultural drones, precision agriculture, environmental monitoring and farm automation.  Defence and security coverage examines unmanned aerial vehicles, unmanned ground vehicles, maritime platforms, counter-UAS systems and command enablement technologies.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "M&A soaring close to record level, fueled by rush into AI: Apollo’s Sløk",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/m-soaring-close-record-level-192956008.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-20",
+      "resumo": "### Dive Insight:\n\nThe fixation on AI has spurred dealmaking well beyond technology into companies involved in sectors essential for the AI build-out, including data centers, power generation, power grid infrastructure, cooling and connectivity, Sløk said. \n\n\"AI is the trigger of the AI boom, but it is lighting up far more than tech,\" he said, noting that dealmaking involving utilities and energy companies posted a record first half. \n\nAmong the largest AI-focused deals, SpaceX in June bought Anysphere, the creator of AI-coding agent Cursor, for $55 billion, according to Mergermarket.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/AI",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-21",
+      "resumo": "### 5-Year Return\n\nAI\n\n75. 00%\n\nS&P 500 (^GSPC)\n\n69. 69%\n\n### Earnings Trends\n\nView More \n\n### Earnings Per Share\n\n### Revenue vs.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "MSCI Q3 Deep Dive: AI-Driven Product Expansion and Diversified Client Growth",
+      "url": "https://finance.yahoo.com/technology/ai/articles/msci-q3-deep-dive-ai-120639630.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-21",
+      "resumo": "### Key Insights from Management's Remarks\n\nManagement attributed third quarter performance to accelerated innovation, robust client demand for AI-enabled solutions, and expanding partnerships, with notable gains outside the core asset manager segment. \n\nAI-powered product launches: MSCI's rapid adoption of artificial intelligence enabled faster creation of new models and data sets, supporting the launch of agentic solutions—platforms that automate data analysis and portfolio construction.  Chief Product Officer Alvise Munari explained that many new offerings, especially in private markets, \"couldn't be delivered and built without the support of latest-gen LLM technology.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Private Equity Uses AI At The Front Of The Deal Cycle. ...",
+      "url": "https://www.forbes.com/sites/johnsviokla/2026/10/16/private-equity-uses-ai-at-the-front-of-the-deal-cycle--how-about-the-back",
+      "fonte": "forbes.com",
+      "data": "2026-10-16",
+      "resumo": "S&P Global Market Intelligence's February 2026 survey found that 64% of general partners rate AI as ineffective for deal sourcing.  A Bain and StepStone survey.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Page 386 | Latest AI Tech Stock Ideas & Analysis Articles",
+      "url": "https://seekingalpha.com/stock-ideas/ai-tech-stocks?page=386",
+      "fonte": "seekingalpha.com",
+      "data": "2026-10-16",
+      "resumo": "Tech Stock News · IPO News · Artificial Intelligence (AI) News · Budget & DOGE News · Merger & Acquisition News .  LATEST AI TECH STOCK ANALYSIS.  Top analysts.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "AI Stocks Rally After Super Micro Preliminary Sales Bring Relief",
       "url": "https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief",
