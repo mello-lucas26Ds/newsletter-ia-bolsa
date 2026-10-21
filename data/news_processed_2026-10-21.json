@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-21",
+    "total_noticias": 4,
+    "gerado_em": "2026-10-21T08:14:59.837292"
+  },
+  "noticias": [
+    {
+      "titulo": "AI Stocks Rally After Super Micro Preliminary Sales Bring Relief",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief",
+      "fonte": "bloomberg.com",
+      "data": "2026-10-20",
+      "resumo": "Contact us: Provide news feedback or report an error\n\nConfidential tip.  Send a tip to our reporters\n\nSite feedback: Take our Survey\n\nBy Jeran Wittenstein\n\nOctober 20, 2026 at 10:14 PM UTC\n\nSave\n\nTranslate\n\nThe shares of AI-related companies rallied in after-hours trading on Tuesday after strong preliminary results from server-maker Super Micro Computer Inc.  spurred relief about the outlook for spending on the technology.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Buy Top-Ranked Tech Stock TSMC Now on the Dip and Hold",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-top-ranked-tech-stock-202600390.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-20",
+      "resumo": "Nvidia and other technology giants rely on TSMC because of its unmatched scale and expertise.  Plus, they know that Taiwan Semi is not aiming to compete against them in the chip design business. \n\nZacks Investment Research\n\nZacks Investment Research\n\n \n\nImage Source: Zacks Investment Research\n\nTaiwan Semi is racing to address one of its only potential shortfalls: geopolitical fears, by expanding its manufacturing footprint outside of Taiwan into the U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "2 Revolutionary AI Stocks With 241% and 324% Upside, According to Select Wall Street Analysts",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-revolutionary-ai-stocks-241-112601840.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-20",
+      "resumo": "While most analysts have a positive long-term view on the AI infrastructure build-out, some Wall Street professionals are forecasting truly game-changing returns for select AI pioneers.  According to select Wall Street analysts, Micron Technology (NASDAQ:MU) and SoundHound AI (NASDAQ:SOUN) offer investors up to 324% upside from their Oct.  16 close.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Great AI Stocks To Own In October 2026",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-great-ai-stocks-own-170953509.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-20",
+      "resumo": "Market Cap: HK$13. 2b\n\nMarketingforce Management provides exposure to AI in the marketing stack, with its cloud-based DHR platform using machine learning and NLP to tune campaigns and customer journeys instead of focusing on generic software tools.  Profitability and recent revenue and earnings figures support that AI focus.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
