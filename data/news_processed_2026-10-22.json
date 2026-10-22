@@ -3,85 +3,15 @@
     "versao": "1.0",
     "data": "2026-10-22",
     "total_noticias": 10,
-    "gerado_em": "2026-10-22T08:16:37.431379"
+    "gerado_em": "2026-10-22T14:53:18.207549"
   },
   "noticias": [
     {
-      "titulo": "Nasdaq leads gains as SpaceX, Super Micro results improve AI appetite",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-leads-gains-spacex-super-142805507.html",
+      "titulo": "Is the AI Stock Market Bubble Close to Bursting? Yardeni Research Says Risks Remain Limited",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-market-bubble-close-113300851.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-10-21",
-      "resumo": "1.  Crypto\n2.  AI\n\nReuters\n\n# Nasdaq leads gains as SpaceX, Super Micro results improve AI appetite\n\nBy Purvi Agarwal and Tharuniyaa Lakshmi\n\n3 min read\n\n SPCX\n\n  +9.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock market today: Dow, S&P 500, Nasdaq rise as tech rallies, SpaceX stock surges nearly 8%",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-21",
-      "resumo": "1.  Crypto\n2.  AI\n\nYahoo Finance\n\n# Stock market today: Dow, S&P 500, Nasdaq rise as tech rallies, SpaceX stock surges nearly 8%\n\nInes Ferré  and David Hollerith\n\nUpdated 1 min read\n\n ^GSPC\n\n  +0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "A $4 Billion Reason to Buy TSMC Stock Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-billion-reason-buy-tsmc-145139543.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-20",
-      "resumo": "1.  Crypto\n2.  AI\n\nBarchart\n\n# A $4 Billion Reason to Buy TSMC Stock Now\n\nNauman Khan\n\n5 min read\n\n TSM\n\n  +1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq futures lead gains as SpaceX, Super Micro results lift AI trade",
-      "url": "https://www.reuters.com/legal/transactional/nasdaq-futures-lead-gains-spacex-super-micro-results-lift-ai-trade-2026-10-21",
-      "fonte": "reuters.com",
-      "data": "2026-10-21",
-      "resumo": "Skip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Futures tied to the tech-heavy Nasdaq led gains on Wednesday as ​results from SpaceX and Super Micro Computer revived the AI trade, while Netflix slipped after its forecast ‌failed to impress investors. \n\nElon Musk's rocket and space technology firm (SPCX. O), opens new tab rose 9.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stocks See Support from Positive AI News, with SpaceX up +9%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-see-support-positive-ai-151308580.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-21",
-      "resumo": "US Stock Movers\n\nThe Magnificent Seven are mixed today.  Leaders include Tesla (TSLA), with a +3% gain, and Nvidia (NVDA), Meta (META), and Apple (AAPL), with gains of more than +1%.  Alphabet (GOOGL) is down more than -2%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Meta’s AI Momentum Meets a Market Already Pricing in Strong Earnings | Investing.com",
-      "url": "https://www.investing.com/analysis/metas-ai-momentum-meets-a-market-already-pricing-in-strong-earnings-200690004",
-      "fonte": "investing.com",
-      "data": "2026-10-21",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| FMC | 4.",
+      "data": "2026-10-22",
+      "resumo": "In addition to Treasury yields and credit conditions, Yardeni Research plans to examine third-quarter earnings reports from major hyperscale technology companies. \n\nThe firm will look for evidence of unused computing infrastructure or excess capacity, which could provide information about the relationship between AI investment and demand for computing services. \n\nHyperscalers have been investing in data centres and other infrastructure to support artificial intelligence workloads.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -91,11 +21,25 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Prediction: TSMC Stock Is Going to $1,200 by 2030",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-going-1-130801661.html",
+      "titulo": "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-stock-2026-173209374.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-10-21",
-      "resumo": "1.  Crypto\n2.  AI\n\nMotley Fool\n\n# Prediction: TSMC Stock Is Going to $1,200 by 2030\n\nHarsh Chauhan, The Motley Fool\n\n5 min read\n\n TSM\n\n  +1.",
+      "data": "2026-10-19",
+      "resumo": "In FY 2026, ended Jan.  31, revenue reached $1. 0 billion, a growth rate of 21.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Our Pick Of The Best AI Stocks In October 2026",
+      "url": "https://finance.yahoo.com/technology/ai/articles/pick-best-ai-stocks-october-031730690.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-22",
+      "resumo": "Advanced Micro Devices is a global chip designer focused on high performance computing, with its strongest AI infrastructure link coming from AMD Instinct accelerators and EPYC server processors used in data centers for AI training and inference.  The firm generated about US$22. 2b from Data Center products, US$11.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -105,25 +49,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Trajan Wealth CIO David Busch Talks AI, Earnings, and Inflation Before Fed Meets",
-      "url": "https://finance.yahoo.com/video/trajan-wealth-cio-david-busch-142523656.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-21",
-      "resumo": "How much longer can the AI trade continue, and what should investors be watching as earnings season unfolds. In this NYSE Live interview, David Busch, Chief Investment Officer at Trajan Wealth, discusses the next phase of artificial intelligence investing, key earnings reports, Federal Reserve policy, and the economic risks that could shape markets in the months ahead. Busch begins by highlighting the importance of earnings season, particularly results from major technology companies that sit at the center of the AI ecosystem.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Just Posted Record Profit for the Sixth Straight Quarter. Why Did the Stock Fall?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-just-posted-record-profit-025002550.html",
+      "titulo": "2 Tech Stocks to Buy Now and Hold for a Decade (Hint: 1 Isn't in the AI Trade)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-tech-stocks-buy-now-153700180.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-16",
-      "resumo": "While AI demand is clearly supporting its growth, the company's wide economic moat as the dominant third-party manufacturer supports its long-term growth and pricing power, and chip demand is likely to continue to grow as new products like robotics come on the market. \n\nCurrently, the stock trades at a price-to-earnings ratio of just 32, which is only modestly more expensive than the S&P 500, and its strong growth rate seems likely to persist at least through the rest of the decade, given the plans of customers like Nvidia, AMD, and Broadcom. \n\nThe stock's sell-off today might be discouraging, but it shouldn't dissuade long-term investors from owning the stock.",
+      "resumo": "1.  Crypto\n2.  AI\n\nMotley Fool\n\n# 2 Tech Stocks to Buy Now and Hold for a Decade (Hint: 1 Isn't in the AI Trade)\n\nWill Healy, The Motley Fool\n\n5 min read\n\n AMZN\n\n  -0.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -133,12 +63,82 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "4 Stocks to Watch This Earnings Season Beyond Big Tech and AI | Investing.com",
-      "url": "https://www.investing.com/analysis/4-stocks-to-watch-this-earnings-season-beyond-big-tech-and-ai-200689838",
-      "fonte": "investing.com",
+      "titulo": "XAIX - Cotação Hoje | Xtrackers Artificial Intelligence and Big Data - Investing.com",
+      "url": "https://br.investing.com/etfs/xaix-nasdaq",
+      "fonte": "br.investing.com",
+      "data": "2026-10-20",
+      "resumo": "Market Movers\n\n| Nome | Último | Var.  % | Vol.  |\n ---  --- |\n| Petrobras PN | 57,75 | -0,79% | 37,09M |\n| Vale ON | 64,03 | -2,15% | 28,93M |\n| Itaú Unibanco PN | 48,90 | +0,20% | 29,76M |\n| Weg ON | 45,21 | -7,34% | 28,05M |\n| B3 ON | 23,51 | -0,84% | 42,37M |\n| Magazine Luiza ON | 13,04 | -3,98% | 72,53M |\n| Bradesco PN | 20,65 | -0,15% | 40,81M |\n\n| Nome | Último | Var.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-posts-record-q3-223600229.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-16",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nZacks\n\n# Taiwan Semiconductor Posts Record Q3 Results: Time to Buy the Dip.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq Futures Fall After Disappointing AI Earnings - WSJ",
+      "url": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7",
+      "fonte": "wsj.com",
+      "data": "2026-10-22",
+      "resumo": "Artificial-intelligence stocks slid across the globe and investors turned to the safety of Treasurys, as a renewed selloff in French government bonds and a fresh run-up in oil prices strained markets. \n\nNasdaq futures dropped 1. 7% after a bevy of earnings releases from AI companies disappointed investors and put an abrupt stop to Wednesday’s relief rally.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC’s Profit Soars 69%, but Can its Next Chip Breakthrough Justify the Valuation?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-profit-soars-69-next-134131519.html",
+      "fonte": "finance.yahoo.com",
       "data": "2026-10-19",
-      "resumo": "US10YT=X+0. 57%\n\nUSGV10YUSAB=R0. 00%\n\nACI0.",
+      "resumo": "4 min read\n\n TSM\n\n  +2. 21%\n AMAT\n\n  +3. 49%\n TSM\n\n  +2.",
       "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c",
+      "fonte": "wsj.com",
+      "data": "2026-10-21",
+      "resumo": "A trio of the biggest names in AI gave investors reasons to love tech stocks again this week, shaking the volatile sector out of its recent malaise. \n\nElon Musk reported SpaceX SPCX 7. 79%increase; up pointing triangle is now profitable and said the firm might merge with Tesla TSLA 3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20",
+      "fonte": "reuters.com",
+      "data": "2026-10-20",
+      "resumo": "The vast majority ​of this year's net loss, $72 billion, resulted from accounting charges tied ​to changes in the value of convertible notes and other instruments the company issued to raise funding, the Journal report said. \n\nThe report ​comes as investors sharpen scrutiny of AI companies' finances ​as they pour money into chips, data centers and computing power needed ‌to ⁠develop and operate increasingly powerful models. \n\nAnthropic's third-quarter revenue rose 45% to $16.",
+      "sentimento": "bearish",
       "tags": [
         "AI",
         "Market"
