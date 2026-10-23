@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-23",
+    "total_noticias": 4,
+    "gerado_em": "2026-10-23T08:13:51.551620"
+  },
+  "noticias": [
+    {
+      "titulo": "4 Stocks With Demand So Sticky That the AI Sell-Off Barely Touched Them at All",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/4-stocks-demand-sticky-ai-112500305.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-20",
+      "resumo": "Artificial intelligence (AI) stocks just took a punch, and the damage spread fast.  CoreWeave (NASDAQ: CRWV) was hammered on fears that demand may not show up, while Dell Technologies (NYSE: DELL), Hewlett Packard Enterprise (NYSE: HPE), and Micron Technology (NASDAQ: MU) slid right along with it. \n\nSoftware is telling a different story.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "CLOU - Cotação Hoje | Global X Cloud Computing - Investing.com",
+      "url": "https://br.investing.com/etfs/global-x-cloud-computing",
+      "fonte": "br.investing.com",
+      "data": "2026-10-20",
+      "resumo": "| Nome | Último | Var.  % | Vol.  |\n ---  --- |\n| General Shopping ON | 3,80 | -20,50% | 1,00mil |\n| Nutriplant ON | 3,54 | -19,18% | 28,90mil |\n| Azul Unt | 4,50 | -16,67% | 31,00 |\n| SJ AU Logistica FII | 0,56 | -15,15% | 13,76mil |\n| Azul Unt | 3,00 | -12,54% | 2,98mil |\n| MRS Logistica B | 34,50 | -12,41% | 13,00 |\n| Azul Unt | 3,03 | -12,17% | 4,33mil |\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
+      "url": "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-merger-reshape-musk-181603033.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-21",
+      "resumo": "It would be Musk's third consolidation since March 2025, when xAI absorbed X (formerly Twitter).  In February, SpaceX swallowed xAI in a deal valuing the AI company at $250 billion, weeks after Tesla put about $2 billion into it; in June, SpaceX went public in the largest IPO ever. \n\nSpaceX reported third-quarter revenue of $14.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Monroe Capital Won’t Touch AI Data Centers. Blue Owl Is Doubling Down",
+      "url": "https://finance.yahoo.com/technology/ai/articles/monroe-capital-won-t-touch-205906491.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-17",
+      "resumo": "Blue Owl Capital (NYSE:OWL) is doubling down on AI infrastructure as a rare opportunity that investors may not always be able to pursue, Bloomberg reported. \n\nSpeaking in a separate interview, Lipschultz highlighted data centers as a key driver of that potential.  He added that Blue Owl's real assets division, which includes its digital infrastructure real estate vehicle, has become the firm's fastest-growing business segment.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

@@ -1,76 +1,4 @@
 {
-  "https://www.reuters.com/world/asia-pacific/tsmc-expected-report-sixth-straight-quarter-record-profit-thanks-ai-boom-2026-10-14/": {
-    "hash": "86650147cf18dfd5197f63e78e2e04e3",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html": {
-    "hash": "f9ba10aee2b06a3c408ea95ce383e561",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.investing.com/news/stock-market-news/nvidia-ceo-says-he-would-stop-chip-supply-for-companies-with-unsafe-ai-4949841": {
-    "hash": "3af33c925d63069b5cce6eebb2a5ae0b",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html": {
-    "hash": "39623f332725ce43b4f73ec816008393",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.businessinsider.com/kospi-stock-index-price-today-sk-hynix-samsung-stock-selloff-2026-10": {
-    "hash": "18f99ef997a62f3036ae19724fee47b9",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.bloomberg.com/news/articles/2026-10-15/tsmc-s-profit-surpasses-expectations-after-ai-orders-rush-in": {
-    "hash": "16df63bd59c82343ab21f4203744b34e",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.businessinsider.com/anthropic-reveals-16-8b-revenue-amid-ipo-preparations-2026-10": {
-    "hash": "c8a88125fed2f9f24ade1edc2b87647e",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html": {
-    "hash": "709d3326d437bf9e1d112d94fb040515",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html": {
-    "hash": "26d7dc1cf157c28514fe46400653d815",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.cnbc.com/investingclub/2026/10/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html": {
-    "hash": "ece1fce743ba319ef1536ef6d2c9d4fb",
-    "visto_em": "2026-10-15"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/improved-earnings-momentum-altering-investment-061804686.html": {
-    "hash": "0ec22112843e5d65293f88ad910c7dcb",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.cnbc.com/2026/10/15/coreweave-stock-deutsche-bank-buy-rating.html": {
-    "hash": "3c00dde65088bb1c129721ae3e99cd26",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026": {
-    "hash": "0a1b5780072caa0174918b7eff2c67cf",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.forbes.com/sites/bill_stone/2026/10/09/why-the-ai-stock-market-may-not-be-a-bubble": {
-    "hash": "c8667332b331838172cb41e90034c62b",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.cnbc.com/video/2026/10/15/nasdaq-futures-fall-as-tech-shares-drop-on-fears-of-ai-overspending-traders-await-more-us-data.html": {
-    "hash": "63b4b117ac79be5cda177f4bb5c832a2",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.reuters.com/business/sp-500-dow-futures-rise-ahead-big-bank-results-cpi-data-2026-10-14/": {
-    "hash": "4889c9d9c7a3c90b878ad1b0d87da8fe",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.benzinga.com/markets/tech/26/10/62374615/micron-stock-slides-again-thursday-whats-going-on": {
-    "hash": "013d6af6c47f65ce880266b1ae6cbe83",
-    "visto_em": "2026-10-15"
-  },
-  "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html": {
-    "hash": "168714ebfc1ed09dd6e7d3a461538ea4",
-    "visto_em": "2026-10-15"
-  },
   "https://ca.finance.yahoo.com/news/robust-tsmc-earnings-help-settle-101010790.html": {
     "hash": "2ae07c20342774816272173c7b7cc8fe",
     "visto_em": "2026-10-16"
@@ -538,5 +466,21 @@
   "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20": {
     "hash": "25f256f03cd3908666251fd0eefdbf9e",
     "visto_em": "2026-10-22"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/4-stocks-demand-sticky-ai-112500305.html": {
+    "hash": "287e6052aa32c6aa33be7a97041cca6f",
+    "visto_em": "2026-10-23"
+  },
+  "https://br.investing.com/etfs/global-x-cloud-computing": {
+    "hash": "1a5bdcd4ae97866afe26e7b3b7b61572",
+    "visto_em": "2026-10-23"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-merger-reshape-musk-181603033.html": {
+    "hash": "d656a15d8c5dab2e5f2a0c653e1f6890",
+    "visto_em": "2026-10-23"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/monroe-capital-won-t-touch-205906491.html": {
+    "hash": "a8b4e32154cfe996c5c548c0be27f548",
+    "visto_em": "2026-10-23"
   }
 }
