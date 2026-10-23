@@ -1,79 +1,166 @@
 # Newsletter IA Bolsa — 2026-10-23
 
-**Gerado em:** 23/10/2026 08:13
-**Total:** 4 noticias
+**Gerado em:** 23/10/2026 14:41
+**Total:** 8 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. 4 Stocks With Demand So Sticky That the AI Sell-Off Barely Touched Them at All
+## 1. Brazil stocks lower at close of trade; Bovespa down 1.15%
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| MRNA | 202.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-115-4967430)
+
+---
+
+## 2. Earnings flood, Fed meeting pose pivotal tests for rickety AI market rally
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Artificial intelligence (AI) stocks just took a punch, and the damage spread fast.  CoreWeave (NASDAQ: CRWV) was hammered on fears that demand may not show up, while Dell Technologies (NYSE: DELL), Hewlett Packard Enterprise (NYSE: HPE), and Micron Technology (NASDAQ: MU) slid right along with it. 
+1.  Crypto
+2.  AI
 
-Software is telling a different story.
+Reuters
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/4-stocks-demand-sticky-ai-112500305.html)
+# Earnings flood, Fed meeting pose pivotal tests for rickety AI market rally
+
+By Lewis Krauskopf
+
+4 min read
+
+ META
+
+  -6.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/earnings-flood-fed-meeting-pose-100557196.html)
 
 ---
 
-## 2. CLOU - Cotação Hoje | Global X Cloud Computing - Investing.com
+## 3. Brazil stocks higher at close of trade; Bovespa up 1.57%
 
-**Fonte:** br.investing.com  
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| GM | 77.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-157-4961070)
+
+---
+
+## 4. Brazil stocks lower at close of trade; Bovespa down 0.86%
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| T | 21.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-086-4964019)
+
+---
+
+## 5. Ibovespa USD Index Today (BVSPUSD) - Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Moving Averages
+
+Strong Sell
+
+Sell
+
+Neutral
+
+Buy
+
+Strong Buy
+
+Strong Sell
+
+## ProPicks AI
+
+Stocks Picked by AI
+
+## ProPicks AI
+
+Stocks Picked by AI
+
+Beat the S&P 500
+
+View Strategy
+
+Picked from S&P 500, refined by AI.  This strategy studies all 500 stocks, then selects the elite 20 most likely to outperform the market in the next month. 
+
+Total Return+1,234.
+
+[Ler noticia completa](https://www.investing.com/indices/ibovespa-usd)
+
+---
+
+## 6. Nasdaq futures drop over 1% as AI worries resurface, oil climbs | Reuters
+
+**Fonte:** reuters.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-| Nome | Último | Var.  % | Vol.  |
- ---  --- |
-| General Shopping ON | 3,80 | -20,50% | 1,00mil |
-| Nutriplant ON | 3,54 | -19,18% | 28,90mil |
-| Azul Unt | 4,50 | -16,67% | 31,00 |
-| SJ AU Logistica FII | 0,56 | -15,15% | 13,76mil |
-| Azul Unt | 3,00 | -12,54% | 2,98mil |
-| MRS Logistica B | 34,50 | -12,41% | 13,00 |
-| Azul Unt | 3,03 | -12,17% | 4,33mil |
+Oct 22 (Reuters) - Nasdaq futures slid more than 1% on Thursday as high-growth stocks faced ‌renewed pressure after earnings from Tesla and Meta Platforms did little to allay concerns over AI spending, while a rebound in oil prices further dampened sentiment. 
 
-Anúncio
+The weakness follows a strong session on ​Wednesday when the tech-heavy Nasdaq led Wall Street higher as robust results ​from SpaceX (SPCX. O) and Super Micro (SMCI.
 
-ProPicks IA
-
-Seleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500.
-
-[Ler noticia completa](https://br.investing.com/etfs/global-x-cloud-computing)
+[Ler noticia completa](https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22)
 
 ---
 
-## 3. How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire
+## 7. 3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-It would be Musk's third consolidation since March 2025, when xAI absorbed X (formerly Twitter).  In February, SpaceX swallowed xAI in a deal valuing the AI company at $250 billion, weeks after Tesla put about $2 billion into it; in June, SpaceX went public in the largest IPO ever. 
+Three stocks that may be tempting options to buy on the dip and that have tremendous growth opportunities related to AI are ASML Holding (NASDAQ:ASML), Taiwan Semiconductor Manufacturing (NYSE:TSM), and Broadcom (NASDAQ:AVGO). 
 
-SpaceX reported third-quarter revenue of $14.
+Missed Nvidia in 2009.  This Rare Signal Is Flashing Again.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/spacex-tesla-merger-reshape-musk-181603033.html)
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/3-artificial-intelligence-ai-stocks-190502789.html)
 
 ---
 
-## 4. Monroe Capital Won’t Touch AI Data Centers. Blue Owl Is Doubling Down
+## 8. TSM Stock Price | Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote (U.S.: NYSE) | MarketWatch
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** marketwatch.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Blue Owl Capital (NYSE:OWL) is doubling down on AI infrastructure as a rare opportunity that investors may not always be able to pursue, Bloomberg reported. 
+## Competitors
 
-Speaking in a separate interview, Lipschultz highlighted data centers as a key driver of that potential.  He added that Blue Owl's real assets division, which includes its digital infrastructure real estate vehicle, has become the firm's fastest-growing business segment.
+| Name | Chg % | Market Cap |
+ --- 
+| NVIDIA Corp.  | -4. 40% | $5.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/monroe-capital-won-t-touch-205906491.html)
+[Ler noticia completa](https://www.marketwatch.com/investing/stock/tsm)
 
 ---
