@@ -1,76 +1,4 @@
 {
-  "https://ca.finance.yahoo.com/news/robust-tsmc-earnings-help-settle-101010790.html": {
-    "hash": "2ae07c20342774816272173c7b7cc8fe",
-    "visto_em": "2026-10-16"
-  },
-  "https://www.investing.com/analysis/tsmcs-record-earnings-show-ai-demand-is-outrunning-rate-concerns-200689670": {
-    "hash": "e96706ba777f83bde41aa35b45ada237",
-    "visto_em": "2026-10-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/article/tsmc-posts-record-profit-amid-extremely-robust-demand-for-ai-chips-104536579.html": {
-    "hash": "0db78125000b13e98705a0789c4cf5c5",
-    "visto_em": "2026-10-16"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-reports-record-q3-profit-102421693.html": {
-    "hash": "0f13185bfe6ab82c402aea13b3bd8b91",
-    "visto_em": "2026-10-16"
-  },
-  "https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930": {
-    "hash": "09df5eb9dd1c7a2d4896e59d80e86123",
-    "visto_em": "2026-10-16"
-  },
-  "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374": {
-    "hash": "de4a2a613f8f1a6125c433785c827ce3",
-    "visto_em": "2026-10-16"
-  },
-  "https://www.wsj.com/economy/u-k-economy-continues-growth-path-helped-by-industry-a3e7497f": {
-    "hash": "0d06f4a23a4a4068c0a3762ccc23003f",
-    "visto_em": "2026-10-16"
-  },
-  "https://www.cnbc.com/2026/10/16/cnbc-daily-open-ai-inflation-coreweave-.html": {
-    "hash": "fc88c744877e7a270a580e96c2085e3c",
-    "visto_em": "2026-10-16"
-  },
-  "https://www.investing.com/news/stock-market-news/asia-stocks-rebound-as-chipmakers-recover-while-indonesia-rout-deepens-4953029": {
-    "hash": "abc76b7a1fd7294d5eb61e7fbb5594d2",
-    "visto_em": "2026-10-16"
-  },
-  "https://www.cnbc.com/video/2026/10/15/data-centers-a-key-midterm-election-issue.html": {
-    "hash": "df54f203494a5d358283cf3a7d38e072",
-    "visto_em": "2026-10-16"
-  },
-  "https://www.reuters.com/legal/transactional/wall-st-week-ahead-ai-rally-wobbles-stock-markets-spotlight-turns-earnings-2026-10-16/": {
-    "hash": "d62ff599bd428a9936308eb5f168167d",
-    "visto_em": "2026-10-16"
-  },
-  "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html": {
-    "hash": "1470c0a8d5197d09fbf23cde3323e5ab",
-    "visto_em": "2026-10-16"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/fournet-expands-65m-customer-experience-060000743.html": {
-    "hash": "9fe6a1a1145f70b891b13440374c132a",
-    "visto_em": "2026-10-16"
-  },
-  "https://www.reuters.com/legal/transactional/cohere-moves-buy-ai-cybersecurity-startup-aisle-2026-10-15": {
-    "hash": "c2b05faf93bbeba44f43678cb32d1e84",
-    "visto_em": "2026-10-16"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/rocket-software-announces-acquisition-geniez-123300832.html": {
-    "hash": "217133535b81d9ea8335f5e97fa33d1b",
-    "visto_em": "2026-10-16"
-  },
-  "https://seekingalpha.com/news/4653366-tsmcs-q3-results-outlook-pave-path-for-banner-year-in-2027-analysts": {
-    "hash": "e75c073554dfccfc0605d2db8d2b02e5",
-    "visto_em": "2026-10-16"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/amazon-talks-acquire-ai-startup-235502420.html": {
-    "hash": "2b888fd1244e3d038f4d00d13685ee8e",
-    "visto_em": "2026-10-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/dot-ai-completes-65-million-145056168.html": {
-    "hash": "89931789abd60c764f8bc8c5f8174a8d",
-    "visto_em": "2026-10-16"
-  },
   "https://www.investing.com/analysis/nasdaq-faces-weekly-loss-as-ai-stock-selloff-tests-wall-street-rally-200689736": {
     "hash": "aa929f609f8e862f99562fd916df09c6",
     "visto_em": "2026-10-17"
@@ -514,5 +442,33 @@
   "https://www.marketwatch.com/investing/stock/tsm": {
     "hash": "b52acc5271833c85ae91dfabeec5220f",
     "visto_em": "2026-10-23"
+  },
+  "https://finance.yahoo.com/real-estate/articles/3-us-data-center-reit-151526841.html": {
+    "hash": "cab7348643b81dade1e34f7640c97c03",
+    "visto_em": "2026-10-24"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-steady-ai-selloff-084400333.html": {
+    "hash": "1ddbc654b94e12a7b7f2d5f0d4a7832d",
+    "visto_em": "2026-10-24"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-121300756.html": {
+    "hash": "2776911b0e3b18707c0f4c564436d74e",
+    "visto_em": "2026-10-24"
+  },
+  "https://www.reuters.com/business/wall-st-week-ahead-earnings-flood-fed-meeting-pose-pivotal-tests-rickety-ai-2026-10-23": {
+    "hash": "3ea06d05e7abc0d4e73497031c591ce7",
+    "visto_em": "2026-10-24"
+  },
+  "https://sg.finance.yahoo.com/news/another-ai-power-stock-plunges-233752695.html": {
+    "hash": "40de7d875d59be36e55e2af1786a3273",
+    "visto_em": "2026-10-24"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/1-reason-tsmc-stock-could-090300726.html": {
+    "hash": "12dded92b32c7be85f46821291eea1d4",
+    "visto_em": "2026-10-24"
+  },
+  "https://markets.businessinsider.com/news/stocks/vdr-ai-partners-with-llm-co-to-deliver-custom-ai-hardware-and-private-llm-deployments-for-financial-institutions-1036652090": {
+    "hash": "6732cc3b6373646e5c03ab3776218af1",
+    "visto_em": "2026-10-24"
   }
 }

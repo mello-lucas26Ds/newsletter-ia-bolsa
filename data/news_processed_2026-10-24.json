@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-24",
+    "total_noticias": 7,
+    "gerado_em": "2026-10-24T07:52:09.339499"
+  },
+  "noticias": [
+    {
+      "titulo": "3 US Data Center REIT Stocks Riding The AI Infrastructure Buildout",
+      "url": "https://finance.yahoo.com/real-estate/articles/3-us-data-center-reit-151526841.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-23",
+      "resumo": "If you want to move straight from headlines to hard filters and side-by-side comparisons, head into the US Data-Center Real Estate Investment Trusts (REITs) screener to identify, analyze, and focus on the data-center REITs that best fit your own thesis. \n\n## Equinix (EQIX)\n\nOverview: Equinix operates a global network of data centers that host and interconnect cloud, AI, and enterprise workloads for customers worldwide. \n\nOperations: Almost all revenue, about US$9.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq Futures Steady as AI Selloff Pauses",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-steady-ai-selloff-084400333.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-23",
+      "resumo": "Futures for the tech-heavy Nasdaq inched up 0. 2%, but global AI stocks struggled to mount a significant rally.  The Kospi in South Korea nudged up 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Zacks Investment Ideas feature highlights: Taiwan Semiconductor Manufacturing",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-121300756.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-20",
+      "resumo": "Nvidia and other technology giants rely on TSMC because of its unmatched scale and expertise.  Plus, they know that Taiwan Semi is not aiming to compete against them in the chip design business. \n\nTaiwan Semi is racing to address one of its only potential shortfalls: geopolitical fears, by expanding its manufacturing footprint outside of Taiwan into the U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall St Week Ahead Earnings flood, Fed meeting pose pivotal tests for rickety AI market rally | Reuters",
+      "url": "https://www.reuters.com/business/wall-st-week-ahead-earnings-flood-fed-meeting-pose-pivotal-tests-rickety-ai-2026-10-23",
+      "fonte": "reuters.com",
+      "data": "2026-10-23",
+      "resumo": "NEW YORK, Oct 23 (Reuters) - US stock investors face a pivotal week, with corporate earnings reports led by major AI players and a Federal Reserve meeting both posing critical tests ​for a suddenly shaky market rally. \n\nWeakness in technology shares left investors on edge about the state of the AI trade that has driven the US equity bull ‌market that just marked its fourth anniversary. \n\nSign up here.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Another AI power stock plunges 11% despite earnings beat",
+      "url": "https://sg.finance.yahoo.com/news/another-ai-power-stock-plunges-233752695.html",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-10-23",
+      "resumo": "The sell-off comes as investors grow increasingly sensitive to AI-related headlines.  Meta Platforms (META) shares also fell this week following its latest earnings report, as concerns over the cost of massive AI investments overshadowed strong results. \n\nBloom Energy makes fuel-cell systems that supply electricity to data centers and semiconductor factories.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "1 Reason TSMC Stock Could Rally After Its Record Quarter",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-reason-tsmc-stock-could-090300726.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-18",
+      "resumo": "Consider when Netflix made this list on December 17, 2004.  if you invested $1,000 at the time of our recommendation, you'd have $380,363. \\ Or when Nvidia made this list on April 15, 2005.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "VDR.ai Partners with LLM.co to Deliver Custom AI Hardware and Private LLM Deployments for Financial Institutions | Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/vdr-ai-partners-with-llm-co-to-deliver-custom-ai-hardware-and-private-llm-deployments-for-financial-institutions-1036652090",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-10-22",
+      "resumo": "Rather than functioning solely as a secure document repository, VDR. ai enables transaction professionals to search, analyze, summarize, and cross-reference complex financial information. \n\nPotential applications include mergers and acquisitions, private equity investments, capital raising, credit underwriting, and institutional financial research.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
