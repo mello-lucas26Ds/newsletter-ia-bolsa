@@ -2,10 +2,80 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-24",
-    "total_noticias": 80,
-    "gerado_em": "2026-10-24T07:52:09.341157"
+    "total_noticias": 85,
+    "gerado_em": "2026-10-24T13:50:58.960928"
   },
   "noticias": [
+    {
+      "titulo": "Stocks Rally on Positive AI News, with SpaceX up +7%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-positive-ai-news-204908262.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-21",
+      "resumo": "US Stock Movers\n\nThe Magnificent Seven closed mixed on Wednesday.  Leaders were Tesla (TSLA) and Meta (META), while the laggard was Alphabet (GOOGL) with a decline of -1. 5%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Artificial-Intelligence Stocks Pause Selloff After Nasdaq Slump - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-steady-as-ai-selloff-pauses-275c6454",
+      "fonte": "wsj.com",
+      "data": "2026-10-23",
+      "resumo": "Investors paused a selloff in artificial-intelligence stocks after the Nasdaq notched its worst day since June in the previous session, but sentiment was muted as oil prices continued to rise. \n\nFutures for the tech-heavy Nasdaq inched up 0. 2%, but global AI stocks struggled to mount a significant rally.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Equinix, Inc. (EQIX) Latest Stock News & Headlines - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/EQIX/news",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "1.  Crypto\n2.  AI\n\nNasdaqGS - Nasdaq Real Time Price • USD \n\n# Equinix, Inc.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/TSM",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-24",
+      "resumo": "AMD  Advanced Micro Devices, Inc. \n\n516. 79 +1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AMD vs. TSMC: How Much Faster Must AMD’s Cash Flow Grow?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-tsmc-much-faster-185640358.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-19",
+      "resumo": "AMD's growth opportunity is substantial.  Second-quarter data-center revenue reached $6. 72 billion, more than double a year earlier.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "3 US Data Center REIT Stocks Riding The AI Infrastructure Buildout",
       "url": "https://finance.yahoo.com/real-estate/articles/3-us-data-center-reit-151526841.html",
