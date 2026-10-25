@@ -1,72 +1,4 @@
 {
-  "https://www.investing.com/analysis/nasdaq-faces-weekly-loss-as-ai-stock-selloff-tests-wall-street-rally-200689736": {
-    "hash": "aa929f609f8e862f99562fd916df09c6",
-    "visto_em": "2026-10-17"
-  },
-  "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4953575": {
-    "hash": "31de21ea5ba0e17342061e2ae7ce00af",
-    "visto_em": "2026-10-17"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/ai-data-center-demand-puts-061625129.html": {
-    "hash": "b79646b8c92c0f06868f6ec55f6f56d1",
-    "visto_em": "2026-10-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/global-tech-selloff-deepens-enthusiasm-104622434.html": {
-    "hash": "71b87a3126284a474f3025a30b5a6bd1",
-    "visto_em": "2026-10-17"
-  },
-  "https://www.investing.com/analysis/ai-concerns-take-centre-stage-as-tech-stocks-extend-slide-200689641": {
-    "hash": "246eb4160d6daab29bf1cc66d0e3ff8c",
-    "visto_em": "2026-10-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/meet-nasdaq-100-stock-crushing-112502885.html": {
-    "hash": "184baa7adbdb443c89106f125e6e66ad",
-    "visto_em": "2026-10-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/history-says-happens-taiwan-semiconductor-143432769.html": {
-    "hash": "1c3274c1e5ada49406018f99d422eaa2",
-    "visto_em": "2026-10-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/article/tsmc-stock-drops-despite-record-profit-amid-extremely-robust-demand-for-ai-chips-152649370.html": {
-    "hash": "850c91299eabd11777491b0bcf596729",
-    "visto_em": "2026-10-17"
-  },
-  "https://ng.investing.com/indices/bovespa": {
-    "hash": "22c180fd4b869f5ab210b4b54b20e361",
-    "visto_em": "2026-10-17"
-  },
-  "https://finance.yahoo.com/markets/article/great-results-wont-be-good-enough-for-this-ai-earnings-season-100000670.html": {
-    "hash": "8688f772625dfb9aa0d3b4a7eb5c6781",
-    "visto_em": "2026-10-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-non-083000801.html": {
-    "hash": "cf87ed29b484c40d52d4d9bbcefde584",
-    "visto_em": "2026-10-17"
-  },
-  "https://www.investing.com/equities/taiwan-semicond.manufacturing-co-earnings": {
-    "hash": "71ff682a3d613d0030bf6e7259dc1c14",
-    "visto_em": "2026-10-17"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-posts-record-quarterly-profit-093339281.html": {
-    "hash": "7c95bd3fc7f115cf9ab27aedb3d22493",
-    "visto_em": "2026-10-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/corporate-profits-soared-fueled-ai-152726452.html": {
-    "hash": "032808cf042f6f3cf1fbb4d04a8ac3b7",
-    "visto_em": "2026-10-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/cracks-beginning-show-stock-market-153819862.html": {
-    "hash": "bf2f8e008a63abfbdac46d49d20715dd",
-    "visto_em": "2026-10-17"
-  },
-  "https://seekingalpha.com/article/4953779-more-than-hyperscale-scale-capex-in-the-ai-buildout": {
-    "hash": "ff711be16fe53aab12e8e9c2d6d62c33",
-    "visto_em": "2026-10-17"
-  },
-  "https://finance.yahoo.com/real-estate/articles/ai-boom-landlord-3-reits-111536278.html": {
-    "hash": "e59ad4f6870bae558dc74b5004de6f50",
-    "visto_em": "2026-10-17"
-  },
   "https://finance.yahoo.com/technology/ai/articles/tsmc-says-ai-chip-demand-031701844.html": {
     "hash": "f55a316707d5515c5b3184339e7beabf",
     "visto_em": "2026-10-18"
@@ -490,5 +422,25 @@
   "https://finance.yahoo.com/markets/stocks/articles/amd-vs-tsmc-much-faster-185640358.html": {
     "hash": "2739dc7c691d29ac781040f97d9d52a8",
     "visto_em": "2026-10-24"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/equinix-earnings-preview-expect-115221771.html": {
+    "hash": "b33f1e6cf64fda01468d874e1cc572b7",
+    "visto_em": "2026-10-25"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dives-750-points-investors-201222190.html": {
+    "hash": "8edd1f0ea66a87bff9609bba41aecd60",
+    "visto_em": "2026-10-25"
+  },
+  "https://www.investing.com/indices/nq-100-technology-sector": {
+    "hash": "1df4b14fbd0684ed942988427b84b772",
+    "visto_em": "2026-10-25"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/ultimate-ai-investing-basket-4-165000179.html": {
+    "hash": "852c529e2951c0443b40f5a3960df077",
+    "visto_em": "2026-10-25"
+  },
+  "https://finance.yahoo.com/real-estate/articles/4-data-center-reits-growing-170026421.html": {
+    "hash": "211c697635640cc8e4b292a79809128a",
+    "visto_em": "2026-10-25"
   }
 }
