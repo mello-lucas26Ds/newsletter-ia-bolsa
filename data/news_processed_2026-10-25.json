@@ -3,15 +3,15 @@
     "versao": "1.0",
     "data": "2026-10-25",
     "total_noticias": 5,
-    "gerado_em": "2026-10-25T08:04:51.925912"
+    "gerado_em": "2026-10-25T14:07:41.010091"
   },
   "noticias": [
     {
-      "titulo": "Equinix Earnings Preview: What to Expect",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-earnings-preview-expect-115221771.html",
+      "titulo": "TSMC or Nvidia: If I Could Only Own 1 for the Next 5 Years, It Would Be This 1.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-nvidia-could-only-own-042000648.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-24",
-      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nBarchart\n\n# Equinix Earnings Preview: What to Expect\n\nKritika Sarmah\n\n2 min read\n\n EQIX\n\n  +0.",
+      "resumo": "The same concentration risk applies to many other tech companies.  Regardless of who dominates the AI race between the AI hyperscalers (Amazon, Microsoft, Alphabet, and Meta Platforms), they'll all rely on TSMC for manufacturing.  That puts TSMC in a very lucrative position for at least the next five years, but even after the AI frenzy, it'll remain a key piece in the supply chain for tons of other electronics.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -21,11 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Nasdaq dives 750 points as investors reassess AI spending",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dives-750-points-investors-201222190.html",
+      "titulo": "3 AI Stocks That Can Beat the Nasdaq Composite in 2027",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-beat-nasdaq-095000093.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-10-22",
-      "resumo": "The Brookings Institution, a nonpartisan think tank, estimates that it will cost more than $10 trillion to develop AI infrastructure between 2025 and 2032.  That would amount to the largest tide of investment in U. S.",
+      "data": "2026-10-25",
+      "resumo": "Revenue in that segment surged by 145% year over year, and as it becomes a larger portion of total revenue, Maxlinear's overall sales should continue to accelerate.  Its Q3 forecast already points to this scenario, with the high end of $220 million in sales suggesting a 30% sequential growth rate. \n\nThis growth also comes as Maxlinear works on its margins.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -35,11 +35,25 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "NQ 100 Technology Sector Index Today (NDXT) - Investing.com",
-      "url": "https://www.investing.com/indices/nq-100-technology-sector",
+      "titulo": "This Company Behind the World’s AI Chips Could Be a Huge Winner",
+      "url": "https://finance.yahoo.com/technology/ai/articles/company-behind-world-ai-chips-133026013.html?fr=sycsrp_catchall",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-23",
+      "resumo": "1.  Crypto\n2.  AI\n\n24/7 Wall St.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.47%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-047-4970343",
       "fonte": "investing.com",
-      "data": "2026-10-22",
-      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| CRWD  CrowdStrike Holdings | 257. 57+19. 63+8.",
+      "data": "2026-10-23",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| LKQ | 17.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -49,25 +63,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "The Ultimate AI Investing Basket: 4 Stocks Primed to Skyrocket in 2027",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ultimate-ai-investing-basket-4-165000179.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-21",
-      "resumo": "Image source: Getty Images. \n\n \n\nWith the market selling off pretty much every stock associated with AI, now is the perfect time to swoop in and buy these stocks at a discount.  There are four that I think are nearly guaranteed winners in 2027: Taiwan Semiconductor Manufacturing (NYSE: TSM), Micron Technology (NASDAQ: MU), Nvidia (NASDAQ: NVDA), and Broadcom (NASDAQ: AVGO).",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "4 Data Center REITs With Growing Dividends and an AI Tailwind",
-      "url": "https://finance.yahoo.com/real-estate/articles/4-data-center-reits-growing-170026421.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-24",
-      "resumo": "Dividend safety: Management set the payout ratio at 50%, the most conservative in this group.  AFFO per share guidance is $42. 69 to $43.",
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.17%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-017-4958282",
+      "fonte": "investing.com",
+      "data": "2026-10-19",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| LKQ | 17.",
       "sentimento": "bullish",
       "tags": [
         "AI",
