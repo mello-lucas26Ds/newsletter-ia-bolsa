@@ -2,10 +2,80 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-26",
-    "total_noticias": 87,
-    "gerado_em": "2026-10-26T08:28:36.431532"
+    "total_noticias": 92,
+    "gerado_em": "2026-10-26T16:31:33.193101"
   },
   "noticias": [
+    {
+      "titulo": "AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-spending-fears-threaten-swamp-130000182.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-25",
+      "resumo": "In the face of that, tech giants valued at more than $10 trillion are scheduled to report earnings, including major AI spenders like Alphabet Inc. , Microsoft Corp.  and Amazon.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI investment boom now trails the 1990s tech cycle",
+      "url": "https://www.investing.com/news/economy-news/ai-investment-boom-now-trails-the-1990s-tech-cycle-4971793",
+      "fonte": "investing.com",
+      "data": "2026-10-26",
+      "resumo": "More News\n\nMarket Movers\n\nMost Active Gainers %Losers %\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| MU | 877.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI investment growth is expected to peak this quarter – Goldman Sachs (AMZN:NASDAQ) | Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4657159-ai-investment-growth-is-expected-to-peak-this-quarter-goldman-sachs",
+      "fonte": "seekingalpha.com",
+      "data": "2026-10-26",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# AI investment growth is expected to peak this quarter – Goldman Sachs\n\nStock market data and investment concept.  Financial growth graph, stock market candlestick bars on an abstract human hand made. \n\nsankai\n\nInvestment growth in artificial intelligence for hyperscalers is expected to peak in the upcoming weeks, according to Jan Hatzius, chief economist at Goldman Sachs.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The AI Conundrum: Massive AI Panic While TSMC's Profits Soar 69% (NYSE:TSM) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4955325-the-ai-conundrum-massive-ai-panic-while-tsmcs-profits-soar-69-percent",
+      "fonte": "seekingalpha.com",
+      "data": "2026-10-19",
+      "resumo": "This article was written by\n\nAnalyst’s Disclosure: I/we have a beneficial long position in the shares of TSM, NVDA, AVGO, AMD either through stock ownership, options, or other derivatives.  I wrote this article myself, and it expresses my own opinions.  I am not receiving compensation for it (other than from Seeking Alpha).",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bovespa Index (IBOV) - Investing.com NG",
+      "url": "https://ng.investing.com/indices/bovespa",
+      "fonte": "ng.investing.com",
+      "data": "2026-10-21",
+      "resumo": "Sell\n\nNeutral\n\nBuy\n\nStrong Buy\n\nBuy\n\n## Most Active Shares\n\n| Name | Last | Prev.  | High | Low | Chg.  % | Vol.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Equinix, Inc. (EQIX) latest stock news and headlines – Yahoo Finance",
       "url": "https://sg.finance.yahoo.com/quote/EQIX/news",
