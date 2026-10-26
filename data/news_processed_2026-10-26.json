@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-26",
+    "total_noticias": 7,
+    "gerado_em": "2026-10-26T08:28:36.429654"
+  },
+  "noticias": [
+    {
+      "titulo": "Equinix, Inc. (EQIX) latest stock news and headlines – Yahoo Finance",
+      "url": "https://sg.finance.yahoo.com/quote/EQIX/news",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-10-21",
+      "resumo": "All  News  Press releases  SEC filings\n\n 3 US Data Center REIT Stocks Riding The AI Infrastructure Buildout\n\n  ### 3 US Data Center REIT Stocks Riding The AI Infrastructure Buildout\n\n  Simply Wall St.  • 2 days ago\n\n  EQIX\n\n  +0. 25% DLRIRM\n Seeking Clues to Equinix (EQIX) Q3 Earnings.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "5 big analyst AI moves: ’Uniquely catalyst-rich’ months ahead for SpaceX",
+      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-uniquely-catalystrich-months-ahead-for-spacex-4970923",
+      "fonte": "investing.com",
+      "data": "2026-10-24",
+      "resumo": "Lam reported September-quarter revenue of $8. 22 billion and EPS of $2. 20, broadly in line with consensus, with gross margin rising 40 basis points sequentially to 52.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Trust, Inc. (DLR-PL) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DLR-PL",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-25",
+      "resumo": "Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation, and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "EMBRAER ON Stock Price Today | BVMF: EMBJ3 Live - Investing.com",
+      "url": "https://www.investing.com/equities/embraer-on-nm",
+      "fonte": "investing.com",
+      "data": "2026-10-19",
+      "resumo": "B3\n\n|  |\n\n|  | Symbol |  | Exchange |  | Currency |\n|  | EMBJ3 | · | B3 | · | BRL | Delayed |\n|  | EMBJ | · | NYSE | · | USD | Real-time |\n|  | EMBJm | · | Buenos Aires | · | ARS | Delayed |\n|  | EMBJN | · | Mexico | · | MXN | Delayed |\n|  | ERJy | · | TradeGate | · | EUR | Delayed |\n\nCurrency in BRL\n\nEMBJ3 Pro Research\n\nAdd to Watchlist\n\n88. 35\n\n+0. 80(+0.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Ações do Nasdaq | Composição do Índice - Investing.com",
+      "url": "https://br.investing.com/indices/nasdaq-composite-components",
+      "fonte": "br.investing.com",
+      "data": "2026-10-24",
+      "resumo": "Ver lista completa\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500. \n\nMelhores Ações Brasileiras\n\nMelhores Ações Brasileiras\n\n+1143. 4%\n\nÍndice Bovespa\n\n+310.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tesla-SpaceX Merger Is Elon Musk’s Biggest AI Bet Yet - Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-22/tesla-spacex-merger-is-elon-musk-s-biggest-ai-bet-yet",
+      "fonte": "bloomberg.com",
+      "data": "2026-10-22",
+      "resumo": "After months of rumors, Elon Musk confirmed that Tesla and SpaceX are working towards a merger, and AI — which was not the business of either company — is the big reason driving the combination.  SpaceX just showed that AI revenue is already surpassing that of the firm’s prior primary driver: connectivity.  There’s fresh evidence, in other words, that AI can generate billions for SpaceX.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "What is B3 SA Brasil Bolsa Balcao?",
+      "url": "https://www.reuters.com/markets/companies/B3SA3.SA/key-details",
+      "fonte": "reuters.com",
+      "data": "2026-10-24",
+      "resumo": "It develops software solutions and offers index licensing services.  Its business is divided into four segments: Bovespa, which covers trading, clearing and.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

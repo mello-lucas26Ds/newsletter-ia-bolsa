@@ -1,60 +1,4 @@
 {
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-says-ai-chip-demand-031701844.html": {
-    "hash": "f55a316707d5515c5b3184339e7beabf",
-    "visto_em": "2026-10-18"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/3-000-split-across-nvidia-002000514.html": {
-    "hash": "2f1258e9e5e5dbba58be930409d94400",
-    "visto_em": "2026-10-18"
-  },
-  "https://finance.yahoo.com/quote/DGT.XA": {
-    "hash": "2e50620a0d90e22f60bb68bb086ebbea",
-    "visto_em": "2026-10-18"
-  },
-  "https://www.reuters.com/business/nasdaq-futures-dive-1-ai-rout-deepens-debt-concerns-2026-10-15": {
-    "hash": "053e752cce17cafd774fca3d7fa58a62",
-    "visto_em": "2026-10-18"
-  },
-  "https://finance.yahoo.com/quote/DTCR": {
-    "hash": "53a1bdaae9389aa097cdeac98b47d45a",
-    "visto_em": "2026-10-18"
-  },
-  "https://finance.yahoo.com/quote/DLR": {
-    "hash": "191f52ab0ca9dcbec553b895e71660b6",
-    "visto_em": "2026-10-18"
-  },
-  "https://finance.yahoo.com/quote/SRVR": {
-    "hash": "030eae1a76fab11915daa544a058bce1",
-    "visto_em": "2026-10-18"
-  },
-  "https://br.investing.com/news/company-news/datasea-anuncia-valor-de-servicos-de-agente-de-ia-de-us-4-milhoes-93CH-2090399": {
-    "hash": "c32350410d4fada47c0f489ee1be67ae",
-    "visto_em": "2026-10-18"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-invested-taiwan-093000584.html": {
-    "hash": "1bbac02b9ad0523a96f4a658ae6bdb9e",
-    "visto_em": "2026-10-18"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-018-4950003": {
-    "hash": "d5c1489768d06f83e3e72338c9ad008d",
-    "visto_em": "2026-10-18"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-054-4954805": {
-    "hash": "65c1c7c4b2151f0fc2a77207c53c780b",
-    "visto_em": "2026-10-18"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-104-4947497": {
-    "hash": "9ebc9cd81554d01a826d06ac91860a7b",
-    "visto_em": "2026-10-18"
-  },
-  "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-104-4908471": {
-    "hash": "7c081905f0fb998960ae737d4172f689",
-    "visto_em": "2026-10-18"
-  },
-  "https://www.wsj.com/finance/stocks/the-ai-stock-market-wobble-is-a-reminder-this-time-isnt-different-d3ea7f07": {
-    "hash": "c914812daa2548e15ec7f37c10a01125",
-    "visto_em": "2026-10-18"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/nasdaq-buckles-fear-boom-ai-201411736.html": {
     "hash": "550c977b1a86038832f0e93964eb7838",
     "visto_em": "2026-10-19"
@@ -462,5 +406,33 @@
   "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-017-4958282": {
     "hash": "a3496055aafb1acef878846da4e52d85",
     "visto_em": "2026-10-25"
+  },
+  "https://sg.finance.yahoo.com/quote/EQIX/news": {
+    "hash": "d2ba1287536a1965cb47b019df433e01",
+    "visto_em": "2026-10-26"
+  },
+  "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-uniquely-catalystrich-months-ahead-for-spacex-4970923": {
+    "hash": "87c29eff5cc551b0a6b551e8235d9f54",
+    "visto_em": "2026-10-26"
+  },
+  "https://finance.yahoo.com/quote/DLR-PL": {
+    "hash": "191f52ab0ca9dcbec553b895e71660b6",
+    "visto_em": "2026-10-26"
+  },
+  "https://www.investing.com/equities/embraer-on-nm": {
+    "hash": "f9f89492d429738c16b22cc3e1144b69",
+    "visto_em": "2026-10-26"
+  },
+  "https://br.investing.com/indices/nasdaq-composite-components": {
+    "hash": "7354855d6b6b945de2f799259c2fda64",
+    "visto_em": "2026-10-26"
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-10-22/tesla-spacex-merger-is-elon-musk-s-biggest-ai-bet-yet": {
+    "hash": "dce8a62e9b1957a8e4436eb2a40d768f",
+    "visto_em": "2026-10-26"
+  },
+  "https://www.reuters.com/markets/companies/B3SA3.SA/key-details": {
+    "hash": "4c453bca4db68569b4dcdefe7c1d0de2",
+    "visto_em": "2026-10-26"
   }
 }
