@@ -1,165 +1,86 @@
 # Newsletter IA Bolsa — 2026-10-27
 
-**Gerado em:** 27/10/2026 08:36
-**Total:** 10 noticias
+**Gerado em:** 27/10/2026 15:44
+**Total:** 5 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## What this means for investors
-
-The big driver for Wall Street's tech stock rally on Oct.  26, 2026 was the long-awaited initial public offering (IPO) filing by artificial intelligence giant Anthropic.  The company filed its S-1 prospectus to go public on the Nasdaq under the ticker "ANT.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-26-215000106.html)
-
----
-
-## 2. Stock market today: Dow, S&P 500, Nasdaq gain as Anthropic IPO buzz reignites AI trade ahead of busy tech earnings week
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The Tech (XLK) sector led gains on Monday after AI developer Anthropic (ANTH. PVT) filed its prospectus to go public. 
-
-  The Dow (^DJI) gained 0.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html)
-
----
-
-## 3. 3 Data Center REIT Stocks Riding The AI Infrastructure Buildout
-
-**Fonte:** ca.finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Keppel DC REIT (SGX:AJBU)
-
-Overview: Keppel DC REIT owns and leases data centres across Asia and Europe, giving direct exposure to AI driven colocation and power demand. 
-
-Operations: The trust generates about S$472 million mainly from fully fitted colocation at S$341 million and single tenant facilities at S$100 million, with smaller shell and core income. 
-
-Market Cap: S$5.
-
-[Ler noticia completa](https://ca.finance.yahoo.com/news/3-data-center-reit-stocks-151250513.html)
-
----
-
-## 4. Stock market today: Dow, S&P 500, Nasdaq gain as Anthropic IPO buzz reignites AI trade ahead of busy tech earnings week
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The Tech (XLK) sector led gains on Monday after AI developer Anthropic (ANTH. PVT) filed its prospectus to go public. 
-
-  The Dow (^DJI) gained 0.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html)
-
----
-
-## 5. Stock market news for Oct. 26, 2026
+## 1. Tech's relief rally extends as attention turns to tough decisions for the Fed
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Stocks rose Monday as semiconductor makers rallied after Anthropic's IPO filing revived enthusiasm for the artificial intelligence trade. 
+In this article
 
-The Dow Jones Industrial Average added 146. 42 points, or 0.
+This is CNBC's Morning Squawk newsletter.  Subscribe here to receive future editions in your inbox. 
 
-[Ler noticia completa](https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html)
+Hello, this is Leonie Kidd with today's edition of Morning Squawk.
+
+[Ler noticia completa](https://www.cnbc.com/2026/10/27/tech-rally-fed-decision.html)
 
 ---
 
-## 6. Tech firms track Wall St rally on mixed day for Asian markets
+## 2. 3 AI Infrastructure Stocks To Watch As Anthropic Spending Reshapes Data Centers
+
+**Fonte:** ca.finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+If you want to identify and analyze those extra opportunities alongside this short list, head straight into the AI Infrastructure Enablers (Semiconductors, Cloud, and Data Center REITs) screener
+
+## MPI (TPEX:6223)
+
+Overview: MPI Corporation supplies semiconductor manufacturing and testing equipment used by chipmakers and data centers to support advanced AI workloads. 
+
+Operations: MPI generates around NT$16. 4b from semiconductor equipment and services, so revenue is heavily concentrated in this core segment.
+
+[Ler noticia completa](https://ca.finance.yahoo.com/news/3-ai-infrastructure-stocks-watch-120742499.html)
+
+---
+
+## 3. Taiwan Semiconductor Manufacturing and Sonoco have been highlighted as Zacks Bull and Bear of the Day
+
+**Fonte:** ca.finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Wall Street is still waiting for Amazon, Alphabet, Nvidia, and many other tech firms to report third-quarter earnings.  But TSMC already confirmed that the AI capital spending boom is ramping up. 
+
+TSM grew its Q3 earnings by 58% on 41% higher revenue.
+
+[Ler noticia completa](https://ca.finance.yahoo.com/news/taiwan-semiconductor-manufacturing-sonoco-highlighted-121300506.html)
+
+---
+
+## 4. Cathie Wood Trims AMD and TSMC, Adds Air Taxi Bets
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The sale is seen as a crucial test of whether the AI boom can deliver profits, and a disappointing reception could dent enthusiasm further, with traders already questioning the vast sums invested in the sector as well as several companies' financial positions. 
+The AMD sale comes ahead of third-quarter earnings on Nov.  3.  Wall Street expects earnings of $1.
 
-The filing lays out risks specific to an industry that has faced a string of reports in recent months of AI systems behaving in unexpected and harmful ways. 
-
-"If the use of our AI models results in harm, whether through use by malicious actors or misuse by other third parties, or if our model guardrails or safeguards fail to prevent such misuse," the firm's business could suffer, it said.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tech-firms-track-wall-st-024224619.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/cathie-wood-trims-amd-tsmc-122944148.html)
 
 ---
 
-## 7. Tech Earnings Are the Market’s Biggest Story This Week: Here’s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market’s Next Move
+## 5. The Last Month Exposed The Risk Narrative Between Nvidia Vs.Taiwan Semiconductor
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-This could be the most important week of 2026 for AI stocks.  Microsoft (NASDAQ: MSFT), Amazon (NASDAQ: AMZN), Alphabet (NASDAQ: GOOGL), Intel (NASDAQ: INTC), and SanDisk (NASDAQ: SNDK) are preparing to report earnings, and the results could determine where the technology sector heads next. In this video, Eric Bleeker, CFA, Chief Investment Officer of 24/7 Wall St.
+TSMC is up 41% this year versus NVIDIA's 16%, reflecting its role as the indispensable fab for every AI chip designer. 
 
-[Ler noticia completa](https://finance.yahoo.com/video/tech-earnings-market-biggest-story-211514752.html)
+Just released.  Our analysts combed the entire stock market and named the ten best stocks to buy right now, and NVIDIA didn't make the cut.
 
----
-
-## 8. AI earnings, a pivotal Fed decision, the midterms: Stocks are kicking off a crucial 2-week stretch
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-But certain pockets of the AI trade have endured a serious de-risking episode in October, sparking concerns of potential turmoil rattling the broader market is it remains heavily dependent on the fortunes of a handful of companies.  Rising borrowing costs have fueled fears of a pullback in AI infrastructure spending sending neoclouds and chip stocks tumbling. 
-
-Let's take a closer look at what investors will be watching.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ai-earnings-pivotal-fed-decision-152849940.html)
-
----
-
-## 9. Latest Advanced Micro Devices Stock News | NASDAQ:AMD | Benzinga
-
-**Fonte:** benzinga.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Show More
-
-Create a Watchlist FREE: Follow your stocks and cryptocurrencies with the most actionable alerts on the internet.  Click to Get Started
-
-### People Also Watch
-
-NVIDIA Corp NASDAQ:NVDA $211. 11 0.
-
-[Ler noticia completa](https://www.benzinga.com/quote/AMD/news)
-
----
-
-## 10. Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-### Asset profile
-
-The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/DTCR)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/last-month-exposed-risk-narrative-124536839.html)
 
 ---

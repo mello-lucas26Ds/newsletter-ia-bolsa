@@ -426,5 +426,25 @@
   "https://finance.yahoo.com/quote/DTCR": {
     "hash": "3649edd248ab6b02fbdfdc7c004280a8",
     "visto_em": "2026-10-27"
+  },
+  "https://www.cnbc.com/2026/10/27/tech-rally-fed-decision.html": {
+    "hash": "46b5696a0f36ceea5372a856ef909694",
+    "visto_em": "2026-10-27"
+  },
+  "https://ca.finance.yahoo.com/news/3-ai-infrastructure-stocks-watch-120742499.html": {
+    "hash": "965f1c53376aa38e2e10e0d84f0620e0",
+    "visto_em": "2026-10-27"
+  },
+  "https://ca.finance.yahoo.com/news/taiwan-semiconductor-manufacturing-sonoco-highlighted-121300506.html": {
+    "hash": "dcdfa092fb156c55b5f2d1cb4f65fa01",
+    "visto_em": "2026-10-27"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-trims-amd-tsmc-122944148.html": {
+    "hash": "c1eea02c17759cf56fe4a7e32310af41",
+    "visto_em": "2026-10-27"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/last-month-exposed-risk-narrative-124536839.html": {
+    "hash": "b70f0545df4270457b157ba3298a702f",
+    "visto_em": "2026-10-27"
   }
 }

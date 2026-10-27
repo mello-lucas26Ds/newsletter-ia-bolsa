@@ -2,10 +2,80 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-27",
-    "total_noticias": 74,
-    "gerado_em": "2026-10-27T08:36:36.103695"
+    "total_noticias": 79,
+    "gerado_em": "2026-10-27T15:44:42.386023"
   },
   "noticias": [
+    {
+      "titulo": "Tech's relief rally extends as attention turns to tough decisions for the Fed",
+      "url": "https://www.cnbc.com/2026/10/27/tech-rally-fed-decision.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-27",
+      "resumo": "In this article\n\nThis is CNBC's Morning Squawk newsletter.  Subscribe here to receive future editions in your inbox. \n\nHello, this is Leonie Kidd with today's edition of Morning Squawk.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 AI Infrastructure Stocks To Watch As Anthropic Spending Reshapes Data Centers",
+      "url": "https://ca.finance.yahoo.com/news/3-ai-infrastructure-stocks-watch-120742499.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "If you want to identify and analyze those extra opportunities alongside this short list, head straight into the AI Infrastructure Enablers (Semiconductors, Cloud, and Data Center REITs) screener\n\n## MPI (TPEX:6223)\n\nOverview: MPI Corporation supplies semiconductor manufacturing and testing equipment used by chipmakers and data centers to support advanced AI workloads. \n\nOperations: MPI generates around NT$16. 4b from semiconductor equipment and services, so revenue is heavily concentrated in this core segment.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing and Sonoco have been highlighted as Zacks Bull and Bear of the Day",
+      "url": "https://ca.finance.yahoo.com/news/taiwan-semiconductor-manufacturing-sonoco-highlighted-121300506.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "Wall Street is still waiting for Amazon, Alphabet, Nvidia, and many other tech firms to report third-quarter earnings.  But TSMC already confirmed that the AI capital spending boom is ramping up. \n\nTSM grew its Q3 earnings by 58% on 41% higher revenue.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cathie Wood Trims AMD and TSMC, Adds Air Taxi Bets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-trims-amd-tsmc-122944148.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "The AMD sale comes ahead of third-quarter earnings on Nov.  3.  Wall Street expects earnings of $1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The Last Month Exposed The Risk Narrative Between Nvidia Vs.Taiwan Semiconductor",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/last-month-exposed-risk-narrative-124536839.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "TSMC is up 41% this year versus NVIDIA's 16%, reflecting its role as the indispensable fab for every AI chip designer. \n\nJust released.  Our analysts combed the entire stock market and named the ten best stocks to buy right now, and NVIDIA didn't make the cut.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-26-215000106.html",

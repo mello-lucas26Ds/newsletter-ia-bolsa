@@ -2,72 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-27",
-    "total_noticias": 10,
-    "gerado_em": "2026-10-27T08:36:36.101737"
+    "total_noticias": 5,
+    "gerado_em": "2026-10-27T15:44:42.385083"
   },
   "noticias": [
     {
-      "titulo": "Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-26-215000106.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-26",
-      "resumo": "## What this means for investors\n\nThe big driver for Wall Street's tech stock rally on Oct.  26, 2026 was the long-awaited initial public offering (IPO) filing by artificial intelligence giant Anthropic.  The company filed its S-1 prospectus to go public on the Nasdaq under the ticker \"ANT.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock market today: Dow, S&P 500, Nasdaq gain as Anthropic IPO buzz reignites AI trade ahead of busy tech earnings week",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-26",
-      "resumo": "The Tech (XLK) sector led gains on Monday after AI developer Anthropic (ANTH. PVT) filed its prospectus to go public. \n\n  The Dow (^DJI) gained 0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 Data Center REIT Stocks Riding The AI Infrastructure Buildout",
-      "url": "https://ca.finance.yahoo.com/news/3-data-center-reit-stocks-151250513.html",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-10-26",
-      "resumo": "## Keppel DC REIT (SGX:AJBU)\n\nOverview: Keppel DC REIT owns and leases data centres across Asia and Europe, giving direct exposure to AI driven colocation and power demand. \n\nOperations: The trust generates about S$472 million mainly from fully fitted colocation at S$341 million and single tenant facilities at S$100 million, with smaller shell and core income. \n\nMarket Cap: S$5.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock market today: Dow, S&P 500, Nasdaq gain as Anthropic IPO buzz reignites AI trade ahead of busy tech earnings week",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-26",
-      "resumo": "The Tech (XLK) sector led gains on Monday after AI developer Anthropic (ANTH. PVT) filed its prospectus to go public. \n\n  The Dow (^DJI) gained 0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock market news for Oct. 26, 2026",
-      "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+      "titulo": "Tech's relief rally extends as attention turns to tough decisions for the Fed",
+      "url": "https://www.cnbc.com/2026/10/27/tech-rally-fed-decision.html",
       "fonte": "cnbc.com",
-      "data": "2026-10-25",
-      "resumo": "Stocks rose Monday as semiconductor makers rallied after Anthropic's IPO filing revived enthusiasm for the artificial intelligence trade. \n\nThe Dow Jones Industrial Average added 146. 42 points, or 0.",
+      "data": "2026-10-27",
+      "resumo": "In this article\n\nThis is CNBC's Morning Squawk newsletter.  Subscribe here to receive future editions in your inbox. \n\nHello, this is Leonie Kidd with today's edition of Morning Squawk.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -77,11 +21,39 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Tech firms track Wall St rally on mixed day for Asian markets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-track-wall-st-024224619.html",
+      "titulo": "3 AI Infrastructure Stocks To Watch As Anthropic Spending Reshapes Data Centers",
+      "url": "https://ca.finance.yahoo.com/news/3-ai-infrastructure-stocks-watch-120742499.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "If you want to identify and analyze those extra opportunities alongside this short list, head straight into the AI Infrastructure Enablers (Semiconductors, Cloud, and Data Center REITs) screener\n\n## MPI (TPEX:6223)\n\nOverview: MPI Corporation supplies semiconductor manufacturing and testing equipment used by chipmakers and data centers to support advanced AI workloads. \n\nOperations: MPI generates around NT$16. 4b from semiconductor equipment and services, so revenue is heavily concentrated in this core segment.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing and Sonoco have been highlighted as Zacks Bull and Bear of the Day",
+      "url": "https://ca.finance.yahoo.com/news/taiwan-semiconductor-manufacturing-sonoco-highlighted-121300506.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "Wall Street is still waiting for Amazon, Alphabet, Nvidia, and many other tech firms to report third-quarter earnings.  But TSMC already confirmed that the AI capital spending boom is ramping up. \n\nTSM grew its Q3 earnings by 58% on 41% higher revenue.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Cathie Wood Trims AMD and TSMC, Adds Air Taxi Bets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-trims-amd-tsmc-122944148.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-27",
-      "resumo": "The sale is seen as a crucial test of whether the AI boom can deliver profits, and a disappointing reception could dent enthusiasm further, with traders already questioning the vast sums invested in the sector as well as several companies' financial positions. \n\nThe filing lays out risks specific to an industry that has faced a string of reports in recent months of AI systems behaving in unexpected and harmful ways. \n\n\"If the use of our AI models results in harm, whether through use by malicious actors or misuse by other third parties, or if our model guardrails or safeguards fail to prevent such misuse,\" the firm's business could suffer, it said.",
+      "resumo": "The AMD sale comes ahead of third-quarter earnings on Nov.  3.  Wall Street expects earnings of $1.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -91,53 +63,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Tech Earnings Are the Market’s Biggest Story This Week: Here’s Why Microsoft, Amazon, Intel, SanDisk, and Alphabet Will Drive the Stock Market’s Next Move",
-      "url": "https://finance.yahoo.com/video/tech-earnings-market-biggest-story-211514752.html",
+      "titulo": "The Last Month Exposed The Risk Narrative Between Nvidia Vs.Taiwan Semiconductor",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/last-month-exposed-risk-narrative-124536839.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-10-26",
-      "resumo": "This could be the most important week of 2026 for AI stocks.  Microsoft (NASDAQ: MSFT), Amazon (NASDAQ: AMZN), Alphabet (NASDAQ: GOOGL), Intel (NASDAQ: INTC), and SanDisk (NASDAQ: SNDK) are preparing to report earnings, and the results could determine where the technology sector heads next. In this video, Eric Bleeker, CFA, Chief Investment Officer of 24/7 Wall St.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI earnings, a pivotal Fed decision, the midterms: Stocks are kicking off a crucial 2-week stretch",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-earnings-pivotal-fed-decision-152849940.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-26",
-      "resumo": "But certain pockets of the AI trade have endured a serious de-risking episode in October, sparking concerns of potential turmoil rattling the broader market is it remains heavily dependent on the fortunes of a handful of companies.  Rising borrowing costs have fueled fears of a pullback in AI infrastructure spending sending neoclouds and chip stocks tumbling. \n\nLet's take a closer look at what investors will be watching.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Latest Advanced Micro Devices Stock News | NASDAQ:AMD | Benzinga",
-      "url": "https://www.benzinga.com/quote/AMD/news",
-      "fonte": "benzinga.com",
-      "data": "2026-10-24",
-      "resumo": "Show More\n\nCreate a Watchlist FREE: Follow your stocks and cryptocurrencies with the most actionable alerts on the internet.  Click to Get Started\n\n### People Also Watch\n\nNVIDIA Corp NASDAQ:NVDA $211. 11 0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DTCR",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-24",
-      "resumo": "### Asset profile\n\nThe fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
+      "data": "2026-10-27",
+      "resumo": "TSMC is up 41% this year versus NVIDIA's 16%, reflecting its role as the indispensable fab for every AI chip designer. \n\nJust released.  Our analysts combed the entire stock market and named the ten best stocks to buy right now, and NVIDIA didn't make the cut.",
       "sentimento": "neutral",
       "tags": [
         "AI",
