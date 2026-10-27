@@ -1,72 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-buckles-fear-boom-ai-201411736.html": {
-    "hash": "550c977b1a86038832f0e93964eb7838",
-    "visto_em": "2026-10-19"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-climb-investors-020224425.html": {
-    "hash": "bc2b2f6660dc879ebbb38264767934e7",
-    "visto_em": "2026-10-19"
-  },
-  "https://www.investing.com/news/company-news/openworld-signs-merger-deal-with-ai-agent-firm-blocksight-93CH-4956155": {
-    "hash": "1bdac77c17fdbeaef23889d9a8a8b85d",
-    "visto_em": "2026-10-19"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html": {
-    "hash": "6cd06a126ff6bac3fc990fd0d379343c",
-    "visto_em": "2026-10-19"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-211058029.html": {
-    "hash": "07c9ea5b0cd2e8d2a6445692c4bf4edb",
-    "visto_em": "2026-10-19"
-  },
-  "https://finance.yahoo.com/media-advertising/articles/meta-earnings-puts-adobe-stock-201147047.html": {
-    "hash": "903a22b4b703f3aa57594b2316ae9b59",
-    "visto_em": "2026-10-19"
-  },
-  "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4955913": {
-    "hash": "32d4f13d8256e4978de8e1882b810462",
-    "visto_em": "2026-10-19"
-  },
-  "https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/": {
-    "hash": "e4f5a8d6b725c003dccfda417ba5d22d",
-    "visto_em": "2026-10-19"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/zenta-group-zentoai-signs-mou-123919442.html": {
-    "hash": "7d9f6f50c1fd40940e66999e92dacf72",
-    "visto_em": "2026-10-19"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/dear-tsmc-stock-fans-circle-105954886.html": {
-    "hash": "c280eb036377fd522128d68e20606992",
-    "visto_em": "2026-10-19"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-financing-concerns-major-technology-103222955.html": {
-    "hash": "39c1a0d1a46b9d0a56c4a53555f263c6",
-    "visto_em": "2026-10-19"
-  },
-  "https://www.investing.com/analysis/earnings-season-takes-the-spotlight-amid-ai-market-jitters-200689800": {
-    "hash": "e6ab593a784a3d0e97616d8402ecf274",
-    "visto_em": "2026-10-19"
-  },
-  "https://ng.investing.com/news/stock-market-news/openworld-signs-merger-deal-with-ai-agent-firm-blocksight-93CH-2742371": {
-    "hash": "cc771a711aaef7469c52f8697b951ff7",
-    "visto_em": "2026-10-19"
-  },
-  "https://markets.businessinsider.com/news/stocks/buy-5-top-ranked-non-tech-nasdaq-stocks-to-maximize-q4-gains-15989220": {
-    "hash": "719e41e3dc498678e9f313bdf687a266",
-    "visto_em": "2026-10-19"
-  },
-  "https://finance.yahoo.com/markets/article/a-big-yikes-still-hangs-over-the-ai-trade-as-meta-and-tesla-report-what-to-watch-this-week-100000328.html": {
-    "hash": "1369038b569442b57c5ecb634040769b",
-    "visto_em": "2026-10-19"
-  },
-  "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112734828.html": {
-    "hash": "11b164daccc44e3f212215951faf6de2",
-    "visto_em": "2026-10-19"
-  },
-  "https://www.investing.com/news/company-news/openworld-signs-deal-to-acquire-ai-agent-firm-blocksight-93CH-4956154": {
-    "hash": "13732607e8aea4fbc08e4808c9f96e48",
-    "visto_em": "2026-10-19"
-  },
   "https://www.reuters.com/business/wall-st-futures-climb-ai-stocks-rebound-oil-yields-fall-2026-10-19": {
     "hash": "4705bf4b99b4922a1c2ff1432ca7f55b",
     "visto_em": "2026-10-20"
@@ -454,5 +386,45 @@
   "https://ng.investing.com/indices/bovespa": {
     "hash": "c1f79080fdc04ca1c8c5dddd3cc80450",
     "visto_em": "2026-10-26"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-26-215000106.html": {
+    "hash": "e6df18abc40c816424fe2e6fd12ed614",
+    "visto_em": "2026-10-27"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html": {
+    "hash": "be90106e2371a843cfb6c9e43ac2cfd7",
+    "visto_em": "2026-10-27"
+  },
+  "https://ca.finance.yahoo.com/news/3-data-center-reit-stocks-151250513.html": {
+    "hash": "db5a7e572d778f15452f7502a0cb7b80",
+    "visto_em": "2026-10-27"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html": {
+    "hash": "be90106e2371a843cfb6c9e43ac2cfd7",
+    "visto_em": "2026-10-27"
+  },
+  "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html": {
+    "hash": "1e8b8a2ef4e0424a663ec37addab7e5c",
+    "visto_em": "2026-10-27"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tech-firms-track-wall-st-024224619.html": {
+    "hash": "7940837db516a468ef02fd9b928b79ce",
+    "visto_em": "2026-10-27"
+  },
+  "https://finance.yahoo.com/video/tech-earnings-market-biggest-story-211514752.html": {
+    "hash": "503d1395ac25dd32c3d57d78ad3d7fed",
+    "visto_em": "2026-10-27"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/ai-earnings-pivotal-fed-decision-152849940.html": {
+    "hash": "7e4211c0a41130493e651c0a8ce20575",
+    "visto_em": "2026-10-27"
+  },
+  "https://www.benzinga.com/quote/AMD/news": {
+    "hash": "d25396e5fca0f41f89a0d67648890d6d",
+    "visto_em": "2026-10-27"
+  },
+  "https://finance.yahoo.com/quote/DTCR": {
+    "hash": "3649edd248ab6b02fbdfdc7c004280a8",
+    "visto_em": "2026-10-27"
   }
 }
