@@ -1,72 +1,4 @@
 {
-  "https://www.reuters.com/business/wall-st-futures-climb-ai-stocks-rebound-oil-yields-fall-2026-10-19": {
-    "hash": "4705bf4b99b4922a1c2ff1432ca7f55b",
-    "visto_em": "2026-10-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-rally-ahead-meta-222558678.html": {
-    "hash": "fa501100ca477d50672f3df1225bd395",
-    "visto_em": "2026-10-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-113805730.html": {
-    "hash": "cb0167ef60b0a680ebaec22dee0ad5ee",
-    "visto_em": "2026-10-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-19-163749088.html": {
-    "hash": "c01c5b2dc6fdae15326d7b2465424016",
-    "visto_em": "2026-10-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-19-220513155.html": {
-    "hash": "cde8f509bbe6f8aaef875709996ccb8c",
-    "visto_em": "2026-10-20"
-  },
-  "https://www.investing.com/analysis/ai-stocks-set-for-a-comeback-as-strong-earnings-and-energy-prices-support-markets-200689853": {
-    "hash": "f2117fdb9fa109566d4e7d10a1fc3749",
-    "visto_em": "2026-10-20"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/google-partner-novacore-labs-aibotics-131500303.html": {
-    "hash": "f9b38d0df152b2d979a6ae22678d234b",
-    "visto_em": "2026-10-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/prospectus-looks-impressive-financial-adviser-101500707.html": {
-    "hash": "4a56980b0c59388bc665e182b796c70c",
-    "visto_em": "2026-10-20"
-  },
-  "https://br.investing.com/news/company-news/zenta-group-assina-mou-para-adquirir-participacao-em-empresa-de-tecnologia-na-china-93CH-2093757": {
-    "hash": "aa33843b81e171ce78c50fdfd4d1f63c",
-    "visto_em": "2026-10-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/opinion-most-important-number-taiwan-150500485.html": {
-    "hash": "e592e9d66e42d482fd068ecb0e115af7",
-    "visto_em": "2026-10-20"
-  },
-  "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-19": {
-    "hash": "7ca358f1cf8d2ca0b7a24e167e406aea",
-    "visto_em": "2026-10-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-sees-best-day-230023865.html": {
-    "hash": "960c24b50f67a6cdb50f01d384e4b4c4",
-    "visto_em": "2026-10-20"
-  },
-  "https://www.investing.com/analysis/is-the-ai-trade-losing-its-earnings-edge-200689907": {
-    "hash": "b994947446b1c08cb292beab652caa79",
-    "visto_em": "2026-10-20"
-  },
-  "https://finance.yahoo.com/quote/EQIX": {
-    "hash": "4ed21372d205044e227c64710c4a6b08",
-    "visto_em": "2026-10-20"
-  },
-  "https://finance.yahoo.com/real-estate/articles/blackstone-200b-data-center-empire-161850079.html": {
-    "hash": "6984bb6c48ceffb48007840346abbbef",
-    "visto_em": "2026-10-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-data-center-race-3-133520209.html": {
-    "hash": "f859739ff244588b04319ede77636ec0",
-    "visto_em": "2026-10-20"
-  },
-  "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html": {
-    "hash": "df98002279a73bd3d66cfa520d9c50b9",
-    "visto_em": "2026-10-20"
-  },
   "https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief": {
     "hash": "f449e39b5b5a1d1870f65d0e7d829548",
     "visto_em": "2026-10-21"
@@ -446,5 +378,25 @@
   "https://finance.yahoo.com/markets/stocks/articles/last-month-exposed-risk-narrative-124536839.html": {
     "hash": "b70f0545df4270457b157ba3298a702f",
     "visto_em": "2026-10-27"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-tech-sector-160557664.html": {
+    "hash": "0d74fea396f8fc7bc1d19426d84b98e1",
+    "visto_em": "2026-10-28"
+  },
+  "https://markets.businessinsider.com/news/stocks/datasite-connects-live-deal-data-to-emma-legal-s-ai-workspace-1036670971": {
+    "hash": "299a94cc708f31f52bbb365a8df14d28",
+    "visto_em": "2026-10-28"
+  },
+  "https://finance.yahoo.com/quote/DLR": {
+    "hash": "cfc97a25d34ec4ea532aef3d6584e3f2",
+    "visto_em": "2026-10-28"
+  },
+  "https://finance.yahoo.com/technology/articles/bull-day-taiwan-semiconductor-manufacturing-070000451.html": {
+    "hash": "408b1bdc8a80f6d3eb2c85b78b0cefc1",
+    "visto_em": "2026-10-28"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-point-higher-133433523.html": {
+    "hash": "4cd84b63c94358261c7bd691e592e070",
+    "visto_em": "2026-10-28"
   }
 }

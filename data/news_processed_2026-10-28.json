@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-28",
+    "total_noticias": 5,
+    "gerado_em": "2026-10-28T09:16:40.450591"
+  },
+  "noticias": [
+    {
+      "titulo": "Stock market today: Dow, S&P 500, Nasdaq rise as tech gains for second day, chip stocks rally",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-tech-sector-160557664.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "AI chip heavyweight Nvidia (NVDA) said it would invest $3 billion in Meta (META) after the social media giant announced plans to raise $95 billion for its infrastructure buildout. \n\n  Nvidia also said that it will partner with Meta to expand their work on Muse and the Muse family of models to improve inference and training performance. \n\n  \"AI agents represent a new computing paradigm — software that understands our goals, reasons, uses tools and gets work done on our behalf,\" said Nvidia CEO Jensen Huang in a statement.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Datasite Connects Live Deal Data to Emma Legal’s AI Workspace | Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/datasite-connects-live-deal-data-to-emma-legal-s-ai-workspace-1036670971",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-10-27",
+      "resumo": "MINNEAPOLIS, Oct.  27, 2026 (GLOBE NEWSWIRE) -- Datasite, the essential infrastructure for mergers and acquisitions (M&A), today announced a partnership with Emma Legal to connect Datasite’s live data rooms directly to Emma Legal’s AI workspace for legal due diligence.  The integration helps legal teams review current deal documents and produce findings linked to the original documents.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DLR Digital Realty Trust, Inc.",
+      "url": "https://finance.yahoo.com/quote/DLR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers.  DLR also develops data center platforms for.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bull of the Day: Taiwan Semiconductor Manufacturing Company (TSM)",
+      "url": "https://finance.yahoo.com/technology/articles/bull-day-taiwan-semiconductor-manufacturing-070000451.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "1.  Crypto\n2.  AI\n\nZacks\n\n# Bull of the Day: Taiwan Semiconductor Manufacturing Company (TSM)\n\nBenjamin Rains\n\n5 min read\n\n TSM\n\n  +1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "U.S. Stock Futures Point Higher as AI Developments and Earnings Support Market Recovery: Dow Jones, S&P, Nasdaq, Wall Street",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-point-higher-133433523.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "1.  Crypto\n2.  AI\n\nInvestorsHub\n\n# U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

@@ -1,11 +1,81 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-10-27",
-    "total_noticias": 79,
-    "gerado_em": "2026-10-27T15:44:42.386023"
+    "data": "2026-10-28",
+    "total_noticias": 70,
+    "gerado_em": "2026-10-28T09:16:40.452278"
   },
   "noticias": [
+    {
+      "titulo": "Stock market today: Dow, S&P 500, Nasdaq rise as tech gains for second day, chip stocks rally",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-tech-sector-160557664.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "AI chip heavyweight Nvidia (NVDA) said it would invest $3 billion in Meta (META) after the social media giant announced plans to raise $95 billion for its infrastructure buildout. \n\n  Nvidia also said that it will partner with Meta to expand their work on Muse and the Muse family of models to improve inference and training performance. \n\n  \"AI agents represent a new computing paradigm — software that understands our goals, reasons, uses tools and gets work done on our behalf,\" said Nvidia CEO Jensen Huang in a statement.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Datasite Connects Live Deal Data to Emma Legal’s AI Workspace | Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/datasite-connects-live-deal-data-to-emma-legal-s-ai-workspace-1036670971",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-10-27",
+      "resumo": "MINNEAPOLIS, Oct.  27, 2026 (GLOBE NEWSWIRE) -- Datasite, the essential infrastructure for mergers and acquisitions (M&A), today announced a partnership with Emma Legal to connect Datasite’s live data rooms directly to Emma Legal’s AI workspace for legal due diligence.  The integration helps legal teams review current deal documents and produce findings linked to the original documents.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DLR Digital Realty Trust, Inc.",
+      "url": "https://finance.yahoo.com/quote/DLR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers.  DLR also develops data center platforms for.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bull of the Day: Taiwan Semiconductor Manufacturing Company (TSM)",
+      "url": "https://finance.yahoo.com/technology/articles/bull-day-taiwan-semiconductor-manufacturing-070000451.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "1.  Crypto\n2.  AI\n\nZacks\n\n# Bull of the Day: Taiwan Semiconductor Manufacturing Company (TSM)\n\nBenjamin Rains\n\n5 min read\n\n TSM\n\n  +1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "U.S. Stock Futures Point Higher as AI Developments and Earnings Support Market Recovery: Dow Jones, S&P, Nasdaq, Wall Street",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-point-higher-133433523.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "1.  Crypto\n2.  AI\n\nInvestorsHub\n\n# U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Tech's relief rally extends as attention turns to tough decisions for the Fed",
       "url": "https://www.cnbc.com/2026/10/27/tech-rally-fed-decision.html",
@@ -553,20 +623,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Zacks Investment Ideas feature highlights: Taiwan Semiconductor Manufacturing",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-121300756.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-20",
-      "resumo": "Nvidia and other technology giants rely on TSMC because of its unmatched scale and expertise.  Plus, they know that Taiwan Semi is not aiming to compete against them in the chip design business. \n\nTaiwan Semi is racing to address one of its only potential shortfalls: geopolitical fears, by expanding its manufacturing footprint outside of Taiwan into the U.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Wall St Week Ahead Earnings flood, Fed meeting pose pivotal tests for rickety AI market rally | Reuters",
       "url": "https://www.reuters.com/business/wall-st-week-ahead-earnings-flood-fed-meeting-pose-pivotal-tests-rickety-ai-2026-10-23",
       "fonte": "reuters.com",
@@ -637,20 +693,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.57%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-157-4961070",
-      "fonte": "investing.com",
-      "data": "2026-10-20",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| GM | 77.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.86%",
       "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-086-4964019",
       "fonte": "investing.com",
@@ -693,53 +735,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "3 Artificial Intelligence (AI) Stocks That Look Like Great Buys Right Now",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-artificial-intelligence-ai-stocks-190502789.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-20",
-      "resumo": "Three stocks that may be tempting options to buy on the dip and that have tremendous growth opportunities related to AI are ASML Holding (NASDAQ:ASML), Taiwan Semiconductor Manufacturing (NYSE:TSM), and Broadcom (NASDAQ:AVGO). \n\nMissed Nvidia in 2009.  This Rare Signal Is Flashing Again.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "TSM Stock Price | Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote (U.S.: NYSE) | MarketWatch",
       "url": "https://www.marketwatch.com/investing/stock/tsm",
       "fonte": "marketwatch.com",
       "data": "2026-10-22",
       "resumo": "## Competitors\n\n| Name | Chg % | Market Cap |\n --- \n| NVIDIA Corp.  | -4. 40% | $5.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "4 Stocks With Demand So Sticky That the AI Sell-Off Barely Touched Them at All",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-stocks-demand-sticky-ai-112500305.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-20",
-      "resumo": "Artificial intelligence (AI) stocks just took a punch, and the damage spread fast.  CoreWeave (NASDAQ: CRWV) was hammered on fears that demand may not show up, while Dell Technologies (NYSE: DELL), Hewlett Packard Enterprise (NYSE: HPE), and Micron Technology (NASDAQ: MU) slid right along with it. \n\nSoftware is telling a different story.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "CLOU - Cotação Hoje | Global X Cloud Computing - Investing.com",
-      "url": "https://br.investing.com/etfs/global-x-cloud-computing",
-      "fonte": "br.investing.com",
-      "data": "2026-10-20",
-      "resumo": "| Nome | Último | Var.  % | Vol.  |\n ---  --- |\n| General Shopping ON | 3,80 | -20,50% | 1,00mil |\n| Nutriplant ON | 3,54 | -19,18% | 28,90mil |\n| Azul Unt | 4,50 | -16,67% | 31,00 |\n| SJ AU Logistica FII | 0,56 | -15,15% | 13,76mil |\n| Azul Unt | 3,00 | -12,54% | 2,98mil |\n| MRS Logistica B | 34,50 | -12,41% | 13,00 |\n| Azul Unt | 3,03 | -12,17% | 4,33mil |\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -791,20 +791,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "XAIX - Cotação Hoje | Xtrackers Artificial Intelligence and Big Data - Investing.com",
-      "url": "https://br.investing.com/etfs/xaix-nasdaq",
-      "fonte": "br.investing.com",
-      "data": "2026-10-20",
-      "resumo": "Market Movers\n\n| Nome | Último | Var.  % | Vol.  |\n ---  --- |\n| Petrobras PN | 57,75 | -0,79% | 37,09M |\n| Vale ON | 64,03 | -2,15% | 28,93M |\n| Itaú Unibanco PN | 48,90 | +0,20% | 29,76M |\n| Weg ON | 45,21 | -7,34% | 28,05M |\n| B3 ON | 23,51 | -0,84% | 42,37M |\n| Magazine Luiza ON | 13,04 | -3,98% | 72,53M |\n| Bradesco PN | 20,65 | -0,15% | 40,81M |\n\n| Nome | Último | Var.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nasdaq Futures Fall After Disappointing AI Earnings - WSJ",
       "url": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7",
       "fonte": "wsj.com",
@@ -833,20 +819,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports",
-      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20",
-      "fonte": "reuters.com",
-      "data": "2026-10-20",
-      "resumo": "The vast majority ​of this year's net loss, $72 billion, resulted from accounting charges tied ​to changes in the value of convertible notes and other instruments the company issued to raise funding, the Journal report said. \n\nThe report ​comes as investors sharpen scrutiny of AI companies' finances ​as they pour money into chips, data centers and computing power needed ‌to ⁠develop and operate increasingly powerful models. \n\nAnthropic's third-quarter revenue rose 45% to $16.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nasdaq leads gains as SpaceX, Super Micro results improve AI appetite",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-leads-gains-spacex-super-142805507.html",
       "fonte": "finance.yahoo.com",
@@ -866,20 +838,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-10-21",
       "resumo": "1.  Crypto\n2.  AI\n\nYahoo Finance\n\n# Stock market today: Dow, S&P 500, Nasdaq rise as tech rallies, SpaceX stock surges nearly 8%\n\nInes Ferré  and David Hollerith\n\nUpdated 1 min read\n\n ^GSPC\n\n  +0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "A $4 Billion Reason to Buy TSMC Stock Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-billion-reason-buy-tsmc-145139543.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-20",
-      "resumo": "1.  Crypto\n2.  AI\n\nBarchart\n\n# A $4 Billion Reason to Buy TSMC Stock Now\n\nNauman Khan\n\n5 min read\n\n TSM\n\n  +1.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1001,20 +959,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "M&A soaring close to record level, fueled by rush into AI: Apollo’s Sløk",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/m-soaring-close-record-level-192956008.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-20",
-      "resumo": "### Dive Insight:\n\nThe fixation on AI has spurred dealmaking well beyond technology into companies involved in sectors essential for the AI build-out, including data centers, power generation, power grid infrastructure, cooling and connectivity, Sløk said. \n\n\"AI is the trigger of the AI boom, but it is lighting up far more than tech,\" he said, noting that dealmaking involving utilities and energy companies posted a record first half. \n\nAmong the largest AI-focused deals, SpaceX in June bought Anysphere, the creator of AI-coding agent Cursor, for $55 billion, according to Mergermarket.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/AI",
       "fonte": "finance.yahoo.com",
@@ -1034,76 +978,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-10-21",
       "resumo": "### Key Insights from Management's Remarks\n\nManagement attributed third quarter performance to accelerated innovation, robust client demand for AI-enabled solutions, and expanding partnerships, with notable gains outside the core asset manager segment. \n\nAI-powered product launches: MSCI's rapid adoption of artificial intelligence enabled faster creation of new models and data sets, supporting the launch of agentic solutions—platforms that automate data analysis and portfolio construction.  Chief Product Officer Alvise Munari explained that many new offerings, especially in private markets, \"couldn't be delivered and built without the support of latest-gen LLM technology.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Stocks Rally After Super Micro Preliminary Sales Bring Relief",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief",
-      "fonte": "bloomberg.com",
-      "data": "2026-10-20",
-      "resumo": "Contact us: Provide news feedback or report an error\n\nConfidential tip.  Send a tip to our reporters\n\nSite feedback: Take our Survey\n\nBy Jeran Wittenstein\n\nOctober 20, 2026 at 10:14 PM UTC\n\nSave\n\nTranslate\n\nThe shares of AI-related companies rallied in after-hours trading on Tuesday after strong preliminary results from server-maker Super Micro Computer Inc.  spurred relief about the outlook for spending on the technology.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Buy Top-Ranked Tech Stock TSMC Now on the Dip and Hold",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-top-ranked-tech-stock-202600390.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-20",
-      "resumo": "Nvidia and other technology giants rely on TSMC because of its unmatched scale and expertise.  Plus, they know that Taiwan Semi is not aiming to compete against them in the chip design business. \n\nZacks Investment Research\n\nZacks Investment Research\n\n \n\nImage Source: Zacks Investment Research\n\nTaiwan Semi is racing to address one of its only potential shortfalls: geopolitical fears, by expanding its manufacturing footprint outside of Taiwan into the U.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "2 Revolutionary AI Stocks With 241% and 324% Upside, According to Select Wall Street Analysts",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-revolutionary-ai-stocks-241-112601840.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-20",
-      "resumo": "While most analysts have a positive long-term view on the AI infrastructure build-out, some Wall Street professionals are forecasting truly game-changing returns for select AI pioneers.  According to select Wall Street analysts, Micron Technology (NASDAQ:MU) and SoundHound AI (NASDAQ:SOUN) offer investors up to 324% upside from their Oct.  16 close.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 Great AI Stocks To Own In October 2026",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-great-ai-stocks-own-170953509.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-20",
-      "resumo": "Market Cap: HK$13. 2b\n\nMarketingforce Management provides exposure to AI in the marketing stack, with its cloud-based DHR platform using machine learning and NLP to tune campaigns and customer journeys instead of focusing on generic software tools.  Profitability and recent revenue and earnings figures support that AI focus.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Is the AI Trade Losing Its Earnings Edge? | Investing.com",
-      "url": "https://www.investing.com/analysis/is-the-ai-trade-losing-its-earnings-edge-200689907",
-      "fonte": "investing.com",
-      "data": "2026-10-20",
-      "resumo": "The main takeaway: technology is still the dominant force in the stock market.  That’s another way of saying that the AI theme remains the market’s critical influence.  As long as investors remain confident that AI can drive faster revenue growth, wider profit margins, and new business opportunities, technology stocks are likely to remain the market’s cornerstone and a key pillar of the current bull market.",
       "sentimento": "bullish",
       "tags": [
         "AI",
