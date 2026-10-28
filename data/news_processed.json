@@ -2,10 +2,108 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-28",
-    "total_noticias": 70,
-    "gerado_em": "2026-10-28T09:16:40.452278"
+    "total_noticias": 77,
+    "gerado_em": "2026-10-28T16:26:54.533859"
   },
   "noticias": [
+    {
+      "titulo": "Stock Market News, Oct. 27, 2026: Tech Stocks Extend Gains After Yesterday’s Anthropic Rally",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2026",
+      "fonte": "wsj.com",
+      "data": "2026-10-27",
+      "resumo": "Updated Oct.  27, 2026 at 8:09pm ET\n\n# Stock Market News, Oct.  27, 2026: Tech Stocks Extend Gains After Yesterday’s Anthropic Rally\n\n## In focus: Israeli elections that could prove consequential in course of Iran war\n\nThe Anthropic-inspired rally extended into day two: Tech stocks rose, pushing the Nasdaq 1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NVDA",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-28",
+      "resumo": "| Field | Value |\n --- |\n| Current price | 217. 44 |\n| Target high price | 515. 00 |\n| Target low price | 180.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stocks get AI lift, dollar holds steady ahead of Fed decision",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-ai-lift-dollar-holds-014425181.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-28",
+      "resumo": "1.  Crypto\n2.  AI\n\nReuters\n\n# Stocks get AI lift, dollar holds steady ahead of Fed decision\n\nBy Rae Wee\n\n3 min read\n\n MSFT\n\n  -0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "META Q3 deep dive: AI investments drive engagement, legal costs hit margins, Muse launches",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-q3-deep-dive-ai-082227868.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-22",
+      "resumo": "### Meta (META) Q3 2026 highlights:\n\n Revenue: $64. 6 billion vs analyst estimates of $63. 35 billion (26.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AXP Q3 deep dive: premium growth drivers and AI investments amid competitive headwinds",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/axp-q3-deep-dive-premium-135847309.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-26",
+      "resumo": "AI and digital service investments: The company is expanding AI-driven personalized recommendations, digital onboarding, and proactive customer service initiatives.  Partnerships with OpenAI and new features like Wishlist Builder and conversational AI agents were highlighted as ways to improve member experience. \n Restructuring and efficiency focus: A $336 million restructuring charge was taken to support long-term efficiency, resulting in a 5% reduction in positions and intended to streamline decision-making and boost investment capacity for future growth priorities.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia vs TSMC: Here’s Which One May Be the Biggest AI Winner.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-tsmc-one-may-083002654.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-28",
+      "resumo": "All of this has translated into growth for the manufacturer.  In the latest earnings update, TSMC reported its sixth straight quarter of record profit, and revenue and net income surpassed analysts' estimates.  Still, revenue of $46 billion for the period is low compared with Nvidia's.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Distillate Capital Q3 2026 Letter To Investors",
+      "url": "https://seekingalpha.com/article/4956793-distillate-capital-q3-2026-letter-to-investors",
+      "fonte": "seekingalpha.com",
+      "data": "2026-10-23",
+      "resumo": "We are growing weary of discussing the AI trade somewhat repeatedly in the last several letters.  That said, the figures are not those of a typical market cycle and they consume our time as the outcome will likely prove relevant to stock returns for the next decade or longer.  In that context, even more remarkable than the fact that the market gained $30 trillion in value in three years is the concentration of that gain.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Stock market today: Dow, S&P 500, Nasdaq rise as tech gains for second day, chip stocks rally",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-tech-sector-160557664.html",

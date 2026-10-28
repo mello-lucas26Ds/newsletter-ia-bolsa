@@ -1,55 +1,48 @@
 # Newsletter IA Bolsa — 2026-10-28
 
-**Gerado em:** 28/10/2026 09:16
-**Total:** 5 noticias
+**Gerado em:** 28/10/2026 16:26
+**Total:** 7 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Stock market today: Dow, S&P 500, Nasdaq rise as tech gains for second day, chip stocks rally
+## 1. Stock Market News, Oct. 27, 2026: Tech Stocks Extend Gains After Yesterday’s Anthropic Rally
+
+**Fonte:** wsj.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Updated Oct.  27, 2026 at 8:09pm ET
+
+# Stock Market News, Oct.  27, 2026: Tech Stocks Extend Gains After Yesterday’s Anthropic Rally
+
+## In focus: Israeli elections that could prove consequential in course of Iran war
+
+The Anthropic-inspired rally extended into day two: Tech stocks rose, pushing the Nasdaq 1.
+
+[Ler noticia completa](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2026)
+
+---
+
+## 2. NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo Finance
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-AI chip heavyweight Nvidia (NVDA) said it would invest $3 billion in Meta (META) after the social media giant announced plans to raise $95 billion for its infrastructure buildout. 
+| Field | Value |
+ --- |
+| Current price | 217. 44 |
+| Target high price | 515. 00 |
+| Target low price | 180.
 
-  Nvidia also said that it will partner with Meta to expand their work on Muse and the Muse family of models to improve inference and training performance. 
-
-  "AI agents represent a new computing paradigm — software that understands our goals, reasons, uses tools and gets work done on our behalf," said Nvidia CEO Jensen Huang in a statement.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-tech-sector-160557664.html)
-
----
-
-## 2. Datasite Connects Live Deal Data to Emma Legal’s AI Workspace | Markets Insider
-
-**Fonte:** markets.businessinsider.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-MINNEAPOLIS, Oct.  27, 2026 (GLOBE NEWSWIRE) -- Datasite, the essential infrastructure for mergers and acquisitions (M&A), today announced a partnership with Emma Legal to connect Datasite’s live data rooms directly to Emma Legal’s AI workspace for legal due diligence.  The integration helps legal teams review current deal documents and produce findings linked to the original documents.
-
-[Ler noticia completa](https://markets.businessinsider.com/news/stocks/datasite-connects-live-deal-data-to-emma-legal-s-ai-workspace-1036670971)
+[Ler noticia completa](https://finance.yahoo.com/quote/NVDA)
 
 ---
 
-## 3. DLR Digital Realty Trust, Inc.
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers.  DLR also develops data center platforms for.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/DLR)
-
----
-
-## 4. Bull of the Day: Taiwan Semiconductor Manufacturing Company (TSM)
+## 3. Stocks get AI lift, dollar holds steady ahead of Fed decision
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
@@ -59,36 +52,73 @@ Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral inte
 1.  Crypto
 2.  AI
 
-Zacks
+Reuters
 
-# Bull of the Day: Taiwan Semiconductor Manufacturing Company (TSM)
+# Stocks get AI lift, dollar holds steady ahead of Fed decision
 
-Benjamin Rains
+By Rae Wee
 
-5 min read
+3 min read
 
- TSM
+ MSFT
 
-  +1.
+  -0.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/articles/bull-day-taiwan-semiconductor-manufacturing-070000451.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stocks-ai-lift-dollar-holds-014425181.html)
 
 ---
 
-## 5. U.S. Stock Futures Point Higher as AI Developments and Earnings Support Market Recovery: Dow Jones, S&P, Nasdaq, Wall Street
+## 4. META Q3 deep dive: AI investments drive engagement, legal costs hit margins, Muse launches
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-1.  Crypto
-2.  AI
+### Meta (META) Q3 2026 highlights:
 
-InvestorsHub
+ Revenue: $64. 6 billion vs analyst estimates of $63. 35 billion (26.
 
-# U.
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/meta-q3-deep-dive-ai-082227868.html)
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-point-higher-133433523.html)
+---
+
+## 5. AXP Q3 deep dive: premium growth drivers and AI investments amid competitive headwinds
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+AI and digital service investments: The company is expanding AI-driven personalized recommendations, digital onboarding, and proactive customer service initiatives.  Partnerships with OpenAI and new features like Wishlist Builder and conversational AI agents were highlighted as ways to improve member experience. 
+ Restructuring and efficiency focus: A $336 million restructuring charge was taken to support long-term efficiency, resulting in a 5% reduction in positions and intended to streamline decision-making and boost investment capacity for future growth priorities.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/axp-q3-deep-dive-premium-135847309.html)
+
+---
+
+## 6. Nvidia vs TSMC: Here’s Which One May Be the Biggest AI Winner.
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+All of this has translated into growth for the manufacturer.  In the latest earnings update, TSMC reported its sixth straight quarter of record profit, and revenue and net income surpassed analysts' estimates.  Still, revenue of $46 billion for the period is low compared with Nvidia's.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/nvidia-vs-tsmc-one-may-083002654.html)
+
+---
+
+## 7. Distillate Capital Q3 2026 Letter To Investors
+
+**Fonte:** seekingalpha.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+We are growing weary of discussing the AI trade somewhat repeatedly in the last several letters.  That said, the figures are not those of a typical market cycle and they consume our time as the outcome will likely prove relevant to stock returns for the next decade or longer.  In that context, even more remarkable than the fact that the market gained $30 trillion in value in three years is the concentration of that gain.
+
+[Ler noticia completa](https://seekingalpha.com/article/4956793-distillate-capital-q3-2026-letter-to-investors)
 
 ---
