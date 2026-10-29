@@ -3,15 +3,43 @@
     "versao": "1.0",
     "data": "2026-10-29",
     "total_noticias": 6,
-    "gerado_em": "2026-10-29T09:17:24.077230"
+    "gerado_em": "2026-10-29T16:37:34.640207"
   },
   "noticias": [
     {
-      "titulo": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-gains-3-reported-20-163555398.html",
+      "titulo": "Beyond NVIDIA: Why TSMC Stock Looks Attractive After Q3 Earnings",
+      "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-why-tsmc-stock-180000531.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-28",
-      "resumo": "## Key Takeaways\n\n TSMC shares rose 3% today after Taiwan's Commercial Times reported that the company is preparing to raise prices for its CoWoS AI chip packaging by up to 20%. \n The increase would land on customers like Nvidia and AMD, and it shows that demand for TSMC's advanced packaging is still bigger than its capacity. \n Analysts expect TSMC's earnings per share to more than double from 2025 to 2027, yet the stock trades below its five-year average forward P/E.",
+      "resumo": "## TSMC vs.  NVIDIA: Two Different AI Growth Opportunities\n\nNVIDIA reported fiscal second-quarter 2027 revenues of $96. 2 billion, up 106% year over year.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "MIVPN Stock Price | Global X Data Center REITS & Digital Infrastructur ETF - Investing.com",
+      "url": "https://www.investing.com/etfs/mivpn",
+      "fonte": "investing.com",
+      "data": "2026-10-26",
+      "resumo": "|  |  |  | Upside |  |  |  |\n ---  ---  --- \n| American Tower Corp | AMT | 14. 30% | aa. aa | 188.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 2.68%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-268-4980728",
+      "fonte": "investing.com",
+      "data": "2026-10-28",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| FFIV | 365.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -21,26 +49,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Meta Platforms Just Delivered Great News to AI Stock Investors",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-just-delivered-great-070502030.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-28",
-      "resumo": "Then, following the company's second-quarter earnings report, the stock plunged after it reported its first quarter with negative free cash flow, as investors took a skeptical stance toward its spending plans on AI infrastructure. \n\nIn that earnings report, Meta also announced that it would create a new class of non-voting shares, intended to help it raise money to fund its AI ambitions, and the company isn't wasting any time doing so. \n\nWhite Meta infinity logo over a blue-tinted modern office building.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Datasite Connects Live Deal Data to Emma Legal’s AI Workspace",
-      "url": "https://finance.yahoo.com/technology/ai/articles/datasite-connects-live-deal-data-130000177.html",
-      "fonte": "finance.yahoo.com",
+      "titulo": "Brazil Stock Market - Investing.com",
+      "url": "https://www.investing.com/equities/brazil",
+      "fonte": "investing.com",
       "data": "2026-10-27",
-      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nThis is a paid press release.",
-      "sentimento": "neutral",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| ORCL | 144.",
+      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -49,12 +63,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI giants' funding ambitions test Wall Street's appetite for risk",
-      "url": "https://finance.yahoo.com/news/ai-giants-funding-ambitions-test-141616195.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-28",
-      "resumo": "The markets ​will also await signs of fundraising plans when Microsoft and Alphabet report earnings later on Wednesday. \n\nBy pressing ahead with their enormous funding plans, the biggest AI players are wagering that investors' fear of missing out on future returns will outweigh their fear of overpaying for them. \n\nAI stocks accounted for nearly 75% of the S&P 500 index's return in the first half of 2026, according to an analysis by Carson Group.",
-      "sentimento": "neutral",
+      "titulo": "A tale of two earnings calls - and our AI was on the right side of it",
+      "url": "https://www.investing.com/news/stock-market-news/a-tale-of-two-earnings-calls--and-our-ai-was-on-the-right-side-of-it-4981467",
+      "fonte": "investing.com",
+      "data": "2026-10-29",
+      "resumo": "Across the US strategies, 2026 returns show Mid-Cap Movers ahead of its benchmark by 35. 3 percentage points (up 46. 1%), Energy Elite by 28.",
+      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -63,26 +77,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil stocks, real tumble as Lula win shifts investor focus",
-      "url": "https://www.reuters.com/business/finance/investors-expect-markets-unwind-brazils-lula-reelected-2026-10-26",
-      "fonte": "reuters.com",
-      "data": "2026-10-26",
-      "resumo": "Technology Artificial Intelligence Cybersecurity.  Bovespa index fell 10% from its last close, stock exchange operator B3 said in a statement.  S&P Global Market.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI giants' funding ambitions test Wall Street's appetite for risk | Reuters",
-      "url": "https://www.reuters.com/legal/transactional/ai-giants-funding-ambitions-test-wall-streets-appetite-risk-2026-10-28",
-      "fonte": "reuters.com",
-      "data": "2026-10-28",
-      "resumo": "Oct 28 (Reuters) - The heavyweights of the AI industry are facing a reckoning on Wall Street, reflecting concerns over who will bear the cost of the artificial intelligence buildout that has fueled much of this year's stock market gains. \n\nAnthropic revealed paperwork for its ​initial public offering on Monday, paving the way for a share sale reportedly worth $100 billion as early as ‌next month. \n\nSign up here.",
-      "sentimento": "neutral",
+      "titulo": "Two AI Chipmakers Make Up 34% of America’s Earnings Boom - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
+      "fonte": "wsj.com",
+      "data": "2026-10-25",
+      "resumo": "Wall Street has rested much of its optimism about the stock market on a surge in corporate earnings.  The catch is that the profit growth is being driven by a handful of AI giants. \n\nAnalysts expect companies in the S&P 500 to report a 30% jump in third-quarter earnings from a year ago, according to FactSet, boosting investor confidence that the good times can keep rolling so long as businesses keep printing money.",
+      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"

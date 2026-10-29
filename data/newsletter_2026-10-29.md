@@ -1,106 +1,95 @@
 # Newsletter IA Bolsa — 2026-10-29
 
-**Gerado em:** 29/10/2026 09:17
+**Gerado em:** 29/10/2026 16:37
 **Total:** 6 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging
+## 1. Beyond NVIDIA: Why TSMC Stock Looks Attractive After Q3 Earnings
 
 **Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+## TSMC vs.  NVIDIA: Two Different AI Growth Opportunities
+
+NVIDIA reported fiscal second-quarter 2027 revenues of $96. 2 billion, up 106% year over year.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-why-tsmc-stock-180000531.html)
+
+---
+
+## 2. MIVPN Stock Price | Global X Data Center REITS & Digital Infrastructur ETF - Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+|  |  |  | Upside |  |  |  |
+ ---  ---  --- 
+| American Tower Corp | AMT | 14. 30% | aa. aa | 188.
+
+[Ler noticia completa](https://www.investing.com/etfs/mivpn)
+
+---
+
+## 3. Brazil stocks lower at close of trade; Bovespa down 2.68%
+
+**Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-## Key Takeaways
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| FFIV | 365.
 
- TSMC shares rose 3% today after Taiwan's Commercial Times reported that the company is preparing to raise prices for its CoWoS AI chip packaging by up to 20%. 
- The increase would land on customers like Nvidia and AMD, and it shows that demand for TSMC's advanced packaging is still bigger than its capacity. 
- Analysts expect TSMC's earnings per share to more than double from 2025 to 2027, yet the stock trades below its five-year average forward P/E.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/tsmc-gains-3-reported-20-163555398.html)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-268-4980728)
 
 ---
 
-## 2. Meta Platforms Just Delivered Great News to AI Stock Investors
+## 4. Brazil Stock Market - Investing.com
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Then, following the company's second-quarter earnings report, the stock plunged after it reported its first quarter with negative free cash flow, as investors took a skeptical stance toward its spending plans on AI infrastructure. 
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| ORCL | 144.
 
-In that earnings report, Meta also announced that it would create a new class of non-voting shares, intended to help it raise money to fund its AI ambitions, and the company isn't wasting any time doing so. 
-
-White Meta infinity logo over a blue-tinted modern office building.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/meta-platforms-just-delivered-great-070502030.html)
+[Ler noticia completa](https://www.investing.com/equities/brazil)
 
 ---
 
-## 3. Datasite Connects Live Deal Data to Emma Legal’s AI Workspace
+## 5. A tale of two earnings calls - and our AI was on the right side of it
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-1.  Crypto
-2.  AI
+Across the US strategies, 2026 returns show Mid-Cap Movers ahead of its benchmark by 35. 3 percentage points (up 46. 1%), Energy Elite by 28.
 
-   AI
-
-This is a paid press release.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/datasite-connects-live-deal-data-130000177.html)
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/a-tale-of-two-earnings-calls--and-our-ai-was-on-the-right-side-of-it-4981467)
 
 ---
 
-## 4. AI giants' funding ambitions test Wall Street's appetite for risk
+## 6. Two AI Chipmakers Make Up 34% of America’s Earnings Boom - WSJ
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** wsj.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The markets ​will also await signs of fundraising plans when Microsoft and Alphabet report earnings later on Wednesday. 
+Wall Street has rested much of its optimism about the stock market on a surge in corporate earnings.  The catch is that the profit growth is being driven by a handful of AI giants. 
 
-By pressing ahead with their enormous funding plans, the biggest AI players are wagering that investors' fear of missing out on future returns will outweigh their fear of overpaying for them. 
+Analysts expect companies in the S&P 500 to report a 30% jump in third-quarter earnings from a year ago, according to FactSet, boosting investor confidence that the good times can keep rolling so long as businesses keep printing money.
 
-AI stocks accounted for nearly 75% of the S&P 500 index's return in the first half of 2026, according to an analysis by Carson Group.
-
-[Ler noticia completa](https://finance.yahoo.com/news/ai-giants-funding-ambitions-test-141616195.html)
-
----
-
-## 5. Brazil stocks, real tumble as Lula win shifts investor focus
-
-**Fonte:** reuters.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Technology Artificial Intelligence Cybersecurity.  Bovespa index fell 10% from its last close, stock exchange operator B3 said in a statement.  S&P Global Market.
-
-[Ler noticia completa](https://www.reuters.com/business/finance/investors-expect-markets-unwind-brazils-lula-reelected-2026-10-26)
-
----
-
-## 6. AI giants' funding ambitions test Wall Street's appetite for risk | Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Oct 28 (Reuters) - The heavyweights of the AI industry are facing a reckoning on Wall Street, reflecting concerns over who will bear the cost of the artificial intelligence buildout that has fueled much of this year's stock market gains. 
-
-Anthropic revealed paperwork for its ​initial public offering on Monday, paving the way for a share sale reportedly worth $100 billion as early as ‌next month. 
-
-Sign up here.
-
-[Ler noticia completa](https://www.reuters.com/legal/transactional/ai-giants-funding-ambitions-test-wall-streets-appetite-risk-2026-10-28)
+[Ler noticia completa](https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53)
 
 ---
