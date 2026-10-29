@@ -1,60 +1,4 @@
 {
-  "https://www.bloomberg.com/news/articles/2026-10-20/ai-stocks-rally-after-super-micro-preliminary-sales-bring-relief": {
-    "hash": "f449e39b5b5a1d1870f65d0e7d829548",
-    "visto_em": "2026-10-21"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/buy-top-ranked-tech-stock-202600390.html": {
-    "hash": "14274e4b1e6e091e6ed95631a61415cc",
-    "visto_em": "2026-10-21"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/2-revolutionary-ai-stocks-241-112601840.html": {
-    "hash": "3bdaacc236d075849200b97b18a6537b",
-    "visto_em": "2026-10-21"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-great-ai-stocks-own-170953509.html": {
-    "hash": "22534d5b00c18957d6e1024e864703fe",
-    "visto_em": "2026-10-21"
-  },
-  "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef": {
-    "hash": "d5943af5e6ae4c4639a0db0e9742c68f",
-    "visto_em": "2026-10-21"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-higher-asian-ai-084300656.html": {
-    "hash": "2f0b2189199cabb2058ac09099c78f77",
-    "visto_em": "2026-10-21"
-  },
-  "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html": {
-    "hash": "74f606550233c0686adb0d2174a04604",
-    "visto_em": "2026-10-21"
-  },
-  "https://www.investing.com/analysis/2-longshort-etf-macro-trade-ideas-for-active-investors-200689965": {
-    "hash": "4c86e1b104adbdb983d35680a78635b6",
-    "visto_em": "2026-10-21"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/global-physical-artificial-intelligence-ai-093000493.html": {
-    "hash": "9ebe8dc98497e15d629a590e71344faf",
-    "visto_em": "2026-10-21"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/m-soaring-close-record-level-192956008.html": {
-    "hash": "715f6df5956bf9d55865d4a9c3346650",
-    "visto_em": "2026-10-21"
-  },
-  "https://finance.yahoo.com/quote/AI": {
-    "hash": "83740f09b2e17bf40f31e3882cbbcd51",
-    "visto_em": "2026-10-21"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/msci-q3-deep-dive-ai-120639630.html": {
-    "hash": "518647d8990be9ddd8c65c705ad93a07",
-    "visto_em": "2026-10-21"
-  },
-  "https://www.forbes.com/sites/johnsviokla/2026/10/16/private-equity-uses-ai-at-the-front-of-the-deal-cycle--how-about-the-back": {
-    "hash": "85255933e5f322a0c8a2251180810074",
-    "visto_em": "2026-10-21"
-  },
-  "https://seekingalpha.com/stock-ideas/ai-tech-stocks?page=386": {
-    "hash": "8265967df76124baf19daa1422bf57e2",
-    "visto_em": "2026-10-21"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/nasdaq-leads-gains-spacex-super-142805507.html": {
     "hash": "054855284491ce660d792070a542e734",
     "visto_em": "2026-10-22"
@@ -426,5 +370,29 @@
   "https://seekingalpha.com/article/4956793-distillate-capital-q3-2026-letter-to-investors": {
     "hash": "19608327b395762f90772788a9e54ebd",
     "visto_em": "2026-10-28"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tsmc-gains-3-reported-20-163555398.html": {
+    "hash": "d6be9c72f40da44bf65b8ec12fbd9df8",
+    "visto_em": "2026-10-29"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/meta-platforms-just-delivered-great-070502030.html": {
+    "hash": "d93f0be1e2971fd0c7a95c0d7a2ba547",
+    "visto_em": "2026-10-29"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/datasite-connects-live-deal-data-130000177.html": {
+    "hash": "73f2fc2b1ca1951ca5b3ef9d3a264b84",
+    "visto_em": "2026-10-29"
+  },
+  "https://finance.yahoo.com/news/ai-giants-funding-ambitions-test-141616195.html": {
+    "hash": "363f50884068574f7b762ad9708c5381",
+    "visto_em": "2026-10-29"
+  },
+  "https://www.reuters.com/business/finance/investors-expect-markets-unwind-brazils-lula-reelected-2026-10-26": {
+    "hash": "72f7da831dde0b9f2a631fbebee73562",
+    "visto_em": "2026-10-29"
+  },
+  "https://www.reuters.com/legal/transactional/ai-giants-funding-ambitions-test-wall-streets-appetite-risk-2026-10-28": {
+    "hash": "5aa5078f7f6f289f491953c086f7846c",
+    "visto_em": "2026-10-29"
   }
 }

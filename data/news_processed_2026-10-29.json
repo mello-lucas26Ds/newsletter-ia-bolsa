@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-29",
+    "total_noticias": 6,
+    "gerado_em": "2026-10-29T09:17:24.077230"
+  },
+  "noticias": [
+    {
+      "titulo": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-gains-3-reported-20-163555398.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-28",
+      "resumo": "## Key Takeaways\n\n TSMC shares rose 3% today after Taiwan's Commercial Times reported that the company is preparing to raise prices for its CoWoS AI chip packaging by up to 20%. \n The increase would land on customers like Nvidia and AMD, and it shows that demand for TSMC's advanced packaging is still bigger than its capacity. \n Analysts expect TSMC's earnings per share to more than double from 2025 to 2027, yet the stock trades below its five-year average forward P/E.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Meta Platforms Just Delivered Great News to AI Stock Investors",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-just-delivered-great-070502030.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-28",
+      "resumo": "Then, following the company's second-quarter earnings report, the stock plunged after it reported its first quarter with negative free cash flow, as investors took a skeptical stance toward its spending plans on AI infrastructure. \n\nIn that earnings report, Meta also announced that it would create a new class of non-voting shares, intended to help it raise money to fund its AI ambitions, and the company isn't wasting any time doing so. \n\nWhite Meta infinity logo over a blue-tinted modern office building.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Datasite Connects Live Deal Data to Emma Legal’s AI Workspace",
+      "url": "https://finance.yahoo.com/technology/ai/articles/datasite-connects-live-deal-data-130000177.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-27",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nThis is a paid press release.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI giants' funding ambitions test Wall Street's appetite for risk",
+      "url": "https://finance.yahoo.com/news/ai-giants-funding-ambitions-test-141616195.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-28",
+      "resumo": "The markets ​will also await signs of fundraising plans when Microsoft and Alphabet report earnings later on Wednesday. \n\nBy pressing ahead with their enormous funding plans, the biggest AI players are wagering that investors' fear of missing out on future returns will outweigh their fear of overpaying for them. \n\nAI stocks accounted for nearly 75% of the S&P 500 index's return in the first half of 2026, according to an analysis by Carson Group.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks, real tumble as Lula win shifts investor focus",
+      "url": "https://www.reuters.com/business/finance/investors-expect-markets-unwind-brazils-lula-reelected-2026-10-26",
+      "fonte": "reuters.com",
+      "data": "2026-10-26",
+      "resumo": "Technology Artificial Intelligence Cybersecurity.  Bovespa index fell 10% from its last close, stock exchange operator B3 said in a statement.  S&P Global Market.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI giants' funding ambitions test Wall Street's appetite for risk | Reuters",
+      "url": "https://www.reuters.com/legal/transactional/ai-giants-funding-ambitions-test-wall-streets-appetite-risk-2026-10-28",
+      "fonte": "reuters.com",
+      "data": "2026-10-28",
+      "resumo": "Oct 28 (Reuters) - The heavyweights of the AI industry are facing a reckoning on Wall Street, reflecting concerns over who will bear the cost of the artificial intelligence buildout that has fueled much of this year's stock market gains. \n\nAnthropic revealed paperwork for its ​initial public offering on Monday, paving the way for a share sale reportedly worth $100 billion as early as ‌next month. \n\nSign up here.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
