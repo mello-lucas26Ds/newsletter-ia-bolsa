@@ -366,5 +366,45 @@
   "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27": {
     "hash": "1fd3db45978e72ea369a90109253514d",
     "visto_em": "2026-10-30"
+  },
+  "https://finance.yahoo.com/quote/AI": {
+    "hash": "7dc4ea4661363f28d3d74e5aedb884bb",
+    "visto_em": "2026-10-30"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/yardeni-says-ai-investment-boom-174441946.html": {
+    "hash": "3ad2842a7ce12f457eea095e8dc5e215",
+    "visto_em": "2026-10-30"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/3-ai-data-centre-stocks-081801138.html": {
+    "hash": "c50bffe2c3a06500ef907e4e74c1272e",
+    "visto_em": "2026-10-30"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-retail-investors-210919323.html": {
+    "hash": "4214871e9733d2d6aef7ebf9b7f654c1",
+    "visto_em": "2026-10-30"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-buy-hold-165000893.html": {
+    "hash": "83e1a4768e685bfdfed3a6fcdcaa142d",
+    "visto_em": "2026-10-30"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html": {
+    "hash": "4cf4287642e93a3003440ea8692424f1",
+    "visto_em": "2026-10-30"
+  },
+  "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt": {
+    "hash": "d6acb4aabfbd7485d583dde6d54122f1",
+    "visto_em": "2026-10-30"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/wall-street-63-billion-ai-145758109.html": {
+    "hash": "eb5f95e07ef9dcaf1bb9ff2feaee40b8",
+    "visto_em": "2026-10-30"
+  },
+  "https://www.wsj.com/finance/stocks/ai-selloff-deepens-oil-jumps-and-crypto-falls-4703d21b": {
+    "hash": "e9329cc39f562616722c6037ca38cf66",
+    "visto_em": "2026-10-30"
+  },
+  "https://za.investing.com/news/stock-market-news/luda-technology-acquires-55-stake-in-ai-data-center-firm-93CH-4539440": {
+    "hash": "266211449ccef4eff0e42943c0eb45dd",
+    "visto_em": "2026-10-30"
   }
 }
