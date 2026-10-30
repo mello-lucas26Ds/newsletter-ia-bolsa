@@ -1,84 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-leads-gains-spacex-super-142805507.html": {
-    "hash": "054855284491ce660d792070a542e734",
-    "visto_em": "2026-10-22"
-  },
-  "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html": {
-    "hash": "f69b636c81fe85e2833822f3e540fb7f",
-    "visto_em": "2026-10-22"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/4-billion-reason-buy-tsmc-145139543.html": {
-    "hash": "7ca6ceac3764b3fc9109bf3e0082fb29",
-    "visto_em": "2026-10-22"
-  },
-  "https://www.reuters.com/legal/transactional/nasdaq-futures-lead-gains-spacex-super-micro-results-lift-ai-trade-2026-10-21": {
-    "hash": "e336d64ba35c505f805dc0a4557a1658",
-    "visto_em": "2026-10-22"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stocks-see-support-positive-ai-151308580.html": {
-    "hash": "62940b52605d6876d375bc3fa9afa1ff",
-    "visto_em": "2026-10-22"
-  },
-  "https://www.investing.com/analysis/metas-ai-momentum-meets-a-market-already-pricing-in-strong-earnings-200690004": {
-    "hash": "b69dd9e33505ce274c3afb0b53fa8015",
-    "visto_em": "2026-10-22"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-going-1-130801661.html": {
-    "hash": "a66bb1c690fdd9751f465185a25f6b68",
-    "visto_em": "2026-10-22"
-  },
-  "https://finance.yahoo.com/video/trajan-wealth-cio-david-busch-142523656.html": {
-    "hash": "f2412e41cde7315e297fc65fee8054e4",
-    "visto_em": "2026-10-22"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-just-posted-record-profit-025002550.html": {
-    "hash": "6becb1e6025e923e3aafb9a4daedaaf8",
-    "visto_em": "2026-10-22"
-  },
-  "https://www.investing.com/analysis/4-stocks-to-watch-this-earnings-season-beyond-big-tech-and-ai-200689838": {
-    "hash": "7341deffdb8f4a79a25a28d7f22c8f35",
-    "visto_em": "2026-10-22"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-stock-market-bubble-close-113300851.html": {
-    "hash": "086fa3dda7c352f443daa0eba6751419",
-    "visto_em": "2026-10-22"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-stock-2026-173209374.html": {
-    "hash": "34072eaaf504d2287970728e9133682f",
-    "visto_em": "2026-10-22"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/pick-best-ai-stocks-october-031730690.html": {
-    "hash": "4fa811c81f174849ef83098e219a6b04",
-    "visto_em": "2026-10-22"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/2-tech-stocks-buy-now-153700180.html": {
-    "hash": "ad5f45e97bca09d038d9a6e0aa910817",
-    "visto_em": "2026-10-22"
-  },
-  "https://br.investing.com/etfs/xaix-nasdaq": {
-    "hash": "08264a5f90dce611220f46417a58065f",
-    "visto_em": "2026-10-22"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-posts-record-q3-223600229.html": {
-    "hash": "7ef51879f518d7077772a5743bb47969",
-    "visto_em": "2026-10-22"
-  },
-  "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7": {
-    "hash": "52c25f5f685323147a85f6b642ac867c",
-    "visto_em": "2026-10-22"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-profit-soars-69-next-134131519.html": {
-    "hash": "49ef1a374c187f0cb87cc5933c237ede",
-    "visto_em": "2026-10-22"
-  },
-  "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c": {
-    "hash": "765194dbdca81a720b229ccad4986528",
-    "visto_em": "2026-10-22"
-  },
-  "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20": {
-    "hash": "25f256f03cd3908666251fd0eefdbf9e",
-    "visto_em": "2026-10-22"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/4-stocks-demand-sticky-ai-112500305.html": {
     "hash": "287e6052aa32c6aa33be7a97041cca6f",
     "visto_em": "2026-10-23"
@@ -418,5 +338,33 @@
   "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53": {
     "hash": "29b7bbfea5dff49edf31b6e77b25f710",
     "visto_em": "2026-10-29"
+  },
+  "https://markets.businessinsider.com/news/stocks/datasite-partners-with-prudentia-sciences-to-accelerate-life-sciences-diligence-1036685017": {
+    "hash": "c911444e0227fdadfefc6da7a6dbab62",
+    "visto_em": "2026-10-30"
+  },
+  "https://in.investing.com/indices/brazil-index-50-components": {
+    "hash": "1ccc2111b73a61bdb8819db04cb8de56",
+    "visto_em": "2026-10-30"
+  },
+  "https://www.investing.com/indices/bovespa": {
+    "hash": "d506e1970ffb91a61539af742c23b6ee",
+    "visto_em": "2026-10-30"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsm-vs-mu-semiconductor-stock-180000593.html": {
+    "hash": "580464a9ff8b130c6a9f8659219b2180",
+    "visto_em": "2026-10-30"
+  },
+  "https://finance.yahoo.com/video/wall-street-expert-phil-rosen-172313010.html": {
+    "hash": "239fb50fdfdaa1775d54a2d693e821ae",
+    "visto_em": "2026-10-30"
+  },
+  "https://www.reuters.com/technology/big-tech-earnings-test-ai-boom-amid-market-turmoil-2026-10-27": {
+    "hash": "10aad129ce6f22c28de34d1319c56ecb",
+    "visto_em": "2026-10-30"
+  },
+  "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27": {
+    "hash": "1fd3db45978e72ea369a90109253514d",
+    "visto_em": "2026-10-30"
   }
 }
