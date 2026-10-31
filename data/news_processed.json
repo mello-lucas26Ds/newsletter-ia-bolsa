@@ -2,10 +2,94 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-10-31",
-    "total_noticias": 75,
-    "gerado_em": "2026-10-31T09:14:46.398977"
+    "total_noticias": 81,
+    "gerado_em": "2026-10-31T15:37:29.410628"
   },
   "noticias": [
+    {
+      "titulo": "If AI Spending Slows in 2027, These Semiconductor Stocks Could Hold Up Best",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-spending-slows-2027-semiconductor-175803858.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-30",
+      "resumo": "NVDA price target\n\nNVDA Price Target — 24/7 Wall St. \n\n \n\nAll three exceeded their most recent EPS estimates.  NVIDIA's $2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI stock selloffs fuel fears Big Tech's best quarters are over",
+      "url": "https://finance.yahoo.com/technology/articles/ai-stock-selloffs-fuel-fears-161635350.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-30",
+      "resumo": "Some investors have expressed concerns that the AI rally has inflated some shares too much.  Hundreds of billions of dollars are being spent on data centers and the research to build and test the powerful large language models behind AI, but it remains uncertain whether future profits will justify the investment. \n\nCompanies have yet to prove they have enough customers for the technology and, at the same time, have expressed the need to slow down the pace of development to ensure it can be safely managed.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "2 AI Stocks Poised to Surge on the Halloween Effect",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-ai-stocks-poised-surge-180000078.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-30",
+      "resumo": "Looking ahead, management expects continued growth, with revenues projected to come in at $108 billion, plus or minus 2%, in the fiscal third quarter of 2027.  NVIDIA's Vera Rubin platform has now entered full production, which has positioned the company to gain from the increase in demand for AI infrastructure. \n\nMeanwhile, NVIDIA's net income and GAAP operating income have increased.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Agentic AI excitement runs ahead of results",
+      "url": "https://www.investing.com/news/stock-market-news/agentic-ai-excitement-runs-ahead-of-results-4989096",
+      "fonte": "investing.com",
+      "data": "2026-10-31",
+      "resumo": "In this article:\n\nINTU+2. 99%\n\nCRM-0. 75%\n\nWDAY+1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Just Dropped 11% in a Month. Is It Time to Sell, or Load Up?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-just-dropped-11-month-074208718.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-31",
+      "resumo": "TSM Normalized EPS Estimates: 2024-2028 (TIKR)\n\nTSM Normalized EPS Estimates: 2024-2028 (TIKR)\n\n \n\nAnalysts have raised that 2027 figure by 16% since the end of June, and TSMC's October numbers gave them no reason to reverse course. \n\n## TIKR Tracks 21 Analysts on TSMC.  How Many Say \"Buy\".",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq faces $2 trillion wipeout in October as AI spending ...",
+      "url": "https://www.reuters.com/business/media-telecom/nasdaq-faces-2-trillion-wipeout-october-ai-spending-fears-deepen-2026-10-30",
+      "fonte": "reuters.com",
+      "data": "2026-10-30",
+      "resumo": "More than $2 trillion in market value is set to be wiped from the tech-heavy Nasdaq 100 this month, Nasdaq 100 −$2. 6T Alphabet −$787. 3B Nvidia.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Datasite Partners with Prudentia Sciences to Accelerate Life Sciences Diligence",
       "url": "https://finance.yahoo.com/healthcare/articles/datasite-partners-prudentia-sciences-accelerate-130000924.html",
