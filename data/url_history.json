@@ -1,52 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/4-stocks-demand-sticky-ai-112500305.html": {
-    "hash": "287e6052aa32c6aa33be7a97041cca6f",
-    "visto_em": "2026-10-23"
-  },
-  "https://br.investing.com/etfs/global-x-cloud-computing": {
-    "hash": "1a5bdcd4ae97866afe26e7b3b7b61572",
-    "visto_em": "2026-10-23"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-merger-reshape-musk-181603033.html": {
-    "hash": "d656a15d8c5dab2e5f2a0c653e1f6890",
-    "visto_em": "2026-10-23"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/monroe-capital-won-t-touch-205906491.html": {
-    "hash": "a8b4e32154cfe996c5c548c0be27f548",
-    "visto_em": "2026-10-23"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-115-4967430": {
-    "hash": "b4029c8b0ea350f9cff23283d1075815",
-    "visto_em": "2026-10-23"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/earnings-flood-fed-meeting-pose-100557196.html": {
-    "hash": "22665a79dcf8148f3c4a187942f29b6c",
-    "visto_em": "2026-10-23"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-157-4961070": {
-    "hash": "34ddcf75f2abd45612b53da53506b4bf",
-    "visto_em": "2026-10-23"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-086-4964019": {
-    "hash": "2add5ece6b7da27a1e9eec2017a625da",
-    "visto_em": "2026-10-23"
-  },
-  "https://www.investing.com/indices/ibovespa-usd": {
-    "hash": "ae5a07cf94ee0314e595a362e2f177d2",
-    "visto_em": "2026-10-23"
-  },
-  "https://www.reuters.com/business/nasdaq-futures-drop-over-1-ai-worries-resurface-oil-climbs-2026-10-22": {
-    "hash": "4d956625b44b3223d1ba1e08b1a0d28e",
-    "visto_em": "2026-10-23"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-artificial-intelligence-ai-stocks-190502789.html": {
-    "hash": "977c193cca9b646931cdefccb0ab28f5",
-    "visto_em": "2026-10-23"
-  },
-  "https://www.marketwatch.com/investing/stock/tsm": {
-    "hash": "b52acc5271833c85ae91dfabeec5220f",
-    "visto_em": "2026-10-23"
-  },
   "https://finance.yahoo.com/real-estate/articles/3-us-data-center-reit-151526841.html": {
     "hash": "cab7348643b81dade1e34f7640c97c03",
     "visto_em": "2026-10-24"
@@ -406,5 +358,45 @@
   "https://za.investing.com/news/stock-market-news/luda-technology-acquires-55-stake-in-ai-data-center-firm-93CH-4539440": {
     "hash": "266211449ccef4eff0e42943c0eb45dd",
     "visto_em": "2026-10-30"
+  },
+  "https://finance.yahoo.com/healthcare/articles/datasite-partners-prudentia-sciences-accelerate-130000924.html": {
+    "hash": "0372afb9b3383501b639e10ba22ce34f",
+    "visto_em": "2026-10-31"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/jim-cramer-sees-more-pain-101500280.html": {
+    "hash": "217d452df82ba773812e851912cf3a89",
+    "visto_em": "2026-10-31"
+  },
+  "https://www.marketwatch.com/story/starlink-ai-acquisition-in-deal-to-take-spider-digital-technology-public-7909e394?mod=markets": {
+    "hash": "06772d21ef07ef04ef210a8c334372b4",
+    "visto_em": "2026-10-31"
+  },
+  "https://markets.businessinsider.com/news/stocks/spider-digital-technology-ltd-and-starlink-ai-acquisition-corporation-announce-definitive-business-combination-agreement-1036694763": {
+    "hash": "e253fc737eb32c08175c05bd0df1b44e",
+    "visto_em": "2026-10-31"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-crushed-nasdaq-futures-132530459.html": {
+    "hash": "294b69a31162ccfc0269f9dfe88ff725",
+    "visto_em": "2026-10-31"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-120002802.html": {
+    "hash": "3c82979f890a84bbca53f625ab6c1cdf",
+    "visto_em": "2026-10-31"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tech-firms-fresh-hit-earnings-024928854.html": {
+    "hash": "662eeec3d165480ed8deae645bee429d",
+    "visto_em": "2026-10-31"
+  },
+  "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30": {
+    "hash": "d9300dc6c9e6aa50c4f34e3a0ff54fe0",
+    "visto_em": "2026-10-31"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html": {
+    "hash": "91c0ec7f5e884b4f8d328c272f97af66",
+    "visto_em": "2026-10-31"
+  },
+  "https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html": {
+    "hash": "2fbc1dcaf6dbb1e1d17183f5c7e62f2c",
+    "visto_em": "2026-10-31"
   }
 }

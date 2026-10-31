@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-10-31",
+    "total_noticias": 10,
+    "gerado_em": "2026-10-31T09:14:46.397420"
+  },
+  "noticias": [
+    {
+      "titulo": "Datasite Partners with Prudentia Sciences to Accelerate Life Sciences Diligence",
+      "url": "https://finance.yahoo.com/healthcare/articles/datasite-partners-prudentia-sciences-accelerate-130000924.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-29",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nThis is a paid press release.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Jim Cramer sees more pain for beaten-down AI stocks: ‘I think it’s too soon to say the coast is clear’",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-sees-more-pain-101500280.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-30",
+      "resumo": "Another key AI market issue to track is how sector companies are managing their budget for chips, data centers, talent and other resources.  Exhibit A is tech giant Meta Platforms (NASDAQ: META), which noted \"free cash flow was negative $2. 12 billion\" in its third-quarter 2026 earnings report.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Starlink AI Acquisition in Deal to Take Spider Digital Technology Public - MarketWatch",
+      "url": "https://www.marketwatch.com/story/starlink-ai-acquisition-in-deal-to-take-spider-digital-technology-public-7909e394?mod=markets",
+      "fonte": "marketwatch.com",
+      "data": "2026-10-30",
+      "resumo": "MarketWatch Logo\n\nStarlink AI Acquisition in Deal to Take Spider Digital Technology Public\n\n## \n\n### Account Settings\n\nNewswires\n\n# Starlink AI Acquisition in Deal to Take Spider Digital Technology Public\n\nBy Stephen Nakrosis\n\nBlank-check company Starlink AI Acquisition said it entered an agreement to take Spider Digital Technology, an operator of a cryptocurrency mining pool, public. \n\nThe deal assigns Spider Digital a valuation of $250 million for purposes of determining the merger consideration, the companies said.  [.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Spider Digital Technology Ltd. and Starlink AI Acquisition Corporation Announce Definitive Business Combination Agreement | Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/spider-digital-technology-ltd-and-starlink-ai-acquisition-corporation-announce-definitive-business-combination-agreement-1036694763",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-10-30",
+      "resumo": "About Starlink AI Acquisition Corporation\n\nStarlink AI is a blank check company incorporated as a Cayman Islands exempted company for the purpose of entering into a merger, share exchange, asset acquisition, stock purchase, recapitalization, reorganization or other similar business combination with one or more businesses or entities.  Starlink AI’s efforts to identify a prospective target business will not be limited to a particular industry or geographic region.  For more information, please visit: \n\nAbout Spider Digital Technology Ltd.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-crushed-nasdaq-futures-132530459.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-30",
+      "resumo": "\"Mega-cap stocks have faced increased selling pressure over the past two weeks as elevated AI-related spending and rising financing costs raise concerns over the path to profitability,\" Adam Turnquist, chief cross-asset strategist for brokerage firm LPL Financial, said in an email.  \"Recent earnings reports have added to these concerns, revealing slowing growth in select hyperscalers' core businesses. \"\n\nInvestors have been banking on the explosive growth of AI, which has propelled the stock market to record highs, to continue to dominate.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is Attracting Investor Attention: Here is What You Should Know",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-120002802.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-30",
+      "resumo": "We essentially look at how sell-side analysts covering the stock are revising their earnings estimates to reflect the impact of the latest business trends.  And if earnings estimates go up for a company, the fair value for its stock goes up.  A higher fair value than the current market price drives investors' interest in buying the stock, leading to its price moving higher.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech firms take fresh hit as earnings misses fan AI fears",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tech-firms-fresh-hit-earnings-024928854.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-30",
+      "resumo": "1.  Crypto\n2.  AI\n\nAFP\n\n# Tech firms take fresh hit as earnings misses fan AI fears\n\nAFP\n\n4 min read\n\n GOOG\n\n  -12.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq futures sink as Amazon, Intel intensify AI spending fears | Reuters",
+      "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30",
+      "fonte": "reuters.com",
+      "data": "2026-10-30",
+      "resumo": "The broader semiconductor space was under pressure, with Nvidia (NVDA. O) down 3% and AMD (AMD. O) sliding 8.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-30",
+      "resumo": "It's too early to know whether AI is involved.  Automated cryptocurrency transactions are not new, and investigators have yet to establish whether AI played any role in the attack itself. \n Ines Ferré\n\n  Ines Ferré\n\n  ## Stocks at session lows as tech takes a hit, Nasdaq on pace for worst day since June\n\n  Stocks fell to session lows in afternoon trading as the technology (XLK) sector took a hit.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI stocks sell off as investors question AI spending returns",
+      "url": "https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html",
+      "fonte": "cnbc.com",
+      "data": "2026-10-30",
+      "resumo": "It may be time to take some profits or hedge your risk. \n\nThis week, frontier algorithm maker Anthropic's public filing document didn't contain much information on forthcoming revenues after the company reported a deceleration in sales from the second to the third quarter.  At the same time, we learned from the Big Tech earnings reports that hyperscalers are pulling back on their capital expenditures, suggesting they see a terminal level of required computing power at some point in the future.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
