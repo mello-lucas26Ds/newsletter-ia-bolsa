@@ -1,52 +1,4 @@
 {
-  "https://finance.yahoo.com/real-estate/articles/3-us-data-center-reit-151526841.html": {
-    "hash": "cab7348643b81dade1e34f7640c97c03",
-    "visto_em": "2026-10-24"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-steady-ai-selloff-084400333.html": {
-    "hash": "1ddbc654b94e12a7b7f2d5f0d4a7832d",
-    "visto_em": "2026-10-24"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-121300756.html": {
-    "hash": "2776911b0e3b18707c0f4c564436d74e",
-    "visto_em": "2026-10-24"
-  },
-  "https://www.reuters.com/business/wall-st-week-ahead-earnings-flood-fed-meeting-pose-pivotal-tests-rickety-ai-2026-10-23": {
-    "hash": "3ea06d05e7abc0d4e73497031c591ce7",
-    "visto_em": "2026-10-24"
-  },
-  "https://sg.finance.yahoo.com/news/another-ai-power-stock-plunges-233752695.html": {
-    "hash": "40de7d875d59be36e55e2af1786a3273",
-    "visto_em": "2026-10-24"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/1-reason-tsmc-stock-could-090300726.html": {
-    "hash": "12dded92b32c7be85f46821291eea1d4",
-    "visto_em": "2026-10-24"
-  },
-  "https://markets.businessinsider.com/news/stocks/vdr-ai-partners-with-llm-co-to-deliver-custom-ai-hardware-and-private-llm-deployments-for-financial-institutions-1036652090": {
-    "hash": "6732cc3b6373646e5c03ab3776218af1",
-    "visto_em": "2026-10-24"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-positive-ai-news-204908262.html": {
-    "hash": "3971fc39e3f7fdf666a8777a843376ee",
-    "visto_em": "2026-10-24"
-  },
-  "https://www.wsj.com/finance/stocks/nasdaq-futures-steady-as-ai-selloff-pauses-275c6454": {
-    "hash": "38dd90942420882ba8699603ec21d70b",
-    "visto_em": "2026-10-24"
-  },
-  "https://finance.yahoo.com/quote/EQIX/news": {
-    "hash": "52f6f1d1d9294086001d97c4ac2f2130",
-    "visto_em": "2026-10-24"
-  },
-  "https://finance.yahoo.com/quote/TSM": {
-    "hash": "c9fedf3b18742a0ef2d7df125d1dabff",
-    "visto_em": "2026-10-24"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/amd-vs-tsmc-much-faster-185640358.html": {
-    "hash": "2739dc7c691d29ac781040f97d9d52a8",
-    "visto_em": "2026-10-24"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/equinix-earnings-preview-expect-115221771.html": {
     "hash": "b33f1e6cf64fda01468d874e1cc572b7",
     "visto_em": "2026-10-25"
@@ -422,5 +374,33 @@
   "https://www.reuters.com/business/media-telecom/nasdaq-faces-2-trillion-wipeout-october-ai-spending-fears-deepen-2026-10-30": {
     "hash": "7633bac8c3e3ec6371f06d0c6409d355",
     "visto_em": "2026-10-31"
+  },
+  "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html": {
+    "hash": "5e488e989bd63117f41cc0518e1b72ed",
+    "visto_em": "2026-11-01"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/5-fastest-growing-ai-stocks-173114475.html": {
+    "hash": "12574946fa91edbfa55a13a611c1c4c5",
+    "visto_em": "2026-11-01"
+  },
+  "https://finance.yahoo.com/video/nasdaq-100-falls-ai-trade-144750708.html": {
+    "hash": "1c5ac5b77fbf5203d2743185b0b1a148",
+    "visto_em": "2026-11-01"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-221029656.html": {
+    "hash": "8be217d52bb4541e57cc4b2494d02211",
+    "visto_em": "2026-11-01"
+  },
+  "https://finance.yahoo.com/real-estate/articles/digital-realty-trust-q3-earnings-101418119.html": {
+    "hash": "ba869193d79b7b7ebeac475c9be41115",
+    "visto_em": "2026-11-01"
+  },
+  "https://www.investing.com/news/earnings/digital-realty-earnings-up-next-as-ai-demand-fuels-data-center-boom-93CH-4984537": {
+    "hash": "cd86255e91d9dedc4eaaf7510c514b0a",
+    "visto_em": "2026-11-01"
+  },
+  "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse": {
+    "hash": "406a41946d396ea9fdcc66bab81d140a",
+    "visto_em": "2026-11-01"
   }
 }

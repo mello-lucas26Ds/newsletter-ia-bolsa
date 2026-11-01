@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-01",
+    "total_noticias": 7,
+    "gerado_em": "2026-11-01T10:01:54.095375"
+  },
+  "noticias": [
+    {
+      "titulo": "AI investments start to pay off in company earnings",
+      "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-01",
+      "resumo": "In this article\n\nSome companies are beginning to report financial benefits from artificial intelligence investments, as interest in the technology shifts from hype to measurable returns in the latest quarter. \n\nCorporate AI investment has surged as companies look to boost efficiency and become more profitable, reaching $581. 7 billion in 2025, up 130% from the previous year, according to the Stanford HAI 2026 AI Index report.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "5 Fastest-Growing AI Stocks to Buy Now",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-fastest-growing-ai-stocks-173114475.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-29",
+      "resumo": "### 3.  Marvell Technology Inc.  (NASDAQ:MRVL)\n\nMarvell Technology Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq 100 Falls as AI Trade Shows New Cracks",
+      "url": "https://finance.yahoo.com/video/nasdaq-100-falls-ai-trade-144750708.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-29",
+      "resumo": "1.  Crypto\n2.  AI\n\nBloomberg\n\n# Nasdaq 100 Falls as AI Trade Shows New Cracks\n\nBloomberg\n\n MSFT\n\n  -1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 AI Stocks With Earnings Growth Over 30%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-221029656.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-31",
+      "resumo": "NYSE:NOW Earnings & Revenue Growth as at Oct 2026\n\nNYSE:NOW Earnings & Revenue Growth as at Oct 2026\n\n \n\n## Infomart (TSE:2492)\n\nInfomart runs a B2B e-commerce platform in Japan that digitizes ordering, invoicing, contracts, and store operations, with its AI-OCR invox tool using AI to read faxes, emails, and PDFs so paperwork becomes an automated workflow.  It generated about ¥12. 4b from B to B-PF FOOD and ¥7.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Trust Q3 Earnings Call Highlights",
+      "url": "https://finance.yahoo.com/real-estate/articles/digital-realty-trust-q3-earnings-101418119.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-30",
+      "resumo": "## About Digital Realty Trust (NYSE:DLR)\n\nDigital Realty Trust, Inc is a real estate investment trust that owns, operates and develops data center facilities for businesses, cloud service providers, information technology companies and telecommunications organizations.  The company provides the physical infrastructure needed to support data storage, networking, cloud computing and other digital operations. \n\nIts services include data center colocation, interconnection and private connectivity solutions.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty earnings up next as AI demand fuels data center boom",
+      "url": "https://www.investing.com/news/earnings/digital-realty-earnings-up-next-as-ai-demand-fuels-data-center-boom-93CH-4984537",
+      "fonte": "investing.com",
+      "data": "2026-10-29",
+      "resumo": "The consensus view remains bullish.  Of 34 analysts covering the stock, 29 rate it a buy and five recommend holding, with no sell ratings.  The mean price target of $223.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Alphabet, Amazon, Meta Report Negative Free Cash Flow After Heavy AI Investment - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse",
+      "fonte": "bloomberg.com",
+      "data": "2026-10-31",
+      "resumo": "# AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse\n\nThe last two weeks were supposed to bring some clarity to a stock market wobbling on a series of risks, particularly doubts about heavy spending on artificial intelligence, as a series of technology giants reported their earnings. \n\nAfter seeing the numbers, the outlook is clearer.  Unfortunately for Wall Street, it’s also considerably darker.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

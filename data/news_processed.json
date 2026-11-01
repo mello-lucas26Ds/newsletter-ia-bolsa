@@ -1,11 +1,109 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-10-31",
-    "total_noticias": 81,
-    "gerado_em": "2026-10-31T15:37:29.410628"
+    "data": "2026-11-01",
+    "total_noticias": 79,
+    "gerado_em": "2026-11-01T10:01:54.097143"
   },
   "noticias": [
+    {
+      "titulo": "AI investments start to pay off in company earnings",
+      "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-01",
+      "resumo": "In this article\n\nSome companies are beginning to report financial benefits from artificial intelligence investments, as interest in the technology shifts from hype to measurable returns in the latest quarter. \n\nCorporate AI investment has surged as companies look to boost efficiency and become more profitable, reaching $581. 7 billion in 2025, up 130% from the previous year, according to the Stanford HAI 2026 AI Index report.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "5 Fastest-Growing AI Stocks to Buy Now",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-fastest-growing-ai-stocks-173114475.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-29",
+      "resumo": "### 3.  Marvell Technology Inc.  (NASDAQ:MRVL)\n\nMarvell Technology Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq 100 Falls as AI Trade Shows New Cracks",
+      "url": "https://finance.yahoo.com/video/nasdaq-100-falls-ai-trade-144750708.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-29",
+      "resumo": "1.  Crypto\n2.  AI\n\nBloomberg\n\n# Nasdaq 100 Falls as AI Trade Shows New Cracks\n\nBloomberg\n\n MSFT\n\n  -1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 AI Stocks With Earnings Growth Over 30%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-221029656.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-31",
+      "resumo": "NYSE:NOW Earnings & Revenue Growth as at Oct 2026\n\nNYSE:NOW Earnings & Revenue Growth as at Oct 2026\n\n \n\n## Infomart (TSE:2492)\n\nInfomart runs a B2B e-commerce platform in Japan that digitizes ordering, invoicing, contracts, and store operations, with its AI-OCR invox tool using AI to read faxes, emails, and PDFs so paperwork becomes an automated workflow.  It generated about ¥12. 4b from B to B-PF FOOD and ¥7.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Trust Q3 Earnings Call Highlights",
+      "url": "https://finance.yahoo.com/real-estate/articles/digital-realty-trust-q3-earnings-101418119.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-30",
+      "resumo": "## About Digital Realty Trust (NYSE:DLR)\n\nDigital Realty Trust, Inc is a real estate investment trust that owns, operates and develops data center facilities for businesses, cloud service providers, information technology companies and telecommunications organizations.  The company provides the physical infrastructure needed to support data storage, networking, cloud computing and other digital operations. \n\nIts services include data center colocation, interconnection and private connectivity solutions.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty earnings up next as AI demand fuels data center boom",
+      "url": "https://www.investing.com/news/earnings/digital-realty-earnings-up-next-as-ai-demand-fuels-data-center-boom-93CH-4984537",
+      "fonte": "investing.com",
+      "data": "2026-10-29",
+      "resumo": "The consensus view remains bullish.  Of 34 analysts covering the stock, 29 rate it a buy and five recommend holding, with no sell ratings.  The mean price target of $223.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Alphabet, Amazon, Meta Report Negative Free Cash Flow After Heavy AI Investment - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse",
+      "fonte": "bloomberg.com",
+      "data": "2026-10-31",
+      "resumo": "# AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse\n\nThe last two weeks were supposed to bring some clarity to a stock market wobbling on a series of risks, particularly doubts about heavy spending on artificial intelligence, as a series of technology giants reported their earnings. \n\nAfter seeing the numbers, the outlook is clearer.  Unfortunately for Wall Street, it’s also considerably darker.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "If AI Spending Slows in 2027, These Semiconductor Stocks Could Hold Up Best",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-spending-slows-2027-semiconductor-175803858.html",
@@ -945,34 +1043,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Latest Advanced Micro Devices Stock News | NASDAQ:AMD | Benzinga",
-      "url": "https://www.benzinga.com/quote/AMD/news",
-      "fonte": "benzinga.com",
-      "data": "2026-10-24",
-      "resumo": "Show More\n\nCreate a Watchlist FREE: Follow your stocks and cryptocurrencies with the most actionable alerts on the internet.  Click to Get Started\n\n### People Also Watch\n\nNVIDIA Corp NASDAQ:NVDA $211. 11 0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DTCR",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-24",
-      "resumo": "### Asset profile\n\nThe fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-spending-fears-threaten-swamp-130000182.html",
       "fonte": "finance.yahoo.com",
@@ -1015,20 +1085,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "5 big analyst AI moves: ’Uniquely catalyst-rich’ months ahead for SpaceX",
-      "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-uniquely-catalystrich-months-ahead-for-spacex-4970923",
-      "fonte": "investing.com",
-      "data": "2026-10-24",
-      "resumo": "Lam reported September-quarter revenue of $8. 22 billion and EPS of $2. 20, broadly in line with consensus, with gross margin rising 40 basis points sequentially to 52.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Digital Realty Trust, Inc. (DLR-PL) Stock Price, News, Quote & History - Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/DLR-PL",
       "fonte": "finance.yahoo.com",
@@ -1043,95 +1099,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Ações do Nasdaq | Composição do Índice - Investing.com",
-      "url": "https://br.investing.com/indices/nasdaq-composite-components",
-      "fonte": "br.investing.com",
-      "data": "2026-10-24",
-      "resumo": "Ver lista completa\n\nAnúncio\n\nProPicks IA\n\nSeleção de Ações por inteligência artificial com histórico de ganhos acima do S&P 500. \n\nMelhores Ações Brasileiras\n\nMelhores Ações Brasileiras\n\n+1143. 4%\n\nÍndice Bovespa\n\n+310.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "What is B3 SA Brasil Bolsa Balcao?",
-      "url": "https://www.reuters.com/markets/companies/B3SA3.SA/key-details",
-      "fonte": "reuters.com",
-      "data": "2026-10-24",
-      "resumo": "It develops software solutions and offers index licensing services.  Its business is divided into four segments: Bovespa, which covers trading, clearing and.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC or Nvidia: If I Could Only Own 1 for the Next 5 Years, It Would Be This 1.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-nvidia-could-only-own-042000648.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-24",
-      "resumo": "The same concentration risk applies to many other tech companies.  Regardless of who dominates the AI race between the AI hyperscalers (Amazon, Microsoft, Alphabet, and Meta Platforms), they'll all rely on TSMC for manufacturing.  That puts TSMC in a very lucrative position for at least the next five years, but even after the AI frenzy, it'll remain a key piece in the supply chain for tons of other electronics.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "3 AI Stocks That Can Beat the Nasdaq Composite in 2027",
       "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-beat-nasdaq-095000093.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-10-25",
       "resumo": "Revenue in that segment surged by 145% year over year, and as it becomes a larger portion of total revenue, Maxlinear's overall sales should continue to accelerate.  Its Q3 forecast already points to this scenario, with the high end of $220 million in sales suggesting a 30% sequential growth rate. \n\nThis growth also comes as Maxlinear works on its margins.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Equinix Earnings Preview: What to Expect",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-earnings-preview-expect-115221771.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-24",
-      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nBarchart\n\n# Equinix Earnings Preview: What to Expect\n\nKritika Sarmah\n\n2 min read\n\n EQIX\n\n  +0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "4 Data Center REITs With Growing Dividends and an AI Tailwind",
-      "url": "https://finance.yahoo.com/real-estate/articles/4-data-center-reits-growing-170026421.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-24",
-      "resumo": "Dividend safety: Management set the payout ratio at 50%, the most conservative in this group.  AFFO per share guidance is $42. 69 to $43.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/TSM",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-10-24",
-      "resumo": "AMD  Advanced Micro Devices, Inc. \n\n516. 79 +1.",
       "sentimento": "bullish",
       "tags": [
         "AI",
