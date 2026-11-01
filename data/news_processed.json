@@ -2,10 +2,24 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-01",
-    "total_noticias": 79,
-    "gerado_em": "2026-11-01T10:01:54.097143"
+    "total_noticias": 80,
+    "gerado_em": "2026-11-01T16:35:45.781506"
   },
   "noticias": [
+    {
+      "titulo": "NVIDIA (NVDA) Stock Price, Quote, News & History | Benzinga",
+      "url": "https://www.benzinga.com/quote/NVDA",
+      "fonte": "benzinga.com",
+      "data": "2026-10-27",
+      "resumo": "See More on the Price Targets and Sentiment Pages\n\n| Date | Firm | Analyst | Action | Price Target |\n ---  --- \n| Oct 22, 2026 | Needham | N.  Quinn Bolton | Maintained | $300 |\n| Oct 1, 2026 | Cantor Fitzgerald | C. J.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "AI investments start to pay off in company earnings",
       "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
