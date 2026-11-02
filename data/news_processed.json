@@ -2,10 +2,80 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-02",
-    "total_noticias": 80,
-    "gerado_em": "2026-11-02T10:29:31.412678"
+    "total_noticias": 85,
+    "gerado_em": "2026-11-02T19:59:27.645234"
   },
   "noticias": [
+    {
+      "titulo": "Why has the market become so unforgiving of AI earnings?",
+      "url": "https://sg.finance.yahoo.com/news/why-market-become-unforgiving-ai-131424916.html",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-11-02",
+      "resumo": "Consensus S&P 500 operating EPS forecasts have climbed to $366 for 2026, $425 for 2027 and $494 for 2028, compared with Yardeni's forecasts of $375, $425 and $450.  Analysts' five-year long-term earnings growth expectation has risen to 25. 6%, the highest on record.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "UBS says AI investment boom remains intact despite growing scrutiny of spending",
+      "url": "https://ca.finance.yahoo.com/news/ubs-says-ai-investment-boom-153000099.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-11-02",
+      "resumo": "In a report published on Monday, the Swiss bank said strong third-quarter results had reinforced confidence in demand for AI infrastructure, but investors were increasingly questioning whether aggressive investment by technology giants would generate sufficient returns. \n\nUBS has raised its estimates for global AI capital expenditure to $1 trillion in 2026 and $1. 4 trillion in 2027, and introduced a forecast of $1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall St Week Ahead Midterm US elections, earnings, jobs data loom for AI-wary stock market | Reuters",
+      "url": "https://www.reuters.com/legal/legalindustry/wall-st-week-ahead-midterm-elections-earnings-jobs-data-loom-ai-wary-market-2026-10-30",
+      "fonte": "reuters.com",
+      "data": "2026-11-01",
+      "resumo": "The quarterly results intensified concerns about financing and financial returns needed to support the AI investment theme at the heart of the US bull stock market.  The questions are likely to persist, with Apple (AAPL. O), AMD (AMD.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Ed Yardeni Sees AI Chip Rebound, Year-End Stock Rally — Warns Of Midterm Election, Iran War Risks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ed-yardeni-sees-ai-chip-110829658.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-02",
+      "resumo": "Yardeni also warned that greater political division after the elections could make future debt and government shutdown negotiations more difficult, potentially creating risks heading into 2027. \n\nDespite those concerns, he expects a year-end rally in U. S.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global X Data Center & Digital Infrastructure ETF (DTCR) stock price, news, quote and history - Yahoo Finance",
+      "url": "https://sg.finance.yahoo.com/quote/DTCR",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-11-02",
+      "resumo": "Something went wrong\n\n### Singapore markets open in 5h 1m\n\n# Global X Data Center & Digital Infrastructure ETF (DTCR)\n\n### -2. 96%\n\n### -8. 62%\n\n### -13.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq Outlook: Is the worst over for AI-fuelled tech stocks? - The Economic Times",
       "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms",

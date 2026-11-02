@@ -1,103 +1,86 @@
 # Newsletter IA Bolsa — 2026-11-02
 
-**Gerado em:** 02/11/2026 10:29
+**Gerado em:** 02/11/2026 19:59
 **Total:** 5 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Nasdaq Outlook: Is the worst over for AI-fuelled tech stocks? - The Economic Times
+## 1. Why has the market become so unforgiving of AI earnings?
 
-**Fonte:** m.economictimes.com  
+**Fonte:** sg.finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Wall Street's technology-driven rally came under renewed pressure on Friday, with the Nasdaq Composite recording its biggest single-day decline since June as investors reassessed the massive spending commitments behind the artificial intelligence boom, Reuters reported.   
-  
-The selloff wiped out a significant portion of the market's recent gains, with semiconductor and technology stocks bearing the brunt of the losses.  Intel plunged 29%, while social media company Reddit also slumped 29%.
+Consensus S&P 500 operating EPS forecasts have climbed to $366 for 2026, $425 for 2027 and $494 for 2028, compared with Yardeni's forecasts of $375, $425 and $450.  Analysts' five-year long-term earnings growth expectation has risen to 25. 6%, the highest on record.
 
-[Ler noticia completa](https://m.economictimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms)
+[Ler noticia completa](https://sg.finance.yahoo.com/news/why-market-become-unforgiving-ai-131424916.html)
 
 ---
 
-## 2. AI Stocks Are Getting a Reality Check, But Don’t Count the Trade Out Just Yet. Here’s Why.
+## 2. UBS says AI investment boom remains intact despite growing scrutiny of spending
+
+**Fonte:** ca.finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+In a report published on Monday, the Swiss bank said strong third-quarter results had reinforced confidence in demand for AI infrastructure, but investors were increasingly questioning whether aggressive investment by technology giants would generate sufficient returns. 
+
+UBS has raised its estimates for global AI capital expenditure to $1 trillion in 2026 and $1. 4 trillion in 2027, and introduced a forecast of $1.
+
+[Ler noticia completa](https://ca.finance.yahoo.com/news/ubs-says-ai-investment-boom-153000099.html)
+
+---
+
+## 3. Wall St Week Ahead Midterm US elections, earnings, jobs data loom for AI-wary stock market | Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The quarterly results intensified concerns about financing and financial returns needed to support the AI investment theme at the heart of the US bull stock market.  The questions are likely to persist, with Apple (AAPL. O), AMD (AMD.
+
+[Ler noticia completa](https://www.reuters.com/legal/legalindustry/wall-st-week-ahead-midterm-elections-earnings-jobs-data-loom-ai-wary-market-2026-10-30)
+
+---
+
+## 4. Ed Yardeni Sees AI Chip Rebound, Year-End Stock Rally — Warns Of Midterm Election, Iran War Risks
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-1.  Crypto
-2.  AI
-
-   AI
-
-Barchart
-
-# AI Stocks Are Getting a Reality Check, But Don’t Count the Trade Out Just Yet.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/ai-stocks-getting-reality-check-151502447.html)
-
----
-
-## 3. Iron Mountain: The Data-Focused REIT Looking To Climb Ahead After Q3 Results (NYSE:IRM) | Seeking Alpha
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Investing Groups
-
-## Portfolios
-
-## Find & Compare
-
-# Iron Mountain: The Data-Focused REIT Looking To Climb Ahead After Q3 Results
-
-## Summary
-
-Server racks in server room data center - Cloud Computing, Artificial Intelligence, Database Concept - 3d illustration
-
-Sashkinw/iStock via Getty Images
-
-Server racks in server room data center - Cloud Computing, Artificial Intelligence, Database Concept - 3d illustration
-
-Sashkinw/iStock via Getty Images
-
-## A Diversified Data REIT Going 75 Years Strong
-
-As the topic of data centers continues to be a frequent topic in media lately, it's a great time to do an update on Iron Mountain (IRM
-
-This article was written by [. ] Seeking Alpha's Disclosure: Past performance is no guarantee of future results.  No recommendation or advice is being given as to whether any investment is suitable for a particular investor.
-
-[Ler noticia completa](https://seekingalpha.com/article/4960890-iron-mountain-the-data-focused-reit-looking-to-climb-ahead-in-q3-results)
-
----
-
-## 4. AI Stocks Are Lifting Wall Street, but Higher Rates Raise the Valuation Test | Investing.com
-
-**Fonte:** investing.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The Nasdaq Composite gained 1. 18% on Tuesday, October 27, as AI-related companies helped lift Wall Street ahead of Wednesday’s Federal Reserve decision and quarterly results from Microsoft and Alphabet.  The S&P 500 advanced 0.
+Yardeni also warned that greater political division after the elections could make future debt and government shutdown negotiations more difficult, potentially creating risks heading into 2027. 
 
-[Ler noticia completa](https://www.investing.com/analysis/ai-stocks-are-lifting-wall-street-but-higher-rates-raise-the-valuation-test-200690457)
+Despite those concerns, he expects a year-end rally in U. S.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ed-yardeni-sees-ai-chip-110829658.html)
 
 ---
 
-## 5. TOTVS ON Stock Price Today | BVMF: TOTS3 Live
+## 5. Global X Data Center & Digital Infrastructure ETF (DTCR) stock price, news, quote and history - Yahoo Finance
 
-**Fonte:** investing.com  
+**Fonte:** sg.finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-AI-picked strategies.  Brazil stocks lower at close of trade; The Totvs stock price today is 33. 23 BRL.
+Something went wrong
 
-[Ler noticia completa](https://www.investing.com/equities/totvs-on-ej-nm)
+### Singapore markets open in 5h 1m
+
+# Global X Data Center & Digital Infrastructure ETF (DTCR)
+
+### -2. 96%
+
+### -8. 62%
+
+### -13.
+
+[Ler noticia completa](https://sg.finance.yahoo.com/quote/DTCR)
 
 ---
