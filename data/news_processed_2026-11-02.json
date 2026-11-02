@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-02",
+    "total_noticias": 5,
+    "gerado_em": "2026-11-02T10:29:31.411229"
+  },
+  "noticias": [
+    {
+      "titulo": "Nasdaq Outlook: Is the worst over for AI-fuelled tech stocks? - The Economic Times",
+      "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms",
+      "fonte": "m.economictimes.com",
+      "data": "2026-11-02",
+      "resumo": "Wall Street's technology-driven rally came under renewed pressure on Friday, with the Nasdaq Composite recording its biggest single-day decline since June as investors reassessed the massive spending commitments behind the artificial intelligence boom, Reuters reported.   \n  \nThe selloff wiped out a significant portion of the market's recent gains, with semiconductor and technology stocks bearing the brunt of the losses.  Intel plunged 29%, while social media company Reddit also slumped 29%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Stocks Are Getting a Reality Check, But Don’t Count the Trade Out Just Yet. Here’s Why.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-getting-reality-check-151502447.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-01",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nBarchart\n\n# AI Stocks Are Getting a Reality Check, But Don’t Count the Trade Out Just Yet.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Iron Mountain: The Data-Focused REIT Looking To Climb Ahead After Q3 Results (NYSE:IRM) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4960890-iron-mountain-the-data-focused-reit-looking-to-climb-ahead-in-q3-results",
+      "fonte": "seekingalpha.com",
+      "data": "2026-11-02",
+      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Iron Mountain: The Data-Focused REIT Looking To Climb Ahead After Q3 Results\n\n## Summary\n\nServer racks in server room data center - Cloud Computing, Artificial Intelligence, Database Concept - 3d illustration\n\nSashkinw/iStock via Getty Images\n\nServer racks in server room data center - Cloud Computing, Artificial Intelligence, Database Concept - 3d illustration\n\nSashkinw/iStock via Getty Images\n\n## A Diversified Data REIT Going 75 Years Strong\n\nAs the topic of data centers continues to be a frequent topic in media lately, it's a great time to do an update on Iron Mountain (IRM\n\nThis article was written by [. ] Seeking Alpha's Disclosure: Past performance is no guarantee of future results.  No recommendation or advice is being given as to whether any investment is suitable for a particular investor.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Stocks Are Lifting Wall Street, but Higher Rates Raise the Valuation Test | Investing.com",
+      "url": "https://www.investing.com/analysis/ai-stocks-are-lifting-wall-street-but-higher-rates-raise-the-valuation-test-200690457",
+      "fonte": "investing.com",
+      "data": "2026-10-28",
+      "resumo": "The Nasdaq Composite gained 1. 18% on Tuesday, October 27, as AI-related companies helped lift Wall Street ahead of Wednesday’s Federal Reserve decision and quarterly results from Microsoft and Alphabet.  The S&P 500 advanced 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TOTVS ON Stock Price Today | BVMF: TOTS3 Live",
+      "url": "https://www.investing.com/equities/totvs-on-ej-nm",
+      "fonte": "investing.com",
+      "data": "2026-10-28",
+      "resumo": "AI-picked strategies.  Brazil stocks lower at close of trade; The Totvs stock price today is 33. 23 BRL.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

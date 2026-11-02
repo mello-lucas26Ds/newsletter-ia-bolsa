@@ -1,44 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/equinix-earnings-preview-expect-115221771.html": {
-    "hash": "b33f1e6cf64fda01468d874e1cc572b7",
-    "visto_em": "2026-10-25"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dives-750-points-investors-201222190.html": {
-    "hash": "8edd1f0ea66a87bff9609bba41aecd60",
-    "visto_em": "2026-10-25"
-  },
-  "https://www.investing.com/indices/nq-100-technology-sector": {
-    "hash": "1df4b14fbd0684ed942988427b84b772",
-    "visto_em": "2026-10-25"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ultimate-ai-investing-basket-4-165000179.html": {
-    "hash": "852c529e2951c0443b40f5a3960df077",
-    "visto_em": "2026-10-25"
-  },
-  "https://finance.yahoo.com/real-estate/articles/4-data-center-reits-growing-170026421.html": {
-    "hash": "211c697635640cc8e4b292a79809128a",
-    "visto_em": "2026-10-25"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-nvidia-could-only-own-042000648.html": {
-    "hash": "ea5e05115a9a36d1754e9d1bb1c7147e",
-    "visto_em": "2026-10-25"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-beat-nasdaq-095000093.html": {
-    "hash": "b2871b59b1efcff793a8d829d4006488",
-    "visto_em": "2026-10-25"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/company-behind-world-ai-chips-133026013.html?fr=sycsrp_catchall": {
-    "hash": "bbc93e968bf3eb18c4cdea000f62937d",
-    "visto_em": "2026-10-25"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-047-4970343": {
-    "hash": "d53e8087e8f7158ec0010fe46b97b7f0",
-    "visto_em": "2026-10-25"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-017-4958282": {
-    "hash": "a3496055aafb1acef878846da4e52d85",
-    "visto_em": "2026-10-25"
-  },
   "https://sg.finance.yahoo.com/quote/EQIX/news": {
     "hash": "d2ba1287536a1965cb47b019df433e01",
     "visto_em": "2026-10-26"
@@ -406,5 +366,25 @@
   "https://www.benzinga.com/quote/NVDA": {
     "hash": "a071ef6eb28e2d2337dc839602786931",
     "visto_em": "2026-11-01"
+  },
+  "https://m.economictimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms": {
+    "hash": "12499866185186982c17a1f479530193",
+    "visto_em": "2026-11-02"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/ai-stocks-getting-reality-check-151502447.html": {
+    "hash": "db3de6b884d9c60756305fec89c383e0",
+    "visto_em": "2026-11-02"
+  },
+  "https://seekingalpha.com/article/4960890-iron-mountain-the-data-focused-reit-looking-to-climb-ahead-in-q3-results": {
+    "hash": "93e338a399ded8fef7e1993139881eaf",
+    "visto_em": "2026-11-02"
+  },
+  "https://www.investing.com/analysis/ai-stocks-are-lifting-wall-street-but-higher-rates-raise-the-valuation-test-200690457": {
+    "hash": "2a4c2a2059bf10d27cf559dfbbd84f68",
+    "visto_em": "2026-11-02"
+  },
+  "https://www.investing.com/equities/totvs-on-ej-nm": {
+    "hash": "c4d84368127b73da09443f2172fa243f",
+    "visto_em": "2026-11-02"
   }
 }
