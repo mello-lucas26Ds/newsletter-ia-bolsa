@@ -1,52 +1,4 @@
 {
-  "https://sg.finance.yahoo.com/quote/EQIX/news": {
-    "hash": "d2ba1287536a1965cb47b019df433e01",
-    "visto_em": "2026-10-26"
-  },
-  "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-uniquely-catalystrich-months-ahead-for-spacex-4970923": {
-    "hash": "87c29eff5cc551b0a6b551e8235d9f54",
-    "visto_em": "2026-10-26"
-  },
-  "https://finance.yahoo.com/quote/DLR-PL": {
-    "hash": "191f52ab0ca9dcbec553b895e71660b6",
-    "visto_em": "2026-10-26"
-  },
-  "https://www.investing.com/equities/embraer-on-nm": {
-    "hash": "f9f89492d429738c16b22cc3e1144b69",
-    "visto_em": "2026-10-26"
-  },
-  "https://br.investing.com/indices/nasdaq-composite-components": {
-    "hash": "7354855d6b6b945de2f799259c2fda64",
-    "visto_em": "2026-10-26"
-  },
-  "https://www.bloomberg.com/news/newsletters/2026-10-22/tesla-spacex-merger-is-elon-musk-s-biggest-ai-bet-yet": {
-    "hash": "dce8a62e9b1957a8e4436eb2a40d768f",
-    "visto_em": "2026-10-26"
-  },
-  "https://www.reuters.com/markets/companies/B3SA3.SA/key-details": {
-    "hash": "4c453bca4db68569b4dcdefe7c1d0de2",
-    "visto_em": "2026-10-26"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/ai-spending-fears-threaten-swamp-130000182.html": {
-    "hash": "64e4b558f313d17b07c863adf454d790",
-    "visto_em": "2026-10-26"
-  },
-  "https://www.investing.com/news/economy-news/ai-investment-boom-now-trails-the-1990s-tech-cycle-4971793": {
-    "hash": "11f21d72b5152762253b576f6ff2d624",
-    "visto_em": "2026-10-26"
-  },
-  "https://seekingalpha.com/news/4657159-ai-investment-growth-is-expected-to-peak-this-quarter-goldman-sachs": {
-    "hash": "c6e44f1b18843f319b55932c2f0dd875",
-    "visto_em": "2026-10-26"
-  },
-  "https://seekingalpha.com/article/4955325-the-ai-conundrum-massive-ai-panic-while-tsmcs-profits-soar-69-percent": {
-    "hash": "37bcc42e5cd5f6f162e42cd26d3c07fe",
-    "visto_em": "2026-10-26"
-  },
-  "https://ng.investing.com/indices/bovespa": {
-    "hash": "c1f79080fdc04ca1c8c5dddd3cc80450",
-    "visto_em": "2026-10-26"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-26-215000106.html": {
     "hash": "e6df18abc40c816424fe2e6fd12ed614",
     "visto_em": "2026-10-27"
@@ -406,5 +358,37 @@
   "https://sg.finance.yahoo.com/quote/DTCR": {
     "hash": "9ec1175577da1693cf387dc9ac662abb",
     "visto_em": "2026-11-02"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/ai-earnings-3-reports-watch-222800689.html": {
+    "hash": "0ed89ae4afce3b88a45218e6117d32ed",
+    "visto_em": "2026-11-03"
+  },
+  "https://finance.yahoo.com/energy/articles/agl-energy-stock-2-australian-070801650.html": {
+    "hash": "b608512eca4e421c935ce1049d1eaf73",
+    "visto_em": "2026-11-03"
+  },
+  "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-075-4946572": {
+    "hash": "c93fb64f535e1627555a0d56eeb37a3a",
+    "visto_em": "2026-11-03"
+  },
+  "https://seekingalpha.com/article/4960883-the-state-of-the-ai-trade-someone-has-to-pay-the-bill": {
+    "hash": "489fe702c0e8ca31e49c5d86f2d437e0",
+    "visto_em": "2026-11-03"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-075-4988639": {
+    "hash": "f449c1f6213d3cc3d5d70466e7f19c2e",
+    "visto_em": "2026-11-03"
+  },
+  "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6": {
+    "hash": "6468176c47666abb67dfe6e165f3d8f1",
+    "visto_em": "2026-11-03"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/analysis-october-dive-ai-related-170822591.html": {
+    "hash": "8f833c15293e7837b91abd80e3061eb6",
+    "visto_em": "2026-11-03"
+  },
+  "https://www.reuters.com/legal/transactional/october-dive-ai-related-shares-tests-broader-us-stock-markets-resilience-2026-11-02": {
+    "hash": "a7b112999b6c08e3d2906875358ce5b1",
+    "visto_em": "2026-11-03"
   }
 }
