@@ -2,10 +2,38 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-03",
-    "total_noticias": 82,
-    "gerado_em": "2026-11-03T10:26:27.008035"
+    "total_noticias": 84,
+    "gerado_em": "2026-11-03T17:34:00.548751"
   },
   "noticias": [
+    {
+      "titulo": "GOOGL Q3 deep dive: AI investment drives revenue growth but profit falls short of expectations",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/googl-q3-deep-dive-ai-042936289.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-03",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nStockStory\n\n# GOOGL Q3 deep dive: AI investment drives revenue growth but profit falls short of expectations\n\nRadek Strnad\n\n5 min read\n\n GOOG\n\n  +0.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "My Top 3 AI Stock Picks for November",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-ai-stock-picks-132000615.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-02",
+      "resumo": "Broadcom is an Nvidia challenger.  While Nvidia's GPUs excel in just about any situation, Broadcom is taking a different approach to AI computing.  It's working directly with AI hyperscalers to design computing units tailored to their workloads.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "AI Earnings: 3 Reports to Watch This Week",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-earnings-3-reports-watch-222800689.html",

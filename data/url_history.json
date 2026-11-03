@@ -390,5 +390,13 @@
   "https://www.reuters.com/legal/transactional/october-dive-ai-related-shares-tests-broader-us-stock-markets-resilience-2026-11-02": {
     "hash": "a7b112999b6c08e3d2906875358ce5b1",
     "visto_em": "2026-11-03"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/googl-q3-deep-dive-ai-042936289.html": {
+    "hash": "f29104047995bde9e769e6fb24290091",
+    "visto_em": "2026-11-03"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/top-3-ai-stock-picks-132000615.html": {
+    "hash": "ebef7c2bbcf91c66a2e58aaefa39a282",
+    "visto_em": "2026-11-03"
   }
 }

@@ -2,30 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-03",
-    "total_noticias": 8,
-    "gerado_em": "2026-11-03T10:26:27.006215"
+    "total_noticias": 2,
+    "gerado_em": "2026-11-03T17:34:00.546820"
   },
   "noticias": [
     {
-      "titulo": "AI Earnings: 3 Reports to Watch This Week",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-earnings-3-reports-watch-222800689.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-02",
-      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nZacks\n\n# AI Earnings: 3 Reports to Watch This Week\n\nDerek Lewis\n\n3 min read\n\n SMCI\n\n  -6.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AGL Energy Stock and 2 Australian Power Plays for Data ...",
-      "url": "https://finance.yahoo.com/energy/articles/agl-energy-stock-2-australian-070801650.html",
+      "titulo": "GOOGL Q3 deep dive: AI investment drives revenue growth but profit falls short of expectations",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/googl-q3-deep-dive-ai-042936289.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-03",
-      "resumo": "Infrastructure REIT generates about A$216. 9 million from its data centre platform, with A$158. 1 million in Australia and A$47.",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nStockStory\n\n# GOOGL Q3 deep dive: AI investment drives revenue growth but profit falls short of expectations\n\nRadek Strnad\n\n5 min read\n\n GOOG\n\n  +0.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -35,81 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil shares lower at close of trade; Bovespa down 0.75%",
-      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-075-4946572",
-      "fonte": "uk.investing.com",
-      "data": "2026-10-30",
-      "resumo": "Bovespa lost 0. 75% to hit a new 1-month low.  IBOV-0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The State Of The AI Trade: Someone Has To Pay The Bill (NASDAQ:QQQ) | Seeking Alpha",
-      "url": "https://seekingalpha.com/article/4960883-the-state-of-the-ai-trade-someone-has-to-pay-the-bill",
-      "fonte": "seekingalpha.com",
-      "data": "2026-11-02",
-      "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# The State Of The AI Trade: Someone Has To Pay The Bill\n\n## Summary\n\nHuman and Robotic Fingers Reaching Toward a Connection \n\nJ Studios/DigitalVision via Getty Images\n\nHuman and Robotic Fingers Reaching Toward a Connection\n\nJ Studios/DigitalVision via Getty Images\n\nOn October 21, Meta Platforms, Inc.  (META) reported its earnings.  It beat revenue by 2%, beat adjusted EPS (excluding a legal charge) by 13.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 0.75%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-075-4988639",
-      "fonte": "investing.com",
-      "data": "2026-10-30",
-      "resumo": "Advertisement\n\n## Trending Stocks\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| INTC | 65.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Marvell Technology and Lumentum to Merge in $80 Billion All-Stock Deal - WSJ",
-      "url": "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6",
-      "fonte": "wsj.com",
-      "data": "2026-11-02",
-      "resumo": "The deal will combine two of the fastest-growing enablers of AI. \n\nCopyright ©2026 Dow Jones & Company, Inc.  All Rights Reserved.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Analysis-October dive for AI-related shares tests broader US stock market's resilience",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-october-dive-ai-related-170822591.html",
+      "titulo": "My Top 3 AI Stock Picks for November",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-ai-stock-picks-132000615.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-02",
-      "resumo": "The broader ‌market in October held up far better than tech- and AI-exposed equities did, but it may not be able to endure a more severe pullback in the massive AI trade.  The tech sector alone accounts for a 38% weight in the ​S&P 500. \n\nInvestors are wary of signs that the selling will spread.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "October dive for AI-related shares tests broader US stock market's resilience | Reuters",
-      "url": "https://www.reuters.com/legal/transactional/october-dive-ai-related-shares-tests-broader-us-stock-markets-resilience-2026-11-02",
-      "fonte": "reuters.com",
-      "data": "2026-11-02",
-      "resumo": "The broader market in October held up far better than tech- and AI-exposed equities did, but it may not be able to endure a more severe pullback in the massive AI trade.  The tech sector alone accounts for a 38% weight in the S&P 500. \n\nInvestors are wary of signs that the selling will ​spread.",
+      "resumo": "Broadcom is an Nvidia challenger.  While Nvidia's GPUs excel in just about any situation, Broadcom is taking a different approach to AI computing.  It's working directly with AI hyperscalers to design computing units tailored to their workloads.",
       "sentimento": "bullish",
       "tags": [
         "AI",
