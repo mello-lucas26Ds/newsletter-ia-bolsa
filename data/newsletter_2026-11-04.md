@@ -1,107 +1,105 @@
 # Newsletter IA Bolsa — 2026-11-04
 
-**Gerado em:** 04/11/2026 10:23
-**Total:** 6 noticias
+**Gerado em:** 04/11/2026 17:46
+**Total:** 5 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Until Next Gen Computing Implodes I’ll Keep Buying Taiwan Semiconductor
+## 1. Taiwan Semiconductor Manufacturing Stock Price Today | TW: 2330 Live - Investing.com
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
+**Fonte:** investing.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-+3. 26%
- INTC
+Market Movers
 
-  +1. 68%
- TSM
+| Name | Last | Chg.  % | Vol.  |  |
+ ---  --- 
+| AAPL | 331.
 
-  +1.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/until-next-gen-computing-implodes-154530005.html)
+[Ler noticia completa](https://www.investing.com/equities/taiwan-semicon)
 
 ---
 
-## 2. Nasdaq ends higher as AI heavyweights rebound ahead of midterm results | Reuters
+## 2. TSM Stock Price | Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote (U.S.: NYSE) | MarketWatch
 
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
+**Fonte:** marketwatch.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Nov 3 (Reuters) - The Nasdaq ended higher on Tuesday as AI heavyweights rebounded ahead of US midterm election results, while Apple fell after the ​iPhone maker joined the list of Big Tech companies whose quarterly results failed to impress investors. 
+## Competitors
 
-Apple (AAPL. O) dropped 1.
+| Name | Chg % | Market Cap |
+ --- 
+| NVIDIA Corp.  | 2. 71% | $4.
 
-[Ler noticia completa](https://www.reuters.com/business/retail-consumer/us-stock-futures-mixed-apple-slides-midterms-loom-2026-11-03)
-
----
-
-## 3. AI Stocks Surge on Tuesday: AEHR, Fabrinet, and Lattice Semiconductor All Jump More than 10%
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-are up 22%.  The company makes burn-in test equipment, and sales are expected to triple this year.  Fabrinet (NYSE: FN) is up 13%, with CEO Seamus Grade saying optics demand looks very sustainable.
-
-[Ler noticia completa](https://finance.yahoo.com/video/ai-stocks-surge-tuesday-aehr-175713889.html)
+[Ler noticia completa](https://www.marketwatch.com/investing/stock/tsm)
 
 ---
 
-## 4. 3 AI Stocks To Watch In November 2026
+## 3. 5 Best Tech Stocks for the Next 5 Years According to Financial Media
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Penguin Solutions generated about US$924 million from Integrated Memory, roughly US$559 million from Advanced Computing, and around US$249 million from Optimized LED in the last year, and the stock carries a market cap near US$3. 5b. 
+The next product cycle is already underway.  Vera Rubin, its newest platform, is now in full production.  Nvidia also returned about $26.
 
-For AI focused investors, Penguin Solutions offers a way to back the hardware and services behind complex machine learning projects rather than the headline model vendors.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-watch-november-211148675.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-next-140507052.html)
 
 ---
 
-## 5. AMD to report Q3 results as chip stocks rebound following last week's steep selloff
+## 4. Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech
 
-**Fonte:** sg.finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The industry is contending with two overlapping factors: difficult comparisons to last year, when Microsoft ended support for Windows 10, forcing enterprises to purchase newer Windows 11 systems, and the steady increase in PC prices, which is eating into demand. 
-
-While AMD generates the majority of its revenue via data center sales, a drop in PC demand would still hurt its bottom line. 
-
-NasdaqGS - Nasdaq Real Time Price • USD 
-
-### (AMD)
-
-490.
-
-[Ler noticia completa](https://sg.finance.yahoo.com/news/amd-to-report-q3-results-as-chip-stocks-rebound-following-last-weeks-steep-selloff-150210938.html)
-
----
-
-## 6. Marvell’s AI Megadeal Hands Wall Street Multiple M&A Milestones - Bloomberg
-
-**Fonte:** bloomberg.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Deals
+Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech
 
-# Marvell’s AI Megadeal Hands Wall Street Multiple M&A Milestones
+^NDX GF Value chart
 
-Marvell Technology Inc. ’s $115 billion takeover of data center laser maker Lumentum Holdings Inc.  will move Wall Street past a number of mergers and acquisitions milestones in a year already chock-full of megadeals.
+ 
 
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-11-02/marvell-s-ai-megadeal-hands-wall-street-multiple-m-a-milestones)
+Two other portfolios also finished the month higher.  Mid-Cap Movers gained 7. 3%, while Dominate the Dow added 5.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nasdaq-sinks-5-october-ai-121553717.html)
+
+---
+
+## 5. EMBRAER ON Stock Price Today | BVMF: EMBJ3 Live - Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+B3
+
+|  |
+
+|  | Symbol |  | Exchange |  | Currency |
+|  | EMBJ3 | · | B3 | · | BRL | Delayed |
+|  | EMBJ | · | NYSE | · | USD | Real-time |
+|  | EMBJm | · | Buenos Aires | · | ARS | Delayed |
+|  | EMBJN | · | Mexico | · | MXN | Delayed |
+|  | ERJy | · | TradeGate | · | EUR | Delayed |
+
+Currency in BRL
+
+EMBJ3 Pro Research
+
+Add to Watchlist
+
+99. 62
+
+-2. 78(-2.
+
+[Ler noticia completa](https://www.investing.com/equities/embraer-on-nm)
 
 ---
