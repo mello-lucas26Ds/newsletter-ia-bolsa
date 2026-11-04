@@ -1,64 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-26-215000106.html": {
-    "hash": "e6df18abc40c816424fe2e6fd12ed614",
-    "visto_em": "2026-10-27"
-  },
-  "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html": {
-    "hash": "be90106e2371a843cfb6c9e43ac2cfd7",
-    "visto_em": "2026-10-27"
-  },
-  "https://ca.finance.yahoo.com/news/3-data-center-reit-stocks-151250513.html": {
-    "hash": "db5a7e572d778f15452f7502a0cb7b80",
-    "visto_em": "2026-10-27"
-  },
-  "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html": {
-    "hash": "be90106e2371a843cfb6c9e43ac2cfd7",
-    "visto_em": "2026-10-27"
-  },
-  "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html": {
-    "hash": "1e8b8a2ef4e0424a663ec37addab7e5c",
-    "visto_em": "2026-10-27"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tech-firms-track-wall-st-024224619.html": {
-    "hash": "7940837db516a468ef02fd9b928b79ce",
-    "visto_em": "2026-10-27"
-  },
-  "https://finance.yahoo.com/video/tech-earnings-market-biggest-story-211514752.html": {
-    "hash": "503d1395ac25dd32c3d57d78ad3d7fed",
-    "visto_em": "2026-10-27"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-earnings-pivotal-fed-decision-152849940.html": {
-    "hash": "7e4211c0a41130493e651c0a8ce20575",
-    "visto_em": "2026-10-27"
-  },
-  "https://www.benzinga.com/quote/AMD/news": {
-    "hash": "d25396e5fca0f41f89a0d67648890d6d",
-    "visto_em": "2026-10-27"
-  },
-  "https://finance.yahoo.com/quote/DTCR": {
-    "hash": "3649edd248ab6b02fbdfdc7c004280a8",
-    "visto_em": "2026-10-27"
-  },
-  "https://www.cnbc.com/2026/10/27/tech-rally-fed-decision.html": {
-    "hash": "46b5696a0f36ceea5372a856ef909694",
-    "visto_em": "2026-10-27"
-  },
-  "https://ca.finance.yahoo.com/news/3-ai-infrastructure-stocks-watch-120742499.html": {
-    "hash": "965f1c53376aa38e2e10e0d84f0620e0",
-    "visto_em": "2026-10-27"
-  },
-  "https://ca.finance.yahoo.com/news/taiwan-semiconductor-manufacturing-sonoco-highlighted-121300506.html": {
-    "hash": "dcdfa092fb156c55b5f2d1cb4f65fa01",
-    "visto_em": "2026-10-27"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-trims-amd-tsmc-122944148.html": {
-    "hash": "c1eea02c17759cf56fe4a7e32310af41",
-    "visto_em": "2026-10-27"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/last-month-exposed-risk-narrative-124536839.html": {
-    "hash": "b70f0545df4270457b157ba3298a702f",
-    "visto_em": "2026-10-27"
-  },
   "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-tech-sector-160557664.html": {
     "hash": "0d74fea396f8fc7bc1d19426d84b98e1",
     "visto_em": "2026-10-28"
@@ -398,5 +338,29 @@
   "https://finance.yahoo.com/markets/stocks/articles/top-3-ai-stock-picks-132000615.html": {
     "hash": "ebef7c2bbcf91c66a2e58aaefa39a282",
     "visto_em": "2026-11-03"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/until-next-gen-computing-implodes-154530005.html": {
+    "hash": "9898e9d62fccb3b4a912d607c0f83e04",
+    "visto_em": "2026-11-04"
+  },
+  "https://www.reuters.com/business/retail-consumer/us-stock-futures-mixed-apple-slides-midterms-loom-2026-11-03": {
+    "hash": "02d66318f03fdb2fe1bd072992a9c2b5",
+    "visto_em": "2026-11-04"
+  },
+  "https://finance.yahoo.com/video/ai-stocks-surge-tuesday-aehr-175713889.html": {
+    "hash": "1d70b814774dddba67b6f91d7d9a46e8",
+    "visto_em": "2026-11-04"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-watch-november-211148675.html": {
+    "hash": "5308b0933d27ab6d6b9aa40c00e4a7b5",
+    "visto_em": "2026-11-04"
+  },
+  "https://sg.finance.yahoo.com/news/amd-to-report-q3-results-as-chip-stocks-rebound-following-last-weeks-steep-selloff-150210938.html": {
+    "hash": "d0ffa860be107dc56903ec63c5331b33",
+    "visto_em": "2026-11-04"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/marvell-s-ai-megadeal-hands-wall-street-multiple-m-a-milestones": {
+    "hash": "07c5e7f381ed05ccdac7c08738f52c58",
+    "visto_em": "2026-11-04"
   }
 }

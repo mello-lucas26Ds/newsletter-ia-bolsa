@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-04",
+    "total_noticias": 6,
+    "gerado_em": "2026-11-04T10:23:45.723361"
+  },
+  "noticias": [
+    {
+      "titulo": "Until Next Gen Computing Implodes I’ll Keep Buying Taiwan Semiconductor",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/until-next-gen-computing-implodes-154530005.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-03",
+      "resumo": "+3. 26%\n INTC\n\n  +1. 68%\n TSM\n\n  +1.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results | Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/us-stock-futures-mixed-apple-slides-midterms-loom-2026-11-03",
+      "fonte": "reuters.com",
+      "data": "2026-11-04",
+      "resumo": "Nov 3 (Reuters) - The Nasdaq ended higher on Tuesday as AI heavyweights rebounded ahead of US midterm election results, while Apple fell after the ​iPhone maker joined the list of Big Tech companies whose quarterly results failed to impress investors. \n\nApple (AAPL. O) dropped 1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Stocks Surge on Tuesday: AEHR, Fabrinet, and Lattice Semiconductor All Jump More than 10%",
+      "url": "https://finance.yahoo.com/video/ai-stocks-surge-tuesday-aehr-175713889.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-03",
+      "resumo": "are up 22%.  The company makes burn-in test equipment, and sales are expected to triple this year.  Fabrinet (NYSE: FN) is up 13%, with CEO Seamus Grade saying optics demand looks very sustainable.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 AI Stocks To Watch In November 2026",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-watch-november-211148675.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-01",
+      "resumo": "Penguin Solutions generated about US$924 million from Integrated Memory, roughly US$559 million from Advanced Computing, and around US$249 million from Optimized LED in the last year, and the stock carries a market cap near US$3. 5b. \n\nFor AI focused investors, Penguin Solutions offers a way to back the hardware and services behind complex machine learning projects rather than the headline model vendors.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AMD to report Q3 results as chip stocks rebound following last week's steep selloff",
+      "url": "https://sg.finance.yahoo.com/news/amd-to-report-q3-results-as-chip-stocks-rebound-following-last-weeks-steep-selloff-150210938.html",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-11-03",
+      "resumo": "The industry is contending with two overlapping factors: difficult comparisons to last year, when Microsoft ended support for Windows 10, forcing enterprises to purchase newer Windows 11 systems, and the steady increase in PC prices, which is eating into demand. \n\nWhile AMD generates the majority of its revenue via data center sales, a drop in PC demand would still hurt its bottom line. \n\nNasdaqGS - Nasdaq Real Time Price • USD \n\n### (AMD)\n\n490.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Marvell’s AI Megadeal Hands Wall Street Multiple M&A Milestones - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-s-ai-megadeal-hands-wall-street-multiple-m-a-milestones",
+      "fonte": "bloomberg.com",
+      "data": "2026-11-02",
+      "resumo": "Deals\n\n# Marvell’s AI Megadeal Hands Wall Street Multiple M&A Milestones\n\nMarvell Technology Inc. ’s $115 billion takeover of data center laser maker Lumentum Holdings Inc.  will move Wall Street past a number of mergers and acquisitions milestones in a year already chock-full of megadeals.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
