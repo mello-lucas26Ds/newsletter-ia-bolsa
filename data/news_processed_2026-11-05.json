@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-05",
+    "total_noticias": 8,
+    "gerado_em": "2026-11-05T10:17:23.306712"
+  },
+  "noticias": [
+    {
+      "titulo": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-ai-stocks-split-democratic-170603319.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-04",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\ncrypto background image\n\ndecrypt\n\n# Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank\n\nJose Antonio Lanz\n\n3 min read\n\n NVDA -1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "U.S. Stocks Rally on Divided Government as AI Wobbles Continue - WSJ",
+      "url": "https://www.wsj.com/finance/investing/u-s-stocks-rally-on-divided-government-as-ai-wobbles-continue-1a679abe",
+      "fonte": "wsj.com",
+      "data": "2026-11-04",
+      "resumo": "U. S.  stocks surged as oil prices tumbled and traders bet a divided government would be good for business, offsetting ongoing unease about artificial-intelligence bets.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.99%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-099-5001144",
+      "fonte": "investing.com",
+      "data": "2026-11-04",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| FIS | 29.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI enthusiasm is collapsing and tech earnings made it worse",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-enthusiasm-collapsing-tech-earnings-130000178.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-10-31",
+      "resumo": "\"Investors are assigning more risk to the companies that are cash flow negative,\" said Brian Mulberry, chief market strategist at Zacks Investment Management.  \"I do think that you're seeing investors vote with their wallet in ranking what quality means to them. \"\n\nThe AI trade actually entered the week on the back foot, as Meta Platforms Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks lower at close of trade; Bovespa down 1.37% By Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-137-4996310",
+      "fonte": "investing.com",
+      "data": "2026-11-03",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| IT | 204.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall St set for higher open as Democrats win Congress; data center stocks slide | Reuters",
+      "url": "https://www.reuters.com/business/us-stock-index-futures-steady-democrats-seize-congress-2026-11-04",
+      "fonte": "reuters.com",
+      "data": "2026-11-04",
+      "resumo": "The AI trade has come under some pressure recently as investors grow wary of Big Tech's soaring AI ​spending and little evidence of ​adequate returns.  The tech-heavy Nasdaq-100 (. NDX) ⁠index confirmed a technical correction on Monday.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Super Micro to report Q1 earnings as AI trade attempts comeback",
+      "url": "https://finance.yahoo.com/technology/article/super-micro-to-report-q1-earnings-as-ai-trade-attempts-comeback-195315844.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-03",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nYahoo Finance\n\n# Super Micro to report Q1 earnings as AI trade attempts comeback\n\nDaniel Howley\n\nDaniel Howley  · Technology Editor\n\n1 min read\n\n SMCI\n\n  +4.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NVDA",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-04",
+      "resumo": "| Field | Value |\n --- |\n| Current price | 200. 13 |\n| Target high price | 515. 00 |\n| Target low price | 180.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
