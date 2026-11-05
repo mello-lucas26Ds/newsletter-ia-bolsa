@@ -366,5 +366,41 @@
   "https://finance.yahoo.com/quote/NVDA": {
     "hash": "00965319e09ecf77432c14a34660459d",
     "visto_em": "2026-11-05"
+  },
+  "https://uk.finance.yahoo.com/news/election-raises-hurdle-data-center-133010287.html": {
+    "hash": "6c8aef45cfc77d4c6daa1be5e7bea88c",
+    "visto_em": "2026-11-05"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/5-best-performing-ai-stocks-233151565.html": {
+    "hash": "236dd7ca1c3a0d68a7f55ac27f8e591a",
+    "visto_em": "2026-11-05"
+  },
+  "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html": {
+    "hash": "6be9f345fc0d03988b0e9c661c27e00a",
+    "visto_em": "2026-11-05"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/smart-people-saying-nasdaq-sinks-124338308.html": {
+    "hash": "1eb7bbb146c349a5829ebe1ed7a5c4dd",
+    "visto_em": "2026-11-05"
+  },
+  "https://finance.yahoo.com/quote/DTCR": {
+    "hash": "3649edd248ab6b02fbdfdc7c004280a8",
+    "visto_em": "2026-11-05"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-taiwan-semiconductor-ai-152200427.html": {
+    "hash": "75d487ef55980f7a8c51710d7d7bce9a",
+    "visto_em": "2026-11-05"
+  },
+  "https://sg.finance.yahoo.com/news/nasdaq-sinks-5-october-ai-121553717.html": {
+    "hash": "6a3c32c37051007de4b636def5b1b6e5",
+    "visto_em": "2026-11-05"
+  },
+  "https://finance.yahoo.com/quote/VPN.L/seasonality": {
+    "hash": "ae5f1dd52a8c4f5c01b5ed04e04f7d1f",
+    "visto_em": "2026-11-05"
+  },
+  "https://www.investing.com/etfs/ishares-ibovespa": {
+    "hash": "d2ebeea9b2d9bae77254b5f78edc127a",
+    "visto_em": "2026-11-05"
   }
 }

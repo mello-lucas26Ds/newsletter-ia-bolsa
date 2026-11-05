@@ -1,15 +1,43 @@
 # Newsletter IA Bolsa — 2026-11-05
 
-**Gerado em:** 05/11/2026 10:17
-**Total:** 8 noticias
+**Gerado em:** 05/11/2026 17:52
+**Total:** 9 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank
+## 1. Election Raises Hurdle for Data Center IPOs After Peers Tumble
+
+**Fonte:** uk.finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The past month has been tough for some of the most prominent publicly-traded AI infrastructure stocks.  CoreWeave is down 45% as of Wednesday's close, while Nebius has wiped out 39% of its value.  Performance has been better for data center REITs, with Equinix Inc.
+
+[Ler noticia completa](https://uk.finance.yahoo.com/news/election-raises-hurdle-data-center-133010287.html)
+
+---
+
+## 2. 5 Best Performing AI Stocks in 2026
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Number of Hedge Fund Holders: 184
+
+Micron Technology, Inc.  (NASDAQ:MU) is benefiting from surging demand for high-bandwidth memory (HBM) and continued investment in AI data-center infrastructure.  The company delivered record fiscal 2026 results, with full-year revenue up 256% to $133.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/5-best-performing-ai-stocks-233151565.html)
+
+---
+
+## 3. Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
@@ -20,136 +48,123 @@
 
    AI
 
-crypto background image
+Trending 
 
-decrypt
+ CVS to split
+ Dems eye tariffs, healthcare
+ Stocks rise
+ McDonald's earnings
 
-# Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank
+Yahoo Finance
 
-Jose Antonio Lanz
+# Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck
 
-3 min read
+Ines Ferré
 
- NVDA -1.
+Ines Ferré  · Senior Business Reporter
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tech-ai-stocks-split-democratic-170603319.html)
+1 min read
 
----
+ XLK
 
-## 2. U.S. Stocks Rally on Divided Government as AI Wobbles Continue - WSJ
+  +1.
 
-**Fonte:** wsj.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-U. S.  stocks surged as oil prices tumbled and traders bet a divided government would be good for business, offsetting ongoing unease about artificial-intelligence bets.
-
-[Ler noticia completa](https://www.wsj.com/finance/investing/u-s-stocks-rally-on-divided-government-as-ai-wobbles-continue-1a679abe)
+[Ler noticia completa](https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html)
 
 ---
 
-## 3. Brazil stocks higher at close of trade; Bovespa up 0.99%
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-| Name | Last | Chg.  % | Vol.  |  |
- ---  --- 
-| FIS | 29.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-099-5001144)
-
----
-
-## 4. AI enthusiasm is collapsing and tech earnings made it worse
+## 4. What smart people are saying after the Nasdaq sank into correction territory, down 10% from recent highs
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-"Investors are assigning more risk to the companies that are cash flow negative," said Brian Mulberry, chief market strategist at Zacks Investment Management.  "I do think that you're seeing investors vote with their wallet in ranking what quality means to them. "
+The tech-heavy US stock index closed at just under 28,000 points, a hefty 10. 4% below the all-time high of over 31,000 points it notched on October 6. 
 
-The AI trade actually entered the week on the back foot, as Meta Platforms Inc.
+It was the Nasdaq 100's third correction of 2026, and came as investors increasingly asked when the massive sums that Big Tech is pouring into AI might pay off.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/ai-enthusiasm-collapsing-tech-earnings-130000178.html)
-
----
-
-## 5. Brazil stocks lower at close of trade; Bovespa down 1.37% By Investing.com
-
-**Fonte:** investing.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-| Name | Last | Chg.  % | Vol.  |  |
- ---  --- 
-| IT | 204.
-
-[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-137-4996310)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/smart-people-saying-nasdaq-sinks-124338308.html)
 
 ---
 
-## 6. Wall St set for higher open as Democrats win Congress; data center stocks slide | Reuters
-
-**Fonte:** reuters.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The AI trade has come under some pressure recently as investors grow wary of Big Tech's soaring AI ​spending and little evidence of ​adequate returns.  The tech-heavy Nasdaq-100 (. NDX) ⁠index confirmed a technical correction on Monday.
-
-[Ler noticia completa](https://www.reuters.com/business/us-stock-index-futures-steady-democrats-seize-congress-2026-11-04)
-
----
-
-## 7. Super Micro to report Q1 earnings as AI trade attempts comeback
+## 5. Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-1.  Crypto
-2.  AI
+### Asset profile
 
-   AI
+The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.
 
-Yahoo Finance
-
-# Super Micro to report Q1 earnings as AI trade attempts comeback
-
-Daniel Howley
-
-Daniel Howley  · Technology Editor
-
-1 min read
-
- SMCI
-
-  +4.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/article/super-micro-to-report-q1-earnings-as-ai-trade-attempts-comeback-195315844.html)
+[Ler noticia completa](https://finance.yahoo.com/quote/DTCR)
 
 ---
 
-## 8. NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo Finance
+## 6. Nvidia vs. Taiwan Semiconductor: The AI Revolution Is Big Enough for Both. Here's the Better Buy.
 
 **Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Moreover, TSMC and Nvidia are attractively valued despite their healthy growth rates.  The tech-laden Nasdaq Composite index, for comparison, has a price-to-earnings ratio of 40.  So, investors are getting a solid deal on these semiconductor stocks, and buying either of them could prove to be a profitable long-term move for the reasons discussed in this article.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/nvidia-vs-taiwan-semiconductor-ai-152200427.html)
+
+---
+
+## 7. Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech
+
+**Fonte:** sg.finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-| Field | Value |
- --- |
-| Current price | 200. 13 |
-| Target high price | 515. 00 |
-| Target low price | 180.
+^NDX GF Value chart
 
-[Ler noticia completa](https://finance.yahoo.com/quote/NVDA)
+ 
+
+Two other portfolios also finished the month higher.  Mid-Cap Movers gained 7. 3%, while Dominate the Dow added 5.
+
+[Ler noticia completa](https://sg.finance.yahoo.com/news/nasdaq-sinks-5-october-ai-121553717.html)
+
+---
+
+## 8. Global X Data Center REITS & Digital Infrastructure UCITS ETF USD Acc (VPN.L) Seasonal Returns Chart - Yahoo Finance
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+LSE - Delayed Quote • USD 
+
+# Global X Data Center REITS & Digital Infrastructure UCITS ETF USD Acc (VPN. L)
+
+23. 26  +0.
+
+[Ler noticia completa](https://finance.yahoo.com/quote/VPN.L/seasonality)
+
+---
+
+## 9. BOVA11 Stock Price | Ishares Ibovespa ETF - Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+B3
+
+Currency in BRL
+
+164. 70
+
++1. 69(+1.
+
+[Ler noticia completa](https://www.investing.com/etfs/ishares-ibovespa)
 
 ---
