@@ -1,52 +1,4 @@
 {
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-gains-3-reported-20-163555398.html": {
-    "hash": "d6be9c72f40da44bf65b8ec12fbd9df8",
-    "visto_em": "2026-10-29"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/meta-platforms-just-delivered-great-070502030.html": {
-    "hash": "d93f0be1e2971fd0c7a95c0d7a2ba547",
-    "visto_em": "2026-10-29"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/datasite-connects-live-deal-data-130000177.html": {
-    "hash": "73f2fc2b1ca1951ca5b3ef9d3a264b84",
-    "visto_em": "2026-10-29"
-  },
-  "https://finance.yahoo.com/news/ai-giants-funding-ambitions-test-141616195.html": {
-    "hash": "363f50884068574f7b762ad9708c5381",
-    "visto_em": "2026-10-29"
-  },
-  "https://www.reuters.com/business/finance/investors-expect-markets-unwind-brazils-lula-reelected-2026-10-26": {
-    "hash": "72f7da831dde0b9f2a631fbebee73562",
-    "visto_em": "2026-10-29"
-  },
-  "https://www.reuters.com/legal/transactional/ai-giants-funding-ambitions-test-wall-streets-appetite-risk-2026-10-28": {
-    "hash": "5aa5078f7f6f289f491953c086f7846c",
-    "visto_em": "2026-10-29"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-why-tsmc-stock-180000531.html": {
-    "hash": "16b2b4c07bad969d98a6af2e93eef732",
-    "visto_em": "2026-10-29"
-  },
-  "https://www.investing.com/etfs/mivpn": {
-    "hash": "fd45d474c1deb777d92adc2f14539ba6",
-    "visto_em": "2026-10-29"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-268-4980728": {
-    "hash": "b2224d0204a93f28709fdac7175dd6a3",
-    "visto_em": "2026-10-29"
-  },
-  "https://www.investing.com/equities/brazil": {
-    "hash": "8b7b9112a2e08bb7ecc5c1bd46459c6a",
-    "visto_em": "2026-10-29"
-  },
-  "https://www.investing.com/news/stock-market-news/a-tale-of-two-earnings-calls--and-our-ai-was-on-the-right-side-of-it-4981467": {
-    "hash": "a469e488377759477a9c9fe7b5b3d3cf",
-    "visto_em": "2026-10-29"
-  },
-  "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53": {
-    "hash": "29b7bbfea5dff49edf31b6e77b25f710",
-    "visto_em": "2026-10-29"
-  },
   "https://markets.businessinsider.com/news/stocks/datasite-partners-with-prudentia-sciences-to-accelerate-life-sciences-diligence-1036685017": {
     "hash": "c911444e0227fdadfefc6da7a6dbab62",
     "visto_em": "2026-10-30"
@@ -402,5 +354,45 @@
   "https://www.investing.com/etfs/ishares-ibovespa": {
     "hash": "d2ebeea9b2d9bae77254b5f78edc127a",
     "visto_em": "2026-11-05"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-taiwan-202002562.html": {
+    "hash": "0e6b45525e59d84ee8a1eb68c6f4ad58",
+    "visto_em": "2026-11-06"
+  },
+  "https://www.reuters.com/markets/us/nasdaq-set-correction-investors-reassess-ai-spending-boom-2026-11-05": {
+    "hash": "9a75ddccafc00ad38a0b748de5ee6f17",
+    "visto_em": "2026-11-06"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/texas-could-host-41-u-185500595.html": {
+    "hash": "2a63880fb4f6425682613bc3c26261e9",
+    "visto_em": "2026-11-06"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-065-5005510": {
+    "hash": "8d4bddf001353df6e50f6aba18d15632",
+    "visto_em": "2026-11-06"
+  },
+  "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05": {
+    "hash": "646adce7f260ff20a755e3182c4ed214",
+    "visto_em": "2026-11-06"
+  },
+  "https://www.reuters.com/business/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-chip-weakness-2026-11-05": {
+    "hash": "e9d49d191194c70df8694d83eb5b8d53",
+    "visto_em": "2026-11-06"
+  },
+  "https://finance.yahoo.com/markets/article/micron-nvidia-amd-lead-chip-stocks-rebound-140538628.html": {
+    "hash": "a9d1633fea6bfd26ec6bbfc22c16803e",
+    "visto_em": "2026-11-06"
+  },
+  "https://www.investing.com/news/earnings/iren-reports-q3-loss-though-ai-cloud-revenue-nearly-triples-93CH-5005578": {
+    "hash": "be7dab85bfc1264bc8aaa300340d64d8",
+    "visto_em": "2026-11-06"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-rotation-away-140648889.html": {
+    "hash": "0452a7fa19318882c09d189926dafeae",
+    "visto_em": "2026-11-06"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-7-46-185827180.html": {
+    "hash": "04c05cf1bddd70570813df36c6fd4560",
+    "visto_em": "2026-11-06"
   }
 }
