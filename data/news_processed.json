@@ -2,10 +2,52 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-07",
-    "total_noticias": 75,
-    "gerado_em": "2026-11-07T09:35:07.775759"
+    "total_noticias": 78,
+    "gerado_em": "2026-11-07T16:06:56.247375"
   },
   "noticias": [
+    {
+      "titulo": "Stocks rebound after tech selloff that pushed Nasdaq into correction",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rebound-tech-selloff-pushed-151116491.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-06",
+      "resumo": "Tech stocks started to recover on Friday, helping pull the Nasdaq higher after a brutal beating on Thursday that caused the index to shed more than 1,400 points and enter a \"correction,\" or when stocks fall at least 10% from their previous peak. \n\nChipmaker Nvidia — a bellwether for the AI sector — gained 6. 6% in early trading, and semiconductor manufacturer Micron Technology rose 9.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "El-Erian Says Stock Market Is ‘Overdoing It’ On AI Fears As Nasdaq Enters Correction Territory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/el-erian-says-stock-market-174818425.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-05",
+      "resumo": "Despite his concerns about the industry's approach, El-Erian said he remains \"completely bullish\" on AI's potential to benefit the economy. \n\n## A Tech Selloff Could Spill Into The Wider Economy\n\nEl-Erian stated that the sharp decline in AI-related stocks could have consequences beyond the technology sector because the broader U. S.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-jobs-data-muted-ai-rebound-945344f6",
+      "fonte": "wsj.com",
+      "data": "2026-11-06",
+      "resumo": "U. S.  stocks were mixed as strong jobs data and a modest rebound for artificial-intelligence companies failed to quell investor nerves about the sustainability of the AI boom.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq Futures Rally After Asian AI Rout as Investors Brace for Jobs Day",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-rally-asian-ai-131100206.html?fr=sycsrp_catchall",
