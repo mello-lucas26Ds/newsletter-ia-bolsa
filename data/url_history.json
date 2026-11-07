@@ -1,72 +1,4 @@
 {
-  "https://markets.businessinsider.com/news/stocks/datasite-partners-with-prudentia-sciences-to-accelerate-life-sciences-diligence-1036685017": {
-    "hash": "c911444e0227fdadfefc6da7a6dbab62",
-    "visto_em": "2026-10-30"
-  },
-  "https://in.investing.com/indices/brazil-index-50-components": {
-    "hash": "1ccc2111b73a61bdb8819db04cb8de56",
-    "visto_em": "2026-10-30"
-  },
-  "https://www.investing.com/indices/bovespa": {
-    "hash": "d506e1970ffb91a61539af742c23b6ee",
-    "visto_em": "2026-10-30"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsm-vs-mu-semiconductor-stock-180000593.html": {
-    "hash": "580464a9ff8b130c6a9f8659219b2180",
-    "visto_em": "2026-10-30"
-  },
-  "https://finance.yahoo.com/video/wall-street-expert-phil-rosen-172313010.html": {
-    "hash": "239fb50fdfdaa1775d54a2d693e821ae",
-    "visto_em": "2026-10-30"
-  },
-  "https://www.reuters.com/technology/big-tech-earnings-test-ai-boom-amid-market-turmoil-2026-10-27": {
-    "hash": "10aad129ce6f22c28de34d1319c56ecb",
-    "visto_em": "2026-10-30"
-  },
-  "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27": {
-    "hash": "1fd3db45978e72ea369a90109253514d",
-    "visto_em": "2026-10-30"
-  },
-  "https://finance.yahoo.com/quote/AI": {
-    "hash": "7dc4ea4661363f28d3d74e5aedb884bb",
-    "visto_em": "2026-10-30"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/yardeni-says-ai-investment-boom-174441946.html": {
-    "hash": "3ad2842a7ce12f457eea095e8dc5e215",
-    "visto_em": "2026-10-30"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-ai-data-centre-stocks-081801138.html": {
-    "hash": "c50bffe2c3a06500ef907e4e74c1272e",
-    "visto_em": "2026-10-30"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-retail-investors-210919323.html": {
-    "hash": "4214871e9733d2d6aef7ebf9b7f654c1",
-    "visto_em": "2026-10-30"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-buy-hold-165000893.html": {
-    "hash": "83e1a4768e685bfdfed3a6fcdcaa142d",
-    "visto_em": "2026-10-30"
-  },
-  "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html": {
-    "hash": "4cf4287642e93a3003440ea8692424f1",
-    "visto_em": "2026-10-30"
-  },
-  "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt": {
-    "hash": "d6acb4aabfbd7485d583dde6d54122f1",
-    "visto_em": "2026-10-30"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/wall-street-63-billion-ai-145758109.html": {
-    "hash": "eb5f95e07ef9dcaf1bb9ff2feaee40b8",
-    "visto_em": "2026-10-30"
-  },
-  "https://www.wsj.com/finance/stocks/ai-selloff-deepens-oil-jumps-and-crypto-falls-4703d21b": {
-    "hash": "e9329cc39f562616722c6037ca38cf66",
-    "visto_em": "2026-10-30"
-  },
-  "https://za.investing.com/news/stock-market-news/luda-technology-acquires-55-stake-in-ai-data-center-firm-93CH-4539440": {
-    "hash": "266211449ccef4eff0e42943c0eb45dd",
-    "visto_em": "2026-10-30"
-  },
   "https://finance.yahoo.com/healthcare/articles/datasite-partners-prudentia-sciences-accelerate-130000924.html": {
     "hash": "0372afb9b3383501b639e10ba22ce34f",
     "visto_em": "2026-10-31"
@@ -426,5 +358,45 @@
   "https://seekingalpha.com/article/4961054-marvell-lumentum-merger-implications-of-a-major-ai-photonics-deal": {
     "hash": "7b42e09fbc127aad1547fcfcd5e93520",
     "visto_em": "2026-11-06"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-rally-asian-ai-131100206.html?fr=sycsrp_catchall": {
+    "hash": "b9849d372e263c4c95524f9a01d251cc",
+    "visto_em": "2026-11-07"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-soars-5-report-weighing-162207427.html": {
+    "hash": "bde37836a9a36adaa6f5d1219672f868",
+    "visto_em": "2026-11-07"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-makes-chips-both-nvidia-183400901.html": {
+    "hash": "0cbb17d078888e80f896ea63e53396b1",
+    "visto_em": "2026-11-07"
+  },
+  "https://finance.yahoo.com/technology/articles/forget-nvidia-company-behind-chips-170301655.html": {
+    "hash": "eaf95a3e1f0ade18c98bd0c6263ed95b",
+    "visto_em": "2026-11-07"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/election-raises-hurdle-data-center-133010287.html": {
+    "hash": "b5387c366df148e97d5b2e9b4998fe99",
+    "visto_em": "2026-11-07"
+  },
+  "https://finance.yahoo.com/real-estate/articles/3-data-center-reit-stocks-042439380.html": {
+    "hash": "bdf4d60895663e2c4e5e0fa84e5a0af5",
+    "visto_em": "2026-11-07"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-134-5009099": {
+    "hash": "0407236b8d3838c4021151b5852d0721",
+    "visto_em": "2026-11-07"
+  },
+  "https://www.businessinsider.com/ai-stock-selloff-stock-market-today-data-center-slowdown-election-2026-11": {
+    "hash": "532d322875fd1cf880fde43b48d032dd",
+    "visto_em": "2026-11-07"
+  },
+  "https://www.investing.com/indices/bovespa": {
+    "hash": "43a8870ba1478184243a99377caa6d72",
+    "visto_em": "2026-11-07"
+  },
+  "https://www.cnbc.com/investingclub/2026/11/04/post-election-rally-masks-a-sharp-split-in-the-ai-trade-who-wins.html": {
+    "hash": "7cbc5e106e49d807007795557940d384",
+    "visto_em": "2026-11-07"
   }
 }

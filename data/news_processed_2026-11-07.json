@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-07",
+    "total_noticias": 10,
+    "gerado_em": "2026-11-07T09:35:07.774142"
+  },
+  "noticias": [
+    {
+      "titulo": "Nasdaq Futures Rally After Asian AI Rout as Investors Brace for Jobs Day",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-rally-asian-ai-131100206.html?fr=sycsrp_catchall",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-06",
+      "resumo": "Investors are reassessing their bets on AI after a Democratic sweep in the U. S.  midterm elections raised the prospect of political intervention slowing the build-out of AI data centers.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Soars 5% on Report It’s Weighing Advanced Memory Chips for Nvidia After Chip Rout",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-soars-5-report-weighing-162207427.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-06",
+      "resumo": "## The earnings outlook still looks great\n\nNone of this will show up in TSMC's numbers for years.  Analysts expect its normalized EPS to climb from $10. 65 in 2025 to $29.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Makes the Chips for Both Nvidia and AMD. Here's What a $5,000 Investment Could Be Worth by 2030.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-makes-chips-both-nvidia-183400901.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-06",
+      "resumo": "As for future growth, a while back, TSMC management forecast that its AI-related chip revenue would grow at a compound annual rate in the high 50% range through 2029.  When asked on last month's earnings call if he could offer an update to that figure, CEO C. C.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Forget Nvidia. Here’s the Company Behind the Chips",
+      "url": "https://finance.yahoo.com/technology/articles/forget-nvidia-company-behind-chips-170301655.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-06",
+      "resumo": "Broadcom (NASDAQ:AVGO) offers the custom-silicon angle.  Its AI semiconductor revenue jumped 221% to $16. 7 billion, and it also relies on outsourced manufacturing.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Election Raises Hurdle for Data Center IPOs After Peers Tumble",
+      "url": "https://finance.yahoo.com/technology/ai/articles/election-raises-hurdle-data-center-133010287.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-05",
+      "resumo": "Investors have told bankers on the IPO that their estimate of a fair valuation has shifted to around $1. 4 trillion to $1. 5 trillion, though a valuation of closer to $1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Data Center REIT Stocks Retail Investors Are Watching After AI ...",
+      "url": "https://finance.yahoo.com/real-estate/articles/3-data-center-reit-stocks-042439380.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-07",
+      "resumo": "Overview: Digital Realty Trust owns and operates large scale data centers and colocation sites where enterprises and cloud platforms run and connect AI ready.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.34%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-134-5009099",
+      "fonte": "investing.com",
+      "data": "2026-11-06",
+      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| AXON | 313.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Stocks Plunge As Investors Panic Over Capex, Risk of Data Center Slowdown - Business Insider",
+      "url": "https://www.businessinsider.com/ai-stock-selloff-stock-market-today-data-center-slowdown-election-2026-11",
+      "fonte": "businessinsider.com",
+      "data": "2026-11-05",
+      "resumo": "Here were the most notable moves in the tech sector:\n\nCompany\nTicker\nToday's move\n\nSandisk\nSNDK\n-20%\n\nMicron\nMU\n-16%\n\nNebius\nNBIS\n-15%\n\nRoundhill Memory ETF\nDRAM\n-15%\n\nIREN\nIREN\n-15%\n\nVertiv\nVRT\n-15%\n\nRoundhill Neocloud ETF\nNCLD\n-11%\n\nTesla\nTSLA\n-11%\n\niShares Semiconductor ETF\nSOXX\n-11%\n\nCoreWeave\nCRWV\n-10%\n\nBroadcom\nAVGO\n-10%\n\nGenerac\nGNRC\n-9%\n\nQualcomm\nQCOM\n-8%\n\nNvidia\nNVDA\n-9%\n\nSpaceX\nSPCX\n-8%\n\nIntel\nINTC\n-8%\n\nMeta\nMETA\n-4%\n\nMicrosoft\nMSFT\n-4%\n\nAmazon\nAMZN\n-3%\n\nAlphabet\nGOOGL\n-2%\n\nApple\nAAPL\n-1%\n\n\"There's blood on the streets today as AI-linked names tumble,\" Nic Puckrin, a cross-asset analyst, wrote in a note.  \"The midterm election result didn't really create a new fear, it was just the gust of wind that pushed over the house of cards that was already getting shaky. \" [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bovespa Index Today (IBOV) - Investing.com",
+      "url": "https://www.investing.com/indices/bovespa",
+      "fonte": "investing.com",
+      "data": "2026-11-04",
+      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| CSNA3  Companhia Siderurgica Nacional | 4. 46+0. 41+10.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Post-election rally masks a sharp split in the AI trade. Who wins?",
+      "url": "https://www.cnbc.com/investingclub/2026/11/04/post-election-rally-masks-a-sharp-split-in-the-ai-trade-who-wins.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-04",
+      "resumo": "\"remarkable\" way, Jim Cramer pointed out during the Morning Meeting.  Some of the biggest gainers were cloud-computing giants spending fortunes to build new data centers and eating into their cash flows to do so.  Amazon was up 7%.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
