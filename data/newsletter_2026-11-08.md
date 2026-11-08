@@ -1,90 +1,95 @@
 # Newsletter IA Bolsa — 2026-11-08
 
-**Gerado em:** 08/11/2026 09:50
+**Gerado em:** 08/11/2026 16:31
 **Total:** 5 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks
+## 1. Dow drops 1,800 points; Nasdaq tumbles into correction territory on AI tech wreck: Live updates
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Hong Kong’s Hang Seng Tech index jumped more than 5% on Thursday, bucking a broader sell-off in technology stocks across Asia as Chinese tech heavyweights rallied. 
+
+Tech giant Alibaba surged 6. 36%, while Tencent climbed 6.
+
+[Ler noticia completa](https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html)
+
+---
+
+## 2. Taiwan Semiconductor Manufacturing Company Limited (TSM) latest stock news and headlines – Yahoo Finance
+
+**Fonte:** nz.finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+GuruFocus. com • 1 day ago
+
+  MUNVDATSM
+
+  +7. 23%
+ TSMC rises on report of potential push into advanced memory for Nvidia
+
+  ### TSMC rises on report of potential push into advanced memory for Nvidia
+
+  Investing.
+
+[Ler noticia completa](https://nz.finance.yahoo.com/quote/TSM/news)
+
+---
+
+## 3. Stock market today: Dow plunges 1,800 points, Nasdaq enters correction in AI trade meltdown
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Iren shares jumped as much as 20% on Friday, rebounding from a roughly 17% decline in the previous session amid a broader sell-off in the AI trade.  Despite the recovery, Iren shares remain down more than 50% year to date as investor concerns over AI infrastructure spending, financing requirements and data center expansion have weighed on the sector.  The company, which has transitioned from bitcoin (BTC-USD) mining into AI cloud and data center infrastructure, has been particularly affected by the recent pullback in neocloud stocks.
+David Hollerith
 
-[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html)
+  David Hollerith
+
+  ## Stocks open mixed as tech fades post-election rally
+
+  US stocks were mixed Thursday as Wednesday's post-election stock rally began to fade, tech stocks came under renewed pressure, and oil prices rebounded. 
+
+  The Dow Jones Industrial Average (^DJI) rose 0. 6%, while the S&P 500 (^GSPC) edged lower by 0.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html)
 
 ---
 
-## 2. TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia
+## 4. Instant View: Tech-stock rout accelerates retreat from the AI trade | Reuters
+
+**Fonte:** reuters.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+It's the latest in a string of selloffs for the AI sector in what has been a bruising month since the Nasdaq's record close on October 6.  Selling in stock and bond markets has reduced access to financing for many participants in the data-center buildout, while Tuesday's US elections brought the passage of dozens of nationwide ballot initiatives that stand to limit ​building in coming months and years. 
+
+## COMMENTS:
+
+## ADAM SARHAN, CHIEF EXECUTIVE OF 50 PARK INVESTMENTS IN NEW YORK [.
+
+[Ler noticia completa](https://www.reuters.com/business/view-tech-stock-rout-accelerates-retreat-ai-trade-2026-11-05)
+
+---
+
+## 5. The Nasdaq Just Hit Correction Territory. History Says the Stock Market Will Do This Next (Hint: It May Stun You)
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Shares of Taiwan Semiconductor Manufacturing (NYSE:TSM) rose 6. 26% in U. S.
+The Invesco QQQ Trust has returned 1,480% (10. 5% annually) since its inception in 1999, easily outpacing the broader S&P 500, which has returned 885% (8. 6% annually) over the same period.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-jumped-6-report-could-151351522.html)
-
----
-
-## 3. C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-| AI Q3 FY2026 earnings call transcript | 2026 | Q3 | 2026-02-25 | 2026-06-27 | 3232845 | IN_HOUSE | 483789 | Earnings call | s3://890742573995-market-data-service-prod-us-east-1/shared/transcripts/2026/2/25/3232845. json |
-| AI Q2 FY2026 earnings call transcript | 2026 | Q2 | 2025-12-03 | 2026-06-27 | 2506319 | IN_HOUSE | 382225 | Earnings call | s3://890742573995-market-data-service-prod-us-east-1/shared/transcripts/2025/12/3/2506319. json |
-| AI Q1 FY2026 earnings call transcript | 2026 | Q1 | 2025-09-03 | 2026-06-28 | 2124314 | IN_HOUSE | 351234 | Earnings call | s3://890742573995-market-data-service-prod-us-east-1/shared/transcripts/2025/9/3/2124314.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/AI)
-
----
-
-## 4. What Is Digital Realty Trust (DLR) Signaling With Its Global AI Infrastructure Push?
-
-**Fonte:** sg.finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-For readers who want more ideas at the intersection of data centres and artificial intelligence, the next stop is 52 AI infrastructure stocks. 
-
-NYSE:DLR Earnings & Revenue Growth as at Nov 2026
-
-NYSE:DLR Earnings & Revenue Growth as at Nov 2026
-
- 
-
-Digital Realty Trust is a US-based Specialized REIT with a market cap of about $67. 2 billion that focuses on data centres, colocation and interconnection services for enterprise customers.
-
-[Ler noticia completa](https://sg.finance.yahoo.com/news/digital-realty-trust-dlr-signaling-191401663.html)
-
----
-
-## 5. What Is Digital Realty Trust (DLR) Signaling With Its Global AI Infrastructure Push?
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-For readers who want more ideas at the intersection of data centres and artificial intelligence, the next stop is 52 AI infrastructure stocks. 
-
-NYSE:DLR Earnings & Revenue Growth as at Nov 2026
-
-NYSE:DLR Earnings & Revenue Growth as at Nov 2026
-
- 
-
-Digital Realty Trust is a US-based Specialized REIT with a market cap of about $67. 2 billion that focuses on data centres, colocation and interconnection services for enterprise customers.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/digital-realty-trust-dlr-signaling-191401663.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nasdaq-just-hit-correction-territory-093202873.html)
 
 ---
