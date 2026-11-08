@@ -1,68 +1,4 @@
 {
-  "https://finance.yahoo.com/healthcare/articles/datasite-partners-prudentia-sciences-accelerate-130000924.html": {
-    "hash": "0372afb9b3383501b639e10ba22ce34f",
-    "visto_em": "2026-10-31"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/jim-cramer-sees-more-pain-101500280.html": {
-    "hash": "217d452df82ba773812e851912cf3a89",
-    "visto_em": "2026-10-31"
-  },
-  "https://www.marketwatch.com/story/starlink-ai-acquisition-in-deal-to-take-spider-digital-technology-public-7909e394?mod=markets": {
-    "hash": "06772d21ef07ef04ef210a8c334372b4",
-    "visto_em": "2026-10-31"
-  },
-  "https://markets.businessinsider.com/news/stocks/spider-digital-technology-ltd-and-starlink-ai-acquisition-corporation-announce-definitive-business-combination-agreement-1036694763": {
-    "hash": "e253fc737eb32c08175c05bd0df1b44e",
-    "visto_em": "2026-10-31"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-crushed-nasdaq-futures-132530459.html": {
-    "hash": "294b69a31162ccfc0269f9dfe88ff725",
-    "visto_em": "2026-10-31"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-120002802.html": {
-    "hash": "3c82979f890a84bbca53f625ab6c1cdf",
-    "visto_em": "2026-10-31"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tech-firms-fresh-hit-earnings-024928854.html": {
-    "hash": "662eeec3d165480ed8deae645bee429d",
-    "visto_em": "2026-10-31"
-  },
-  "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30": {
-    "hash": "d9300dc6c9e6aa50c4f34e3a0ff54fe0",
-    "visto_em": "2026-10-31"
-  },
-  "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html": {
-    "hash": "91c0ec7f5e884b4f8d328c272f97af66",
-    "visto_em": "2026-10-31"
-  },
-  "https://www.cnbc.com/2026/10/30/ai-stocks-selloff-ai-spending-returns.html": {
-    "hash": "2fbc1dcaf6dbb1e1d17183f5c7e62f2c",
-    "visto_em": "2026-10-31"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-spending-slows-2027-semiconductor-175803858.html": {
-    "hash": "90acd1b3e4effd0df38f7f5a12f71cb6",
-    "visto_em": "2026-10-31"
-  },
-  "https://finance.yahoo.com/technology/articles/ai-stock-selloffs-fuel-fears-161635350.html": {
-    "hash": "95547e6801c6210799cd4b11a291663d",
-    "visto_em": "2026-10-31"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/2-ai-stocks-poised-surge-180000078.html": {
-    "hash": "69cc182d6d298dd458bb7c8f70942c03",
-    "visto_em": "2026-10-31"
-  },
-  "https://www.investing.com/news/stock-market-news/agentic-ai-excitement-runs-ahead-of-results-4989096": {
-    "hash": "f11da0c4b473f456080cae1b90d0cad5",
-    "visto_em": "2026-10-31"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-just-dropped-11-month-074208718.html": {
-    "hash": "4901b222581379b45ac2ac1e117e58cc",
-    "visto_em": "2026-10-31"
-  },
-  "https://www.reuters.com/business/media-telecom/nasdaq-faces-2-trillion-wipeout-october-ai-spending-fears-deepen-2026-10-30": {
-    "hash": "7633bac8c3e3ec6371f06d0c6409d355",
-    "visto_em": "2026-10-31"
-  },
   "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html": {
     "hash": "5e488e989bd63117f41cc0518e1b72ed",
     "visto_em": "2026-11-01"
@@ -410,5 +346,25 @@
   "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-jobs-data-muted-ai-rebound-945344f6": {
     "hash": "38aaf05ef0f969d3d55d1a55d6217d7d",
     "visto_em": "2026-11-07"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html": {
+    "hash": "e3efc91e3c973654236d9d06b3e6c3f0",
+    "visto_em": "2026-11-08"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-jumped-6-report-could-151351522.html": {
+    "hash": "dc25d35687da30a725ac4f5aa9e2ce3a",
+    "visto_em": "2026-11-08"
+  },
+  "https://finance.yahoo.com/quote/AI": {
+    "hash": "7dc4ea4661363f28d3d74e5aedb884bb",
+    "visto_em": "2026-11-08"
+  },
+  "https://sg.finance.yahoo.com/news/digital-realty-trust-dlr-signaling-191401663.html": {
+    "hash": "a3d34747cff625518aff56d980d9f8b1",
+    "visto_em": "2026-11-08"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/digital-realty-trust-dlr-signaling-191401663.html": {
+    "hash": "a3d34747cff625518aff56d980d9f8b1",
+    "visto_em": "2026-11-08"
   }
 }
