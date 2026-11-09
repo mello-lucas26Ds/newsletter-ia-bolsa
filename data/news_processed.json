@@ -1,11 +1,25 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-11-08",
-    "total_noticias": 83,
-    "gerado_em": "2026-11-08T16:31:16.602573"
+    "data": "2026-11-09",
+    "total_noticias": 78,
+    "gerado_em": "2026-11-09T10:51:45.746720"
   },
   "noticias": [
+    {
+      "titulo": "Semiconductors Stock Performance - Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/semiconductors",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-06",
+      "resumo": "| Name | Last Price | 1Y Target Est.  | Market Weight | Market Cap | Day Change % | YTD Return | Avg.  Analyst Rating |\n ---  ---  ---  --- |\n| NVDA  NVIDIA Corporation | 188.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Dow drops 1,800 points; Nasdaq tumbles into correction territory on AI tech wreck: Live updates",
       "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
@@ -679,20 +693,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Global X Data Center REITS & Digital Infrastructure UCITS ETF USD Acc (VPN.L) Seasonal Returns Chart - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/VPN.L/seasonality",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-01",
-      "resumo": "LSE - Delayed Quote • USD \n\n# Global X Data Center REITS & Digital Infrastructure UCITS ETF USD Acc (VPN. L)\n\n23. 26  +0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "BOVA11 Stock Price | Ishares Ibovespa ETF - Investing.com",
       "url": "https://www.investing.com/etfs/ishares-ibovespa",
       "fonte": "investing.com",
@@ -819,20 +819,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "5 Best Tech Stocks for the Next 5 Years According to Financial Media",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-next-140507052.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-01",
-      "resumo": "The next product cycle is already underway.  Vera Rubin, its newest platform, is now in full production.  Nvidia also returned about $26.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-sinks-5-october-ai-121553717.html",
       "fonte": "finance.yahoo.com",
@@ -880,20 +866,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-11-03",
       "resumo": "are up 22%.  The company makes burn-in test equipment, and sales are expected to triple this year.  Fabrinet (NYSE: FN) is up 13%, with CEO Seamus Grade saying optics demand looks very sustainable.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 AI Stocks To Watch In November 2026",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-watch-november-211148675.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-01",
-      "resumo": "Penguin Solutions generated about US$924 million from Integrated Memory, roughly US$559 million from Advanced Computing, and around US$249 million from Optimized LED in the last year, and the stock carries a market cap near US$3. 5b. \n\nFor AI focused investors, Penguin Solutions offers a way to back the hardware and services behind complex machine learning projects rather than the headline model vendors.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1071,20 +1043,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Wall St Week Ahead Midterm US elections, earnings, jobs data loom for AI-wary stock market | Reuters",
-      "url": "https://www.reuters.com/legal/legalindustry/wall-st-week-ahead-midterm-elections-earnings-jobs-data-loom-ai-wary-market-2026-10-30",
-      "fonte": "reuters.com",
-      "data": "2026-11-01",
-      "resumo": "The quarterly results intensified concerns about financing and financial returns needed to support the AI investment theme at the heart of the US bull stock market.  The questions are likely to persist, with Apple (AAPL. O), AMD (AMD.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Ed Yardeni Sees AI Chip Rebound, Year-End Stock Rally — Warns Of Midterm Election, Iran War Risks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ed-yardeni-sees-ai-chip-110829658.html",
       "fonte": "finance.yahoo.com",
@@ -1127,40 +1085,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI Stocks Are Getting a Reality Check, But Don’t Count the Trade Out Just Yet. Here’s Why.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-getting-reality-check-151502447.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-01",
-      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nBarchart\n\n# AI Stocks Are Getting a Reality Check, But Don’t Count the Trade Out Just Yet.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Iron Mountain: The Data-Focused REIT Looking To Climb Ahead After Q3 Results (NYSE:IRM) | Seeking Alpha",
       "url": "https://seekingalpha.com/article/4960890-iron-mountain-the-data-focused-reit-looking-to-climb-ahead-in-q3-results",
       "fonte": "seekingalpha.com",
       "data": "2026-11-02",
       "resumo": "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Iron Mountain: The Data-Focused REIT Looking To Climb Ahead After Q3 Results\n\n## Summary\n\nServer racks in server room data center - Cloud Computing, Artificial Intelligence, Database Concept - 3d illustration\n\nSashkinw/iStock via Getty Images\n\nServer racks in server room data center - Cloud Computing, Artificial Intelligence, Database Concept - 3d illustration\n\nSashkinw/iStock via Getty Images\n\n## A Diversified Data REIT Going 75 Years Strong\n\nAs the topic of data centers continues to be a frequent topic in media lately, it's a great time to do an update on Iron Mountain (IRM\n\nThis article was written by [. ] Seeking Alpha's Disclosure: Past performance is no guarantee of future results.  No recommendation or advice is being given as to whether any investment is suitable for a particular investor.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI investments start to pay off in company earnings",
-      "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-01",
-      "resumo": "In this article\n\nSome companies are beginning to report financial benefits from artificial intelligence investments, as interest in the technology shifts from hype to measurable returns in the latest quarter. \n\nCorporate AI investment has surged as companies look to boost efficiency and become more profitable, reaching $581. 7 billion in 2025, up 130% from the previous year, according to the Stanford HAI 2026 AI Index report.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"

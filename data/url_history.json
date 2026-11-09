@@ -1,36 +1,4 @@
 {
-  "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html": {
-    "hash": "5e488e989bd63117f41cc0518e1b72ed",
-    "visto_em": "2026-11-01"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/5-fastest-growing-ai-stocks-173114475.html": {
-    "hash": "12574946fa91edbfa55a13a611c1c4c5",
-    "visto_em": "2026-11-01"
-  },
-  "https://finance.yahoo.com/video/nasdaq-100-falls-ai-trade-144750708.html": {
-    "hash": "1c5ac5b77fbf5203d2743185b0b1a148",
-    "visto_em": "2026-11-01"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-earnings-growth-221029656.html": {
-    "hash": "8be217d52bb4541e57cc4b2494d02211",
-    "visto_em": "2026-11-01"
-  },
-  "https://finance.yahoo.com/real-estate/articles/digital-realty-trust-q3-earnings-101418119.html": {
-    "hash": "ba869193d79b7b7ebeac475c9be41115",
-    "visto_em": "2026-11-01"
-  },
-  "https://www.investing.com/news/earnings/digital-realty-earnings-up-next-as-ai-demand-fuels-data-center-boom-93CH-4984537": {
-    "hash": "cd86255e91d9dedc4eaaf7510c514b0a",
-    "visto_em": "2026-11-01"
-  },
-  "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse": {
-    "hash": "406a41946d396ea9fdcc66bab81d140a",
-    "visto_em": "2026-11-01"
-  },
-  "https://www.benzinga.com/quote/NVDA": {
-    "hash": "a071ef6eb28e2d2337dc839602786931",
-    "visto_em": "2026-11-01"
-  },
   "https://m.economictimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms": {
     "hash": "12499866185186982c17a1f479530193",
     "visto_em": "2026-11-02"
@@ -386,5 +354,9 @@
   "https://finance.yahoo.com/markets/stocks/articles/nasdaq-just-hit-correction-territory-093202873.html": {
     "hash": "de1b367c8c7dc8b89197c55381f789bd",
     "visto_em": "2026-11-08"
+  },
+  "https://finance.yahoo.com/sectors/technology/semiconductors": {
+    "hash": "f9cc9e44cb679375b81b5c12eec9cf0d",
+    "visto_em": "2026-11-09"
   }
 }

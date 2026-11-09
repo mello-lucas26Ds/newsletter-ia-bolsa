@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-09",
+    "total_noticias": 1,
+    "gerado_em": "2026-11-09T10:51:45.745377"
+  },
+  "noticias": [
+    {
+      "titulo": "Semiconductors Stock Performance - Yahoo Finance",
+      "url": "https://finance.yahoo.com/sectors/technology/semiconductors",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-06",
+      "resumo": "| Name | Last Price | 1Y Target Est.  | Market Weight | Market Cap | Day Change % | YTD Return | Avg.  Analyst Rating |\n ---  ---  ---  --- |\n| NVDA  NVIDIA Corporation | 188.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
