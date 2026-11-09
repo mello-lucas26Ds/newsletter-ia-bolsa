@@ -358,5 +358,41 @@
   "https://finance.yahoo.com/sectors/technology/semiconductors": {
     "hash": "f9cc9e44cb679375b81b5c12eec9cf0d",
     "visto_em": "2026-11-09"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings": {
+    "hash": "a8ca3e182d75c07cf348a8f7e144c4b7",
+    "visto_em": "2026-11-09"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-higher-chip-stocks-attempt-143326672.html": {
+    "hash": "7e84d143dc277c56d9d80edd83f4ead4",
+    "visto_em": "2026-11-09"
+  },
+  "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html": {
+    "hash": "c9c2ae3aecc6111ab67290bcd799f2b5",
+    "visto_em": "2026-11-09"
+  },
+  "https://finance.yahoo.com/quote/DLR": {
+    "hash": "86446464bbaf9e85cd24cdee0a09ea2a",
+    "visto_em": "2026-11-09"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tech-set-still-sway-us-110503862.html": {
+    "hash": "1e79a0a83d0149881663cb538e883ad6",
+    "visto_em": "2026-11-09"
+  },
+  "https://www.investing.com/news/stock-market-news/101-97-new-earnings-beats-keep-these-aipicked-smallcap-stocks-climbing-5010765": {
+    "hash": "73cb5d1424a2fdeb7fdd4dfd019db4ac",
+    "visto_em": "2026-11-09"
+  },
+  "https://www.investing.com/analysis/can-wall-street-stage-rebound-as-cpi-ai-earnings-take-spotlight-this-week-200691194": {
+    "hash": "69302e4ec8524fdb9f5d402a4e71d40f",
+    "visto_em": "2026-11-09"
+  },
+  "https://sg.finance.yahoo.com/quote/NVDA": {
+    "hash": "5c5915c69b41d157aad92d3229fbe805",
+    "visto_em": "2026-11-09"
+  },
+  "https://markets.businessinsider.com/news/stocks/auddia-highlights-accelerating-interest-in-patented-lt350-distributed-ai-datacenter-technology-following-election-as-opposition-to-traditional-data-centers-intensifies-1036736662": {
+    "hash": "6008245655c7392e4be61c7e8cabdd57",
+    "visto_em": "2026-11-09"
   }
 }

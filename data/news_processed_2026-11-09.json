@@ -2,16 +2,128 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-09",
-    "total_noticias": 1,
-    "gerado_em": "2026-11-09T10:51:45.745377"
+    "total_noticias": 9,
+    "gerado_em": "2026-11-09T20:26:29.877218"
   },
   "noticias": [
     {
-      "titulo": "Semiconductors Stock Performance - Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/technology/semiconductors",
+      "titulo": "Marvell to Acquire Lumentum in $115 Billion All-Stock Deal Focused on AI - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings",
+      "fonte": "bloomberg.com",
+      "data": "2026-11-02",
+      "resumo": "EXCLUSIVE\n\nAI\n\n# Marvell to Acquire Lumentum in Historic $115 Billion Deal\n\n## Takeaways by Bloomberg AI\n\nMarvell Technology Inc.  agreed to buy Lumentum Holdings Inc.  at an enterprise value of $115 billion, clinching one of the largest technology deals in history in a push to capitalize on runaway data center spending.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq higher as chip stocks attempt to recover from brutal losses",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-higher-chip-stocks-attempt-143326672.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-06",
-      "resumo": "| Name | Last Price | 1Y Target Est.  | Market Weight | Market Cap | Day Change % | YTD Return | Avg.  Analyst Rating |\n ---  ---  ---  --- |\n| NVDA  NVIDIA Corporation | 188.",
+      "resumo": "Technology and chip stocks were among those hardest hit on Thursday as investors weighed what Democrats' sweeping midterm election victories could mean for AI regulation and data center development. \n\nOn Friday, megacap and growth stocks were mixed.  Nvidia added 6.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck",
+      "url": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-09",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nTrending \n\n Nvidia’s $4.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & ...",
+      "url": "https://finance.yahoo.com/quote/DLR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-08",
+      "resumo": "Digital Realty Trust is a REIT focusing on global cloud and carrier-neutral interconnected data centers.  DLR also develops data center platforms for businesses.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tech set to still sway US stock market's course despite AI-driven swoon",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-set-still-sway-us-110503862.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-09",
+      "resumo": "The continued heavy weighting of technology is a byproduct of the huge gains for the sector during the US stock bull market that began in October 2022.  Even with the tech sector's latest slide, it ⁠has gained more than 200% over that period, nearly double the S&P 500's gain. \n\nSome of the biggest AI winners are still logging significant year-to-date gains despite their recent slides.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "+101%, +97%: New earnings beats keep these AI-picked small-cap stocks climbing",
+      "url": "https://www.investing.com/news/stock-market-news/101-97-new-earnings-beats-keep-these-aipicked-smallcap-stocks-climbing-5010765",
+      "fonte": "investing.com",
+      "data": "2026-11-09",
+      "resumo": "Deeply Discounted Valuation: On December 1, 2025, shares traded at just $8. 79—representing a 7. 4x P/E, 6.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Can Wall Street Stage Rebound as CPI, AI Earnings Take Spotlight This Week? | Investing.com",
+      "url": "https://www.investing.com/analysis/can-wall-street-stage-rebound-as-cpi-ai-earnings-take-spotlight-this-week-200691194",
+      "fonte": "investing.com",
+      "data": "2026-11-09",
+      "resumo": "Cisco’s Q3 Report in FocusCisco Systems (CSCO) is set to report on Thursday, giving shareholders an insight into the company’s progress towards meeting a $7. 5 billion annual goal for AI infrastructure sales.  Earnings are expected to rise 32% to $1.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance",
+      "url": "https://sg.finance.yahoo.com/quote/NVDA",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-11-06",
+      "resumo": "| Field | Value |\n --- |\n| Current price | 186. 64 |\n| Target high price | 515. 00 |\n| Target low price | 180.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Auddia Highlights Accelerating Interest in Patented LT350 Distributed AI Datacenter Technology Following Election as Opposition to Traditional Data Centers Intensifies | Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/auddia-highlights-accelerating-interest-in-patented-lt350-distributed-ai-datacenter-technology-following-election-as-opposition-to-traditional-data-centers-intensifies-1036736662",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-11-09",
+      "resumo": "About the Merger to form McCarthy Finney (MCFN)\n\nAuddia entered into a definitive merger agreement with Thramann Holdings, LLC on February 17, 2026.  If completed, the transaction would combine Auddia with three early stage, AI-native operating companies wholly owned by Thramann Holdings: LT350, Influence Healthcare, and Voyex.  The combined company would be renamed McCarthy Finney Inc.",
       "sentimento": "neutral",
       "tags": [
         "AI",
