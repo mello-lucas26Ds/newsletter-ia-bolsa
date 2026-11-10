@@ -2,16 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-10",
-    "total_noticias": 9,
-    "gerado_em": "2026-11-10T10:44:48.692401"
+    "total_noticias": 4,
+    "gerado_em": "2026-11-10T17:30:41.369786"
   },
   "noticias": [
     {
-      "titulo": "Stock market today: Nasdaq surges despite Nvidia stock slide, Dow and S&P 500 rally as AI tech trade rises",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
+      "titulo": "Nasdaq Stock Market Correction: 3 AI Stocks You Can Buy Right Now and Hold Forever",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-3-140346905.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-09",
-      "resumo": "Ines Ferré\n\n  Ines Ferré\n\n  ## Nasdaq surges as tech rises, S&P 500, Dow surge despite Nvidia stock losses\n\n  US stocks surged on Monday as the AI trade gained steam, without participation from AI chip heavyweight Nvidia (NVDA). \n\n  The Dow Jones Industrial Average (^DJI) rallied almost 2. 2%, or roughly 1,100 points.",
+      "resumo": "## 2.  Broadcom\n\nBroadcom (NASDAQ:AVGO) designs custom AI chips for some of the world's largest tech companies, as well as the networking gear that connects them.  Its AI semiconductor revenue soared 221% year over year to $16.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -21,81 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "C3.ai, Inc. (AI) Beats Stock Market Upswing: What Investors Need to Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/c3-ai-inc-ai-beats-215001090.html",
+      "titulo": "Kyndryl Report: AI returns rise as enterprise readiness falls",
+      "url": "https://finance.yahoo.com/technology/ai/articles/kyndryl-report-ai-returns-rise-130500508.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-11-09",
-      "resumo": "The investment community will be paying close attention to the earnings performance of C3. ai, Inc.  in its upcoming release.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Oct revenue jumps 60% as AI-fueled demand remains strong",
-      "url": "https://www.investing.com/news/stock-market-news/tsmc-oct-revenue-jumps-60-as-aifueled-demand-remains-strong-5014187",
-      "fonte": "investing.com",
       "data": "2026-11-10",
-      "resumo": "By Daniel Perna. \n\nNov 09, 2026\n\nImage 21\n\nImage 22\n\nCan Gold Turn Recovery Into a Sustainable Rebound. \n\nBy Fawad Razaqz.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Tech set to still sway US stock market's course despite AI-driven swoon | Reuters",
-      "url": "https://www.reuters.com/business/tech-set-still-sway-us-stock-markets-course-despite-ai-driven-swoon-2026-11-09",
-      "fonte": "reuters.com",
-      "data": "2026-11-09",
-      "resumo": "The tech sector alone does not fully capture AI's influence.  ​For example, three hyperscalers spending massively on data centers — Alphabet (GOOGL. O), Amazon (AMZN.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.98%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-198-5013119",
-      "fonte": "investing.com",
-      "data": "2026-11-09",
-      "resumo": "## What's your entry and stop on BEEF3. \n\nYour pre-market routine takes 20 minutes and three tools.  By the time you're done, the setup on BEEF3 can be gone.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Bovespa Index (IBOV) - Investing.com NG",
-      "url": "https://ng.investing.com/indices/bovespa",
-      "fonte": "ng.investing.com",
-      "data": "2026-11-05",
-      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| CSAN3  Cosan SA | 2. 77+0. 27+10.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Bovespa News (IBOV) - Investing.com",
-      "url": "https://www.investing.com/indices/bovespa-news",
-      "fonte": "investing.com",
-      "data": "2026-11-05",
-      "resumo": "By Investing. com\n       •Nov 04, 2026\n\n   Image 11 Image 12 \n\nAI trade rebounds, midterms awaited\nBy Jamie McGeever ORLANDO, Florida, Nov 3 (Reuters) - A solid rebound in heavyweight tech stocks lifted the S&P 500 and Nasdaq on. \n\n     \n       By Reuters\n       •Nov 03, 2026\n\n   Image 13 Image 14 \n\nBrazil stocks lower at close of trade; Bovespa down 1.",
+      "resumo": "64% of leaders report positive returns on AI investments, up 10 points from 2025, average readiness across external risks fell seven points to 24%..",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -105,11 +35,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "TSMC rises on report of potential push into advanced memory for Nvidia",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-report-potential-push-151300006.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-06",
-      "resumo": "+6. 12%\n NVDA\n\n  +5. 51%\n AAPL\n\n  -0.",
+      "titulo": "+66%, +53%, +50% upside: These undervalued AI-picked stocks just crushed earnings",
+      "url": "https://www.investing.com/news/stock-market-news/66-53-50-upside-these-undervalued-aipicked-stocks-just-crushed-earnings-5014329",
+      "fonte": "investing.com",
+      "data": "2026-11-10",
+      "resumo": "Readers of this column know that high-conviction pick Ardent Health Inc.  (NYSE:ARDT) has done exactly that, following a blowout earnings report that produced a commanding 34. 8% EPS surprise.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -119,11 +49,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "The AI Trade Looks Like It's Falling Apart. AMD's Earnings Delivered a Reality Check.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-looks-falling-apart-012000305.html",
+      "titulo": "TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-sales-jump-again-nvidia-111006983.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-10",
-      "resumo": "There's a lot of noise about AI stocks, but when it comes to actual results, the thesis looks as strong as ever.  Advanced Micro Devices (NASDAQ: AMD) recently reported earnings, and it serves as a valuable reality check amid a sudden bearish wave. \n\nMissed AI's \"Act 1\".",
+      "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
       "sentimento": "bullish",
       "tags": [
         "AI",

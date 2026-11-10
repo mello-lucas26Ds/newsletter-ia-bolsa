@@ -2,10 +2,66 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-10",
-    "total_noticias": 79,
-    "gerado_em": "2026-11-10T10:44:48.694336"
+    "total_noticias": 83,
+    "gerado_em": "2026-11-10T17:30:41.371462"
   },
   "noticias": [
+    {
+      "titulo": "Nasdaq Stock Market Correction: 3 AI Stocks You Can Buy Right Now and Hold Forever",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-3-140346905.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-09",
+      "resumo": "## 2.  Broadcom\n\nBroadcom (NASDAQ:AVGO) designs custom AI chips for some of the world's largest tech companies, as well as the networking gear that connects them.  Its AI semiconductor revenue soared 221% year over year to $16.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Kyndryl Report: AI returns rise as enterprise readiness falls",
+      "url": "https://finance.yahoo.com/technology/ai/articles/kyndryl-report-ai-returns-rise-130500508.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "64% of leaders report positive returns on AI investments, up 10 points from 2025, average readiness across external risks fell seven points to 24%..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "+66%, +53%, +50% upside: These undervalued AI-picked stocks just crushed earnings",
+      "url": "https://www.investing.com/news/stock-market-news/66-53-50-upside-these-undervalued-aipicked-stocks-just-crushed-earnings-5014329",
+      "fonte": "investing.com",
+      "data": "2026-11-10",
+      "resumo": "Readers of this column know that high-conviction pick Ardent Health Inc.  (NYSE:ARDT) has done exactly that, following a blowout earnings report that produced a commanding 34. 8% EPS surprise.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-sales-jump-again-nvidia-111006983.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Stock market today: Nasdaq surges despite Nvidia stock slide, Dow and S&P 500 rally as AI tech trade rises",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
