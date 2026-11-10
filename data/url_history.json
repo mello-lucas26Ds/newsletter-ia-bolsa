@@ -1,44 +1,4 @@
 {
-  "https://m.economictimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms": {
-    "hash": "12499866185186982c17a1f479530193",
-    "visto_em": "2026-11-02"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/ai-stocks-getting-reality-check-151502447.html": {
-    "hash": "db3de6b884d9c60756305fec89c383e0",
-    "visto_em": "2026-11-02"
-  },
-  "https://seekingalpha.com/article/4960890-iron-mountain-the-data-focused-reit-looking-to-climb-ahead-in-q3-results": {
-    "hash": "93e338a399ded8fef7e1993139881eaf",
-    "visto_em": "2026-11-02"
-  },
-  "https://www.investing.com/analysis/ai-stocks-are-lifting-wall-street-but-higher-rates-raise-the-valuation-test-200690457": {
-    "hash": "2a4c2a2059bf10d27cf559dfbbd84f68",
-    "visto_em": "2026-11-02"
-  },
-  "https://www.investing.com/equities/totvs-on-ej-nm": {
-    "hash": "c4d84368127b73da09443f2172fa243f",
-    "visto_em": "2026-11-02"
-  },
-  "https://sg.finance.yahoo.com/news/why-market-become-unforgiving-ai-131424916.html": {
-    "hash": "e44dd0ce9606492e99fbb437db9a111f",
-    "visto_em": "2026-11-02"
-  },
-  "https://ca.finance.yahoo.com/news/ubs-says-ai-investment-boom-153000099.html": {
-    "hash": "2939f84a563e7590680bf386d261d00d",
-    "visto_em": "2026-11-02"
-  },
-  "https://www.reuters.com/legal/legalindustry/wall-st-week-ahead-midterm-elections-earnings-jobs-data-loom-ai-wary-market-2026-10-30": {
-    "hash": "cc7716009ab608613da8fb6ea3ab0851",
-    "visto_em": "2026-11-02"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ed-yardeni-sees-ai-chip-110829658.html": {
-    "hash": "719c8bf3ce2a713b7109ee2a5eb25796",
-    "visto_em": "2026-11-02"
-  },
-  "https://sg.finance.yahoo.com/quote/DTCR": {
-    "hash": "9ec1175577da1693cf387dc9ac662abb",
-    "visto_em": "2026-11-02"
-  },
   "https://finance.yahoo.com/technology/ai/articles/ai-earnings-3-reports-watch-222800689.html": {
     "hash": "0ed89ae4afce3b88a45218e6117d32ed",
     "visto_em": "2026-11-03"
@@ -394,5 +354,41 @@
   "https://markets.businessinsider.com/news/stocks/auddia-highlights-accelerating-interest-in-patented-lt350-distributed-ai-datacenter-technology-following-election-as-opposition-to-traditional-data-centers-intensifies-1036736662": {
     "hash": "6008245655c7392e4be61c7e8cabdd57",
     "visto_em": "2026-11-09"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html": {
+    "hash": "9cd3627288f2d24dfdb81955240dd15d",
+    "visto_em": "2026-11-10"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/c3-ai-inc-ai-beats-215001090.html": {
+    "hash": "e36b605861d85e35129ec5f6335ed7b3",
+    "visto_em": "2026-11-10"
+  },
+  "https://www.investing.com/news/stock-market-news/tsmc-oct-revenue-jumps-60-as-aifueled-demand-remains-strong-5014187": {
+    "hash": "82b53cb5504162a38a0f58a6fc560dfe",
+    "visto_em": "2026-11-10"
+  },
+  "https://www.reuters.com/business/tech-set-still-sway-us-stock-markets-course-despite-ai-driven-swoon-2026-11-09": {
+    "hash": "fd93eb44f45c638856e9923d86900306",
+    "visto_em": "2026-11-10"
+  },
+  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-198-5013119": {
+    "hash": "9853472774782486e12ab0e85238e632",
+    "visto_em": "2026-11-10"
+  },
+  "https://ng.investing.com/indices/bovespa": {
+    "hash": "913635a765e6d3e9f090e666cc6a5786",
+    "visto_em": "2026-11-10"
+  },
+  "https://www.investing.com/indices/bovespa-news": {
+    "hash": "33bd9a19fb07dd5f2694796cfe1b7835",
+    "visto_em": "2026-11-10"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-report-potential-push-151300006.html": {
+    "hash": "27e9508cacc2a4f6377ef5119f6631c6",
+    "visto_em": "2026-11-10"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/ai-trade-looks-falling-apart-012000305.html": {
+    "hash": "efee4c889b38de48e562245ef8ec91ae",
+    "visto_em": "2026-11-10"
   }
 }
