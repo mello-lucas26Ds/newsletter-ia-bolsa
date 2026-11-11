@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-11",
-    "total_noticias": 80,
-    "gerado_em": "2026-11-11T10:15:41.222699"
+    "total_noticias": 90,
+    "gerado_em": "2026-11-11T17:43:28.354397"
   },
   "noticias": [
+    {
+      "titulo": "Nasdaq Futures Rally as AI Optimism Returns",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-rally-ai-optimism-091600580.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "Nasdaq futures led stock futures higher as rebounding artificial-intelligence sentiment helped markets recover from a revival of Federal Reserve rate-hike concerns Tuesday. \n\nFutures for the Nasdaq jumped 2%, buoyed by an after-hours steadying of Nvidia shares and gains for cloud-computing provider CoreWeave.  The latter stock leapt 15% premarket after beating Wall Street revenue estimates for the third quarter, easing concerns that spending on AI data centers is running out of steam.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq Futures Gain as Rebounding AI Sentiment Helps Markets Recover - WSJ",
+      "url": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62",
+      "fonte": "wsj.com",
+      "data": "2026-11-11",
+      "resumo": "Nasdaq futures led stock futures higher as rebounding artificial-intelligence sentiment helped markets recover from a revival of Federal Reserve rate-hike concerns Tuesday. \n\nFutures for the Nasdaq jumped 1. 5%, buoyed by an after-hours steadying of Nvidia shares and gains for cloud-computing provider CoreWeave CRWV -0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Marvell’s $115 Billion Lumentum Acquisition Odds Hover Near 50%, Analysts Say - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders",
+      "fonte": "bloomberg.com",
+      "data": "2026-11-10",
+      "resumo": "# Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shakes\n\nMarvell Technology Inc. ’s plan to double down on AI through a blockbuster $115 billion acquisition of Lumentum Holdings Inc.  is getting a lukewarm early verdict from investment experts who bet on deals.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "+102%, +40%: As CoreWeave lifts tech, earnings beats power these AI-picked winners",
+      "url": "https://www.investing.com/news/stock-market-news/102-40-as-coreweave-lifts-tech-earnings-beats-power-these-aipicked-winners-5018063",
+      "fonte": "investing.com",
+      "data": "2026-11-11",
+      "resumo": "CNMD-1. 41%\n\nAMRX+0. 47%\n\nVECO-0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
+      "fonte": "techcrunch.com",
+      "data": "2026-11-05",
+      "resumo": "Tigris Data raised $25 million in a Series A funding round last year. \n\nWhile the Tigris deal appears to be Dropbox’s largest acquisition, it is not the company’s first move to expand its AI capabilities through M&A.  Dropbox has previously acquired several AI-focused companies, including Reclaim.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "OpenAI Acquires AI Travel Startup Odessia, Bringing Founder Of $600M Sonder Business On Board",
+      "url": "https://www.benzinga.com/markets/private-markets/26/11/63126464/openai-acquires-ai-travel-startup-odessia-bringing-founder-of-600m-sonder-business-on-board",
+      "fonte": "benzinga.com",
+      "data": "2026-11-10",
+      "resumo": "Just last week, OpenAI announced plans to acquirePierre Computer Company, a developer-tools startup whose technology already powers features within its Codex platform. \n\nThe deal followed several other developer-focused acquisitions.  In March, OpenAI announced plans to acquireAstral, the company behind open-source Python development tools uv, Ruff and ty.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "2 Safe AI Stocks to Buy in the Next Market Crash. And No, It's Not Palantir.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-safe-ai-stocks-buy-094600762.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "The latest results show that the opportunity is already contributing to growth.  Alphabet reported third-quarter 2026 revenue of $127. 6 billion, up 25% year over year.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Boom Isn't Over: 4 Stocks to Buy the Dip Amid Tech Bloodbath",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-isnt-over-4-125400177.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "However, AI stocks still have a lot of potential.  Major cloud providers have been pumping in hundreds of billions of dollars into data centers and networking equipment.  Demand for advanced computing capacity is still higher than available supply, which gives opportunities to companies supplying critical hardware and infrastructure.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Railtown AI Announces Commercial Launch of AI Partner Marketplace, Introducing New Revenue Opportunities for AI Technology Providers",
+      "url": "https://finance.yahoo.com/technology/ai/articles/railtown-ai-announces-commercial-launch-130000559.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "\"The commercial launch of the AI Partner Marketplace represents the culmination of significant work undertaken since Railtown completed its acquisition of AI Partners on November 26, 2025.  Over that period, our team has been focused on transforming the business into a robust, AI-powered commercial marketplace built on Railtown's proprietary technology ecosystem, including Conductr, Railengine and Railtracks.  At the same time, we have continued expanding the Marketplace's network, adding more than 30 enterprise AI solution providers at an average rate of two to three new partners per month, bringing the total ecosystem to more than 200 participating companies.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Oura to acquire AI-native primary care startup Counsel Health for $625M | TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
+      "fonte": "techcrunch.com",
+      "data": "2026-11-10",
+      "resumo": "Oura announced on Tuesday that it’s acquiring AI-native primary care company Counsel Health for $625 million.  The deal comes a few weeks after Oura postponed its up to $2. 2 billion IPO indefinitely, citing “uncertainty in the IPO market.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "3 Data Center REIT Stocks In Focus After Anthropic’s AI Funding Push",
       "url": "https://finance.yahoo.com/real-estate/articles/3-data-center-reit-stocks-151033111.html",

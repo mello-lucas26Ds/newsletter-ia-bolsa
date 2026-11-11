@@ -1,152 +1,151 @@
 # Newsletter IA Bolsa — 2026-11-11
 
-**Gerado em:** 11/11/2026 10:15
-**Total:** 9 noticias
+**Gerado em:** 11/11/2026 17:43
+**Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. 3 Data Center REIT Stocks In Focus After Anthropic’s AI Funding Push
+## 1. Nasdaq Futures Rally as AI Optimism Returns
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-## Keppel DC REIT (SGX:AJBU)
+Nasdaq futures led stock futures higher as rebounding artificial-intelligence sentiment helped markets recover from a revival of Federal Reserve rate-hike concerns Tuesday. 
 
-Overview: Keppel DC REIT is an Asia focused pure play data centre landlord, owning and leasing high power facilities for cloud and AI workloads. 
+Futures for the Nasdaq jumped 2%, buoyed by an after-hours steadying of Nvidia shares and gains for cloud-computing provider CoreWeave.  The latter stock leapt 15% premarket after beating Wall Street revenue estimates for the third quarter, easing concerns that spending on AI data centers is running out of steam.
 
-Operations: Keppel DC REIT generates about S$472 million in revenue, with roughly S$341 million from colocation and S$100 million from single tenant fully fitted data centres. 
-
-Market Cap: S$6.
-
-[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/3-data-center-reit-stocks-151033111.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-rally-ai-optimism-091600580.html)
 
 ---
 
-## 2. Buy 5 Non-Tech Nasdaq Stocks to Enhance Your Portfolio Returns in Q4
+## 2. Nasdaq Futures Gain as Rebounding AI Sentiment Helps Markets Recover - WSJ
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** wsj.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-1.  Deirdre Bosa Live. 
+Nasdaq futures led stock futures higher as rebounding artificial-intelligence sentiment helped markets recover from a revival of Federal Reserve rate-hike concerns Tuesday. 
 
-   Deirdre Bosa Live.
+Futures for the Nasdaq jumped 1. 5%, buoyed by an after-hours steadying of Nvidia shares and gains for cloud-computing provider CoreWeave CRWV -0.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/buy-5-non-tech-nasdaq-125600839.html)
-
----
-
-## 3. 5 AI Stock Picks and Performance of Billionaire Stanley Druckenmiller
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-STMicroelectronics bull case moves around a recovery play with an AI boost.  Profits fell hard during the car and industrial slump, so the stock offered a chance to buy before earnings caught up.  AI data center demand gives it a second growth driver.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/5-ai-stock-picks-performance-183306016.html)
+[Ler noticia completa](https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62)
 
 ---
 
-## 4. DTCR | Global X Data Center & Digital Infrastructure ETF Overview | MarketWatch
+## 3. Marvell’s $115 Billion Lumentum Acquisition Odds Hover Near 50%, Analysts Say - Bloomberg
 
-**Fonte:** marketwatch.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Investment Policy
-
-The Fund seeks to provide investment results that correspond to the performance of the Solactive Data Center REITs & Digital Infrastructure Index.  The Underlying Index provides exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware. 
-
-## Distribution History
-
-| Date | Income Distribution |
- --- |
-| YTD | $0.
-
-[Ler noticia completa](https://www.marketwatch.com/investing/fund/dtcr)
-
----
-
-## 5. TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For
-
-**Fonte:** ca.finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-2 min read
-
- TSM
-
-  +0. 25%
- NVDA
-
-  -6. 30%
- AAPL
-
-  -0.
-
-[Ler noticia completa](https://ca.finance.yahoo.com/news/tsmc-just-delivered-ai-growth-172738565.html)
-
----
-
-## 6. Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-However, Nvidia's semiconductor peers fared considerably better.  Advanced Micro Devices (NASDAQ:AMD) gained 1. 30% to $515.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-10-223502212.html)
-
----
-
-## 7. TSMC Is at the Center of an AI Boom That Flipped 25 Years of U.S. Trade. Is the Stock a Buy?
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Its third-quarter results showed how profitable that demand is.  Revenue rose 41% to $46. 7 billion in U.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-center-ai-boom-flipped-195312299.html)
-
----
-
-## 8. TSMC Rallies 7% in Taipei as Nvidia Reportedly Asks It to Draft 3D DRAM Plans
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## The logic business keeps compounding
-
-TSMC doesn't need memory to grow.  Third-quarter revenue rose 41. 2% to $46.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-rallies-7-taipei-nvidia-145028098.html)
-
----
-
-## 9. galapagos b3 ibovespa & teva itbr tesouro selic ipca+ 20 ...
-
-**Fonte:** investing.com  
+**Fonte:** bloomberg.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-B3 IBOVESPA.  Stocks Picked by AI Undervalued Stocks.  Currency in BRL.
+# Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shakes
 
-[Ler noticia completa](https://www.investing.com/etfs/fbov11-advanced-chart)
+Marvell Technology Inc. ’s plan to double down on AI through a blockbuster $115 billion acquisition of Lumentum Holdings Inc.  is getting a lukewarm early verdict from investment experts who bet on deals.
+
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders)
+
+---
+
+## 4. +102%, +40%: As CoreWeave lifts tech, earnings beats power these AI-picked winners
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+CNMD-1. 41%
+
+AMRX+0. 47%
+
+VECO-0.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/102-40-as-coreweave-lifts-tech-earnings-beats-power-these-aipicked-winners-5018063)
+
+---
+
+## 5. Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure
+
+**Fonte:** techcrunch.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Tigris Data raised $25 million in a Series A funding round last year. 
+
+While the Tigris deal appears to be Dropbox’s largest acquisition, it is not the company’s first move to expand its AI capabilities through M&A.  Dropbox has previously acquired several AI-focused companies, including Reclaim.
+
+[Ler noticia completa](https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure)
+
+---
+
+## 6. OpenAI Acquires AI Travel Startup Odessia, Bringing Founder Of $600M Sonder Business On Board
+
+**Fonte:** benzinga.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Just last week, OpenAI announced plans to acquirePierre Computer Company, a developer-tools startup whose technology already powers features within its Codex platform. 
+
+The deal followed several other developer-focused acquisitions.  In March, OpenAI announced plans to acquireAstral, the company behind open-source Python development tools uv, Ruff and ty.
+
+[Ler noticia completa](https://www.benzinga.com/markets/private-markets/26/11/63126464/openai-acquires-ai-travel-startup-odessia-bringing-founder-of-600m-sonder-business-on-board)
+
+---
+
+## 7. 2 Safe AI Stocks to Buy in the Next Market Crash. And No, It's Not Palantir.
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The latest results show that the opportunity is already contributing to growth.  Alphabet reported third-quarter 2026 revenue of $127. 6 billion, up 25% year over year.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/2-safe-ai-stocks-buy-094600762.html)
+
+---
+
+## 8. AI Boom Isn't Over: 4 Stocks to Buy the Dip Amid Tech Bloodbath
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+However, AI stocks still have a lot of potential.  Major cloud providers have been pumping in hundreds of billions of dollars into data centers and networking equipment.  Demand for advanced computing capacity is still higher than available supply, which gives opportunities to companies supplying critical hardware and infrastructure.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/ai-boom-isnt-over-4-125400177.html)
+
+---
+
+## 9. Railtown AI Announces Commercial Launch of AI Partner Marketplace, Introducing New Revenue Opportunities for AI Technology Providers
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+"The commercial launch of the AI Partner Marketplace represents the culmination of significant work undertaken since Railtown completed its acquisition of AI Partners on November 26, 2025.  Over that period, our team has been focused on transforming the business into a robust, AI-powered commercial marketplace built on Railtown's proprietary technology ecosystem, including Conductr, Railengine and Railtracks.  At the same time, we have continued expanding the Marketplace's network, adding more than 30 enterprise AI solution providers at an average rate of two to three new partners per month, bringing the total ecosystem to more than 200 participating companies.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/railtown-ai-announces-commercial-launch-130000559.html)
+
+---
+
+## 10. Oura to acquire AI-native primary care startup Counsel Health for $625M | TechCrunch
+
+**Fonte:** techcrunch.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Oura announced on Tuesday that it’s acquiring AI-native primary care company Counsel Health for $625 million.  The deal comes a few weeks after Oura postponed its up to $2. 2 billion IPO indefinitely, citing “uncertainty in the IPO market.
+
+[Ler noticia completa](https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m)
 
 ---
