@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-11",
+    "total_noticias": 9,
+    "gerado_em": "2026-11-11T10:15:41.221093"
+  },
+  "noticias": [
+    {
+      "titulo": "3 Data Center REIT Stocks In Focus After Anthropic’s AI Funding Push",
+      "url": "https://finance.yahoo.com/real-estate/articles/3-data-center-reit-stocks-151033111.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "## Keppel DC REIT (SGX:AJBU)\n\nOverview: Keppel DC REIT is an Asia focused pure play data centre landlord, owning and leasing high power facilities for cloud and AI workloads. \n\nOperations: Keppel DC REIT generates about S$472 million in revenue, with roughly S$341 million from colocation and S$100 million from single tenant fully fitted data centres. \n\nMarket Cap: S$6.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Buy 5 Non-Tech Nasdaq Stocks to Enhance Your Portfolio Returns in Q4",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-non-tech-nasdaq-125600839.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-09",
+      "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "5 AI Stock Picks and Performance of Billionaire Stanley Druckenmiller",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-ai-stock-picks-performance-183306016.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "STMicroelectronics bull case moves around a recovery play with an AI boost.  Profits fell hard during the car and industrial slump, so the stock offered a chance to buy before earnings caught up.  AI data center demand gives it a second growth driver.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DTCR | Global X Data Center & Digital Infrastructure ETF Overview | MarketWatch",
+      "url": "https://www.marketwatch.com/investing/fund/dtcr",
+      "fonte": "marketwatch.com",
+      "data": "2026-11-09",
+      "resumo": "## Investment Policy\n\nThe Fund seeks to provide investment results that correspond to the performance of the Solactive Data Center REITs & Digital Infrastructure Index.  The Underlying Index provides exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware. \n\n## Distribution History\n\n| Date | Income Distribution |\n --- |\n| YTD | $0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For",
+      "url": "https://ca.finance.yahoo.com/news/tsmc-just-delivered-ai-growth-172738565.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "2 min read\n\n TSM\n\n  +0. 25%\n NVDA\n\n  -6. 30%\n AAPL\n\n  -0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-10-223502212.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "However, Nvidia's semiconductor peers fared considerably better.  Advanced Micro Devices (NASDAQ:AMD) gained 1. 30% to $515.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Is at the Center of an AI Boom That Flipped 25 Years of U.S. Trade. Is the Stock a Buy?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-center-ai-boom-flipped-195312299.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "Its third-quarter results showed how profitable that demand is.  Revenue rose 41% to $46. 7 billion in U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Rallies 7% in Taipei as Nvidia Reportedly Asks It to Draft 3D DRAM Plans",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-rallies-7-taipei-nvidia-145028098.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "## The logic business keeps compounding\n\nTSMC doesn't need memory to grow.  Third-quarter revenue rose 41. 2% to $46.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "galapagos b3 ibovespa & teva itbr tesouro selic ipca+ 20 ...",
+      "url": "https://www.investing.com/etfs/fbov11-advanced-chart",
+      "fonte": "investing.com",
+      "data": "2026-11-10",
+      "resumo": "B3 IBOVESPA.  Stocks Picked by AI Undervalued Stocks.  Currency in BRL.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

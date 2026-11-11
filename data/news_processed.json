@@ -1,11 +1,137 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-11-10",
-    "total_noticias": 83,
-    "gerado_em": "2026-11-10T17:30:41.371462"
+    "data": "2026-11-11",
+    "total_noticias": 80,
+    "gerado_em": "2026-11-11T10:15:41.222699"
   },
   "noticias": [
+    {
+      "titulo": "3 Data Center REIT Stocks In Focus After Anthropic’s AI Funding Push",
+      "url": "https://finance.yahoo.com/real-estate/articles/3-data-center-reit-stocks-151033111.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "## Keppel DC REIT (SGX:AJBU)\n\nOverview: Keppel DC REIT is an Asia focused pure play data centre landlord, owning and leasing high power facilities for cloud and AI workloads. \n\nOperations: Keppel DC REIT generates about S$472 million in revenue, with roughly S$341 million from colocation and S$100 million from single tenant fully fitted data centres. \n\nMarket Cap: S$6.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Buy 5 Non-Tech Nasdaq Stocks to Enhance Your Portfolio Returns in Q4",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-non-tech-nasdaq-125600839.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-09",
+      "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "5 AI Stock Picks and Performance of Billionaire Stanley Druckenmiller",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-ai-stock-picks-performance-183306016.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "STMicroelectronics bull case moves around a recovery play with an AI boost.  Profits fell hard during the car and industrial slump, so the stock offered a chance to buy before earnings caught up.  AI data center demand gives it a second growth driver.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "DTCR | Global X Data Center & Digital Infrastructure ETF Overview | MarketWatch",
+      "url": "https://www.marketwatch.com/investing/fund/dtcr",
+      "fonte": "marketwatch.com",
+      "data": "2026-11-09",
+      "resumo": "## Investment Policy\n\nThe Fund seeks to provide investment results that correspond to the performance of the Solactive Data Center REITs & Digital Infrastructure Index.  The Underlying Index provides exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware. \n\n## Distribution History\n\n| Date | Income Distribution |\n --- |\n| YTD | $0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For",
+      "url": "https://ca.finance.yahoo.com/news/tsmc-just-delivered-ai-growth-172738565.html",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "2 min read\n\n TSM\n\n  +0. 25%\n NVDA\n\n  -6. 30%\n AAPL\n\n  -0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-10-223502212.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "However, Nvidia's semiconductor peers fared considerably better.  Advanced Micro Devices (NASDAQ:AMD) gained 1. 30% to $515.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Is at the Center of an AI Boom That Flipped 25 Years of U.S. Trade. Is the Stock a Buy?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-center-ai-boom-flipped-195312299.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "Its third-quarter results showed how profitable that demand is.  Revenue rose 41% to $46. 7 billion in U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Rallies 7% in Taipei as Nvidia Reportedly Asks It to Draft 3D DRAM Plans",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-rallies-7-taipei-nvidia-145028098.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "## The logic business keeps compounding\n\nTSMC doesn't need memory to grow.  Third-quarter revenue rose 41. 2% to $46.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "galapagos b3 ibovespa & teva itbr tesouro selic ipca+ 20 ...",
+      "url": "https://www.investing.com/etfs/fbov11-advanced-chart",
+      "fonte": "investing.com",
+      "data": "2026-11-10",
+      "resumo": "B3 IBOVESPA.  Stocks Picked by AI Undervalued Stocks.  Currency in BRL.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq Stock Market Correction: 3 AI Stocks You Can Buy Right Now and Hold Forever",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-3-140346905.html",
@@ -679,20 +805,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AAPL Q4 Earnings Call Highlights Supply Risks and AI Investment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aapl-q4-earnings-call-highlights-140000209.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-03",
-      "resumo": "## Apple Expands Siri AI Capabilities and Monetization\n\nTernus positioned Siri AI as a strategic component of Apple's ecosystem, emphasizing personalized assistance and privacy protections.  The company introduced Siri AI in September and subsequently expanded language availability. \n\nDuring questions from Goldman Sachs, Ternus explained that expanded access to server-based AI features will eventually become available for purchase.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "TSMC Is Up 30% in a Year and 19% Off Its High: Take Profits, or Buy More?",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-30-19-off-high-023505211.html",
       "fonte": "finance.yahoo.com",
@@ -805,20 +917,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Micron, Nvidia, and AMD lead chip stocks rebound",
-      "url": "https://finance.yahoo.com/markets/article/micron-nvidia-amd-lead-chip-stocks-rebound-140538628.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-03",
-      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nYahoo Finance\n\n# Micron, Nvidia, and AMD lead chip stocks rebound\n\nInes Ferré\n\nInes Ferré  · Senior Business Reporter\n\n1 min read\n\n AMD\n\n  +4.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "IREN reports Q3 loss though AI Cloud revenue nearly triples",
       "url": "https://www.investing.com/news/earnings/iren-reports-q3-loss-though-ai-cloud-revenue-nearly-triples-93CH-5005578",
       "fonte": "investing.com",
@@ -894,20 +992,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-11-04",
       "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nTrending \n\n CVS to split\n Dems eye tariffs, healthcare\n Stocks rise\n McDonald's earnings\n\nYahoo Finance\n\n# Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck\n\nInes Ferré\n\nInes Ferré  · Senior Business Reporter\n\n1 min read\n\n XLK\n\n  +1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "What smart people are saying after the Nasdaq sank into correction territory, down 10% from recent highs",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/smart-people-saying-nasdaq-sinks-124338308.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-03",
-      "resumo": "The tech-heavy US stock index closed at just under 28,000 points, a hefty 10. 4% below the all-time high of over 31,000 points it notched on October 6. \n\nIt was the Nasdaq 100's third correction of 2026, and came as investors increasingly asked when the massive sums that Big Tech is pouring into AI might pay off.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1001,68 +1085,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Brazil stocks lower at close of trade; Bovespa down 1.37% By Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-137-4996310",
-      "fonte": "investing.com",
-      "data": "2026-11-03",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| IT | 204.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Wall St set for higher open as Democrats win Congress; data center stocks slide | Reuters",
       "url": "https://www.reuters.com/business/us-stock-index-futures-steady-democrats-seize-congress-2026-11-04",
       "fonte": "reuters.com",
       "data": "2026-11-04",
       "resumo": "The AI trade has come under some pressure recently as investors grow wary of Big Tech's soaring AI ​spending and little evidence of ​adequate returns.  The tech-heavy Nasdaq-100 (. NDX) ⁠index confirmed a technical correction on Monday.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Super Micro to report Q1 earnings as AI trade attempts comeback",
-      "url": "https://finance.yahoo.com/technology/article/super-micro-to-report-q1-earnings-as-ai-trade-attempts-comeback-195315844.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-03",
-      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nYahoo Finance\n\n# Super Micro to report Q1 earnings as AI trade attempts comeback\n\nDaniel Howley\n\nDaniel Howley  · Technology Editor\n\n1 min read\n\n SMCI\n\n  +4.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Stock Price Today | TW: 2330 Live - Investing.com",
-      "url": "https://www.investing.com/equities/taiwan-semicon",
-      "fonte": "investing.com",
-      "data": "2026-11-03",
-      "resumo": "Market Movers\n\n| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| AAPL | 331.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSM Stock Price | Taiwan Semiconductor Manufacturing Co. Ltd. ADR Stock Quote (U.S.: NYSE) | MarketWatch",
-      "url": "https://www.marketwatch.com/investing/stock/tsm",
-      "fonte": "marketwatch.com",
-      "data": "2026-11-03",
-      "resumo": "## Competitors\n\n| Name | Chg % | Market Cap |\n --- \n| NVIDIA Corp.  | 2. 71% | $4.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -1085,82 +1113,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Until Next Gen Computing Implodes I’ll Keep Buying Taiwan Semiconductor",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/until-next-gen-computing-implodes-154530005.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-03",
-      "resumo": "+3. 26%\n INTC\n\n  +1. 68%\n TSM\n\n  +1.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results | Reuters",
       "url": "https://www.reuters.com/business/retail-consumer/us-stock-futures-mixed-apple-slides-midterms-loom-2026-11-03",
       "fonte": "reuters.com",
       "data": "2026-11-04",
       "resumo": "Nov 3 (Reuters) - The Nasdaq ended higher on Tuesday as AI heavyweights rebounded ahead of US midterm election results, while Apple fell after the ​iPhone maker joined the list of Big Tech companies whose quarterly results failed to impress investors. \n\nApple (AAPL. O) dropped 1.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Stocks Surge on Tuesday: AEHR, Fabrinet, and Lattice Semiconductor All Jump More than 10%",
-      "url": "https://finance.yahoo.com/video/ai-stocks-surge-tuesday-aehr-175713889.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-03",
-      "resumo": "are up 22%.  The company makes burn-in test equipment, and sales are expected to triple this year.  Fabrinet (NYSE: FN) is up 13%, with CEO Seamus Grade saying optics demand looks very sustainable.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AMD to report Q3 results as chip stocks rebound following last week's steep selloff",
-      "url": "https://sg.finance.yahoo.com/news/amd-to-report-q3-results-as-chip-stocks-rebound-following-last-weeks-steep-selloff-150210938.html",
-      "fonte": "sg.finance.yahoo.com",
-      "data": "2026-11-03",
-      "resumo": "The industry is contending with two overlapping factors: difficult comparisons to last year, when Microsoft ended support for Windows 10, forcing enterprises to purchase newer Windows 11 systems, and the steady increase in PC prices, which is eating into demand. \n\nWhile AMD generates the majority of its revenue via data center sales, a drop in PC demand would still hurt its bottom line. \n\nNasdaqGS - Nasdaq Real Time Price • USD \n\n### (AMD)\n\n490.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "GOOGL Q3 deep dive: AI investment drives revenue growth but profit falls short of expectations",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/googl-q3-deep-dive-ai-042936289.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-03",
-      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nStockStory\n\n# GOOGL Q3 deep dive: AI investment drives revenue growth but profit falls short of expectations\n\nRadek Strnad\n\n5 min read\n\n GOOG\n\n  +0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AGL Energy Stock and 2 Australian Power Plays for Data ...",
-      "url": "https://finance.yahoo.com/energy/articles/agl-energy-stock-2-australian-070801650.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-03",
-      "resumo": "Infrastructure REIT generates about A$216. 9 million from its data centre platform, with A$158. 1 million in Australia and A$47.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"

@@ -1,44 +1,4 @@
 {
-  "https://finance.yahoo.com/technology/ai/articles/ai-earnings-3-reports-watch-222800689.html": {
-    "hash": "0ed89ae4afce3b88a45218e6117d32ed",
-    "visto_em": "2026-11-03"
-  },
-  "https://finance.yahoo.com/energy/articles/agl-energy-stock-2-australian-070801650.html": {
-    "hash": "b608512eca4e421c935ce1049d1eaf73",
-    "visto_em": "2026-11-03"
-  },
-  "https://uk.investing.com/news/stock-market-news/brazil-shares-lower-at-close-of-trade-bovespa-down-075-4946572": {
-    "hash": "c93fb64f535e1627555a0d56eeb37a3a",
-    "visto_em": "2026-11-03"
-  },
-  "https://seekingalpha.com/article/4960883-the-state-of-the-ai-trade-someone-has-to-pay-the-bill": {
-    "hash": "489fe702c0e8ca31e49c5d86f2d437e0",
-    "visto_em": "2026-11-03"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-075-4988639": {
-    "hash": "f449c1f6213d3cc3d5d70466e7f19c2e",
-    "visto_em": "2026-11-03"
-  },
-  "https://www.wsj.com/business/deals/marvell-to-buy-lumentum-for-80-billion-in-all-stock-ai-deal-c9fd43a6": {
-    "hash": "6468176c47666abb67dfe6e165f3d8f1",
-    "visto_em": "2026-11-03"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/analysis-october-dive-ai-related-170822591.html": {
-    "hash": "8f833c15293e7837b91abd80e3061eb6",
-    "visto_em": "2026-11-03"
-  },
-  "https://www.reuters.com/legal/transactional/october-dive-ai-related-shares-tests-broader-us-stock-markets-resilience-2026-11-02": {
-    "hash": "a7b112999b6c08e3d2906875358ce5b1",
-    "visto_em": "2026-11-03"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/googl-q3-deep-dive-ai-042936289.html": {
-    "hash": "f29104047995bde9e769e6fb24290091",
-    "visto_em": "2026-11-03"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/top-3-ai-stock-picks-132000615.html": {
-    "hash": "ebef7c2bbcf91c66a2e58aaefa39a282",
-    "visto_em": "2026-11-03"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/until-next-gen-computing-implodes-154530005.html": {
     "hash": "9898e9d62fccb3b4a912d607c0f83e04",
     "visto_em": "2026-11-04"
@@ -406,5 +366,41 @@
   "https://finance.yahoo.com/technology/ai/articles/tsmc-sales-jump-again-nvidia-111006983.html": {
     "hash": "b3f61b15fd1b95b9d65669ecf3b982a1",
     "visto_em": "2026-11-10"
+  },
+  "https://finance.yahoo.com/real-estate/articles/3-data-center-reit-stocks-151033111.html": {
+    "hash": "8261d607e6594603d4a96522dc94a8e5",
+    "visto_em": "2026-11-11"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/buy-5-non-tech-nasdaq-125600839.html": {
+    "hash": "9d72237d1c375d48b1a8381ec18aad63",
+    "visto_em": "2026-11-11"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/5-ai-stock-picks-performance-183306016.html": {
+    "hash": "16ecf84e3755ab420cf3cbd50aacfe51",
+    "visto_em": "2026-11-11"
+  },
+  "https://www.marketwatch.com/investing/fund/dtcr": {
+    "hash": "727840b20c305f511ea54051fe851eee",
+    "visto_em": "2026-11-11"
+  },
+  "https://ca.finance.yahoo.com/news/tsmc-just-delivered-ai-growth-172738565.html": {
+    "hash": "a95c785abbc89953517fadbddaf77aca",
+    "visto_em": "2026-11-11"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-10-223502212.html": {
+    "hash": "f507097adaef15cbe74bbb659d3caa5f",
+    "visto_em": "2026-11-11"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-center-ai-boom-flipped-195312299.html": {
+    "hash": "0c7101fc1cfd71df4d62b882d4cf46b0",
+    "visto_em": "2026-11-11"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-rallies-7-taipei-nvidia-145028098.html": {
+    "hash": "738bf6195516e91ff149d89528acd857",
+    "visto_em": "2026-11-11"
+  },
+  "https://www.investing.com/etfs/fbov11-advanced-chart": {
+    "hash": "649af3fbc502ce790f319f9eb52409bc",
+    "visto_em": "2026-11-11"
   }
 }
