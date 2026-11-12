@@ -1,11 +1,81 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-11-11",
-    "total_noticias": 90,
-    "gerado_em": "2026-11-11T17:43:28.354397"
+    "data": "2026-11-12",
+    "total_noticias": 82,
+    "gerado_em": "2026-11-12T10:36:52.841170"
   },
   "noticias": [
+    {
+      "titulo": "Asian stocks set to gain on renewed US tech rally",
+      "url": "https://sg.finance.yahoo.com/news/asian-stocks-set-gain-renewed-143514704.html",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "CRWV\n\n  +18. 53%\n NVDA\n\n  -4. 51%\n ^NDX\n\n  +2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock market today: Nvidia slides following reports of CEO's second affair, possible removal",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "Read more. \n Ines Ferré\n\n  Ines Ferré\n\n  ## Semiconductors stocks lead major averages higher\n\n  Semiconductors led a stock market rally on Wednesday after CoreWeave's better-than-expected earnings reignited the AI trade. \n\n  The Dow Jones Industrial Average (^DJI) rose 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Something happened in October that changes the TSMC stock debate",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/something-happened-october-changes-tsmc-160700623.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "In plain English, output from TSMC's newest generation of chipmaking is climbing fast. \n\nInvestors outside Taiwan should care.  TSMC builds chips for Nvidia, AMD, and Apple, making it one of the hardest links in the AI supply chain to replace.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade",
+      "url": "https://finance.yahoo.com/markets/article/copy-nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-135439175.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "\"Demand for compute is growing faster than the capacity to deliver that infrastructure and that is being echoed by the expansion of the margins that we are seeing on each additional contract,\" CoreWeave CEO Michael Intrator said during the company's earnings call on Tuesday. \n\nShares of chipmakers AMD (AMD) and Broadcom (AVGO) stock rose over 4% in premarket trading, while Intel (INTC) shares surged. \n\nShares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, jumped 4%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "NICE: Current Value Incorporates All AI Questions",
+      "url": "https://seekingalpha.com/article/4966825-nice-current-value-incorporates-all-ai-questions",
+      "fonte": "seekingalpha.com",
+      "data": "2026-11-12",
+      "resumo": "AI partnerships offer future growth drivers.  NICE acquired Cognigy, a company focused on deploying conversational, automation, and agentic AI capabilities.  The.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq Futures Rally as AI Optimism Returns",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-rally-ai-optimism-091600580.html",
@@ -581,20 +651,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Dow drops 1,800 points; Nasdaq tumbles into correction territory on AI tech wreck: Live updates",
-      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-04",
-      "resumo": "Hong Kong’s Hang Seng Tech index jumped more than 5% on Thursday, bucking a broader sell-off in technology stocks across Asia as Chinese tech heavyweights rallied. \n\nTech giant Alibaba surged 6. 36%, while Tencent climbed 6.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM) latest stock news and headlines – Yahoo Finance",
       "url": "https://nz.finance.yahoo.com/quote/TSM/news",
       "fonte": "nz.finance.yahoo.com",
@@ -875,34 +931,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Bovespa Index Today (IBOV) - Investing.com",
-      "url": "https://www.investing.com/indices/bovespa",
-      "fonte": "investing.com",
-      "data": "2026-11-04",
-      "resumo": "## Top Gainers\n\n| Name | Price |\n --- |\n| CSNA3  Companhia Siderurgica Nacional | 4. 46+0. 41+10.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Post-election rally masks a sharp split in the AI trade. Who wins?",
-      "url": "https://www.cnbc.com/investingclub/2026/11/04/post-election-rally-masks-a-sharp-split-in-the-ai-trade-who-wins.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-04",
-      "resumo": "\"remarkable\" way, Jim Cramer pointed out during the Morning Meeting.  Some of the biggest gainers were cloud-computing giants spending fortunes to build new data centers and eating into their cash flows to do so.  Amazon was up 7%.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "4 Strong Buy AI Stocks to Consider Amid the Tech Selloff: CLS, DELL, TER & AXTI",
       "url": "https://finance.yahoo.com/markets/stocks/articles/4-strong-buy-ai-stocks-202000643.html",
       "fonte": "finance.yahoo.com",
@@ -1113,152 +1141,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "5 Best Performing AI Stocks in 2026",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-performing-ai-stocks-233151565.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-04",
-      "resumo": "Number of Hedge Fund Holders: 184\n\nMicron Technology, Inc.  (NASDAQ:MU) is benefiting from surging demand for high-bandwidth memory (HBM) and continued investment in AI data-center infrastructure.  The company delivered record fiscal 2026 results, with full-year revenue up 256% to $133.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
-      "url": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-04",
-      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nTrending \n\n CVS to split\n Dems eye tariffs, healthcare\n Stocks rise\n McDonald's earnings\n\nYahoo Finance\n\n# Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck\n\nInes Ferré\n\nInes Ferré  · Senior Business Reporter\n\n1 min read\n\n XLK\n\n  +1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/DTCR",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-04",
-      "resumo": "### Asset profile\n\nThe fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nvidia vs. Taiwan Semiconductor: The AI Revolution Is Big Enough for Both. Here's the Better Buy.",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-taiwan-semiconductor-ai-152200427.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-05",
       "resumo": "Moreover, TSMC and Nvidia are attractively valued despite their healthy growth rates.  The tech-laden Nasdaq Composite index, for comparison, has a price-to-earnings ratio of 40.  So, investors are getting a solid deal on these semiconductor stocks, and buying either of them could prove to be a profitable long-term move for the reasons discussed in this article.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech",
-      "url": "https://sg.finance.yahoo.com/news/nasdaq-sinks-5-october-ai-121553717.html",
-      "fonte": "sg.finance.yahoo.com",
-      "data": "2026-11-04",
-      "resumo": "^NDX GF Value chart\n\n \n\nTwo other portfolios also finished the month higher.  Mid-Cap Movers gained 7. 3%, while Dominate the Dow added 5.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-ai-stocks-split-democratic-170603319.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-04",
-      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\ncrypto background image\n\ndecrypt\n\n# Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank\n\nJose Antonio Lanz\n\n3 min read\n\n NVDA -1.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "U.S. Stocks Rally on Divided Government as AI Wobbles Continue - WSJ",
-      "url": "https://www.wsj.com/finance/investing/u-s-stocks-rally-on-divided-government-as-ai-wobbles-continue-1a679abe",
-      "fonte": "wsj.com",
-      "data": "2026-11-04",
-      "resumo": "U. S.  stocks surged as oil prices tumbled and traders bet a divided government would be good for business, offsetting ongoing unease about artificial-intelligence bets.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 0.99%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-099-5001144",
-      "fonte": "investing.com",
-      "data": "2026-11-04",
-      "resumo": "| Name | Last | Chg.  % | Vol.  |  |\n ---  --- \n| FIS | 29.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Wall St set for higher open as Democrats win Congress; data center stocks slide | Reuters",
-      "url": "https://www.reuters.com/business/us-stock-index-futures-steady-democrats-seize-congress-2026-11-04",
-      "fonte": "reuters.com",
-      "data": "2026-11-04",
-      "resumo": "The AI trade has come under some pressure recently as investors grow wary of Big Tech's soaring AI ​spending and little evidence of ​adequate returns.  The tech-heavy Nasdaq-100 (. NDX) ⁠index confirmed a technical correction on Monday.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-sinks-5-october-ai-121553717.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-04",
-      "resumo": "Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech\n\n^NDX GF Value chart\n\n \n\nTwo other portfolios also finished the month higher.  Mid-Cap Movers gained 7. 3%, while Dominate the Dow added 5.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results | Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/us-stock-futures-mixed-apple-slides-midterms-loom-2026-11-03",
-      "fonte": "reuters.com",
-      "data": "2026-11-04",
-      "resumo": "Nov 3 (Reuters) - The Nasdaq ended higher on Tuesday as AI heavyweights rebounded ahead of US midterm election results, while Apple fell after the ​iPhone maker joined the list of Big Tech companies whose quarterly results failed to impress investors. \n\nApple (AAPL. O) dropped 1.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"

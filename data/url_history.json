@@ -1,48 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/until-next-gen-computing-implodes-154530005.html": {
-    "hash": "9898e9d62fccb3b4a912d607c0f83e04",
-    "visto_em": "2026-11-04"
-  },
-  "https://www.reuters.com/business/retail-consumer/us-stock-futures-mixed-apple-slides-midterms-loom-2026-11-03": {
-    "hash": "02d66318f03fdb2fe1bd072992a9c2b5",
-    "visto_em": "2026-11-04"
-  },
-  "https://finance.yahoo.com/video/ai-stocks-surge-tuesday-aehr-175713889.html": {
-    "hash": "1d70b814774dddba67b6f91d7d9a46e8",
-    "visto_em": "2026-11-04"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-watch-november-211148675.html": {
-    "hash": "5308b0933d27ab6d6b9aa40c00e4a7b5",
-    "visto_em": "2026-11-04"
-  },
-  "https://sg.finance.yahoo.com/news/amd-to-report-q3-results-as-chip-stocks-rebound-following-last-weeks-steep-selloff-150210938.html": {
-    "hash": "d0ffa860be107dc56903ec63c5331b33",
-    "visto_em": "2026-11-04"
-  },
-  "https://www.bloomberg.com/news/articles/2026-11-02/marvell-s-ai-megadeal-hands-wall-street-multiple-m-a-milestones": {
-    "hash": "07c5e7f381ed05ccdac7c08738f52c58",
-    "visto_em": "2026-11-04"
-  },
-  "https://www.investing.com/equities/taiwan-semicon": {
-    "hash": "a56050103751e1efa55279facb0da50a",
-    "visto_em": "2026-11-04"
-  },
-  "https://www.marketwatch.com/investing/stock/tsm": {
-    "hash": "46100b376503aa2c01a7df3fc2bd8563",
-    "visto_em": "2026-11-04"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-next-140507052.html": {
-    "hash": "bd162db494d96625e645a09d908091a1",
-    "visto_em": "2026-11-04"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-sinks-5-october-ai-121553717.html": {
-    "hash": "c70bbbccd78db607d67a2f307927c1e9",
-    "visto_em": "2026-11-04"
-  },
-  "https://www.investing.com/equities/embraer-on-nm": {
-    "hash": "8f459d74f7e1fb009826faa1ce606868",
-    "visto_em": "2026-11-04"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/tech-ai-stocks-split-democratic-170603319.html": {
     "hash": "ef25696a544d54db07e553a88d66d30b",
     "visto_em": "2026-11-05"
@@ -442,5 +398,25 @@
   "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m": {
     "hash": "2aff09f1bf7c11a3ccb10bf019e28dae",
     "visto_em": "2026-11-11"
+  },
+  "https://sg.finance.yahoo.com/news/asian-stocks-set-gain-renewed-143514704.html": {
+    "hash": "b68ba688d206c83283659d96c4101b66",
+    "visto_em": "2026-11-12"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html": {
+    "hash": "8fe516d71ef45ea39dc05234c5c44df3",
+    "visto_em": "2026-11-12"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/something-happened-october-changes-tsmc-160700623.html": {
+    "hash": "c3703ecf87a42fec00109936d036028c",
+    "visto_em": "2026-11-12"
+  },
+  "https://finance.yahoo.com/markets/article/copy-nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-135439175.html": {
+    "hash": "385b41379b793eafc7830caf181c51b4",
+    "visto_em": "2026-11-12"
+  },
+  "https://seekingalpha.com/article/4966825-nice-current-value-incorporates-all-ai-questions": {
+    "hash": "d6e4b3269c256bb61b14864f1e115d0e",
+    "visto_em": "2026-11-12"
   }
 }

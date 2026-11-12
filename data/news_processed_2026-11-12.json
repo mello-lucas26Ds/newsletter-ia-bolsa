@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-12",
+    "total_noticias": 5,
+    "gerado_em": "2026-11-12T10:36:52.839642"
+  },
+  "noticias": [
+    {
+      "titulo": "Asian stocks set to gain on renewed US tech rally",
+      "url": "https://sg.finance.yahoo.com/news/asian-stocks-set-gain-renewed-143514704.html",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "CRWV\n\n  +18. 53%\n NVDA\n\n  -4. 51%\n ^NDX\n\n  +2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock market today: Nvidia slides following reports of CEO's second affair, possible removal",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "Read more. \n Ines Ferré\n\n  Ines Ferré\n\n  ## Semiconductors stocks lead major averages higher\n\n  Semiconductors led a stock market rally on Wednesday after CoreWeave's better-than-expected earnings reignited the AI trade. \n\n  The Dow Jones Industrial Average (^DJI) rose 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Something happened in October that changes the TSMC stock debate",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/something-happened-october-changes-tsmc-160700623.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "In plain English, output from TSMC's newest generation of chipmaking is climbing fast. \n\nInvestors outside Taiwan should care.  TSMC builds chips for Nvidia, AMD, and Apple, making it one of the hardest links in the AI supply chain to replace.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade",
+      "url": "https://finance.yahoo.com/markets/article/copy-nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-135439175.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "\"Demand for compute is growing faster than the capacity to deliver that infrastructure and that is being echoed by the expansion of the margins that we are seeing on each additional contract,\" CoreWeave CEO Michael Intrator said during the company's earnings call on Tuesday. \n\nShares of chipmakers AMD (AMD) and Broadcom (AVGO) stock rose over 4% in premarket trading, while Intel (INTC) shares surged. \n\nShares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, jumped 4%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "NICE: Current Value Incorporates All AI Questions",
+      "url": "https://seekingalpha.com/article/4966825-nice-current-value-incorporates-all-ai-questions",
+      "fonte": "seekingalpha.com",
+      "data": "2026-11-12",
+      "resumo": "AI partnerships offer future growth drivers.  NICE acquired Cognigy, a company focused on deploying conversational, automation, and agentic AI capabilities.  The.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
