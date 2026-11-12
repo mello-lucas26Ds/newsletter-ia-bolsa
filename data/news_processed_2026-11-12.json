@@ -2,30 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-12",
-    "total_noticias": 5,
-    "gerado_em": "2026-11-12T10:36:52.839642"
+    "total_noticias": 4,
+    "gerado_em": "2026-11-12T17:56:49.246990"
   },
   "noticias": [
     {
-      "titulo": "Asian stocks set to gain on renewed US tech rally",
-      "url": "https://sg.finance.yahoo.com/news/asian-stocks-set-gain-renewed-143514704.html",
-      "fonte": "sg.finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "CRWV\n\n  +18. 53%\n NVDA\n\n  -4. 51%\n ^NDX\n\n  +2.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock market today: Nvidia slides following reports of CEO's second affair, possible removal",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html",
+      "titulo": "S&P 500, Nasdaq futures rise after CoreWeave soothes AI spending fears",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-11",
-      "resumo": "Read more. \n Ines Ferré\n\n  Ines Ferré\n\n  ## Semiconductors stocks lead major averages higher\n\n  Semiconductors led a stock market rally on Wednesday after CoreWeave's better-than-expected earnings reignited the AI trade. \n\n  The Dow Jones Industrial Average (^DJI) rose 0.",
+      "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -35,39 +21,39 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Something happened in October that changes the TSMC stock debate",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/something-happened-october-changes-tsmc-160700623.html",
+      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (2330.TW) stock price, news, quote and history - Yahoo Finance",
+      "url": "https://uk.finance.yahoo.com/quote/2330.TW/latest-news",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-11-09",
+      "resumo": "### Nvidia, AMD and Broadcom Lead AI Stock Rally as CoreWeave Results Ease Spending Fears\n\n  GuruFocus. com • 7 hr ago\n\n  NVDACRWVAMD\n TSMC Stocks Climb 3. 37% After Record NT$586.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-better-artificial-142902232.html",
       "fonte": "finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "In plain English, output from TSMC's newest generation of chipmaking is climbing fast. \n\nInvestors outside Taiwan should care.  TSMC builds chips for Nvidia, AMD, and Apple, making it one of the hardest links in the AI supply chain to replace.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade",
-      "url": "https://finance.yahoo.com/markets/article/copy-nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-135439175.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "\"Demand for compute is growing faster than the capacity to deliver that infrastructure and that is being echoed by the expansion of the margins that we are seeing on each additional contract,\" CoreWeave CEO Michael Intrator said during the company's earnings call on Tuesday. \n\nShares of chipmakers AMD (AMD) and Broadcom (AVGO) stock rose over 4% in premarket trading, while Intel (INTC) shares surged. \n\nShares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, jumped 4%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "NICE: Current Value Incorporates All AI Questions",
-      "url": "https://seekingalpha.com/article/4966825-nice-current-value-incorporates-all-ai-questions",
-      "fonte": "seekingalpha.com",
       "data": "2026-11-12",
-      "resumo": "AI partnerships offer future growth drivers.  NICE acquired Cognigy, a company focused on deploying conversational, automation, and agentic AI capabilities.  The.",
+      "resumo": "What's more, AMD's EPS growth rate is projected to accelerate from 93% this year to 108% in 2027, according to Yahoo.  Finance consensus estimates.  Given that the data center segment will account for the majority of AMD's top line next year, it is evident that the company will gain more share in AI chips.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://ca.finance.yahoo.com/quote/DLR",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-11-07",
+      "resumo": "Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.",
       "sentimento": "neutral",
       "tags": [
         "AI",

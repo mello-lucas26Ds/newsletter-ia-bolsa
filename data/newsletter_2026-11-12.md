@@ -1,95 +1,66 @@
 # Newsletter IA Bolsa — 2026-11-12
 
-**Gerado em:** 12/11/2026 10:36
-**Total:** 5 noticias
+**Gerado em:** 12/11/2026 17:56
+**Total:** 4 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Asian stocks set to gain on renewed US tech rally
-
-**Fonte:** sg.finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-CRWV
-
-  +18. 53%
- NVDA
-
-  -4. 51%
- ^NDX
-
-  +2.
-
-[Ler noticia completa](https://sg.finance.yahoo.com/news/asian-stocks-set-gain-renewed-143514704.html)
-
----
-
-## 2. Stock market today: Nvidia slides following reports of CEO's second affair, possible removal
+## 1. S&P 500, Nasdaq futures rise after CoreWeave soothes AI spending fears
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Read more. 
- Ines Ferré
+1.  Deirdre Bosa Live. 
 
-  Ines Ferré
+   Deirdre Bosa Live.
 
-  ## Semiconductors stocks lead major averages higher
-
-  Semiconductors led a stock market rally on Wednesday after CoreWeave's better-than-expected earnings reignited the AI trade. 
-
-  The Dow Jones Industrial Average (^DJI) rose 0.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html)
 
 ---
 
-## 3. Something happened in October that changes the TSMC stock debate
+## 2. Taiwan Semiconductor Manufacturing Company Limited (2330.TW) stock price, news, quote and history - Yahoo Finance
+
+**Fonte:** uk.finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+### Nvidia, AMD and Broadcom Lead AI Stock Rally as CoreWeave Results Ease Spending Fears
+
+  GuruFocus. com • 7 hr ago
+
+  NVDACRWVAMD
+ TSMC Stocks Climb 3. 37% After Record NT$586.
+
+[Ler noticia completa](https://uk.finance.yahoo.com/quote/2330.TW/latest-news)
+
+---
+
+## 3. Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-In plain English, output from TSMC's newest generation of chipmaking is climbing fast. 
+What's more, AMD's EPS growth rate is projected to accelerate from 93% this year to 108% in 2027, according to Yahoo.  Finance consensus estimates.  Given that the data center segment will account for the majority of AMD's top line next year, it is evident that the company will gain more share in AI chips.
 
-Investors outside Taiwan should care.  TSMC builds chips for Nvidia, AMD, and Apple, making it one of the hardest links in the AI supply chain to replace.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/something-happened-october-changes-tsmc-160700623.html)
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-better-artificial-142902232.html)
 
 ---
 
-## 4. Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade
+## 4. Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & History - Yahoo Finance
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-"Demand for compute is growing faster than the capacity to deliver that infrastructure and that is being echoed by the expansion of the margins that we are seeing on each additional contract," CoreWeave CEO Michael Intrator said during the company's earnings call on Tuesday. 
-
-Shares of chipmakers AMD (AMD) and Broadcom (AVGO) stock rose over 4% in premarket trading, while Intel (INTC) shares surged. 
-
-Shares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, jumped 4%.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/article/copy-nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-135439175.html)
-
----
-
-## 5. NICE: Current Value Incorporates All AI Questions
-
-**Fonte:** seekingalpha.com  
+**Fonte:** ca.finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-AI partnerships offer future growth drivers.  NICE acquired Cognigy, a company focused on deploying conversational, automation, and agentic AI capabilities.  The.
+Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.
 
-[Ler noticia completa](https://seekingalpha.com/article/4966825-nice-current-value-incorporates-all-ai-questions)
+[Ler noticia completa](https://ca.finance.yahoo.com/quote/DLR)
 
 ---
