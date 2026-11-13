@@ -2,10 +2,52 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-13",
-    "total_noticias": 70,
-    "gerado_em": "2026-11-13T10:29:01.508126"
+    "total_noticias": 73,
+    "gerado_em": "2026-11-13T17:31:36.886697"
   },
   "noticias": [
+    {
+      "titulo": "Stock market today: Dow, S&P 500, Nasdaq edge higher after wholesale inflation grows, Nvidia stock rebounds",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-13",
+      "resumo": "> \"Although we expect solid AI investment growth to continue, our forecasts imply that the investment growth impulse — additional AI investment as a share of GDP — will peak in early 2027.  From a macro perspective, this should be a manageable event.  But it may be a bigger test for markets for three reasons.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stocks end higher as CoreWeave results ease AI spending ...",
+      "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11",
+      "fonte": "reuters.com",
+      "data": "2026-11-11",
+      "resumo": "US stocks closed higher on Wednesday, with the S&P 500 and the Nasdaq each rallying more than 1% the durability of the AI trade, 5. 7% to close ​at its highest.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The AI Trade Just Cracked. Here’s the Price at Which I’d Start Buying Nvidia.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-just-cracked-price-103202288.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-13",
+      "resumo": "Nvidia is substantially larger and more profitable today than it was during earlier phases of the AI revolution.  Huang's departure poses a legitimate succession risk, while decelerating hyperscaler spending could erode future earnings. \n\nHowever, I would become particularly interested in Nvidia around $155 to $160 per share.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-224502652.html",

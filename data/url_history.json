@@ -390,5 +390,17 @@
   "https://finance.yahoo.com/quote/AJBU.SI": {
     "hash": "0b754099ec27673b76610f950d12ea35",
     "visto_em": "2026-11-13"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html": {
+    "hash": "5dd48918686c744de9372d39a849408a",
+    "visto_em": "2026-11-13"
+  },
+  "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11": {
+    "hash": "a59088005d2a2c22fdd90196ce7174ca",
+    "visto_em": "2026-11-13"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/ai-trade-just-cracked-price-103202288.html": {
+    "hash": "0fb086d4f3f0c77d566761973d731711",
+    "visto_em": "2026-11-13"
   }
 }

@@ -1,95 +1,48 @@
 # Newsletter IA Bolsa — 2026-11-13
 
-**Gerado em:** 13/11/2026 10:29
-**Total:** 6 noticias
+**Gerado em:** 13/11/2026 17:31
+**Total:** 3 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade
+## 1. Stock market today: Dow, S&P 500, Nasdaq edge higher after wholesale inflation grows, Nvidia stock rebounds
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
--0. 68%
- AAPL
+> "Although we expect solid AI investment growth to continue, our forecasts imply that the investment growth impulse — additional AI investment as a share of GDP — will peak in early 2027.  From a macro perspective, this should be a manageable event.  But it may be a bigger test for markets for three reasons.
 
-  -0. 14%
- CRWV
-
-  -7.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-224502652.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html)
 
 ---
 
-## 2. Alphabet vs. Broadcom: the best AI stocks for risk and reward
+## 2. Stocks end higher as CoreWeave results ease AI spending ...
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** reuters.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-## The Catch
+US stocks closed higher on Wednesday, with the S&P 500 and the Nasdaq each rallying more than 1% the durability of the AI trade, 5. 7% to close ​at its highest.
 
-Alphabet is not a clean momentum story.  It fell 15. 33% over one month as of Nov 12, 2026, 11:06 AM EST, after its Oct 28 earnings release showed EPS of $2.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-broadcom-best-ai-163818058.html)
+[Ler noticia completa](https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11)
 
 ---
 
-## 3. Blackstone Digital Infrastructure Trust Inc. (BXDC) Stock Price, News, Quote & History - Yahoo Finance
+## 3. The AI Trade Just Cracked. Here’s the Price at Which I’d Start Buying Nvidia.
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Blackstone Digital Infrastructure Trust Inc.  is a newly organized company focused on acquiring and owning mission-critical data center assets that power the modern digital economy.  BXDC targets newly-constructed, income-generating, stabilized data center properties leased to investment-grade hyperscale tenants on long-term contracts.
+Nvidia is substantially larger and more profitable today than it was during earlier phases of the AI revolution.  Huang's departure poses a legitimate succession risk, while decelerating hyperscaler spending could erode future earnings. 
 
-[Ler noticia completa](https://finance.yahoo.com/quote/BXDC)
+However, I would become particularly interested in Nvidia around $155 to $160 per share.
 
----
-
-## 4. TSMC Stocks Fall 2.21% as NVIDIA Shake-Up Overshadows Record October Revenue
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🔴 BEARISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-October ran about 35% above the JanuarySeptember monthly average of roughly NT$433 billion, a sign that AI demand is still accelerating at the foundry level.  That is why the pullback looks like sentiment, not fundamentals.  GuruFocus gives TSMC a GF Score of 98/100, with a perfect profitability rank and 9/10 financial strength.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-2-21-180251979.html)
-
----
-
-## 5. Global X Data Center & Digital Infrastructure ETF (DTCR) stock price, news, quote and history - Yahoo Finance
-
-**Fonte:** sg.finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-### Asset profile
-
-The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.
-
-[Ler noticia completa](https://sg.finance.yahoo.com/quote/DTCR)
-
----
-
-## 6. Keppel DC REIT (AJBU.SI) Stock Price, News, Quote & History - Yahoo Finance
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Keppel DC REIT was listed on the Singapore Exchange on 12 December 2014 as the first pure-play data centre REIT in Asia.  Keppel DC REIT's investment strategy is to principally invest, directly or indirectly, in a diversified portfolio of income-producing real estate assets which are used primarily for data centre purposes, as well as real estate and assets necessary to support the digital economy.  Keppel DC REIT's investments comprise a mix of colocation, fully-fitted and shell and core assets, as well as debt securities, thereby reinforcing the diversity and resiliency of its portfolio.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/AJBU.SI)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ai-trade-just-cracked-price-103202288.html)
 
 ---
