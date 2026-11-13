@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-13",
+    "total_noticias": 6,
+    "gerado_em": "2026-11-13T10:29:01.506192"
+  },
+  "noticias": [
+    {
+      "titulo": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-224502652.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "-0. 68%\n AAPL\n\n  -0. 14%\n CRWV\n\n  -7.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Alphabet vs. Broadcom: the best AI stocks for risk and reward",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-broadcom-best-ai-163818058.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-12",
+      "resumo": "## The Catch\n\nAlphabet is not a clean momentum story.  It fell 15. 33% over one month as of Nov 12, 2026, 11:06 AM EST, after its Oct 28 earnings release showed EPS of $2.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Blackstone Digital Infrastructure Trust Inc. (BXDC) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BXDC",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-12",
+      "resumo": "Blackstone Digital Infrastructure Trust Inc.  is a newly organized company focused on acquiring and owning mission-critical data center assets that power the modern digital economy.  BXDC targets newly-constructed, income-generating, stabilized data center properties leased to investment-grade hyperscale tenants on long-term contracts.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Stocks Fall 2.21% as NVIDIA Shake-Up Overshadows Record October Revenue",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-2-21-180251979.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-12",
+      "resumo": "October ran about 35% above the JanuarySeptember monthly average of roughly NT$433 billion, a sign that AI demand is still accelerating at the foundry level.  That is why the pullback looks like sentiment, not fundamentals.  GuruFocus gives TSMC a GF Score of 98/100, with a perfect profitability rank and 9/10 financial strength.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global X Data Center & Digital Infrastructure ETF (DTCR) stock price, news, quote and history - Yahoo Finance",
+      "url": "https://sg.finance.yahoo.com/quote/DTCR",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-11-09",
+      "resumo": "### Asset profile\n\nThe fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Keppel DC REIT (AJBU.SI) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/AJBU.SI",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "Keppel DC REIT was listed on the Singapore Exchange on 12 December 2014 as the first pure-play data centre REIT in Asia.  Keppel DC REIT's investment strategy is to principally invest, directly or indirectly, in a diversified portfolio of income-producing real estate assets which are used primarily for data centre purposes, as well as real estate and assets necessary to support the digital economy.  Keppel DC REIT's investments comprise a mix of colocation, fully-fitted and shell and core assets, as well as debt securities, thereby reinforcing the diversity and resiliency of its portfolio.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

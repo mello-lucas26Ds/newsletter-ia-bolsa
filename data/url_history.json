@@ -1,72 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/tech-ai-stocks-split-democratic-170603319.html": {
-    "hash": "ef25696a544d54db07e553a88d66d30b",
-    "visto_em": "2026-11-05"
-  },
-  "https://www.wsj.com/finance/investing/u-s-stocks-rally-on-divided-government-as-ai-wobbles-continue-1a679abe": {
-    "hash": "15027b37b5eb1b33e5256682e8f049a7",
-    "visto_em": "2026-11-05"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-099-5001144": {
-    "hash": "9763127f50988f7b9d908cff4d8b131b",
-    "visto_em": "2026-11-05"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/ai-enthusiasm-collapsing-tech-earnings-130000178.html": {
-    "hash": "db2a0dcfdfeff7e46d272fbc8b921602",
-    "visto_em": "2026-11-05"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-137-4996310": {
-    "hash": "39275396b48c14138825b37e07126f7a",
-    "visto_em": "2026-11-05"
-  },
-  "https://www.reuters.com/business/us-stock-index-futures-steady-democrats-seize-congress-2026-11-04": {
-    "hash": "4f4b81e2c7dd897ff9eafe4c1f7e2e1f",
-    "visto_em": "2026-11-05"
-  },
-  "https://finance.yahoo.com/technology/article/super-micro-to-report-q1-earnings-as-ai-trade-attempts-comeback-195315844.html": {
-    "hash": "a55622ecc046d3a21f8901d9c2e917eb",
-    "visto_em": "2026-11-05"
-  },
-  "https://finance.yahoo.com/quote/NVDA": {
-    "hash": "00965319e09ecf77432c14a34660459d",
-    "visto_em": "2026-11-05"
-  },
-  "https://uk.finance.yahoo.com/news/election-raises-hurdle-data-center-133010287.html": {
-    "hash": "6c8aef45cfc77d4c6daa1be5e7bea88c",
-    "visto_em": "2026-11-05"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/5-best-performing-ai-stocks-233151565.html": {
-    "hash": "236dd7ca1c3a0d68a7f55ac27f8e591a",
-    "visto_em": "2026-11-05"
-  },
-  "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html": {
-    "hash": "6be9f345fc0d03988b0e9c661c27e00a",
-    "visto_em": "2026-11-05"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/smart-people-saying-nasdaq-sinks-124338308.html": {
-    "hash": "1eb7bbb146c349a5829ebe1ed7a5c4dd",
-    "visto_em": "2026-11-05"
-  },
-  "https://finance.yahoo.com/quote/DTCR": {
-    "hash": "3649edd248ab6b02fbdfdc7c004280a8",
-    "visto_em": "2026-11-05"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-taiwan-semiconductor-ai-152200427.html": {
-    "hash": "75d487ef55980f7a8c51710d7d7bce9a",
-    "visto_em": "2026-11-05"
-  },
-  "https://sg.finance.yahoo.com/news/nasdaq-sinks-5-october-ai-121553717.html": {
-    "hash": "6a3c32c37051007de4b636def5b1b6e5",
-    "visto_em": "2026-11-05"
-  },
-  "https://finance.yahoo.com/quote/VPN.L/seasonality": {
-    "hash": "ae5f1dd52a8c4f5c01b5ed04e04f7d1f",
-    "visto_em": "2026-11-05"
-  },
-  "https://www.investing.com/etfs/ishares-ibovespa": {
-    "hash": "d2ebeea9b2d9bae77254b5f78edc127a",
-    "visto_em": "2026-11-05"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-taiwan-202002562.html": {
     "hash": "0e6b45525e59d84ee8a1eb68c6f4ad58",
     "visto_em": "2026-11-06"
@@ -434,5 +366,29 @@
   "https://ca.finance.yahoo.com/quote/DLR": {
     "hash": "16028d2485d4cd5e55f9843baf8d4882",
     "visto_em": "2026-11-12"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-224502652.html": {
+    "hash": "c4780ce7226e5faf32187ee5ed1862a6",
+    "visto_em": "2026-11-13"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-broadcom-best-ai-163818058.html": {
+    "hash": "8c040f8d6bc759e466bfe0118e374846",
+    "visto_em": "2026-11-13"
+  },
+  "https://finance.yahoo.com/quote/BXDC": {
+    "hash": "775f6247a993fd87d852858eed632145",
+    "visto_em": "2026-11-13"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-2-21-180251979.html": {
+    "hash": "b466850a96786fee629a72cb799ad03d",
+    "visto_em": "2026-11-13"
+  },
+  "https://sg.finance.yahoo.com/quote/DTCR": {
+    "hash": "3649edd248ab6b02fbdfdc7c004280a8",
+    "visto_em": "2026-11-13"
+  },
+  "https://finance.yahoo.com/quote/AJBU.SI": {
+    "hash": "0b754099ec27673b76610f950d12ea35",
+    "visto_em": "2026-11-13"
   }
 }
