@@ -2,10 +2,122 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-14",
-    "total_noticias": 63,
-    "gerado_em": "2026-11-14T09:47:22.711014"
+    "total_noticias": 71,
+    "gerado_em": "2026-11-14T16:23:48.050323"
   },
   "noticias": [
+    {
+      "titulo": "NTT DC REIT (NTDU.SI) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NTDU.SI",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "NTT DC REIT is a Singapore real estate investment trust established with the principal investment strategy of investing, directly or indirectly, in a diversified portfolio of stabilized income-producing real estate assets located globally that are used primarily for data center purposes, as well as assets necessary to support the digital economy.  NTT DC REIT's portfolio comprises six carrier neutral, Tier III-equivalent assets with stringent operational and technical specifications.  Its portfolio is diversified across the United States (Northern Virginia and Northern California), Austria (Vienna) and Singapore, with an optimal mix of hyperscale and colocation customer contracts.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Are Wall Street Analysts Predicting Digital Realty Trust Stock Will Climb or Sink?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-digital-140641844.html?fr=sycsrp_catchall",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-13",
+      "resumo": "Digital Realty-by kitzcorner via iStock\n\n \n\nAustin, Texas-based Digital Realty Trust, Inc.  (DLR) is engaged in the ownership, acquisition, repositioning, and management of technology-related real estate.  The company has a market cap of $69.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-just-delivered-ai-growth-172738565.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-10",
+      "resumo": "TSM GF Value chart\n\n \n\nThe Taiwanese semiconductor giant is the world's largest contract chipmaker, manufacturing processors for customers including Nvidia, AMD and Apple.  It generates revenue by producing advanced chips designed by other companies, with AI accelerators and high-performance computing becoming increasingly important growth drivers. \n\nTSMC reported October revenue of NT$586.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Just Became Even More of an AI Anchor On Nvidia’s -25% Plummet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-just-became-even-134557528.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-13",
+      "resumo": "Growth keeps showing up in earnings as well.  Third-quarter EPS came in at $4. 60 against a consensus of $4.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Theme Intact, But Market Cycle Has Changed: Thomas",
+      "url": "https://finance.yahoo.com/video/ai-theme-intact-market-cycle-171625215.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-09",
+      "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC, SK Hynix, Samsung: Asian Chip Stocks Rise Even As Nvidia CEO Jensen Huang’s Controversy Tests Investor Confidence",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sk-hynix-samsung-asian-083520835.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-09",
+      "resumo": "TSMC reported record third-quarter profit that beat estimates and projected a 58% jump in current quarter sales. \n\n## Retail View On TSM, SKHY\n\nOn Stocktwits, the retail sentiment was 'neutral' for TSM and 'bearish' for SKHY. \n\n\"$SKHY I think they've pounded this about as low as it can possibly go,\" said a trader.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq futures dip as Nvidia tumult keeps investors on edge",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dip-nvidia-tumult-103901600.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-13",
+      "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Arrive AI Q3 Earnings Call Highlights",
+      "url": "https://finance.yahoo.com/technology/articles/arrive-ai-q3-earnings-call-161448837.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-13",
+      "resumo": "→ 3 Stocks Wall Street Likes More Than the Market Does\n\nThe company's quarterly net loss narrowed to $3. 7 million, or $3. 37 per share, from $4.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "3 Top-Ranked AI Stocks Holding Up Despite the Selloff",
       "url": "https://finance.yahoo.com/technology/ai/articles/3-top-ranked-ai-stocks-183900135.html",
