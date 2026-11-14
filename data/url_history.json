@@ -1,76 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-taiwan-202002562.html": {
-    "hash": "0e6b45525e59d84ee8a1eb68c6f4ad58",
-    "visto_em": "2026-11-06"
-  },
-  "https://www.reuters.com/markets/us/nasdaq-set-correction-investors-reassess-ai-spending-boom-2026-11-05": {
-    "hash": "9a75ddccafc00ad38a0b748de5ee6f17",
-    "visto_em": "2026-11-06"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/texas-could-host-41-u-185500595.html": {
-    "hash": "2a63880fb4f6425682613bc3c26261e9",
-    "visto_em": "2026-11-06"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-065-5005510": {
-    "hash": "8d4bddf001353df6e50f6aba18d15632",
-    "visto_em": "2026-11-06"
-  },
-  "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05": {
-    "hash": "646adce7f260ff20a755e3182c4ed214",
-    "visto_em": "2026-11-06"
-  },
-  "https://www.reuters.com/business/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-chip-weakness-2026-11-05": {
-    "hash": "e9d49d191194c70df8694d83eb5b8d53",
-    "visto_em": "2026-11-06"
-  },
-  "https://finance.yahoo.com/markets/article/micron-nvidia-amd-lead-chip-stocks-rebound-140538628.html": {
-    "hash": "a9d1633fea6bfd26ec6bbfc22c16803e",
-    "visto_em": "2026-11-06"
-  },
-  "https://www.investing.com/news/earnings/iren-reports-q3-loss-though-ai-cloud-revenue-nearly-triples-93CH-5005578": {
-    "hash": "be7dab85bfc1264bc8aaa300340d64d8",
-    "visto_em": "2026-11-06"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-rotation-away-140648889.html": {
-    "hash": "0452a7fa19318882c09d189926dafeae",
-    "visto_em": "2026-11-06"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-7-46-185827180.html": {
-    "hash": "04c05cf1bddd70570813df36c6fd4560",
-    "visto_em": "2026-11-06"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/4-strong-buy-ai-stocks-202000643.html": {
-    "hash": "f0effdf0364448c73ec793952e8f206f",
-    "visto_em": "2026-11-06"
-  },
-  "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html": {
-    "hash": "f94aec38e38de107b88a54cbb430c957",
-    "visto_em": "2026-11-06"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stocks-crater-investors-recoil-tech-180224986.html": {
-    "hash": "80ce196d100e2178abf69050a21b6932",
-    "visto_em": "2026-11-06"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/aapl-q4-earnings-call-highlights-140000209.html": {
-    "hash": "9ba4d6fd392b222b110f6dae50d5b154",
-    "visto_em": "2026-11-06"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-30-19-off-high-023505211.html": {
-    "hash": "04eb4d88e3a65ec9ece6ebc8fde169e8",
-    "visto_em": "2026-11-06"
-  },
-  "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c": {
-    "hash": "67be6c1b6c3c6a68ace5435e0a1d6a66",
-    "visto_em": "2026-11-06"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/marvell-reaches-115-billion-deal-121511472.html": {
-    "hash": "c1f0f8074c1637c10cff928414696b2a",
-    "visto_em": "2026-11-06"
-  },
-  "https://seekingalpha.com/article/4961054-marvell-lumentum-merger-implications-of-a-major-ai-photonics-deal": {
-    "hash": "7b42e09fbc127aad1547fcfcd5e93520",
-    "visto_em": "2026-11-06"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-rally-asian-ai-131100206.html?fr=sycsrp_catchall": {
     "hash": "b9849d372e263c4c95524f9a01d251cc",
     "visto_em": "2026-11-07"
@@ -402,5 +330,25 @@
   "https://finance.yahoo.com/markets/stocks/articles/ai-trade-just-cracked-price-103202288.html": {
     "hash": "0fb086d4f3f0c77d566761973d731711",
     "visto_em": "2026-11-13"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/3-top-ranked-ai-stocks-183900135.html": {
+    "hash": "1a4a0060a67eba0d2dffdd33ad27f7a3",
+    "visto_em": "2026-11-14"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/earnings-week-scorecard-beats-rewarded-203315112.html": {
+    "hash": "edc48647f415421ef4f341409edca8c0",
+    "visto_em": "2026-11-14"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-just-booked-record-nt-153548103.html": {
+    "hash": "627a04a93d6e114c2450f2f1e1a84b7d",
+    "visto_em": "2026-11-14"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-recover-early-194618680.html": {
+    "hash": "387fba7b3de02c78466cfbb952079a6a",
+    "visto_em": "2026-11-14"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/ai-stock-sell-off-positioning-155812283.html": {
+    "hash": "c5642f53af90300ec84e944fb03f7f37",
+    "visto_em": "2026-11-14"
   }
 }
