@@ -1,56 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-rally-asian-ai-131100206.html?fr=sycsrp_catchall": {
-    "hash": "b9849d372e263c4c95524f9a01d251cc",
-    "visto_em": "2026-11-07"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-soars-5-report-weighing-162207427.html": {
-    "hash": "bde37836a9a36adaa6f5d1219672f868",
-    "visto_em": "2026-11-07"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-makes-chips-both-nvidia-183400901.html": {
-    "hash": "0cbb17d078888e80f896ea63e53396b1",
-    "visto_em": "2026-11-07"
-  },
-  "https://finance.yahoo.com/technology/articles/forget-nvidia-company-behind-chips-170301655.html": {
-    "hash": "eaf95a3e1f0ade18c98bd0c6263ed95b",
-    "visto_em": "2026-11-07"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/election-raises-hurdle-data-center-133010287.html": {
-    "hash": "b5387c366df148e97d5b2e9b4998fe99",
-    "visto_em": "2026-11-07"
-  },
-  "https://finance.yahoo.com/real-estate/articles/3-data-center-reit-stocks-042439380.html": {
-    "hash": "bdf4d60895663e2c4e5e0fa84e5a0af5",
-    "visto_em": "2026-11-07"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-134-5009099": {
-    "hash": "0407236b8d3838c4021151b5852d0721",
-    "visto_em": "2026-11-07"
-  },
-  "https://www.businessinsider.com/ai-stock-selloff-stock-market-today-data-center-slowdown-election-2026-11": {
-    "hash": "532d322875fd1cf880fde43b48d032dd",
-    "visto_em": "2026-11-07"
-  },
-  "https://www.investing.com/indices/bovespa": {
-    "hash": "43a8870ba1478184243a99377caa6d72",
-    "visto_em": "2026-11-07"
-  },
-  "https://www.cnbc.com/investingclub/2026/11/04/post-election-rally-masks-a-sharp-split-in-the-ai-trade-who-wins.html": {
-    "hash": "7cbc5e106e49d807007795557940d384",
-    "visto_em": "2026-11-07"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stocks-rebound-tech-selloff-pushed-151116491.html": {
-    "hash": "b8331d227cbf389a0eccc49e18d7fd06",
-    "visto_em": "2026-11-07"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/el-erian-says-stock-market-174818425.html": {
-    "hash": "43d0f5b18ca89db76b629e4186691c01",
-    "visto_em": "2026-11-07"
-  },
-  "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-jobs-data-muted-ai-rebound-945344f6": {
-    "hash": "38aaf05ef0f969d3d55d1a55d6217d7d",
-    "visto_em": "2026-11-07"
-  },
   "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html": {
     "hash": "e3efc91e3c973654236d9d06b3e6c3f0",
     "visto_em": "2026-11-08"
@@ -382,5 +330,21 @@
   "https://finance.yahoo.com/technology/articles/arrive-ai-q3-earnings-call-161448837.html": {
     "hash": "7073a8e37d5d79c1a0ec4a395894a94d",
     "visto_em": "2026-11-14"
+  },
+  "https://www.marketwatch.com/investing/index/ndx": {
+    "hash": "e5467df7479ee5f587f63886ae2470e3",
+    "visto_em": "2026-11-15"
+  },
+  "https://seekingalpha.com/symbol/COMP:IND": {
+    "hash": "de7c8ec3299285bd7fa77b8af645643e",
+    "visto_em": "2026-11-15"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/undervalued-ai-stocks-watch-nvidia-205103391.html": {
+    "hash": "f5cfe3b7be2cef63ac4f2987adc6cde8",
+    "visto_em": "2026-11-15"
+  },
+  "https://finance.yahoo.com/markets/article/nvidia-stock-rebounds-chip-stocks-surge-as-coreweave-earnings-boost-ai-trade-151001136.html": {
+    "hash": "a9c8ee736724dcafc48d4b43ef5fa08f",
+    "visto_em": "2026-11-15"
   }
 }

@@ -1,11 +1,67 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-11-14",
-    "total_noticias": 71,
-    "gerado_em": "2026-11-14T16:23:48.050323"
+    "data": "2026-11-15",
+    "total_noticias": 68,
+    "gerado_em": "2026-11-15T10:21:00.098249"
   },
   "noticias": [
+    {
+      "titulo": "NDX | NASDAQ 100 Index Overview | MarketWatch",
+      "url": "https://www.marketwatch.com/investing/index/ndx",
+      "fonte": "marketwatch.com",
+      "data": "2026-11-14",
+      "resumo": "What worked Wednesday isn't working Thursday, causing all three major U. S.  stock indexes to tumble.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "NASDAQ Index (COMP:IND) Analysis, News, And Chart Today | Seeking Alpha",
+      "url": "https://seekingalpha.com/symbol/COMP:IND",
+      "fonte": "seekingalpha.com",
+      "data": "2026-11-10",
+      "resumo": "+8. 09%\n\nOpen\n\nPrev.  Close\n\nVolume\n\nExpand For Key Data »\n\n## NASDAQ Index Analysis\n\n### CoreWeave Earnings Alleviate Some AI Spending Fears\n\n### Hot CPI Report Puts Fire Under Interest Rate Hike Possibilities\n\n### Stocks Stage A Broad-Based Relief Rally\n\n### Voters' Message To President Trump Creates Opportunity, But Risks Popping The AI Bubble\n\n### Tech Stocks Rebound But Nasdaq Is Still In Correction Territory\n\n### Market Swims In A Sea Of Red\n\n### Blue Wave Paints The Market Green\n\n### Tech Stocks Rebound To Take Center Stage - Again\n\n### Nasdaq And S&P 500 Index Lose Momentum, Pull Down Market\n\n### Macro Insights: The AI Selloff, Hyperscaler Earnings, And The Fed Pause\n\n## Share your Analysis on COMP:IND\n\nSubmit an article now\n\nSee All Analysis »\n\n## NASDAQ Index News.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Undervalued AI stocks to watch as Nvidia leadership uncertainty weighs on the sector",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/undervalued-ai-stocks-watch-nvidia-205103391.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-13",
+      "resumo": "## The Bear Case\n\n Low multiples can be a trap.  A forward P/E of 3. 9x in memory may signal that analysts expect earnings to peak.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-rebounds-chip-stocks-surge-as-coreweave-earnings-boost-ai-trade-151001136.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-11",
+      "resumo": "\"Demand for compute is growing faster than the capacity to deliver that infrastructure and that is being echoed by the expansion of the margins that we are seeing on each additional contract,\" CoreWeave CEO Michael Intrator said during the company's earnings call on Tuesday. \n\nShares of chipmakers AMD (AMD) and Broadcom (AVGO) stock rose over 5%, while Intel (INTC) shares surged. \n\nShares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, jumped 4%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "NTT DC REIT (NTDU.SI) Stock Price, News, Quote & History - Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/NTDU.SI",
@@ -349,20 +405,6 @@
       "data": "2026-11-12",
       "resumo": "What's more, AMD's EPS growth rate is projected to accelerate from 93% this year to 108% in 2027, according to Yahoo.  Finance consensus estimates.  Given that the data center segment will account for the majority of AMD's top line next year, it is evident that the company will gain more share in AI chips.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://ca.finance.yahoo.com/quote/DLR",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-11-07",
-      "resumo": "Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -908,90 +950,6 @@
       "fonte": "markets.businessinsider.com",
       "data": "2026-11-09",
       "resumo": "About the Merger to form McCarthy Finney (MCFN)\n\nAuddia entered into a definitive merger agreement with Thramann Holdings, LLC on February 17, 2026.  If completed, the transaction would combine Auddia with three early stage, AI-native operating companies wholly owned by Thramann Holdings: LT350, Influence Healthcare, and Voyex.  The combined company would be renamed McCarthy Finney Inc.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (TSM) latest stock news and headlines – Yahoo Finance",
-      "url": "https://nz.finance.yahoo.com/quote/TSM/news",
-      "fonte": "nz.finance.yahoo.com",
-      "data": "2026-11-07",
-      "resumo": "GuruFocus. com • 1 day ago\n\n  MUNVDATSM\n\n  +7. 23%\n TSMC rises on report of potential push into advanced memory for Nvidia\n\n  ### TSMC rises on report of potential push into advanced memory for Nvidia\n\n  Investing.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-07",
-      "resumo": "Iren shares jumped as much as 20% on Friday, rebounding from a roughly 17% decline in the previous session amid a broader sell-off in the AI trade.  Despite the recovery, Iren shares remain down more than 50% year to date as investor concerns over AI infrastructure spending, financing requirements and data center expansion have weighed on the sector.  The company, which has transitioned from bitcoin (BTC-USD) mining into AI cloud and data center infrastructure, has been particularly affected by the recent pullback in neocloud stocks.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-jumped-6-report-could-151351522.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-07",
-      "resumo": "Shares of Taiwan Semiconductor Manufacturing (NYSE:TSM) rose 6. 26% in U. S.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "What Is Digital Realty Trust (DLR) Signaling With Its Global AI Infrastructure Push?",
-      "url": "https://sg.finance.yahoo.com/news/digital-realty-trust-dlr-signaling-191401663.html",
-      "fonte": "sg.finance.yahoo.com",
-      "data": "2026-11-07",
-      "resumo": "For readers who want more ideas at the intersection of data centres and artificial intelligence, the next stop is 52 AI infrastructure stocks. \n\nNYSE:DLR Earnings & Revenue Growth as at Nov 2026\n\nNYSE:DLR Earnings & Revenue Growth as at Nov 2026\n\n \n\nDigital Realty Trust is a US-based Specialized REIT with a market cap of about $67. 2 billion that focuses on data centres, colocation and interconnection services for enterprise customers.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "What Is Digital Realty Trust (DLR) Signaling With Its Global AI Infrastructure Push?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/digital-realty-trust-dlr-signaling-191401663.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-07",
-      "resumo": "For readers who want more ideas at the intersection of data centres and artificial intelligence, the next stop is 52 AI infrastructure stocks. \n\nNYSE:DLR Earnings & Revenue Growth as at Nov 2026\n\nNYSE:DLR Earnings & Revenue Growth as at Nov 2026\n\n \n\nDigital Realty Trust is a US-based Specialized REIT with a market cap of about $67. 2 billion that focuses on data centres, colocation and interconnection services for enterprise customers.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 Data Center REIT Stocks Retail Investors Are Watching After AI ...",
-      "url": "https://finance.yahoo.com/real-estate/articles/3-data-center-reit-stocks-042439380.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-07",
-      "resumo": "Overview: Digital Realty Trust owns and operates large scale data centers and colocation sites where enterprises and cloud platforms run and connect AI ready.",
       "sentimento": "neutral",
       "tags": [
         "AI",
