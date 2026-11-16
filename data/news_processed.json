@@ -2,10 +2,122 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-16",
-    "total_noticias": 75,
-    "gerado_em": "2026-11-16T10:35:35.730414"
+    "total_noticias": 83,
+    "gerado_em": "2026-11-16T20:00:43.030172"
   },
   "noticias": [
+    {
+      "titulo": "Blackstone’s Data Center REIT Makes First Investment With $5B AWS Deal",
+      "url": "https://finance.yahoo.com/real-estate/articles/blackstone-data-center-reit-makes-145243410.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "[](\n\nCredit: Unsplash/Scott Rodgerson\n\n \n\nBlackstone Digital Infrastructure Trust is acquiring a 75% majority stake in two joint ventures with Amazon Web Services to acquire 13 newly constructed powered shells across two AWS campuses in a deal valued at $5B, the investment management giant announced Monday. \n\nAmazon will lease back 100% of the portfolio from the REIT, which trades under the ticker BXDC, on a triple-net basis with an initial term of 12 years and an option to expand the length to 32 years.  Rent payments are guaranteed by AWS, according to a presentation published with the announcement.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "COMP | NASDAQ Composite Index Overview | MarketWatch",
+      "url": "https://www.marketwatch.com/investing/index/comp",
+      "fonte": "marketwatch.com",
+      "data": "2026-11-12",
+      "resumo": "The broad rally in the stock market is emboldening investors at a pace not seen in more than a year, as the rally in technology stocks provides some hope that the unwinding of the artificial-intelligence trade may be neari. \n\nNov.  11, 2026 at 1:30 p.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 AI Stocks With Earnings Growth Over 45%",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-earnings-growth-141229474.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "Oops, something went wrong\n\nCrypto\nAI\n\n### U. S.  markets close in 1h 1m\n\nSimply Wall St.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Blackstone Digital Infrastructure Trust to acquire $5 billion data center portfolio from AWS",
+      "url": "https://finance.yahoo.com/real-estate/articles/blackstone-digital-infrastructure-trust-acquire-151500334.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "The deal represents the first investment by the recently listed real estate investment trust and advances its strategy of owning income-generating data centers leased to major cloud computing companies under long-term contracts. \n\nThe joint ventures will own 13 newly constructed powered-shell facilities across two AWS data center campuses, with AWS retaining a 25% interest in the businesses. \n\nAWS will lease the entire portfolio under triple-net agreements, under which the tenant is responsible for property-related operating expenses, including taxes, insurance and maintenance.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia Earnings, Fed Minutes, Anthropic’s IPO Put AI Rally To The Test: 3 Charts To Watch This Week",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-fed-minutes-anthropic-120006002.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "Here are three charts to watch in the week ahead:\n\n## Nvidia Earnings Will Test The AI Spending Pipeline\n\nNvidia reports results after the market closes Tuesday.  Wall Street expects earnings per share of $2. 47 on revenue of $108.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Citi names top infrastructure software stocks amid rising AI standards",
+      "url": "https://www.investing.com/news/stock-market-news/citi-names-top-infrastructure-software-stocks-amid-rising-ai-standards-5030584",
+      "fonte": "investing.com",
+      "data": "2026-11-16",
+      "resumo": "Additionally, AI-driven disruption of traditional search is pressuring customer acquisition across small and medium-sized business and self-service software, leaving companies more exposed until alternative channels prove scalable, the analysts wrote. \n\nCiti sees merger and acquisition activity providing valuation support, particularly for companies with scarce AI, data, security, and workflow assets.  Strategic acquirers have started to become more active, with consolidation potentially widening the competitive gap between scaled platforms and point solutions.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Ibovespa cai 1,5% e fica abaixo dos 170 mil pontos: o que explica queda nesta 2ª?",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-15-e-fica-abaixo-dos-170-mil-pontos-o-que-explica-queda-nesta-2a",
+      "fonte": "infomoney.com.br",
+      "data": "2026-11-16",
+      "resumo": "A cautela dos mercados internacionais diante das expectativas de juros mais elevados nos Estados Unidos do que se previa inicialmente e das incertezas relacionadas à inteligência artificial (IA) contamina o Ibovespa nesta segunda-feira, 16.  O principal indicador da B3 recua e já perdeu quase 2. 800 pontos entre a abertura na máxima (172.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 signs AI stocks may be a great trade again",
+      "url": "https://finance.yahoo.com/markets/article/3-signs-ai-stocks-may-be-a-great-trade-again-130410381.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-13",
+      "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "US tech stocks rally as AI trade revives",
       "url": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",

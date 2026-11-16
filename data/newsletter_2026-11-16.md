@@ -1,109 +1,140 @@
 # Newsletter IA Bolsa — 2026-11-16
 
-**Gerado em:** 16/11/2026 10:35
-**Total:** 6 noticias
+**Gerado em:** 16/11/2026 20:00
+**Total:** 8 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. US tech stocks rally as AI trade revives
+## 1. Blackstone’s Data Center REIT Makes First Investment With $5B AWS Deal
 
-**Fonte:** ft.com  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+[](
+
+Credit: Unsplash/Scott Rodgerson
+
+ 
+
+Blackstone Digital Infrastructure Trust is acquiring a 75% majority stake in two joint ventures with Amazon Web Services to acquire 13 newly constructed powered shells across two AWS campuses in a deal valued at $5B, the investment management giant announced Monday. 
+
+Amazon will lease back 100% of the portfolio from the REIT, which trades under the ticker BXDC, on a triple-net basis with an initial term of 12 years and an option to expand the length to 32 years.  Rent payments are guaranteed by AWS, according to a presentation published with the announcement.
+
+[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/blackstone-data-center-reit-makes-145243410.html)
+
+---
+
+## 2. COMP | NASDAQ Composite Index Overview | MarketWatch
+
+**Fonte:** marketwatch.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The broad rally in the stock market is emboldening investors at a pace not seen in more than a year, as the rally in technology stocks provides some hope that the unwinding of the artificial-intelligence trade may be neari. 
+
+Nov.  11, 2026 at 1:30 p.
+
+[Ler noticia completa](https://www.marketwatch.com/investing/index/comp)
+
+---
+
+## 3. 3 AI Stocks With Earnings Growth Over 45%
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Oops, something went wrong
+
+Crypto
+AI
+
+### U. S.  markets close in 1h 1m
+
+Simply Wall St.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-earnings-growth-141229474.html)
+
+---
+
+## 4. Blackstone Digital Infrastructure Trust to acquire $5 billion data center portfolio from AWS
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The deal represents the first investment by the recently listed real estate investment trust and advances its strategy of owning income-generating data centers leased to major cloud computing companies under long-term contracts. 
+
+The joint ventures will own 13 newly constructed powered-shell facilities across two AWS data center campuses, with AWS retaining a 25% interest in the businesses. 
+
+AWS will lease the entire portfolio under triple-net agreements, under which the tenant is responsible for property-related operating expenses, including taxes, insurance and maintenance.
+
+[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/blackstone-digital-infrastructure-trust-acquire-151500334.html)
+
+---
+
+## 5. Nvidia Earnings, Fed Minutes, Anthropic’s IPO Put AI Rally To The Test: 3 Charts To Watch This Week
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Here are three charts to watch in the week ahead:
+
+## Nvidia Earnings Will Test The AI Spending Pipeline
+
+Nvidia reports results after the market closes Tuesday.  Wall Street expects earnings per share of $2. 47 on revenue of $108.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-fed-minutes-anthropic-120006002.html)
+
+---
+
+## 6. Citi names top infrastructure software stocks amid rising AI standards
+
+**Fonte:** investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Additionally, AI-driven disruption of traditional search is pressuring customer acquisition across small and medium-sized business and self-service software, leaving companies more exposed until alternative channels prove scalable, the analysts wrote. 
+
+Citi sees merger and acquisition activity providing valuation support, particularly for companies with scarce AI, data, security, and workflow assets.  Strategic acquirers have started to become more active, with consolidation potentially widening the competitive gap between scaled platforms and point solutions.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/citi-names-top-infrastructure-software-stocks-amid-rising-ai-standards-5030584)
+
+---
+
+## 7. Ibovespa cai 1,5% e fica abaixo dos 170 mil pontos: o que explica queda nesta 2ª?
+
+**Fonte:** infomoney.com.br  
 **Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-US tech stocks jumped on Wednesday, The Nasdaq 100 rose 2. 3 per cent, meaning the tech-heavy index has recouped nearly all of last week's 4. 9 per cent drop.
+A cautela dos mercados internacionais diante das expectativas de juros mais elevados nos Estados Unidos do que se previa inicialmente e das incertezas relacionadas à inteligência artificial (IA) contamina o Ibovespa nesta segunda-feira, 16.  O principal indicador da B3 recua e já perdeu quase 2. 800 pontos entre a abertura na máxima (172.
 
-[Ler noticia completa](https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1)
-
----
-
-## 2. Nasdaq 100 Jumps 2.8% on CoreWeave, AI Rebound: Stock Market Today - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)
-
-**Fonte:** benzinga.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Read Next
-
-Image 12: Tech Stocks Add Over $500 Billion as CoreWeave's Blockbuster Results Rescue AI Rally Markets ##### Tech Stocks Add Over $500 Billion as CoreWeave's Blockbuster Results Rescue AI Rally CoreWeave (CRWV) jumped after third-quarter margins beat and a lighter funding plan, sparking a $500 billion rally in AI chip, memory and power stocks.  5 min read Read this article
-
-Third-quarter revenue rose 168% to $3. 66 billion, and pro forma operating margin reached 10.
-
-[Ler noticia completa](https://www.benzinga.com/markets/equities/26/11/63157251/stock-market-today-nasdaq-100-coreweave-ai-rebound-nvidia)
+[Ler noticia completa](https://www.infomoney.com.br/mercados/ibovespa-cai-15-e-fica-abaixo-dos-170-mil-pontos-o-que-explica-queda-nesta-2a)
 
 ---
 
-## 3. Capital Economics Warns AI Stock Decline Could Deepen as Earnings Forecasts Remain Elevated
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-"The AI correction in equities could have much further to run," Capital Economics wrote. 
-
-The firm suggested that earnings estimates may eventually face downward revisions if investor sentiment continues to deteriorate or major technology companies begin reducing their planned expenditure on AI infrastructure. 
-
-## Technology Earnings Forecasts Continue to Rise
-
-Capital Economics noted that analysts have continued raising profit expectations for companies benefiting from artificial intelligence investment, despite the recent weakness in their share prices.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/capital-economics-warns-ai-stock-162500340.html)
-
----
-
-## 4. Nvidia Rival’s CEO on TSMC: “I Would Buy That Stock Every Day of the Week”
+## 8. 3 signs AI stocks may be a great trade again
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-## Key Takeaways
+1.  Deirdre Bosa Live. 
 
- Fractile CEO Walter Goodwin, who is building chips to compete with Nvidia, called TSMC "cheap at the price. "
- Nvidia's challengers need the same TSMC capacity, so TSMC benefits whichever of them gains share. 
- TSMC trades at 16.
+   Deirdre Bosa Live.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nvidia-rival-ceo-tsmc-buy-175956534.html)
-
----
-
-## 5. Prediction: Nov. 18 Will Be a Massive Day for the Stock Market
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## Nvidia's earnings report
-
-First, on Nov.  17, after the market closes, AI chip leader Nvidia is scheduled to report third-quarter earnings.  The company has reported quarter after quarter of growth and record revenue levels and spoken of ongoing strong demand.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/prediction-nov-18-massive-day-093002246.html)
-
----
-
-## 6. Microsoft (MSFT) Strikes AI Deal That Broadens Its Chip Supplier Base
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-MSFT
-
-  +0. 17%
- CBRS
-
-  +7. 59%
- NVDA
-
-  -2.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/microsoft-msft-strikes-ai-deal-061353570.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/article/3-signs-ai-stocks-may-be-a-great-trade-again-130410381.html)
 
 ---
