@@ -1,44 +1,4 @@
 {
-  "https://finance.yahoo.com/sectors/technology/semiconductors": {
-    "hash": "f9cc9e44cb679375b81b5c12eec9cf0d",
-    "visto_em": "2026-11-09"
-  },
-  "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings": {
-    "hash": "a8ca3e182d75c07cf348a8f7e144c4b7",
-    "visto_em": "2026-11-09"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-higher-chip-stocks-attempt-143326672.html": {
-    "hash": "7e84d143dc277c56d9d80edd83f4ead4",
-    "visto_em": "2026-11-09"
-  },
-  "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html": {
-    "hash": "c9c2ae3aecc6111ab67290bcd799f2b5",
-    "visto_em": "2026-11-09"
-  },
-  "https://finance.yahoo.com/quote/DLR": {
-    "hash": "86446464bbaf9e85cd24cdee0a09ea2a",
-    "visto_em": "2026-11-09"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tech-set-still-sway-us-110503862.html": {
-    "hash": "1e79a0a83d0149881663cb538e883ad6",
-    "visto_em": "2026-11-09"
-  },
-  "https://www.investing.com/news/stock-market-news/101-97-new-earnings-beats-keep-these-aipicked-smallcap-stocks-climbing-5010765": {
-    "hash": "73cb5d1424a2fdeb7fdd4dfd019db4ac",
-    "visto_em": "2026-11-09"
-  },
-  "https://www.investing.com/analysis/can-wall-street-stage-rebound-as-cpi-ai-earnings-take-spotlight-this-week-200691194": {
-    "hash": "69302e4ec8524fdb9f5d402a4e71d40f",
-    "visto_em": "2026-11-09"
-  },
-  "https://sg.finance.yahoo.com/quote/NVDA": {
-    "hash": "5c5915c69b41d157aad92d3229fbe805",
-    "visto_em": "2026-11-09"
-  },
-  "https://markets.businessinsider.com/news/stocks/auddia-highlights-accelerating-interest-in-patented-lt350-distributed-ai-datacenter-technology-following-election-as-opposition-to-traditional-data-centers-intensifies-1036736662": {
-    "hash": "6008245655c7392e4be61c7e8cabdd57",
-    "visto_em": "2026-11-09"
-  },
   "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html": {
     "hash": "9cd3627288f2d24dfdb81955240dd15d",
     "visto_em": "2026-11-10"
@@ -370,5 +330,33 @@
   "https://finance.yahoo.com/markets/article/3-signs-ai-stocks-may-be-a-great-trade-again-130410381.html": {
     "hash": "408abf756d326fc7e930aaa7c6e11037",
     "visto_em": "2026-11-16"
+  },
+  "https://sg.finance.yahoo.com/news/wall-streets-ai-rally-faces-214232715.html": {
+    "hash": "a77f94c73479f81f128b5e58586e752d",
+    "visto_em": "2026-11-17"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-test-ai-boom-014359078.html": {
+    "hash": "e3afc7646ed5620d3f17aa675aa8661e",
+    "visto_em": "2026-11-17"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-shock-investors-looking-091117502.html": {
+    "hash": "84663770ed4d1d56a34418215bc66a35",
+    "visto_em": "2026-11-17"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/blackstone-digital-infrastructure-trust-bxdc-020936445.html": {
+    "hash": "0b16aca1ef53172f69f1a3fa6352118a",
+    "visto_em": "2026-11-17"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-slide-5-7-181925082.html": {
+    "hash": "9277261803c51ffc31480d0978f5f9a2",
+    "visto_em": "2026-11-17"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-6-183502812.html": {
+    "hash": "e5ad9d527958304266b74e89791496e0",
+    "visto_em": "2026-11-17"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/4-chip-stocks-down-much-230102349.html": {
+    "hash": "96ecb6ae06cd045023ed0e55e81ea711",
+    "visto_em": "2026-11-17"
   }
 }

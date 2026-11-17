@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-17",
+    "total_noticias": 7,
+    "gerado_em": "2026-11-17T11:27:27.424166"
+  },
+  "noticias": [
+    {
+      "titulo": "Wall Street's AI Rally Faces New Test as Tech Stocks Tumble Ahead of Nvidia's Earnings Report",
+      "url": "https://sg.finance.yahoo.com/news/wall-streets-ai-rally-faces-214232715.html",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "[](\n\nImen Ben Youssef/Hans Lucas\n\n \n\nU. S.  stocks fell sharply Monday as investors sold technology shares ahead of Nvidia's earnings report, extending a retreat that has raised fresh questions about the durability of the artificial intelligence rally.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia earnings to test AI boom after Huang's exit",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-test-ai-boom-014359078.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-17",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nTrending \n\n Stock market today\n Bank app outages\n Nvidia live updates\n S&P 500 streak.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia Stock Shock Has Investors Looking At TSMC And AI Chip Tooling",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-shock-investors-looking-091117502.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "Operations: The business generates about NT$4. 94t in revenue from its foundry segment, reflecting a heavy weighting toward contract wafer manufacturing. \n\nMarket Cap: NT$60,941.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Blackstone Digital Infrastructure Trust (BXDC) Lands AWS Deal, Does It Look Fully Valued?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-digital-infrastructure-trust-bxdc-020936445.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-17",
+      "resumo": "For a newly listed specialized REIT focused on data centers, this kind of cash flow lens is helpful because reported earnings and traditional ratios can be hard to interpret in the early years.  BXDC is currently unprofitable and has a negative return on equity, so headline profit metrics do not yet give a clean picture of underlying asset cash generation in the same way a mature REIT might. \n\nFor a closer look at the moving parts behind that $15.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-slide-5-7-181925082.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nTrending \n\n AMD buys World Labs\n Nvidia live updates\n Stock market today\n Nvidia’s handshake problem\n\nGuruFocus.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq Stock Market Correction: These 6 Words From Warren Buffett Are More Relevant Than Ever",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-6-183502812.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "After years of unusually high gains fueled by artificial intelligence (AI) stocks, the Nasdaq Composite (NASDAQINDEX:^IXIC) recently entered correction territory as investors reassess the outlook for the AI industry. \n\nOn Oct.  6, the Nasdaq reached a record closing high of 27,599.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "4 Chip Stocks Down as Much as 36% From Their Highs to Buy and Hold for the Next Decade",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/4-chip-stocks-down-much-230102349.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "The biggest risk, I think, is the price.  At around $535, AMD trades at about 30 times the earnings analysts expect for 2027.  Even its own target of adjusted earnings over $20 a share in three to five years puts today's price at about 27 times those earnings.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

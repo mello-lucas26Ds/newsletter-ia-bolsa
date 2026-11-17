@@ -1,11 +1,109 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-11-16",
-    "total_noticias": 83,
-    "gerado_em": "2026-11-16T20:00:43.030172"
+    "data": "2026-11-17",
+    "total_noticias": 74,
+    "gerado_em": "2026-11-17T11:27:27.425946"
   },
   "noticias": [
+    {
+      "titulo": "Wall Street's AI Rally Faces New Test as Tech Stocks Tumble Ahead of Nvidia's Earnings Report",
+      "url": "https://sg.finance.yahoo.com/news/wall-streets-ai-rally-faces-214232715.html",
+      "fonte": "sg.finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "[](\n\nImen Ben Youssef/Hans Lucas\n\n \n\nU. S.  stocks fell sharply Monday as investors sold technology shares ahead of Nvidia's earnings report, extending a retreat that has raised fresh questions about the durability of the artificial intelligence rally.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia earnings to test AI boom after Huang's exit",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-test-ai-boom-014359078.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-17",
+      "resumo": "1.  Crypto\n2.  AI\n\n   AI\n\nTrending \n\n Stock market today\n Bank app outages\n Nvidia live updates\n S&P 500 streak.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia Stock Shock Has Investors Looking At TSMC And AI Chip Tooling",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-shock-investors-looking-091117502.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "Operations: The business generates about NT$4. 94t in revenue from its foundry segment, reflecting a heavy weighting toward contract wafer manufacturing. \n\nMarket Cap: NT$60,941.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Blackstone Digital Infrastructure Trust (BXDC) Lands AWS Deal, Does It Look Fully Valued?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-digital-infrastructure-trust-bxdc-020936445.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-17",
+      "resumo": "For a newly listed specialized REIT focused on data centers, this kind of cash flow lens is helpful because reported earnings and traditional ratios can be hard to interpret in the early years.  BXDC is currently unprofitable and has a negative return on equity, so headline profit metrics do not yet give a clean picture of underlying asset cash generation in the same way a mature REIT might. \n\nFor a closer look at the moving parts behind that $15.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-slide-5-7-181925082.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nTrending \n\n AMD buys World Labs\n Nvidia live updates\n Stock market today\n Nvidia’s handshake problem\n\nGuruFocus.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq Stock Market Correction: These 6 Words From Warren Buffett Are More Relevant Than Ever",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-6-183502812.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "After years of unusually high gains fueled by artificial intelligence (AI) stocks, the Nasdaq Composite (NASDAQINDEX:^IXIC) recently entered correction territory as investors reassess the outlook for the AI industry. \n\nOn Oct.  6, the Nasdaq reached a record closing high of 27,599.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "4 Chip Stocks Down as Much as 36% From Their Highs to Buy and Hold for the Next Decade",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/4-chip-stocks-down-much-230102349.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "The biggest risk, I think, is the price.  At around $535, AMD trades at about 30 times the earnings analysts expect for 2027.  Even its own target of adjusted earnings over $20 a share in three to five years puts today's price at about 27 times those earnings.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Blackstone’s Data Center REIT Makes First Investment With $5B AWS Deal",
       "url": "https://finance.yahoo.com/real-estate/articles/blackstone-data-center-reit-makes-145243410.html",
@@ -343,34 +441,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AI Theme Intact, But Market Cycle Has Changed: Thomas",
-      "url": "https://finance.yahoo.com/video/ai-theme-intact-market-cycle-171625215.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-09",
-      "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC, SK Hynix, Samsung: Asian Chip Stocks Rise Even As Nvidia CEO Jensen Huang’s Controversy Tests Investor Confidence",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sk-hynix-samsung-asian-083520835.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-09",
-      "resumo": "TSMC reported record third-quarter profit that beat estimates and projected a 58% jump in current quarter sales. \n\n## Retail View On TSM, SKHY\n\nOn Stocktwits, the retail sentiment was 'neutral' for TSM and 'bearish' for SKHY. \n\n\"$SKHY I think they've pounded this about as low as it can possibly go,\" said a trader.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nasdaq futures dip as Nvidia tumult keeps investors on edge",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dip-nvidia-tumult-103901600.html",
       "fonte": "finance.yahoo.com",
@@ -567,20 +637,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Global X Data Center & Digital Infrastructure ETF (DTCR) stock price, news, quote and history - Yahoo Finance",
-      "url": "https://sg.finance.yahoo.com/quote/DTCR",
-      "fonte": "sg.finance.yahoo.com",
-      "data": "2026-11-09",
-      "resumo": "### Asset profile\n\nThe fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Keppel DC REIT (AJBU.SI) Stock Price, News, Quote & History - Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/AJBU.SI",
       "fonte": "finance.yahoo.com",
@@ -600,20 +656,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-11-11",
       "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Taiwan Semiconductor Manufacturing Company Limited (2330.TW) stock price, news, quote and history - Yahoo Finance",
-      "url": "https://uk.finance.yahoo.com/quote/2330.TW/latest-news",
-      "fonte": "uk.finance.yahoo.com",
-      "data": "2026-11-09",
-      "resumo": "### Nvidia, AMD and Broadcom Lead AI Stock Rally as CoreWeave Results Ease Spending Fears\n\n  GuruFocus. com • 7 hr ago\n\n  NVDACRWVAMD\n TSMC Stocks Climb 3. 37% After Record NT$586.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -847,39 +889,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Buy 5 Non-Tech Nasdaq Stocks to Enhance Your Portfolio Returns in Q4",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-non-tech-nasdaq-125600839.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-09",
-      "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "5 AI Stock Picks and Performance of Billionaire Stanley Druckenmiller",
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-ai-stock-picks-performance-183306016.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-10",
       "resumo": "STMicroelectronics bull case moves around a recovery play with an AI boost.  Profits fell hard during the car and industrial slump, so the stock offered a chance to buy before earnings caught up.  AI data center demand gives it a second growth driver.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "DTCR | Global X Data Center & Digital Infrastructure ETF Overview | MarketWatch",
-      "url": "https://www.marketwatch.com/investing/fund/dtcr",
-      "fonte": "marketwatch.com",
-      "data": "2026-11-09",
-      "resumo": "## Investment Policy\n\nThe Fund seeks to provide investment results that correspond to the performance of the Solactive Data Center REITs & Digital Infrastructure Index.  The Underlying Index provides exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware. \n\n## Distribution History\n\n| Date | Income Distribution |\n --- |\n| YTD | $0.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -959,20 +973,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Nasdaq Stock Market Correction: 3 AI Stocks You Can Buy Right Now and Hold Forever",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-3-140346905.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-09",
-      "resumo": "## 2.  Broadcom\n\nBroadcom (NASDAQ:AVGO) designs custom AI chips for some of the world's largest tech companies, as well as the networking gear that connects them.  Its AI semiconductor revenue soared 221% year over year to $16.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Kyndryl Report: AI returns rise as enterprise readiness falls",
       "url": "https://finance.yahoo.com/technology/ai/articles/kyndryl-report-ai-returns-rise-130500508.html",
       "fonte": "finance.yahoo.com",
@@ -1015,67 +1015,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Stock market today: Nasdaq surges despite Nvidia stock slide, Dow and S&P 500 rally as AI tech trade rises",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-09",
-      "resumo": "Ines Ferré\n\n  Ines Ferré\n\n  ## Nasdaq surges as tech rises, S&P 500, Dow surge despite Nvidia stock losses\n\n  US stocks surged on Monday as the AI trade gained steam, without participation from AI chip heavyweight Nvidia (NVDA). \n\n  The Dow Jones Industrial Average (^DJI) rallied almost 2. 2%, or roughly 1,100 points.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "C3.ai, Inc. (AI) Beats Stock Market Upswing: What Investors Need to Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/c3-ai-inc-ai-beats-215001090.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-09",
-      "resumo": "The investment community will be paying close attention to the earnings performance of C3. ai, Inc.  in its upcoming release.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "TSMC Oct revenue jumps 60% as AI-fueled demand remains strong",
       "url": "https://www.investing.com/news/stock-market-news/tsmc-oct-revenue-jumps-60-as-aifueled-demand-remains-strong-5014187",
       "fonte": "investing.com",
       "data": "2026-11-10",
       "resumo": "By Daniel Perna. \n\nNov 09, 2026\n\nImage 21\n\nImage 22\n\nCan Gold Turn Recovery Into a Sustainable Rebound. \n\nBy Fawad Razaqz.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Tech set to still sway US stock market's course despite AI-driven swoon | Reuters",
-      "url": "https://www.reuters.com/business/tech-set-still-sway-us-stock-markets-course-despite-ai-driven-swoon-2026-11-09",
-      "fonte": "reuters.com",
-      "data": "2026-11-09",
-      "resumo": "The tech sector alone does not fully capture AI's influence.  ​For example, three hyperscalers spending massively on data centers — Alphabet (GOOGL. O), Amazon (AMZN.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Brazil stocks higher at close of trade; Bovespa up 1.98%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-198-5013119",
-      "fonte": "investing.com",
-      "data": "2026-11-09",
-      "resumo": "## What's your entry and stop on BEEF3. \n\nYour pre-market routine takes 20 minutes and three tools.  By the time you're done, the setup on BEEF3 can be gone.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1091,76 +1035,6 @@
       "data": "2026-11-10",
       "resumo": "There's a lot of noise about AI stocks, but when it comes to actual results, the thesis looks as strong as ever.  Advanced Micro Devices (NASDAQ: AMD) recently reported earnings, and it serves as a valuable reality check amid a sudden bearish wave. \n\nMissed AI's \"Act 1\".",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck",
-      "url": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-09",
-      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nTrending \n\n Nvidia’s $4.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Tech set to still sway US stock market's course despite AI-driven swoon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-set-still-sway-us-110503862.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-09",
-      "resumo": "The continued heavy weighting of technology is a byproduct of the huge gains for the sector during the US stock bull market that began in October 2022.  Even with the tech sector's latest slide, it ⁠has gained more than 200% over that period, nearly double the S&P 500's gain. \n\nSome of the biggest AI winners are still logging significant year-to-date gains despite their recent slides.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "+101%, +97%: New earnings beats keep these AI-picked small-cap stocks climbing",
-      "url": "https://www.investing.com/news/stock-market-news/101-97-new-earnings-beats-keep-these-aipicked-smallcap-stocks-climbing-5010765",
-      "fonte": "investing.com",
-      "data": "2026-11-09",
-      "resumo": "Deeply Discounted Valuation: On December 1, 2025, shares traded at just $8. 79—representing a 7. 4x P/E, 6.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Can Wall Street Stage Rebound as CPI, AI Earnings Take Spotlight This Week? | Investing.com",
-      "url": "https://www.investing.com/analysis/can-wall-street-stage-rebound-as-cpi-ai-earnings-take-spotlight-this-week-200691194",
-      "fonte": "investing.com",
-      "data": "2026-11-09",
-      "resumo": "Cisco’s Q3 Report in FocusCisco Systems (CSCO) is set to report on Thursday, giving shareholders an insight into the company’s progress towards meeting a $7. 5 billion annual goal for AI infrastructure sales.  Earnings are expected to rise 32% to $1.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Auddia Highlights Accelerating Interest in Patented LT350 Distributed AI Datacenter Technology Following Election as Opposition to Traditional Data Centers Intensifies | Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/auddia-highlights-accelerating-interest-in-patented-lt350-distributed-ai-datacenter-technology-following-election-as-opposition-to-traditional-data-centers-intensifies-1036736662",
-      "fonte": "markets.businessinsider.com",
-      "data": "2026-11-09",
-      "resumo": "About the Merger to form McCarthy Finney (MCFN)\n\nAuddia entered into a definitive merger agreement with Thramann Holdings, LLC on February 17, 2026.  If completed, the transaction would combine Auddia with three early stage, AI-native operating companies wholly owned by Thramann Holdings: LT350, Influence Healthcare, and Voyex.  The combined company would be renamed McCarthy Finney Inc.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
