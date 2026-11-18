@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-11-17",
-    "total_noticias": 84,
-    "gerado_em": "2026-11-17T18:57:43.742198"
+    "data": "2026-11-18",
+    "total_noticias": 74,
+    "gerado_em": "2026-11-18T11:03:08.056234"
   },
   "noticias": [
+    {
+      "titulo": "Volatility Has Fundamentally Rewired the AI Trade - WSJ",
+      "url": "https://www.wsj.com/finance/investing/volatility-has-fundamentally-rewired-the-ai-trade-53678137",
+      "fonte": "wsj.com",
+      "data": "2026-11-17",
+      "resumo": "ET\n\nFor three years, investors have minted money from the AI boom without having to make hard choices.  Nearly every stock tied to what is projected to be the largest infrastructure spending spree in U. S.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Blackstone REIT to Buy Amazon Data Centers in $5 Billion Deal - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/blackstone-reit-to-buy-amazon-data-centers-in-5-billion-deal",
+      "fonte": "bloomberg.com",
+      "data": "2026-11-16",
+      "resumo": "EXCLUSIVE\n\n# Blackstone REIT Buys Amazon Data Centers in $5 Billion Deal\n\n## Takeaways by Bloomberg AI\n\nBlackstone Inc. ’s newly listed data center acquisition vehicle has acquired a majority interest in two joint ventures with Amazon Web Services in a transaction valued at roughly $5 billion. \n\nIn its first-ever investment, Blackstone Digital Infrastructure Trust Inc.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia beats third-quarter estimates as revenue more than doubles",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-beats-third-quarter-estimates-214100573.html?fr=sycsrp_catchall",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-17",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nTrending \n\n Nvidia beats on earnings\n Huang eyes comeback\n Stock market today\n Tech outages\n\nProactive\n\n# Nvidia beats third-quarter estimates as revenue more than doubles\n\nProactive\n\n2 min read\n\n NVDA +4.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Jim Cramer's top 10 things to watch in the stock market Monday - CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-16",
+      "resumo": "AI.  The Wall Street Journal says those days \"are numbered. \" 3.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Blackstone Digital Infrastructure Trust to Acquire Data Center Portfolio from Amazon for $5 Billion - WSJ",
+      "url": "https://www.wsj.com/business/deals/blackstone-digital-infrastructure-trust-to-acquire-data-center-portfolio-from-amazon-for-5-billion-87e53519",
+      "fonte": "wsj.com",
+      "data": "2026-11-16",
+      "resumo": "ET\n\nBlackstone Digital Infrastructure Trust BXDC 0. 85%increase; up pointing triangle agreed to acquire a majority stake in a data center portfolio from Amazon. com AMZN -0.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "How Much Is Big Tech Spending On AI Data Centers? - NVIDIA (NASDAQ:NVDA)",
+      "url": "https://www.benzinga.com/opinion/26/11/63353213/nvidias-biggest-customers-keep-spending-power-and-debt-set-the-limits",
+      "fonte": "benzinga.com",
+      "data": "2026-11-17",
+      "resumo": "Proprietary data identified 5 stocks that deserve your attention.  Which stocks joined Twilio on the list.  See all five stocks →\n\nSPY 732.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Big Tech's feeder firms - Business Insider",
+      "url": "https://www.businessinsider.com/google-nvidia-draw-big-law-talent-as-ai-jobs-surge-2026-10",
+      "fonte": "businessinsider.com",
+      "data": "2026-11-16",
+      "resumo": "Law firms are sitting on a gold mine of information: decades of contracts, deal terms, trial strategies, and client tastes.  But much of it is buried in documents, making it hard to learn from past work. \n\nSome firms are spending heavily to build or customize their own AI models around their data.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia Just Reported $115.8 Billion. Now Comes A Bigger Test",
+      "url": "https://www.forbes.com/sites/sanjitsinghdang/2026/11/17/nvidia-earnings-115-billion-revenue-ai-strategy",
+      "fonte": "forbes.com",
+      "data": "2026-11-18",
+      "resumo": "Nvidia reported $115. 8 billion in quarterly revenue.  Now investors are watching how new CEO Colette Kress handles AI infrastructure spending and financing.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO - CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-16",
+      "resumo": "Altimeter Capital plans to invest $5 billion in the Anthropic IPO, Brad Gerstner told CNBC's \"Halftime Report\" on Monday. \n\n\"I think this is a cornerstone compounder for a long time,\" Gerstner said, noting that his investment would be five times the amount he's ever put into an IPO.  \"It's where the trade is going.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster - CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-17",
+      "resumo": "Here's what analysts are expecting, according to LSEG:\n\nGrowth remains explosive, with revenue expansion expected to reach 91% in the latest quarter from $59 billion in the same period a year ago.  Nvidia said in August that sales next fiscal year would grow roughly 70% in what Kress, on the prior earnings call, described as a \"supply constrained outlook. \"\n\nBut Nvidia's stock is down 24% this month and on Friday wrapped up its sixth straight weekly drop, the longest losing streak since 2012.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Blackstone Digital Infrastructure Expands Data Center Portfolio Through $5 Billion AWS Deal - Blackstone…",
       "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63312359/blackstone-digital-infrastructure-expands-data-center-portfolio-through-5-billion-aws-deal",
@@ -483,20 +623,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "NASDAQ Index (COMP:IND) Analysis, News, And Chart Today | Seeking Alpha",
-      "url": "https://seekingalpha.com/symbol/COMP:IND",
-      "fonte": "seekingalpha.com",
-      "data": "2026-11-10",
-      "resumo": "+8. 09%\n\nOpen\n\nPrev.  Close\n\nVolume\n\nExpand For Key Data »\n\n## NASDAQ Index Analysis\n\n### CoreWeave Earnings Alleviate Some AI Spending Fears\n\n### Hot CPI Report Puts Fire Under Interest Rate Hike Possibilities\n\n### Stocks Stage A Broad-Based Relief Rally\n\n### Voters' Message To President Trump Creates Opportunity, But Risks Popping The AI Bubble\n\n### Tech Stocks Rebound But Nasdaq Is Still In Correction Territory\n\n### Market Swims In A Sea Of Red\n\n### Blue Wave Paints The Market Green\n\n### Tech Stocks Rebound To Take Center Stage - Again\n\n### Nasdaq And S&P 500 Index Lose Momentum, Pull Down Market\n\n### Macro Insights: The AI Selloff, Hyperscaler Earnings, And The Fed Pause\n\n## Share your Analysis on COMP:IND\n\nSubmit an article now\n\nSee All Analysis »\n\n## NASDAQ Index News.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Undervalued AI stocks to watch as Nvidia leadership uncertainty weighs on the sector",
       "url": "https://finance.yahoo.com/markets/stocks/articles/undervalued-ai-stocks-watch-nvidia-205103391.html",
       "fonte": "finance.yahoo.com",
@@ -544,20 +670,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-11-13",
       "resumo": "Digital Realty-by kitzcorner via iStock\n\n \n\nAustin, Texas-based Digital Realty Trust, Inc.  (DLR) is engaged in the ownership, acquisition, repositioning, and management of technology-related real estate.  The company has a market cap of $69.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-just-delivered-ai-growth-172738565.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "TSM GF Value chart\n\n \n\nThe Taiwanese semiconductor giant is the world's largest contract chipmaker, manufacturing processors for customers including Nvidia, AMD and Apple.  It generates revenue by producing advanced chips designed by other companies, with AI accelerators and high-performance computing becoming increasingly important growth drivers. \n\nTSMC reported October revenue of NT$586.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -656,20 +768,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-11-12",
       "resumo": "The rebound followed an unsettled start for technology stocks, with investors weighing the effect of a leadership change at one of the industry's most prominent companies.  Chip shares helped both indexes regain ground, while the Dow Jones Industrial Average also advanced despite renewed concern about Iran. \n\n Is SPY fairly valued.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Stock Sell-Off Was A ‘Positioning Reset,’ Not Start Of AI Investment Downturn, Says UBS — Sees $1.5 Trillion Spending In 2028",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-sell-off-positioning-155812283.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "## Where UBS Sees Investment Opportunities\n\nUBS recommends maintaining exposure to the structural AI opportunity while managing excessive concentration in individual technology stocks.  \"We favor established technology platforms with existing computing capacity, visible AI revenues, strong balance sheets, and the ability to finance investment internally,\" the firm said. \n\nAt the time of this writing, the Nasdaq-100 was marginally in the green.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -917,20 +1015,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Marvell’s $115 Billion Lumentum Acquisition Odds Hover Near 50%, Analysts Say - Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders",
-      "fonte": "bloomberg.com",
-      "data": "2026-11-10",
-      "resumo": "# Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shakes\n\nMarvell Technology Inc. ’s plan to double down on AI through a blockbuster $115 billion acquisition of Lumentum Holdings Inc.  is getting a lukewarm early verdict from investment experts who bet on deals.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "+102%, +40%: As CoreWeave lifts tech, earnings beats power these AI-picked winners",
       "url": "https://www.investing.com/news/stock-market-news/102-40-as-coreweave-lifts-tech-earnings-beats-power-these-aipicked-winners-5018063",
       "fonte": "investing.com",
@@ -945,236 +1029,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "OpenAI Acquires AI Travel Startup Odessia, Bringing Founder Of $600M Sonder Business On Board",
-      "url": "https://www.benzinga.com/markets/private-markets/26/11/63126464/openai-acquires-ai-travel-startup-odessia-bringing-founder-of-600m-sonder-business-on-board",
-      "fonte": "benzinga.com",
-      "data": "2026-11-10",
-      "resumo": "Just last week, OpenAI announced plans to acquirePierre Computer Company, a developer-tools startup whose technology already powers features within its Codex platform. \n\nThe deal followed several other developer-focused acquisitions.  In March, OpenAI announced plans to acquireAstral, the company behind open-source Python development tools uv, Ruff and ty.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "2 Safe AI Stocks to Buy in the Next Market Crash. And No, It's Not Palantir.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/2-safe-ai-stocks-buy-094600762.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-11",
       "resumo": "The latest results show that the opportunity is already contributing to growth.  Alphabet reported third-quarter 2026 revenue of $127. 6 billion, up 25% year over year.",
       "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Boom Isn't Over: 4 Stocks to Buy the Dip Amid Tech Bloodbath",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-isnt-over-4-125400177.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "However, AI stocks still have a lot of potential.  Major cloud providers have been pumping in hundreds of billions of dollars into data centers and networking equipment.  Demand for advanced computing capacity is still higher than available supply, which gives opportunities to companies supplying critical hardware and infrastructure.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Railtown AI Announces Commercial Launch of AI Partner Marketplace, Introducing New Revenue Opportunities for AI Technology Providers",
-      "url": "https://finance.yahoo.com/technology/ai/articles/railtown-ai-announces-commercial-launch-130000559.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "\"The commercial launch of the AI Partner Marketplace represents the culmination of significant work undertaken since Railtown completed its acquisition of AI Partners on November 26, 2025.  Over that period, our team has been focused on transforming the business into a robust, AI-powered commercial marketplace built on Railtown's proprietary technology ecosystem, including Conductr, Railengine and Railtracks.  At the same time, we have continued expanding the Marketplace's network, adding more than 30 enterprise AI solution providers at an average rate of two to three new partners per month, bringing the total ecosystem to more than 200 participating companies.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Oura to acquire AI-native primary care startup Counsel Health for $625M | TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
-      "fonte": "techcrunch.com",
-      "data": "2026-11-10",
-      "resumo": "Oura announced on Tuesday that it’s acquiring AI-native primary care company Counsel Health for $625 million.  The deal comes a few weeks after Oura postponed its up to $2. 2 billion IPO indefinitely, citing “uncertainty in the IPO market.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 Data Center REIT Stocks In Focus After Anthropic’s AI Funding Push",
-      "url": "https://finance.yahoo.com/real-estate/articles/3-data-center-reit-stocks-151033111.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "## Keppel DC REIT (SGX:AJBU)\n\nOverview: Keppel DC REIT is an Asia focused pure play data centre landlord, owning and leasing high power facilities for cloud and AI workloads. \n\nOperations: Keppel DC REIT generates about S$472 million in revenue, with roughly S$341 million from colocation and S$100 million from single tenant fully fitted data centres. \n\nMarket Cap: S$6.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "5 AI Stock Picks and Performance of Billionaire Stanley Druckenmiller",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-ai-stock-picks-performance-183306016.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "STMicroelectronics bull case moves around a recovery play with an AI boost.  Profits fell hard during the car and industrial slump, so the stock offered a chance to buy before earnings caught up.  AI data center demand gives it a second growth driver.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For",
-      "url": "https://ca.finance.yahoo.com/news/tsmc-just-delivered-ai-growth-172738565.html",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "2 min read\n\n TSM\n\n  +0. 25%\n NVDA\n\n  -6. 30%\n AAPL\n\n  -0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-10-223502212.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "However, Nvidia's semiconductor peers fared considerably better.  Advanced Micro Devices (NASDAQ:AMD) gained 1. 30% to $515.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Is at the Center of an AI Boom That Flipped 25 Years of U.S. Trade. Is the Stock a Buy?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-center-ai-boom-flipped-195312299.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "Its third-quarter results showed how profitable that demand is.  Revenue rose 41% to $46. 7 billion in U.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Rallies 7% in Taipei as Nvidia Reportedly Asks It to Draft 3D DRAM Plans",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-rallies-7-taipei-nvidia-145028098.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "## The logic business keeps compounding\n\nTSMC doesn't need memory to grow.  Third-quarter revenue rose 41. 2% to $46.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "galapagos b3 ibovespa & teva itbr tesouro selic ipca+ 20 ...",
-      "url": "https://www.investing.com/etfs/fbov11-advanced-chart",
-      "fonte": "investing.com",
-      "data": "2026-11-10",
-      "resumo": "B3 IBOVESPA.  Stocks Picked by AI Undervalued Stocks.  Currency in BRL.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Kyndryl Report: AI returns rise as enterprise readiness falls",
-      "url": "https://finance.yahoo.com/technology/ai/articles/kyndryl-report-ai-returns-rise-130500508.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "64% of leaders report positive returns on AI investments, up 10 points from 2025, average readiness across external risks fell seven points to 24%..",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "+66%, +53%, +50% upside: These undervalued AI-picked stocks just crushed earnings",
-      "url": "https://www.investing.com/news/stock-market-news/66-53-50-upside-these-undervalued-aipicked-stocks-just-crushed-earnings-5014329",
-      "fonte": "investing.com",
-      "data": "2026-11-10",
-      "resumo": "Readers of this column know that high-conviction pick Ardent Health Inc.  (NYSE:ARDT) has done exactly that, following a blowout earnings report that produced a commanding 34. 8% EPS surprise.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-sales-jump-again-nvidia-111006983.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Oct revenue jumps 60% as AI-fueled demand remains strong",
-      "url": "https://www.investing.com/news/stock-market-news/tsmc-oct-revenue-jumps-60-as-aifueled-demand-remains-strong-5014187",
-      "fonte": "investing.com",
-      "data": "2026-11-10",
-      "resumo": "By Daniel Perna. \n\nNov 09, 2026\n\nImage 21\n\nImage 22\n\nCan Gold Turn Recovery Into a Sustainable Rebound. \n\nBy Fawad Razaqz.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The AI Trade Looks Like It's Falling Apart. AMD's Earnings Delivered a Reality Check.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-looks-falling-apart-012000305.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-10",
-      "resumo": "There's a lot of noise about AI stocks, but when it comes to actual results, the thesis looks as strong as ever.  Advanced Micro Devices (NASDAQ: AMD) recently reported earnings, and it serves as a valuable reality check amid a sudden bearish wave. \n\nMissed AI's \"Act 1\".",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"

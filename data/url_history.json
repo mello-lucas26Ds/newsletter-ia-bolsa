@@ -1,56 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html": {
-    "hash": "9cd3627288f2d24dfdb81955240dd15d",
-    "visto_em": "2026-11-10"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/c3-ai-inc-ai-beats-215001090.html": {
-    "hash": "e36b605861d85e35129ec5f6335ed7b3",
-    "visto_em": "2026-11-10"
-  },
-  "https://www.investing.com/news/stock-market-news/tsmc-oct-revenue-jumps-60-as-aifueled-demand-remains-strong-5014187": {
-    "hash": "82b53cb5504162a38a0f58a6fc560dfe",
-    "visto_em": "2026-11-10"
-  },
-  "https://www.reuters.com/business/tech-set-still-sway-us-stock-markets-course-despite-ai-driven-swoon-2026-11-09": {
-    "hash": "fd93eb44f45c638856e9923d86900306",
-    "visto_em": "2026-11-10"
-  },
-  "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-198-5013119": {
-    "hash": "9853472774782486e12ab0e85238e632",
-    "visto_em": "2026-11-10"
-  },
-  "https://ng.investing.com/indices/bovespa": {
-    "hash": "913635a765e6d3e9f090e666cc6a5786",
-    "visto_em": "2026-11-10"
-  },
-  "https://www.investing.com/indices/bovespa-news": {
-    "hash": "33bd9a19fb07dd5f2694796cfe1b7835",
-    "visto_em": "2026-11-10"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-report-potential-push-151300006.html": {
-    "hash": "27e9508cacc2a4f6377ef5119f6631c6",
-    "visto_em": "2026-11-10"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-trade-looks-falling-apart-012000305.html": {
-    "hash": "efee4c889b38de48e562245ef8ec91ae",
-    "visto_em": "2026-11-10"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-3-140346905.html": {
-    "hash": "35f266b30a7df531f7b4f4e173df4b4b",
-    "visto_em": "2026-11-10"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/kyndryl-report-ai-returns-rise-130500508.html": {
-    "hash": "4e5f36f6a4d5734c3d2a240932115e84",
-    "visto_em": "2026-11-10"
-  },
-  "https://www.investing.com/news/stock-market-news/66-53-50-upside-these-undervalued-aipicked-stocks-just-crushed-earnings-5014329": {
-    "hash": "b884c9604d84b5c292dacaffd076a54a",
-    "visto_em": "2026-11-10"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-sales-jump-again-nvidia-111006983.html": {
-    "hash": "b3f61b15fd1b95b9d65669ecf3b982a1",
-    "visto_em": "2026-11-10"
-  },
   "https://finance.yahoo.com/real-estate/articles/3-data-center-reit-stocks-151033111.html": {
     "hash": "8261d607e6594603d4a96522dc94a8e5",
     "visto_em": "2026-11-11"
@@ -398,5 +346,45 @@
   "https://www.businessinsider.com/nvidia-stock-jensen-huang-earnings-kospi-tsmc-asia-ai-trade-2026-11": {
     "hash": "bd47b0d5e0888c4145d7a58edc25219f",
     "visto_em": "2026-11-17"
+  },
+  "https://www.wsj.com/finance/investing/volatility-has-fundamentally-rewired-the-ai-trade-53678137": {
+    "hash": "c6acbee96d211054b1f8aa1e6a906853",
+    "visto_em": "2026-11-18"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-16/blackstone-reit-to-buy-amazon-data-centers-in-5-billion-deal": {
+    "hash": "9fff8dd7e70fab536bedbed32b2bcb45",
+    "visto_em": "2026-11-18"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nvidia-beats-third-quarter-estimates-214100573.html?fr=sycsrp_catchall": {
+    "hash": "7b7b6880ae3d3416a6a1f0df2971c2f7",
+    "visto_em": "2026-11-18"
+  },
+  "https://www.cnbc.com/investingclub/2026/11/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html": {
+    "hash": "4cd260203460225b4277468328254ecb",
+    "visto_em": "2026-11-18"
+  },
+  "https://www.wsj.com/business/deals/blackstone-digital-infrastructure-trust-to-acquire-data-center-portfolio-from-amazon-for-5-billion-87e53519": {
+    "hash": "ef53b73001ba05cd77bbd3463d129ec4",
+    "visto_em": "2026-11-18"
+  },
+  "https://www.benzinga.com/opinion/26/11/63353213/nvidias-biggest-customers-keep-spending-power-and-debt-set-the-limits": {
+    "hash": "d4d1e0468991131afae1a6b76e4280a9",
+    "visto_em": "2026-11-18"
+  },
+  "https://www.businessinsider.com/google-nvidia-draw-big-law-talent-as-ai-jobs-surge-2026-10": {
+    "hash": "1546c927df1e9ca8bfa109805bdbcaa1",
+    "visto_em": "2026-11-18"
+  },
+  "https://www.forbes.com/sites/sanjitsinghdang/2026/11/17/nvidia-earnings-115-billion-revenue-ai-strategy": {
+    "hash": "ae11d5a430c3cafa1e0792b13cdacb4c",
+    "visto_em": "2026-11-18"
+  },
+  "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html": {
+    "hash": "a96a1ea4ff56b52eac6bf55d94d57c18",
+    "visto_em": "2026-11-18"
+  },
+  "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html": {
+    "hash": "1865421b49fb21bb943d676e3d9d46f8",
+    "visto_em": "2026-11-18"
   }
 }
