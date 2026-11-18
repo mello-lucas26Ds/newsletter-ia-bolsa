@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-18",
-    "total_noticias": 74,
-    "gerado_em": "2026-11-18T11:03:08.056234"
+    "total_noticias": 84,
+    "gerado_em": "2026-11-18T18:40:26.836405"
   },
   "noticias": [
+    {
+      "titulo": "Stock Market Today: Nasdaq Futures Rise After Nvidia Earnings Soothe AI Jitters - WSJ",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026",
+      "fonte": "wsj.com",
+      "data": "2026-11-18",
+      "resumo": "Nov.  18, 2026 at 9:33am ET\n\n# Stock Market Today: Tech Stocks Get Small Lift After Nvidia Earnings\n\n## Chip giant's stock rises; Dow slips\n\nNvidia’s blockbuster earnings are poised to lift tech stocks today, as investors regain some confidence in the AI trade after days of drama over the chip maker’s ousted CEO Jensen Huang. \n\nFutures on the Nasdaq-100 are up around 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "What Is Blackstone (BX) Signaling With Its $5 Billion Data Center Deal?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-bx-signaling-5-billion-031206895.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-18",
+      "resumo": "Mitch Lawler\n\n3 min read\n\n BX -0. 65%\n\n Blackstone (NYSE:BX) has agreed for its Digital Infrastructure Trust to acquire a US$5b AWS data center portfolio backed by Amazon Web Services. \n The portfolio consists of hyperscale facilities used by AWS, giving Blackstone exposure to large scale cloud and AI infrastructure.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Goldman Sachs says bet on these 24 ‘physical asset’ stocks getting a boost from AI adoption - Business Insider",
+      "url": "https://www.businessinsider.com/stocks-to-buy-now-ai-adopters-investing-recommendations-goldman-sachs-2026-11",
+      "fonte": "businessinsider.com",
+      "data": "2026-11-18",
+      "resumo": "The next phase of the AI trade is arriving, Goldman Sachs says, and the bank has some ideas on how to capitalize on it. \n\nIn its 2027 outlook note to clients on Tuesday, Goldman said it expects capex growth to begin slowing in 2027 for the first time since the start of the AI buildout. \n\nThat means it's a good time to start moving away from some of the AI buildout beneficiaries, the bank said, and start focusing on adopters: companies using the technology to grow their margins.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
+      "url": "https://www.infomoney.com.br/mercados/b3-lancara-bdr-da-anthropic-simultaneamente-ao-ipo-da-empresa-na-nasdaq",
+      "fonte": "infomoney.com.br",
+      "data": "2026-11-17",
+      "resumo": "Planilha Grátis\n\nPlanilha Grátis\n\n# B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq\n\nSegundo a companhia, a ação da Anthropic deve estrear nos Estados Unidos entre US$ 70 (R$ 405) e US$ 78 (R$ 452)\n\nEstadão Conteúdo\n\n•\n\nPublicidade\n\nA B3 lançará nesta quinta-feira, 19, o Brazilian Depositary Receipt (BDR) da Anthropic, simultaneamente à estreia da empresa de inteligência artificial na Nasdaq.  O recibo será negociado pelo código ANTH34. \n\nSegundo a companhia, a ação da Anthropic deve estrear nos Estados Unidos entre US$ 70 (R$ 405) e US$ 78 (R$ 452).",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Buy the AI boom or beware the hype? 5 investing pros weigh in on Anthropic’s IPO - Business Insider",
+      "url": "https://www.businessinsider.com/should-i-buy-anthropic-ipo-investing-advice-ant-2026-11",
+      "fonte": "businessinsider.com",
+      "data": "2026-11-18",
+      "resumo": "Instead of the $2 trillion valuation that was floated earlier this year, $1. 13 to $1. 3 trillion offers a much more palatable entry point for investors, she said.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Strong Nvidia earnings are being clouded by China risks and succession questions - Business Insider",
+      "url": "https://www.businessinsider.com/nvidia-stock-business-outlook-risks-china-chips-ceo-search-2026-11",
+      "fonte": "businessinsider.com",
+      "data": "2026-11-18",
+      "resumo": "The company, which has been embroiled in a leadership crisis amid Jensen Huang's ouster, reported $115. 8 billion in revenue over the last three-month period, marking a 103% surge from the same quarter last year.  In its key data center segment, revenue came in at $107.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia stock up nearly 4% as earnings beat expectations. Neoclouds surge - CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-18",
+      "resumo": "In this article\n\nNvidia stock was up nearly 4% in premarket trading on Wednesday after reporting another earnings beat, as the fallout from CEO Jensen Huang's resignation continues to unfold. \n\nThe chip giant's stock was 3. 69% higher at 5.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings - CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-has-lost-2-trillion-in-value-heres-what-options-traders-expect-from-earnings.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-17",
+      "resumo": "Implied volatility reached 68 Monday, compared to under 40 in early October, according to ThinkOrSwim data.  Nvidia vol reached a multi-year high above 92 in the aftermath of President Trump's tariff Liberation day in April '25.  In other words, the company that for much of the AI boom was the most reliable winner in the market, is now more volatile than all but 35 companies in the S&P 500.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Dealbook Summit 2026 live updates: Vance, Altman to speak at conference - CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-18",
+      "resumo": "Once again artificial intelligence and the impact it is having on our world will be top of mind.  The conference comes as OpenAI rival Anthropic is about to make its public debut on Thursday, and it follows a series of widespread tech outages that have grounded airplanes, snarled email, and stymied banking transactions, among other disruptions. \n\nWhile the various IT issues have been a dramatic reminder of society's dependency on these services, the Anthropic IPO raises a number of questions about the valuations of AI companies, which have been under pressure.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia’s Earnings Come at a Time of Mounting Tech Turmoil - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/nvidia-s-earnings-come-at-a-time-of-mounting-tech-turmoil",
+      "fonte": "bloomberg.com",
+      "data": "2026-11-17",
+      "resumo": "# Nvidia’s Earnings Come at a Time of Mounting Tech Turmoil\n\nNvidia’s earnings arrive after the close today at perhaps the strangest time possible for the world’s most important AI chipmaker. \n\nInvestors already were questioning the durability of the AI boom.  Then the Democrats swept to victory in the US midterm elections this month, raising the prospect of tighter regulation for the tech industry.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Volatility Has Fundamentally Rewired the AI Trade - WSJ",
       "url": "https://www.wsj.com/finance/investing/volatility-has-fundamentally-rewired-the-ai-trade-53678137",

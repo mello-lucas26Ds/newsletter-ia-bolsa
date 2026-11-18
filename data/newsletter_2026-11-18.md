@@ -1,181 +1,182 @@
 # Newsletter IA Bolsa — 2026-11-18
 
-**Gerado em:** 18/11/2026 11:03
+**Gerado em:** 18/11/2026 18:40
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Volatility Has Fundamentally Rewired the AI Trade - WSJ
+## 1. Stock Market Today: Nasdaq Futures Rise After Nvidia Earnings Soothe AI Jitters - WSJ
 
 **Fonte:** wsj.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-ET
+Nov.  18, 2026 at 9:33am ET
 
-For three years, investors have minted money from the AI boom without having to make hard choices.  Nearly every stock tied to what is projected to be the largest infrastructure spending spree in U. S.
+# Stock Market Today: Tech Stocks Get Small Lift After Nvidia Earnings
 
-[Ler noticia completa](https://www.wsj.com/finance/investing/volatility-has-fundamentally-rewired-the-ai-trade-53678137)
+## Chip giant's stock rises; Dow slips
 
----
+Nvidia’s blockbuster earnings are poised to lift tech stocks today, as investors regain some confidence in the AI trade after days of drama over the chip maker’s ousted CEO Jensen Huang. 
 
-## 2. Blackstone REIT to Buy Amazon Data Centers in $5 Billion Deal - Bloomberg.com
+Futures on the Nasdaq-100 are up around 0.
 
-**Fonte:** bloomberg.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-EXCLUSIVE
-
-# Blackstone REIT Buys Amazon Data Centers in $5 Billion Deal
-
-## Takeaways by Bloomberg AI
-
-Blackstone Inc. ’s newly listed data center acquisition vehicle has acquired a majority interest in two joint ventures with Amazon Web Services in a transaction valued at roughly $5 billion. 
-
-In its first-ever investment, Blackstone Digital Infrastructure Trust Inc.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-11-16/blackstone-reit-to-buy-amazon-data-centers-in-5-billion-deal)
+[Ler noticia completa](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026)
 
 ---
 
-## 3. Nvidia beats third-quarter estimates as revenue more than doubles
+## 2. What Is Blackstone (BX) Signaling With Its $5 Billion Data Center Deal?
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-1.  Crypto
+Mitch Lawler
 
-   Crypto
-2.  AI
+3 min read
 
-   AI
+ BX -0. 65%
 
-Trending 
+ Blackstone (NYSE:BX) has agreed for its Digital Infrastructure Trust to acquire a US$5b AWS data center portfolio backed by Amazon Web Services. 
+ The portfolio consists of hyperscale facilities used by AWS, giving Blackstone exposure to large scale cloud and AI infrastructure.
 
- Nvidia beats on earnings
- Huang eyes comeback
- Stock market today
- Tech outages
-
-Proactive
-
-# Nvidia beats third-quarter estimates as revenue more than doubles
-
-Proactive
-
-2 min read
-
- NVDA +4.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nvidia-beats-third-quarter-estimates-214100573.html?fr=sycsrp_catchall)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/blackstone-bx-signaling-5-billion-031206895.html)
 
 ---
 
-## 4. Jim Cramer's top 10 things to watch in the stock market Monday - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-AI.  The Wall Street Journal says those days "are numbered. " 3.
-
-[Ler noticia completa](https://www.cnbc.com/investingclub/2026/11/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html)
-
----
-
-## 5. Blackstone Digital Infrastructure Trust to Acquire Data Center Portfolio from Amazon for $5 Billion - WSJ
-
-**Fonte:** wsj.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-ET
-
-Blackstone Digital Infrastructure Trust BXDC 0. 85%increase; up pointing triangle agreed to acquire a majority stake in a data center portfolio from Amazon. com AMZN -0.
-
-[Ler noticia completa](https://www.wsj.com/business/deals/blackstone-digital-infrastructure-trust-to-acquire-data-center-portfolio-from-amazon-for-5-billion-87e53519)
-
----
-
-## 6. How Much Is Big Tech Spending On AI Data Centers? - NVIDIA (NASDAQ:NVDA)
-
-**Fonte:** benzinga.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Proprietary data identified 5 stocks that deserve your attention.  Which stocks joined Twilio on the list.  See all five stocks →
-
-SPY 732.
-
-[Ler noticia completa](https://www.benzinga.com/opinion/26/11/63353213/nvidias-biggest-customers-keep-spending-power-and-debt-set-the-limits)
-
----
-
-## 7. Big Tech's feeder firms - Business Insider
+## 3. Goldman Sachs says bet on these 24 ‘physical asset’ stocks getting a boost from AI adoption - Business Insider
 
 **Fonte:** businessinsider.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Law firms are sitting on a gold mine of information: decades of contracts, deal terms, trial strategies, and client tastes.  But much of it is buried in documents, making it hard to learn from past work. 
+The next phase of the AI trade is arriving, Goldman Sachs says, and the bank has some ideas on how to capitalize on it. 
 
-Some firms are spending heavily to build or customize their own AI models around their data.
+In its 2027 outlook note to clients on Tuesday, Goldman said it expects capex growth to begin slowing in 2027 for the first time since the start of the AI buildout. 
 
-[Ler noticia completa](https://www.businessinsider.com/google-nvidia-draw-big-law-talent-as-ai-jobs-surge-2026-10)
+That means it's a good time to start moving away from some of the AI buildout beneficiaries, the bank said, and start focusing on adopters: companies using the technology to grow their margins.
+
+[Ler noticia completa](https://www.businessinsider.com/stocks-to-buy-now-ai-adopters-investing-recommendations-goldman-sachs-2026-11)
 
 ---
 
-## 8. Nvidia Just Reported $115.8 Billion. Now Comes A Bigger Test
+## 4. B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq
 
-**Fonte:** forbes.com  
+**Fonte:** infomoney.com.br  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Nvidia reported $115. 8 billion in quarterly revenue.  Now investors are watching how new CEO Colette Kress handles AI infrastructure spending and financing.
+Planilha Grátis
 
-[Ler noticia completa](https://www.forbes.com/sites/sanjitsinghdang/2026/11/17/nvidia-earnings-115-billion-revenue-ai-strategy)
+Planilha Grátis
+
+# B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq
+
+Segundo a companhia, a ação da Anthropic deve estrear nos Estados Unidos entre US$ 70 (R$ 405) e US$ 78 (R$ 452)
+
+Estadão Conteúdo
+
+•
+
+Publicidade
+
+A B3 lançará nesta quinta-feira, 19, o Brazilian Depositary Receipt (BDR) da Anthropic, simultaneamente à estreia da empresa de inteligência artificial na Nasdaq.  O recibo será negociado pelo código ANTH34. 
+
+Segundo a companhia, a ação da Anthropic deve estrear nos Estados Unidos entre US$ 70 (R$ 405) e US$ 78 (R$ 452).
+
+[Ler noticia completa](https://www.infomoney.com.br/mercados/b3-lancara-bdr-da-anthropic-simultaneamente-ao-ipo-da-empresa-na-nasdaq)
 
 ---
 
-## 9. Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO - CNBC
+## 5. Buy the AI boom or beware the hype? 5 investing pros weigh in on Anthropic’s IPO - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Instead of the $2 trillion valuation that was floated earlier this year, $1. 13 to $1. 3 trillion offers a much more palatable entry point for investors, she said.
+
+[Ler noticia completa](https://www.businessinsider.com/should-i-buy-anthropic-ipo-investing-advice-ant-2026-11)
+
+---
+
+## 6. Strong Nvidia earnings are being clouded by China risks and succession questions - Business Insider
+
+**Fonte:** businessinsider.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The company, which has been embroiled in a leadership crisis amid Jensen Huang's ouster, reported $115. 8 billion in revenue over the last three-month period, marking a 103% surge from the same quarter last year.  In its key data center segment, revenue came in at $107.
+
+[Ler noticia completa](https://www.businessinsider.com/nvidia-stock-business-outlook-risks-china-chips-ceo-search-2026-11)
+
+---
+
+## 7. Nvidia stock up nearly 4% as earnings beat expectations. Neoclouds surge - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Altimeter Capital plans to invest $5 billion in the Anthropic IPO, Brad Gerstner told CNBC's "Halftime Report" on Monday. 
+In this article
 
-"I think this is a cornerstone compounder for a long time," Gerstner said, noting that his investment would be five times the amount he's ever put into an IPO.  "It's where the trade is going.
+Nvidia stock was up nearly 4% in premarket trading on Wednesday after reporting another earnings beat, as the fallout from CEO Jensen Huang's resignation continues to unfold. 
 
-[Ler noticia completa](https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html)
+The chip giant's stock was 3. 69% higher at 5.
+
+[Ler noticia completa](https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html)
 
 ---
 
-## 10. Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster - CNBC
+## 8. Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings - CNBC
 
 **Fonte:** cnbc.com  
-**Sentimento:** 🔴 BEARISH  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Here's what analysts are expecting, according to LSEG:
+Implied volatility reached 68 Monday, compared to under 40 in early October, according to ThinkOrSwim data.  Nvidia vol reached a multi-year high above 92 in the aftermath of President Trump's tariff Liberation day in April '25.  In other words, the company that for much of the AI boom was the most reliable winner in the market, is now more volatile than all but 35 companies in the S&P 500.
 
-Growth remains explosive, with revenue expansion expected to reach 91% in the latest quarter from $59 billion in the same period a year ago.  Nvidia said in August that sales next fiscal year would grow roughly 70% in what Kress, on the prior earnings call, described as a "supply constrained outlook. "
+[Ler noticia completa](https://www.cnbc.com/2026/11/17/nvidia-has-lost-2-trillion-in-value-heres-what-options-traders-expect-from-earnings.html)
 
-But Nvidia's stock is down 24% this month and on Friday wrapped up its sixth straight weekly drop, the longest losing streak since 2012.
+---
 
-[Ler noticia completa](https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html)
+## 9. Dealbook Summit 2026 live updates: Vance, Altman to speak at conference - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Once again artificial intelligence and the impact it is having on our world will be top of mind.  The conference comes as OpenAI rival Anthropic is about to make its public debut on Thursday, and it follows a series of widespread tech outages that have grounded airplanes, snarled email, and stymied banking transactions, among other disruptions. 
+
+While the various IT issues have been a dramatic reminder of society's dependency on these services, the Anthropic IPO raises a number of questions about the valuations of AI companies, which have been under pressure.
+
+[Ler noticia completa](https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html)
+
+---
+
+## 10. Nvidia’s Earnings Come at a Time of Mounting Tech Turmoil - Bloomberg.com
+
+**Fonte:** bloomberg.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+# Nvidia’s Earnings Come at a Time of Mounting Tech Turmoil
+
+Nvidia’s earnings arrive after the close today at perhaps the strangest time possible for the world’s most important AI chipmaker. 
+
+Investors already were questioning the durability of the AI boom.  Then the Democrats swept to victory in the US midterm elections this month, raising the prospect of tighter regulation for the tech industry.
+
+[Ler noticia completa](https://www.bloomberg.com/news/newsletters/2026-11-17/nvidia-s-earnings-come-at-a-time-of-mounting-tech-turmoil)
 
 ---
