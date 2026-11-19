@@ -1,181 +1,153 @@
 # Newsletter IA Bolsa — 2026-11-19
 
-**Gerado em:** 19/11/2026 11:04
+**Gerado em:** 19/11/2026 18:53
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Nasdaq Futures Rise as Nvidia Earnings Calm AI Fears, Attention Turns to Anthropic
+## 1. Wall Street Futures Rise as Anthropic IPO Revives Interest in AI Stocks: Dow Jones, S&P, Nasdaq
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Tech stocks rallied across the globe after Nvidia's market-beating earnings steadied sentiment around the artificial-intelligence trade, as investor attention turns to the pricing of Anthropic's highly anticipated IPO.  [. ] Nasdaq futures traded 0.
+US stock futures pointed to a higher opening on Thursday, with technology shares expected to lead gains following a strong market response to the initial public offering of artificial intelligence developer Anthropic (NASDAQ:ANT). 
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stock-futures-rally-nvidia-earnings-093700969.html?fr=sycsrp_catchall)
+Nasdaq 100 futures surged 1. 9%, indicating renewed buying interest in technology stocks after several sessions of market weakness.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/wall-street-futures-rise-anthropic-141341565.html)
 
 ---
 
-## 2. Nasdaq futures jump on hopes for strong Anthropic market debut
+## 2. Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wall Street.
 
-**Fonte:** reuters.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Nasdaq futures rose nearly 2% on Thursday after Anthropic priced its IPO above the marketed range, bolstering expectations for a strong debut and reviving sentiment ‌around beaten-down AI stocks..
+The Nasdaq Composite (NASDAQINDEX:^IXIC) entered correction territory earlier this month amid concerns about the sustainability of the artificial intelligence boom.  But history says the sell-off is a buying opportunity.  In the last decade, the index returned an average of 21% during the year following its first close in correction territory.
 
-[Ler noticia completa](https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19)
-
----
-
-## 3. Digital Core REIT, DCRU:SES summary - FT.com
-
-**Fonte:** markets.ft.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Digital Core REIT is a Singapore-based pure-play data center real estate investment Trust (REIT).  Its geographical segments include North America, EMEA, and APAC.  The Company owns and operates a global data center portfolio.
-
-[Ler noticia completa](https://markets.ft.com/data/funds/tearsheet/summary?s=DCRU%3ASES)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stock-market-correction-2-ai-100802143.html)
 
 ---
 
-## 4. Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up
+## 3. Palo Alto stock surges as all signs point to how important cybersecurity is in the AI age - CNBC
 
 **Fonte:** cnbc.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-This is CNBC's Morning Squawk newsletter.  Subscribe here to receive future editions in your inbox. 
+announced that it will acquire Applied Compute for $4. 5 billion, in an all-stock transaction that is expected to close in the fiscal 2027 third quarter.  Applied Compute helps with the post-training and inference phase of open-weight AI models.
 
-Hello, this is Leonie Kidd with today's edition of Morning Squawk.
-
-[Ler noticia completa](https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html)
+[Ler noticia completa](https://www.cnbc.com/investingclub/2026/11/18/palo-alto-surges-as-all-signs-point-to-cybersecurity-need-in-the-ai-age.html)
 
 ---
 
-## 5. Why Equinix and Digital Realty Benefit From Data Center Zoning Battles
+## 4. Stocks surge as investors gear up for Anthropic’s hugely hyped trading debut - Business Insider
 
-**Fonte:** finance.yahoo.com  
+**Fonte:** businessinsider.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Understanding the infrastructure dynamic requires looking at the primary customers.  Major cloud providers continue to allocate capital toward network expansion.  Combined capital expenditures across the top three hyperscalers are expected to approach $600 billion in 2026, supported by a collective backlog nearing $1.
+"In many respects this IPO may mark a turning point in the AI space.  The recent weakness of the infrastructure and semiconductor public companies could be understood as the market moving on from the early cycle of investment in compute at any cost," Gavin Ezekowitz, the chief investment officer at BFA Global Investors, wrote in a note on Thursday.  The firm first invested in Anthropic when the Claude parent was valued at $17 billion.
 
-[Ler noticia completa](https://finance.yahoo.com/technology/articles/why-equinix-digital-realty-benefit-130000160.html)
+[Ler noticia completa](https://www.businessinsider.com/stock-market-today-tech-rally-anthropic-stock-trading-2026-11)
 
 ---
 
-## 6. Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion - WSJ
+## 5. Anthropic is ready for its IPO. Three analysts see huge gains for the stock - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Anthropic will begin trading in public markets Thursday, and three analysts are already calling for sharp gains ahead.  Wolfe Research initiated coverage of the artificial intelligence stock with an outperform rating.  It also put a $135 target on shares, nearly 63% above the level at which shares were priced.
+
+[Ler noticia completa](https://www.cnbc.com/2026/11/19/anthropic-is-ready-for-its-ipo-three-analysts-see-huge-gains-for-the-stock.html)
+
+---
+
+## 6. Stocks making the biggest moves premarket: Palo Alto Networks, Take-Two Interactive, Everpure, Walmart & more - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Palo Alto Networks popped in early trading Thursday, boosted by quarterly results that beat analyst expectations.  Data storage name Everpure also got a boost after it lifted its fiscal-year outlook. 
+
+Follow along as CNBC covers the biggest stock market moves of the day.
+
+[Ler noticia completa](https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html)
+
+---
+
+## 7. With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI - CNBC
+
+**Fonte:** cnbc.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+In this article
+
+Five days after Nvidia's Jensen Huang resigned from the company he co-founded 33 years ago under a cloud of scandal, a nervous base of shareholders eagerly awaited Colette Kress' first public appearance as interim CEO. 
+
+Following Nvidia's better-than-expected earnings report on Tuesday, Kress offered some relief to Wall Street, at least temporarily, by proclaiming on the call with analysts that customers are still fully onboard and that there's no slippage in demand.  She said leadership from Nvidia's most important supplier, Taiwan Semiconductor Manufacturing Company, visited company offices this week.
+
+[Ler noticia completa](https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html)
+
+---
+
+## 8. U.S. Stocks Fall as AI Doubts Fester - WSJ
 
 **Fonte:** wsj.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Palo Alto Networks PANW 9. 90%increase; up pointing triangle has agreed to acquire Applied Compute, a San Francisco-based artificial-intelligence startup founded by former OpenAI researchers, in an all-stock deal valued at $4. 5 billion, executives told The Wall Street Journal.
-
-[Ler noticia completa](https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611)
-
----
-
-## 7. Blackstone's Data Center REIT Makes First Investment With $5B ...
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Blackstone Digital Infrastructure Trust will acquire a 75% stake in 13 powered shells spread across two AWS data center campuses..
-
-[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/blackstone-data-center-reit-makes-145243410.html?fr=sycsrp_catchall)
-
----
-
-## 8. Stock market today: Dow, S&P 500 slip ahead of Anthropic IPO, Nvidia stock extends decline
-
-**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-During Lagarde's talk, she also emphasized how interconnected technology, trade, and finance have become, adding that "international cooperation is a must in this environment where everything moves and affects everyone else. "
- David Hollerith
+Advertisement
 
-  David Hollerith
+This copy is for your personal, non-commercial use only.  Distribution and use of this material are governed by
+our Subscriber Agreement and by copyright law.  For non-personal use or to order multiple copies, please contact
+Dow Jones Reprints at 1-800-843-0008 or visit www.
 
-  ## Tech stocks look to stage a comeback after Nvidia earnings
-
-  US stocks opened slightly higher Wednesday, with the spotlight focused firmly on Wall Street and this week's two biggest tests for the artificial intelligence trade. 
-
-  The Dow Jones Industrial Average (^DJI) fell 0.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html)
+[Ler noticia completa](https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-ai-doubts-fester-a0979bdb)
 
 ---
 
-## 9. What’s next for the AI trade after Nvidia’s blowout results are met with a shrug - MarketWatch
+## 9. Jim Cramer's top 10 things to watch in the stock market Wednesday - CNBC
 
-**Fonte:** marketwatch.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** cnbc.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-2
+My top 10 things to watch Wednesday, Nov.  18 1.  Nasdaq futures are leading the gains this morning, aided by a roughly 3% advance in shares of embattled Nvidia following the AI chip giant's strong quarter, long-term guidance raise, and reassuring words from interim CEO Colette Kress.
 
-Nvidia’s stock fell Wednesday.  Photo: Getty Images
-
-### Referenced Symbols
-
- NVDA
-
-  -2. 89%
- SPX
-
-  -0.
-
-[Ler noticia completa](https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe)
+[Ler noticia completa](https://www.cnbc.com/investingclub/2026/11/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html)
 
 ---
 
-## 10. Stock Market Today: Dow off 500 points, S&P 500 and Nasdaq mixed; Anthropic expected to price IPO — live updates - MarketWatch
+## 10. A tech fund manager sold Nvidia before the drama. Here’s why it won’t buy the dip. - Business Insider
 
-**Fonte:** marketwatch.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** businessinsider.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-2 hours ago
+Nvidia delivered blockbuster earnings this week, but a technology-focused fund manager that sold the stock before its leadership crisis still will not buy the dip. 
 
-#### Dow recovers some ground but is still down 300 points
+"It has become very political," Marcel Oldenkott, a managing director and co-chief investment officer of Berlin-based BIT Capital, told Business Insider. 
 
-2 hours ago
+Nvidia's shares fell 3% on Wednesday after the report and are now down over one-third from their October record, as investors weigh concerns about AI spending, China sales, and the company's leadership.
 
-#### Nvidia was the earnings test.  Now comes Anthropic and the AI valuation test. 
-
-3 hours ago
-
-#### Dow heads for worst three-day stretch since April 2025
-
-3 hours ago
-
-#### Nvidia and S&P 500 are doing their familiar post-earnings-report dance
-
-3 hours ago
-
-#### S&P 500 falling for 5th straight session, heading for longest losing streak since June
-
-4 hours ago
-
-#### Small cap stocks bounce, adding to 9.
-
-[Ler noticia completa](https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-nvidia-q3-results-anthropic-expected-price-ipo)
+[Ler noticia completa](https://www.businessinsider.com/nvidia-nvda-stock-price-jensen-huang-bit-capital-valuation-outlook-2026-11)
 
 ---
