@@ -1,80 +1,4 @@
 {
-  "https://finance.yahoo.com/real-estate/articles/3-data-center-reit-stocks-151033111.html": {
-    "hash": "8261d607e6594603d4a96522dc94a8e5",
-    "visto_em": "2026-11-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/buy-5-non-tech-nasdaq-125600839.html": {
-    "hash": "9d72237d1c375d48b1a8381ec18aad63",
-    "visto_em": "2026-11-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/5-ai-stock-picks-performance-183306016.html": {
-    "hash": "16ecf84e3755ab420cf3cbd50aacfe51",
-    "visto_em": "2026-11-11"
-  },
-  "https://www.marketwatch.com/investing/fund/dtcr": {
-    "hash": "727840b20c305f511ea54051fe851eee",
-    "visto_em": "2026-11-11"
-  },
-  "https://ca.finance.yahoo.com/news/tsmc-just-delivered-ai-growth-172738565.html": {
-    "hash": "a95c785abbc89953517fadbddaf77aca",
-    "visto_em": "2026-11-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-10-223502212.html": {
-    "hash": "f507097adaef15cbe74bbb659d3caa5f",
-    "visto_em": "2026-11-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-center-ai-boom-flipped-195312299.html": {
-    "hash": "0c7101fc1cfd71df4d62b882d4cf46b0",
-    "visto_em": "2026-11-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-rallies-7-taipei-nvidia-145028098.html": {
-    "hash": "738bf6195516e91ff149d89528acd857",
-    "visto_em": "2026-11-11"
-  },
-  "https://www.investing.com/etfs/fbov11-advanced-chart": {
-    "hash": "649af3fbc502ce790f319f9eb52409bc",
-    "visto_em": "2026-11-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-rally-ai-optimism-091600580.html": {
-    "hash": "52ecd3c2f9a25c6068da3c5d5a7fa7ee",
-    "visto_em": "2026-11-11"
-  },
-  "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62": {
-    "hash": "e7f7417f385090101e27dc7f87090229",
-    "visto_em": "2026-11-11"
-  },
-  "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders": {
-    "hash": "4cf8622e948f330890f933a4b72239c1",
-    "visto_em": "2026-11-11"
-  },
-  "https://www.investing.com/news/stock-market-news/102-40-as-coreweave-lifts-tech-earnings-beats-power-these-aipicked-winners-5018063": {
-    "hash": "edf7617712272617aa22d22f70b31040",
-    "visto_em": "2026-11-11"
-  },
-  "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure": {
-    "hash": "da8ee4c15a0f1144f1c108d6478081ee",
-    "visto_em": "2026-11-11"
-  },
-  "https://www.benzinga.com/markets/private-markets/26/11/63126464/openai-acquires-ai-travel-startup-odessia-bringing-founder-of-600m-sonder-business-on-board": {
-    "hash": "baae8929ede7ab3137b68e7ef627384c",
-    "visto_em": "2026-11-11"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/2-safe-ai-stocks-buy-094600762.html": {
-    "hash": "7d5e333417865ae9b676b3f24e66bc71",
-    "visto_em": "2026-11-11"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/ai-boom-isnt-over-4-125400177.html": {
-    "hash": "a0a83c2b51aafe9236c9cd4ae0fc11b6",
-    "visto_em": "2026-11-11"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/railtown-ai-announces-commercial-launch-130000559.html": {
-    "hash": "adb14a6e9b60b858248aeea30a8646ca",
-    "visto_em": "2026-11-11"
-  },
-  "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m": {
-    "hash": "2aff09f1bf7c11a3ccb10bf019e28dae",
-    "visto_em": "2026-11-11"
-  },
   "https://sg.finance.yahoo.com/news/asian-stocks-set-gain-renewed-143514704.html": {
     "hash": "b68ba688d206c83283659d96c4101b66",
     "visto_em": "2026-11-12"
@@ -426,5 +350,45 @@
   "https://www.bloomberg.com/news/newsletters/2026-11-17/nvidia-s-earnings-come-at-a-time-of-mounting-tech-turmoil": {
     "hash": "f70225ba36fee5e756600d3a4d88a7d3",
     "visto_em": "2026-11-18"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rally-nvidia-earnings-093700969.html?fr=sycsrp_catchall": {
+    "hash": "7cad6609b927bc002d18393f38f7dd96",
+    "visto_em": "2026-11-19"
+  },
+  "https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19": {
+    "hash": "9040f5054091e3ed66242e29f24719b3",
+    "visto_em": "2026-11-19"
+  },
+  "https://markets.ft.com/data/funds/tearsheet/summary?s=DCRU%3ASES": {
+    "hash": "1b50d708eb74e973ae4388454ea3ab32",
+    "visto_em": "2026-11-19"
+  },
+  "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html": {
+    "hash": "750ba2b63016e8b1119ff34b0d127a74",
+    "visto_em": "2026-11-19"
+  },
+  "https://finance.yahoo.com/technology/articles/why-equinix-digital-realty-benefit-130000160.html": {
+    "hash": "d21073b0ee7fe892720f57d5eb9245a0",
+    "visto_em": "2026-11-19"
+  },
+  "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611": {
+    "hash": "4135667dd890cc81e8a10a6f707d1417",
+    "visto_em": "2026-11-19"
+  },
+  "https://finance.yahoo.com/real-estate/articles/blackstone-data-center-reit-makes-145243410.html?fr=sycsrp_catchall": {
+    "hash": "79940ebce153710b17ee3d84ae95d735",
+    "visto_em": "2026-11-19"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html": {
+    "hash": "eca03a075c74af4fa94b9fbf86d426f4",
+    "visto_em": "2026-11-19"
+  },
+  "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe": {
+    "hash": "cc9cfd18604710712518067de4bdb3b3",
+    "visto_em": "2026-11-19"
+  },
+  "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-nvidia-q3-results-anthropic-expected-price-ipo": {
+    "hash": "9a76d8f630ff85b0099ff619c10089b4",
+    "visto_em": "2026-11-19"
   }
 }

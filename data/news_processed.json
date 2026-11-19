@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-11-18",
-    "total_noticias": 84,
-    "gerado_em": "2026-11-18T18:40:26.836405"
+    "data": "2026-11-19",
+    "total_noticias": 78,
+    "gerado_em": "2026-11-19T11:04:43.118266"
   },
   "noticias": [
+    {
+      "titulo": "Nasdaq Futures Rise as Nvidia Earnings Calm AI Fears, Attention Turns to Anthropic",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rally-nvidia-earnings-093700969.html?fr=sycsrp_catchall",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-18",
+      "resumo": "Tech stocks rallied across the globe after Nvidia's market-beating earnings steadied sentiment around the artificial-intelligence trade, as investor attention turns to the pricing of Anthropic's highly anticipated IPO.  [. ] Nasdaq futures traded 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq futures jump on hopes for strong Anthropic market debut",
+      "url": "https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19",
+      "fonte": "reuters.com",
+      "data": "2026-11-19",
+      "resumo": "Nasdaq futures rose nearly 2% on Thursday after Anthropic priced its IPO above the marketed range, bolstering expectations for a strong debut and reviving sentiment ‌around beaten-down AI stocks..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Core REIT, DCRU:SES summary - FT.com",
+      "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=DCRU%3ASES",
+      "fonte": "markets.ft.com",
+      "data": "2026-11-13",
+      "resumo": "Digital Core REIT is a Singapore-based pure-play data center real estate investment Trust (REIT).  Its geographical segments include North America, EMEA, and APAC.  The Company owns and operates a global data center portfolio.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up",
+      "url": "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-18",
+      "resumo": "This is CNBC's Morning Squawk newsletter.  Subscribe here to receive future editions in your inbox. \n\nHello, this is Leonie Kidd with today's edition of Morning Squawk.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Why Equinix and Digital Realty Benefit From Data Center Zoning Battles",
+      "url": "https://finance.yahoo.com/technology/articles/why-equinix-digital-realty-benefit-130000160.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-15",
+      "resumo": "Understanding the infrastructure dynamic requires looking at the primary customers.  Major cloud providers continue to allocate capital toward network expansion.  Combined capital expenditures across the top three hyperscalers are expected to approach $600 billion in 2026, supported by a collective backlog nearing $1.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion - WSJ",
+      "url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611",
+      "fonte": "wsj.com",
+      "data": "2026-11-18",
+      "resumo": "Palo Alto Networks PANW 9. 90%increase; up pointing triangle has agreed to acquire Applied Compute, a San Francisco-based artificial-intelligence startup founded by former OpenAI researchers, in an all-stock deal valued at $4. 5 billion, executives told The Wall Street Journal.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Blackstone's Data Center REIT Makes First Investment With $5B ...",
+      "url": "https://finance.yahoo.com/real-estate/articles/blackstone-data-center-reit-makes-145243410.html?fr=sycsrp_catchall",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-17",
+      "resumo": "Blackstone Digital Infrastructure Trust will acquire a 75% stake in 13 powered shells spread across two AWS data center campuses..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock market today: Dow, S&P 500 slip ahead of Anthropic IPO, Nvidia stock extends decline",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-18",
+      "resumo": "During Lagarde's talk, she also emphasized how interconnected technology, trade, and finance have become, adding that \"international cooperation is a must in this environment where everything moves and affects everyone else. \"\n David Hollerith\n\n  David Hollerith\n\n  ## Tech stocks look to stage a comeback after Nvidia earnings\n\n  US stocks opened slightly higher Wednesday, with the spotlight focused firmly on Wall Street and this week's two biggest tests for the artificial intelligence trade. \n\n  The Dow Jones Industrial Average (^DJI) fell 0.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug - MarketWatch",
+      "url": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe",
+      "fonte": "marketwatch.com",
+      "data": "2026-11-18",
+      "resumo": "2\n\nNvidia’s stock fell Wednesday.  Photo: Getty Images\n\n### Referenced Symbols\n\n NVDA\n\n  -2. 89%\n SPX\n\n  -0.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock Market Today: Dow off 500 points, S&P 500 and Nasdaq mixed; Anthropic expected to price IPO — live updates - MarketWatch",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-nvidia-q3-results-anthropic-expected-price-ipo",
+      "fonte": "marketwatch.com",
+      "data": "2026-11-18",
+      "resumo": "2 hours ago\n\n#### Dow recovers some ground but is still down 300 points\n\n2 hours ago\n\n#### Nvidia was the earnings test.  Now comes Anthropic and the AI valuation test. \n\n3 hours ago\n\n#### Dow heads for worst three-day stretch since April 2025\n\n3 hours ago\n\n#### Nvidia and S&P 500 are doing their familiar post-earnings-report dance\n\n3 hours ago\n\n#### S&P 500 falling for 5th straight session, heading for longest losing streak since June\n\n4 hours ago\n\n#### Small cap stocks bounce, adding to 9.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Stock Market Today: Nasdaq Futures Rise After Nvidia Earnings Soothe AI Jitters - WSJ",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026",
@@ -637,34 +777,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "US tech stocks rally as AI trade revives",
-      "url": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
-      "fonte": "ft.com",
-      "data": "2026-11-11",
-      "resumo": "US tech stocks jumped on Wednesday, The Nasdaq 100 rose 2. 3 per cent, meaning the tech-heavy index has recouped nearly all of last week's 4. 9 per cent drop.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq 100 Jumps 2.8% on CoreWeave, AI Rebound: Stock Market Today - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63157251/stock-market-today-nasdaq-100-coreweave-ai-rebound-nvidia",
-      "fonte": "benzinga.com",
-      "data": "2026-11-11",
-      "resumo": "Read Next\n\nImage 12: Tech Stocks Add Over $500 Billion as CoreWeave's Blockbuster Results Rescue AI Rally Markets ##### Tech Stocks Add Over $500 Billion as CoreWeave's Blockbuster Results Rescue AI Rally CoreWeave (CRWV) jumped after third-quarter margins beat and a lighter funding plan, sparking a $500 billion rally in AI chip, memory and power stocks.  5 min read Read this article\n\nThird-quarter revenue rose 168% to $3. 66 billion, and pro forma operating margin reached 10.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Capital Economics Warns AI Stock Decline Could Deepen as Earnings Forecasts Remain Elevated",
       "url": "https://finance.yahoo.com/technology/ai/articles/capital-economics-warns-ai-stock-162500340.html",
       "fonte": "finance.yahoo.com",
@@ -769,34 +881,6 @@
       "data": "2026-11-13",
       "resumo": "## The Bear Case\n\n Low multiples can be a trap.  A forward P/E of 3. 9x in memory may signal that analysts expect earnings to peak.",
       "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-rebounds-chip-stocks-surge-as-coreweave-earnings-boost-ai-trade-151001136.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "\"Demand for compute is growing faster than the capacity to deliver that infrastructure and that is being echoed by the expansion of the margins that we are seeing on each additional contract,\" CoreWeave CEO Michael Intrator said during the company's earnings call on Tuesday. \n\nShares of chipmakers AMD (AMD) and Broadcom (AVGO) stock rose over 5%, while Intel (INTC) shares surged. \n\nShares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, jumped 4%.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "NTT DC REIT (NTDU.SI) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/NTDU.SI",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "NTT DC REIT is a Singapore real estate investment trust established with the principal investment strategy of investing, directly or indirectly, in a diversified portfolio of stabilized income-producing real estate assets located globally that are used primarily for data center purposes, as well as assets necessary to support the digital economy.  NTT DC REIT's portfolio comprises six carrier neutral, Tier III-equivalent assets with stringent operational and technical specifications.  Its portfolio is diversified across the United States (Northern Virginia and Northern California), Austria (Vienna) and Singapore, with an optimal mix of hyperscale and colocation customer contracts.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -931,40 +1015,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Stocks end higher as CoreWeave results ease AI spending ...",
-      "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11",
-      "fonte": "reuters.com",
-      "data": "2026-11-11",
-      "resumo": "US stocks closed higher on Wednesday, with the S&P 500 and the Nasdaq each rallying more than 1% the durability of the AI trade, 5. 7% to close ​at its highest.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "The AI Trade Just Cracked. Here’s the Price at Which I’d Start Buying Nvidia.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-just-cracked-price-103202288.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-13",
       "resumo": "Nvidia is substantially larger and more profitable today than it was during earlier phases of the AI revolution.  Huang's departure poses a legitimate succession risk, while decelerating hyperscaler spending could erode future earnings. \n\nHowever, I would become particularly interested in Nvidia around $155 to $160 per share.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-224502652.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "-0. 68%\n AAPL\n\n  -0. 14%\n CRWV\n\n  -7.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -1015,95 +1071,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Keppel DC REIT (AJBU.SI) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/AJBU.SI",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "Keppel DC REIT was listed on the Singapore Exchange on 12 December 2014 as the first pure-play data centre REIT in Asia.  Keppel DC REIT's investment strategy is to principally invest, directly or indirectly, in a diversified portfolio of income-producing real estate assets which are used primarily for data centre purposes, as well as real estate and assets necessary to support the digital economy.  Keppel DC REIT's investments comprise a mix of colocation, fully-fitted and shell and core assets, as well as debt securities, thereby reinforcing the diversity and resiliency of its portfolio.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "S&P 500, Nasdaq futures rise after CoreWeave soothes AI spending fears",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "1.  Deirdre Bosa Live. \n\n   Deirdre Bosa Live.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-better-artificial-142902232.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-12",
       "resumo": "What's more, AMD's EPS growth rate is projected to accelerate from 93% this year to 108% in 2027, according to Yahoo.  Finance consensus estimates.  Given that the data center segment will account for the majority of AMD's top line next year, it is evident that the company will gain more share in AI chips.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Asian stocks set to gain on renewed US tech rally",
-      "url": "https://sg.finance.yahoo.com/news/asian-stocks-set-gain-renewed-143514704.html",
-      "fonte": "sg.finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "CRWV\n\n  +18. 53%\n NVDA\n\n  -4. 51%\n ^NDX\n\n  +2.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock market today: Nvidia slides following reports of CEO's second affair, possible removal",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "Read more. \n Ines Ferré\n\n  Ines Ferré\n\n  ## Semiconductors stocks lead major averages higher\n\n  Semiconductors led a stock market rally on Wednesday after CoreWeave's better-than-expected earnings reignited the AI trade. \n\n  The Dow Jones Industrial Average (^DJI) rose 0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Something happened in October that changes the TSMC stock debate",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/something-happened-october-changes-tsmc-160700623.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "In plain English, output from TSMC's newest generation of chipmaking is climbing fast. \n\nInvestors outside Taiwan should care.  TSMC builds chips for Nvidia, AMD, and Apple, making it one of the hardest links in the AI supply chain to replace.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia stock rebounds, chip stocks surge as CoreWeave earnings boost AI trade",
-      "url": "https://finance.yahoo.com/markets/article/copy-nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-135439175.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "\"Demand for compute is growing faster than the capacity to deliver that infrastructure and that is being echoed by the expansion of the margins that we are seeing on each additional contract,\" CoreWeave CEO Michael Intrator said during the company's earnings call on Tuesday. \n\nShares of chipmakers AMD (AMD) and Broadcom (AVGO) stock rose over 4% in premarket trading, while Intel (INTC) shares surged. \n\nShares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, jumped 4%.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1119,62 +1091,6 @@
       "data": "2026-11-12",
       "resumo": "AI partnerships offer future growth drivers.  NICE acquired Cognigy, a company focused on deploying conversational, automation, and agentic AI capabilities.  The.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq Futures Rally as AI Optimism Returns",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-rally-ai-optimism-091600580.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "Nasdaq futures led stock futures higher as rebounding artificial-intelligence sentiment helped markets recover from a revival of Federal Reserve rate-hike concerns Tuesday. \n\nFutures for the Nasdaq jumped 2%, buoyed by an after-hours steadying of Nvidia shares and gains for cloud-computing provider CoreWeave.  The latter stock leapt 15% premarket after beating Wall Street revenue estimates for the third quarter, easing concerns that spending on AI data centers is running out of steam.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq Futures Gain as Rebounding AI Sentiment Helps Markets Recover - WSJ",
-      "url": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62",
-      "fonte": "wsj.com",
-      "data": "2026-11-11",
-      "resumo": "Nasdaq futures led stock futures higher as rebounding artificial-intelligence sentiment helped markets recover from a revival of Federal Reserve rate-hike concerns Tuesday. \n\nFutures for the Nasdaq jumped 1. 5%, buoyed by an after-hours steadying of Nvidia shares and gains for cloud-computing provider CoreWeave CRWV -0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "+102%, +40%: As CoreWeave lifts tech, earnings beats power these AI-picked winners",
-      "url": "https://www.investing.com/news/stock-market-news/102-40-as-coreweave-lifts-tech-earnings-beats-power-these-aipicked-winners-5018063",
-      "fonte": "investing.com",
-      "data": "2026-11-11",
-      "resumo": "CNMD-1. 41%\n\nAMRX+0. 47%\n\nVECO-0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "2 Safe AI Stocks to Buy in the Next Market Crash. And No, It's Not Palantir.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-safe-ai-stocks-buy-094600762.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-11",
-      "resumo": "The latest results show that the opportunity is already contributing to growth.  Alphabet reported third-quarter 2026 revenue of $127. 6 billion, up 25% year over year.",
-      "sentimento": "bearish",
       "tags": [
         "AI",
         "Market"
