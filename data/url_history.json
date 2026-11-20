@@ -1,40 +1,4 @@
 {
-  "https://sg.finance.yahoo.com/news/asian-stocks-set-gain-renewed-143514704.html": {
-    "hash": "b68ba688d206c83283659d96c4101b66",
-    "visto_em": "2026-11-12"
-  },
-  "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html": {
-    "hash": "8fe516d71ef45ea39dc05234c5c44df3",
-    "visto_em": "2026-11-12"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/something-happened-october-changes-tsmc-160700623.html": {
-    "hash": "c3703ecf87a42fec00109936d036028c",
-    "visto_em": "2026-11-12"
-  },
-  "https://finance.yahoo.com/markets/article/copy-nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-135439175.html": {
-    "hash": "385b41379b793eafc7830caf181c51b4",
-    "visto_em": "2026-11-12"
-  },
-  "https://seekingalpha.com/article/4966825-nice-current-value-incorporates-all-ai-questions": {
-    "hash": "d6e4b3269c256bb61b14864f1e115d0e",
-    "visto_em": "2026-11-12"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-104431138.html": {
-    "hash": "2461a53466f772c9b20811eb46de8c4c",
-    "visto_em": "2026-11-12"
-  },
-  "https://uk.finance.yahoo.com/quote/2330.TW/latest-news": {
-    "hash": "52c19f992a2c00e79dcdc7e50b7dca68",
-    "visto_em": "2026-11-12"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-better-artificial-142902232.html": {
-    "hash": "51e86f17fa5f03e6b6c66ae13122309c",
-    "visto_em": "2026-11-12"
-  },
-  "https://ca.finance.yahoo.com/quote/DLR": {
-    "hash": "16028d2485d4cd5e55f9843baf8d4882",
-    "visto_em": "2026-11-12"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-224502652.html": {
     "hash": "c4780ce7226e5faf32187ee5ed1862a6",
     "visto_em": "2026-11-13"
@@ -430,5 +394,45 @@
   "https://www.businessinsider.com/nvidia-nvda-stock-price-jensen-huang-bit-capital-valuation-outlook-2026-11": {
     "hash": "9f4e98fb8f257755da1542ec74acb041",
     "visto_em": "2026-11-19"
+  },
+  "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html": {
+    "hash": "5721bf287c6f00cc4df7d23874bb39a5",
+    "visto_em": "2026-11-20"
+  },
+  "https://www.investing.com/news/transcripts/coursera-at-rbc-conference-helix-merger-gains-and-ai-bets-93CH-5033258": {
+    "hash": "3e71c694059a19a30bff2fdcdd107d77",
+    "visto_em": "2026-11-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/wall-streets-ai-rally-faces-214232715.html": {
+    "hash": "ca8bb3facba10a3fe7fd76e0d075a2d1",
+    "visto_em": "2026-11-20"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/rain-tensor-merger-positions-dual-165045404.html": {
+    "hash": "f540f3ce0b672630515376477ce52f34",
+    "visto_em": "2026-11-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nvidias-leadership-woes-buy-tsmc-190000738.html": {
+    "hash": "a93c6e1f7ded58220e7ede0a8ee4916f",
+    "visto_em": "2026-11-20"
+  },
+  "https://finance.yahoo.com/real-estate/articles/amazon-sold-5-billion-data-063333133.html": {
+    "hash": "dcb1924006b3168644f7f16b89fb2fec",
+    "visto_em": "2026-11-20"
+  },
+  "https://markets.businessinsider.com/news/stocks/amd-completes-acquisition-of-world-labs-1036768971": {
+    "hash": "aececd17300eba7faec65ea28721d34f",
+    "visto_em": "2026-11-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-booked-record-nt-004110791.html": {
+    "hash": "93f6a7150b0a4608ad356d9db4b4012d",
+    "visto_em": "2026-11-20"
+  },
+  "https://ca.finance.yahoo.com/quote/DLR": {
+    "hash": "16028d2485d4cd5e55f9843baf8d4882",
+    "visto_em": "2026-11-20"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-keep-making-headlines-155805965.html": {
+    "hash": "b5ee699f0e66c7a7dcb83b27f4c9b339",
+    "visto_em": "2026-11-20"
   }
 }

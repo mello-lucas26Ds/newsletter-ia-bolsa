@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-20",
+    "total_noticias": 10,
+    "gerado_em": "2026-11-20T10:52:57.522211"
+  },
+  "noticias": [
+    {
+      "titulo": "AMD, Broadcom, and TSMC stocks rise on Nvidia earnings beat",
+      "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-18",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nLIVE   Nvidia’s first earnings call since Jensen Huang’s resignation is underway.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Coursera at RBC conference: helix, merger gains and ai bets By Investing.com",
+      "url": "https://www.investing.com/news/transcripts/coursera-at-rbc-conference-helix-merger-gains-and-ai-bets-93CH-5033258",
+      "fonte": "investing.com",
+      "data": "2026-11-17",
+      "resumo": "## LearnVector and capital allocation\n\nFoley also discussed Coursera’s strategic investment in LearnVector, the AI-focused education company led by Andrew Ng.  He said the deal is a partnership, not an acquisition, and gives Coursera a non-obligatory right to integrate any resulting technology into Helix. \n\nHe called the arrangement a relatively unique situation and said it reflects LearnVector’s ability to recruit top AI talent, which Coursera believes is harder to do on its own.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall Street's AI Rally Faces New Test as Tech Stocks Tumble Ahead of Nvidia's Earnings Report",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-streets-ai-rally-faces-214232715.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "U. S.  stocks fell sharply Monday as investors sold technology shares ahead of Nvidia's earnings report, extending a retreat that has raised fresh questions about the durability of the artificial intelligence rally.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "RAIN & Tensor Merger Positions Dual-Tech Growth Platform – Quarterly Update Report",
+      "url": "https://finance.yahoo.com/technology/ai/articles/rain-tensor-merger-positions-dual-165045404.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-19",
+      "resumo": "- Tensor merger marks a strategic transformation, positioning RAIN as a dual-technology growth platform spanning AI infrastructure security and atmospheric water enhancement.  The all-stock agreement assigns negotiated equity values of $180 million to Tensor and $20 million to RAIN, establishing a combined $200 million pre-financing reference valuation.  Tensor's predictive AI-security technology has secured and delivered work under three U.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "NVIDIA's Leadership Woes: Buy TSMC & ASML Despite Supply-Chain Risks?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-leadership-woes-buy-tsmc-190000738.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-18",
+      "resumo": "## November Stock Performances So Far: NVDA, TSM & ASML\n\nImage Source: Zacks Investment Research\n\nHowever, NVIDIA's latest quarterly results suggest that its underlying business momentum remains strong.  The company reported third-quarter fiscal 2027 adjusted earnings of $2. 68 per share, beating the Zacks Consensus Estimate of $2.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Amazon Sold $5 Billion of Data Centers at a “7% Cap Rate.” That’s a Big Problem for Digital Realty and Equinix",
+      "url": "https://finance.yahoo.com/real-estate/articles/amazon-sold-5-billion-data-063333133.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-17",
+      "resumo": "Amazon (AMZN:NASDAQ) has a new way to fund its data center build-out: sell a stake in finished buildings, then rent them back.  The price matters more for Digital Realty (DLR:NYSE) and Equinix (EQIX:NASDAQ), the two biggest listed data center landlords, which trade at far richer valuations. \n\nOn Nov.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AMD Completes Acquisition of World Labs | Markets Insider",
+      "url": "https://markets.businessinsider.com/news/stocks/amd-completes-acquisition-of-world-labs-1036768971",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-11-16",
+      "resumo": "News Highlights \n\nSANTA CLARA, Calif. , Nov.  16, 2026 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) today announced the completion of its acquisition of World Labs, expanding its capabilities across the AI stack with a world-class model team.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Taiwan Semiconductor Booked a Record NT$587 Billion Month. The Stock Has Lost Nearly 10% in Three Days Anyway",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-booked-record-nt-004110791.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-17",
+      "resumo": "TSM -5. 40%\n NVDA -3. 40%\n TSM -5.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://ca.finance.yahoo.com/quote/DLR",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-11-18",
+      "resumo": "Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI Stocks Keep Making Headlines. Here's What Investors Should Check Before Chasing The Next Big Move",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-keep-making-headlines-155805965.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-18",
+      "resumo": "For chipmakers, that might mean examining demand from major customers, revenue growth and profit margins.  For software companies, investors may want to look at customer adoption, recurring revenue and whether AI products are generating additional business. \n\nA company can have an impressive AI strategy without yet producing meaningful financial results from it.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
