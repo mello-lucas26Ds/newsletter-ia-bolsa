@@ -1,160 +1,164 @@
 # Newsletter IA Bolsa — 2026-11-20
 
-**Gerado em:** 20/11/2026 10:52
+**Gerado em:** 20/11/2026 18:20
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. AMD, Broadcom, and TSMC stocks rise on Nvidia earnings beat
+## 1. Worldwide NFT, Inc. Acquires Artificial Intelligence Platform from Discourse Analytics, Inc. to Expand Software Capabilities | Markets Insider
+
+**Fonte:** markets.businessinsider.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+"I am very excited by the combination of the CNN which DA created with commercial LLMs into a very powerful analytics engine which we now have acquired,” said Jay Wright, Chairman and CEO of WNFT.  “Having AI functionality is a necessity in this day and age and this acquisition gives us a leading-edge capability which we believe will help drive future growth for WNFT. ”
+
+"We completed this transaction as an all-stock transaction, allowing WNFT to acquire the technology while preserving financial flexibility for our acquisition pipeline," said Finn Dunne, Vice President of Mergers and Acquisitions at WNFT.
+
+[Ler noticia completa](https://markets.businessinsider.com/news/stocks/worldwide-nft-inc-acquires-artificial-intelligence-platform-from-discourse-analytics-inc-to-expand-software-capabilities-1036768812)
+
+---
+
+## 2. Jensen Huang Stepped Away From Nvidia. The Stock Has Crashed. Instead of Rushing to Buy the Dip, Here Are 2 AI Stocks Down More Than 15% to Buy Instead.
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-1.  Crypto
+## Taiwan Semi's global dominance
 
-   Crypto
-2.  AI
+The key manufacturer of Nvidia's computer chips is Taiwan Semiconductor Manufacturing (NYSE:TSM).  It has the leading market share in building advanced computer chips used in AI, and has factories centered in Taiwan, with new hubs being built in Japan and the United States.  The stock is down 16% over the past three months.
 
-   AI
-
-LIVE   Nvidia’s first earnings call since Jensen Huang’s resignation is underway.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/jensen-huang-stepped-away-nvidia-152702121.html)
 
 ---
 
-## 2. Coursera at RBC conference: helix, merger gains and ai bets By Investing.com
+## 3. 3 Dirt Cheap Artificial Intelligence (AI) Stocks to Load Up on Before 2027
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+In the third quarter, Alphabet's total revenue came in at $127. 6 billion, up 25% year over year.  The company's Google Cloud sales were $30.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/3-dirt-cheap-artificial-intelligence-193402259.html)
+
+---
+
+## 4. Blackstone REIT to Buy Amazon Data Centers in $5 Billion Deal
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The real estate investment trust encapsulates Blackstone's ambition to become one of the largest backers of artificial intelligence infrastructure and its push to reach more individual investors.  The nearly $1. 4 trillion alternative asset manager has amassed a $200 billion data center portfolio that includes QTS Realty Trust, a leading builder and operator of such facilities.
+
+[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/blackstone-reit-buy-amazon-data-115357460.html)
+
+---
+
+## 5. Does the Nestle AI Deal Matter for Microsoft Shareholders?
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Nestle has signed AI partnership deals with Microsoft (NASDAQ:MSFT) and Boston Dynamics, according to a Wall Street Journal exclusive published November 20, 2026.  The work centers on Nestle's new Deep Tech Center in Orbe, Switzerland, where the company plans to use AI, smart sensors, and robotics to improve efficiency in its operations.  The reporting disclosed no deal value, no contract length, and no specific Microsoft products.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/does-nestle-ai-deal-matter-120730174.html)
+
+---
+
+## 6. Worldwide NFT acquires AI technology for 4M shares
 
 **Fonte:** investing.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-## LearnVector and capital allocation
+© Reuters
 
-Foley also discussed Coursera’s strategic investment in LearnVector, the AI-focused education company led by Andrew Ng.  He said the deal is a partnership, not an acquisition, and gives Coursera a non-obligatory right to integrate any resulting technology into Helix. 
+In this article:
 
-He called the arrangement a relatively unique situation and said it reflects LearnVector’s ability to recruit top AI talent, which Coursera believes is harder to do on its own.
+WNFT-0. 45%
 
-[Ler noticia completa](https://www.investing.com/news/transcripts/coursera-at-rbc-conference-helix-merger-gains-and-ai-bets-93CH-5033258)
+MCLEAN, Va.  - Worldwide NFT, Inc.
 
----
-
-## 3. Wall Street's AI Rally Faces New Test as Tech Stocks Tumble Ahead of Nvidia's Earnings Report
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-U. S.  stocks fell sharply Monday as investors sold technology shares ahead of Nvidia's earnings report, extending a retreat that has raised fresh questions about the durability of the artificial intelligence rally.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/wall-streets-ai-rally-faces-214232715.html)
+[Ler noticia completa](https://www.investing.com/news/company-news/worldwide-nft-acquires-ai-technology-for-4m-shares-93CH-5029906)
 
 ---
 
-## 4. RAIN & Tensor Merger Positions Dual-Tech Growth Platform – Quarterly Update Report
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-- Tensor merger marks a strategic transformation, positioning RAIN as a dual-technology growth platform spanning AI infrastructure security and atmospheric water enhancement.  The all-stock agreement assigns negotiated equity values of $180 million to Tensor and $20 million to RAIN, establishing a combined $200 million pre-financing reference valuation.  Tensor's predictive AI-security technology has secured and delivered work under three U.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/rain-tensor-merger-positions-dual-165045404.html)
-
----
-
-## 5. NVIDIA's Leadership Woes: Buy TSMC & ASML Despite Supply-Chain Risks?
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## November Stock Performances So Far: NVDA, TSM & ASML
-
-Image Source: Zacks Investment Research
-
-However, NVIDIA's latest quarterly results suggest that its underlying business momentum remains strong.  The company reported third-quarter fiscal 2027 adjusted earnings of $2. 68 per share, beating the Zacks Consensus Estimate of $2.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nvidias-leadership-woes-buy-tsmc-190000738.html)
-
----
-
-## 6. Amazon Sold $5 Billion of Data Centers at a “7% Cap Rate.” That’s a Big Problem for Digital Realty and Equinix
+## 7. Arrive AI Inc. (ARAI) Stock Price, News, Quote & History - Yahoo Finance
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Amazon (AMZN:NASDAQ) has a new way to fund its data center build-out: sell a stake in finished buildings, then rent them back.  The price matters more for Digital Realty (DLR:NYSE) and Equinix (EQIX:NASDAQ), the two biggest listed data center landlords, which trade at far richer valuations. 
+#### Earnings chart
 
-On Nov.
+| Field | Value |
+ --- |
+| Current quarter estimate date | 4Q |
+| Current calendar quarter | 4Q2026 |
+| Current quarter estimate year | 2026 |
+| Current fiscal quarter | 4Q2026 |
+| Current period end date | 2026-12-31 |
+| Is earnings date estimate | No |
 
-[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/amazon-sold-5-billion-data-063333133.html)
+##### Quarterly
 
----
+| Date | Actual | Estimate | Fiscal quarter | Calendar quarter | Difference | Surprise pct | Period end date | Reported date |
+ ---  ---  ---  --- 
+| 4Q2025 | -5. 76 | -6. 24 | 4Q2025 | 4Q2025 | 0.
 
-## 7. AMD Completes Acquisition of World Labs | Markets Insider
-
-**Fonte:** markets.businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-News Highlights 
-
-SANTA CLARA, Calif. , Nov.  16, 2026 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) today announced the completion of its acquisition of World Labs, expanding its capabilities across the AI stack with a world-class model team.
-
-[Ler noticia completa](https://markets.businessinsider.com/news/stocks/amd-completes-acquisition-of-world-labs-1036768971)
+[Ler noticia completa](https://finance.yahoo.com/quote/ARAI)
 
 ---
 
-## 8. Taiwan Semiconductor Booked a Record NT$587 Billion Month. The Stock Has Lost Nearly 10% in Three Days Anyway
+## 8. The Path to a Year-End Stock Rally Looks Clearer After Anthropic
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-TSM -5. 40%
- NVDA -3. 40%
- TSM -5.
+Yet a blockbuster reception to Anthropic PBC's initial public offering, with shares already rallying in gray market trading, could be a sign of changing sentiment.  Investors are also confident that the economic and earnings outlook remains robust enough to drive stocks back toward record highs.  Oil prices have already dropped 20% in November, while a reassuring outlook from Nvidia Corp.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-booked-record-nt-004110791.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/path-end-stock-rally-looks-072124546.html)
 
 ---
 
-## 9. Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & History - Yahoo Finance
+## 9. Ibovespa hoje: acompanhe em tempo real a Bolsa de Valores
 
-**Fonte:** ca.finance.yahoo.com  
+**Fonte:** infomoney.com.br  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.
+na maior estreia já registrada, após ampliar sua oferta, avaliando a fabricante do chatbot Claude em US$1,5 trilhão, em uma operação que desafia as preocupações sobre o setor de IA e as perspectivas de captação de recursos no setor de tecnologia.  (Reuters) [. ] relacionados a despesas de capital e financiamento por dívida, não mudaram — e provavelmente não mudarão tão cedo.
 
-[Ler noticia completa](https://ca.finance.yahoo.com/quote/DLR)
+[Ler noticia completa](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026)
 
 ---
 
-## 10. AI Stocks Keep Making Headlines. Here's What Investors Should Check Before Chasing The Next Big Move
+## 10. Stocks plunge as investors take cover amid growing uncertainty
 
 **Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-For chipmakers, that might mean examining demand from major customers, revenue growth and profit margins.  For software companies, investors may want to look at customer adoption, recurring revenue and whether AI products are generating additional business. 
+"The slump has set off a scramble of headline searching as people scour the wires to find the most negative sounding news flash," Adam Crisafulli, an analyst at Vital Knowledge, said in a research note.  "People just don't have much enthusiasm for this market, and rallies tend to bring out sellers instead of chasers (there is still a lot of hesitation when it comes to being long AI-linked names, especially picks-and-shovels, and the defensive stuff is quite extended after the recent rally). "
 
-A company can have an impressive AI strategy without yet producing meaningful financial results from it.
+For weeks, investors have fretted about the financial strength of the AI sector amid concerns that the torrent of capital pouring into data centers may not deliver the productivity and profit growth companies are counting on.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/ai-stocks-keep-making-headlines-155805965.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stocks-plunge-investors-cover-amid-212511745.html)
 
 ---
