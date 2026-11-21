@@ -1,40 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-224502652.html": {
-    "hash": "c4780ce7226e5faf32187ee5ed1862a6",
-    "visto_em": "2026-11-13"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-broadcom-best-ai-163818058.html": {
-    "hash": "8c040f8d6bc759e466bfe0118e374846",
-    "visto_em": "2026-11-13"
-  },
-  "https://finance.yahoo.com/quote/BXDC": {
-    "hash": "775f6247a993fd87d852858eed632145",
-    "visto_em": "2026-11-13"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-fall-2-21-180251979.html": {
-    "hash": "b466850a96786fee629a72cb799ad03d",
-    "visto_em": "2026-11-13"
-  },
-  "https://sg.finance.yahoo.com/quote/DTCR": {
-    "hash": "3649edd248ab6b02fbdfdc7c004280a8",
-    "visto_em": "2026-11-13"
-  },
-  "https://finance.yahoo.com/quote/AJBU.SI": {
-    "hash": "0b754099ec27673b76610f950d12ea35",
-    "visto_em": "2026-11-13"
-  },
-  "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html": {
-    "hash": "5dd48918686c744de9372d39a849408a",
-    "visto_em": "2026-11-13"
-  },
-  "https://www.reuters.com/business/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-2026-11-11": {
-    "hash": "a59088005d2a2c22fdd90196ce7174ca",
-    "visto_em": "2026-11-13"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-trade-just-cracked-price-103202288.html": {
-    "hash": "0fb086d4f3f0c77d566761973d731711",
-    "visto_em": "2026-11-13"
-  },
   "https://finance.yahoo.com/technology/ai/articles/3-top-ranked-ai-stocks-183900135.html": {
     "hash": "1a4a0060a67eba0d2dffdd33ad27f7a3",
     "visto_em": "2026-11-14"
@@ -474,5 +438,45 @@
   "https://finance.yahoo.com/markets/stocks/articles/stocks-plunge-investors-cover-amid-212511745.html": {
     "hash": "37b1b5dd82fa01ed69cdd3ec4dced6e8",
     "visto_em": "2026-11-20"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/dan-ives-just-delivered-great-183902589.html": {
+    "hash": "f6b605d318cd5b01fe59879f47ad0915",
+    "visto_em": "2026-11-21"
+  },
+  "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html": {
+    "hash": "57fa71a619e6616406b17360858957f4",
+    "visto_em": "2026-11-21"
+  },
+  "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118": {
+    "hash": "9f6783e9511c98690f51a7388f595ad3",
+    "visto_em": "2026-11-21"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/wall-street-had-big-week-183500620.html": {
+    "hash": "5db28b51e3a1ff35ace57ca022c5e683",
+    "visto_em": "2026-11-21"
+  },
+  "https://finance.yahoo.com/quote/TSM": {
+    "hash": "2de12f2fd6560dece7964d21aa98c8e9",
+    "visto_em": "2026-11-21"
+  },
+  "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html": {
+    "hash": "df6368028c219d91b8ca74560c67b0ba",
+    "visto_em": "2026-11-21"
+  },
+  "https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5": {
+    "hash": "5ac2f1376ffd78df4bda523e9eb4c877",
+    "visto_em": "2026-11-21"
+  },
+  "https://www.businessinsider.com/anthropic-ipo-ai-trade-takeaways-wall-street-investors-stock-market-2026-11": {
+    "hash": "bbf07c0483b3db8e6fd61dc67c758ce1",
+    "visto_em": "2026-11-21"
+  },
+  "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html": {
+    "hash": "0cd034a31eee4215351093c433055344",
+    "visto_em": "2026-11-21"
+  },
+  "https://www.businessinsider.com/tech-sell-off-ai-bubble-ending-stock-market-outlook-2026-11": {
+    "hash": "681e5629f6362a36af09d2cfccbcdca8",
+    "visto_em": "2026-11-21"
   }
 }
