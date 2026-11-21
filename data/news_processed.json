@@ -2,10 +2,136 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-21",
-    "total_noticias": 99,
-    "gerado_em": "2026-11-21T10:37:14.216620"
+    "total_noticias": 108,
+    "gerado_em": "2026-11-21T17:07:38.032482"
   },
   "noticias": [
+    {
+      "titulo": "TSMC Sinks 20% in a Week on Nvidia Jitters and New US Chip Curbs on China. Time to Buy?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-sinks-20-week-nvidia-100729822.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-21",
+      "resumo": "## The orders are still coming\n\nNvidia's revenue more than doubled to $115. 8 billion in its fiscal third quarter, and it guided to $130. 0 billion, plus or minus 3%, for the fourth.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-plunges-5-day-anthropic-211724232.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-20",
+      "resumo": "Even so, investors largely said they continued to believe ‌in the AI trade, which took markets to record highs as recently as last month. \n\nCOMMENTS:\n\nMICHAEL MONAGHAN, PORTFOLIO MANAGER AND PARTNER AT FOUNDER ETFS, DALLAS, TEXAS:\n\n\"In the short run, sentiment drives prices.  In the long run, fundamentals do.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "C3.ai, Inc. (AI) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/AI",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-20",
+      "resumo": "#### Financials chart\n\n##### Yearly\n\n| Date | Revenue | Earnings | Profit margin |\n ---  --- |\n| 2023 | 266,795,000 | -268,839,000 | -100. 77% |\n| 2024 | 310,582,000 | -279,696,000 | -90. 06% |\n| 2025 | 389,056,000 | -288,702,000 | -74.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Datasite and Ontra Partner to Maximize Deal Momentum",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/datasite-ontra-partner-maximize-deal-140000744.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-17",
+      "resumo": "Partnership connects Datasite data room preparation with Ontra NDA negotiation services to help investment bankers get qualified buyers into diligence sooner\n\nMINNEAPOLIS and NEW YORK, Nov.  17, 2026 (GLOBE NEWSWIRE) -- Datasite, the essential infrastructure for mergers and acquisitions (M&A), and Ontra, the AI-native services provider for private markets, today announced a partnership to help mutual customers streamline sell-side NDA negotiations and get qualified bidders into diligence sooner.  [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Dell Stock Plunges 10% in the AI Selloff and Heads for Its Worst Month Since Its 2018 Return to the Stock Market. Earnings Are Tuesday",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-plunges-10-ai-180702531.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-20",
+      "resumo": "Dell Technologies (NYSE: DELL) fell 10% Friday afternoon to $281. 12 as the selloff in AI and chip stocks deepened, two trading sessions before the company reports earnings on Tuesday.  No company news came with the drop.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Has AI's honeymoon ended on Wall Street?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ais-honeymoon-ended-wall-street-004604807.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-21",
+      "resumo": "\\- Looming debt -\n\n\"The AI investment boom has gone from a promising technology story to a capital markets extravaganza,\" said Stephen Innes, a manager at SPI Asset Management, with billions of dollars spent to develop the technology. \n\nBut as spending has ballooned, so has debt -- and profits have yet to match. \n\n\"As the capital needs grew, we started to see investors question how profitable all these investments might be, whether all this money was being spent wisely.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Exclusive | Nestle Partners With Big Tech to Boost Artificial Intelligence Use - WSJ",
+      "url": "https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028",
+      "fonte": "wsj.com",
+      "data": "2026-11-20",
+      "resumo": "Nestle NESN -1. 84%decrease; down pointing triangle is working with big tech companies to bolster the deployment of artificial intelligence in its factories and products as it seeks to better understand changing consumer habits. \n\nThe maker of KitKat chocolates, Nescafe coffee and Purina pet food has signed partnership deals to develop engineering products at its new facility in Orbe, Switzerland, Chief Technology Officer Stefan Palzer said.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NVDA",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-21",
+      "resumo": "#### Financials chart\n\n##### Yearly\n\n| Date | Revenue | Earnings | Profit margin |\n ---  --- |\n| 2023 | 26,974,000,000 | 4,368,000,000 | 16. 19% |\n| 2024 | 60,922,000,000 | 29,760,000,000 | 48. 85% |\n| 2025 | 130,497,000,000 | 72,880,000,000 | 55.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Why Micron, Intel and other AI stocks are getting a lift on Thursday - MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8",
+      "fonte": "marketwatch.com",
+      "data": "2026-11-19",
+      "resumo": "4\n\nMicron’s stock closed down about 2% on Thursday.  Photo: MarketWatch illustration\n\n### Referenced Symbols\n\n NVDA\n\n  -3. 30%\n MU\n\n  -2.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Dan Ives Just Delivered Great News for AI Stocks. Here’s the Part That Matters.",
       "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-just-delivered-great-183902589.html",
