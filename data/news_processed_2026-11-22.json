@@ -2,86 +2,16 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-22",
-    "total_noticias": 10,
-    "gerado_em": "2026-11-22T10:40:48.916175"
+    "total_noticias": 5,
+    "gerado_em": "2026-11-22T17:38:20.432577"
   },
   "noticias": [
     {
-      "titulo": "CrowdStrike-Zscaler Reported Merger Talks Could Spark One of Cybersecurity’s Biggest Deals Ever: ZS Stock - Benzinga",
-      "url": "https://www.benzinga.com/m-a/26/11/63514517/crowdstrike-acquire-zscaler-cybersecurity",
-      "fonte": "benzinga.com",
-      "data": "2026-11-21",
-      "resumo": "The discussions are still underway, and there is no guarantee that they will lead to a deal, according to the report. \n\nCrowdStrike and Zscaler did not immediately respond to Benzinga’s request for comment. \n\n## Cybersecurity Deals Amid Rise of AI\n\nThe discussions come at a time when businesses increasingly rely on cybersecurity providers such as CrowdStrike to protect themselves against hackers and digital threats, particularly as AI and technological advances introduce new vulnerabilities.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The 3 Best AI Stocks to Buy Now (Yes, Nvidia Is One of Them)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-best-ai-stocks-buy-140402440.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-18",
-      "resumo": "While AI investment sentiment is currently negative, I think there are plenty of great investment opportunities right now.  They include Nvidia (NASDAQ:NVDA), Broadcom (NASDAQ:AVGO), and Micron (NASDAQ:MU).  While Nvidia is in a bit of a mess with its CEO resigning last week, I think the stock has cratered to the point where it makes sense to buy shares.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Worried About a Market Crash? This AI Stock Should Bounce Back Fastest.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/worried-market-crash-ai-stock-184702164.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-21",
-      "resumo": "Image source: Nvidia. \n\nWith this in mind, it's not hard to see Nvidia as a strong choice -- perhaps the strongest choice -- for investors during a market downturn.  There is no denying that Nvidia's core business is exposed to long-term growth tailwinds.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival ‘More Formidable’ Against Palo Alto Networks, Says Jefferies",
-      "url": "https://finance.yahoo.com/technology/articles/crowdstrike-zscaler-merger-could-cybersecurity-045948646.html",
-      "fonte": "finance.yahoo.com",
+      "titulo": "Strong Earnings Prove No Match for the Crumbling AI Trade",
+      "url": "https://uk.finance.yahoo.com/news/strong-earnings-prove-no-match-133000291.html",
+      "fonte": "uk.finance.yahoo.com",
       "data": "2026-11-22",
-      "resumo": "# CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival ‘More Formidable’ Against Palo Alto Networks, Says Jefferies\n\n- Jefferies said a potential acquisition of Zscaler would help CrowdStrike expand its presence in network security while strengthening its visibility into network activity in the age of AI. \n- The firm believes that the combination would make CrowdStrike a more formidable competitor to Palo Alto Networks across several product categories. \n- Jefferies sees a \"better than a coin flip likelihood\" of a deal materializing at $255 or more per Zscaler share, with the firm describing that price as a \"reasonable\" takeout valuation.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "U.S. Stocks Fall as Anthropic IPO Fails to Stop AI Stock Selloff - WSJ",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-ai-bust-continues-despite-anthropic-ipo-5a14e137",
-      "fonte": "wsj.com",
-      "data": "2026-11-19",
-      "resumo": "Call it a $1. 3 trillion anticlimax. \n\nU.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/EQIX",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-20",
-      "resumo": "### Summary profile\n\nEquinix, Inc.  has its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance work, life and planet.  The firm connects economies, countries, organizations and communities, delivering seamless digital experiences and cutting-edge AI quickly, efficiently and everywhere.",
+      "resumo": "The strong earnings cycle was not enough to support the stock market as a Democratic sweep of US midterm elections raised the prospect of tighter regulation of data centers, threatening a central pillar of the artificial intelligence boom — not to mention the S&P 500's future profit growth.  The shock ouster of Nvidia Corp.  founder Jensen Huang also rattled nervous investors.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -91,11 +21,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "DTCR | Global X Data Center & Digital Infrastructure ETF Overview | MarketWatch",
-      "url": "https://www.marketwatch.com/investing/fund/dtcr",
-      "fonte": "marketwatch.com",
-      "data": "2026-11-20",
-      "resumo": "### Data-center stocks rally, as NRG gives an upbeat outlook following the election\n\nData center stocks are extending their bounce after last week's postelection drubbing, as NRG Energy's comments about its project in Texas eased worries about a potential slowdown..",
+      "titulo": "What a New AI Agent Partnership with Microsoft Means for IBM Stock",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-agent-partnership-microsoft-means-154724648.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "Moreover, the announcement comes as IBM continues positioning its consulting, hybrid-cloud, and software businesses around agentic AI.  By combining IBM's enterprise relationships and consulting capabilities with Microsoft's massive cloud and AI ecosystem, the partnership could create additional opportunities for IBM to win AI transformation projects and generate recurring software and services revenue.  Here's what the new IBM-Microsoft AI agent partnership could mean for IBM stock.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -105,12 +35,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "S&P 500 and Tech Stocks Plunge as AI Skepticism Grows - WSJ",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7",
-      "fonte": "wsj.com",
+      "titulo": "AI tech rout prompts US investors to rush into value stocks",
+      "url": "https://www.reuters.com/business/finance/ai-tech-rout-prompts-us-investors-rush-into-value-stocks-2026-11-20",
+      "fonte": "reuters.com",
       "data": "2026-11-20",
-      "resumo": "U. S.  stocks plunged and an index of mega-cap technology stocks skirted bear-market territory as predictions of a speculative bust in artificial-intelligence stocks appeared to come to fruition.",
-      "sentimento": "bearish",
+      "resumo": "Wall Street fled ​headlong on Friday from the AI boom to the relative safety of bonds and lower-priced shares outside the tech sector..",
+      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -119,26 +49,26 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Global Stocks Fall as Investor Confidence in AI Trade Cracks - WSJ",
-      "url": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5",
-      "fonte": "wsj.com",
-      "data": "2026-11-20",
-      "resumo": "Global stocks sold off and Treasurys strengthened as investor confidence in the artificial-intelligence trade showed signs of cracking. \n\nNasdaq futures dropped 1. 15%, extending sharp falls from the last session.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Emerging-Market Stocks Head for Bear Market on AI-Led Tech Slide - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide",
+      "titulo": "B3 to Add Brazilian Companies Listed Abroad to Ibovespa Index Next Year - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/b3-to-add-brazil-stocks-listed-abroad-to-aid-ailing-local-market",
       "fonte": "bloomberg.com",
-      "data": "2026-11-20",
-      "resumo": "# Emerging Stocks on Cusp of Bear Market as AI-led Rout Extends\n\nEmerging markets extended their declines on Friday, with MSCI’s equity index on the cusp of a bear market amid a continued selloff in global tech shares. \n\nThe equity gauge was down 3% as of 11:20 a. m.",
-      "sentimento": "bearish",
+      "data": "2026-11-17",
+      "resumo": "# B3 to Add Brazil Stocks Listed Abroad to Aid Ailing Local Market\n\n## Takeaways by Bloomberg AISubscribe\n\nBrazil’s exchange operator B3 SA will incorporate shares of Brazilian companies listed abroad to the nation’s benchmark equity index starting next year in a push to boost liquidity after years of de-listings in the local market..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Has the AI Bubble Already Burst? - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8",
+      "fonte": "wsj.com",
+      "data": "2026-11-22",
+      "resumo": "History may not repeat itself exactly, but the AI selloff ravaging the stock market in recent weeks is remarkably like the bursting of the dot-com bubble.  As investors continue to worry about whether there’s a bubble in AI, a valid question to ask is whether there was, and has it already popped. \n\nConsider some of the big technology names from the dot-com era that are still around.",
+      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"

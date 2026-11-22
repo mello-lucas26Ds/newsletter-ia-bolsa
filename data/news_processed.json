@@ -2,10 +2,80 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-22",
-    "total_noticias": 116,
-    "gerado_em": "2026-11-22T10:40:48.918429"
+    "total_noticias": 121,
+    "gerado_em": "2026-11-22T17:38:20.434271"
   },
   "noticias": [
+    {
+      "titulo": "Strong Earnings Prove No Match for the Crumbling AI Trade",
+      "url": "https://uk.finance.yahoo.com/news/strong-earnings-prove-no-match-133000291.html",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-11-22",
+      "resumo": "The strong earnings cycle was not enough to support the stock market as a Democratic sweep of US midterm elections raised the prospect of tighter regulation of data centers, threatening a central pillar of the artificial intelligence boom — not to mention the S&P 500's future profit growth.  The shock ouster of Nvidia Corp.  founder Jensen Huang also rattled nervous investors.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "What a New AI Agent Partnership with Microsoft Means for IBM Stock",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-agent-partnership-microsoft-means-154724648.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-16",
+      "resumo": "Moreover, the announcement comes as IBM continues positioning its consulting, hybrid-cloud, and software businesses around agentic AI.  By combining IBM's enterprise relationships and consulting capabilities with Microsoft's massive cloud and AI ecosystem, the partnership could create additional opportunities for IBM to win AI transformation projects and generate recurring software and services revenue.  Here's what the new IBM-Microsoft AI agent partnership could mean for IBM stock.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI tech rout prompts US investors to rush into value stocks",
+      "url": "https://www.reuters.com/business/finance/ai-tech-rout-prompts-us-investors-rush-into-value-stocks-2026-11-20",
+      "fonte": "reuters.com",
+      "data": "2026-11-20",
+      "resumo": "Wall Street fled ​headlong on Friday from the AI boom to the relative safety of bonds and lower-priced shares outside the tech sector..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "B3 to Add Brazilian Companies Listed Abroad to Ibovespa Index Next Year - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/b3-to-add-brazil-stocks-listed-abroad-to-aid-ailing-local-market",
+      "fonte": "bloomberg.com",
+      "data": "2026-11-17",
+      "resumo": "# B3 to Add Brazil Stocks Listed Abroad to Aid Ailing Local Market\n\n## Takeaways by Bloomberg AISubscribe\n\nBrazil’s exchange operator B3 SA will incorporate shares of Brazilian companies listed abroad to the nation’s benchmark equity index starting next year in a push to boost liquidity after years of de-listings in the local market..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Has the AI Bubble Already Burst? - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8",
+      "fonte": "wsj.com",
+      "data": "2026-11-22",
+      "resumo": "History may not repeat itself exactly, but the AI selloff ravaging the stock market in recent weeks is remarkably like the bursting of the dot-com bubble.  As investors continue to worry about whether there’s a bubble in AI, a valid question to ask is whether there was, and has it already popped. \n\nConsider some of the big technology names from the dot-com era that are still around.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "CrowdStrike-Zscaler Reported Merger Talks Could Spark One of Cybersecurity’s Biggest Deals Ever: ZS Stock - Benzinga",
       "url": "https://www.benzinga.com/m-a/26/11/63514517/crowdstrike-acquire-zscaler-cybersecurity",
