@@ -1,56 +1,4 @@
 {
-  "https://finance.yahoo.com/technology/ai/articles/3-top-ranked-ai-stocks-183900135.html": {
-    "hash": "1a4a0060a67eba0d2dffdd33ad27f7a3",
-    "visto_em": "2026-11-14"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/earnings-week-scorecard-beats-rewarded-203315112.html": {
-    "hash": "edc48647f415421ef4f341409edca8c0",
-    "visto_em": "2026-11-14"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-just-booked-record-nt-153548103.html": {
-    "hash": "627a04a93d6e114c2450f2f1e1a84b7d",
-    "visto_em": "2026-11-14"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-recover-early-194618680.html": {
-    "hash": "387fba7b3de02c78466cfbb952079a6a",
-    "visto_em": "2026-11-14"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-stock-sell-off-positioning-155812283.html": {
-    "hash": "c5642f53af90300ec84e944fb03f7f37",
-    "visto_em": "2026-11-14"
-  },
-  "https://finance.yahoo.com/quote/NTDU.SI": {
-    "hash": "d80626b58ddc6b544e01d4e709a395ce",
-    "visto_em": "2026-11-14"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-digital-140641844.html?fr=sycsrp_catchall": {
-    "hash": "78fe13680e2ff508af76d6d48c300080",
-    "visto_em": "2026-11-14"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/tsmc-just-delivered-ai-growth-172738565.html": {
-    "hash": "87910d7bdbb68298219a3e54d9966954",
-    "visto_em": "2026-11-14"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-just-became-even-134557528.html": {
-    "hash": "31c4a2456f33f770c0b06556f88bf360",
-    "visto_em": "2026-11-14"
-  },
-  "https://finance.yahoo.com/video/ai-theme-intact-market-cycle-171625215.html": {
-    "hash": "a3d11aa60b31e85f402eefd1676affe8",
-    "visto_em": "2026-11-14"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-sk-hynix-samsung-asian-083520835.html": {
-    "hash": "fd78492de7588bbf062baa297d7d3977",
-    "visto_em": "2026-11-14"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dip-nvidia-tumult-103901600.html": {
-    "hash": "c55005f768d51a30f9c87e69acf3c8b4",
-    "visto_em": "2026-11-14"
-  },
-  "https://finance.yahoo.com/technology/articles/arrive-ai-q3-earnings-call-161448837.html": {
-    "hash": "7073a8e37d5d79c1a0ec4a395894a94d",
-    "visto_em": "2026-11-14"
-  },
   "https://www.marketwatch.com/investing/index/ndx": {
     "hash": "e5467df7479ee5f587f63886ae2470e3",
     "visto_em": "2026-11-15"
@@ -514,5 +462,45 @@
   "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8": {
     "hash": "3016663c32830c10a5af75f15927d7ec",
     "visto_em": "2026-11-21"
+  },
+  "https://www.benzinga.com/m-a/26/11/63514517/crowdstrike-acquire-zscaler-cybersecurity": {
+    "hash": "53b319af49e505c28dd1f22c6f5ed3df",
+    "visto_em": "2026-11-22"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/3-best-ai-stocks-buy-140402440.html": {
+    "hash": "f8209766f4cdc87decb994bedecbaa19",
+    "visto_em": "2026-11-22"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/worried-market-crash-ai-stock-184702164.html": {
+    "hash": "48d65896edd02c658b53673d18a65e54",
+    "visto_em": "2026-11-22"
+  },
+  "https://finance.yahoo.com/technology/articles/crowdstrike-zscaler-merger-could-cybersecurity-045948646.html": {
+    "hash": "77389f04e676184659b15e2ed051d79e",
+    "visto_em": "2026-11-22"
+  },
+  "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-ai-bust-continues-despite-anthropic-ipo-5a14e137": {
+    "hash": "ff71930a94b1cc01324ce75f5e98f155",
+    "visto_em": "2026-11-22"
+  },
+  "https://finance.yahoo.com/quote/EQIX": {
+    "hash": "fcbd987feb3ba396252f4385cf41d3af",
+    "visto_em": "2026-11-22"
+  },
+  "https://www.marketwatch.com/investing/fund/dtcr": {
+    "hash": "735f06682479cfecfcb1de6c04c5921e",
+    "visto_em": "2026-11-22"
+  },
+  "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7": {
+    "hash": "84f4379e44cd8548fc53526e42829fa6",
+    "visto_em": "2026-11-22"
+  },
+  "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5": {
+    "hash": "41fe7371935fadf557298462ace21225",
+    "visto_em": "2026-11-22"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide": {
+    "hash": "4f8efc1005b30fd3816f81cb3ad89cf1",
+    "visto_em": "2026-11-22"
   }
 }
