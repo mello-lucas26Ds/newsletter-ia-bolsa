@@ -1,28 +1,4 @@
 {
-  "https://www.marketwatch.com/investing/index/ndx": {
-    "hash": "e5467df7479ee5f587f63886ae2470e3",
-    "visto_em": "2026-11-15"
-  },
-  "https://seekingalpha.com/symbol/COMP:IND": {
-    "hash": "de7c8ec3299285bd7fa77b8af645643e",
-    "visto_em": "2026-11-15"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/undervalued-ai-stocks-watch-nvidia-205103391.html": {
-    "hash": "f5cfe3b7be2cef63ac4f2987adc6cde8",
-    "visto_em": "2026-11-15"
-  },
-  "https://finance.yahoo.com/markets/article/nvidia-stock-rebounds-chip-stocks-surge-as-coreweave-earnings-boost-ai-trade-151001136.html": {
-    "hash": "a9c8ee736724dcafc48d4b43ef5fa08f",
-    "visto_em": "2026-11-15"
-  },
-  "https://uk.finance.yahoo.com/news/technology-stocks-remain-central-p-111400807.html": {
-    "hash": "6f69ec5271e615cddc4dc4479219d99c",
-    "visto_em": "2026-11-15"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-stock-declines-leave-technology-111500146.html": {
-    "hash": "ed35906ec5450ae2a41a5bb96f259f1e",
-    "visto_em": "2026-11-15"
-  },
   "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1": {
     "hash": "a1b9cc5b0a1962d32bbc3f0c79924aee",
     "visto_em": "2026-11-16"
@@ -522,5 +498,45 @@
   "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8": {
     "hash": "c49b0b9aafe524fb5d99a0313a04602e",
     "visto_em": "2026-11-22"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade": {
+    "hash": "92568834466ee3490caa319cd0032903",
+    "visto_em": "2026-11-23"
+  },
+  "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart": {
+    "hash": "bd24784f5660f4aca7e4ce60b9de1506",
+    "visto_em": "2026-11-23"
+  },
+  "https://www.forbes.com/sites/jimosman/2026/11/22/nvidia-stock-has-a-cockroach-problem-what-comes-next-could-be-worse/": {
+    "hash": "a374f14138c1feefa62b202bade8efc3",
+    "visto_em": "2026-11-23"
+  },
+  "https://www.cnbc.com/video/2026/11/23/ai-panic-selling-is-a-buying-opportunity-main-street-research.html": {
+    "hash": "45815c34086912121912a805ee16873d",
+    "visto_em": "2026-11-23"
+  },
+  "https://www.businessinsider.com/us-stock-futures-kospi-tsmc-nvidia-ai-selloff-2026-11-2026-11": {
+    "hash": "1fac99536f7cd65c89b38d933af0a6b4",
+    "visto_em": "2026-11-23"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout": {
+    "hash": "04a649e4c5ee9a2beef1d8b3defc4e99",
+    "visto_em": "2026-11-23"
+  },
+  "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1": {
+    "hash": "a1a878e2019fbe582a9666983fb4901e",
+    "visto_em": "2026-11-23"
+  },
+  "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html": {
+    "hash": "5731c60677a2c73f1857a2a2ad234bbd",
+    "visto_em": "2026-11-23"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters": {
+    "hash": "7bb24d9dd532749fe5e8c97ef53d9b4b",
+    "visto_em": "2026-11-23"
+  },
+  "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html": {
+    "hash": "cf235989d7084c007434c30f846954e4",
+    "visto_em": "2026-11-23"
   }
 }

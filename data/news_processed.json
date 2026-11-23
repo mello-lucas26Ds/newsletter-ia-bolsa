@@ -1,11 +1,151 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-11-22",
-    "total_noticias": 121,
-    "gerado_em": "2026-11-22T17:38:20.434271"
+    "data": "2026-11-23",
+    "total_noticias": 126,
+    "gerado_em": "2026-11-23T11:44:32.313887"
   },
   "noticias": [
+    {
+      "titulo": "Strong Earnings Prove No Match for the Crumbling AI Trade - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade",
+      "fonte": "bloomberg.com",
+      "data": "2026-11-22",
+      "resumo": "# Strong Earnings Prove No Match for the Crumbling AI Trade\n\n## Takeaways by Bloomberg AI\n\nFor years, a strong earnings season has given Wall Street something to fall back on.  But the crumbling artificial-intelligence trade has ripped away that support. \n\nCompanies in the S&P 500 Index just delivered a second-consecutive quarter of profit growth in excess of 30%, defying fears rising costs would slow earnings.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT - Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart",
+      "fonte": "seekingalpha.com",
+      "data": "2026-11-21",
+      "resumo": "Entering text into the input field will update the search result below\n\nHome page Seeking Alpha - Power to Investors\n\nSearch for Symbols, analysts, keywords\n\n M&A\n\n# Amazon nearing $7. 5B deal to buy AI start-up Decart: FT\n\nAmazon. com, Inc.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia Stock Has A Cockroach Problem. What Comes Next Could Be Worse - Forbes",
+      "url": "https://www.forbes.com/sites/jimosman/2026/11/22/nvidia-stock-has-a-cockroach-problem-what-comes-next-could-be-worse/",
+      "fonte": "forbes.com",
+      "data": "2026-11-22",
+      "resumo": "I can understand why investors are beginning to ask whether the shares are now a bargain.  Nvidia’s latest earnings are exceptional, the stock has fallen dramatically, and demand for advanced AI computing hasn’t disappeared.  But I’ve been doing this work long enough to know that a lower share price doesn’t tell you whether the earnings estimates are right.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "AI panic selling is a buying opportunity: Main Street Research - CNBC",
+      "url": "https://www.cnbc.com/video/2026/11/23/ai-panic-selling-is-a-buying-opportunity-main-street-research.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-23",
+      "resumo": "AI panic selling is a buying opportunity: Main Street Research\n\nMain Street Research’s CIO James Demmert says last week’s AI selloff was panic in a normal tech-cycle correction, with the AI cycle only about halfway through.  He says the odds of a global recession are extremely low and expects the Fed to back down to a 25 basis point hike.  He believes the market will start to discount the bad news, with cheap valuations and strong earnings.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "US stock futures rebound as Asian stocks tumble. Wall Street sees more trouble ahead for the AI trade. - Business Insider",
+      "url": "https://www.businessinsider.com/us-stock-futures-kospi-tsmc-nvidia-ai-selloff-2026-11-2026-11",
+      "fonte": "businessinsider.com",
+      "data": "2026-11-23",
+      "resumo": "Japan's markets were closed for a holiday. \n\nThe contrasting moves followed a punishing week for US technology stocks.  The Nasdaq lost about 10%, its worst weekly performance since March 2020, as investors questioned whether the enormous sums being poured into AI could generate the profits needed to justify them.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+      "fonte": "bloomberg.com",
+      "data": "2026-11-21",
+      "resumo": "# Wall Street Asks What Can Save AI Trade After Anthropic Wipeout\n\n## Takeaways by Bloomberg AI\n\nIt’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp.  and the Democrats’ decisive victory in the midterm elections. \n\nAnthropic PBC’s record-breaking initial public offering this week was supposed to provide some relief and change the mood.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Amazon closes in on $7.5bn deal to buy AI start-up Decart - Financial Times",
+      "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+      "fonte": "ft.com",
+      "data": "2026-11-21",
+      "resumo": "# Amazon closes in on $7. 5bn deal to buy AI start-up Decart\n\n## To read this article for free\n\nRegister now\n\nOnce registered, you can: • Read free articles • Get our Editor's Digest and other newsletters • Follow topics and set up personalised alerts • Access Alphaville: our popular markets and finance blog\n\n## Explore more offers. \n\n### Trial\n\nThen CA$99 per month.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff - CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-23",
+      "resumo": "In this article\n\nAnthropic and Nvidia shares rose in premarket trading Monday after AI stocks fell in Wall Street's worst week since 2020. \n\nThe AI lab was up 3. 58% at 4:08 am ET, ahead of its third day of trading following its IPO on Thursday.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters",
+      "fonte": "bloomberg.com",
+      "data": "2026-11-22",
+      "resumo": "# Investors Brave Stock Market ‘Fragility’ as AI Trade Falters\n\n## Takeaways by Bloomberg AI\n\nThe stomach-churning selloff that rocked equities has options traders girding for more volatility ahead. \n\nStocks have been increasingly turbulent in recent weeks, roiled by concerns ranging from higher interest rates to a Democratic sweep in US midterm elections that may change the regulatory landscape for artificial intelligence-focused firms.  To derivatives strategists, the pattern pointed to an increase in so-called fragility — a condition where long periods of calm are broken up by oversized market swings.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 - CNBC",
+      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-21",
+      "resumo": "## When going public was 'not worth it'\n\nMeanwhile, the private market has continued to balloon, with companies raising ever-larger sums at sky-high valuations without the pressures of quarterly earnings.  Many startups that had hoped to go public early in the decade fell out of favor in the AI boom.  They experienced hefty job cuts, down rounds and acquisitions for pennies on the dollar.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Strong Earnings Prove No Match for the Crumbling AI Trade",
       "url": "https://uk.finance.yahoo.com/news/strong-earnings-prove-no-match-133000291.html",
@@ -945,20 +1085,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Why Equinix and Digital Realty Benefit From Data Center Zoning Battles",
-      "url": "https://finance.yahoo.com/technology/articles/why-equinix-digital-realty-benefit-130000160.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-15",
-      "resumo": "Understanding the infrastructure dynamic requires looking at the primary customers.  Major cloud providers continue to allocate capital toward network expansion.  Combined capital expenditures across the top three hyperscalers are expected to approach $600 billion in 2026, supported by a collective backlog nearing $1.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion - WSJ",
       "url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611",
       "fonte": "wsj.com",
@@ -1631,67 +1757,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Capital Economics Warns AI Stock Decline Could Deepen as Earnings Forecasts Remain Elevated",
-      "url": "https://finance.yahoo.com/technology/ai/articles/capital-economics-warns-ai-stock-162500340.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-15",
-      "resumo": "\"The AI correction in equities could have much further to run,\" Capital Economics wrote. \n\nThe firm suggested that earnings estimates may eventually face downward revisions if investor sentiment continues to deteriorate or major technology companies begin reducing their planned expenditure on AI infrastructure. \n\n## Technology Earnings Forecasts Continue to Rise\n\nCapital Economics noted that analysts have continued raising profit expectations for companies benefiting from artificial intelligence investment, despite the recent weakness in their share prices.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia Rival’s CEO on TSMC: “I Would Buy That Stock Every Day of the Week”",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-rival-ceo-tsmc-buy-175956534.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-15",
-      "resumo": "## Key Takeaways\n\n Fractile CEO Walter Goodwin, who is building chips to compete with Nvidia, called TSMC \"cheap at the price. \"\n Nvidia's challengers need the same TSMC capacity, so TSMC benefits whichever of them gains share. \n TSMC trades at 16.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Microsoft (MSFT) Strikes AI Deal That Broadens Its Chip Supplier Base",
       "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-strikes-ai-deal-061353570.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-16",
       "resumo": "MSFT\n\n  +0. 17%\n CBRS\n\n  +7. 59%\n NVDA\n\n  -2.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Technology Stocks Remain Central to S&P 500 Performance Despite AI-Related Sell-Off",
-      "url": "https://uk.finance.yahoo.com/news/technology-stocks-remain-central-p-111400807.html",
-      "fonte": "uk.finance.yahoo.com",
-      "data": "2026-11-15",
-      "resumo": "Sandisk (NASDAQ:SNDK) remained approximately 250% higher for the year, while Dell Technologies (NYSE:DELL) had gained around 160%. \n\nMicron Technology (NASDAQ:MU) was up approximately 140% year to date. \n\nThe figures indicate that recent selling has followed a period of considerable appreciation in several AI-related equities.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Stock Declines Leave Technology Sector as Key Driver of US Equity Market",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-declines-leave-technology-111500146.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-15",
-      "resumo": "However, uncertainty about AI infrastructure spending and corporate earnings remains an important consideration. \n\n## Technology Performance Continues to Shape Market Outlook\n\nDespite recent selling, technology remains the largest component of the S&P 500 and continues to exert considerable influence on the US stock market. \n\nThe sector's substantial gains since October 2022 mean that some investors still hold positions with significant accumulated profits.",
       "sentimento": "bullish",
       "tags": [
         "AI",
