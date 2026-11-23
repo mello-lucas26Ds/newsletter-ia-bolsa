@@ -1,187 +1,159 @@
 # Newsletter IA Bolsa — 2026-11-23
 
-**Gerado em:** 23/11/2026 11:44
+**Gerado em:** 23/11/2026 21:54
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Strong Earnings Prove No Match for the Crumbling AI Trade - Bloomberg.com
+## 1. 3 AI Infrastructure REITs Retail Investors Are Watching After The Market Selloff
 
-**Fonte:** bloomberg.com  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The three stocks highlighted below are just a sample from this theme, and the full screen surfaced 16 more listed data center and AI infrastructure REITs with similarly interesting stories that are not covered here.  To identify your own high conviction ideas, head straight into the Global Data Center and AI Infrastructure REITs screener to filter and analyze this wider group. 
+
+## Equinix (EQIX)
+
+Overview: Equinix runs large colocation data centers and dense interconnection hubs that host cloud, AI and enterprise workloads across a global footprint.
+
+[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/3-ai-infrastructure-reits-retail-141117869.html)
+
+---
+
+## 2. Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips | TechCrunch
+
+**Fonte:** techcrunch.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-# Strong Earnings Prove No Match for the Crumbling AI Trade
+Amazon has agreed to acquire a good chunk of Israeli startup Decart. 
 
-## Takeaways by Bloomberg AI
+The e-commerce and cloud giant is paying $7. 5 billion for the startup, according to Bloomberg.
 
-For years, a strong earnings season has given Wall Street something to fall back on.  But the crumbling artificial-intelligence trade has ripped away that support. 
-
-Companies in the S&P 500 Index just delivered a second-consecutive quarter of profit growth in excess of 30%, defying fears rising costs would slow earnings.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade)
+[Ler noticia completa](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips)
 
 ---
 
-## 2. Amazon nearing $7.5B deal to buy AI start-up Decart: FT - Seeking Alpha
-
-**Fonte:** seekingalpha.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Entering text into the input field will update the search result below
-
-Home page Seeking Alpha - Power to Investors
-
-Search for Symbols, analysts, keywords
-
- M&A
-
-# Amazon nearing $7. 5B deal to buy AI start-up Decart: FT
-
-Amazon. com, Inc.
-
-[Ler noticia completa](https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart)
-
----
-
-## 3. Nvidia Stock Has A Cockroach Problem. What Comes Next Could Be Worse - Forbes
+## 3. How AI Could Change What Consumer Companies Are Worth
 
 **Fonte:** forbes.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-I can understand why investors are beginning to ask whether the shares are now a bargain.  Nvidia’s latest earnings are exceptional, the stock has fallen dramatically, and demand for advanced AI computing hasn’t disappeared.  But I’ve been doing this work long enough to know that a lower share price doesn’t tell you whether the earnings estimates are right.
+The public disclosures do not establish that Wacoal paid more because of AI, or even that AI specifically motivated the acquisition.  But they establish the strategic principle: the skills and systems that make one business effective can be attractive because they may improve a larger business after a combination.  As AI becomes more deeply embedded in consumer companies, that potential may become a more important consideration in acquisitions.
 
-[Ler noticia completa](https://www.forbes.com/sites/jimosman/2026/11/22/nvidia-stock-has-a-cockroach-problem-what-comes-next-could-be-worse/)
+[Ler noticia completa](https://www.forbes.com/sites/richardkestenbaum/2026/11/23/how-ai-could-change-what-consumer-companies-are-worth)
 
 ---
 
-## 4. AI panic selling is a buying opportunity: Main Street Research - CNBC
+## 4. HPE set to report earnings as AI networking drives growth By Investing.com
 
-**Fonte:** cnbc.com  
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Hewlett Packard Enterprise Co.  is set to report fiscal fourth-quarter earnings Monday after market close, with investors scrutinizing whether surging AI networking demand can justify the stock’s remarkable rally and support margins amid mounting valuation concerns. 
+
+Analysts expect earnings of $1.
+
+[Ler noticia completa](https://www.investing.com/news/earnings/hpe-set-to-report-earnings-as-ai-networking-drives-growth-93CH-5045927)
+
+---
+
+## 5. Taiwan Semiconductor Stocks Jump 13.84% as Nvidia CEO Return Revives AI Foundry Bets
+
+**Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-AI panic selling is a buying opportunity: Main Street Research
+TSM GF Value chart
 
-Main Street Research’s CIO James Demmert says last week’s AI selloff was panic in a normal tech-cycle correction, with the AI cycle only about halfway through.  He says the odds of a global recession are extremely low and expects the Fed to back down to a 25 basis point hike.  He believes the market will start to discount the bad news, with cheap valuations and strong earnings.
+The numbers say demand kept running.  TSMC's monthly revenue table shows October net revenue of NT$586. 89 billion, up 59.
 
-[Ler noticia completa](https://www.cnbc.com/video/2026/11/23/ai-panic-selling-is-a-buying-opportunity-main-street-research.html)
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-stocks-jump-13-165920257.html)
 
 ---
 
-## 5. US stock futures rebound as Asian stocks tumble. Wall Street sees more trouble ahead for the AI trade. - Business Insider
+## 6. Wall Street Futures Rebound Sharply After AI Sell-Off Pushes Major US Indices Into Correction
 
-**Fonte:** businessinsider.com  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The weekly declines ranked among the largest recorded by the indices in several years. 
+
+The Nasdaq also moved into negative territory for 2026, reversing its earlier gains as investors reduced their exposure to technology companies. 
+
+Market volatility increased significantly during the sell-off, with Wall Street's widely followed fear gauge finishing the week at its highest level since the turbulence caused by extensive US tariff announcements in April 2025.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-rebound-sharply-111000961.html)
+
+---
+
+## 7. Pony Ai (PONY) Earnings Date & Report - Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+| Name | Last | Upside | Fair Value |
+ ---  --- |
+| Aa A Aaaaaaaaaaaa | 24. 74 | +80. 67% | 44.
+
+[Ler noticia completa](https://www.investing.com/equities/pony-ai-inc-earnings)
+
+---
+
+## 8. NVIDIA Jumps 28% as Jensen Huang Reportedly Reinstated as CEO; Intel Rallies 13%, AMD Gains 7%
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Chip stocks are bouncing back from last week's AI-driven sell-off, and NVIDIA (NASDAQ:NVDA) is leading the group higher.  NVIDIA stock is at $161. 05, up 28% in morning trading.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nvidia-jumps-28-chip-stocks-141339800.html)
+
+---
+
+## 9. B3 Hoje: Mercado de Ações do Brasil - Investing.com
+
+**Fonte:** br.investing.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Japan's markets were closed for a holiday. 
+Ações da Baird Medical Investment caem 5% — entenda o motivo
 
-The contrasting moves followed a punishing week for US technology stocks.  The Nasdaq lost about 10%, its worst weekly performance since March 2020, as investors questioned whether the enormous sums being poured into AI could generate the profits needed to justify them.
+- PorInvesting. com•
 
-[Ler noticia completa](https://www.businessinsider.com/us-stock-futures-kospi-tsmc-nvidia-ai-selloff-2026-11-2026-11)
+Confira as cotações das ações negociadas na B3 hoje.  Clique nas ações individualmente e fique atualizado com os dados de agora das empresas listadas na B3, a bolsa de valores brasileira.
+
+[Ler noticia completa](https://br.investing.com/equities/brazil)
 
 ---
 
-## 6. Wall Street Asks What Can Save AI Trade After Anthropic Wipeout - Bloomberg.com
+## 10. How Artificial Intelligence Is Making It Harder To Stop Cyberattacks
 
-**Fonte:** bloomberg.com  
+**Fonte:** forbes.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-# Wall Street Asks What Can Save AI Trade After Anthropic Wipeout
+## The Need for Greater Protection
 
-## Takeaways by Bloomberg AI
+Noting that AI is now bound up inextricably with cyberattack capabilities, the GAO recommended that the U. S.  government create stronger guardrails to protect the public and government systems from cyberattacks powered by artificial intelligence.
 
-It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp.  and the Democrats’ decisive victory in the midterm elections. 
-
-Anthropic PBC’s record-breaking initial public offering this week was supposed to provide some relief and change the mood.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout)
-
----
-
-## 7. Amazon closes in on $7.5bn deal to buy AI start-up Decart - Financial Times
-
-**Fonte:** ft.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-# Amazon closes in on $7. 5bn deal to buy AI start-up Decart
-
-## To read this article for free
-
-Register now
-
-Once registered, you can: • Read free articles • Get our Editor's Digest and other newsletters • Follow topics and set up personalised alerts • Access Alphaville: our popular markets and finance blog
-
-## Explore more offers. 
-
-### Trial
-
-Then CA$99 per month.
-
-[Ler noticia completa](https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1)
-
----
-
-## 8. Anthropic, Nvidia shares rise in premarket trading after major tech selloff - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-In this article
-
-Anthropic and Nvidia shares rose in premarket trading Monday after AI stocks fell in Wall Street's worst week since 2020. 
-
-The AI lab was up 3. 58% at 4:08 am ET, ahead of its third day of trading following its IPO on Thursday.
-
-[Ler noticia completa](https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html)
-
----
-
-## 9. Investors Brave Stock Market ‘Fragility’ as AI Trade Falters - Bloomberg.com
-
-**Fonte:** bloomberg.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-# Investors Brave Stock Market ‘Fragility’ as AI Trade Falters
-
-## Takeaways by Bloomberg AI
-
-The stomach-churning selloff that rocked equities has options traders girding for more volatility ahead. 
-
-Stocks have been increasingly turbulent in recent weeks, roiled by concerns ranging from higher interest rates to a Democratic sweep in US midterm elections that may change the regulatory landscape for artificial intelligence-focused firms.  To derivatives strategists, the pattern pointed to an increase in so-called fragility — a condition where long periods of calm are broken up by oversized market swings.
-
-[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-11-22/investors-brave-stock-market-fragility-as-ai-trade-falters)
-
----
-
-## 10. Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 - CNBC
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## When going public was 'not worth it'
-
-Meanwhile, the private market has continued to balloon, with companies raising ever-larger sums at sky-high valuations without the pressures of quarterly earnings.  Many startups that had hoped to go public early in the decade fell out of favor in the AI boom.  They experienced hefty job cuts, down rounds and acquisitions for pennies on the dollar.
-
-[Ler noticia completa](https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html)
+[Ler noticia completa](https://www.forbes.com/sites/zitaballingerfletcher/2026/11/22/how-artificial-intelligence-is-making-it-harder-to-stop-cyberattacks)
 
 ---
