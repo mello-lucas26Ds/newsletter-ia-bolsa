@@ -1,11 +1,123 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-11-23",
-    "total_noticias": 136,
-    "gerado_em": "2026-11-23T21:54:45.605840"
+    "data": "2026-11-24",
+    "total_noticias": 112,
+    "gerado_em": "2026-11-24T13:14:44.659294"
   },
   "noticias": [
+    {
+      "titulo": "The Latest Alternative Investment? Data Centers",
+      "url": "https://finance.yahoo.com/real-estate/articles/latest-alternative-investment-data-centers-130000366.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-20",
+      "resumo": "## REIT the Room\n\nOne way investors can get access to data centers is through REITs.  Blackstone's REIT (BREIT), for example, invests nearly a third of its assets in data centers.  The firm also announced Monday that its digital infrastructure trust has agreed to acquire a majority stake in two Amazon data center campuses in a deal valued at $5 billion.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Amazon to buy Decart's AI chip optimization tech in latest ...",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-buy-decarts-ai-chip-optimization-tech-latest-ai-talent-grab-2026-11-23",
+      "fonte": "reuters.com",
+      "data": "2026-11-23",
+      "resumo": "Amazon said on Monday it will buy AI startup Decart's technology and bring its founders and other staff ​on board, marking the latest Big Tech deal to.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq's Worst Week Since 2020: 5 AI Tech Stocks to Buy on the Dip",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaqs-worst-week-since-2020-121800378.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-23",
+      "resumo": "The Nasdaq just logged its worst weekly decline since 2020, falling roughly 10% last week as doubts over artificial intelligence (AI) profitability set off a broad tech rout.  Anthropic's record IPO gave back much of its opening pop, and NVIDIA slid more than 20% last week amid an SEC probe and CEO Jensen Huang's resignation. \n\nThe selling spread into AI infrastructure plays, including power, networking, optical and data-center names, where pullbacks may reflect sentiment rather than weakening demand.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Fell 7.7% in Two Days. Joseph Carlson Thinks Its Business Is More Durable Than Nvidia’s",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-fell-7-7-two-150225652.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-17",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nTrending \n\n Nvidia national security\n Home Depot earnings\n Stock market today\n Nvidia live updates\n\nBenzinga Prediction Markets\n\n# TSMC Fell 7.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia soars 30% as board reinstates Jensen Huang as CEO, chip stocks jump",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-and-amd-roar-higher-as-chips-rebound-from-worst-week-since-2001-133109931.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-23",
+      "resumo": "Arm Holdings (ARM) rose in premarket trading after the chip designer said CEO Rene Haas renewed his contract to stay at the company through 2033.  Haas was among the names reportedly considered by Nvidia as a potential successor to Huang following his resignation earlier this month. \n\nMemory chipmaker Micron Technology (MU) and peer SK Hynix (SKHY) also jumped 5% and 9%, respectively, in premarket trading.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall Street Surges Toward M&A Record as Megadeals Defy Selloff",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-surges-toward-m-121256839.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-23",
+      "resumo": "(Bloomberg) -- Wall Street is taking a big step toward a record year for mergers and acquisitions as some of the world's largest companies defy a tech-induced selloff in global stocks to pursue major takeovers. \n\nMost Read from Bloomberg\n\nCrowdStrike Holdings Inc.  (CRWD) on Monday confirmed Bloomberg News reporting that it will acquire cybersecurity provider Zscaler Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "CrowdStrike creates gaping M&A vulnerability | Reuters",
+      "url": "https://www.reuters.com/commentary/breakingviews/crowdstrike-creates-gaping-ma-vulnerability-2026-11-23",
+      "fonte": "reuters.com",
+      "data": "2026-11-23",
+      "resumo": "CrowdStrike said ​on November 23 ⁠that it would buy rival Zscaler in an all-stock deal valued at $43. 9 billion..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Doubling Down On Data Centers | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970901-doubling-down-on-data-centers",
+      "fonte": "seekingalpha.com",
+      "data": "2026-11-22",
+      "resumo": "Seeking Alpha's Disclosure: Past performance is no guarantee of future results.  No recommendation or advice is being given as to whether any investment is suitable for a particular investor.  Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "3 AI Infrastructure REITs Retail Investors Are Watching After The Market Selloff",
       "url": "https://finance.yahoo.com/real-estate/articles/3-ai-infrastructure-reits-retail-141117869.html",
@@ -293,20 +405,6 @@
       "data": "2026-11-22",
       "resumo": "The strong earnings cycle was not enough to support the stock market as a Democratic sweep of US midterm elections raised the prospect of tighter regulation of data centers, threatening a central pillar of the artificial intelligence boom — not to mention the S&P 500's future profit growth.  The shock ouster of Nvidia Corp.  founder Jensen Huang also rattled nervous investors.",
       "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "What a New AI Agent Partnership with Microsoft Means for IBM Stock",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-agent-partnership-microsoft-means-154724648.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "Moreover, the announcement comes as IBM continues positioning its consulting, hybrid-cloud, and software businesses around agentic AI.  By combining IBM's enterprise relationships and consulting capabilities with Microsoft's massive cloud and AI ecosystem, the partnership could create additional opportunities for IBM to win AI transformation projects and generate recurring software and services revenue.  Here's what the new IBM-Microsoft AI agent partnership could mean for IBM stock.",
-      "sentimento": "bullish",
       "tags": [
         "AI",
         "Market"
@@ -763,20 +861,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Worldwide NFT, Inc. Acquires Artificial Intelligence Platform from Discourse Analytics, Inc. to Expand Software Capabilities | Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/worldwide-nft-inc-acquires-artificial-intelligence-platform-from-discourse-analytics-inc-to-expand-software-capabilities-1036768812",
-      "fonte": "markets.businessinsider.com",
-      "data": "2026-11-16",
-      "resumo": "\"I am very excited by the combination of the CNN which DA created with commercial LLMs into a very powerful analytics engine which we now have acquired,” said Jay Wright, Chairman and CEO of WNFT.  “Having AI functionality is a necessity in this day and age and this acquisition gives us a leading-edge capability which we believe will help drive future growth for WNFT. ”\n\n\"We completed this transaction as an all-stock transaction, allowing WNFT to acquire the technology while preserving financial flexibility for our acquisition pipeline,\" said Finn Dunne, Vice President of Mergers and Acquisitions at WNFT.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Jensen Huang Stepped Away From Nvidia. The Stock Has Crashed. Instead of Rushing to Buy the Dip, Here Are 2 AI Stocks Down More Than 15% to Buy Instead.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-stepped-away-nvidia-152702121.html",
       "fonte": "finance.yahoo.com",
@@ -805,40 +889,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Blackstone REIT to Buy Amazon Data Centers in $5 Billion Deal",
-      "url": "https://finance.yahoo.com/real-estate/articles/blackstone-reit-buy-amazon-data-115357460.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "The real estate investment trust encapsulates Blackstone's ambition to become one of the largest backers of artificial intelligence infrastructure and its push to reach more individual investors.  The nearly $1. 4 trillion alternative asset manager has amassed a $200 billion data center portfolio that includes QTS Realty Trust, a leading builder and operator of such facilities.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Does the Nestle AI Deal Matter for Microsoft Shareholders?",
       "url": "https://finance.yahoo.com/technology/ai/articles/does-nestle-ai-deal-matter-120730174.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-20",
       "resumo": "Nestle has signed AI partnership deals with Microsoft (NASDAQ:MSFT) and Boston Dynamics, according to a Wall Street Journal exclusive published November 20, 2026.  The work centers on Nestle's new Deep Tech Center in Orbe, Switzerland, where the company plans to use AI, smart sensors, and robotics to improve efficiency in its operations.  The reporting disclosed no deal value, no contract length, and no specific Microsoft products.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Worldwide NFT acquires AI technology for 4M shares",
-      "url": "https://www.investing.com/news/company-news/worldwide-nft-acquires-ai-technology-for-4m-shares-93CH-5029906",
-      "fonte": "investing.com",
-      "data": "2026-11-16",
-      "resumo": "© Reuters\n\nIn this article:\n\nWNFT-0. 45%\n\nMCLEAN, Va.  - Worldwide NFT, Inc.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -931,20 +987,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Wall Street's AI Rally Faces New Test as Tech Stocks Tumble Ahead of Nvidia's Earnings Report",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-streets-ai-rally-faces-214232715.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "U. S.  stocks fell sharply Monday as investors sold technology shares ahead of Nvidia's earnings report, extending a retreat that has raised fresh questions about the durability of the artificial intelligence rally.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "RAIN & Tensor Merger Positions Dual-Tech Growth Platform – Quarterly Update Report",
       "url": "https://finance.yahoo.com/technology/ai/articles/rain-tensor-merger-positions-dual-165045404.html",
       "fonte": "finance.yahoo.com",
@@ -978,20 +1020,6 @@
       "fonte": "finance.yahoo.com",
       "data": "2026-11-17",
       "resumo": "Amazon (AMZN:NASDAQ) has a new way to fund its data center build-out: sell a stake in finished buildings, then rent them back.  The price matters more for Digital Realty (DLR:NYSE) and Equinix (EQIX:NASDAQ), the two biggest listed data center landlords, which trade at far richer valuations. \n\nOn Nov.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AMD Completes Acquisition of World Labs | Markets Insider",
-      "url": "https://markets.businessinsider.com/news/stocks/amd-completes-acquisition-of-world-labs-1036768971",
-      "fonte": "markets.businessinsider.com",
-      "data": "2026-11-16",
-      "resumo": "News Highlights \n\nSANTA CLARA, Calif. , Nov.  16, 2026 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) today announced the completion of its acquisition of World Labs, expanding its capabilities across the AI stack with a world-class model team.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1449,54 +1477,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Blackstone REIT to Buy Amazon Data Centers in $5 Billion Deal - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/blackstone-reit-to-buy-amazon-data-centers-in-5-billion-deal",
-      "fonte": "bloomberg.com",
-      "data": "2026-11-16",
-      "resumo": "EXCLUSIVE\n\n# Blackstone REIT Buys Amazon Data Centers in $5 Billion Deal\n\n## Takeaways by Bloomberg AI\n\nBlackstone Inc. ’s newly listed data center acquisition vehicle has acquired a majority interest in two joint ventures with Amazon Web Services in a transaction valued at roughly $5 billion. \n\nIn its first-ever investment, Blackstone Digital Infrastructure Trust Inc.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nvidia beats third-quarter estimates as revenue more than doubles",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-beats-third-quarter-estimates-214100573.html?fr=sycsrp_catchall",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-17",
       "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nTrending \n\n Nvidia beats on earnings\n Huang eyes comeback\n Stock market today\n Tech outages\n\nProactive\n\n# Nvidia beats third-quarter estimates as revenue more than doubles\n\nProactive\n\n2 min read\n\n NVDA +4.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Jim Cramer's top 10 things to watch in the stock market Monday - CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-16",
-      "resumo": "AI.  The Wall Street Journal says those days \"are numbered. \" 3.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Blackstone Digital Infrastructure Trust to Acquire Data Center Portfolio from Amazon for $5 Billion - WSJ",
-      "url": "https://www.wsj.com/business/deals/blackstone-digital-infrastructure-trust-to-acquire-data-center-portfolio-from-amazon-for-5-billion-87e53519",
-      "fonte": "wsj.com",
-      "data": "2026-11-16",
-      "resumo": "ET\n\nBlackstone Digital Infrastructure Trust BXDC 0. 85%increase; up pointing triangle agreed to acquire a majority stake in a data center portfolio from Amazon. com AMZN -0.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -1519,39 +1505,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Big Tech's feeder firms - Business Insider",
-      "url": "https://www.businessinsider.com/google-nvidia-draw-big-law-talent-as-ai-jobs-surge-2026-10",
-      "fonte": "businessinsider.com",
-      "data": "2026-11-16",
-      "resumo": "Law firms are sitting on a gold mine of information: decades of contracts, deal terms, trial strategies, and client tastes.  But much of it is buried in documents, making it hard to learn from past work. \n\nSome firms are spending heavily to build or customize their own AI models around their data.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nvidia Just Reported $115.8 Billion. Now Comes A Bigger Test",
       "url": "https://www.forbes.com/sites/sanjitsinghdang/2026/11/17/nvidia-earnings-115-billion-revenue-ai-strategy",
       "fonte": "forbes.com",
       "data": "2026-11-18",
       "resumo": "Nvidia reported $115. 8 billion in quarterly revenue.  Now investors are watching how new CEO Colette Kress handles AI infrastructure spending and financing.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO - CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-16",
-      "resumo": "Altimeter Capital plans to invest $5 billion in the Anthropic IPO, Brad Gerstner told CNBC's \"Halftime Report\" on Monday. \n\n\"I think this is a cornerstone compounder for a long time,\" Gerstner said, noting that his investment would be five times the amount he's ever put into an IPO.  \"It's where the trade is going.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -1575,152 +1533,12 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Blackstone Digital Infrastructure Expands Data Center Portfolio Through $5 Billion AWS Deal - Blackstone…",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63312359/blackstone-digital-infrastructure-expands-data-center-portfolio-through-5-billion-aws-deal",
-      "fonte": "benzinga.com",
-      "data": "2026-11-16",
-      "resumo": "Blackstone Digital Infrastructure Trust Inc.  is a newly formed real estate investment trust (REIT) focused on acquiring and owning newly constructed, income-generating, stabilized data center properties in the U. S.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Blackstone Digital Infrastructure Trust Stock Jumps on Data-Center Deal With Amazon",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026/card/blackstone-digital-infrastructure-trust-stock-jumps-on-data-center-deal-with-amazon-a1coCzXlvk4k8ZlfBRbq",
-      "fonte": "wsj.com",
-      "data": "2026-11-16",
-      "resumo": "17 hours ago\n\n# Blackstone Digital Infrastructure Trust Stock Jumps on Data-Center Deal With Amazon\n\nShares in Blackstone Digital Infrastructure Trust jumped 9% premarket after it agreed to buy a majority stake in a data-center portfolio from Amazon. com. \n\nUnder the deal, the data-center focused REIT would acquire a 75% interest in two joint ventures with Amazon Web Services, which would retain a 25% stake.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Blackstone data center REIT Nov 2026 slides: $5B Amazon deal, $2T market",
-      "url": "https://www.investing.com/news/company-news/blackstone-data-center-reit-nov-2026-slides-5b-amazon-deal-2t-market-93CH-5030320",
-      "fonte": "investing.com",
-      "data": "2026-11-16",
-      "resumo": "BX-2. 21%\n\nBXDC+8. 00%\n\n## Introduction & Market Context\n\nBlackstone Digital Infrastructure Trust Inc.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Blackstone’s BXDC Buys 75% of Amazon Data Centers",
-      "url": "https://finance.yahoo.com/real-estate/articles/blackstone-bxdc-buys-75-amazon-174039944.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "### Key Takeaways\n\n Blackstone Digital Infrastructure Trust took a 75% majority in two joint ventures with AWS covering 13 newly built powered shells in northern Indiana and Mississippi, valued at roughly $5 billion. \n AWS keeps 25% and leases back the whole portfolio for 12 years, extendable to 32, while the venture has a debt commitment for 50% of the price at close. \n BXDC says the deal is a template for buying stabilized, hyperscaler-leased data centers, a market it sizes at $1 trillion over five years.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "A struggling AI trade is dragging stocks lower ahead of Anthropic's mega-IPO and Nvidia earnings - Business Insider",
-      "url": "https://www.businessinsider.com/ai-stock-selloff-nvidia-q3-earnings-anthropic-ipo-2026-11",
-      "fonte": "businessinsider.com",
-      "data": "2026-11-16",
-      "resumo": "\"Together, we expect NVIDIA's results and Anthropic's market debut to provide important tests of whether investor enthusiasm for AI continues to be supported by earnings growth and demand for public-market exposure,\" Therien said. \n\n\"The bigger question for the AI trade isn't whether Nvidia or Anthropic delivers, but whether investors are putting new money to work or simply rotating between winners and losers,\" Mark Hackett, the chief market strategist at Nationwide, said.  [.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI trade faces a healthy reset as earnings growth cools: Strategist - CNBC",
-      "url": "https://www.cnbc.com/video/2026/11/16/ai-trade-faces-a-healthy-reset-as-earnings-growth-cools-strategist.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-16",
-      "resumo": "AI trade faces a healthy reset as earnings growth cools: Strategist\n\nMizuho Securities' Sean Darby calls the pullback a healthy reset, as tighter credit conditions and weakening semiconductor pricing power temper earnings growth.  He expects semiconductor stocks to remain supported into year-end, but says the strongest growth in AI earnings is likely behind us..",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Inside the Frenetic Month That Shook Wall Street’s AI Trade - WSJ",
-      "url": "https://www.wsj.com/articles/inside-the-frenetic-month-that-shook-wall-streets-ai-trade-bd0712f3",
-      "fonte": "wsj.com",
-      "data": "2026-11-16",
-      "resumo": "#### 1.  FROM MY DESK\n\nFor three years, investors have minted money from the AI boom without having to make hard choices.  That “no-brainer” era is over.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock Market Today: Nasdaq-100 Sinks 1% as Nvidia Faces Its First Earnings Without Jensen Huang",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-100-145810375.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "## What This Rotation Means for Your Portfolio\n\nAn S&P 500 index fund has far more AI exposure than the Dow because the index is weighted by company size, so mega-cap tech dominates it.  SPY is still up 10% this year.  The one-month gap between the Dow and the Nasdaq-100 shows how much sector balance can steady a portfolio.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must - CNBC",
       "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html",
       "fonte": "cnbc.com",
       "data": "2026-11-17",
       "resumo": "That concentration comes amid improved performance. \n\nVenture capital funds returned 17. 8% in the first six months of 2026, according to Opto Investments, using proprietary and MSCI Private Capital Solutions data.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia's Stock Slump Is Putting Asia's AI Boom to the Test - Business Insider",
-      "url": "https://www.businessinsider.com/nvidia-stock-jensen-huang-earnings-kospi-tsmc-asia-ai-trade-2026-11",
-      "fonte": "businessinsider.com",
-      "data": "2026-11-16",
-      "resumo": "Nvidia's stock-market troubles are spreading across Asia, sending some of the region's biggest AI winners tumbling ahead of the chip giant's earnings. \n\nOn Monday, South Korea's benchmark Kospi index fell 3% as heavyweights Samsung Electronics and SK Hynix tumbled as much as 5% and 6%, respectively. \n\nTaiwan's Taiex dropped 5%, with Nvidia's key chipmaking partner TSMC down 4%.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Wall Street's AI Rally Faces New Test as Tech Stocks Tumble Ahead of Nvidia's Earnings Report",
-      "url": "https://sg.finance.yahoo.com/news/wall-streets-ai-rally-faces-214232715.html",
-      "fonte": "sg.finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "[](\n\nImen Ben Youssef/Hans Lucas\n\n \n\nU. S.  stocks fell sharply Monday as investors sold technology shares ahead of Nvidia's earnings report, extending a retreat that has raised fresh questions about the durability of the artificial intelligence rally.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -1743,165 +1561,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Nvidia Stock Shock Has Investors Looking At TSMC And AI Chip Tooling",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-shock-investors-looking-091117502.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "Operations: The business generates about NT$4. 94t in revenue from its foundry segment, reflecting a heavy weighting toward contract wafer manufacturing. \n\nMarket Cap: NT$60,941.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Blackstone Digital Infrastructure Trust (BXDC) Lands AWS Deal, Does It Look Fully Valued?",
       "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-digital-infrastructure-trust-bxdc-020936445.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-17",
       "resumo": "For a newly listed specialized REIT focused on data centers, this kind of cash flow lens is helpful because reported earnings and traditional ratios can be hard to interpret in the early years.  BXDC is currently unprofitable and has a negative return on equity, so headline profit metrics do not yet give a clean picture of underlying asset cash generation in the same way a mature REIT might. \n\nFor a closer look at the moving parts behind that $15.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "TSMC Stocks Slide 5.7% Despite October Sales Jumping 59.7% to a 2026 High",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-slide-5-7-181925082.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nTrending \n\n AMD buys World Labs\n Nvidia live updates\n Stock market today\n Nvidia’s handshake problem\n\nGuruFocus.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq Stock Market Correction: These 6 Words From Warren Buffett Are More Relevant Than Ever",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-6-183502812.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "After years of unusually high gains fueled by artificial intelligence (AI) stocks, the Nasdaq Composite (NASDAQINDEX:^IXIC) recently entered correction territory as investors reassess the outlook for the AI industry. \n\nOn Oct.  6, the Nasdaq reached a record closing high of 27,599.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "4 Chip Stocks Down as Much as 36% From Their Highs to Buy and Hold for the Next Decade",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-chip-stocks-down-much-230102349.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "The biggest risk, I think, is the price.  At around $535, AMD trades at about 30 times the earnings analysts expect for 2027.  Even its own target of adjusted earnings over $20 a share in three to five years puts today's price at about 27 times those earnings.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Blackstone’s Data Center REIT Makes First Investment With $5B AWS Deal",
-      "url": "https://finance.yahoo.com/real-estate/articles/blackstone-data-center-reit-makes-145243410.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "[](\n\nCredit: Unsplash/Scott Rodgerson\n\n \n\nBlackstone Digital Infrastructure Trust is acquiring a 75% majority stake in two joint ventures with Amazon Web Services to acquire 13 newly constructed powered shells across two AWS campuses in a deal valued at $5B, the investment management giant announced Monday. \n\nAmazon will lease back 100% of the portfolio from the REIT, which trades under the ticker BXDC, on a triple-net basis with an initial term of 12 years and an option to expand the length to 32 years.  Rent payments are guaranteed by AWS, according to a presentation published with the announcement.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 AI Stocks With Earnings Growth Over 45%",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-earnings-growth-141229474.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "Oops, something went wrong\n\nCrypto\nAI\n\n### U. S.  markets close in 1h 1m\n\nSimply Wall St.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Blackstone Digital Infrastructure Trust to acquire $5 billion data center portfolio from AWS",
-      "url": "https://finance.yahoo.com/real-estate/articles/blackstone-digital-infrastructure-trust-acquire-151500334.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "The deal represents the first investment by the recently listed real estate investment trust and advances its strategy of owning income-generating data centers leased to major cloud computing companies under long-term contracts. \n\nThe joint ventures will own 13 newly constructed powered-shell facilities across two AWS data center campuses, with AWS retaining a 25% interest in the businesses. \n\nAWS will lease the entire portfolio under triple-net agreements, under which the tenant is responsible for property-related operating expenses, including taxes, insurance and maintenance.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia Earnings, Fed Minutes, Anthropic’s IPO Put AI Rally To The Test: 3 Charts To Watch This Week",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-fed-minutes-anthropic-120006002.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "Here are three charts to watch in the week ahead:\n\n## Nvidia Earnings Will Test The AI Spending Pipeline\n\nNvidia reports results after the market closes Tuesday.  Wall Street expects earnings per share of $2. 47 on revenue of $108.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Citi names top infrastructure software stocks amid rising AI standards",
-      "url": "https://www.investing.com/news/stock-market-news/citi-names-top-infrastructure-software-stocks-amid-rising-ai-standards-5030584",
-      "fonte": "investing.com",
-      "data": "2026-11-16",
-      "resumo": "Additionally, AI-driven disruption of traditional search is pressuring customer acquisition across small and medium-sized business and self-service software, leaving companies more exposed until alternative channels prove scalable, the analysts wrote. \n\nCiti sees merger and acquisition activity providing valuation support, particularly for companies with scarce AI, data, security, and workflow assets.  Strategic acquirers have started to become more active, with consolidation potentially widening the competitive gap between scaled platforms and point solutions.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Ibovespa cai 1,5% e fica abaixo dos 170 mil pontos: o que explica queda nesta 2ª?",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-cai-15-e-fica-abaixo-dos-170-mil-pontos-o-que-explica-queda-nesta-2a",
-      "fonte": "infomoney.com.br",
-      "data": "2026-11-16",
-      "resumo": "A cautela dos mercados internacionais diante das expectativas de juros mais elevados nos Estados Unidos do que se previa inicialmente e das incertezas relacionadas à inteligência artificial (IA) contamina o Ibovespa nesta segunda-feira, 16.  O principal indicador da B3 recua e já perdeu quase 2. 800 pontos entre a abertura na máxima (172.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Microsoft (MSFT) Strikes AI Deal That Broadens Its Chip Supplier Base",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-strikes-ai-deal-061353570.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-16",
-      "resumo": "MSFT\n\n  +0. 17%\n CBRS\n\n  +7. 59%\n NVDA\n\n  -2.",
       "sentimento": "bullish",
       "tags": [
         "AI",

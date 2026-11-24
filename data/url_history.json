@@ -1,60 +1,4 @@
 {
-  "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1": {
-    "hash": "a1b9cc5b0a1962d32bbc3f0c79924aee",
-    "visto_em": "2026-11-16"
-  },
-  "https://www.benzinga.com/markets/equities/26/11/63157251/stock-market-today-nasdaq-100-coreweave-ai-rebound-nvidia": {
-    "hash": "b77cd72519492fd5606aa1a3e71ae7bf",
-    "visto_em": "2026-11-16"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/capital-economics-warns-ai-stock-162500340.html": {
-    "hash": "9ae6f5415cf9cb863fc0728d092fb6bb",
-    "visto_em": "2026-11-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nvidia-rival-ceo-tsmc-buy-175956534.html": {
-    "hash": "d2257382ffdaf470b1c0f2a8019172f8",
-    "visto_em": "2026-11-16"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/prediction-nov-18-massive-day-093002246.html": {
-    "hash": "b9c8dc6b0b2cff36b6e8dd13db8cbbcd",
-    "visto_em": "2026-11-16"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-strikes-ai-deal-061353570.html": {
-    "hash": "ae17594ad42f115b387cea0c14c37302",
-    "visto_em": "2026-11-16"
-  },
-  "https://finance.yahoo.com/real-estate/articles/blackstone-data-center-reit-makes-145243410.html": {
-    "hash": "3b4ab540e181be8e101f8c8cfefa653d",
-    "visto_em": "2026-11-16"
-  },
-  "https://www.marketwatch.com/investing/index/comp": {
-    "hash": "0a828af0d546abd80729ba5dfa3f9b4e",
-    "visto_em": "2026-11-16"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-earnings-growth-141229474.html": {
-    "hash": "c6da36f9d2a14cc9fe012c1bd6064838",
-    "visto_em": "2026-11-16"
-  },
-  "https://finance.yahoo.com/real-estate/articles/blackstone-digital-infrastructure-trust-acquire-151500334.html": {
-    "hash": "4acbe315122842a2d69e02966b0f2439",
-    "visto_em": "2026-11-16"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-fed-minutes-anthropic-120006002.html": {
-    "hash": "0fe564bf81bad5a6ff695a019e4ee689",
-    "visto_em": "2026-11-16"
-  },
-  "https://www.investing.com/news/stock-market-news/citi-names-top-infrastructure-software-stocks-amid-rising-ai-standards-5030584": {
-    "hash": "141cad9292eebbba7b622bfce0dddf30",
-    "visto_em": "2026-11-16"
-  },
-  "https://www.infomoney.com.br/mercados/ibovespa-cai-15-e-fica-abaixo-dos-170-mil-pontos-o-que-explica-queda-nesta-2a": {
-    "hash": "d6a8a4eed91bb80fc21af760eea0afdd",
-    "visto_em": "2026-11-16"
-  },
-  "https://finance.yahoo.com/markets/article/3-signs-ai-stocks-may-be-a-great-trade-again-130410381.html": {
-    "hash": "408abf756d326fc7e930aaa7c6e11037",
-    "visto_em": "2026-11-16"
-  },
   "https://sg.finance.yahoo.com/news/wall-streets-ai-rally-faces-214232715.html": {
     "hash": "a77f94c73479f81f128b5e58586e752d",
     "visto_em": "2026-11-17"
@@ -578,5 +522,37 @@
   "https://www.forbes.com/sites/zitaballingerfletcher/2026/11/22/how-artificial-intelligence-is-making-it-harder-to-stop-cyberattacks": {
     "hash": "fbb602c0e697c0d07262b5aad21e1904",
     "visto_em": "2026-11-23"
+  },
+  "https://finance.yahoo.com/real-estate/articles/latest-alternative-investment-data-centers-130000366.html": {
+    "hash": "b7835392699598b792b40835c981d340",
+    "visto_em": "2026-11-24"
+  },
+  "https://www.reuters.com/business/retail-consumer/amazon-buy-decarts-ai-chip-optimization-tech-latest-ai-talent-grab-2026-11-23": {
+    "hash": "6ac27d3e2a6b8d3b82aa6b2f0ebff2bf",
+    "visto_em": "2026-11-24"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nasdaqs-worst-week-since-2020-121800378.html": {
+    "hash": "107aa7e586105971eb101e4f2b86fff9",
+    "visto_em": "2026-11-24"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tsmc-fell-7-7-two-150225652.html": {
+    "hash": "e5ae537454fc30e0e0247bf1dc42330c",
+    "visto_em": "2026-11-24"
+  },
+  "https://finance.yahoo.com/markets/article/nvidia-broadcom-and-amd-roar-higher-as-chips-rebound-from-worst-week-since-2001-133109931.html": {
+    "hash": "8b939887c9354e467017aefa6bd4c059",
+    "visto_em": "2026-11-24"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/wall-street-surges-toward-m-121256839.html": {
+    "hash": "61a82cbe2084675d629d86bafafb82b3",
+    "visto_em": "2026-11-24"
+  },
+  "https://www.reuters.com/commentary/breakingviews/crowdstrike-creates-gaping-ma-vulnerability-2026-11-23": {
+    "hash": "4230fb5d2c9ce97dbb1826496fa9122d",
+    "visto_em": "2026-11-24"
+  },
+  "https://seekingalpha.com/article/4970901-doubling-down-on-data-centers": {
+    "hash": "a835bc049908223d3c15724686581549",
+    "visto_em": "2026-11-24"
   }
 }

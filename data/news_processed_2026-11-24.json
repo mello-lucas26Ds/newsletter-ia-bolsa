@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-24",
+    "total_noticias": 8,
+    "gerado_em": "2026-11-24T13:14:44.657162"
+  },
+  "noticias": [
+    {
+      "titulo": "The Latest Alternative Investment? Data Centers",
+      "url": "https://finance.yahoo.com/real-estate/articles/latest-alternative-investment-data-centers-130000366.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-20",
+      "resumo": "## REIT the Room\n\nOne way investors can get access to data centers is through REITs.  Blackstone's REIT (BREIT), for example, invests nearly a third of its assets in data centers.  The firm also announced Monday that its digital infrastructure trust has agreed to acquire a majority stake in two Amazon data center campuses in a deal valued at $5 billion.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Amazon to buy Decart's AI chip optimization tech in latest ...",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-buy-decarts-ai-chip-optimization-tech-latest-ai-talent-grab-2026-11-23",
+      "fonte": "reuters.com",
+      "data": "2026-11-23",
+      "resumo": "Amazon said on Monday it will buy AI startup Decart's technology and bring its founders and other staff ​on board, marking the latest Big Tech deal to.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq's Worst Week Since 2020: 5 AI Tech Stocks to Buy on the Dip",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaqs-worst-week-since-2020-121800378.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-23",
+      "resumo": "The Nasdaq just logged its worst weekly decline since 2020, falling roughly 10% last week as doubts over artificial intelligence (AI) profitability set off a broad tech rout.  Anthropic's record IPO gave back much of its opening pop, and NVIDIA slid more than 20% last week amid an SEC probe and CEO Jensen Huang's resignation. \n\nThe selling spread into AI infrastructure plays, including power, networking, optical and data-center names, where pullbacks may reflect sentiment rather than weakening demand.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Fell 7.7% in Two Days. Joseph Carlson Thinks Its Business Is More Durable Than Nvidia’s",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-fell-7-7-two-150225652.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-17",
+      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nTrending \n\n Nvidia national security\n Home Depot earnings\n Stock market today\n Nvidia live updates\n\nBenzinga Prediction Markets\n\n# TSMC Fell 7.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia soars 30% as board reinstates Jensen Huang as CEO, chip stocks jump",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-and-amd-roar-higher-as-chips-rebound-from-worst-week-since-2001-133109931.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-23",
+      "resumo": "Arm Holdings (ARM) rose in premarket trading after the chip designer said CEO Rene Haas renewed his contract to stay at the company through 2033.  Haas was among the names reportedly considered by Nvidia as a potential successor to Huang following his resignation earlier this month. \n\nMemory chipmaker Micron Technology (MU) and peer SK Hynix (SKHY) also jumped 5% and 9%, respectively, in premarket trading.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall Street Surges Toward M&A Record as Megadeals Defy Selloff",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-surges-toward-m-121256839.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-23",
+      "resumo": "(Bloomberg) -- Wall Street is taking a big step toward a record year for mergers and acquisitions as some of the world's largest companies defy a tech-induced selloff in global stocks to pursue major takeovers. \n\nMost Read from Bloomberg\n\nCrowdStrike Holdings Inc.  (CRWD) on Monday confirmed Bloomberg News reporting that it will acquire cybersecurity provider Zscaler Inc.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "CrowdStrike creates gaping M&A vulnerability | Reuters",
+      "url": "https://www.reuters.com/commentary/breakingviews/crowdstrike-creates-gaping-ma-vulnerability-2026-11-23",
+      "fonte": "reuters.com",
+      "data": "2026-11-23",
+      "resumo": "CrowdStrike said ​on November 23 ⁠that it would buy rival Zscaler in an all-stock deal valued at $43. 9 billion..",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Doubling Down On Data Centers | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4970901-doubling-down-on-data-centers",
+      "fonte": "seekingalpha.com",
+      "data": "2026-11-22",
+      "resumo": "Seeking Alpha's Disclosure: Past performance is no guarantee of future results.  No recommendation or advice is being given as to whether any investment is suitable for a particular investor.  Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
