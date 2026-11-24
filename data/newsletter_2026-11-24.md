@@ -1,137 +1,166 @@
 # Newsletter IA Bolsa — 2026-11-24
 
-**Gerado em:** 24/11/2026 13:14
-**Total:** 8 noticias
+**Gerado em:** 24/11/2026 20:30
+**Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. The Latest Alternative Investment? Data Centers
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-## REIT the Room
-
-One way investors can get access to data centers is through REITs.  Blackstone's REIT (BREIT), for example, invests nearly a third of its assets in data centers.  The firm also announced Monday that its digital infrastructure trust has agreed to acquire a majority stake in two Amazon data center campuses in a deal valued at $5 billion.
-
-[Ler noticia completa](https://finance.yahoo.com/real-estate/articles/latest-alternative-investment-data-centers-130000366.html)
-
----
-
-## 2. Amazon to buy Decart's AI chip optimization tech in latest ...
-
-**Fonte:** reuters.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Amazon said on Monday it will buy AI startup Decart's technology and bring its founders and other staff ​on board, marking the latest Big Tech deal to.
-
-[Ler noticia completa](https://www.reuters.com/business/retail-consumer/amazon-buy-decarts-ai-chip-optimization-tech-latest-ai-talent-grab-2026-11-23)
-
----
-
-## 3. Nasdaq's Worst Week Since 2020: 5 AI Tech Stocks to Buy on the Dip
+## 1. Stock market today: Dow, S&P 500, Nasdaq futures fall as chip stocks fall, investors test Nvidia-fueled rally
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-The Nasdaq just logged its worst weekly decline since 2020, falling roughly 10% last week as doubts over artificial intelligence (AI) profitability set off a broad tech rout.  Anthropic's record IPO gave back much of its opening pop, and NVIDIA slid more than 20% last week amid an SEC probe and CEO Jensen Huang's resignation. 
+# Stock market today: Dow, S&P 500, Nasdaq futures fall as chip stocks fall, investors test Nvidia-fueled rally
 
-The selling spread into AI infrastructure plays, including power, networking, optical and data-center names, where pullbacks may reflect sentiment rather than weakening demand.
+US stock futures fell on Tuesday, building on a blistering rally, as investors took stock of what's next for Nvidia (NVDA) and the AI trade now that Jensen Huang is back as CEO. 
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/nasdaqs-worst-week-since-2020-121800378.html)
+Futures on the Dow Jones Industrial Average (YM=F) fell 0. 6%, while those on the S&P 500 (ES=F) declined 1.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html)
 
 ---
 
-## 4. TSMC Fell 7.7% in Two Days. Joseph Carlson Thinks Its Business Is More Durable Than Nvidia’s
+## 2. Dell’s AI Growth Comes at a Cost as Investors Await Q3 Results | Investing.com
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-1.  Crypto
+Dell Technologies shares climbed nearly 20. 46% on Monday as AI stocks bounced back, putting the company in the spotlight ahead of its fiscal third-quarter earnings report. 
 
-   Crypto
-2.  AI
+The results will show whether strong data-center demand can continue to fuel growth, even as rising hardware costs weigh on the outlook.
 
-   AI
-
-Trending 
-
- Nvidia national security
- Home Depot earnings
- Stock market today
- Nvidia live updates
-
-Benzinga Prediction Markets
-
-# TSMC Fell 7.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tsmc-fell-7-7-two-150225652.html)
+[Ler noticia completa](https://www.investing.com/analysis/dells-ai-growth-comes-at-a-cost-as-investors-await-q3-results-200692199)
 
 ---
 
-## 5. Nvidia soars 30% as board reinstates Jensen Huang as CEO, chip stocks jump
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Arm Holdings (ARM) rose in premarket trading after the chip designer said CEO Rene Haas renewed his contract to stay at the company through 2033.  Haas was among the names reportedly considered by Nvidia as a potential successor to Huang following his resignation earlier this month. 
-
-Memory chipmaker Micron Technology (MU) and peer SK Hynix (SKHY) also jumped 5% and 9%, respectively, in premarket trading.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/article/nvidia-broadcom-and-amd-roar-higher-as-chips-rebound-from-worst-week-since-2001-133109931.html)
-
----
-
-## 6. Wall Street Surges Toward M&A Record as Megadeals Defy Selloff
+## 3. What Microsoft (MSFT)'s Enterprise AI Partnerships Mean For Shareholders
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-(Bloomberg) -- Wall Street is taking a big step toward a record year for mergers and acquisitions as some of the world's largest companies defy a tech-induced selloff in global stocks to pursue major takeovers. 
+Simply Wall St. 
 
-Most Read from Bloomberg
+# What Microsoft (MSFT)'s Enterprise AI Partnerships Mean For Shareholders
 
-CrowdStrike Holdings Inc.  (CRWD) on Monday confirmed Bloomberg News reporting that it will acquire cybersecurity provider Zscaler Inc.
+- Recent announcements from partners such as Danaher, V2X, Audi and Intel show Microsoft products like Azure, Foundry, Fabric and EMIB-based Azure hardware being embedded deeper into mission operations, scientific instruments and workplace tools. 
+- These deals point to Microsoft quietly turning AI from headline demos into long-term, embedded workloads across defense, healthcare, autos and labs, which ties AI demand directly to everyday enterprise processes rather than one-off projects.
 
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/wall-street-surges-toward-m-121256839.html)
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/microsoft-msft-enterprise-ai-partnerships-001743463.html)
 
 ---
 
-## 7. CrowdStrike creates gaping M&A vulnerability | Reuters
+## 4. A Stock Market Crash Could Be Life-Changing for Investors Who Own These 3 Artificial Intelligence (AI) Stocks
 
-**Fonte:** reuters.com  
-**Sentimento:** ⚪ NEUTRAL  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🔴 BEARISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-CrowdStrike said ​on November 23 ⁠that it would buy rival Zscaler in an all-stock deal valued at $43. 9 billion..
+# A Stock Market Crash Could Be Life-Changing for Investors Who Own These 3 Artificial Intelligence (AI) Stocks
 
-[Ler noticia completa](https://www.reuters.com/commentary/breakingviews/crowdstrike-creates-gaping-ma-vulnerability-2026-11-23)
+Market volatility has ticked higher, with artificial intelligence (AI) stocks getting particularly hard hit of late.  For example, Aehr Test Systems (NASDAQ:AEHR) and MongoDB (NASDAQ:MDB) are down 60% and 30%, respectively, over the past three months, as of this writing.  Cisco Systems (NASDAQ:CSCO), a tech industry giant, is down about 18%.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-could-life-043501711.html)
 
 ---
 
-## 8. Doubling Down On Data Centers | Seeking Alpha
+## 5. History Says TSMC Stock Falls Before Its Sales
 
-**Fonte:** seekingalpha.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Seeking Alpha's Disclosure: Past performance is no guarantee of future results.  No recommendation or advice is being given as to whether any investment is suitable for a particular investor.  Any views or opinions expressed above may not reflect those of Seeking Alpha as a whole.
+Trefis
 
-[Ler noticia completa](https://seekingalpha.com/article/4970901-doubling-down-on-data-centers)
+# History Says TSMC Stock Falls Before Its Sales
+
+Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92. 
+
+Update, Nov 23: TSMC rose about 16% in Monday morning trading, to about $369, as chip stocks jumped after Nvidia's board reinstated Jensen Huang as CEO.  The figures below are at Friday's close.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/history-says-tsmc-stock-falls-193710072.html)
+
+---
+
+## 6. Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+# Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure
+
+Nvidia (NVDA) stock retreated 8% on Tuesday, giving back some of its 31% surge from the prior session after the board of the AI chip giant reinstated Jensen Huang as CEO.  Peers AMD (AMD) and Broadcom (AVGO) also declined from Monday's rebound as the overall AI trade came under renewed pressure. 
+
+Follow live updates and reactions to Jensen Huang's return as Nvidia CEO
+
+Shares of Taiwan Semiconductor Manufacturing Company (TSM), which manufactures Nvidia chips, and equipment maker ASML (ASML) fell roughly 2% each while chip designer Arm Holdings (ARM) was down 4%.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/article/nvidia-amd-broadcom-lead-chip-stocks-lower-as-ai-trade-comes-under-pressure-141635463.html)
+
+---
+
+## 7. Wall St futures dip as chip stocks cool after Nvidia-fueled rally
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+"This confirmed just how central Nvidia is to the artificial intelligence story, not only because of its bleeding-edge chips but ‌also thanks to its role as a ⁠major funder of both customers and suppliers," said Russ Mould, investment director at AJ Bell. 
+
+On Tuesday, however, semiconductor stocks were set to give back some of those gains.  ⁠Micron Technology, Advanced Micro Devices and Marvell Technology fell between 3.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-dip-chip-105355594.html)
+
+---
+
+## 8. Tech Companies Are Getting More Creative to Raise Billions
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Other companies are using similar techniques.  Anthropic PBC used an intricate private credit structure to get $35 billion of financing to access Google AI chips.  Meta Platforms Inc.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/articles/tech-companies-getting-more-creative-120000139.html)
+
+---
+
+## 9. Brazil stocks lower at close of trade; Bovespa down 0.79% By Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+The worst performers of the session were Hapvida Participacoes e Investimentos (BVMF:HAPV3), which fell 4. 87% or 0. 30 points to trade at 5.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-079-5046319)
+
+---
+
+## 10. Ibovespa USD Index Today (BVSPUSD) - Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+To evaluate the potential across the various ETF options, users can sign up to InvestingPro, where they can assess ETF prices and other essential metrics. 
+
+The Ibovespa USD live stock price is 28,034. 99.
+
+[Ler noticia completa](https://www.investing.com/indices/ibovespa-usd)
 
 ---
