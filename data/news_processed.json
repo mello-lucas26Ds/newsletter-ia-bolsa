@@ -2,10 +2,150 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-25",
-    "total_noticias": 114,
-    "gerado_em": "2026-11-25T12:04:05.256484"
+    "total_noticias": 124,
+    "gerado_em": "2026-11-25T19:46:53.826407"
   },
   "noticias": [
+    {
+      "titulo": "Nasdaq Futures Fall as Questions Linger Over AI Trade - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71",
+      "fonte": "wsj.com",
+      "data": "2026-11-24",
+      "resumo": "Stock futures slipped into the red, as investors pondered lingering concerns around Jensen Huang’s return as Nvidia NVDA 31. 48%increase; up pointing triangle chief and the artificial-intelligence buildout after Monday’s stunning rally. \n\nNasdaq futures dropped 0.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Amazon signs deal reportedly worth $7.5 billion for Decart technology to improve AI chip performance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-signs-deal-reportedly-worth-124837677.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-24",
+      "resumo": "Games\n           Mini crossword\n           Solitaire roadtrip\n           Ribbit\n           Word games\n           Card games\n           Puzzle games\n\n       Entertainment\n           Celebrity\n           TV\n           Movies\n           Music\n           How to Watch\n           Videos\n           Nonfiction Hotlist\n           Games\n\nSelected editionUS English\n\n Mark Lennihan\n\nAmazon announced Monday that it signed an agreement to buy Decart's AI optimization technology and bring the company's co-founders and their team of researchers and engineers to Amazon.  Amazon agreed to pay $7. 5 billion for the deal, Bloomberg reported.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall Street Futures Retreat as AI Investment Concerns Resurface and Markets Await US Inflation Report: Dow Jones, S&P, Nasdaq",
+      "url": "https://uk.finance.yahoo.com/news/wall-street-futures-retreat-ai-095225465.html",
+      "fonte": "uk.finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "Technology shares fell sharply towards the end of last week as investors questioned the potential financial returns from substantial AI investments.  The sector subsequently recovered on Monday following the reinstatement of Nvidia (NASDAQ:NVDA) Chief Executive Jensen Huang. \n\nHowever, selling pressure returned on Tuesday, dragging both the Nasdaq Composite and S&P 500 lower.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq Futures Drop as Nvidia Leads Premarket AI Selloff - WSJ",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b",
+      "fonte": "wsj.com",
+      "data": "2026-11-25",
+      "resumo": "Nasdaq futures fell sharply as headwinds facing the artificial-intelligence trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded. \n\nMeanwhile, oil prices fell and Treasurys strengthened ahead of U. S.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "US Stock Futures Fall as AI Sector Volatility Returns Ahead of Key PCE Inflation Data: Dow Jones, S&P, Nasdaq, Wall Street",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-fall-ai-095129084.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "InvestorsHub\n\n# US Stock Futures Fall as AI Sector Volatility Returns Ahead of Key PCE Inflation Data: Dow Jones, S&P, Nasdaq, Wall Street\n\nUS equity futures declined on Wednesday as renewed concerns surrounding artificial intelligence investments weighed on technology stocks, while investors awaited the latest US inflation figures for indications of the Federal Reserve's next monetary policy decision. \n\nDell Technologies (NYSE:DELL) raised its annual revenue forecast following strong demand for AI servers, although its shares declined in premarket trading.  Meanwhile, reports of potential new US tariffs and falling oil prices remained in focus.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Só 10 empresas da B3 elevaram o ROE por cinco períodos seguidos; 6 superaram o Ibovespa desde 2021 – Money Times",
+      "url": "https://www.moneytimes.com.br/so-10-empresas-da-b3-elevaram-o-roe-por-cinco-periodos-seguidos-6-superaram-o-ibovespa-desde-2021",
+      "fonte": "moneytimes.com.br",
+      "data": "2026-11-20",
+      "resumo": "## Em 2025, todas superaram o Ibovespa; em 2026, apenas três\n\nA comparação anual reforça a diferença entre a evolução dos fundamentos e o desempenho das ações. \n\nEm 2025, todas as dez empresas superaram o Ibovespa, que avançou 33,95%.  Em 2026, até 17 de novembro, apenas B3, Technos e Telefônica Brasil apresentaram retorno superior ao índice, que acumulava valorização de 5,07%.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "B3SA3 Gráfico | Ações B3 ON - Investing.com",
+      "url": "https://br.investing.com/equities/bmfbovespa-on-nm-chart",
+      "fonte": "br.investing.com",
+      "data": "2026-11-24",
+      "resumo": "PN Vale ON Usiminas PNA Gerdau PN Cemig PN BRF ON Itaúsa PN Axia Energia Prf Weg ON Banco Pan PN Nubank BDR Prio ON Méliuz ON Banco do Brasil ON Bradesco PN Tesla BDR Amazon. com BDR Apple BDR Alphabet A BDR Nvidia BDR XP BDR SpaceX Anthropic ETFs Principais ETFs ETFs Mundiais ETFs Brasil ETFs de Bitcoin ETFs de Criptomoedas na B3 Hashdex Nasdaq Bitcoin Reference Rate ETF iShares Ibovespa ETF iShares MSCI Brazil Small-Cap iShares MSCI Brazil Capped Hashdex Nasdaq Crypto ETF iShares S&P 500 ETF QR CME CF Bitcoin Reference Rate ETF Invesco QQQ Trust iShares BM&FBOVESPA Small Cap ETF Futuros Índices Futuros Commodities Câmbio Futuro Futuros Financeiros Futuros Perpétuos Ouro Prata Fundos Fundos Internacionais Principais Fundos FIP FI-Infra BB EXTRAMERCADO EXCLUSIVO FAT FUNDO DE INVESTIMENT [. ] Opiniões Parceiros Ações Filtro de Ações Brasil Warren EUA Pré-Abertura ADRs mundiais ADRs Brasil BDRs FIIs Américas Europa Oriente Médio Ásia e Oceania Ações selecionadas por IA Ações baratas Anúncio B3SA3 - B3 ON Acesse o gráfico em tempo real das ações B3SA3 e acompanhe as cotações da B3 ON.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Data Center REITs: The Boring Way To Own AI | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4971110-data-center-reits-the-boring-way-to-own-ai",
+      "fonte": "seekingalpha.com",
+      "data": "2026-11-24",
+      "resumo": "Futuristic AI Data Center Interior\n\nimaginima/iStock via Getty Images\n\nI'm one of those people who believes that AI is going to change everything. \n\nI don’t think that it's overhyped.  If anything, I think that it may still be underhyped.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Forbes",
+      "url": "https://www.forbes.com",
+      "fonte": "forbes.com",
+      "data": "2026-11-20",
+      "resumo": "ByChristine Haughney Dare-Bryan,\n\nContributor\n\n## AI\n\nImage 116: The Big VC Winners In Anthropic’s IPO: Iconiq, Lightspeed And Others\n\nInnovation\n\n### The Big VC Winners In Anthropic’s IPO: Iconiq, Lightspeed And Others\n\nByRichard Nieva,\n\nSenior Writer\n\nandIain Martin,\n\nSenior Editor\n\nImage 117: Google And Amazon Own More Anthropic Stock Than All Cofounders Combined\n\nInnovation\n\n### Google And Amazon Own More Anthropic Stock Than All Cofounders Combined\n\nByRichard Nieva,\n\nSenior Writer\n\nImage 118: Jensen Huang’s Nvidia Resignation Leaves An Opening For Hungry Rivals\n\nInnovation\n\n### Jensen Huang’s Nvidia Resignation Leaves An Opening For Hungry Rivals\n\nByRichard Nieva,\n\nSenior Writer\n\nImage 119: Google AI Proves Signal’s Encryption Really Works\n\nNewsletters [. ] ByAmy Feldman,\n\nSenior Editor\n\nImage 41: Construction, Concrete And Wires: How AI Is Lifting Privately Held Giants\n\nBillionaires\n\n### Construction, Concrete And Wires: How AI Is Lifting Privately Held Giants\n\nByAndrea Murphy,\n\nForbes Staff\n\nImage 42: Hong Kong Property Developer New World’s Stock Plummets To Record Low On $3. 2 Billion Rights Issue Plan\n\nAsia\n\n### Hong Kong Property Developer New World’s Stock Plummets To Record Low On $3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia jumped 31% on Jensen Huang's return. A day later, the AI trade sold off: AlphaCheck",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-leads-semiconductors-lower-alphacheck-144509267.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-24",
+      "resumo": "# Nvidia jumped 31% on Jensen Huang's return.  A day later, the AI trade sold off: AlphaCheck\n\nGood morning.  Stocks fell on Tuesday as the chip sector sold off and shares of Anthropic (ANT) declined below their IPO price of $83.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-surge-nvidia-rally-192000003.html",

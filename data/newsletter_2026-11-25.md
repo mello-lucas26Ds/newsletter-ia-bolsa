@@ -1,149 +1,243 @@
 # Newsletter IA Bolsa — 2026-11-25
 
-**Gerado em:** 25/11/2026 12:04
+**Gerado em:** 25/11/2026 19:46
 **Total:** 10 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Proactive
-
-# Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100
-
-US technology stocks staged a broad rally Monday, with gains across chipmakers, AI infrastructure providers and software companies adding nearly $2 trillion to the Nasdaq 100's market capitalization as investors welcomed Jensen Huang's return to Nvidia Corp (NASDAQ:NVDA, XETRA:NVD). 
-
-The chipmaker was up 32%, making it the strongest performer among major US technology stocks, with shares reaching an intraday high of $171. 50.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/tech-stocks-surge-nvidia-rally-192000003.html)
-
----
-
-## 2. Stock market today: Live updates
-
-**Fonte:** cnbc.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The market saw a massive rally on Monday, with the Nasdaq and S&P 500 seeing their best session since April 9, 2025, when President Donald Trump announced a reprieve on tariffs.  That action was a sharp reversal from Friday's steep sell-off, which saw the S&P 500 and Dow close in correction as the AI trade suffered and Nvidia tanked. 
-
-Mark Haefele of UBS Global Wealth Management said in a note Tuesday that his team does not believe the volatility in global tech names is "a signal that the structural AI investment story has broken.
-
-[Ler noticia completa](https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html)
-
----
-
-## 3. Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-### Asset profile
-
-The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.
-
-[Ler noticia completa](https://finance.yahoo.com/quote/DTCR)
-
----
-
-## 4. Can Workday's C1.ai Acquisition Advance Its AI Growth Prospects?
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** ⚪ NEUTRAL  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Workday, Inc.  WDAY has completed its acquisition of C1. ai, a leading agentic identity platform for managing access and security across human employees and artificial intelligence agents.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/workdays-c1-ai-acquisition-advance-145900369.html)
-
----
-
-## 5. Asian stocks mostly decline as AI shares fall following a retreat on Wall Street
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-The surprise return of Jensen Huang as Nvidia's CEO, announced Monday, does bring back a charismatic leader who championed the entire AI industry.  But it does not settle deeper concerns such as whether AI can possibly produce enough profit and productivity to justify massive investments in data centers. 
-
-High interest rates are making it more difficult to borrow money to pay for the industry's growth.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html)
-
----
-
-## 6. CoreWeave Stock Jumps 29% as Jensen Huang Returns: 10 Nvidia-Linked Names Rally - Benzinga
-
-**Fonte:** benzinga.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-Taiwan Semiconductor Manufacturing Co.  Ltd.  (NYSE:TSM), which manufactures Nvidia’s processors, climbed 15.
-
-[Ler noticia completa](https://www.benzinga.com/markets/equities/26/11/63537585/coreweave-stock-jumps-jensen-huang-returns-nvidia-ecosystem-rally)
-
----
-
-## 7. Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy - WSJ
+## 1. Nasdaq Futures Fall as Questions Linger Over AI Trade - WSJ
 
 **Fonte:** wsj.com  
-**Sentimento:** 🔴 BEARISH  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Over the past two years, the U. S.  has become addicted to AI spending.
+Stock futures slipped into the red, as investors pondered lingering concerns around Jensen Huang’s return as Nvidia NVDA 31. 48%increase; up pointing triangle chief and the artificial-intelligence buildout after Monday’s stunning rally. 
 
-[Ler noticia completa](https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3)
+Nasdaq futures dropped 0.
+
+[Ler noticia completa](https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71)
 
 ---
 
-## 8. Asian stocks roar back as Jensen Huang's Nvidia return reignites the AI trade - Business Insider
+## 2. Amazon signs deal reportedly worth $7.5 billion for Decart technology to improve AI chip performance
 
-**Fonte:** businessinsider.com  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Games
+           Mini crossword
+           Solitaire roadtrip
+           Ribbit
+           Word games
+           Card games
+           Puzzle games
+
+       Entertainment
+           Celebrity
+           TV
+           Movies
+           Music
+           How to Watch
+           Videos
+           Nonfiction Hotlist
+           Games
+
+Selected editionUS English
+
+ Mark Lennihan
+
+Amazon announced Monday that it signed an agreement to buy Decart's AI optimization technology and bring the company's co-founders and their team of researchers and engineers to Amazon.  Amazon agreed to pay $7. 5 billion for the deal, Bloomberg reported.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/amazon-signs-deal-reportedly-worth-124837677.html)
+
+---
+
+## 3. Wall Street Futures Retreat as AI Investment Concerns Resurface and Markets Await US Inflation Report: Dow Jones, S&P, Nasdaq
+
+**Fonte:** uk.finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Technology shares fell sharply towards the end of last week as investors questioned the potential financial returns from substantial AI investments.  The sector subsequently recovered on Monday following the reinstatement of Nvidia (NASDAQ:NVDA) Chief Executive Jensen Huang. 
+
+However, selling pressure returned on Tuesday, dragging both the Nasdaq Composite and S&P 500 lower.
+
+[Ler noticia completa](https://uk.finance.yahoo.com/news/wall-street-futures-retreat-ai-095225465.html)
+
+---
+
+## 4. Nasdaq Futures Drop as Nvidia Leads Premarket AI Selloff - WSJ
+
+**Fonte:** wsj.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Nasdaq futures fell sharply as headwinds facing the artificial-intelligence trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded. 
+
+Meanwhile, oil prices fell and Treasurys strengthened ahead of U. S.
+
+[Ler noticia completa](https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b)
+
+---
+
+## 5. US Stock Futures Fall as AI Sector Volatility Returns Ahead of Key PCE Inflation Data: Dow Jones, S&P, Nasdaq, Wall Street
+
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Asia plays a central role in Nvidia's supply chain.  TSMC manufactures its advanced AI processors, while South Korea's SK Hynix and Samsung produce high-bandwidth memory used in AI systems.  Japanese companies provide semiconductor manufacturing and testing equipment.
+InvestorsHub
 
-[Ler noticia completa](https://www.businessinsider.com/nvidia-jensen-huang-ceo-return-kospi-tsmc-nikkei-ai-stocks-2026-11)
+# US Stock Futures Fall as AI Sector Volatility Returns Ahead of Key PCE Inflation Data: Dow Jones, S&P, Nasdaq, Wall Street
+
+US equity futures declined on Wednesday as renewed concerns surrounding artificial intelligence investments weighed on technology stocks, while investors awaited the latest US inflation figures for indications of the Federal Reserve's next monetary policy decision. 
+
+Dell Technologies (NYSE:DELL) raised its annual revenue forecast following strong demand for AI servers, although its shares declined in premarket trading.  Meanwhile, reports of potential new US tariffs and falling oil prices remained in focus.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-fall-ai-095129084.html)
 
 ---
 
-## 9. Wall Street analysts scramble to upgrade Nvidia’s stock after Huang’s return - CNBC
+## 6. Só 10 empresas da B3 elevaram o ROE por cinco períodos seguidos; 6 superaram o Ibovespa desde 2021 – Money Times
 
-**Fonte:** cnbc.com  
+**Fonte:** moneytimes.com.br  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+## Em 2025, todas superaram o Ibovespa; em 2026, apenas três
+
+A comparação anual reforça a diferença entre a evolução dos fundamentos e o desempenho das ações. 
+
+Em 2025, todas as dez empresas superaram o Ibovespa, que avançou 33,95%.  Em 2026, até 17 de novembro, apenas B3, Technos e Telefônica Brasil apresentaram retorno superior ao índice, que acumulava valorização de 5,07%.
+
+[Ler noticia completa](https://www.moneytimes.com.br/so-10-empresas-da-b3-elevaram-o-roe-por-cinco-periodos-seguidos-6-superaram-o-ibovespa-desde-2021)
+
+---
+
+## 7. B3SA3 Gráfico | Ações B3 ON - Investing.com
+
+**Fonte:** br.investing.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+PN Vale ON Usiminas PNA Gerdau PN Cemig PN BRF ON Itaúsa PN Axia Energia Prf Weg ON Banco Pan PN Nubank BDR Prio ON Méliuz ON Banco do Brasil ON Bradesco PN Tesla BDR Amazon. com BDR Apple BDR Alphabet A BDR Nvidia BDR XP BDR SpaceX Anthropic ETFs Principais ETFs ETFs Mundiais ETFs Brasil ETFs de Bitcoin ETFs de Criptomoedas na B3 Hashdex Nasdaq Bitcoin Reference Rate ETF iShares Ibovespa ETF iShares MSCI Brazil Small-Cap iShares MSCI Brazil Capped Hashdex Nasdaq Crypto ETF iShares S&P 500 ETF QR CME CF Bitcoin Reference Rate ETF Invesco QQQ Trust iShares BM&FBOVESPA Small Cap ETF Futuros Índices Futuros Commodities Câmbio Futuro Futuros Financeiros Futuros Perpétuos Ouro Prata Fundos Fundos Internacionais Principais Fundos FIP FI-Infra BB EXTRAMERCADO EXCLUSIVO FAT FUNDO DE INVESTIMENT [. ] Opiniões Parceiros Ações Filtro de Ações Brasil Warren EUA Pré-Abertura ADRs mundiais ADRs Brasil BDRs FIIs Américas Europa Oriente Médio Ásia e Oceania Ações selecionadas por IA Ações baratas Anúncio B3SA3 - B3 ON Acesse o gráfico em tempo real das ações B3SA3 e acompanhe as cotações da B3 ON.
+
+[Ler noticia completa](https://br.investing.com/equities/bmfbovespa-on-nm-chart)
+
+---
+
+## 8. Data Center REITs: The Boring Way To Own AI | Seeking Alpha
+
+**Fonte:** seekingalpha.com  
+**Sentimento:** ⚪ NEUTRAL  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Futuristic AI Data Center Interior
+
+imaginima/iStock via Getty Images
+
+I'm one of those people who believes that AI is going to change everything. 
+
+I don’t think that it's overhyped.  If anything, I think that it may still be underhyped.
+
+[Ler noticia completa](https://seekingalpha.com/article/4971110-data-center-reits-the-boring-way-to-own-ai)
+
+---
+
+## 9. Forbes
+
+**Fonte:** forbes.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-Nvidia reinstated former CEO Jensen Huang on Monday, leading several Wall Street analysts to turn more bullish on the stock.  Melius Research upgraded the dominant maker of artificial intelligence semiconductors to buy from hold, and put a $220 price target on the stock, implying roughly 75% upside from Nvidia's Friday close.  Bernstein did the same, raising Nvidia to outperform from market perform and putting a $200 price target on the stock that would equal a 59% advance.
+ByChristine Haughney Dare-Bryan,
 
-[Ler noticia completa](https://www.cnbc.com/2026/11/23/nvidia-has-reinstated-ceo-jensen-huang-analysts-upgraded-the-stock.html)
+Contributor
+
+## AI
+
+Image 116: The Big VC Winners In Anthropic’s IPO: Iconiq, Lightspeed And Others
+
+Innovation
+
+### The Big VC Winners In Anthropic’s IPO: Iconiq, Lightspeed And Others
+
+ByRichard Nieva,
+
+Senior Writer
+
+andIain Martin,
+
+Senior Editor
+
+Image 117: Google And Amazon Own More Anthropic Stock Than All Cofounders Combined
+
+Innovation
+
+### Google And Amazon Own More Anthropic Stock Than All Cofounders Combined
+
+ByRichard Nieva,
+
+Senior Writer
+
+Image 118: Jensen Huang’s Nvidia Resignation Leaves An Opening For Hungry Rivals
+
+Innovation
+
+### Jensen Huang’s Nvidia Resignation Leaves An Opening For Hungry Rivals
+
+ByRichard Nieva,
+
+Senior Writer
+
+Image 119: Google AI Proves Signal’s Encryption Really Works
+
+Newsletters [. ] ByAmy Feldman,
+
+Senior Editor
+
+Image 41: Construction, Concrete And Wires: How AI Is Lifting Privately Held Giants
+
+Billionaires
+
+### Construction, Concrete And Wires: How AI Is Lifting Privately Held Giants
+
+ByAndrea Murphy,
+
+Forbes Staff
+
+Image 42: Hong Kong Property Developer New World’s Stock Plummets To Record Low On $3. 2 Billion Rights Issue Plan
+
+Asia
+
+### Hong Kong Property Developer New World’s Stock Plummets To Record Low On $3.
+
+[Ler noticia completa](https://www.forbes.com)
 
 ---
 
-## 10. Nvidia stock is as disconnected from reality as Dutch tulips and Bored Ape NFTs, tech guru says - Business Insider
+## 10. Nvidia jumped 31% on Jensen Huang's return. A day later, the AI trade sold off: AlphaCheck
 
-**Fonte:** businessinsider.com  
-**Sentimento:** 🟢 BULLISH  
+**Fonte:** finance.yahoo.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-"I have witnessed corporate governance and misgovernance, political pressure on CEOs and boards from Presidents and members of Congress," Gordon said.  "I've seen fire and I've seen rain.  But I haven't seen this.
+# Nvidia jumped 31% on Jensen Huang's return.  A day later, the AI trade sold off: AlphaCheck
 
-[Ler noticia completa](https://www.businessinsider.com/nvidia-stock-price-jensen-huang-trump-ai-tulips-nfts-gordon-2026-11)
+Good morning.  Stocks fell on Tuesday as the chip sector sold off and shares of Anthropic (ANT) declined below their IPO price of $83.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/article/nvidia-leads-semiconductors-lower-alphacheck-144509267.html)
 
 ---
