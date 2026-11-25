@@ -1,72 +1,4 @@
 {
-  "https://sg.finance.yahoo.com/news/wall-streets-ai-rally-faces-214232715.html": {
-    "hash": "a77f94c73479f81f128b5e58586e752d",
-    "visto_em": "2026-11-17"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-test-ai-boom-014359078.html": {
-    "hash": "e3afc7646ed5620d3f17aa675aa8661e",
-    "visto_em": "2026-11-17"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-shock-investors-looking-091117502.html": {
-    "hash": "84663770ed4d1d56a34418215bc66a35",
-    "visto_em": "2026-11-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/blackstone-digital-infrastructure-trust-bxdc-020936445.html": {
-    "hash": "0b16aca1ef53172f69f1a3fa6352118a",
-    "visto_em": "2026-11-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-slide-5-7-181925082.html": {
-    "hash": "9277261803c51ffc31480d0978f5f9a2",
-    "visto_em": "2026-11-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-6-183502812.html": {
-    "hash": "e5ad9d527958304266b74e89791496e0",
-    "visto_em": "2026-11-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/4-chip-stocks-down-much-230102349.html": {
-    "hash": "96ecb6ae06cd045023ed0e55e81ea711",
-    "visto_em": "2026-11-17"
-  },
-  "https://www.benzinga.com/trading-ideas/movers/26/11/63312359/blackstone-digital-infrastructure-expands-data-center-portfolio-through-5-billion-aws-deal": {
-    "hash": "804ff8f3d9ce4316c980d61f77e817ba",
-    "visto_em": "2026-11-17"
-  },
-  "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026/card/blackstone-digital-infrastructure-trust-stock-jumps-on-data-center-deal-with-amazon-a1coCzXlvk4k8ZlfBRbq": {
-    "hash": "f19f5a04510220e2261530c2736334a7",
-    "visto_em": "2026-11-17"
-  },
-  "https://www.investing.com/news/company-news/blackstone-data-center-reit-nov-2026-slides-5b-amazon-deal-2t-market-93CH-5030320": {
-    "hash": "502bb16211238effa22ec4a6a83cf887",
-    "visto_em": "2026-11-17"
-  },
-  "https://finance.yahoo.com/real-estate/articles/blackstone-bxdc-buys-75-amazon-174039944.html": {
-    "hash": "823a388a0e6400681d1f7edf5354fd9c",
-    "visto_em": "2026-11-17"
-  },
-  "https://www.businessinsider.com/ai-stock-selloff-nvidia-q3-earnings-anthropic-ipo-2026-11": {
-    "hash": "1ad264b7809129c82fe5fa53d99e3ec2",
-    "visto_em": "2026-11-17"
-  },
-  "https://www.cnbc.com/video/2026/11/16/ai-trade-faces-a-healthy-reset-as-earnings-growth-cools-strategist.html": {
-    "hash": "cf00bb3e8702831741ef91ba249166d7",
-    "visto_em": "2026-11-17"
-  },
-  "https://www.wsj.com/articles/inside-the-frenetic-month-that-shook-wall-streets-ai-trade-bd0712f3": {
-    "hash": "97ee5a8b5495f0282bf434af21093e5a",
-    "visto_em": "2026-11-17"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-100-145810375.html": {
-    "hash": "fce82773230af958ef53a79c52cb58ab",
-    "visto_em": "2026-11-17"
-  },
-  "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html": {
-    "hash": "099f7313005310487d3fe9f1ab647cd2",
-    "visto_em": "2026-11-17"
-  },
-  "https://www.businessinsider.com/nvidia-stock-jensen-huang-earnings-kospi-tsmc-asia-ai-trade-2026-11": {
-    "hash": "bd47b0d5e0888c4145d7a58edc25219f",
-    "visto_em": "2026-11-17"
-  },
   "https://www.wsj.com/finance/investing/volatility-has-fundamentally-rewired-the-ai-trade-53678137": {
     "hash": "c6acbee96d211054b1f8aa1e6a906853",
     "visto_em": "2026-11-18"
@@ -594,5 +526,45 @@
   "https://www.investing.com/indices/ibovespa-usd": {
     "hash": "d4a8df27ee9cf3202dc110b4fc0b68e7",
     "visto_em": "2026-11-24"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-surge-nvidia-rally-192000003.html": {
+    "hash": "f2c1b276a3c6af0e98cdb0e7a53fab8d",
+    "visto_em": "2026-11-25"
+  },
+  "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html": {
+    "hash": "3b9a39d4d7d379dd484f7003146866d9",
+    "visto_em": "2026-11-25"
+  },
+  "https://finance.yahoo.com/quote/DTCR": {
+    "hash": "3649edd248ab6b02fbdfdc7c004280a8",
+    "visto_em": "2026-11-25"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/workdays-c1-ai-acquisition-advance-145900369.html": {
+    "hash": "026e56ddfc4f0162b13f6e03ea628c12",
+    "visto_em": "2026-11-25"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html": {
+    "hash": "0372281c8349acfae1d168c431aae5e8",
+    "visto_em": "2026-11-25"
+  },
+  "https://www.benzinga.com/markets/equities/26/11/63537585/coreweave-stock-jumps-jensen-huang-returns-nvidia-ecosystem-rally": {
+    "hash": "67358349bfcc6fa78b5c63b0271c369c",
+    "visto_em": "2026-11-25"
+  },
+  "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3": {
+    "hash": "c4bc962e53de76ba86719a25aa478708",
+    "visto_em": "2026-11-25"
+  },
+  "https://www.businessinsider.com/nvidia-jensen-huang-ceo-return-kospi-tsmc-nikkei-ai-stocks-2026-11": {
+    "hash": "2068377628a4df6fe935691d9a77eb21",
+    "visto_em": "2026-11-25"
+  },
+  "https://www.cnbc.com/2026/11/23/nvidia-has-reinstated-ceo-jensen-huang-analysts-upgraded-the-stock.html": {
+    "hash": "08ddbebb3e7db1ec9b2d9f7b8688bd62",
+    "visto_em": "2026-11-25"
+  },
+  "https://www.businessinsider.com/nvidia-stock-price-jensen-huang-trump-ai-tulips-nfts-gordon-2026-11": {
+    "hash": "7eaa130ede367d74bce650af9897debc",
+    "visto_em": "2026-11-25"
   }
 }

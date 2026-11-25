@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-25",
+    "total_noticias": 10,
+    "gerado_em": "2026-11-25T12:04:05.254057"
+  },
+  "noticias": [
+    {
+      "titulo": "Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stocks-surge-nvidia-rally-192000003.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-23",
+      "resumo": "Proactive\n\n# Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100\n\nUS technology stocks staged a broad rally Monday, with gains across chipmakers, AI infrastructure providers and software companies adding nearly $2 trillion to the Nasdaq 100's market capitalization as investors welcomed Jensen Huang's return to Nvidia Corp (NASDAQ:NVDA, XETRA:NVD). \n\nThe chipmaker was up 32%, making it the strongest performer among major US technology stocks, with shares reaching an intraday high of $171. 50.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Stock market today: Live updates",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-23",
+      "resumo": "The market saw a massive rally on Monday, with the Nasdaq and S&P 500 seeing their best session since April 9, 2025, when President Donald Trump announced a reprieve on tariffs.  That action was a sharp reversal from Friday's steep sell-off, which saw the S&P 500 and Dow close in correction as the AI trade suffered and Nvidia tanked. \n\nMark Haefele of UBS Global Wealth Management said in a note Tuesday that his team does not believe the volatility in global tech names is \"a signal that the structural AI investment story has broken.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Global X Data Center & Digital Infrastructure ETF (DTCR) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/DTCR",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-22",
+      "resumo": "### Asset profile\n\nThe fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the Solactive Data Center REITs & Digital Infrastructure Index and in ADRs and GDRs based on the securities in the index.  The index is designed to provide exposure to companies that have business operations in the fields of data centers, cellular towers, and/or digital infrastructure hardware.  The fund is non-diversified.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Can Workday's C1.ai Acquisition Advance Its AI Growth Prospects?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/workdays-c1-ai-acquisition-advance-145900369.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-24",
+      "resumo": "Workday, Inc.  WDAY has completed its acquisition of C1. ai, a leading agentic identity platform for managing access and security across human employees and artificial intelligence agents.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "The surprise return of Jensen Huang as Nvidia's CEO, announced Monday, does bring back a charismatic leader who championed the entire AI industry.  But it does not settle deeper concerns such as whether AI can possibly produce enough profit and productivity to justify massive investments in data centers. \n\nHigh interest rates are making it more difficult to borrow money to pay for the industry's growth.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "CoreWeave Stock Jumps 29% as Jensen Huang Returns: 10 Nvidia-Linked Names Rally - Benzinga",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63537585/coreweave-stock-jumps-jensen-huang-returns-nvidia-ecosystem-rally",
+      "fonte": "benzinga.com",
+      "data": "2026-11-23",
+      "resumo": "Taiwan Semiconductor Manufacturing Co.  Ltd.  (NYSE:TSM), which manufactures Nvidia’s processors, climbed 15.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy - WSJ",
+      "url": "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3",
+      "fonte": "wsj.com",
+      "data": "2026-11-25",
+      "resumo": "Over the past two years, the U. S.  has become addicted to AI spending.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Asian stocks roar back as Jensen Huang's Nvidia return reignites the AI trade - Business Insider",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-ceo-return-kospi-tsmc-nikkei-ai-stocks-2026-11",
+      "fonte": "businessinsider.com",
+      "data": "2026-11-24",
+      "resumo": "Asia plays a central role in Nvidia's supply chain.  TSMC manufactures its advanced AI processors, while South Korea's SK Hynix and Samsung produce high-bandwidth memory used in AI systems.  Japanese companies provide semiconductor manufacturing and testing equipment.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall Street analysts scramble to upgrade Nvidia’s stock after Huang’s return - CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-has-reinstated-ceo-jensen-huang-analysts-upgraded-the-stock.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-23",
+      "resumo": "Nvidia reinstated former CEO Jensen Huang on Monday, leading several Wall Street analysts to turn more bullish on the stock.  Melius Research upgraded the dominant maker of artificial intelligence semiconductors to buy from hold, and put a $220 price target on the stock, implying roughly 75% upside from Nvidia's Friday close.  Bernstein did the same, raising Nvidia to outperform from market perform and putting a $200 price target on the stock that would equal a 59% advance.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia stock is as disconnected from reality as Dutch tulips and Bored Ape NFTs, tech guru says - Business Insider",
+      "url": "https://www.businessinsider.com/nvidia-stock-price-jensen-huang-trump-ai-tulips-nfts-gordon-2026-11",
+      "fonte": "businessinsider.com",
+      "data": "2026-11-24",
+      "resumo": "\"I have witnessed corporate governance and misgovernance, political pressure on CEOs and boards from Presidents and members of Congress,\" Gordon said.  \"I've seen fire and I've seen rain.  But I haven't seen this.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
