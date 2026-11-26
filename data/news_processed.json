@@ -2,10 +2,136 @@
   "meta": {
     "versao": "1.0",
     "data": "2026-11-26",
-    "total_noticias": 108,
-    "gerado_em": "2026-11-26T11:51:32.944388"
+    "total_noticias": 117,
+    "gerado_em": "2026-11-26T19:25:49.428640"
   },
   "noticias": [
+    {
+      "titulo": "This May Be the Best Artificial Intelligence (AI) Stock to Buy in December (Hint: It’s Not Micron or Oracle)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/may-best-artificial-intelligence-ai-161302415.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "It is easy to see why that's the case.  Companies offering AI products and solutions are witnessing solid growth in revenue and earnings, suggesting that enterprises and governments have been adopting the technology to unlock productivity gains.  Snowflake has been a beneficiary of the growing AI adoption, and that reflects on its stock market performance.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "3 Glorious AI Stocks to Buy Hand Over Fist If the Stock Market Crashes",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-glorious-ai-stocks-buy-200201372.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "Moreover, AI appears to be enhancing its long-term growth prospects.  Alphabet said Search queries grew at their fastest pace in five years last quarter.  That matters because earlier in the generative AI revolution, many investors and analysts feared that users asking AI chatbots questions would lead to a reduction in traffic to Google Search.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC Has a 'Substantially Wider Moat' Than Nvidia, Says Investor Joseph Carlson",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-substantially-wider-moat-nvidia-142839344.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "TSMC can also benefit from growing competition between its customers.  While Nvidia faces competition from AMD and cloud computing companies designing their own AI chips, TSMC manufactures chips for them all.  \"TSM is a layer above these companies,\" Carlson said.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return - CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+      "fonte": "cnbc.com",
+      "data": "2026-11-25",
+      "resumo": "In this article\n\nTechnology stocks plunged on Wednesday as excitement over Nvidia CEO Jensen Huang's return faded and failed to calm mounting concerns over the sustainability of the artificial intelligence trade. \n\nThe tech-heavy Nasdaq Composite dropped nearly 4%.  Semiconductor stocks dragged on the index, and the VanEck Semiconductor ETF that tracks the sector plummeted 7%.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nasdaq 100 Enters Bear Market Territory as AI Angst Fuels Losses - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+      "fonte": "bloomberg.com",
+      "data": "2026-11-25",
+      "resumo": "# Nasdaq 100 Bounces Off Tech-Driven Lows as Dip Buyers Emerge\n\nUS stocks bounced off their lows, trimming losses that sent the tech-heavy Nasdaq 100 Index briefly into bear-market territory, as dip buyers looked past the biggest concerns clouding the outlook for artificial intelligence. \n\nThe Nasdaq was down about 0. 6% as of 2:55 p.",
+      "sentimento": "bearish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Can Draganfly's AI Partnership Boost Its Unmanned Systems Business?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/draganflys-ai-partnership-boost-unmanned-110500226.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-26",
+      "resumo": "Draganfly DPRO is looking to expand its capabilities in autonomous unmanned systems through a new collaboration with DOD Solution, an Estonian-Ukrainian defense technology company.  Announced on Nov.  23, 2026, the memorandum of understanding is aimed at advancing the integration of DOD Solution's onboard autonomy technology into selected Draganfly unmanned systems.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "4 things investors can be thankful for, even after a brutal stretch for stocks - Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-investors-thankful-ai-anthropic-consumer-nvidia-memes-outlook-2026-11",
+      "fonte": "businessinsider.com",
+      "data": "2026-11-26",
+      "resumo": "Investors have been increasingly shifting toward \"quality\" companies with rock-solid balance sheets and minimal debt.  Traders are no longer indiscriminately piling into anything remotely associated with AI.  Companies are facing a real \"prove it\" moment, and the cream is rising to the top.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia Shares Fall 5% in Premarket Trading as Goldman Sachs Highlights Lingering Uncertainty Following Huang’s Return",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-fall-5-premarket-112303199.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-24",
+      "resumo": "Nvidia's announcement on Monday contributed to Wall Street's strongest daily performance since April 2025, with renewed investor interest in artificial intelligence-related stocks extending into Asian markets on Tuesday. \n\nTaiwan Semiconductor Manufacturing Company (TSMC), a major Nvidia supplier, gained more than 9% in Taiwan, while Japanese semiconductor testing equipment manufacturer Advantest advanced more than 12%. \n\nSouth Korean memory chip manufacturers Samsung Electronics and SK Hynix, which also supply Nvidia, each recorded gains exceeding 6%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Nvidia’s Role as an Underwriter of the AI Boom - WSJ",
+      "url": "https://www.wsj.com/finance/investing/nvidias-role-as-an-underwriter-of-the-ai-boom-95375800",
+      "fonte": "wsj.com",
+      "data": "2026-11-25",
+      "resumo": "Jensen Huang is back.  So are Jensen Huang’s problems. \n\nThe reinstatement of Nvidia’s chief executive Monday reinvigorated the company’s stock and gave new life to the AI trade.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "AI is crushing software stocks — and a debt wall looms: Chart of the Day",
       "url": "https://finance.yahoo.com/markets/article/ai-is-crushing-software-stocks--and-a-debt-wall-looms-chart-of-the-day-110000479.html",
