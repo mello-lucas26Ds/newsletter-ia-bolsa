@@ -1,11 +1,109 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-11-25",
-    "total_noticias": 124,
-    "gerado_em": "2026-11-25T19:46:53.826407"
+    "data": "2026-11-26",
+    "total_noticias": 108,
+    "gerado_em": "2026-11-26T11:51:32.944388"
   },
   "noticias": [
+    {
+      "titulo": "AI is crushing software stocks — and a debt wall looms: Chart of the Day",
+      "url": "https://finance.yahoo.com/markets/article/ai-is-crushing-software-stocks--and-a-debt-wall-looms-chart-of-the-day-110000479.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "# AI is crushing software stocks — and a debt wall looms: Chart of the Day\n\nStock investors have been dumping software names this year, fearing that AI will eat their lunch.  Lenders are catching up. \n\nSoftware stocks held steady on Tuesday while chip stocks sank about 8%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Endava Becomes Anthropic Select Partner to Accelerate AI-Native Engineering and Business AI Value",
+      "url": "https://finance.yahoo.com/technology/ai/articles/endava-becomes-anthropic-select-partner-155200145.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "We believe this milestone strengthens Endava's position as an AI-native transformation partner, enhancing its ability to help enterprises modernise complex technology environments, securely deploy intelligent AI agents, and unlock measurable business value with and from AI. \n\nWhile many organisations have successfully experimented with AI, turning that investment into scalable, production-ready solutions remains a significant challenge.  Endava is addressing this by combining Anthropic's Claude technology with deep industry expertise, enterprise engineering and Dava.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Megadeals Defy Selloff, Head Toward Record",
+      "url": "https://finance.yahoo.com/video/megadeals-defy-selloff-head-toward-204909645.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "# Megadeals Defy Selloff, Head Toward Record\n\nWall Street is taking a big step toward a record year for mergers and acquisitions as some of the world's largest companies defy a tech-induced selloff in global stocks to pursue major takeovers.  Bloomberg's Scarlet Fu reports on \"Bloomberg Deals. \".",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "BOLSY Stock Price | B3 S/A Brasil Bolsa Balcao ADR Stock Quote (U.S.: OTC) | MarketWatch",
+      "url": "https://www.marketwatch.com/investing/stock/bolsy",
+      "fonte": "marketwatch.com",
+      "data": "2026-11-20",
+      "resumo": "registration, and post-trade solutions.  The Technology & Platforms segment engages in providing technology infrastructure, software platforms, and digital solutions that support financial market operations and connectivity.  The company was founded on August 23, 1890 and is headquartered in São Paulo, Brazil.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.02% By Investing.com",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-002-5002461",
+      "fonte": "uk.investing.com",
+      "data": "2026-11-24",
+      "resumo": "Biggest losers included Marcopolo Pref (BVMF:POMO4), which lost 5. 56% or 0. 20 points to trade at 3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bovespa Win Futures - Investing.com",
+      "url": "https://www.investing.com/indices/bovespa-win-futures",
+      "fonte": "investing.com",
+      "data": "2026-11-23",
+      "resumo": "CRWD 208. 97 -8. 92% 41.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Chip stocks rally as Anthropic’s record IPO lifts AI investment sentiment",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chip-stocks-rally-anthropic-record-162500547.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-19",
+      "resumo": "Amazon is also a major existing Anthropic shareholder, although it is not among the seven buyers in this private placement. \n\nThe share gains reflect investor interest in companies with exposure to Anthropic's expansion and the broader artificial intelligence infrastructure market.  [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "Nasdaq Futures Fall as Questions Linger Over AI Trade - WSJ",
       "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71",
@@ -609,20 +707,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Pony Ai (PONY) Earnings Date & Report - Investing.com",
-      "url": "https://www.investing.com/equities/pony-ai-inc-earnings",
-      "fonte": "investing.com",
-      "data": "2026-11-18",
-      "resumo": "| Name | Last | Upside | Fair Value |\n ---  --- |\n| Aa A Aaaaaaaaaaaa | 24. 74 | +80. 67% | 44.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "NVIDIA Jumps 28% as Jensen Huang Reportedly Reinstated as CEO; Intel Rallies 13%, AMD Gains 7%",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-jumps-28-chip-stocks-141339800.html",
       "fonte": "finance.yahoo.com",
@@ -852,20 +936,6 @@
       "fonte": "benzinga.com",
       "data": "2026-11-21",
       "resumo": "The discussions are still underway, and there is no guarantee that they will lead to a deal, according to the report. \n\nCrowdStrike and Zscaler did not immediately respond to Benzinga’s request for comment. \n\n## Cybersecurity Deals Amid Rise of AI\n\nThe discussions come at a time when businesses increasingly rely on cybersecurity providers such as CrowdStrike to protect themselves against hackers and digital threats, particularly as AI and technological advances introduce new vulnerabilities.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The 3 Best AI Stocks to Buy Now (Yes, Nvidia Is One of Them)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-best-ai-stocks-buy-140402440.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-18",
-      "resumo": "While AI investment sentiment is currently negative, I think there are plenty of great investment opportunities right now.  They include Nvidia (NASDAQ:NVDA), Broadcom (NASDAQ:AVGO), and Micron (NASDAQ:MU).  While Nvidia is in a bit of a mess with its CEO resigning last week, I think the stock has cratered to the point where it makes sense to buy shares.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1337,20 +1407,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "AMD, Broadcom, and TSMC stocks rise on Nvidia earnings beat",
-      "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-18",
-      "resumo": "1.  Crypto\n\n   Crypto\n2.  AI\n\n   AI\n\nLIVE   Nvidia’s first earnings call since Jensen Huang’s resignation is underway.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "RAIN & Tensor Merger Positions Dual-Tech Growth Platform – Quarterly Update Report",
       "url": "https://finance.yahoo.com/technology/ai/articles/rain-tensor-merger-positions-dual-165045404.html",
       "fonte": "finance.yahoo.com",
@@ -1365,67 +1421,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "NVIDIA's Leadership Woes: Buy TSMC & ASML Despite Supply-Chain Risks?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-leadership-woes-buy-tsmc-190000738.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-18",
-      "resumo": "## November Stock Performances So Far: NVDA, TSM & ASML\n\nImage Source: Zacks Investment Research\n\nHowever, NVIDIA's latest quarterly results suggest that its underlying business momentum remains strong.  The company reported third-quarter fiscal 2027 adjusted earnings of $2. 68 per share, beating the Zacks Consensus Estimate of $2.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & History - Yahoo Finance",
-      "url": "https://ca.finance.yahoo.com/quote/DLR",
-      "fonte": "ca.finance.yahoo.com",
-      "data": "2026-11-18",
-      "resumo": "Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "AI Stocks Keep Making Headlines. Here's What Investors Should Check Before Chasing The Next Big Move",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-keep-making-headlines-155805965.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-18",
-      "resumo": "For chipmakers, that might mean examining demand from major customers, revenue growth and profit margins.  For software companies, investors may want to look at customer adoption, recurring revenue and whether AI products are generating additional business. \n\nA company can have an impressive AI strategy without yet producing meaningful financial results from it.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Wall Street Futures Rise as Anthropic IPO Revives Interest in AI Stocks: Dow Jones, S&P, Nasdaq",
       "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-futures-rise-anthropic-141341565.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-19",
       "resumo": "US stock futures pointed to a higher opening on Thursday, with technology shares expected to lead gains following a strong market response to the initial public offering of artificial intelligence developer Anthropic (NASDAQ:ANT). \n\nNasdaq 100 futures surged 1. 9%, indicating renewed buying interest in technology stocks after several sessions of market weakness.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wall Street.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-correction-2-ai-100802143.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-18",
-      "resumo": "The Nasdaq Composite (NASDAQINDEX:^IXIC) entered correction territory earlier this month amid concerns about the sustainability of the artificial intelligence boom.  But history says the sell-off is a buying opportunity.  In the last decade, the index returned an average of 21% during the year following its first close in correction territory.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -1491,34 +1491,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI - CNBC",
-      "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-18",
-      "resumo": "In this article\n\nFive days after Nvidia's Jensen Huang resigned from the company he co-founded 33 years ago under a cloud of scandal, a nervous base of shareholders eagerly awaited Colette Kress' first public appearance as interim CEO. \n\nFollowing Nvidia's better-than-expected earnings report on Tuesday, Kress offered some relief to Wall Street, at least temporarily, by proclaiming on the call with analysts that customers are still fully onboard and that there's no slippage in demand.  She said leadership from Nvidia's most important supplier, Taiwan Semiconductor Manufacturing Company, visited company offices this week.",
-      "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Jim Cramer's top 10 things to watch in the stock market Wednesday - CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-18",
-      "resumo": "My top 10 things to watch Wednesday, Nov.  18 1.  Nasdaq futures are leading the gains this morning, aided by a roughly 3% advance in shares of embattled Nvidia following the AI chip giant's strong quarter, long-term guidance raise, and reassuring words from interim CEO Colette Kress.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "A tech fund manager sold Nvidia before the drama. Here’s why it won’t buy the dip. - Business Insider",
       "url": "https://www.businessinsider.com/nvidia-nvda-stock-price-jensen-huang-bit-capital-valuation-outlook-2026-11",
       "fonte": "businessinsider.com",
@@ -1533,207 +1505,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Nasdaq Futures Rise as Nvidia Earnings Calm AI Fears, Attention Turns to Anthropic",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rally-nvidia-earnings-093700969.html?fr=sycsrp_catchall",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-18",
-      "resumo": "Tech stocks rallied across the globe after Nvidia's market-beating earnings steadied sentiment around the artificial-intelligence trade, as investor attention turns to the pricing of Anthropic's highly anticipated IPO.  [. ] Nasdaq futures traded 0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Nasdaq futures jump on hopes for strong Anthropic market debut",
       "url": "https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19",
       "fonte": "reuters.com",
       "data": "2026-11-19",
       "resumo": "Nasdaq futures rose nearly 2% on Thursday after Anthropic priced its IPO above the marketed range, bolstering expectations for a strong debut and reviving sentiment ‌around beaten-down AI stocks..",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia's numbers and Anthropic anticipation drive Nasdaq futures up",
-      "url": "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-18",
-      "resumo": "This is CNBC's Morning Squawk newsletter.  Subscribe here to receive future editions in your inbox. \n\nHello, this is Leonie Kidd with today's edition of Morning Squawk.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion - WSJ",
-      "url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611",
-      "fonte": "wsj.com",
-      "data": "2026-11-18",
-      "resumo": "Palo Alto Networks PANW 9. 90%increase; up pointing triangle has agreed to acquire Applied Compute, a San Francisco-based artificial-intelligence startup founded by former OpenAI researchers, in an all-stock deal valued at $4. 5 billion, executives told The Wall Street Journal.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock market today: Dow, S&P 500 slip ahead of Anthropic IPO, Nvidia stock extends decline",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-18",
-      "resumo": "During Lagarde's talk, she also emphasized how interconnected technology, trade, and finance have become, adding that \"international cooperation is a must in this environment where everything moves and affects everyone else. \"\n David Hollerith\n\n  David Hollerith\n\n  ## Tech stocks look to stage a comeback after Nvidia earnings\n\n  US stocks opened slightly higher Wednesday, with the spotlight focused firmly on Wall Street and this week's two biggest tests for the artificial intelligence trade. \n\n  The Dow Jones Industrial Average (^DJI) fell 0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug - MarketWatch",
-      "url": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe",
-      "fonte": "marketwatch.com",
-      "data": "2026-11-18",
-      "resumo": "2\n\nNvidia’s stock fell Wednesday.  Photo: Getty Images\n\n### Referenced Symbols\n\n NVDA\n\n  -2. 89%\n SPX\n\n  -0.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock Market Today: Dow off 500 points, S&P 500 and Nasdaq mixed; Anthropic expected to price IPO — live updates - MarketWatch",
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-nvidia-q3-results-anthropic-expected-price-ipo",
-      "fonte": "marketwatch.com",
-      "data": "2026-11-18",
-      "resumo": "2 hours ago\n\n#### Dow recovers some ground but is still down 300 points\n\n2 hours ago\n\n#### Nvidia was the earnings test.  Now comes Anthropic and the AI valuation test. \n\n3 hours ago\n\n#### Dow heads for worst three-day stretch since April 2025\n\n3 hours ago\n\n#### Nvidia and S&P 500 are doing their familiar post-earnings-report dance\n\n3 hours ago\n\n#### S&P 500 falling for 5th straight session, heading for longest losing streak since June\n\n4 hours ago\n\n#### Small cap stocks bounce, adding to 9.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stock Market Today: Nasdaq Futures Rise After Nvidia Earnings Soothe AI Jitters - WSJ",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026",
-      "fonte": "wsj.com",
-      "data": "2026-11-18",
-      "resumo": "Nov.  18, 2026 at 9:33am ET\n\n# Stock Market Today: Tech Stocks Get Small Lift After Nvidia Earnings\n\n## Chip giant's stock rises; Dow slips\n\nNvidia’s blockbuster earnings are poised to lift tech stocks today, as investors regain some confidence in the AI trade after days of drama over the chip maker’s ousted CEO Jensen Huang. \n\nFutures on the Nasdaq-100 are up around 0.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "What Is Blackstone (BX) Signaling With Its $5 Billion Data Center Deal?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-bx-signaling-5-billion-031206895.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-18",
-      "resumo": "Mitch Lawler\n\n3 min read\n\n BX -0. 65%\n\n Blackstone (NYSE:BX) has agreed for its Digital Infrastructure Trust to acquire a US$5b AWS data center portfolio backed by Amazon Web Services. \n The portfolio consists of hyperscale facilities used by AWS, giving Blackstone exposure to large scale cloud and AI infrastructure.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Goldman Sachs says bet on these 24 ‘physical asset’ stocks getting a boost from AI adoption - Business Insider",
-      "url": "https://www.businessinsider.com/stocks-to-buy-now-ai-adopters-investing-recommendations-goldman-sachs-2026-11",
-      "fonte": "businessinsider.com",
-      "data": "2026-11-18",
-      "resumo": "The next phase of the AI trade is arriving, Goldman Sachs says, and the bank has some ideas on how to capitalize on it. \n\nIn its 2027 outlook note to clients on Tuesday, Goldman said it expects capex growth to begin slowing in 2027 for the first time since the start of the AI buildout. \n\nThat means it's a good time to start moving away from some of the AI buildout beneficiaries, the bank said, and start focusing on adopters: companies using the technology to grow their margins.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Buy the AI boom or beware the hype? 5 investing pros weigh in on Anthropic’s IPO - Business Insider",
-      "url": "https://www.businessinsider.com/should-i-buy-anthropic-ipo-investing-advice-ant-2026-11",
-      "fonte": "businessinsider.com",
-      "data": "2026-11-18",
-      "resumo": "Instead of the $2 trillion valuation that was floated earlier this year, $1. 13 to $1. 3 trillion offers a much more palatable entry point for investors, she said.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Strong Nvidia earnings are being clouded by China risks and succession questions - Business Insider",
-      "url": "https://www.businessinsider.com/nvidia-stock-business-outlook-risks-china-chips-ceo-search-2026-11",
-      "fonte": "businessinsider.com",
-      "data": "2026-11-18",
-      "resumo": "The company, which has been embroiled in a leadership crisis amid Jensen Huang's ouster, reported $115. 8 billion in revenue over the last three-month period, marking a 103% surge from the same quarter last year.  In its key data center segment, revenue came in at $107.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia stock up nearly 4% as earnings beat expectations. Neoclouds surge - CNBC",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-18",
-      "resumo": "In this article\n\nNvidia stock was up nearly 4% in premarket trading on Wednesday after reporting another earnings beat, as the fallout from CEO Jensen Huang's resignation continues to unfold. \n\nThe chip giant's stock was 3. 69% higher at 5.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Dealbook Summit 2026 live updates: Vance, Altman to speak at conference - CNBC",
-      "url": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-18",
-      "resumo": "Once again artificial intelligence and the impact it is having on our world will be top of mind.  The conference comes as OpenAI rival Anthropic is about to make its public debut on Thursday, and it follows a series of widespread tech outages that have grounded airplanes, snarled email, and stymied banking transactions, among other disruptions. \n\nWhile the various IT issues have been a dramatic reminder of society's dependency on these services, the Anthropic IPO raises a number of questions about the valuations of AI companies, which have been under pressure.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nvidia Just Reported $115.8 Billion. Now Comes A Bigger Test",
-      "url": "https://www.forbes.com/sites/sanjitsinghdang/2026/11/17/nvidia-earnings-115-billion-revenue-ai-strategy",
-      "fonte": "forbes.com",
-      "data": "2026-11-18",
-      "resumo": "Nvidia reported $115. 8 billion in quarterly revenue.  Now investors are watching how new CEO Colette Kress handles AI infrastructure spending and financing.",
       "sentimento": "neutral",
       "tags": [
         "AI",

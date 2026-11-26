@@ -1,84 +1,4 @@
 {
-  "https://www.wsj.com/finance/investing/volatility-has-fundamentally-rewired-the-ai-trade-53678137": {
-    "hash": "c6acbee96d211054b1f8aa1e6a906853",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.bloomberg.com/news/articles/2026-11-16/blackstone-reit-to-buy-amazon-data-centers-in-5-billion-deal": {
-    "hash": "9fff8dd7e70fab536bedbed32b2bcb45",
-    "visto_em": "2026-11-18"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nvidia-beats-third-quarter-estimates-214100573.html?fr=sycsrp_catchall": {
-    "hash": "7b7b6880ae3d3416a6a1f0df2971c2f7",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.cnbc.com/investingclub/2026/11/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html": {
-    "hash": "4cd260203460225b4277468328254ecb",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.wsj.com/business/deals/blackstone-digital-infrastructure-trust-to-acquire-data-center-portfolio-from-amazon-for-5-billion-87e53519": {
-    "hash": "ef53b73001ba05cd77bbd3463d129ec4",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.benzinga.com/opinion/26/11/63353213/nvidias-biggest-customers-keep-spending-power-and-debt-set-the-limits": {
-    "hash": "d4d1e0468991131afae1a6b76e4280a9",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.businessinsider.com/google-nvidia-draw-big-law-talent-as-ai-jobs-surge-2026-10": {
-    "hash": "1546c927df1e9ca8bfa109805bdbcaa1",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.forbes.com/sites/sanjitsinghdang/2026/11/17/nvidia-earnings-115-billion-revenue-ai-strategy": {
-    "hash": "ae11d5a430c3cafa1e0792b13cdacb4c",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html": {
-    "hash": "a96a1ea4ff56b52eac6bf55d94d57c18",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html": {
-    "hash": "1865421b49fb21bb943d676e3d9d46f8",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026": {
-    "hash": "c8860223e74af97142857d1532f44f6c",
-    "visto_em": "2026-11-18"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/blackstone-bx-signaling-5-billion-031206895.html": {
-    "hash": "1daded198c92c3e2f8d9182864c21814",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.businessinsider.com/stocks-to-buy-now-ai-adopters-investing-recommendations-goldman-sachs-2026-11": {
-    "hash": "b30805b6d0010c11c35619432ce0a575",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.infomoney.com.br/mercados/b3-lancara-bdr-da-anthropic-simultaneamente-ao-ipo-da-empresa-na-nasdaq": {
-    "hash": "27de432ab2059ab59cdfa303547bf6e2",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.businessinsider.com/should-i-buy-anthropic-ipo-investing-advice-ant-2026-11": {
-    "hash": "08ab662d5fdc27be01da0a5349d0c0fc",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.businessinsider.com/nvidia-stock-business-outlook-risks-china-chips-ceo-search-2026-11": {
-    "hash": "c91d9a9cfc2dc80819b6ec0ef14a0a21",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html": {
-    "hash": "605f0aaee9eae6fde3e8dbeaa0925019",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.cnbc.com/2026/11/17/nvidia-has-lost-2-trillion-in-value-heres-what-options-traders-expect-from-earnings.html": {
-    "hash": "0ded102e04570c97344c4f49e730fc29",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html": {
-    "hash": "bef54eb9e7a4d11e4c79089ac4997bf5",
-    "visto_em": "2026-11-18"
-  },
-  "https://www.bloomberg.com/news/newsletters/2026-11-17/nvidia-s-earnings-come-at-a-time-of-mounting-tech-turmoil": {
-    "hash": "f70225ba36fee5e756600d3a4d88a7d3",
-    "visto_em": "2026-11-18"
-  },
   "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rally-nvidia-earnings-093700969.html?fr=sycsrp_catchall": {
     "hash": "7cad6609b927bc002d18393f38f7dd96",
     "visto_em": "2026-11-19"
@@ -606,5 +526,33 @@
   "https://finance.yahoo.com/markets/article/nvidia-leads-semiconductors-lower-alphacheck-144509267.html": {
     "hash": "9aa41d8b6c202da928b1693929516fd9",
     "visto_em": "2026-11-25"
+  },
+  "https://finance.yahoo.com/markets/article/ai-is-crushing-software-stocks--and-a-debt-wall-looms-chart-of-the-day-110000479.html": {
+    "hash": "6ec4e9368cdb94456c93d4ae0670a80a",
+    "visto_em": "2026-11-26"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/endava-becomes-anthropic-select-partner-155200145.html": {
+    "hash": "8a4ac8c918f49861eec92a1457816dbb",
+    "visto_em": "2026-11-26"
+  },
+  "https://finance.yahoo.com/video/megadeals-defy-selloff-head-toward-204909645.html": {
+    "hash": "be67324805dd6ca26946cca272d51fe0",
+    "visto_em": "2026-11-26"
+  },
+  "https://www.marketwatch.com/investing/stock/bolsy": {
+    "hash": "a2cf1865b845dca08803fb0d962c22f7",
+    "visto_em": "2026-11-26"
+  },
+  "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-002-5002461": {
+    "hash": "be9248511a8224ee73b207fd0b3b3a3a",
+    "visto_em": "2026-11-26"
+  },
+  "https://www.investing.com/indices/bovespa-win-futures": {
+    "hash": "78f8c0e451f5b8ab1df4f1f1e0af2baf",
+    "visto_em": "2026-11-26"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/chip-stocks-rally-anthropic-record-162500547.html": {
+    "hash": "cd263cb72753c5fd3e8b8029ab630ddf",
+    "visto_em": "2026-11-26"
   }
 }

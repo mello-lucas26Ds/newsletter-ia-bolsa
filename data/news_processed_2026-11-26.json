@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-26",
+    "total_noticias": 7,
+    "gerado_em": "2026-11-26T11:51:32.942387"
+  },
+  "noticias": [
+    {
+      "titulo": "AI is crushing software stocks — and a debt wall looms: Chart of the Day",
+      "url": "https://finance.yahoo.com/markets/article/ai-is-crushing-software-stocks--and-a-debt-wall-looms-chart-of-the-day-110000479.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "# AI is crushing software stocks — and a debt wall looms: Chart of the Day\n\nStock investors have been dumping software names this year, fearing that AI will eat their lunch.  Lenders are catching up. \n\nSoftware stocks held steady on Tuesday while chip stocks sank about 8%.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Endava Becomes Anthropic Select Partner to Accelerate AI-Native Engineering and Business AI Value",
+      "url": "https://finance.yahoo.com/technology/ai/articles/endava-becomes-anthropic-select-partner-155200145.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "We believe this milestone strengthens Endava's position as an AI-native transformation partner, enhancing its ability to help enterprises modernise complex technology environments, securely deploy intelligent AI agents, and unlock measurable business value with and from AI. \n\nWhile many organisations have successfully experimented with AI, turning that investment into scalable, production-ready solutions remains a significant challenge.  Endava is addressing this by combining Anthropic's Claude technology with deep industry expertise, enterprise engineering and Dava.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Megadeals Defy Selloff, Head Toward Record",
+      "url": "https://finance.yahoo.com/video/megadeals-defy-selloff-head-toward-204909645.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "# Megadeals Defy Selloff, Head Toward Record\n\nWall Street is taking a big step toward a record year for mergers and acquisitions as some of the world's largest companies defy a tech-induced selloff in global stocks to pursue major takeovers.  Bloomberg's Scarlet Fu reports on \"Bloomberg Deals. \".",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "BOLSY Stock Price | B3 S/A Brasil Bolsa Balcao ADR Stock Quote (U.S.: OTC) | MarketWatch",
+      "url": "https://www.marketwatch.com/investing/stock/bolsy",
+      "fonte": "marketwatch.com",
+      "data": "2026-11-20",
+      "resumo": "registration, and post-trade solutions.  The Technology & Platforms segment engages in providing technology infrastructure, software platforms, and digital solutions that support financial market operations and connectivity.  The company was founded on August 23, 1890 and is headquartered in São Paulo, Brazil.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Brazil shares higher at close of trade; Bovespa up 0.02% By Investing.com",
+      "url": "https://uk.investing.com/news/stock-market-news/brazil-shares-higher-at-close-of-trade-bovespa-up-002-5002461",
+      "fonte": "uk.investing.com",
+      "data": "2026-11-24",
+      "resumo": "Biggest losers included Marcopolo Pref (BVMF:POMO4), which lost 5. 56% or 0. 20 points to trade at 3.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Bovespa Win Futures - Investing.com",
+      "url": "https://www.investing.com/indices/bovespa-win-futures",
+      "fonte": "investing.com",
+      "data": "2026-11-23",
+      "resumo": "CRWD 208. 97 -8. 92% 41.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Chip stocks rally as Anthropic’s record IPO lifts AI investment sentiment",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chip-stocks-rally-anthropic-record-162500547.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-19",
+      "resumo": "Amazon is also a major existing Anthropic shareholder, although it is not among the seven buyers in this private placement. \n\nThe share gains reflect investor interest in companies with exposure to Anthropic's expansion and the broader artificial intelligence infrastructure market.  [.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}
