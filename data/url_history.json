@@ -1,84 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rally-nvidia-earnings-093700969.html?fr=sycsrp_catchall": {
-    "hash": "7cad6609b927bc002d18393f38f7dd96",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19": {
-    "hash": "9040f5054091e3ed66242e29f24719b3",
-    "visto_em": "2026-11-19"
-  },
-  "https://markets.ft.com/data/funds/tearsheet/summary?s=DCRU%3ASES": {
-    "hash": "1b50d708eb74e973ae4388454ea3ab32",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html": {
-    "hash": "750ba2b63016e8b1119ff34b0d127a74",
-    "visto_em": "2026-11-19"
-  },
-  "https://finance.yahoo.com/technology/articles/why-equinix-digital-realty-benefit-130000160.html": {
-    "hash": "d21073b0ee7fe892720f57d5eb9245a0",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611": {
-    "hash": "4135667dd890cc81e8a10a6f707d1417",
-    "visto_em": "2026-11-19"
-  },
-  "https://finance.yahoo.com/real-estate/articles/blackstone-data-center-reit-makes-145243410.html?fr=sycsrp_catchall": {
-    "hash": "79940ebce153710b17ee3d84ae95d735",
-    "visto_em": "2026-11-19"
-  },
-  "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html": {
-    "hash": "eca03a075c74af4fa94b9fbf86d426f4",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe": {
-    "hash": "cc9cfd18604710712518067de4bdb3b3",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-nvidia-q3-results-anthropic-expected-price-ipo": {
-    "hash": "9a76d8f630ff85b0099ff619c10089b4",
-    "visto_em": "2026-11-19"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/wall-street-futures-rise-anthropic-141341565.html": {
-    "hash": "e1e3791547aade1c244b387a38ceec04",
-    "visto_em": "2026-11-19"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stock-market-correction-2-ai-100802143.html": {
-    "hash": "3661cfb76b4e7974de045f4d86712cef",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.cnbc.com/investingclub/2026/11/18/palo-alto-surges-as-all-signs-point-to-cybersecurity-need-in-the-ai-age.html": {
-    "hash": "888702eb0aafc634cd2c8e123684f28e",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.businessinsider.com/stock-market-today-tech-rally-anthropic-stock-trading-2026-11": {
-    "hash": "afa3c564f122d58bc0697b5ec1c2663d",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.cnbc.com/2026/11/19/anthropic-is-ready-for-its-ipo-three-analysts-see-huge-gains-for-the-stock.html": {
-    "hash": "7f227acf720ef1b9bef61fdcdf136b30",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html": {
-    "hash": "789eea41f0957866299e66f13ad03a90",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html": {
-    "hash": "b62abd0b8f23f03e19ed4a22c12c2916",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-ai-doubts-fester-a0979bdb": {
-    "hash": "9414ff6a6915bf614ad96c359c1a1cd2",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.cnbc.com/investingclub/2026/11/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html": {
-    "hash": "af12cf7a0ad730a0ba142ee3e1f9f6ee",
-    "visto_em": "2026-11-19"
-  },
-  "https://www.businessinsider.com/nvidia-nvda-stock-price-jensen-huang-bit-capital-valuation-outlook-2026-11": {
-    "hash": "9f4e98fb8f257755da1542ec74acb041",
-    "visto_em": "2026-11-19"
-  },
   "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html": {
     "hash": "5721bf287c6f00cc4df7d23874bb39a5",
     "visto_em": "2026-11-20"
@@ -590,5 +510,25 @@
   "https://www.wsj.com/finance/investing/nvidias-role-as-an-underwriter-of-the-ai-boom-95375800": {
     "hash": "85679cf4c7beb763ee1e3b40ce5864ba",
     "visto_em": "2026-11-26"
+  },
+  "https://finance.yahoo.com/technology/articles/equinix-eqix-tied-284-27-161635905.html": {
+    "hash": "e7d67fbd918fa5d2f47d8110b13bf12a",
+    "visto_em": "2026-11-27"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-surge-investors-073405748.html": {
+    "hash": "361f4f0c67f18b52d0314ee014930a5c",
+    "visto_em": "2026-11-27"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rise-holiday-003122658.html": {
+    "hash": "c8046208250fbbee67015b2072b59427",
+    "visto_em": "2026-11-27"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/tec-tencent-cloud-form-strategic-000500902.html": {
+    "hash": "e4dce6200c2e3506e3d2468678dfc254",
+    "visto_em": "2026-11-27"
+  },
+  "https://markets.businessinsider.com": {
+    "hash": "dcfe7face33fc47e1935cf1d8ab43d1f",
+    "visto_em": "2026-11-27"
   }
 }

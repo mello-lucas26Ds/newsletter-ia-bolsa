@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-27",
+    "total_noticias": 5,
+    "gerado_em": "2026-11-27T11:43:28.230616"
+  },
+  "noticias": [
+    {
+      "titulo": "Equinix (EQIX) Is Tied To A $284.27 Billion Data Centre Market By 2035",
+      "url": "https://finance.yahoo.com/technology/articles/equinix-eqix-tied-284-27-161635905.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-26",
+      "resumo": "For readers looking to explore more ways to gain exposure to the buildout behind AI and cloud infrastructure, start with 52 AI infrastructure stocks. \n\nEquinix runs a global network of data centres and interconnected digital ecosystems, giving cloud providers and enterprises physical sites where they can place and link their servers close to key users and partners.  With a market cap of $97.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall St futures surge as investors return from holiday",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-surge-investors-073405748.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-27",
+      "resumo": "# Wall St futures surge as investors return from holiday\n\nNov 27 (Reuters) - US stock futures surged on Friday, led by contracts tied to the tech-heavy ‌Nasdaq 100 index, as investors returned from the ‌Thanksgiving holiday with renewed appetite for beaten-down shares. \n\nWall Street's main indexes have ​swung sharply this week after Jensen Huang's return as Nvidia CEO and Anthropic's slide below its IPO price. \n\nAI stocks have seesawed as investors weigh more attractive valuations against ‌persistent concerns about heavy ⁠spending on the technology.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "U.S. stock futures rise in holiday-thinned trade; tech rebound in focus",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rise-holiday-003122658.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-27",
+      "resumo": "# U. S.  stock futures rise in holiday-thinned trade; tech rebound in focus\n\nInvesting.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tec-Do and Tencent Cloud Form Strategic Partnership to Help Businesses Unlock Global Growth with AI",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tec-tencent-cloud-form-strategic-000500902.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-27",
+      "resumo": "# Tec-Do and Tencent Cloud Form Strategic Partnership to Help Businesses Unlock Global Growth with AI\n\nSHENZHEN, China, Nov.  27, 2026 (GLOBE NEWSWIRE) -- Tec-Do, a leading global AI marketing technology company, signed a strategic partnership agreement with Tencent Cloud on November 26.  Under the agreement, the companies will deepen collaboration on large AI models for marketing, computing resources and cloud infrastructure, Model-as-a-Service (MaaS), and the Tencent WorkBuddy AI agent ecosystem.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Markets Insider: Stock Market News, Realtime Quotes and Charts",
+      "url": "https://markets.businessinsider.com",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-11-26",
+      "resumo": "| Company | Event | Date | Info |\n------|\n| Elia System Operator SA-NV | Q3 2026 Earnings | 11/27/2026 | News |\n| DOTTIKON ES HOLDING AG | Q2 2027 Earnings | 11/27/2026 | News |\n| China Gas Holdings LtdShs | Q2 2027 Earnings | 11/27/2026 | News |\n| CPI Europe AG (ex IMMOFINANZ) | Q3 2026 Earnings | 11/27/2026 | News |\n| Tiger Brands LtdShs | Q4 2026 Earnings | 11/27/2026 | News |\n\n| U. S.  Treasuries | Price Change | Yield % | Time |\n------|\n| U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

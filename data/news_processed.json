@@ -1,11 +1,81 @@
 {
   "meta": {
     "versao": "1.0",
-    "data": "2026-11-26",
-    "total_noticias": 117,
-    "gerado_em": "2026-11-26T19:25:49.428640"
+    "data": "2026-11-27",
+    "total_noticias": 103,
+    "gerado_em": "2026-11-27T11:43:28.232576"
   },
   "noticias": [
+    {
+      "titulo": "Equinix (EQIX) Is Tied To A $284.27 Billion Data Centre Market By 2035",
+      "url": "https://finance.yahoo.com/technology/articles/equinix-eqix-tied-284-27-161635905.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-26",
+      "resumo": "For readers looking to explore more ways to gain exposure to the buildout behind AI and cloud infrastructure, start with 52 AI infrastructure stocks. \n\nEquinix runs a global network of data centres and interconnected digital ecosystems, giving cloud providers and enterprises physical sites where they can place and link their servers close to key users and partners.  With a market cap of $97.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Wall St futures surge as investors return from holiday",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-surge-investors-073405748.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-27",
+      "resumo": "# Wall St futures surge as investors return from holiday\n\nNov 27 (Reuters) - US stock futures surged on Friday, led by contracts tied to the tech-heavy ‌Nasdaq 100 index, as investors returned from the ‌Thanksgiving holiday with renewed appetite for beaten-down shares. \n\nWall Street's main indexes have ​swung sharply this week after Jensen Huang's return as Nvidia CEO and Anthropic's slide below its IPO price. \n\nAI stocks have seesawed as investors weigh more attractive valuations against ‌persistent concerns about heavy ⁠spending on the technology.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "U.S. stock futures rise in holiday-thinned trade; tech rebound in focus",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rise-holiday-003122658.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-27",
+      "resumo": "# U. S.  stock futures rise in holiday-thinned trade; tech rebound in focus\n\nInvesting.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Tec-Do and Tencent Cloud Form Strategic Partnership to Help Businesses Unlock Global Growth with AI",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tec-tencent-cloud-form-strategic-000500902.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-27",
+      "resumo": "# Tec-Do and Tencent Cloud Form Strategic Partnership to Help Businesses Unlock Global Growth with AI\n\nSHENZHEN, China, Nov.  27, 2026 (GLOBE NEWSWIRE) -- Tec-Do, a leading global AI marketing technology company, signed a strategic partnership agreement with Tencent Cloud on November 26.  Under the agreement, the companies will deepen collaboration on large AI models for marketing, computing resources and cloud infrastructure, Model-as-a-Service (MaaS), and the Tencent WorkBuddy AI agent ecosystem.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "Markets Insider: Stock Market News, Realtime Quotes and Charts",
+      "url": "https://markets.businessinsider.com",
+      "fonte": "markets.businessinsider.com",
+      "data": "2026-11-26",
+      "resumo": "| Company | Event | Date | Info |\n------|\n| Elia System Operator SA-NV | Q3 2026 Earnings | 11/27/2026 | News |\n| DOTTIKON ES HOLDING AG | Q2 2027 Earnings | 11/27/2026 | News |\n| China Gas Holdings LtdShs | Q2 2027 Earnings | 11/27/2026 | News |\n| CPI Europe AG (ex IMMOFINANZ) | Q3 2026 Earnings | 11/27/2026 | News |\n| Tiger Brands LtdShs | Q4 2026 Earnings | 11/27/2026 | News |\n\n| U. S.  Treasuries | Price Change | Yield % | Time |\n------|\n| U.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
     {
       "titulo": "This May Be the Best Artificial Intelligence (AI) Stock to Buy in December (Hint: It’s Not Micron or Oracle)",
       "url": "https://finance.yahoo.com/technology/ai/articles/may-best-artificial-intelligence-ai-161302415.html",
@@ -208,20 +278,6 @@
       "fonte": "investing.com",
       "data": "2026-11-23",
       "resumo": "CRWD 208. 97 -8. 92% 41.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Chip stocks rally as Anthropic’s record IPO lifts AI investment sentiment",
-      "url": "https://finance.yahoo.com/technology/ai/articles/chip-stocks-rally-anthropic-record-162500547.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-19",
-      "resumo": "Amazon is also a major existing Anthropic shareholder, although it is not among the seven buyers in this private placement. \n\nThe share gains reflect investor interest in companies with exposure to Anthropic's expansion and the broader artificial intelligence infrastructure market.  [.",
       "sentimento": "bullish",
       "tags": [
         "AI",
@@ -629,20 +685,6 @@
       "data": "2026-11-23",
       "resumo": "The worst performers of the session were Hapvida Participacoes e Investimentos (BVMF:HAPV3), which fell 4. 87% or 0. 30 points to trade at 5.",
       "sentimento": "bearish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Ibovespa USD Index Today (BVSPUSD) - Investing.com",
-      "url": "https://www.investing.com/indices/ibovespa-usd",
-      "fonte": "investing.com",
-      "data": "2026-11-19",
-      "resumo": "To evaluate the potential across the various ETF options, users can sign up to InvestingPro, where they can assess ETF prices and other essential metrics. \n\nThe Ibovespa USD live stock price is 28,034. 99.",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
@@ -1099,20 +1141,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "U.S. Stocks Fall as Anthropic IPO Fails to Stop AI Stock Selloff - WSJ",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-ai-bust-continues-despite-anthropic-ipo-5a14e137",
-      "fonte": "wsj.com",
-      "data": "2026-11-19",
-      "resumo": "Call it a $1. 3 trillion anticlimax. \n\nU.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Equinix, Inc. (EQIX) Stock Price, News, Quote & History - Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/EQIX",
       "fonte": "finance.yahoo.com",
@@ -1281,39 +1309,11 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Why Micron, Intel and other AI stocks are getting a lift on Thursday - MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8",
-      "fonte": "marketwatch.com",
-      "data": "2026-11-19",
-      "resumo": "4\n\nMicron’s stock closed down about 2% on Thursday.  Photo: MarketWatch illustration\n\n### Referenced Symbols\n\n NVDA\n\n  -3. 30%\n MU\n\n  -2.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Dan Ives Just Delivered Great News for AI Stocks. Here’s the Part That Matters.",
       "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-just-delivered-great-183902589.html",
       "fonte": "finance.yahoo.com",
       "data": "2026-11-20",
       "resumo": "A perfect storm, indeed.  But here's the thing -- none of those factors mean that customers are slowing their AI spending.  And the demand for computing capacity remains sky-high.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models - CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-19",
-      "resumo": "Alongside earnings, Palo Alto announced a $4. 5 billion deal to buy Applied Compute, a startup that helps train customized open-weight models.  It's one of several recent deals in Arora's aggressive acquisition spree and marks a significant shift beyond cybersecurity.",
       "sentimento": "neutral",
       "tags": [
         "AI",
@@ -1379,20 +1379,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Alibaba Earnings Rebound Sharply as AI Profitability Improves - WSJ",
-      "url": "https://www.wsj.com/business/earnings/alibaba-earnings-rebound-sharply-as-ai-profitability-improves-70fd90d5",
-      "fonte": "wsj.com",
-      "data": "2026-11-19",
-      "resumo": "Alibaba 9988 -5. 51%decrease; down pointing triangle Group recorded a surge in fiscal second-quarter profit as its AI profitability and e-commerce business improved. \n\nThe Hangzhou-based company has doubled down on artificial intelligence as a growth driver, a push that faces a new risk from heightened scrutiny about exports of chips to China.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Anthropic’s blockbuster IPO offered 3 clues about where the AI trade goes next - Business Insider",
       "url": "https://www.businessinsider.com/anthropic-ipo-ai-trade-takeaways-wall-street-investors-stock-market-2026-11",
       "fonte": "businessinsider.com",
@@ -1435,34 +1421,6 @@
       "tokens_usados": 0
     },
     {
-      "titulo": "Jensen Huang Stepped Away From Nvidia. The Stock Has Crashed. Instead of Rushing to Buy the Dip, Here Are 2 AI Stocks Down More Than 15% to Buy Instead.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-stepped-away-nvidia-152702121.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-19",
-      "resumo": "## Taiwan Semi's global dominance\n\nThe key manufacturer of Nvidia's computer chips is Taiwan Semiconductor Manufacturing (NYSE:TSM).  It has the leading market share in building advanced computer chips used in AI, and has factories centered in Taiwan, with new hubs being built in Japan and the United States.  The stock is down 16% over the past three months.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "3 Dirt Cheap Artificial Intelligence (AI) Stocks to Load Up on Before 2027",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-dirt-cheap-artificial-intelligence-193402259.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-19",
-      "resumo": "In the third quarter, Alphabet's total revenue came in at $127. 6 billion, up 25% year over year.  The company's Google Cloud sales were $30.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
       "titulo": "Does the Nestle AI Deal Matter for Microsoft Shareholders?",
       "url": "https://finance.yahoo.com/technology/ai/articles/does-nestle-ai-deal-matter-120730174.html",
       "fonte": "finance.yahoo.com",
@@ -1483,160 +1441,6 @@
       "data": "2026-11-20",
       "resumo": "#### Earnings chart\n\n| Field | Value |\n --- |\n| Current quarter estimate date | 4Q |\n| Current calendar quarter | 4Q2026 |\n| Current quarter estimate year | 2026 |\n| Current fiscal quarter | 4Q2026 |\n| Current period end date | 2026-12-31 |\n| Is earnings date estimate | No |\n\n##### Quarterly\n\n| Date | Actual | Estimate | Fiscal quarter | Calendar quarter | Difference | Surprise pct | Period end date | Reported date |\n ---  ---  ---  --- \n| 4Q2025 | -5. 76 | -6. 24 | 4Q2025 | 4Q2025 | 0.",
       "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "The Path to a Year-End Stock Rally Looks Clearer After Anthropic",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/path-end-stock-rally-looks-072124546.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-19",
-      "resumo": "Yet a blockbuster reception to Anthropic PBC's initial public offering, with shares already rallying in gray market trading, could be a sign of changing sentiment.  Investors are also confident that the economic and earnings outlook remains robust enough to drive stocks back toward record highs.  Oil prices have already dropped 20% in November, while a reassuring outlook from Nvidia Corp.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Ibovespa hoje: acompanhe em tempo real a Bolsa de Valores",
-      "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026",
-      "fonte": "infomoney.com.br",
-      "data": "2026-11-19",
-      "resumo": "na maior estreia já registrada, após ampliar sua oferta, avaliando a fabricante do chatbot Claude em US$1,5 trilhão, em uma operação que desafia as preocupações sobre o setor de IA e as perspectivas de captação de recursos no setor de tecnologia.  (Reuters) [. ] relacionados a despesas de capital e financiamento por dívida, não mudaram — e provavelmente não mudarão tão cedo.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stocks plunge as investors take cover amid growing uncertainty",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-plunge-investors-cover-amid-212511745.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-19",
-      "resumo": "\"The slump has set off a scramble of headline searching as people scour the wires to find the most negative sounding news flash,\" Adam Crisafulli, an analyst at Vital Knowledge, said in a research note.  \"People just don't have much enthusiasm for this market, and rallies tend to bring out sellers instead of chasers (there is still a lot of hesitation when it comes to being long AI-linked names, especially picks-and-shovels, and the defensive stuff is quite extended after the recent rally). \"\n\nFor weeks, investors have fretted about the financial strength of the AI sector amid concerns that the torrent of capital pouring into data centers may not deliver the productivity and profit growth companies are counting on.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "RAIN & Tensor Merger Positions Dual-Tech Growth Platform – Quarterly Update Report",
-      "url": "https://finance.yahoo.com/technology/ai/articles/rain-tensor-merger-positions-dual-165045404.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-19",
-      "resumo": "- Tensor merger marks a strategic transformation, positioning RAIN as a dual-technology growth platform spanning AI infrastructure security and atmospheric water enhancement.  The all-stock agreement assigns negotiated equity values of $180 million to Tensor and $20 million to RAIN, establishing a combined $200 million pre-financing reference valuation.  Tensor's predictive AI-security technology has secured and delivered work under three U.",
-      "sentimento": "neutral",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Wall Street Futures Rise as Anthropic IPO Revives Interest in AI Stocks: Dow Jones, S&P, Nasdaq",
-      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-futures-rise-anthropic-141341565.html",
-      "fonte": "finance.yahoo.com",
-      "data": "2026-11-19",
-      "resumo": "US stock futures pointed to a higher opening on Thursday, with technology shares expected to lead gains following a strong market response to the initial public offering of artificial intelligence developer Anthropic (NASDAQ:ANT). \n\nNasdaq 100 futures surged 1. 9%, indicating renewed buying interest in technology stocks after several sessions of market weakness.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Palo Alto stock surges as all signs point to how important cybersecurity is in the AI age - CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/18/palo-alto-surges-as-all-signs-point-to-cybersecurity-need-in-the-ai-age.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-19",
-      "resumo": "announced that it will acquire Applied Compute for $4. 5 billion, in an all-stock transaction that is expected to close in the fiscal 2027 third quarter.  Applied Compute helps with the post-training and inference phase of open-weight AI models.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stocks surge as investors gear up for Anthropic’s hugely hyped trading debut - Business Insider",
-      "url": "https://www.businessinsider.com/stock-market-today-tech-rally-anthropic-stock-trading-2026-11",
-      "fonte": "businessinsider.com",
-      "data": "2026-11-19",
-      "resumo": "\"In many respects this IPO may mark a turning point in the AI space.  The recent weakness of the infrastructure and semiconductor public companies could be understood as the market moving on from the early cycle of investment in compute at any cost,\" Gavin Ezekowitz, the chief investment officer at BFA Global Investors, wrote in a note on Thursday.  The firm first invested in Anthropic when the Claude parent was valued at $17 billion.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Anthropic is ready for its IPO. Three analysts see huge gains for the stock - CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-is-ready-for-its-ipo-three-analysts-see-huge-gains-for-the-stock.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-19",
-      "resumo": "Anthropic will begin trading in public markets Thursday, and three analysts are already calling for sharp gains ahead.  Wolfe Research initiated coverage of the artificial intelligence stock with an outperform rating.  It also put a $135 target on shares, nearly 63% above the level at which shares were priced.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Stocks making the biggest moves premarket: Palo Alto Networks, Take-Two Interactive, Everpure, Walmart & more - CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
-      "fonte": "cnbc.com",
-      "data": "2026-11-19",
-      "resumo": "Palo Alto Networks popped in early trading Thursday, boosted by quarterly results that beat analyst expectations.  Data storage name Everpure also got a boost after it lifted its fiscal-year outlook. \n\nFollow along as CNBC covers the biggest stock market moves of the day.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "A tech fund manager sold Nvidia before the drama. Here’s why it won’t buy the dip. - Business Insider",
-      "url": "https://www.businessinsider.com/nvidia-nvda-stock-price-jensen-huang-bit-capital-valuation-outlook-2026-11",
-      "fonte": "businessinsider.com",
-      "data": "2026-11-19",
-      "resumo": "Nvidia delivered blockbuster earnings this week, but a technology-focused fund manager that sold the stock before its leadership crisis still will not buy the dip. \n\n\"It has become very political,\" Marcel Oldenkott, a managing director and co-chief investment officer of Berlin-based BIT Capital, told Business Insider. \n\nNvidia's shares fell 3% on Wednesday after the report and are now down over one-third from their October record, as investors weigh concerns about AI spending, China sales, and the company's leadership.",
-      "sentimento": "bullish",
-      "tags": [
-        "AI",
-        "Market"
-      ],
-      "score_relevancia": 5.0,
-      "tokens_usados": 0
-    },
-    {
-      "titulo": "Nasdaq futures jump on hopes for strong Anthropic market debut",
-      "url": "https://www.reuters.com/business/nasdaq-futures-jump-anthropics-record-ipo-pricing-fuels-hopes-strong-debut-2026-11-19",
-      "fonte": "reuters.com",
-      "data": "2026-11-19",
-      "resumo": "Nasdaq futures rose nearly 2% on Thursday after Anthropic priced its IPO above the marketed range, bolstering expectations for a strong debut and reviving sentiment ‌around beaten-down AI stocks..",
-      "sentimento": "neutral",
       "tags": [
         "AI",
         "Market"
