@@ -1,94 +1,154 @@
 # Newsletter IA Bolsa — 2026-11-27
 
-**Gerado em:** 27/11/2026 11:43
-**Total:** 5 noticias
+**Gerado em:** 27/11/2026 19:21
+**Total:** 9 noticias
 **Fonte dos dados:** Tavily API + Groq AI
 
 ---
 
-## 1. Equinix (EQIX) Is Tied To A $284.27 Billion Data Centre Market By 2035
+## 1. Digital Realty Trust, Inc. (DLR) Stock Price, Quote, News & Analysis | Seeking Alpha
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
+**Fonte:** seekingalpha.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-For readers looking to explore more ways to gain exposure to the buildout behind AI and cloud infrastructure, start with 52 AI infrastructure stocks. 
+Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation and interconnection solutions.  Platform DIGITAL, the company’s global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.
 
-Equinix runs a global network of data centres and interconnected digital ecosystems, giving cloud providers and enterprises physical sites where they can place and link their servers close to key users and partners.  With a market cap of $97.
-
-[Ler noticia completa](https://finance.yahoo.com/technology/articles/equinix-eqix-tied-284-27-161635905.html)
+[Ler noticia completa](https://seekingalpha.com/symbol/DLR)
 
 ---
 
-## 2. Wall St futures surge as investors return from holiday
+## 2. CrowdStrike: The $44B Zscaler Merger Unlocks An Agentic AI Powerhouse (NASDAQ:CRWD) | Seeking Alpha
 
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
+**Fonte:** seekingalpha.com  
+**Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-# Wall St futures surge as investors return from holiday
+Conceptual image of acrylic glass cubes
 
-Nov 27 (Reuters) - US stock futures surged on Friday, led by contracts tied to the tech-heavy ‌Nasdaq 100 index, as investors returned from the ‌Thanksgiving holiday with renewed appetite for beaten-down shares. 
+Richard Drury/DigitalVision via Getty Images
 
-Wall Street's main indexes have ​swung sharply this week after Jensen Huang's return as Nvidia CEO and Anthropic's slide below its IPO price. 
+CrowdStrike (CRWD) announced a transformative merger with cybersecurity firm Zscaler (ZS) this week in order to accelerate its growth in the realm of agentic AI and integrate Zscaler's massive network.
 
-AI stocks have seesawed as investors weigh more attractive valuations against ‌persistent concerns about heavy ⁠spending on the technology.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-surge-investors-073405748.html)
+[Ler noticia completa](https://seekingalpha.com/article/4972572-crowdstrike-the-44b-zscaler-merger-unlocks-an-agentic-ai-powerhouse?source=generic_rss)
 
 ---
 
-## 3. U.S. stock futures rise in holiday-thinned trade; tech rebound in focus
-
-**Fonte:** finance.yahoo.com  
-**Sentimento:** 🟢 BULLISH  
-**Relevancia:** 5.0/10  
-**Tags:** AI, Market
-
-# U. S.  stock futures rise in holiday-thinned trade; tech rebound in focus
-
-Investing.
-
-[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rise-holiday-003122658.html)
-
----
-
-## 4. Tec-Do and Tencent Cloud Form Strategic Partnership to Help Businesses Unlock Global Growth with AI
+## 3. Investors fleeing AI stocks may own more of them than they think: Chart of the Day
 
 **Fonte:** finance.yahoo.com  
 **Sentimento:** ⚪ NEUTRAL  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-# Tec-Do and Tencent Cloud Form Strategic Partnership to Help Businesses Unlock Global Growth with AI
+# Investors fleeing AI stocks may own more of them than they think: Chart of the Day
 
-SHENZHEN, China, Nov.  27, 2026 (GLOBE NEWSWIRE) -- Tec-Do, a leading global AI marketing technology company, signed a strategic partnership agreement with Tencent Cloud on November 26.  Under the agreement, the companies will deepen collaboration on large AI models for marketing, computing resources and cloud infrastructure, Model-as-a-Service (MaaS), and the Tencent WorkBuddy AI agent ecosystem.
+Investors have spent weeks running from AI stocks.  Many of the funds they're running to are loaded with them. 
 
-[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/tec-tencent-cloud-form-strategic-000500902.html)
+The Nasdaq-100 (^NDX) has tumbled since its Oct.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/article/investors-fleeing-ai-stocks-may-own-more-of-them-than-they-think-chart-of-the-day-110000628.html)
 
 ---
 
-## 5. Markets Insider: Stock Market News, Realtime Quotes and Charts
+## 4. Why Digital Realty Trust Stock Moved Over 3% Higher on Monday
 
-**Fonte:** markets.businessinsider.com  
+**Fonte:** finance.yahoo.com  
 **Sentimento:** 🟢 BULLISH  
 **Relevancia:** 5.0/10  
 **Tags:** AI, Market
 
-| Company | Event | Date | Info |
-------|
-| Elia System Operator SA-NV | Q3 2026 Earnings | 11/27/2026 | News |
-| DOTTIKON ES HOLDING AG | Q2 2027 Earnings | 11/27/2026 | News |
-| China Gas Holdings LtdShs | Q2 2027 Earnings | 11/27/2026 | News |
-| CPI Europe AG (ex IMMOFINANZ) | Q3 2026 Earnings | 11/27/2026 | News |
-| Tiger Brands LtdShs | Q4 2026 Earnings | 11/27/2026 | News |
+# Why Digital Realty Trust Stock Moved Over 3% Higher on Monday
 
-| U. S.  Treasuries | Price Change | Yield % | Time |
-------|
-| U.
+Investors were more than willing to put their trust in Digital Realty Trust (NYSE:DLR) stock at the start of the trading week.  Shares of the data center real estate investment trust (REIT) ended Monday more than 3% higher, on the back of developments with one of the company's most important collaborators. 
 
-[Ler noticia completa](https://markets.businessinsider.com)
+## Guess who's back.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/stocks/articles/why-digital-realty-trust-stock-230649330.html)
+
+---
+
+## 5. Nasdaq 100 on pace to enter bear market as AI trade melts down: AlphaCheck
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🔴 BEARISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+# Nasdaq 100 on pace to enter bear market as AI trade melts down: AlphaCheck
+
+Good morning.  Stocks extended declines on Wednesday as the chip sector sold off and the Nasdaq 100 (^NDX) sank more than 4%.  The index was on track to enter a bear market, down more than 20% from its peak.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/article/ai-trade-melts-down-as-tarrif-worries-fed-hike-odds-spook-market-alphacheck-150907700.html)
+
+---
+
+## 6. Nvidia Chipmaker TSMC Sends $22.6 Billion AI Signal
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+However, the project remains subject to regulatory approvals and TSMC's final investment decision, while the land is under contract but has not yet been purchased. 
+
+Wedbush analyst Matt Bryson believes the development carries broader implications for the semiconductor industry. 
+
+TSMC manufactures advanced chips for technology giants including Nvidia, Apple (AAPL), and Advanced Micro Devices (NASDAQ:AMD), giving it unusually strong visibility into customer demand.
+
+[Ler noticia completa](https://finance.yahoo.com/technology/ai/articles/nvidia-chipmaker-tsmc-sends-22-162725540.html)
+
+---
+
+## 7. +65%, +62%, +49%: AI picks across the Americas, now 60% off for Black Friday By Investing.com
+
+**Fonte:** investing.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Brazil: November’s standout market
+
+Brazil has been the strongest market in the Americas this month, and the AI strategies there have moved ahead of it. 
+
+- Solid Brazilian Companies is up 10. 73% in November, about twice the Bovespa’s 5.
+
+[Ler noticia completa](https://www.investing.com/news/stock-market-news/65-62-49-ai-picks-across-the-americas-now-60-off-for-black-friday-5053044)
+
+---
+
+## 8. Wall Street Surges Toward M&A Record as Megadeals Defy Selloff - Bloomberg
+
+**Fonte:** bloomberg.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+Deals
+
+# Wall Street Surges Toward M&A Record as Megadeals Defy Selloff
+
+Wall Street is taking a big step toward a record year for mergers and acquisitions as some of the world’s largest companies defy a tech-induced selloff in global stocks to pursue major takeovers. 
+
+CrowdStrike Holdings Inc.  on Monday confirmed Bloomberg News reporting that it will acquire cybersecurity provider Zscaler Inc.
+
+[Ler noticia completa](https://www.bloomberg.com/news/articles/2026-11-23/wall-street-surges-toward-m-a-record-as-megadeals-defy-selloff)
+
+---
+
+## 9. Chip stocks lead a Black Friday rally, but Nvidia misses out: AlphaCheck
+
+**Fonte:** finance.yahoo.com  
+**Sentimento:** 🟢 BULLISH  
+**Relevancia:** 5.0/10  
+**Tags:** AI, Market
+
+# Chip stocks lead a Black Friday rally, but Nvidia misses out: AlphaCheck
+
+Good morning.  US stocks opened higher to kick off a low-volume trading day as investors rotated back into tech stocks.  The stock market will close early at 1 p.
+
+[Ler noticia completa](https://finance.yahoo.com/markets/article/chip-stocks-lead-a-black-friday-rally-but-nvidia-misses-out-alphacheck-145727185.html)
 
 ---

@@ -530,5 +530,41 @@
   "https://markets.businessinsider.com": {
     "hash": "dcfe7face33fc47e1935cf1d8ab43d1f",
     "visto_em": "2026-11-27"
+  },
+  "https://seekingalpha.com/symbol/DLR": {
+    "hash": "3d530ada41042822098d550e931200d1",
+    "visto_em": "2026-11-27"
+  },
+  "https://seekingalpha.com/article/4972572-crowdstrike-the-44b-zscaler-merger-unlocks-an-agentic-ai-powerhouse?source=generic_rss": {
+    "hash": "f347fb00e092ede3538074a100976b0b",
+    "visto_em": "2026-11-27"
+  },
+  "https://finance.yahoo.com/markets/article/investors-fleeing-ai-stocks-may-own-more-of-them-than-they-think-chart-of-the-day-110000628.html": {
+    "hash": "a4efbc660aa4fc2bb93140843103ea8d",
+    "visto_em": "2026-11-27"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/why-digital-realty-trust-stock-230649330.html": {
+    "hash": "cfc929bcf8199d9cdfba547cd4401b4a",
+    "visto_em": "2026-11-27"
+  },
+  "https://finance.yahoo.com/markets/article/ai-trade-melts-down-as-tarrif-worries-fed-hike-odds-spook-market-alphacheck-150907700.html": {
+    "hash": "8a127d8e2984b587cc7818f3fbbf6e10",
+    "visto_em": "2026-11-27"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/nvidia-chipmaker-tsmc-sends-22-162725540.html": {
+    "hash": "534f1ecf5b88c9d9fb17990666715b21",
+    "visto_em": "2026-11-27"
+  },
+  "https://www.investing.com/news/stock-market-news/65-62-49-ai-picks-across-the-americas-now-60-off-for-black-friday-5053044": {
+    "hash": "7b2d002a0e837f63821844dd498d8a12",
+    "visto_em": "2026-11-27"
+  },
+  "https://www.bloomberg.com/news/articles/2026-11-23/wall-street-surges-toward-m-a-record-as-megadeals-defy-selloff": {
+    "hash": "7c4f8882f59b7ecd5de54f558f6bcfe4",
+    "visto_em": "2026-11-27"
+  },
+  "https://finance.yahoo.com/markets/article/chip-stocks-lead-a-black-friday-rally-but-nvidia-misses-out-alphacheck-145727185.html": {
+    "hash": "4f822aef8597788772fc9569b7ea2b9f",
+    "visto_em": "2026-11-27"
   }
 }
