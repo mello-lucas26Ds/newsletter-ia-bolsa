@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "versao": "1.0",
+    "data": "2026-11-28",
+    "total_noticias": 4,
+    "gerado_em": "2026-11-28T11:18:48.202553"
+  },
+  "noticias": [
+    {
+      "titulo": "Digital Realty Trust, Inc. (DLR) Stock Price, News, Quote & History - Yahoo Finance",
+      "url": "https://ca.finance.yahoo.com/quote/DLR",
+      "fonte": "ca.finance.yahoo.com",
+      "data": "2026-11-24",
+      "resumo": "Digital Realty Trust, Inc.  brings companies and data together by delivering the full spectrum of data center, colocation and interconnection solutions.  Platform DIGITAL, the company's global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The First AI Stock I Plan to Buy in 2027",
+      "url": "https://finance.yahoo.com/technology/ai/articles/first-ai-stock-plan-buy-052002364.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-28",
+      "resumo": "A negative answer to any one of these questions could significantly lower Nvidia's valuation.  But at 17 times earnings, most of the uncertainty is arguably already priced in.  Nvidia -- the world's biggest and highest-quality chip producer that operates in a multi-year, perhaps even a multi-decade growth window -- now trades at less than 10 times forward earnings.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "The $2 trillion chip rally is getting wiped out — here's what history says comes next",
+      "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
+      "fonte": "finance.yahoo.com",
+      "data": "2026-11-25",
+      "resumo": "# The $2 trillion chip rally is getting wiped out — here's what history says comes next\n\nThe biggest one-day rescue in stock market history is coming undone.  Jensen Huang returned to Nvidia, and Wall Street's AI doubts are back with a vengeance. \n\nMonday was supposed to be the start of the comeback.",
+      "sentimento": "bullish",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    },
+    {
+      "titulo": "TSMC: Starting To Look Like A Buy Again (Rating Upgrade) (NYSE:TSM) | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4972639-tsmc-starting-to-look-like-a-buy-again-upgrade",
+      "fonte": "seekingalpha.com",
+      "data": "2026-11-27",
+      "resumo": "TSMC North America headquarters in San Jose, California, USA\n\nTSMC North America headquarters in San Jose, California, USA\n\nJHVEPhoto/iStock Editorial via Getty Images\n\nTaiwan Semiconductor Manufacturing Company Limited, aka TSMC (TSM), is arguably the strongest semiconductor (computer chip) company on the planet.  It enjoys a 75% share of the pure-play semiconductor.",
+      "sentimento": "neutral",
+      "tags": [
+        "AI",
+        "Market"
+      ],
+      "score_relevancia": 5.0,
+      "tokens_usados": 0
+    }
+  ]
+}

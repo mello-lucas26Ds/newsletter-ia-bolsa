@@ -1,84 +1,4 @@
 {
-  "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html": {
-    "hash": "5721bf287c6f00cc4df7d23874bb39a5",
-    "visto_em": "2026-11-20"
-  },
-  "https://www.investing.com/news/transcripts/coursera-at-rbc-conference-helix-merger-gains-and-ai-bets-93CH-5033258": {
-    "hash": "3e71c694059a19a30bff2fdcdd107d77",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/wall-streets-ai-rally-faces-214232715.html": {
-    "hash": "ca8bb3facba10a3fe7fd76e0d075a2d1",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/rain-tensor-merger-positions-dual-165045404.html": {
-    "hash": "f540f3ce0b672630515376477ce52f34",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/nvidias-leadership-woes-buy-tsmc-190000738.html": {
-    "hash": "a93c6e1f7ded58220e7ede0a8ee4916f",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/real-estate/articles/amazon-sold-5-billion-data-063333133.html": {
-    "hash": "dcb1924006b3168644f7f16b89fb2fec",
-    "visto_em": "2026-11-20"
-  },
-  "https://markets.businessinsider.com/news/stocks/amd-completes-acquisition-of-world-labs-1036768971": {
-    "hash": "aececd17300eba7faec65ea28721d34f",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-booked-record-nt-004110791.html": {
-    "hash": "93f6a7150b0a4608ad356d9db4b4012d",
-    "visto_em": "2026-11-20"
-  },
-  "https://ca.finance.yahoo.com/quote/DLR": {
-    "hash": "16028d2485d4cd5e55f9843baf8d4882",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-keep-making-headlines-155805965.html": {
-    "hash": "b5ee699f0e66c7a7dcb83b27f4c9b339",
-    "visto_em": "2026-11-20"
-  },
-  "https://markets.businessinsider.com/news/stocks/worldwide-nft-inc-acquires-artificial-intelligence-platform-from-discourse-analytics-inc-to-expand-software-capabilities-1036768812": {
-    "hash": "b45b70ae7848c081e447f82d723b8433",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-stepped-away-nvidia-152702121.html": {
-    "hash": "47efd6ea3611f0a15cdf299609766ec4",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/3-dirt-cheap-artificial-intelligence-193402259.html": {
-    "hash": "4fbae247695f6bfcb8b864bbff124718",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/real-estate/articles/blackstone-reit-buy-amazon-data-115357460.html": {
-    "hash": "6339a9f8e9dd44f9f5379d3e6c78898b",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/technology/ai/articles/does-nestle-ai-deal-matter-120730174.html": {
-    "hash": "30dd4da2b81de61b3eea05b93334abe4",
-    "visto_em": "2026-11-20"
-  },
-  "https://www.investing.com/news/company-news/worldwide-nft-acquires-ai-technology-for-4m-shares-93CH-5029906": {
-    "hash": "0b930a2753e55e7cff0b8bf38d3b00d4",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/quote/ARAI": {
-    "hash": "d73936d8e9ec4f8e6c120ed349c25642",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/path-end-stock-rally-looks-072124546.html": {
-    "hash": "4e4c4cfd21c1fd802beabadc72153f27",
-    "visto_em": "2026-11-20"
-  },
-  "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026": {
-    "hash": "908ec0a9a660bcb01945f665fc2a7b11",
-    "visto_em": "2026-11-20"
-  },
-  "https://finance.yahoo.com/markets/stocks/articles/stocks-plunge-investors-cover-amid-212511745.html": {
-    "hash": "37b1b5dd82fa01ed69cdd3ec4dced6e8",
-    "visto_em": "2026-11-20"
-  },
   "https://finance.yahoo.com/technology/ai/articles/dan-ives-just-delivered-great-183902589.html": {
     "hash": "f6b605d318cd5b01fe59879f47ad0915",
     "visto_em": "2026-11-21"
@@ -566,5 +486,21 @@
   "https://finance.yahoo.com/markets/article/chip-stocks-lead-a-black-friday-rally-but-nvidia-misses-out-alphacheck-145727185.html": {
     "hash": "4f822aef8597788772fc9569b7ea2b9f",
     "visto_em": "2026-11-27"
+  },
+  "https://ca.finance.yahoo.com/quote/DLR": {
+    "hash": "16028d2485d4cd5e55f9843baf8d4882",
+    "visto_em": "2026-11-28"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/first-ai-stock-plan-buy-052002364.html": {
+    "hash": "277e353224b8a2553d981f1467be77ff",
+    "visto_em": "2026-11-28"
+  },
+  "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html": {
+    "hash": "c5836232eff4624a93ed1072626984cc",
+    "visto_em": "2026-11-28"
+  },
+  "https://seekingalpha.com/article/4972639-tsmc-starting-to-look-like-a-buy-again-upgrade": {
+    "hash": "f805293c239825d4e014058a730d67c7",
+    "visto_em": "2026-11-28"
   }
 }
